@@ -1,0 +1,1344 @@
+﻿PokerStars Hand #195842958356:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:32:46 EET [2019/01/16 18:32:46 ET]
+Table 'Saiph III' 6-max Seat #4 is the button
+Seat 1: TheNumberPi ($608.70 in chips) 
+Seat 2: gaiggibeliin ($200 in chips) 
+Seat 3: NitNytoski ($229.45 in chips) 
+Seat 4: wnbgambler ($249.75 in chips) 
+Seat 5: Egption ($199.43 in chips) 
+TheNumberPi: posts the ante $1
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+wnbgambler: posts the ante $1
+Egption: posts the ante $1
+wnbgambler: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ah Td]
+Egption: folds 
+TheNumberPi: folds 
+gaiggibeliin: raises $7 to $8
+NitNytoski: calls $8
+TheNumberPi leaves the table
+wnbgambler: calls $7
+*** FLOP *** [6c Jh Th]
+gaiggibeliin: checks 
+NitNytoski: bets $20.94
+wnbgambler: folds 
+gaiggibeliin: folds 
+Uncalled bet ($20.94) returned to NitNytoski
+NitNytoski collected $27.55 from pot
+NitNytoski: doesn't show hand 
+*** SUMMARY ***
+Total pot $29 | Rake $1.45 
+Board [6c Jh Th]
+Seat 1: TheNumberPi folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded on the Flop
+Seat 3: NitNytoski collected ($27.55)
+Seat 4: wnbgambler (button blind) folded on the Flop
+Seat 5: Egption folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #195842979045:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:33:19 EET [2019/01/16 18:33:19 ET]
+Table 'Saiph III' 6-max Seat #5 is the button
+Seat 2: gaiggibeliin ($191 in chips) 
+Seat 3: NitNytoski ($248 in chips) 
+Seat 4: wnbgambler ($240.75 in chips) 
+Seat 5: Egption ($198.43 in chips) 
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+wnbgambler: posts the ante $1
+Egption: posts the ante $1
+Egption: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qs Ad]
+gaiggibeliin: raises $6 to $7
+NitNytoski: folds 
+wnbgambler: folds 
+Egption: calls $6
+*** FLOP *** [Kh Ts 8d]
+gaiggibeliin: checks 
+Egption: checks 
+*** TURN *** [Kh Ts 8d] [Jc]
+gaiggibeliin: bets $11.46
+Egption: calls $11.46
+*** RIVER *** [Kh Ts 8d Jc] [Qc]
+gaiggibeliin: checks 
+Egption: checks 
+*** SHOW DOWN ***
+gaiggibeliin: shows [Qs Ad] (a straight, Ten to Ace)
+Egption: mucks hand 
+gaiggibeliin collected $39.67 from pot
+*** SUMMARY ***
+Total pot $40.92 | Rake $1.25 
+Board [Kh Ts 8d Jc Qc]
+Seat 2: gaiggibeliin showed [Qs Ad] and won ($39.67) with a straight, Ten to Ace
+Seat 3: NitNytoski folded before Flop (didn't bet)
+Seat 4: wnbgambler folded before Flop (didn't bet)
+Seat 5: Egption (button blind) mucked [9d 7d]
+
+
+
+PokerStars Hand #195843022676:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:34:28 EET [2019/01/16 18:34:28 ET]
+Table 'Saiph III' 6-max Seat #2 is the button
+Seat 2: gaiggibeliin ($211.21 in chips) 
+Seat 3: NitNytoski ($247 in chips) 
+Seat 4: wnbgambler ($239.75 in chips) 
+Seat 5: Egption ($178.97 in chips) 
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+wnbgambler: posts the ante $1
+Egption: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8h 6s]
+NitNytoski: folds 
+wnbgambler: raises $4 to $5
+Egption: raises $20 to $25
+gaiggibeliin: folds 
+wnbgambler: raises $213.75 to $238.75 and is all-in
+Egption: folds 
+Uncalled bet ($213.75) returned to wnbgambler
+wnbgambler collected $55 from pot
+wnbgambler: doesn't show hand 
+*** SUMMARY ***
+Total pot $55 | Rake $0 
+Seat 2: gaiggibeliin (button blind) folded before Flop
+Seat 3: NitNytoski folded before Flop (didn't bet)
+Seat 4: wnbgambler collected ($55)
+Seat 5: Egption folded before Flop
+
+
+
+PokerStars Hand #195843056826:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:35:22 EET [2019/01/16 18:35:22 ET]
+Table 'Saiph III' 6-max Seat #3 is the button
+Seat 2: gaiggibeliin ($209.21 in chips) 
+Seat 3: NitNytoski ($246 in chips) 
+Seat 4: wnbgambler ($268.75 in chips) 
+Seat 5: Egption ($152.97 in chips) 
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+wnbgambler: posts the ante $1
+Egption: posts the ante $1
+NitNytoski: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jh Td]
+M1TR4ND1R joins the table at seat #6 
+wnbgambler: folds 
+Egption: raises $9 to $10
+gaiggibeliin: folds 
+NitNytoski: calls $9
+*** FLOP *** [6s Qh Ah]
+Egption: checks 
+NitNytoski: checks 
+*** TURN *** [6s Qh Ah] [7s]
+Egption: checks 
+NitNytoski: bets $15.05
+Egption: raises $126.92 to $141.97 and is all-in
+NitNytoski: folds 
+Uncalled bet ($126.92) returned to Egption
+Egption collected $52.85 from pot
+*** SUMMARY ***
+Total pot $54.10 | Rake $1.25 
+Board [6s Qh Ah 7s]
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: NitNytoski (button blind) folded on the Turn
+Seat 4: wnbgambler folded before Flop (didn't bet)
+Seat 5: Egption collected ($52.85)
+
+
+
+PokerStars Hand #195843090768:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:36:16 EET [2019/01/16 18:36:16 ET]
+Table 'Saiph III' 6-max Seat #4 is the button
+Seat 2: gaiggibeliin ($208.21 in chips) 
+Seat 3: NitNytoski ($219.95 in chips) 
+Seat 4: wnbgambler ($267.75 in chips) 
+Seat 5: Egption ($179.77 in chips) 
+Seat 6: M1TR4ND1R ($156 in chips) 
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+wnbgambler: posts the ante $1
+Egption: posts the ante $1
+M1TR4ND1R: posts the ante $1
+wnbgambler: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kh Qc]
+Egption: folds 
+M1TR4ND1R: raises $5 to $6
+gaiggibeliin: calls $6
+NitNytoski: calls $6
+wnbgambler: calls $5
+*** FLOP *** [Th Td 8s]
+M1TR4ND1R: checks 
+gaiggibeliin: checks 
+NitNytoski: checks 
+wnbgambler: bets $13.78
+M1TR4ND1R: folds 
+gaiggibeliin: folds 
+NitNytoski: folds 
+Uncalled bet ($13.78) returned to wnbgambler
+wnbgambler collected $27.55 from pot
+wnbgambler: doesn't show hand 
+*** SUMMARY ***
+Total pot $29 | Rake $1.45 
+Board [Th Td 8s]
+Seat 2: gaiggibeliin folded on the Flop
+Seat 3: NitNytoski folded on the Flop
+Seat 4: wnbgambler (button blind) collected ($27.55)
+Seat 5: Egption folded before Flop (didn't bet)
+Seat 6: M1TR4ND1R folded on the Flop
+
+
+
+PokerStars Hand #195843122407:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:37:07 EET [2019/01/16 18:37:07 ET]
+Table 'Saiph III' 6-max Seat #5 is the button
+Seat 2: gaiggibeliin ($201.21 in chips) 
+Seat 3: NitNytoski ($212.95 in chips) 
+Seat 4: wnbgambler ($288.30 in chips) 
+Seat 5: Egption ($178.77 in chips) 
+Seat 6: M1TR4ND1R ($156 in chips) 
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+wnbgambler: posts the ante $1
+Egption: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Egption: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jd Kc]
+M1TR4ND1R: folds 
+gaiggibeliin: raises $7 to $8
+NitNytoski: folds 
+wnbgambler: calls $8
+Egption: calls $7
+*** FLOP *** [Jc 9d Ah]
+gaiggibeliin: checks 
+wnbgambler: checks 
+Egption: checks 
+*** TURN *** [Jc 9d Ah] [Tc]
+gaiggibeliin: checks 
+wnbgambler: checks 
+Egption: bets $30
+gaiggibeliin: folds 
+wnbgambler: calls $30
+*** RIVER *** [Jc 9d Ah Tc] [Qc]
+wnbgambler: checks 
+Egption: bets $139.77 and is all-in
+wnbgambler: folds 
+Uncalled bet ($139.77) returned to Egption
+Egption collected $86.25 from pot
+*** SUMMARY ***
+Total pot $89 | Rake $2.75 
+Board [Jc 9d Ah Tc Qc]
+Seat 2: gaiggibeliin folded on the Turn
+Seat 3: NitNytoski folded before Flop (didn't bet)
+Seat 4: wnbgambler folded on the River
+Seat 5: Egption (button blind) collected ($86.25)
+Seat 6: M1TR4ND1R folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #195843160009:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:38:08 EET [2019/01/16 18:38:08 ET]
+Table 'Saiph III' 6-max Seat #6 is the button
+Seat 2: gaiggibeliin ($192.21 in chips) 
+Seat 3: NitNytoski ($211.95 in chips) 
+Seat 4: wnbgambler ($249.30 in chips) 
+Seat 5: Egption ($226.02 in chips) 
+Seat 6: M1TR4ND1R ($156 in chips) 
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+wnbgambler: posts the ante $1
+Egption: posts the ante $1
+M1TR4ND1R: posts the ante $1
+M1TR4ND1R: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [As Jh]
+gaiggibeliin: raises $7 to $8
+NitNytoski: calls $8
+wnbgambler: folds 
+Egption: folds 
+M1TR4ND1R: calls $7
+*** FLOP *** [Td Kh Ts]
+gaiggibeliin: checks 
+NitNytoski: bets $13.78
+M1TR4ND1R: folds 
+gaiggibeliin: folds 
+Uncalled bet ($13.78) returned to NitNytoski
+NitNytoski collected $27.55 from pot
+NitNytoski: doesn't show hand 
+*** SUMMARY ***
+Total pot $29 | Rake $1.45 
+Board [Td Kh Ts]
+Seat 2: gaiggibeliin folded on the Flop
+Seat 3: NitNytoski collected ($27.55)
+Seat 4: wnbgambler folded before Flop (didn't bet)
+Seat 5: Egption folded before Flop (didn't bet)
+Seat 6: M1TR4ND1R (button blind) folded on the Flop
+
+
+
+PokerStars Hand #195843182154:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:38:44 EET [2019/01/16 18:38:44 ET]
+Table 'Saiph III' 6-max Seat #2 is the button
+Seat 2: gaiggibeliin ($183.21 in chips) 
+Seat 3: NitNytoski ($230.50 in chips) 
+Seat 4: wnbgambler ($248.30 in chips) 
+Seat 5: Egption ($225.02 in chips) 
+Seat 6: M1TR4ND1R ($156 in chips) 
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+wnbgambler: posts the ante $1
+Egption: posts the ante $1
+M1TR4ND1R: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kh Jh]
+NitNytoski: folds 
+wnbgambler: raises $5 to $6
+Egption: folds 
+M1TR4ND1R: calls $6
+gaiggibeliin: calls $5
+*** FLOP *** [6h 6d Ad]
+wnbgambler: checks 
+M1TR4ND1R: checks 
+gaiggibeliin: checks 
+*** TURN *** [6h 6d Ad] [Kd]
+wnbgambler: checks 
+M1TR4ND1R: checks 
+gaiggibeliin: checks 
+*** RIVER *** [6h 6d Ad Kd] [Jd]
+wnbgambler: checks 
+M1TR4ND1R: bets $16.17
+gaiggibeliin: folds 
+wnbgambler: folds 
+Uncalled bet ($16.17) returned to M1TR4ND1R
+M1TR4ND1R collected $21.85 from pot
+M1TR4ND1R: doesn't show hand 
+*** SUMMARY ***
+Total pot $23 | Rake $1.15 
+Board [6h 6d Ad Kd Jd]
+Seat 2: gaiggibeliin (button blind) folded on the River
+Seat 3: NitNytoski folded before Flop (didn't bet)
+Seat 4: wnbgambler folded on the River
+Seat 5: Egption folded before Flop (didn't bet)
+Seat 6: M1TR4ND1R collected ($21.85)
+
+
+
+PokerStars Hand #195843225911:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:39:55 EET [2019/01/16 18:39:55 ET]
+Table 'Saiph III' 6-max Seat #3 is the button
+Seat 2: gaiggibeliin ($176.21 in chips) 
+Seat 3: NitNytoski ($229.50 in chips) 
+Seat 4: wnbgambler ($241.30 in chips) 
+Seat 5: Egption ($224.02 in chips) 
+Seat 6: M1TR4ND1R ($170.85 in chips) 
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+wnbgambler: posts the ante $1
+Egption: posts the ante $1
+M1TR4ND1R: posts the ante $1
+NitNytoski: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7h 8d]
+wnbgambler: folds 
+Egption: calls $1
+M1TR4ND1R: raises $8 to $9
+gaiggibeliin: folds 
+NitNytoski: folds 
+Egption: folds 
+Uncalled bet ($8) returned to M1TR4ND1R
+M1TR4ND1R collected $8 from pot
+M1TR4ND1R: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0 
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: NitNytoski (button blind) folded before Flop
+Seat 4: wnbgambler folded before Flop (didn't bet)
+Seat 5: Egption folded before Flop
+Seat 6: M1TR4ND1R collected ($8)
+
+
+
+PokerStars Hand #195843239571:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:40:17 EET [2019/01/16 18:40:17 ET]
+Table 'Saiph III' 6-max Seat #4 is the button
+Seat 2: gaiggibeliin ($175.21 in chips) 
+Seat 3: NitNytoski ($227.50 in chips) 
+Seat 4: wnbgambler ($240.30 in chips) 
+Seat 5: Egption ($222.02 in chips) 
+Seat 6: M1TR4ND1R ($176.85 in chips) 
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+wnbgambler: posts the ante $1
+Egption: posts the ante $1
+M1TR4ND1R: posts the ante $1
+wnbgambler: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qc 8d]
+Egption: calls $1
+M1TR4ND1R: raises $8 to $9
+gaiggibeliin: folds 
+NitNytoski: calls $9
+wnbgambler: folds 
+Egption: raises $212.02 to $221.02 and is all-in
+M1TR4ND1R: folds 
+NitNytoski: folds 
+Uncalled bet ($212.02) returned to Egption
+wnbgambler leaves the table
+Egption collected $33 from pot
+*** SUMMARY ***
+Total pot $33 | Rake $0 
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: NitNytoski folded before Flop
+Seat 4: wnbgambler (button blind) folded before Flop
+Seat 5: Egption collected ($33)
+Seat 6: M1TR4ND1R folded before Flop
+
+
+
+PokerStars Hand #195843267005:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:41:02 EET [2019/01/16 18:41:02 ET]
+Table 'Saiph III' 6-max Seat #5 is the button
+Seat 2: gaiggibeliin ($174.21 in chips) 
+Seat 3: NitNytoski ($217.50 in chips) 
+Seat 5: Egption ($245.02 in chips) 
+Seat 6: M1TR4ND1R ($166.85 in chips) 
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+Egption: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Egption: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9c Qc]
+M1TR4ND1R: raises $5 to $6
+gaiggibeliin: folds 
+NitNytoski: calls $6
+Egption: calls $5
+*** FLOP *** [Qs 6h Ts]
+M1TR4ND1R: bets $15.47
+NitNytoski: folds 
+Egption: folds 
+Uncalled bet ($15.47) returned to M1TR4ND1R
+M1TR4ND1R collected $20.90 from pot
+M1TR4ND1R: doesn't show hand 
+*** SUMMARY ***
+Total pot $22 | Rake $1.10 
+Board [Qs 6h Ts]
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: NitNytoski folded on the Flop
+Seat 5: Egption (button blind) folded on the Flop
+Seat 6: M1TR4ND1R collected ($20.90)
+
+
+
+PokerStars Hand #195843281952:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:41:26 EET [2019/01/16 18:41:26 ET]
+Table 'Saiph III' 6-max Seat #6 is the button
+Seat 2: gaiggibeliin ($173.21 in chips) 
+Seat 3: NitNytoski ($210.50 in chips) 
+Seat 5: Egption ($238.02 in chips) 
+Seat 6: M1TR4ND1R ($180.75 in chips) 
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+Egption: posts the ante $1
+M1TR4ND1R: posts the ante $1
+M1TR4ND1R: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7h Kh]
+gaiggibeliin: folds 
+NitNytoski: folds 
+Egption: folds 
+Uncalled bet ($1) returned to M1TR4ND1R
+M1TR4ND1R collected $4 from pot
+M1TR4ND1R: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: NitNytoski folded before Flop (didn't bet)
+Seat 5: Egption folded before Flop (didn't bet)
+Seat 6: M1TR4ND1R (button blind) collected ($4)
+
+
+
+PokerStars Hand #195843288654:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:41:37 EET [2019/01/16 18:41:37 ET]
+Table 'Saiph III' 6-max Seat #2 is the button
+Seat 2: gaiggibeliin ($172.21 in chips) 
+Seat 3: NitNytoski ($209.50 in chips) 
+Seat 5: Egption ($237.02 in chips) 
+Seat 6: M1TR4ND1R ($183.75 in chips) 
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+Egption: posts the ante $1
+M1TR4ND1R: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8s Ks]
+NitNytoski: raises $7 to $8
+Egption: folds 
+M1TR4ND1R: calls $8
+gaiggibeliin: folds 
+*** FLOP *** [9c 9h 6h]
+NitNytoski: checks 
+M1TR4ND1R: bets $10.77
+NitNytoski: folds 
+Uncalled bet ($10.77) returned to M1TR4ND1R
+M1TR4ND1R collected $19.95 from pot
+M1TR4ND1R: doesn't show hand 
+*** SUMMARY ***
+Total pot $21 | Rake $1.05 
+Board [9c 9h 6h]
+Seat 2: gaiggibeliin (button blind) folded before Flop
+Seat 3: NitNytoski folded on the Flop
+Seat 5: Egption folded before Flop (didn't bet)
+Seat 6: M1TR4ND1R collected ($19.95)
+
+
+
+PokerStars Hand #195843306774:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:42:07 EET [2019/01/16 18:42:07 ET]
+Table 'Saiph III' 6-max Seat #3 is the button
+Seat 2: gaiggibeliin ($170.21 in chips) 
+Seat 3: NitNytoski ($200.50 in chips) 
+Seat 5: Egption ($236.02 in chips) 
+Seat 6: M1TR4ND1R ($194.70 in chips) 
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+Egption: posts the ante $1
+M1TR4ND1R: posts the ante $1
+NitNytoski: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ac Qd]
+Egption: folds 
+M1TR4ND1R: raises $5 to $6
+gaiggibeliin: raises $18 to $24
+NitNytoski: folds 
+M1TR4ND1R: calls $18
+*** FLOP *** [Td Th 9d]
+M1TR4ND1R: checks 
+gaiggibeliin: checks 
+*** TURN *** [Td Th 9d] [7c]
+M1TR4ND1R: bets $38.30
+gaiggibeliin: folds 
+Uncalled bet ($38.30) returned to M1TR4ND1R
+M1TR4ND1R collected $51.75 from pot
+M1TR4ND1R: doesn't show hand 
+*** SUMMARY ***
+Total pot $53 | Rake $1.25 
+Board [Td Th 9d 7c]
+Seat 2: gaiggibeliin folded on the Turn
+Seat 3: NitNytoski (button blind) folded before Flop
+Seat 5: Egption folded before Flop (didn't bet)
+Seat 6: M1TR4ND1R collected ($51.75)
+
+
+
+PokerStars Hand #195843344267:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:43:08 EET [2019/01/16 18:43:08 ET]
+Table 'Saiph III' 6-max Seat #5 is the button
+Seat 2: gaiggibeliin ($145.21 in chips) 
+Seat 3: NitNytoski ($198.50 in chips) 
+Seat 5: Egption ($235.02 in chips) 
+Seat 6: M1TR4ND1R ($221.45 in chips) 
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+Egption: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Egption: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7h 6c]
+M1TR4ND1R: folds 
+gaiggibeliin: folds 
+NitNytoski: folds 
+Uncalled bet ($1) returned to Egption
+Egption collected $4 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: NitNytoski folded before Flop (didn't bet)
+Seat 5: Egption (button blind) collected ($4)
+Seat 6: M1TR4ND1R folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #195843348567:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:43:15 EET [2019/01/16 18:43:15 ET]
+Table 'Saiph III' 6-max Seat #6 is the button
+Seat 2: gaiggibeliin ($144.21 in chips) 
+Seat 3: NitNytoski ($197.50 in chips) 
+Seat 5: Egption ($238.02 in chips) 
+Seat 6: M1TR4ND1R ($220.45 in chips) 
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+Egption: posts the ante $1
+M1TR4ND1R: posts the ante $1
+M1TR4ND1R: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kc Th]
+gaiggibeliin: folds 
+NitNytoski: folds 
+Egption: folds 
+Uncalled bet ($1) returned to M1TR4ND1R
+M1TR4ND1R collected $4 from pot
+M1TR4ND1R: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: NitNytoski folded before Flop (didn't bet)
+Seat 5: Egption folded before Flop (didn't bet)
+Seat 6: M1TR4ND1R (button blind) collected ($4)
+
+
+
+PokerStars Hand #195843355228:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:43:26 EET [2019/01/16 18:43:26 ET]
+Table 'Saiph III' 6-max Seat #2 is the button
+Seat 2: gaiggibeliin ($143.21 in chips) 
+Seat 3: NitNytoski ($196.50 in chips) 
+Seat 5: Egption ($237.02 in chips) 
+Seat 6: M1TR4ND1R ($223.45 in chips) 
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+Egption: posts the ante $1
+M1TR4ND1R: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8s Jh]
+NitNytoski: folds 
+Egption: calls $1
+M1TR4ND1R: raises $8 to $9
+gaiggibeliin: folds 
+Egption: calls $8
+*** FLOP *** [8c 7c 9c]
+Egption: checks 
+M1TR4ND1R: checks 
+*** TURN *** [8c 7c 9c] [Qh]
+Egption: bets $21
+M1TR4ND1R: folds 
+Uncalled bet ($21) returned to Egption
+Egption collected $21.85 from pot
+*** SUMMARY ***
+Total pot $23 | Rake $1.15 
+Board [8c 7c 9c Qh]
+Seat 2: gaiggibeliin (button blind) folded before Flop
+Seat 3: NitNytoski folded before Flop (didn't bet)
+Seat 5: Egption collected ($21.85)
+Seat 6: M1TR4ND1R folded on the Turn
+
+
+
+PokerStars Hand #195843382494:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:44:11 EET [2019/01/16 18:44:11 ET]
+Table 'Saiph III' 6-max Seat #3 is the button
+Seat 2: gaiggibeliin ($141.21 in chips) 
+Seat 3: NitNytoski ($195.50 in chips) 
+Seat 5: Egption ($248.87 in chips) 
+Seat 6: M1TR4ND1R ($213.45 in chips) 
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+Egption: posts the ante $1
+M1TR4ND1R: posts the ante $1
+NitNytoski: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ah 8c]
+Egption: raises $9 to $10
+M1TR4ND1R: folds 
+gaiggibeliin: folds 
+NitNytoski: calls $9
+*** FLOP *** [7d Jc Qs]
+Egption: checks 
+NitNytoski: bets $11.40
+AlanOnTilt joins the table at seat #1 
+Egption: raises $43.60 to $55
+NitNytoski: folds 
+Uncalled bet ($43.60) returned to Egption
+Egption collected $45.55 from pot
+*** SUMMARY ***
+Total pot $46.80 | Rake $1.25 
+Board [7d Jc Qs]
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: NitNytoski (button blind) folded on the Flop
+Seat 5: Egption collected ($45.55)
+Seat 6: M1TR4ND1R folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #195843407623:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:44:52 EET [2019/01/16 18:44:52 ET]
+Table 'Saiph III' 6-max Seat #5 is the button
+Seat 1: AlanOnTilt ($200 in chips) 
+Seat 2: gaiggibeliin ($140.21 in chips) 
+Seat 3: NitNytoski ($173.10 in chips) 
+Seat 5: Egption ($272.02 in chips) 
+Seat 6: M1TR4ND1R ($212.45 in chips) 
+AlanOnTilt: posts the ante $1
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+Egption: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Egption: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Td Js]
+M1TR4ND1R: calls $1
+AlanOnTilt: folds 
+gaiggibeliin: folds 
+NitNytoski: folds 
+Egption: checks 
+*** FLOP *** [Jc Jd 8c]
+M1TR4ND1R: bets $4.92
+Egption: folds 
+Uncalled bet ($4.92) returned to M1TR4ND1R
+M1TR4ND1R collected $6.65 from pot
+M1TR4ND1R: doesn't show hand 
+*** SUMMARY ***
+Total pot $7 | Rake $0.35 
+Board [Jc Jd 8c]
+Seat 1: AlanOnTilt folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: NitNytoski folded before Flop (didn't bet)
+Seat 5: Egption (button blind) folded on the Flop
+Seat 6: M1TR4ND1R collected ($6.65)
+
+
+
+PokerStars Hand #195843419640:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:45:12 EET [2019/01/16 18:45:12 ET]
+Table 'Saiph III' 6-max Seat #6 is the button
+Seat 1: AlanOnTilt ($199 in chips) 
+Seat 2: gaiggibeliin ($139.21 in chips) 
+Seat 3: NitNytoski ($172.10 in chips) 
+Seat 5: Egption ($270.02 in chips) 
+Seat 6: M1TR4ND1R ($217.10 in chips) 
+AlanOnTilt: posts the ante $1
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+Egption: posts the ante $1
+M1TR4ND1R: posts the ante $1
+M1TR4ND1R: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Th As]
+AlanOnTilt: calls $1
+gaiggibeliin: folds 
+NitNytoski: folds 
+Egption: calls $1
+M1TR4ND1R: checks 
+*** FLOP *** [Qs 6s Kc]
+AlanOnTilt: checks 
+Egption: checks 
+M1TR4ND1R: checks 
+*** TURN *** [Qs 6s Kc] [Js]
+AlanOnTilt: checks 
+Egption: checks 
+M1TR4ND1R: bets $5.62
+AlanOnTilt: folds 
+Egption: calls $5.62
+*** RIVER *** [Qs 6s Kc Js] [Td]
+Egption: checks 
+M1TR4ND1R: checks 
+*** SHOW DOWN ***
+Egption: shows [8c Kh] (a pair of Kings)
+M1TR4ND1R: shows [Ts 9c] (a straight, Nine to King)
+M1TR4ND1R collected $18.28 from pot
+*** SUMMARY ***
+Total pot $19.24 | Rake $0.96 
+Board [Qs 6s Kc Js Td]
+Seat 1: AlanOnTilt folded on the Turn
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: NitNytoski folded before Flop (didn't bet)
+Seat 5: Egption showed [8c Kh] and lost with a pair of Kings
+Seat 6: M1TR4ND1R (button blind) showed [Ts 9c] and won ($18.28) with a straight, Nine to King
+
+
+
+PokerStars Hand #195843459905:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:46:10 EET [2019/01/16 18:46:10 ET]
+Table 'Saiph III' 6-max Seat #1 is the button
+Seat 1: AlanOnTilt ($197 in chips) 
+Seat 2: gaiggibeliin ($138.21 in chips) 
+Seat 3: NitNytoski ($171.10 in chips) 
+Seat 5: Egption ($262.40 in chips) 
+Seat 6: M1TR4ND1R ($227.76 in chips) 
+AlanOnTilt: posts the ante $1
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+Egption: posts the ante $1
+M1TR4ND1R: posts the ante $1
+AlanOnTilt: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6h Ts]
+gaiggibeliin: folds 
+NitNytoski: raises $7 to $8
+Egption: calls $8
+M1TR4ND1R: folds 
+AlanOnTilt: calls $7
+*** FLOP *** [Ad Jc Qs]
+NitNytoski: bets $13.78
+Egption: folds 
+AlanOnTilt: folds 
+Uncalled bet ($13.78) returned to NitNytoski
+NitNytoski collected $27.55 from pot
+NitNytoski: doesn't show hand 
+*** SUMMARY ***
+Total pot $29 | Rake $1.45 
+Board [Ad Jc Qs]
+Seat 1: AlanOnTilt (button blind) folded on the Flop
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: NitNytoski collected ($27.55)
+Seat 5: Egption folded on the Flop
+Seat 6: M1TR4ND1R folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #195843478712:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:46:42 EET [2019/01/16 18:46:42 ET]
+Table 'Saiph III' 6-max Seat #2 is the button
+Seat 1: AlanOnTilt ($188 in chips) 
+Seat 2: gaiggibeliin ($137.21 in chips) 
+Seat 3: NitNytoski ($189.65 in chips) 
+Seat 5: Egption ($253.40 in chips) 
+Seat 6: M1TR4ND1R ($226.76 in chips) 
+AlanOnTilt: posts the ante $1
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+Egption: posts the ante $1
+M1TR4ND1R: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [As 6d]
+NitNytoski: calls $1
+Egption: calls $1
+M1TR4ND1R: folds 
+AlanOnTilt: folds 
+gaiggibeliin: checks 
+*** FLOP *** [Qs 9h 8d]
+NitNytoski: checks 
+muncloococne joins the table at seat #4 
+Egption: bets $7
+gaiggibeliin: folds 
+NitNytoski: folds 
+Uncalled bet ($7) returned to Egption
+Egption collected $7.60 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [Qs 9h 8d]
+Seat 1: AlanOnTilt folded before Flop (didn't bet)
+Seat 2: gaiggibeliin (button blind) folded on the Flop
+Seat 3: NitNytoski folded on the Flop
+Seat 5: Egption collected ($7.60)
+Seat 6: M1TR4ND1R folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #195843496943:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:47:12 EET [2019/01/16 18:47:12 ET]
+Table 'Saiph III' 6-max Seat #3 is the button
+Seat 1: AlanOnTilt ($187 in chips) 
+Seat 2: gaiggibeliin ($135.21 in chips) 
+Seat 3: NitNytoski ($187.65 in chips) 
+Seat 4: muncloococne ($200 in chips) 
+Seat 5: Egption ($259 in chips) 
+Seat 6: M1TR4ND1R ($225.76 in chips) 
+AlanOnTilt: posts the ante $1
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+muncloococne: posts the ante $1
+Egption: posts the ante $1
+M1TR4ND1R: posts the ante $1
+NitNytoski: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kc 6h]
+muncloococne: folds 
+Egption: folds 
+M1TR4ND1R: raises $8 to $9
+AlanOnTilt: folds 
+gaiggibeliin: folds 
+NitNytoski: folds 
+Uncalled bet ($8) returned to M1TR4ND1R
+M1TR4ND1R collected $8 from pot
+M1TR4ND1R: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0 
+Seat 1: AlanOnTilt folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: NitNytoski (button blind) folded before Flop
+Seat 4: muncloococne folded before Flop (didn't bet)
+Seat 5: Egption folded before Flop (didn't bet)
+Seat 6: M1TR4ND1R collected ($8)
+
+
+
+PokerStars Hand #195843504315:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:47:25 EET [2019/01/16 18:47:25 ET]
+Table 'Saiph III' 6-max Seat #4 is the button
+Seat 1: AlanOnTilt ($186 in chips) 
+Seat 2: gaiggibeliin ($134.21 in chips) 
+Seat 3: NitNytoski ($185.65 in chips) 
+Seat 4: muncloococne ($199 in chips) 
+Seat 5: Egption ($258 in chips) 
+Seat 6: M1TR4ND1R ($231.76 in chips) 
+AlanOnTilt: posts the ante $1
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+muncloococne: posts the ante $1
+Egption: posts the ante $1
+M1TR4ND1R: posts the ante $1
+muncloococne: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9s Qc]
+Egption: raises $4 to $5
+M1TR4ND1R: calls $5
+AlanOnTilt: folds 
+gaiggibeliin: folds 
+NitNytoski: folds 
+muncloococne: raises $193 to $198 and is all-in
+Egption: folds 
+M1TR4ND1R: folds 
+Uncalled bet ($193) returned to muncloococne
+muncloococne collected $21 from pot
+muncloococne: doesn't show hand 
+*** SUMMARY ***
+Total pot $21 | Rake $0 
+Seat 1: AlanOnTilt folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: NitNytoski folded before Flop (didn't bet)
+Seat 4: muncloococne (button blind) collected ($21)
+Seat 5: Egption folded before Flop
+Seat 6: M1TR4ND1R folded before Flop
+
+
+
+PokerStars Hand #195843517087:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:47:46 EET [2019/01/16 18:47:46 ET]
+Table 'Saiph III' 6-max Seat #5 is the button
+Seat 1: AlanOnTilt ($185 in chips) 
+Seat 2: gaiggibeliin ($133.21 in chips) 
+Seat 3: NitNytoski ($184.65 in chips) 
+Seat 4: muncloococne ($214 in chips) 
+Seat 5: Egption ($252 in chips) 
+Seat 6: M1TR4ND1R ($225.76 in chips) 
+AlanOnTilt: posts the ante $1
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+muncloococne: posts the ante $1
+Egption: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Egption: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Td 7c]
+M1TR4ND1R: folds 
+AlanOnTilt: calls $1
+gaiggibeliin: folds 
+NitNytoski: raises $7 to $8
+muncloococne: folds 
+Egption: folds 
+AlanOnTilt: calls $7
+*** FLOP *** [Kh 6c 8s]
+AlanOnTilt: checks 
+NitNytoski: checks 
+*** TURN *** [Kh 6c 8s] [Tc]
+AlanOnTilt: bets $14.64
+NitNytoski: folds 
+Uncalled bet ($14.64) returned to AlanOnTilt
+AlanOnTilt collected $21.85 from pot
+AlanOnTilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $23 | Rake $1.15 
+Board [Kh 6c 8s Tc]
+Seat 1: AlanOnTilt collected ($21.85)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: NitNytoski folded on the Turn
+Seat 4: muncloococne folded before Flop (didn't bet)
+Seat 5: Egption (button blind) folded before Flop
+Seat 6: M1TR4ND1R folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #195843541565:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:48:27 EET [2019/01/16 18:48:27 ET]
+Table 'Saiph III' 6-max Seat #6 is the button
+Seat 1: AlanOnTilt ($197.85 in chips) 
+Seat 2: gaiggibeliin ($132.21 in chips) 
+Seat 3: NitNytoski ($175.65 in chips) 
+Seat 4: muncloococne ($213 in chips) 
+Seat 5: Egption ($250 in chips) 
+Seat 6: M1TR4ND1R ($224.76 in chips) 
+AlanOnTilt: posts the ante $1
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+muncloococne: posts the ante $1
+Egption: posts the ante $1
+M1TR4ND1R: posts the ante $1
+M1TR4ND1R: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6c 8c]
+AlanOnTilt: folds 
+gaiggibeliin: folds 
+NitNytoski: folds 
+muncloococne: folds 
+Egption: raises $9 to $10
+M1TR4ND1R: calls $9
+*** FLOP *** [Jd Js Ts]
+Egption: checks 
+M1TR4ND1R: checks 
+*** TURN *** [Jd Js Ts] [Jh]
+Egption: bets $18
+M1TR4ND1R: calls $18
+*** RIVER *** [Jd Js Ts Jh] [Ah]
+Egption: bets $60
+M1TR4ND1R: calls $60
+*** SHOW DOWN ***
+Egption: shows [Td Jc] (four of a kind, Jacks)
+M1TR4ND1R: mucks hand 
+Egption collected $179.25 from pot
+*** SUMMARY ***
+Total pot $182 | Rake $2.75 
+Board [Jd Js Ts Jh Ah]
+Seat 1: AlanOnTilt folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: NitNytoski folded before Flop (didn't bet)
+Seat 4: muncloococne folded before Flop (didn't bet)
+Seat 5: Egption showed [Td Jc] and won ($179.25) with four of a kind, Jacks
+Seat 6: M1TR4ND1R (button blind) mucked [Kh Qh]
+
+
+
+PokerStars Hand #195843567907:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:49:11 EET [2019/01/16 18:49:11 ET]
+Table 'Saiph III' 6-max Seat #1 is the button
+Seat 1: AlanOnTilt ($196.85 in chips) 
+Seat 2: gaiggibeliin ($131.21 in chips) 
+Seat 3: NitNytoski ($174.65 in chips) 
+Seat 4: muncloococne ($212 in chips) 
+Seat 5: Egption ($340.25 in chips) 
+Seat 6: M1TR4ND1R ($156 in chips) 
+AlanOnTilt: posts the ante $1
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+muncloococne: posts the ante $1
+Egption: posts the ante $1
+M1TR4ND1R: posts the ante $1
+AlanOnTilt: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7s 9d]
+gaiggibeliin: folds 
+NitNytoski: folds 
+muncloococne: calls $1
+Egption: raises $10 to $11
+M1TR4ND1R: calls $11
+AlanOnTilt: folds 
+muncloococne: folds 
+*** FLOP *** [As Kd Qh]
+Egption: checks 
+M1TR4ND1R: checks 
+*** TURN *** [As Kd Qh] [Ah]
+Egption: bets $25.08
+M1TR4ND1R: folds 
+Uncalled bet ($25.08) returned to Egption
+Egption collected $28.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $1.50 
+Board [As Kd Qh Ah]
+Seat 1: AlanOnTilt (button blind) folded before Flop
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: NitNytoski folded before Flop (didn't bet)
+Seat 4: muncloococne folded before Flop
+Seat 5: Egption collected ($28.50)
+Seat 6: M1TR4ND1R folded on the Turn
+
+
+
+PokerStars Hand #195843587364:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:49:43 EET [2019/01/16 18:49:43 ET]
+Table 'Saiph III' 6-max Seat #2 is the button
+Seat 1: AlanOnTilt ($194.85 in chips) 
+Seat 2: gaiggibeliin ($130.21 in chips) 
+Seat 3: NitNytoski ($173.65 in chips) 
+Seat 4: muncloococne ($210 in chips) 
+Seat 5: Egption ($356.75 in chips) 
+Seat 6: M1TR4ND1R ($156 in chips) 
+AlanOnTilt: posts the ante $1
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+muncloococne: posts the ante $1
+Egption: posts the ante $1
+M1TR4ND1R: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kd 9c]
+NitNytoski: calls $1
+muncloococne: folds 
+Egption: calls $1
+M1TR4ND1R: raises $9 to $10
+AlanOnTilt: calls $10
+gaiggibeliin: folds 
+NitNytoski: calls $9
+Egption: calls $9
+*** FLOP *** [Qs Kh Kc]
+NitNytoski: checks 
+Egption: checks 
+M1TR4ND1R: checks 
+AlanOnTilt: checks 
+*** TURN *** [Qs Kh Kc] [7d]
+NitNytoski: checks 
+Egption: checks 
+M1TR4ND1R: bets $24.11
+AlanOnTilt: folds 
+NitNytoski: folds 
+Egption: calls $24.11
+*** RIVER *** [Qs Kh Kc 7d] [6c]
+Egption: checks 
+M1TR4ND1R: bets $120.89 and is all-in
+Egption: calls $120.89
+*** SHOW DOWN ***
+M1TR4ND1R: shows [Td 6d] (two pair, Kings and Sixes)
+Egption: shows [7s 7c] (a full house, Sevens full of Kings)
+Egption collected $334.25 from pot
+*** SUMMARY ***
+Total pot $337 | Rake $2.75 
+Board [Qs Kh Kc 7d 6c]
+Seat 1: AlanOnTilt folded on the Turn
+Seat 2: gaiggibeliin (button blind) folded before Flop
+Seat 3: NitNytoski folded on the Turn
+Seat 4: muncloococne folded before Flop (didn't bet)
+Seat 5: Egption showed [7s 7c] and won ($334.25) with a full house, Sevens full of Kings
+Seat 6: M1TR4ND1R showed [Td 6d] and lost with two pair, Kings and Sixes
+
+
+
+PokerStars Hand #195843642895:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:51:17 EET [2019/01/16 18:51:17 ET]
+Table 'Saiph III' 6-max Seat #3 is the button
+Seat 1: AlanOnTilt ($183.85 in chips) 
+Seat 2: gaiggibeliin ($128.21 in chips) 
+Seat 3: NitNytoski ($162.65 in chips) 
+Seat 4: muncloococne ($209 in chips) 
+Seat 5: Egption ($535 in chips) 
+Seat 6: M1TR4ND1R ($156 in chips) 
+AlanOnTilt: posts the ante $1
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+muncloococne: posts the ante $1
+Egption: posts the ante $1
+M1TR4ND1R: posts the ante $1
+NitNytoski: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8s Js]
+muncloococne: folds 
+Egption: raises $6 to $7
+M1TR4ND1R: folds 
+AlanOnTilt: folds 
+gaiggibeliin: folds 
+NitNytoski: calls $6
+*** FLOP *** [Kc 7s 6c]
+Egption: checks 
+NitNytoski: checks 
+*** TURN *** [Kc 7s 6c] [8c]
+Egption: checks 
+NitNytoski: checks 
+*** RIVER *** [Kc 7s 6c 8c] [6h]
+Egption: bets $1
+NitNytoski: calls $1
+*** SHOW DOWN ***
+Egption: shows [Qs Qd] (two pair, Queens and Sixes)
+NitNytoski: shows [Ks Jd] (two pair, Kings and Sixes)
+NitNytoski collected $20.90 from pot
+*** SUMMARY ***
+Total pot $22 | Rake $1.10 
+Board [Kc 7s 6c 8c 6h]
+Seat 1: AlanOnTilt folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: NitNytoski (button blind) showed [Ks Jd] and won ($20.90) with two pair, Kings and Sixes
+Seat 4: muncloococne folded before Flop (didn't bet)
+Seat 5: Egption showed [Qs Qd] and lost with two pair, Queens and Sixes
+Seat 6: M1TR4ND1R folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #195843667332:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:51:58 EET [2019/01/16 18:51:58 ET]
+Table 'Saiph III' 6-max Seat #4 is the button
+Seat 1: AlanOnTilt ($182.85 in chips) 
+Seat 2: gaiggibeliin ($127.21 in chips) 
+Seat 3: NitNytoski ($174.55 in chips) 
+Seat 4: muncloococne ($208 in chips) 
+Seat 5: Egption ($526 in chips) 
+Seat 6: M1TR4ND1R ($156 in chips) 
+AlanOnTilt: posts the ante $1
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+muncloococne: posts the ante $1
+Egption: posts the ante $1
+M1TR4ND1R: posts the ante $1
+muncloococne: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jc 6c]
+Egption: folds 
+M1TR4ND1R: raises $8 to $9
+AlanOnTilt: calls $9
+gaiggibeliin: folds 
+NitNytoski: calls $9
+muncloococne: calls $8
+*** FLOP *** [Kd Th 7s]
+M1TR4ND1R: checks 
+AlanOnTilt: bets $17.16
+NitNytoski: calls $17.16
+muncloococne: folds 
+M1TR4ND1R: folds 
+*** TURN *** [Kd Th 7s] [7c]
+AlanOnTilt: bets $49.29
+NitNytoski: folds 
+Uncalled bet ($49.29) returned to AlanOnTilt
+AlanOnTilt collected $73.57 from pot
+AlanOnTilt: doesn't show hand 
+*** SUMMARY ***
+Total pot $76.32 | Rake $2.75 
+Board [Kd Th 7s 7c]
+Seat 1: AlanOnTilt collected ($73.57)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: NitNytoski folded on the Turn
+Seat 4: muncloococne (button blind) folded on the Flop
+Seat 5: Egption folded before Flop (didn't bet)
+Seat 6: M1TR4ND1R folded on the Flop
+
+
+
+PokerStars Hand #195843696913:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:52:47 EET [2019/01/16 18:52:47 ET]
+Table 'Saiph III' 6-max Seat #5 is the button
+Seat 1: AlanOnTilt ($229.26 in chips) 
+Seat 2: gaiggibeliin ($126.21 in chips) 
+Seat 3: NitNytoski ($147.39 in chips) 
+Seat 4: muncloococne ($198 in chips) 
+Seat 5: Egption ($525 in chips) 
+Seat 6: M1TR4ND1R ($156 in chips) 
+AlanOnTilt: posts the ante $1
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+muncloococne: posts the ante $1
+Egption: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Egption: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9s 7d]
+M1TR4ND1R: raises $8 to $9
+AlanOnTilt: folds 
+gaiggibeliin: folds 
+NitNytoski: folds 
+muncloococne: folds 
+Egption: calls $8
+*** FLOP *** [Qs 9c 9d]
+M1TR4ND1R: checks 
+Egption: bets $22
+M1TR4ND1R: calls $22
+*** TURN *** [Qs 9c 9d] [Td]
+M1TR4ND1R: checks 
+Egption: bets $145
+M1TR4ND1R: folds 
+Uncalled bet ($145) returned to Egption
+Egption collected $65.25 from pot
+*** SUMMARY ***
+Total pot $68 | Rake $2.75 
+Board [Qs 9c 9d Td]
+Seat 1: AlanOnTilt folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: NitNytoski folded before Flop (didn't bet)
+Seat 4: muncloococne folded before Flop (didn't bet)
+Seat 5: Egption (button blind) collected ($65.25)
+Seat 6: M1TR4ND1R folded on the Turn
+
+
+
+PokerStars Hand #195843716077:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:53:20 EET [2019/01/16 18:53:20 ET]
+Table 'Saiph III' 6-max Seat #6 is the button
+Seat 1: AlanOnTilt ($228.26 in chips) 
+Seat 2: gaiggibeliin ($125.21 in chips) 
+Seat 3: NitNytoski ($146.39 in chips) 
+Seat 4: muncloococne ($197 in chips) 
+Seat 5: Egption ($558.25 in chips) 
+Seat 6: M1TR4ND1R ($156 in chips) 
+AlanOnTilt: posts the ante $1
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+muncloococne: posts the ante $1
+Egption: posts the ante $1
+M1TR4ND1R: posts the ante $1
+M1TR4ND1R: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ad Ac]
+AlanOnTilt: folds 
+gaiggibeliin: raises $8 to $9
+NitNytoski: folds 
+muncloococne: folds 
+Egption: folds 
+M1TR4ND1R: calls $8
+*** FLOP *** [Js Qs 6d]
+gaiggibeliin: bets $15.28
+M1TR4ND1R: folds 
+Uncalled bet ($15.28) returned to gaiggibeliin
+gaiggibeliin collected $22.80 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $1.20 
+Board [Js Qs 6d]
+Seat 1: AlanOnTilt folded before Flop (didn't bet)
+Seat 2: gaiggibeliin collected ($22.80)
+Seat 3: NitNytoski folded before Flop (didn't bet)
+Seat 4: muncloococne folded before Flop (didn't bet)
+Seat 5: Egption folded before Flop (didn't bet)
+Seat 6: M1TR4ND1R (button blind) folded on the Flop
+
+
+
+PokerStars Hand #195843730756:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:53:45 EET [2019/01/16 18:53:45 ET]
+Table 'Saiph III' 6-max Seat #1 is the button
+Seat 1: AlanOnTilt ($227.26 in chips) 
+Seat 2: gaiggibeliin ($138.01 in chips) 
+Seat 3: NitNytoski ($145.39 in chips) 
+Seat 4: muncloococne ($196 in chips) 
+Seat 5: Egption ($557.25 in chips) 
+Seat 6: M1TR4ND1R ($156 in chips) 
+AlanOnTilt: posts the ante $1
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+muncloococne: posts the ante $1
+Egption: posts the ante $1
+M1TR4ND1R: posts the ante $1
+AlanOnTilt: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qd Kh]
+gaiggibeliin: folds 
+NitNytoski: folds 
+muncloococne: folds 
+Egption: raises $7 to $8
+M1TR4ND1R: folds 
+AlanOnTilt: folds 
+Uncalled bet ($7) returned to Egption
+Egption collected $8 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0 
+Seat 1: AlanOnTilt (button blind) folded before Flop
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: NitNytoski folded before Flop (didn't bet)
+Seat 4: muncloococne folded before Flop (didn't bet)
+Seat 5: Egption collected ($8)
+Seat 6: M1TR4ND1R folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #195843741060:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:54:03 EET [2019/01/16 18:54:03 ET]
+Table 'Saiph III' 6-max Seat #2 is the button
+Seat 1: AlanOnTilt ($225.26 in chips) 
+Seat 2: gaiggibeliin ($137.01 in chips) 
+Seat 3: NitNytoski ($144.39 in chips) 
+Seat 4: muncloococne ($195 in chips) 
+Seat 5: Egption ($563.25 in chips) 
+Seat 6: M1TR4ND1R ($156 in chips) 
+AlanOnTilt: posts the ante $1
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+muncloococne: posts the ante $1
+Egption: posts the ante $1
+M1TR4ND1R: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jc Kh]
+NitNytoski: folds 
+muncloococne: folds 
+Egption: calls $1
+M1TR4ND1R: raises $8 to $9
+AlanOnTilt: folds 
+gaiggibeliin: folds 
+Egption: calls $8
+*** FLOP *** [9c 7c Qs]
+Egption: checks 
+M1TR4ND1R: bets $17.58
+Egption: folds 
+Uncalled bet ($17.58) returned to M1TR4ND1R
+M1TR4ND1R collected $23.75 from pot
+M1TR4ND1R: doesn't show hand 
+*** SUMMARY ***
+Total pot $25 | Rake $1.25 
+Board [9c 7c Qs]
+Seat 1: AlanOnTilt folded before Flop (didn't bet)
+Seat 2: gaiggibeliin (button blind) folded before Flop
+Seat 3: NitNytoski folded before Flop (didn't bet)
+Seat 4: muncloococne folded before Flop (didn't bet)
+Seat 5: Egption folded on the Flop
+Seat 6: M1TR4ND1R collected ($23.75)
+
+
+

@@ -1,0 +1,2243 @@
+﻿PokerStars Hand #195857644308:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 14:12:49 EET [2019/01/17 7:12:49 ET]
+Table 'Pierretta V' 6-max Seat #2 is the button
+Seat 1: gaiggibeliin ($200 in chips) 
+Seat 2: Noikul ($255.23 in chips) 
+Seat 3: milo0916 ($489.52 in chips) 
+Seat 4: b0caNer0 ($200 in chips) 
+Seat 6: bertotraste ($495.75 in chips) 
+gaiggibeliin: posts the ante $1
+Noikul: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+bertotraste: posts the ante $1
+Noikul: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [As Ts]
+milo0916: folds 
+b0caNer0: folds 
+bertotraste: raises $7 to $8
+gaiggibeliin: calls $8
+Noikul: calls $7
+*** FLOP *** [9h 7d 8c]
+bertotraste: checks 
+gaiggibeliin: checks 
+Noikul: bets $14.60
+bertotraste: folds 
+gaiggibeliin: calls $14.60
+*** TURN *** [9h 7d 8c] [6h]
+gaiggibeliin: checks 
+Noikul: bets $41.59
+gaiggibeliin: folds 
+Uncalled bet ($41.59) returned to Noikul
+Noikul collected $55.45 from pot
+Noikul: doesn't show hand 
+*** SUMMARY ***
+Total pot $58.20 | Rake $2.75 
+Board [9h 7d 8c 6h]
+Seat 1: gaiggibeliin folded on the Turn
+Seat 2: Noikul (button blind) collected ($55.45)
+Seat 3: milo0916 folded before Flop (didn't bet)
+Seat 4: b0caNer0 folded before Flop (didn't bet)
+Seat 6: bertotraste folded on the Flop
+
+
+
+PokerStars Hand #195857680538:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 14:14:16 EET [2019/01/17 7:14:16 ET]
+Table 'Pierretta V' 6-max Seat #3 is the button
+Seat 1: gaiggibeliin ($176.40 in chips) 
+Seat 2: Noikul ($287.08 in chips) 
+Seat 3: milo0916 ($488.52 in chips) 
+Seat 4: b0caNer0 ($199 in chips) 
+Seat 6: bertotraste ($486.75 in chips) 
+gaiggibeliin: posts the ante $1
+Noikul: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+bertotraste: posts the ante $1
+milo0916: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Tc 9s]
+b0caNer0: folds 
+bertotraste: calls $1
+gaiggibeliin: folds 
+Noikul: folds 
+milo0916: raises $7 to $8
+bertotraste: folds 
+Uncalled bet ($7) returned to milo0916
+milo0916 collected $7 from pot
+milo0916: doesn't show hand 
+*** SUMMARY ***
+Total pot $7 | Rake $0 
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: Noikul folded before Flop (didn't bet)
+Seat 3: milo0916 (button blind) collected ($7)
+Seat 4: b0caNer0 folded before Flop (didn't bet)
+Seat 6: bertotraste folded before Flop
+
+
+
+PokerStars Hand #195857695968:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 14:14:54 EET [2019/01/17 7:14:54 ET]
+Table 'Pierretta V' 6-max Seat #4 is the button
+Seat 1: gaiggibeliin ($200 in chips) 
+Seat 2: Noikul ($286.08 in chips) 
+Seat 3: milo0916 ($493.52 in chips) 
+Seat 4: b0caNer0 ($198 in chips) 
+Seat 6: bertotraste ($484.75 in chips) 
+gaiggibeliin: posts the ante $1
+Noikul: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+bertotraste: posts the ante $1
+b0caNer0: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [As 8d]
+bertotraste: raises $7 to $8
+gaiggibeliin: folds 
+andre050577 joins the table at seat #5 
+Noikul: folds 
+milo0916: calls $8
+b0caNer0: raises $27 to $35
+bertotraste: folds 
+milo0916: folds 
+Uncalled bet ($27) returned to b0caNer0
+b0caNer0 collected $29 from pot
+b0caNer0: doesn't show hand 
+*** SUMMARY ***
+Total pot $29 | Rake $0 
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: Noikul folded before Flop (didn't bet)
+Seat 3: milo0916 folded before Flop
+Seat 4: b0caNer0 (button blind) collected ($29)
+Seat 6: bertotraste folded before Flop
+
+
+
+PokerStars Hand #195857719286:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 14:15:51 EET [2019/01/17 7:15:51 ET]
+Table 'Pierretta V' 6-max Seat #6 is the button
+Seat 1: gaiggibeliin ($199 in chips) 
+Seat 2: Noikul ($285.08 in chips) 
+Seat 3: milo0916 ($484.52 in chips) 
+Seat 4: b0caNer0 ($218 in chips) 
+Seat 5: andre050577 ($200 in chips) 
+Seat 6: bertotraste ($475.75 in chips) 
+gaiggibeliin: posts the ante $1
+Noikul: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+andre050577: posts the ante $1
+bertotraste: posts the ante $1
+bertotraste: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6s Tc]
+gaiggibeliin: folds 
+Noikul: folds 
+milo0916: folds 
+b0caNer0: calls $1
+andre050577: raises $11 to $12
+bertotraste: calls $11
+b0caNer0: calls $11
+*** FLOP *** [8d Qc Th]
+b0caNer0: checks 
+andre050577: bets $30
+bertotraste: folds 
+b0caNer0: calls $30
+*** TURN *** [8d Qc Th] [6h]
+b0caNer0: checks 
+andre050577: bets $157 and is all-in
+b0caNer0: calls $157
+*** RIVER *** [8d Qc Th 6h] [7h]
+*** SHOW DOWN ***
+b0caNer0: shows [9c Qh] (a straight, Six to Ten)
+andre050577: shows [Jc Jd] (a pair of Jacks)
+b0caNer0 collected $413.25 from pot
+*** SUMMARY ***
+Total pot $416 | Rake $2.75 
+Board [8d Qc Th 6h 7h]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: Noikul folded before Flop (didn't bet)
+Seat 3: milo0916 folded before Flop (didn't bet)
+Seat 4: b0caNer0 showed [9c Qh] and won ($413.25) with a straight, Six to Ten
+Seat 5: andre050577 showed [Jc Jd] and lost with a pair of Jacks
+Seat 6: bertotraste (button blind) folded on the Flop
+
+
+
+PokerStars Hand #195857761057:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 14:17:32 EET [2019/01/17 7:17:32 ET]
+Table 'Pierretta V' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($198 in chips) 
+Seat 2: Noikul ($284.08 in chips) 
+Seat 3: milo0916 ($483.52 in chips) 
+Seat 4: b0caNer0 ($431.25 in chips) 
+Seat 6: bertotraste ($462.75 in chips) 
+gaiggibeliin: posts the ante $1
+Noikul: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+bertotraste: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qc Qd]
+Noikul: raises $1.50 to $2.50
+milo0916: folds 
+b0caNer0: folds 
+bertotraste: calls $2.50
+gaiggibeliin: raises $14.50 to $17
+Noikul: calls $14.50
+bertotraste: folds 
+*** FLOP *** [8c 9c 6d]
+Noikul: bets $10
+gaiggibeliin: calls $10
+*** TURN *** [8c 9c 6d] [8d]
+Noikul: checks 
+gaiggibeliin: bets $39.36
+Noikul: folds 
+Uncalled bet ($39.36) returned to gaiggibeliin
+gaiggibeliin collected $58.75 from pot
+*** SUMMARY ***
+Total pot $61.50 | Rake $2.75 
+Board [8c 9c 6d 8d]
+Seat 1: gaiggibeliin (button blind) collected ($58.75)
+Seat 2: Noikul folded on the Turn
+Seat 3: milo0916 folded before Flop (didn't bet)
+Seat 4: b0caNer0 folded before Flop (didn't bet)
+Seat 6: bertotraste folded before Flop
+
+
+
+PokerStars Hand #195857794145:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 14:18:51 EET [2019/01/17 7:18:51 ET]
+Table 'Pierretta V' 6-max Seat #2 is the button
+Seat 1: gaiggibeliin ($228.75 in chips) 
+Seat 2: Noikul ($256.08 in chips) 
+Seat 3: milo0916 ($482.52 in chips) 
+Seat 4: b0caNer0 ($430.25 in chips) 
+Seat 5: andre050577 ($200 in chips) 
+Seat 6: bertotraste ($459.25 in chips) 
+gaiggibeliin: posts the ante $1
+Noikul: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+andre050577: posts the ante $1
+bertotraste: posts the ante $1
+Noikul: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jc Kh]
+milo0916: folds 
+b0caNer0: calls $1
+andre050577: calls $1
+bertotraste: raises $9 to $10
+gaiggibeliin: folds 
+Noikul: calls $9
+b0caNer0: calls $9
+andre050577: calls $9
+*** FLOP *** [9s 9d 9c]
+b0caNer0: checks 
+andre050577: checks 
+bertotraste: bets $16
+Noikul: folds 
+b0caNer0: folds 
+andre050577: folds 
+Uncalled bet ($16) returned to bertotraste
+bertotraste collected $43.70 from pot
+bertotraste: doesn't show hand 
+*** SUMMARY ***
+Total pot $46 | Rake $2.30 
+Board [9s 9d 9c]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: Noikul (button blind) folded on the Flop
+Seat 3: milo0916 folded before Flop (didn't bet)
+Seat 4: b0caNer0 folded on the Flop
+Seat 5: andre050577 folded on the Flop
+Seat 6: bertotraste collected ($43.70)
+
+
+
+PokerStars Hand #195857819106:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 14:19:51 EET [2019/01/17 7:19:51 ET]
+Table 'Pierretta V' 6-max Seat #3 is the button
+Seat 1: gaiggibeliin ($227.75 in chips) 
+Seat 2: Noikul ($245.08 in chips) 
+Seat 3: milo0916 ($481.52 in chips) 
+Seat 4: b0caNer0 ($419.25 in chips) 
+Seat 5: andre050577 ($189 in chips) 
+Seat 6: bertotraste ($491.95 in chips) 
+gaiggibeliin: posts the ante $1
+Noikul: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+andre050577: posts the ante $1
+bertotraste: posts the ante $1
+milo0916: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6h Qd]
+b0caNer0: folds 
+andre050577: calls $1
+bertotraste: folds 
+gaiggibeliin: folds 
+Noikul: raises $1.50 to $2.50
+milo0916: calls $1.50
+andre050577: calls $1.50
+*** FLOP *** [Jd Kh Td]
+andre050577: checks 
+Noikul: bets $9.62
+milo0916: calls $9.62
+andre050577: folds 
+*** TURN *** [Jd Kh Td] [6d]
+Noikul: checks 
+milo0916: bets $16
+Noikul: folds 
+Uncalled bet ($16) returned to milo0916
+milo0916 collected $31.10 from pot
+milo0916: doesn't show hand 
+*** SUMMARY ***
+Total pot $32.74 | Rake $1.64 
+Board [Jd Kh Td 6d]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: Noikul folded on the Turn
+Seat 3: milo0916 (button blind) collected ($31.10)
+Seat 4: b0caNer0 folded before Flop (didn't bet)
+Seat 5: andre050577 folded on the Flop
+Seat 6: bertotraste folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #195857848815:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 14:21:02 EET [2019/01/17 7:21:02 ET]
+Table 'Pierretta V' 6-max Seat #4 is the button
+Seat 1: gaiggibeliin ($226.75 in chips) 
+Seat 2: Noikul ($231.96 in chips) 
+Seat 3: milo0916 ($499.50 in chips) 
+Seat 4: b0caNer0 ($418.25 in chips) 
+Seat 5: andre050577 ($185.50 in chips) 
+Seat 6: bertotraste ($490.95 in chips) 
+gaiggibeliin: posts the ante $1
+Noikul: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+andre050577: posts the ante $1
+bertotraste: posts the ante $1
+b0caNer0: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jd Js]
+andre050577: folds 
+bertotraste: folds 
+gaiggibeliin: raises $8 to $9
+Noikul: raises $25 to $34
+milo0916: folds 
+b0caNer0: folds 
+gaiggibeliin: calls $25
+*** FLOP *** [Ts 7s Th]
+gaiggibeliin: checks 
+Noikul: bets $23.84
+gaiggibeliin: calls $23.84
+*** TURN *** [Ts 7s Th] [Jc]
+gaiggibeliin: bets $32
+Noikul: calls $32
+*** RIVER *** [Ts 7s Th Jc] [6s]
+gaiggibeliin: bets $135.91 and is all-in
+Noikul: folds 
+Uncalled bet ($135.91) returned to gaiggibeliin
+gaiggibeliin collected $183.93 from pot
+*** SUMMARY ***
+Total pot $186.68 | Rake $2.75 
+Board [Ts 7s Th Jc 6s]
+Seat 1: gaiggibeliin collected ($183.93)
+Seat 2: Noikul folded on the River
+Seat 3: milo0916 folded before Flop (didn't bet)
+Seat 4: b0caNer0 (button blind) folded before Flop
+Seat 5: andre050577 folded before Flop (didn't bet)
+Seat 6: bertotraste folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #195857904730:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 14:23:15 EET [2019/01/17 7:23:15 ET]
+Table 'Pierretta V' 6-max Seat #5 is the button
+Seat 1: gaiggibeliin ($319.84 in chips) 
+Seat 2: Noikul ($200 in chips) 
+Seat 3: milo0916 ($498.50 in chips) 
+Seat 4: b0caNer0 ($416.25 in chips) 
+Seat 5: andre050577 ($184.50 in chips) 
+Seat 6: bertotraste ($489.95 in chips) 
+gaiggibeliin: posts the ante $1
+Noikul: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+andre050577: posts the ante $1
+bertotraste: posts the ante $1
+andre050577: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jd Qs]
+bertotraste: calls $1
+gaiggibeliin: calls $1
+Noikul: folds 
+milo0916: calls $1
+b0caNer0: calls $1
+andre050577: checks 
+*** FLOP *** [Ac Td 7d]
+bertotraste: checks 
+gaiggibeliin: checks 
+milo0916: checks 
+b0caNer0: checks 
+andre050577: checks 
+*** TURN *** [Ac Td 7d] [7s]
+bertotraste: checks 
+gaiggibeliin: checks 
+milo0916: bets $5
+b0caNer0: folds 
+andre050577: folds 
+bertotraste: folds 
+gaiggibeliin: folds 
+Uncalled bet ($5) returned to milo0916
+milo0916 collected $10.45 from pot
+milo0916: doesn't show hand 
+*** SUMMARY ***
+Total pot $11 | Rake $0.55 
+Board [Ac Td 7d 7s]
+Seat 1: gaiggibeliin folded on the Turn
+Seat 2: Noikul folded before Flop (didn't bet)
+Seat 3: milo0916 collected ($10.45)
+Seat 4: b0caNer0 folded on the Turn
+Seat 5: andre050577 (button blind) folded on the Turn
+Seat 6: bertotraste folded on the Turn
+
+
+
+PokerStars Hand #195857938912:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 14:24:36 EET [2019/01/17 7:24:36 ET]
+Table 'Pierretta V' 6-max Seat #6 is the button
+Seat 1: gaiggibeliin ($317.84 in chips) 
+Seat 2: Noikul ($200 in chips) 
+Seat 3: milo0916 ($506.95 in chips) 
+Seat 4: b0caNer0 ($414.25 in chips) 
+Seat 5: andre050577 ($182.50 in chips) 
+Seat 6: bertotraste ($487.95 in chips) 
+gaiggibeliin: posts the ante $1
+Noikul: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+andre050577: posts the ante $1
+bertotraste: posts the ante $1
+bertotraste: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ks 9s]
+gaiggibeliin: calls $1
+Noikul: folds 
+milo0916: calls $1
+b0caNer0: calls $1
+andre050577: raises $5 to $6
+bertotraste: folds 
+gaiggibeliin: calls $5
+milo0916: calls $5
+b0caNer0: calls $5
+*** FLOP *** [Tc Ah 8c]
+gaiggibeliin: checks 
+milo0916: bets $15
+b0caNer0: folds 
+andre050577: calls $15
+gaiggibeliin: folds 
+*** TURN *** [Tc Ah 8c] [6c]
+milo0916: checks 
+andre050577: checks 
+*** RIVER *** [Tc Ah 8c 6c] [9d]
+milo0916: bets $20
+andre050577: folds 
+Uncalled bet ($20) returned to milo0916
+milo0916 collected $58.25 from pot
+milo0916: doesn't show hand 
+*** SUMMARY ***
+Total pot $61 | Rake $2.75 
+Board [Tc Ah 8c 6c 9d]
+Seat 1: gaiggibeliin folded on the Flop
+Seat 2: Noikul folded before Flop (didn't bet)
+Seat 3: milo0916 collected ($58.25)
+Seat 4: b0caNer0 folded on the Flop
+Seat 5: andre050577 folded on the River
+Seat 6: bertotraste (button blind) folded before Flop
+
+
+
+PokerStars Hand #195857977882:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 14:26:08 EET [2019/01/17 7:26:08 ET]
+Table 'Pierretta V' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($310.84 in chips) 
+Seat 2: Noikul ($200 in chips) 
+Seat 3: milo0916 ($543.20 in chips) 
+Seat 4: b0caNer0 ($407.25 in chips) 
+Seat 5: andre050577 ($160.50 in chips) 
+Seat 6: bertotraste ($485.95 in chips) 
+gaiggibeliin: posts the ante $1
+Noikul: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+andre050577: posts the ante $1
+bertotraste: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jc 9d]
+Noikul: folds 
+milo0916: folds 
+b0caNer0: calls $1
+andre050577: folds 
+bertotraste: folds 
+gaiggibeliin: checks 
+*** FLOP *** [7c 9s Qs]
+b0caNer0: bets $5
+gaiggibeliin: calls $5
+*** TURN *** [7c 9s Qs] [Ad]
+b0caNer0: bets $14.02
+gaiggibeliin: folds 
+Uncalled bet ($14.02) returned to b0caNer0
+b0caNer0 collected $17.10 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.90 
+Board [7c 9s Qs Ad]
+Seat 1: gaiggibeliin (button blind) folded on the Turn
+Seat 2: Noikul folded before Flop (didn't bet)
+Seat 3: milo0916 folded before Flop (didn't bet)
+Seat 4: b0caNer0 collected ($17.10)
+Seat 5: andre050577 folded before Flop (didn't bet)
+Seat 6: bertotraste folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #195858002887:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 14:27:07 EET [2019/01/17 7:27:07 ET]
+Table 'Pierretta V' 6-max Seat #2 is the button
+Seat 1: gaiggibeliin ($303.84 in chips) 
+Seat 2: Noikul ($200 in chips) 
+Seat 3: milo0916 ($542.20 in chips) 
+Seat 4: b0caNer0 ($417.35 in chips) 
+Seat 5: andre050577 ($159.50 in chips) 
+Seat 6: bertotraste ($484.95 in chips) 
+gaiggibeliin: posts the ante $1
+Noikul: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+andre050577: posts the ante $1
+bertotraste: posts the ante $1
+Noikul: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8s 8d]
+milo0916: calls $1
+b0caNer0: calls $1
+andre050577: calls $1
+bertotraste: folds 
+gaiggibeliin: calls $1
+Noikul: raises $11 to $12
+milo0916: folds 
+b0caNer0: calls $11
+andre050577: calls $11
+gaiggibeliin: calls $11
+*** FLOP *** [8h Kc 6h]
+b0caNer0: checks 
+andre050577: checks 
+gaiggibeliin: checks 
+Noikul: checks 
+*** TURN *** [8h Kc 6h] [Td]
+b0caNer0: checks 
+andre050577: checks 
+gaiggibeliin: bets $27.17
+Noikul: folds 
+b0caNer0: raises $74.83 to $102
+andre050577: calls $102
+gaiggibeliin: calls $74.83
+*** RIVER *** [8h Kc 6h Td] [6d]
+b0caNer0: bets $302.35 and is all-in
+andre050577: folds 
+gaiggibeliin: calls $188.84 and is all-in
+Uncalled bet ($113.51) returned to b0caNer0
+*** SHOW DOWN ***
+b0caNer0: shows [9s 9h] (two pair, Nines and Sixes)
+gaiggibeliin: shows [8s 8d] (a full house, Eights full of Sixes)
+gaiggibeliin collected $735.93 from pot
+*** SUMMARY ***
+Total pot $738.68 | Rake $2.75 
+Board [8h Kc 6h Td 6d]
+Seat 1: gaiggibeliin showed [8s 8d] and won ($735.93) with a full house, Eights full of Sixes
+Seat 2: Noikul (button blind) folded on the Turn
+Seat 3: milo0916 folded before Flop
+Seat 4: b0caNer0 showed [9s 9h] and lost with two pair, Nines and Sixes
+Seat 5: andre050577 folded on the River
+Seat 6: bertotraste folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #195858062800:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 14:29:27 EET [2019/01/17 7:29:27 ET]
+Table 'Pierretta V' 6-max Seat #3 is the button
+Seat 1: gaiggibeliin ($735.93 in chips) 
+Seat 2: Noikul ($200 in chips) 
+Seat 3: milo0916 ($540.20 in chips) 
+Seat 4: b0caNer0 ($113.51 in chips) 
+Seat 5: andre050577 ($44.50 in chips) 
+Seat 6: bertotraste ($483.95 in chips) 
+gaiggibeliin: posts the ante $1
+Noikul: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+andre050577: posts the ante $1
+bertotraste: posts the ante $1
+milo0916: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8d 6d]
+b0caNer0: calls $1
+andre050577: raises $42.50 to $43.50 and is all-in
+bertotraste: folds 
+gaiggibeliin: folds 
+Noikul: folds 
+Noikul leaves the table
+milo0916: folds 
+b0caNer0: calls $42.50
+*** FLOP *** [Kc 7s Ts]
+*** TURN *** [Kc 7s Ts] [Kd]
+*** RIVER *** [Kc 7s Ts Kd] [Jc]
+*** SHOW DOWN ***
+b0caNer0: shows [9h Jd] (two pair, Kings and Jacks)
+andre050577: shows [7c Tc] (two pair, Kings and Tens)
+b0caNer0 collected $91.25 from pot
+*** SUMMARY ***
+Total pot $94 | Rake $2.75 
+Board [Kc 7s Ts Kd Jc]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: Noikul folded before Flop (didn't bet)
+Seat 3: milo0916 (button blind) folded before Flop
+Seat 4: b0caNer0 showed [9h Jd] and won ($91.25) with two pair, Kings and Jacks
+Seat 5: andre050577 showed [7c Tc] and lost with two pair, Kings and Tens
+Seat 6: bertotraste folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #195858074894:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 14:29:56 EET [2019/01/17 7:29:56 ET]
+Table 'Pierretta V' 6-max Seat #4 is the button
+Seat 1: gaiggibeliin ($734.93 in chips) 
+Seat 3: milo0916 ($538.20 in chips) 
+Seat 4: b0caNer0 ($160.26 in chips) 
+Seat 6: bertotraste ($482.95 in chips) 
+gaiggibeliin: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+bertotraste: posts the ante $1
+b0caNer0: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Js Kc]
+bertotraste: raises $7 to $8
+gaiggibeliin: folds 
+milo0916: folds 
+b0caNer0: raises $22 to $30
+bertotraste: calls $22
+*** FLOP *** [8d 7s Ah]
+bertotraste: checks 
+b0caNer0: bets $40.79
+bertotraste: raises $411.16 to $451.95 and is all-in
+b0caNer0: calls $88.47 and is all-in
+Uncalled bet ($322.69) returned to bertotraste
+*** FIRST TURN *** [8d 7s Ah] [Jh]
+*** FIRST RIVER *** [8d 7s Ah Jh] [9d]
+*** SECOND TURN *** [8d 7s Ah] [Ks]
+*** SECOND RIVER *** [8d 7s Ah Ks] [6h]
+*** FIRST SHOW DOWN ***
+bertotraste: shows [Jc 9c] (two pair, Jacks and Nines)
+b0caNer0: shows [9h Qh] (a pair of Nines)
+bertotraste collected $160.64 from pot
+*** SECOND SHOW DOWN ***
+bertotraste: shows [Jc 9c] (a straight, Ace to Nine)
+b0caNer0: shows [9h Qh] (a straight, Ace to Nine)
+bertotraste collected $80.32 from pot
+b0caNer0 collected $80.31 from pot
+*** SUMMARY ***
+Total pot $322.52 | Rake $1.25 
+Hand was run twice
+FIRST Board [8d 7s Ah Jh 9d]
+SECOND Board [8d 7s Ah Ks 6h]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: milo0916 folded before Flop (didn't bet)
+Seat 4: b0caNer0 (button blind) showed [9h Qh] and lost with a pair of Nines, and won ($80.31) with a straight, Ace to Nine
+Seat 6: bertotraste showed [Jc 9c] and won ($160.64) with two pair, Jacks and Nines, and won ($80.32) with a straight, Ace to Nine
+
+
+
+PokerStars Hand #195858101737:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 14:30:58 EET [2019/01/17 7:30:58 ET]
+Table 'Pierretta V' 6-max Seat #6 is the button
+Seat 1: gaiggibeliin ($733.93 in chips) 
+Seat 3: milo0916 ($537.20 in chips) 
+Seat 4: b0caNer0 ($80.31 in chips) 
+Seat 6: bertotraste ($563.65 in chips) 
+gaiggibeliin: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+bertotraste: posts the ante $1
+bertotraste: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9d Js]
+gaiggibeliin: folds 
+milo0916: raises $6 to $7
+b0caNer0: folds 
+bertotraste: calls $6
+*** FLOP *** [Qd 6c Kc]
+milo0916: bets $8
+bertotraste: folds 
+Uncalled bet ($8) returned to milo0916
+milo0916 collected $17.10 from pot
+milo0916: doesn't show hand 
+*** SUMMARY ***
+Total pot $18 | Rake $0.90 
+Board [Qd 6c Kc]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: milo0916 collected ($17.10)
+Seat 4: b0caNer0 folded before Flop (didn't bet)
+Seat 6: bertotraste (button blind) folded on the Flop
+
+
+
+PokerStars Hand #195858121721:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 14:31:44 EET [2019/01/17 7:31:44 ET]
+Table 'Pierretta V' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($732.93 in chips) 
+Seat 3: milo0916 ($546.30 in chips) 
+Seat 4: b0caNer0 ($79.31 in chips) 
+Seat 6: bertotraste ($555.65 in chips) 
+gaiggibeliin: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+bertotraste: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jd Kh]
+milo0916: folds 
+b0caNer0: calls $1
+bertotraste: raises $6 to $7
+gaiggibeliin: folds 
+b0caNer0: calls $6
+*** FLOP *** [6c Tc 6h]
+b0caNer0: checks 
+bertotraste: checks 
+*** TURN *** [6c Tc 6h] [Th]
+b0caNer0: bets $8.12
+bertotraste: calls $8.12
+*** RIVER *** [6c Tc 6h Th] [8d]
+b0caNer0: checks 
+bertotraste: bets $539.53 and is all-in
+b0caNer0: folds 
+Uncalled bet ($539.53) returned to bertotraste
+bertotraste collected $33.99 from pot
+bertotraste: doesn't show hand 
+*** SUMMARY ***
+Total pot $35.24 | Rake $1.25 
+Board [6c Tc 6h Th 8d]
+Seat 1: gaiggibeliin (button blind) folded before Flop
+Seat 3: milo0916 folded before Flop (didn't bet)
+Seat 4: b0caNer0 folded on the River
+Seat 6: bertotraste collected ($33.99)
+
+
+
+PokerStars Hand #195858160688:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 14:33:15 EET [2019/01/17 7:33:15 ET]
+Table 'Pierretta V' 6-max Seat #3 is the button
+Seat 1: gaiggibeliin ($730.93 in chips) 
+Seat 3: milo0916 ($545.30 in chips) 
+Seat 4: b0caNer0 ($63.19 in chips) 
+Seat 6: bertotraste ($573.52 in chips) 
+gaiggibeliin: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+bertotraste: posts the ante $1
+milo0916: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8h 6h]
+b0caNer0: calls $1
+bertotraste: folds 
+gaiggibeliin: calls $1
+milo0916: checks 
+*** FLOP *** [7d 8s Ac]
+b0caNer0: checks 
+gaiggibeliin: bets $4.99
+andre050577 is disconnected 
+milo0916: calls $4.99
+b0caNer0: folds 
+*** TURN *** [7d 8s Ac] [7c]
+gaiggibeliin: bets $16
+milo0916: folds 
+Uncalled bet ($16) returned to gaiggibeliin
+gaiggibeliin collected $16.13 from pot
+*** SUMMARY ***
+Total pot $16.98 | Rake $0.85 
+Board [7d 8s Ac 7c]
+Seat 1: gaiggibeliin collected ($16.13)
+Seat 3: milo0916 (button blind) folded on the Turn
+Seat 4: b0caNer0 folded on the Flop
+Seat 6: bertotraste folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #195858200945:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 14:34:48 EET [2019/01/17 7:34:48 ET]
+Table 'Pierretta V' 6-max Seat #4 is the button
+Seat 1: gaiggibeliin ($740.07 in chips) 
+Seat 3: milo0916 ($538.31 in chips) 
+Seat 4: b0caNer0 ($61.19 in chips) 
+Seat 6: bertotraste ($572.52 in chips) 
+gaiggibeliin: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+bertotraste: posts the ante $1
+b0caNer0: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [As Jd]
+bertotraste: raises $7 to $8
+gaiggibeliin: folds 
+milo0916: folds 
+b0caNer0: raises $52.19 to $60.19 and is all-in
+bertotraste: calls $52.19
+*** FIRST FLOP *** [9h Qh 7d]
+*** FIRST TURN *** [9h Qh 7d] [Jc]
+*** FIRST RIVER *** [9h Qh 7d Jc] [Qs]
+*** SECOND FLOP *** [Ac 9c Qd]
+*** SECOND TURN *** [Ac 9c Qd] [8c]
+*** SECOND RIVER *** [Ac 9c Qd 8c] [Jh]
+*** FIRST SHOW DOWN ***
+bertotraste: shows [Kd Ad] (a pair of Queens)
+b0caNer0: shows [Js Ah] (two pair, Queens and Jacks)
+b0caNer0 collected $61.57 from pot
+*** SECOND SHOW DOWN ***
+bertotraste: shows [Kd Ad] (a pair of Aces)
+b0caNer0: shows [Js Ah] (two pair, Aces and Jacks)
+b0caNer0 collected $61.56 from pot
+*** SUMMARY ***
+Total pot $124.38 | Rake $1.25 
+Hand was run twice
+FIRST Board [9h Qh 7d Jc Qs]
+SECOND Board [Ac 9c Qd 8c Jh]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: milo0916 folded before Flop (didn't bet)
+Seat 4: b0caNer0 (button blind) showed [Js Ah] and won ($61.57) with two pair, Queens and Jacks, and won ($61.56) with two pair, Aces and Jacks
+Seat 6: bertotraste showed [Kd Ad] and lost with a pair of Queens, and lost with a pair of Aces
+
+
+
+PokerStars Hand #195858220824:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 14:35:34 EET [2019/01/17 7:35:34 ET]
+Table 'Pierretta V' 6-max Seat #6 is the button
+Seat 1: gaiggibeliin ($739.07 in chips) 
+Seat 3: milo0916 ($537.31 in chips) 
+Seat 4: b0caNer0 ($123.13 in chips) 
+Seat 6: bertotraste ($511.33 in chips) 
+gaiggibeliin: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+bertotraste: posts the ante $1
+bertotraste: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qh Ac]
+gaiggibeliin: raises $6 to $7
+milo0916: folds 
+b0caNer0: raises $23 to $30
+bertotraste: folds 
+gaiggibeliin: folds 
+Uncalled bet ($23) returned to b0caNer0
+b0caNer0 collected $19 from pot
+*** SUMMARY ***
+Total pot $19 | Rake $0 
+Seat 1: gaiggibeliin folded before Flop
+Seat 3: milo0916 folded before Flop (didn't bet)
+Seat 4: b0caNer0 collected ($19)
+Seat 6: bertotraste (button blind) folded before Flop
+
+
+
+PokerStars Hand #195858241964:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 14:36:23 EET [2019/01/17 7:36:23 ET]
+Table 'Pierretta V' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($731.07 in chips) 
+Seat 3: milo0916 ($536.31 in chips) 
+Seat 4: b0caNer0 ($134.13 in chips) 
+Seat 6: bertotraste ($509.33 in chips) 
+gaiggibeliin: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+bertotraste: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Td 8d]
+milo0916: raises $6 to $7
+b0caNer0: calls $7
+bertotraste: folds 
+gaiggibeliin: calls $6
+*** FLOP *** [Js Qh Qd]
+milo0916: bets $8
+b0caNer0: folds 
+gaiggibeliin: folds 
+Uncalled bet ($8) returned to milo0916
+milo0916 collected $23.75 from pot
+milo0916: doesn't show hand 
+*** SUMMARY ***
+Total pot $25 | Rake $1.25 
+Board [Js Qh Qd]
+Seat 1: gaiggibeliin (button blind) folded on the Flop
+Seat 3: milo0916 collected ($23.75)
+Seat 4: b0caNer0 folded on the Flop
+Seat 6: bertotraste folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #195858253956:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 14:36:51 EET [2019/01/17 7:36:51 ET]
+Table 'Pierretta V' 6-max Seat #3 is the button
+Seat 1: gaiggibeliin ($723.07 in chips) 
+Seat 3: milo0916 ($552.06 in chips) 
+Seat 4: b0caNer0 ($126.13 in chips) 
+Seat 6: bertotraste ($508.33 in chips) 
+gaiggibeliin: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+bertotraste: posts the ante $1
+milo0916: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jd Ts]
+b0caNer0: calls $1
+bertotraste: calls $1
+gaiggibeliin: calls $1
+milo0916: raises $8 to $9
+b0caNer0: calls $8
+bertotraste: calls $8
+gaiggibeliin: folds 
+*** FLOP *** [Tc 8d 7d]
+b0caNer0: checks 
+bertotraste: bets $21
+milo0916: calls $21
+b0caNer0: raises $95.13 to $116.13 and is all-in
+bertotraste: calls $95.13
+milo0916: folds 
+*** FIRST TURN *** [Tc 8d 7d] [Kh]
+*** FIRST RIVER *** [Tc 8d 7d Kh] [Qd]
+*** SECOND TURN *** [Tc 8d 7d] [Kc]
+*** SECOND RIVER *** [Tc 8d 7d Kc] [7c]
+*** FIRST SHOW DOWN ***
+b0caNer0: shows [6d 9d] (a flush, Queen high)
+bertotraste: shows [8h Td] (two pair, Tens and Eights)
+b0caNer0 collected $142.01 from pot
+*** SECOND SHOW DOWN ***
+b0caNer0: shows [6d 9d] (a straight, Six to Ten)
+bertotraste: shows [8h Td] (two pair, Tens and Eights)
+b0caNer0 collected $142 from pot
+*** SUMMARY ***
+Total pot $285.26 | Rake $1.25 
+Hand was run twice
+FIRST Board [Tc 8d 7d Kh Qd]
+SECOND Board [Tc 8d 7d Kc 7c]
+Seat 1: gaiggibeliin folded before Flop
+Seat 3: milo0916 (button blind) folded on the Flop
+Seat 4: b0caNer0 showed [6d 9d] and won ($142.01) with a flush, Queen high, and won ($142) with a straight, Six to Ten
+Seat 6: bertotraste showed [8h Td] and lost with two pair, Tens and Eights, and lost with two pair, Tens and Eights
+
+
+
+PokerStars Hand #195858293781:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 14:38:23 EET [2019/01/17 7:38:23 ET]
+Table 'Pierretta V' 6-max Seat #4 is the button
+Seat 1: gaiggibeliin ($721.07 in chips) 
+Seat 3: milo0916 ($521.06 in chips) 
+Seat 4: b0caNer0 ($284.01 in chips) 
+Seat 6: bertotraste ($382.20 in chips) 
+gaiggibeliin: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+bertotraste: posts the ante $1
+b0caNer0: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kd 6h]
+bertotraste: calls $1
+gaiggibeliin: folds 
+milo0916: raises $7 to $8
+b0caNer0: calls $7
+bertotraste: calls $7
+*** FLOP *** [6c Jc 7d]
+bertotraste: checks 
+milo0916: checks 
+b0caNer0: checks 
+*** TURN *** [6c Jc 7d] [Ad]
+bertotraste: checks 
+milo0916: checks 
+b0caNer0: checks 
+*** RIVER *** [6c Jc 7d Ad] [Js]
+bertotraste: checks 
+milo0916: checks 
+b0caNer0: bets $17.39
+bertotraste: raises $58.61 to $76
+milo0916: folds 
+b0caNer0: folds 
+Uncalled bet ($58.61) returned to bertotraste
+bertotraste collected $61.53 from pot
+bertotraste: doesn't show hand 
+*** SUMMARY ***
+Total pot $62.78 | Rake $1.25 
+Board [6c Jc 7d Ad Js]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: milo0916 folded on the River
+Seat 4: b0caNer0 (button blind) folded on the River
+Seat 6: bertotraste collected ($61.53)
+
+
+
+PokerStars Hand #195858348554:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 14:40:30 EET [2019/01/17 7:40:30 ET]
+Table 'Pierretta V' 6-max Seat #6 is the button
+Seat 1: gaiggibeliin ($720.07 in chips) 
+Seat 3: milo0916 ($512.06 in chips) 
+Seat 4: b0caNer0 ($257.62 in chips) 
+Seat 6: bertotraste ($417.34 in chips) 
+gaiggibeliin: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+bertotraste: posts the ante $1
+bertotraste: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6h Ah]
+gaiggibeliin: folds 
+milo0916: folds 
+b0caNer0: raises $5 to $6
+bertotraste: calls $5
+*** FLOP *** [6s Ad 7s]
+b0caNer0: checks 
+bertotraste: checks 
+*** TURN *** [6s Ad 7s] [Kc]
+b0caNer0: bets $11
+bertotraste: folds 
+Uncalled bet ($11) returned to b0caNer0
+b0caNer0 collected $15.20 from pot
+b0caNer0: doesn't show hand 
+*** SUMMARY ***
+Total pot $16 | Rake $0.80 
+Board [6s Ad 7s Kc]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: milo0916 folded before Flop (didn't bet)
+Seat 4: b0caNer0 collected ($15.20)
+Seat 6: bertotraste (button blind) folded on the Turn
+
+
+
+PokerStars Hand #195858375111:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 14:41:31 EET [2019/01/17 7:41:31 ET]
+Table 'Pierretta V' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($719.07 in chips) 
+Seat 3: milo0916 ($511.06 in chips) 
+Seat 4: b0caNer0 ($265.82 in chips) 
+Seat 6: bertotraste ($410.34 in chips) 
+gaiggibeliin: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+bertotraste: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kd Tc]
+milo0916: folds 
+b0caNer0: folds 
+bertotraste: folds 
+Uncalled bet ($1) returned to gaiggibeliin
+gaiggibeliin collected $4 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 1: gaiggibeliin (button blind) collected ($4)
+Seat 3: milo0916 folded before Flop (didn't bet)
+Seat 4: b0caNer0 folded before Flop (didn't bet)
+Seat 6: bertotraste folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #195858378948:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 14:41:40 EET [2019/01/17 7:41:40 ET]
+Table 'Pierretta V' 6-max Seat #3 is the button
+Seat 1: gaiggibeliin ($722.07 in chips) 
+Seat 3: milo0916 ($510.06 in chips) 
+Seat 4: b0caNer0 ($264.82 in chips) 
+Seat 6: bertotraste ($409.34 in chips) 
+gaiggibeliin: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+bertotraste: posts the ante $1
+milo0916: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jd Kc]
+b0caNer0: folds 
+bertotraste: folds 
+gaiggibeliin: raises $6 to $7
+milo0916: folds 
+Uncalled bet ($6) returned to gaiggibeliin
+gaiggibeliin collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: gaiggibeliin collected ($6)
+Seat 3: milo0916 (button blind) folded before Flop
+Seat 4: b0caNer0 folded before Flop (didn't bet)
+Seat 6: bertotraste folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #195858392021:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 14:42:10 EET [2019/01/17 7:42:10 ET]
+Table 'Pierretta V' 6-max Seat #4 is the button
+Seat 1: gaiggibeliin ($726.07 in chips) 
+Seat 3: milo0916 ($508.06 in chips) 
+Seat 4: b0caNer0 ($263.82 in chips) 
+Seat 6: bertotraste ($408.34 in chips) 
+gaiggibeliin: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+bertotraste: posts the ante $1
+b0caNer0: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jd 9h]
+bertotraste: folds 
+gaiggibeliin: folds 
+milo0916: folds 
+Uncalled bet ($1) returned to b0caNer0
+b0caNer0 collected $4 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: milo0916 folded before Flop (didn't bet)
+Seat 4: b0caNer0 (button blind) collected ($4)
+Seat 6: bertotraste folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #195858403052:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 14:42:36 EET [2019/01/17 7:42:36 ET]
+Table 'Pierretta V' 6-max Seat #6 is the button
+Seat 1: gaiggibeliin ($725.07 in chips) 
+Seat 3: milo0916 ($507.06 in chips) 
+Seat 4: b0caNer0 ($266.82 in chips) 
+Seat 6: bertotraste ($407.34 in chips) 
+gaiggibeliin: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+bertotraste: posts the ante $1
+bertotraste: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9s Ah]
+gaiggibeliin: calls $1
+milo0916: folds 
+b0caNer0: raises $7 to $8
+bertotraste: folds 
+gaiggibeliin: folds 
+Uncalled bet ($7) returned to b0caNer0
+b0caNer0 collected $7 from pot
+b0caNer0: doesn't show hand 
+*** SUMMARY ***
+Total pot $7 | Rake $0 
+Seat 1: gaiggibeliin folded before Flop
+Seat 3: milo0916 folded before Flop (didn't bet)
+Seat 4: b0caNer0 collected ($7)
+Seat 6: bertotraste (button blind) folded before Flop
+
+
+
+PokerStars Hand #195858411735:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 14:42:56 EET [2019/01/17 7:42:56 ET]
+Table 'Pierretta V' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($723.07 in chips) 
+Seat 3: milo0916 ($506.06 in chips) 
+Seat 4: b0caNer0 ($271.82 in chips) 
+Seat 6: bertotraste ($405.34 in chips) 
+gaiggibeliin: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+bertotraste: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qh 8d]
+milo0916: raises $6 to $7
+b0caNer0: folds 
+bertotraste: calls $7
+gaiggibeliin: folds 
+*** FLOP *** [7s 6s Tc]
+milo0916: bets $9
+bertotraste: folds 
+Uncalled bet ($9) returned to milo0916
+milo0916 collected $18.05 from pot
+milo0916: doesn't show hand 
+*** SUMMARY ***
+Total pot $19 | Rake $0.95 
+Board [7s 6s Tc]
+Seat 1: gaiggibeliin (button blind) folded before Flop
+Seat 3: milo0916 collected ($18.05)
+Seat 4: b0caNer0 folded before Flop (didn't bet)
+Seat 6: bertotraste folded on the Flop
+
+
+
+PokerStars Hand #195858429954:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 14:43:38 EET [2019/01/17 7:43:38 ET]
+Table 'Pierretta V' 6-max Seat #3 is the button
+Seat 1: gaiggibeliin ($721.07 in chips) 
+Seat 3: milo0916 ($516.11 in chips) 
+Seat 4: b0caNer0 ($270.82 in chips) 
+Seat 6: bertotraste ($397.34 in chips) 
+gaiggibeliin: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+bertotraste: posts the ante $1
+milo0916: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8h Kc]
+b0caNer0: folds 
+bertotraste: raises $7 to $8
+gaiggibeliin: folds 
+milo0916: folds 
+Uncalled bet ($7) returned to bertotraste
+bertotraste collected $6 from pot
+bertotraste: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: milo0916 (button blind) folded before Flop
+Seat 4: b0caNer0 folded before Flop (didn't bet)
+Seat 6: bertotraste collected ($6)
+
+
+
+PokerStars Hand #195858441112:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 14:44:04 EET [2019/01/17 7:44:04 ET]
+Table 'Pierretta V' 6-max Seat #4 is the button
+Seat 1: gaiggibeliin ($720.07 in chips) 
+Seat 3: milo0916 ($514.11 in chips) 
+Seat 4: b0caNer0 ($269.82 in chips) 
+Seat 6: bertotraste ($401.34 in chips) 
+gaiggibeliin: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+bertotraste: posts the ante $1
+b0caNer0: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Th Tc]
+bertotraste: calls $1
+gaiggibeliin: raises $7 to $8
+milo0916: raises $22 to $30
+b0caNer0: folds 
+bertotraste: folds 
+gaiggibeliin: calls $22
+*** FLOP *** [6d Kh 6c]
+gaiggibeliin: checks 
+milo0916: checks 
+*** TURN *** [6d Kh 6c] [Ad]
+gaiggibeliin: checks 
+m4gicme90 joins the table at seat #2 
+milo0916: bets $23
+gaiggibeliin: folds 
+Uncalled bet ($23) returned to milo0916
+m4gicme90 leaves the table
+milo0916 collected $64.75 from pot
+milo0916: doesn't show hand 
+*** SUMMARY ***
+Total pot $66 | Rake $1.25 
+Board [6d Kh 6c Ad]
+Seat 1: gaiggibeliin folded on the Turn
+Seat 3: milo0916 collected ($64.75)
+Seat 4: b0caNer0 (button blind) folded before Flop
+Seat 6: bertotraste folded before Flop
+
+
+
+PokerStars Hand #195858461631:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 14:44:52 EET [2019/01/17 7:44:52 ET]
+Table 'Pierretta V' 6-max Seat #6 is the button
+Seat 1: gaiggibeliin ($689.07 in chips) 
+Seat 3: milo0916 ($547.86 in chips) 
+Seat 4: b0caNer0 ($267.82 in chips) 
+Seat 6: bertotraste ($399.34 in chips) 
+gaiggibeliin: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+bertotraste: posts the ante $1
+bertotraste: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8d 7c]
+gaiggibeliin: folds 
+milo0916: folds 
+b0caNer0: raises $6 to $7
+bertotraste: calls $6
+*** FLOP *** [7s Qh Kh]
+b0caNer0: bets $11.12
+bertotraste: calls $11.12
+*** TURN *** [7s Qh Kh] [Jh]
+b0caNer0: checks 
+bertotraste: checks 
+*** RIVER *** [7s Qh Kh Jh] [6s]
+b0caNer0: checks 
+bertotraste: checks 
+*** SHOW DOWN ***
+b0caNer0: shows [Ad Jc] (a pair of Jacks)
+bertotraste: shows [Td Kd] (a pair of Kings)
+bertotraste collected $38.99 from pot
+*** SUMMARY ***
+Total pot $40.24 | Rake $1.25 
+Board [7s Qh Kh Jh 6s]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: milo0916 folded before Flop (didn't bet)
+Seat 4: b0caNer0 showed [Ad Jc] and lost with a pair of Jacks
+Seat 6: bertotraste (button blind) showed [Td Kd] and won ($38.99) with a pair of Kings
+
+
+
+PokerStars Hand #195858481578:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 14:45:38 EET [2019/01/17 7:45:38 ET]
+Table 'Pierretta V' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($688.07 in chips) 
+Seat 3: milo0916 ($546.86 in chips) 
+Seat 4: b0caNer0 ($248.70 in chips) 
+Seat 6: bertotraste ($419.21 in chips) 
+gaiggibeliin: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+bertotraste: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Js Th]
+milo0916: folds 
+b0caNer0: raises $6 to $7
+bertotraste: folds 
+gaiggibeliin: calls $6
+*** FLOP *** [8c 6s Tc]
+b0caNer0: checks 
+gaiggibeliin: bets $10
+b0caNer0: folds 
+Uncalled bet ($10) returned to gaiggibeliin
+gaiggibeliin collected $17.10 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.90 
+Board [8c 6s Tc]
+Seat 1: gaiggibeliin (button blind) collected ($17.10)
+Seat 3: milo0916 folded before Flop (didn't bet)
+Seat 4: b0caNer0 folded on the Flop
+Seat 6: bertotraste folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #195858497958:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 14:46:15 EET [2019/01/17 7:46:15 ET]
+Table 'Pierretta V' 6-max Seat #3 is the button
+Seat 1: gaiggibeliin ($697.17 in chips) 
+Seat 3: milo0916 ($545.86 in chips) 
+Seat 4: b0caNer0 ($240.70 in chips) 
+Seat 6: bertotraste ($418.21 in chips) 
+gaiggibeliin: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+bertotraste: posts the ante $1
+milo0916: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [As 8h]
+b0caNer0: raises $6 to $7
+bertotraste: folds 
+gaiggibeliin: folds 
+milo0916: calls $6
+*** FLOP *** [7d Js 9c]
+b0caNer0: checks 
+milo0916: bets $9
+b0caNer0: calls $9
+*** TURN *** [7d Js 9c] [8s]
+b0caNer0: checks 
+milo0916: bets $17
+b0caNer0: folds 
+Uncalled bet ($17) returned to milo0916
+milo0916 collected $34.75 from pot
+milo0916: doesn't show hand 
+*** SUMMARY ***
+Total pot $36 | Rake $1.25 
+Board [7d Js 9c 8s]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: milo0916 (button blind) collected ($34.75)
+Seat 4: b0caNer0 folded on the Turn
+Seat 6: bertotraste folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #195858532763:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 14:47:34 EET [2019/01/17 7:47:34 ET]
+Table 'Pierretta V' 6-max Seat #4 is the button
+Seat 1: gaiggibeliin ($696.17 in chips) 
+Seat 3: milo0916 ($563.61 in chips) 
+Seat 4: b0caNer0 ($223.70 in chips) 
+Seat 6: bertotraste ($417.21 in chips) 
+gaiggibeliin: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+bertotraste: posts the ante $1
+b0caNer0: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6c 9h]
+bertotraste: raises $7 to $8
+gaiggibeliin: folds 
+milo0916: folds 
+b0caNer0: calls $7
+*** FLOP *** [7c 9c Ad]
+bertotraste: bets $6
+b0caNer0: folds 
+Uncalled bet ($6) returned to bertotraste
+bertotraste collected $19 from pot
+bertotraste: doesn't show hand 
+*** SUMMARY ***
+Total pot $20 | Rake $1 
+Board [7c 9c Ad]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: milo0916 folded before Flop (didn't bet)
+Seat 4: b0caNer0 (button blind) folded on the Flop
+Seat 6: bertotraste collected ($19)
+
+
+
+PokerStars Hand #195858547734:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 14:48:09 EET [2019/01/17 7:48:09 ET]
+Table 'Pierretta V' 6-max Seat #6 is the button
+Seat 1: gaiggibeliin ($695.17 in chips) 
+Seat 3: milo0916 ($562.61 in chips) 
+Seat 4: b0caNer0 ($214.70 in chips) 
+Seat 6: bertotraste ($427.21 in chips) 
+gaiggibeliin: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+bertotraste: posts the ante $1
+bertotraste: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ac Jd]
+gaiggibeliin: raises $6 to $7
+milo0916: folds 
+b0caNer0: calls $7
+bertotraste: folds 
+*** FLOP *** [9s 8h 9h]
+gaiggibeliin: checks 
+b0caNer0: checks 
+*** TURN *** [9s 8h 9h] [Jh]
+gaiggibeliin: checks 
+b0caNer0: bets $20
+aceskillmeee joins the table at seat #2 
+gaiggibeliin: calls $20
+*** RIVER *** [9s 8h 9h Jh] [Ad]
+gaiggibeliin: checks 
+b0caNer0: checks 
+*** SHOW DOWN ***
+gaiggibeliin: shows [Ac Jd] (two pair, Aces and Jacks)
+b0caNer0: mucks hand 
+gaiggibeliin collected $57.75 from pot
+andre050577 was removed from the table for failing to post
+andre050577 leaves the table
+*** SUMMARY ***
+Total pot $59 | Rake $1.25 
+Board [9s 8h 9h Jh Ad]
+Seat 1: gaiggibeliin showed [Ac Jd] and won ($57.75) with two pair, Aces and Jacks
+Seat 3: milo0916 folded before Flop (didn't bet)
+Seat 4: b0caNer0 mucked [Jc 8c]
+Seat 6: bertotraste (button blind) folded before Flop
+
+
+
+PokerStars Hand #195858566734:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 14:48:51 EET [2019/01/17 7:48:51 ET]
+Table 'Pierretta V' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($724.92 in chips) 
+Seat 2: aceskillmeee ($200 in chips) 
+Seat 3: milo0916 ($561.61 in chips) 
+Seat 4: b0caNer0 ($186.70 in chips) 
+Seat 6: bertotraste ($425.21 in chips) 
+gaiggibeliin: posts the ante $1
+aceskillmeee: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+bertotraste: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6s 6h]
+aceskillmeee: raises $5 to $6
+milo0916: folds 
+b0caNer0: raises $18 to $24
+bertotraste: folds 
+gaiggibeliin: folds 
+aceskillmeee: folds 
+Uncalled bet ($18) returned to b0caNer0
+b0caNer0 collected $18 from pot
+b0caNer0: doesn't show hand 
+*** SUMMARY ***
+Total pot $18 | Rake $0 
+Seat 1: gaiggibeliin (button blind) folded before Flop
+Seat 2: aceskillmeee folded before Flop
+Seat 3: milo0916 folded before Flop (didn't bet)
+Seat 4: b0caNer0 collected ($18)
+Seat 6: bertotraste folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #195858585943:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 14:49:35 EET [2019/01/17 7:49:35 ET]
+Table 'Pierretta V' 6-max Seat #2 is the button
+Seat 1: gaiggibeliin ($722.92 in chips) 
+Seat 2: aceskillmeee ($200 in chips) 
+Seat 3: milo0916 ($560.61 in chips) 
+Seat 4: b0caNer0 ($197.70 in chips) 
+Seat 6: bertotraste ($424.21 in chips) 
+gaiggibeliin: posts the ante $1
+aceskillmeee: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+bertotraste: posts the ante $1
+aceskillmeee: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qc 7d]
+milo0916: raises $7 to $8
+b0caNer0: calls $8
+bertotraste: folds 
+gaiggibeliin: folds 
+aceskillmeee: raises $28 to $36
+milo0916: folds 
+b0caNer0: calls $28
+*** FLOP *** [Th Ks 7c]
+b0caNer0: checks 
+aceskillmeee: bets $41.13
+b0caNer0: folds 
+Uncalled bet ($41.13) returned to aceskillmeee
+aceskillmeee collected $82.25 from pot
+aceskillmeee: doesn't show hand 
+*** SUMMARY ***
+Total pot $85 | Rake $2.75 
+Board [Th Ks 7c]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: aceskillmeee (button blind) collected ($82.25)
+Seat 3: milo0916 folded before Flop
+Seat 4: b0caNer0 folded on the Flop
+Seat 6: bertotraste folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #195858612478:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 14:50:35 EET [2019/01/17 7:50:35 ET]
+Table 'Pierretta V' 6-max Seat #3 is the button
+Seat 1: gaiggibeliin ($721.92 in chips) 
+Seat 2: aceskillmeee ($245.25 in chips) 
+Seat 3: milo0916 ($551.61 in chips) 
+Seat 4: b0caNer0 ($164 in chips) 
+Seat 6: bertotraste ($423.21 in chips) 
+gaiggibeliin: posts the ante $1
+aceskillmeee: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+bertotraste: posts the ante $1
+milo0916: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Js Ad]
+b0caNer0: raises $6 to $7
+bertotraste: calls $7
+gaiggibeliin: folds 
+aceskillmeee: folds 
+milo0916: raises $28 to $35
+b0caNer0: calls $28
+bertotraste: calls $28
+*** FLOP *** [Jc 9c 6h]
+b0caNer0: checks 
+bertotraste: checks 
+milo0916: bets $54
+b0caNer0: folds 
+bertotraste: folds 
+Uncalled bet ($54) returned to milo0916
+milo0916 collected $107.25 from pot
+milo0916: doesn't show hand 
+*** SUMMARY ***
+Total pot $110 | Rake $2.75 
+Board [Jc 9c 6h]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: aceskillmeee folded before Flop (didn't bet)
+Seat 3: milo0916 (button blind) collected ($107.25)
+Seat 4: b0caNer0 folded on the Flop
+Seat 6: bertotraste folded on the Flop
+
+
+
+PokerStars Hand #195858637789:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 14:51:33 EET [2019/01/17 7:51:33 ET]
+Table 'Pierretta V' 6-max Seat #4 is the button
+Seat 1: gaiggibeliin ($720.92 in chips) 
+Seat 2: aceskillmeee ($244.25 in chips) 
+Seat 3: milo0916 ($622.86 in chips) 
+Seat 4: b0caNer0 ($200 in chips) 
+Seat 6: bertotraste ($387.21 in chips) 
+gaiggibeliin: posts the ante $1
+aceskillmeee: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+bertotraste: posts the ante $1
+b0caNer0: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ts 8h]
+bertotraste: raises $7 to $8
+gaiggibeliin: folds 
+aceskillmeee: folds 
+milo0916: folds 
+b0caNer0: calls $7
+*** FLOP *** [6s 7h 8d]
+bertotraste: checks 
+b0caNer0: checks 
+*** TURN *** [6s 7h 8d] [As]
+bertotraste: checks 
+b0caNer0: checks 
+*** RIVER *** [6s 7h 8d As] [9d]
+bertotraste: checks 
+b0caNer0: checks 
+*** SHOW DOWN ***
+bertotraste: shows [Js 9h] (a straight, Ace to Nine)
+b0caNer0: shows [Jc Qd] (a straight, Ace to Nine)
+bertotraste collected $9.98 from pot
+b0caNer0 collected $9.97 from pot
+*** SUMMARY ***
+Total pot $21 | Rake $1.05 
+Board [6s 7h 8d As 9d]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: aceskillmeee folded before Flop (didn't bet)
+Seat 3: milo0916 folded before Flop (didn't bet)
+Seat 4: b0caNer0 (button blind) showed [Jc Qd] and won ($9.97) with a straight, Ace to Nine
+Seat 6: bertotraste showed [Js 9h] and won ($9.98) with a straight, Ace to Nine
+
+
+
+PokerStars Hand #195858660535:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 14:52:24 EET [2019/01/17 7:52:24 ET]
+Table 'Pierretta V' 6-max Seat #6 is the button
+Seat 1: gaiggibeliin ($719.92 in chips) 
+Seat 2: aceskillmeee ($243.25 in chips) 
+Seat 3: milo0916 ($621.86 in chips) 
+Seat 4: b0caNer0 ($200.97 in chips) 
+Seat 6: bertotraste ($388.19 in chips) 
+gaiggibeliin: posts the ante $1
+aceskillmeee: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+bertotraste: posts the ante $1
+bertotraste: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ks Jd]
+gaiggibeliin: calls $1
+aceskillmeee: folds 
+milo0916: folds 
+b0caNer0: folds 
+bertotraste: checks 
+*** FLOP *** [Ac 9c 6s]
+gaiggibeliin: checks 
+bertotraste: checks 
+*** TURN *** [Ac 9c 6s] [9s]
+gaiggibeliin: bets $3.46
+bertotraste: folds 
+Uncalled bet ($3.46) returned to gaiggibeliin
+gaiggibeliin collected $6.65 from pot
+*** SUMMARY ***
+Total pot $7 | Rake $0.35 
+Board [Ac 9c 6s 9s]
+Seat 1: gaiggibeliin collected ($6.65)
+Seat 2: aceskillmeee folded before Flop (didn't bet)
+Seat 3: milo0916 folded before Flop (didn't bet)
+Seat 4: b0caNer0 folded before Flop (didn't bet)
+Seat 6: bertotraste (button blind) folded on the Turn
+
+
+
+PokerStars Hand #195858678175:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 14:53:04 EET [2019/01/17 7:53:04 ET]
+Table 'Pierretta V' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($724.57 in chips) 
+Seat 2: aceskillmeee ($242.25 in chips) 
+Seat 3: milo0916 ($620.86 in chips) 
+Seat 4: b0caNer0 ($199.97 in chips) 
+Seat 6: bertotraste ($386.19 in chips) 
+gaiggibeliin: posts the ante $1
+aceskillmeee: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+bertotraste: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qh 8d]
+aceskillmeee: folds 
+milo0916: folds 
+b0caNer0: raises $6 to $7
+bertotraste: calls $7
+gaiggibeliin: folds 
+*** FLOP *** [Kd 6s 8c]
+b0caNer0: checks 
+bertotraste: checks 
+*** TURN *** [Kd 6s 8c] [6h]
+b0caNer0: checks 
+bertotraste: checks 
+*** RIVER *** [Kd 6s 8c 6h] [7h]
+b0caNer0: checks 
+bertotraste: checks 
+*** SHOW DOWN ***
+b0caNer0: shows [Qs Th] (a pair of Sixes)
+bertotraste: mucks hand 
+b0caNer0 collected $19 from pot
+*** SUMMARY ***
+Total pot $20 | Rake $1 
+Board [Kd 6s 8c 6h 7h]
+Seat 1: gaiggibeliin (button blind) folded before Flop
+Seat 2: aceskillmeee folded before Flop (didn't bet)
+Seat 3: milo0916 folded before Flop (didn't bet)
+Seat 4: b0caNer0 showed [Qs Th] and won ($19) with a pair of Sixes
+Seat 6: bertotraste mucked [Js 9s]
+
+
+
+PokerStars Hand #195858702438:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 14:54:00 EET [2019/01/17 7:54:00 ET]
+Table 'Pierretta V' 6-max Seat #2 is the button
+Seat 1: gaiggibeliin ($722.57 in chips) 
+Seat 2: aceskillmeee ($241.25 in chips) 
+Seat 3: milo0916 ($619.86 in chips) 
+Seat 4: b0caNer0 ($210.97 in chips) 
+Seat 6: bertotraste ($378.19 in chips) 
+gaiggibeliin: posts the ante $1
+aceskillmeee: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+bertotraste: posts the ante $1
+aceskillmeee: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jd Tc]
+milo0916: folds 
+b0caNer0: raises $6 to $7
+bertotraste: calls $7
+gaiggibeliin: folds 
+aceskillmeee has timed out
+aceskillmeee: folds 
+*** FLOP *** [Jh 7c 6c]
+b0caNer0: bets $12.35
+bertotraste: calls $12.35
+*** TURN *** [Jh 7c 6c] [Ad]
+aceskillmeee leaves the table
+b0caNer0: checks 
+bertotraste: checks 
+*** RIVER *** [Jh 7c 6c Ad] [Kd]
+b0caNer0: checks 
+h3pp4p01k4 joins the table at seat #5 
+bertotraste: bets $25
+b0caNer0: folds 
+Uncalled bet ($25) returned to bertotraste
+bertotraste collected $42.46 from pot
+bertotraste: doesn't show hand 
+*** SUMMARY ***
+Total pot $44.70 | Rake $2.24 
+Board [Jh 7c 6c Ad Kd]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: aceskillmeee (button blind) folded before Flop
+Seat 3: milo0916 folded before Flop (didn't bet)
+Seat 4: b0caNer0 folded on the River
+Seat 6: bertotraste collected ($42.46)
+
+
+
+PokerStars Hand #195858754058:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 14:56:03 EET [2019/01/17 7:56:03 ET]
+Table 'Pierretta V' 6-max Seat #3 is the button
+Seat 1: gaiggibeliin ($721.57 in chips) 
+Seat 3: milo0916 ($618.86 in chips) 
+Seat 4: b0caNer0 ($190.62 in chips) 
+Seat 5: h3pp4p01k4 ($200 in chips) 
+Seat 6: bertotraste ($400.30 in chips) 
+gaiggibeliin: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+h3pp4p01k4: posts the ante $1
+bertotraste: posts the ante $1
+milo0916: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qs Ks]
+b0caNer0: calls $1
+h3pp4p01k4: folds 
+bertotraste: calls $1
+gaiggibeliin: raises $9 to $10
+milo0916: folds 
+b0caNer0: calls $9
+bertotraste: calls $9
+*** FLOP *** [Ts 6h 9s]
+b0caNer0: checks 
+bertotraste: checks 
+gaiggibeliin: checks 
+*** TURN *** [Ts 6h 9s] [Jh]
+b0caNer0: checks 
+bertotraste: bets $21.55
+gaiggibeliin: calls $21.55
+b0caNer0: folds 
+*** RIVER *** [Ts 6h 9s Jh] [Jc]
+bertotraste: checks 
+gaiggibeliin: bets $25.20
+bertotraste: raises $98.87 to $124.07
+gaiggibeliin: folds 
+Uncalled bet ($98.87) returned to bertotraste
+bertotraste collected $126.75 from pot
+bertotraste: doesn't show hand 
+*** SUMMARY ***
+Total pot $129.50 | Rake $2.75 
+Board [Ts 6h 9s Jh Jc]
+Seat 1: gaiggibeliin folded on the River
+Seat 3: milo0916 (button blind) folded before Flop
+Seat 4: b0caNer0 folded on the Turn
+Seat 5: h3pp4p01k4 folded before Flop (didn't bet)
+Seat 6: bertotraste collected ($126.75)
+
+
+
+PokerStars Hand #195858808291:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 14:58:10 EET [2019/01/17 7:58:10 ET]
+Table 'Pierretta V' 6-max Seat #4 is the button
+Seat 1: gaiggibeliin ($663.82 in chips) 
+Seat 3: milo0916 ($616.86 in chips) 
+Seat 4: b0caNer0 ($179.62 in chips) 
+Seat 5: h3pp4p01k4 ($199 in chips) 
+Seat 6: bertotraste ($469.30 in chips) 
+gaiggibeliin: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+h3pp4p01k4: posts the ante $1
+bertotraste: posts the ante $1
+b0caNer0: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7c Ah]
+h3pp4p01k4: folds 
+bertotraste: folds 
+gaiggibeliin: folds 
+milo0916: raises $7 to $8
+b0caNer0: folds 
+Uncalled bet ($7) returned to milo0916
+milo0916 collected $7 from pot
+milo0916: doesn't show hand 
+*** SUMMARY ***
+Total pot $7 | Rake $0 
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: milo0916 collected ($7)
+Seat 4: b0caNer0 (button blind) folded before Flop
+Seat 5: h3pp4p01k4 folded before Flop (didn't bet)
+Seat 6: bertotraste folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #195858817425:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 14:58:33 EET [2019/01/17 7:58:33 ET]
+Table 'Pierretta V' 6-max Seat #5 is the button
+Seat 1: gaiggibeliin ($662.82 in chips) 
+Seat 3: milo0916 ($621.86 in chips) 
+Seat 4: b0caNer0 ($177.62 in chips) 
+Seat 5: h3pp4p01k4 ($198 in chips) 
+Seat 6: bertotraste ($468.30 in chips) 
+gaiggibeliin: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+h3pp4p01k4: posts the ante $1
+bertotraste: posts the ante $1
+h3pp4p01k4: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kc 6s]
+bertotraste: folds 
+gaiggibeliin: folds 
+milo0916: calls $1
+b0caNer0: calls $1
+h3pp4p01k4: raises $5 to $6
+milo0916: calls $5
+b0caNer0: calls $5
+*** FLOP *** [8s 9c 7c]
+milo0916: checks 
+b0caNer0: checks 
+h3pp4p01k4: checks 
+*** TURN *** [8s 9c 7c] [8d]
+milo0916: bets $11
+b0caNer0: raises $28.50 to $39.50
+h3pp4p01k4: folds 
+milo0916: calls $28.50
+*** RIVER *** [8s 9c 7c 8d] [9h]
+milo0916: checks 
+b0caNer0: bets $47
+milo0916: calls $47
+*** SHOW DOWN ***
+b0caNer0: shows [6c 7d] (two pair, Nines and Eights)
+milo0916: shows [Jh 8h] (a full house, Eights full of Nines)
+milo0916 collected $193.25 from pot
+*** SUMMARY ***
+Total pot $196 | Rake $2.75 
+Board [8s 9c 7c 8d 9h]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: milo0916 showed [Jh 8h] and won ($193.25) with a full house, Eights full of Nines
+Seat 4: b0caNer0 showed [6c 7d] and lost with two pair, Nines and Eights
+Seat 5: h3pp4p01k4 (button blind) folded on the Turn
+Seat 6: bertotraste folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #195858856117:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 15:00:11 EET [2019/01/17 8:00:11 ET]
+Table 'Pierretta V' 6-max Seat #6 is the button
+Seat 1: gaiggibeliin ($661.82 in chips) 
+Seat 3: milo0916 ($721.61 in chips) 
+Seat 4: b0caNer0 ($84.12 in chips) 
+Seat 5: h3pp4p01k4 ($191 in chips) 
+Seat 6: bertotraste ($467.30 in chips) 
+gaiggibeliin: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+h3pp4p01k4: posts the ante $1
+bertotraste: posts the ante $1
+bertotraste: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qc Js]
+gaiggibeliin: folds 
+milo0916: folds 
+b0caNer0: raises $6 to $7
+h3pp4p01k4: folds 
+bertotraste: calls $6
+*** FLOP *** [6c 8s Ah]
+b0caNer0: bets $11.73
+bertotraste: calls $11.73
+*** TURN *** [6c 8s Ah] [7s]
+b0caNer0: checks 
+bertotraste: bets $19
+b0caNer0: folds 
+Uncalled bet ($19) returned to bertotraste
+bertotraste collected $40.34 from pot
+bertotraste: doesn't show hand 
+*** SUMMARY ***
+Total pot $42.46 | Rake $2.12 
+Board [6c 8s Ah 7s]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: milo0916 folded before Flop (didn't bet)
+Seat 4: b0caNer0 folded on the Turn
+Seat 5: h3pp4p01k4 folded before Flop (didn't bet)
+Seat 6: bertotraste (button blind) collected ($40.34)
+
+
+
+PokerStars Hand #195858873991:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 15:00:55 EET [2019/01/17 8:00:55 ET]
+Table 'Pierretta V' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($660.82 in chips) 
+Seat 3: milo0916 ($720.61 in chips) 
+Seat 4: b0caNer0 ($64.39 in chips) 
+Seat 5: h3pp4p01k4 ($190 in chips) 
+Seat 6: bertotraste ($487.91 in chips) 
+gaiggibeliin: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+h3pp4p01k4: posts the ante $1
+bertotraste: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ah Ts]
+milo0916: raises $7 to $8
+b0caNer0: calls $8
+h3pp4p01k4: folds 
+bertotraste: folds 
+gaiggibeliin: folds 
+*** FLOP *** [Tc Jc Js]
+milo0916: checks 
+b0caNer0: checks 
+*** TURN *** [Tc Jc Js] [Jh]
+milo0916: bets $6
+b0caNer0: calls $6
+*** RIVER *** [Tc Jc Js Jh] [8s]
+milo0916: checks 
+b0caNer0: checks 
+*** SHOW DOWN ***
+milo0916: shows [Ac Kd] (three of a kind, Jacks)
+b0caNer0: shows [7s 7c] (a full house, Jacks full of Sevens)
+b0caNer0 collected $32.30 from pot
+*** SUMMARY ***
+Total pot $34 | Rake $1.70 
+Board [Tc Jc Js Jh 8s]
+Seat 1: gaiggibeliin (button blind) folded before Flop
+Seat 3: milo0916 showed [Ac Kd] and lost with three of a kind, Jacks
+Seat 4: b0caNer0 showed [7s 7c] and won ($32.30) with a full house, Jacks full of Sevens
+Seat 5: h3pp4p01k4 folded before Flop (didn't bet)
+Seat 6: bertotraste folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #195858898461:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 15:01:52 EET [2019/01/17 8:01:52 ET]
+Table 'Pierretta V' 6-max Seat #3 is the button
+Seat 1: gaiggibeliin ($658.82 in chips) 
+Seat 3: milo0916 ($705.61 in chips) 
+Seat 4: b0caNer0 ($81.69 in chips) 
+Seat 5: h3pp4p01k4 ($189 in chips) 
+Seat 6: bertotraste ($486.91 in chips) 
+gaiggibeliin: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+h3pp4p01k4: posts the ante $1
+bertotraste: posts the ante $1
+milo0916: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qc 9c]
+b0caNer0: calls $1
+h3pp4p01k4: calls $1
+bertotraste: calls $1
+gaiggibeliin: calls $1
+milo0916: checks 
+*** FLOP *** [8h Qd 9s]
+b0caNer0: bets $4.28
+h3pp4p01k4: folds 
+bertotraste: folds 
+gaiggibeliin: calls $4.28
+milo0916: calls $4.28
+*** TURN *** [8h Qd 9s] [Ac]
+b0caNer0: bets $14.11
+gaiggibeliin: folds 
+milo0916: folds 
+Uncalled bet ($14.11) returned to b0caNer0
+b0caNer0 collected $21.70 from pot
+b0caNer0: doesn't show hand 
+*** SUMMARY ***
+Total pot $22.84 | Rake $1.14 
+Board [8h Qd 9s Ac]
+Seat 1: gaiggibeliin folded on the Turn
+Seat 3: milo0916 (button blind) folded on the Turn
+Seat 4: b0caNer0 collected ($21.70)
+Seat 5: h3pp4p01k4 folded on the Flop
+Seat 6: bertotraste folded on the Flop
+
+
+
+PokerStars Hand #195858938178:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 15:03:22 EET [2019/01/17 8:03:22 ET]
+Table 'Pierretta V' 6-max Seat #4 is the button
+Seat 1: gaiggibeliin ($652.54 in chips) 
+Seat 3: milo0916 ($699.33 in chips) 
+Seat 4: b0caNer0 ($97.11 in chips) 
+Seat 5: h3pp4p01k4 ($187 in chips) 
+Seat 6: bertotraste ($484.91 in chips) 
+gaiggibeliin: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+h3pp4p01k4: posts the ante $1
+bertotraste: posts the ante $1
+b0caNer0: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [As Jh]
+h3pp4p01k4: folds 
+bertotraste: calls $1
+gaiggibeliin: raises $8 to $9
+milo0916: folds 
+b0caNer0: folds 
+bertotraste: folds 
+Uncalled bet ($8) returned to gaiggibeliin
+gaiggibeliin collected $8 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0 
+Seat 1: gaiggibeliin collected ($8)
+Seat 3: milo0916 folded before Flop (didn't bet)
+Seat 4: b0caNer0 (button blind) folded before Flop
+Seat 5: h3pp4p01k4 folded before Flop (didn't bet)
+Seat 6: bertotraste folded before Flop
+
+
+
+PokerStars Hand #195858946226:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 15:03:39 EET [2019/01/17 8:03:39 ET]
+Table 'Pierretta V' 6-max Seat #5 is the button
+Seat 1: gaiggibeliin ($658.54 in chips) 
+Seat 3: milo0916 ($698.33 in chips) 
+Seat 4: b0caNer0 ($95.11 in chips) 
+Seat 5: h3pp4p01k4 ($186 in chips) 
+Seat 6: bertotraste ($482.91 in chips) 
+gaiggibeliin: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+h3pp4p01k4: posts the ante $1
+bertotraste: posts the ante $1
+h3pp4p01k4: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ac Qh]
+bertotraste: calls $1
+gaiggibeliin: raises $8 to $9
+milo0916: folds 
+b0caNer0: calls $9
+h3pp4p01k4: folds 
+bertotraste: folds 
+*** FLOP *** [Qd 8h Kh]
+gaiggibeliin: checks 
+b0caNer0: checks 
+*** TURN *** [Qd 8h Kh] [Ah]
+gaiggibeliin: bets $12.35
+b0caNer0: calls $12.35
+*** RIVER *** [Qd 8h Kh Ah] [Jc]
+gaiggibeliin: checks 
+b0caNer0: bets $30.69
+gaiggibeliin: folds 
+Uncalled bet ($30.69) returned to b0caNer0
+b0caNer0 collected $47.22 from pot
+b0caNer0: doesn't show hand 
+*** SUMMARY ***
+Total pot $49.70 | Rake $2.48 
+Board [Qd 8h Kh Ah Jc]
+Seat 1: gaiggibeliin folded on the River
+Seat 3: milo0916 folded before Flop (didn't bet)
+Seat 4: b0caNer0 collected ($47.22)
+Seat 5: h3pp4p01k4 (button blind) folded before Flop
+Seat 6: bertotraste folded before Flop
+
+
+
+PokerStars Hand #195858992069:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 15:05:22 EET [2019/01/17 8:05:22 ET]
+Table 'Pierretta V' 6-max Seat #6 is the button
+Seat 1: gaiggibeliin ($636.19 in chips) 
+Seat 3: milo0916 ($697.33 in chips) 
+Seat 4: b0caNer0 ($183.61 in chips) 
+Seat 5: h3pp4p01k4 ($184 in chips) 
+Seat 6: bertotraste ($480.91 in chips) 
+gaiggibeliin: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+h3pp4p01k4: posts the ante $1
+bertotraste: posts the ante $1
+bertotraste: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Js As]
+gaiggibeliin: raises $7 to $8
+milo0916: folds 
+b0caNer0: calls $8
+h3pp4p01k4: calls $8
+bertotraste: folds 
+*** FLOP *** [Kc 8c Ad]
+gaiggibeliin: bets $14.82
+b0caNer0: folds 
+h3pp4p01k4: folds 
+Uncalled bet ($14.82) returned to gaiggibeliin
+gaiggibeliin collected $28.50 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $1.50 
+Board [Kc 8c Ad]
+Seat 1: gaiggibeliin collected ($28.50)
+Seat 3: milo0916 folded before Flop (didn't bet)
+Seat 4: b0caNer0 folded on the Flop
+Seat 5: h3pp4p01k4 folded on the Flop
+Seat 6: bertotraste (button blind) folded before Flop
+
+
+
+PokerStars Hand #195859009118:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 15:06:00 EET [2019/01/17 8:06:00 ET]
+Table 'Pierretta V' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($655.69 in chips) 
+Seat 3: milo0916 ($696.33 in chips) 
+Seat 4: b0caNer0 ($174.61 in chips) 
+Seat 5: h3pp4p01k4 ($175 in chips) 
+Seat 6: bertotraste ($478.91 in chips) 
+gaiggibeliin: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+h3pp4p01k4: posts the ante $1
+bertotraste: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qd 8c]
+milo0916: calls $1
+b0caNer0: folds 
+h3pp4p01k4: folds 
+bertotraste: raises $8 to $9
+gaiggibeliin: folds 
+milo0916: calls $8
+*** FLOP *** [Kc Qc 8d]
+milo0916: checks 
+bertotraste: bets $14.36
+milo0916: raises $25.36 to $39.72
+bertotraste: folds 
+Uncalled bet ($25.36) returned to milo0916
+milo0916 collected $50.08 from pot
+milo0916: doesn't show hand 
+*** SUMMARY ***
+Total pot $52.72 | Rake $2.64 
+Board [Kc Qc 8d]
+Seat 1: gaiggibeliin (button blind) folded before Flop
+Seat 3: milo0916 collected ($50.08)
+Seat 4: b0caNer0 folded before Flop (didn't bet)
+Seat 5: h3pp4p01k4 folded before Flop (didn't bet)
+Seat 6: bertotraste folded on the Flop
+
+
+
+PokerStars Hand #195859037458:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 15:07:03 EET [2019/01/17 8:07:03 ET]
+Table 'Pierretta V' 6-max Seat #3 is the button
+Seat 1: gaiggibeliin ($653.69 in chips) 
+Seat 3: milo0916 ($722.05 in chips) 
+Seat 4: b0caNer0 ($173.61 in chips) 
+Seat 5: h3pp4p01k4 ($174 in chips) 
+Seat 6: bertotraste ($454.55 in chips) 
+gaiggibeliin: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+h3pp4p01k4: posts the ante $1
+bertotraste: posts the ante $1
+milo0916: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qs Kh]
+b0caNer0: folds 
+h3pp4p01k4: raises $4 to $5
+bertotraste: calls $5
+gaiggibeliin: folds 
+milo0916: calls $4
+*** FLOP *** [8d 9c 7h]
+h3pp4p01k4: checks 
+bertotraste: checks 
+milo0916: bets $10
+h3pp4p01k4: folds 
+bertotraste: calls $10
+*** TURN *** [8d 9c 7h] [8s]
+bertotraste: checks 
+milo0916: bets $15
+bertotraste: folds 
+Uncalled bet ($15) returned to milo0916
+milo0916 collected $38 from pot
+milo0916: doesn't show hand 
+*** SUMMARY ***
+Total pot $40 | Rake $2 
+Board [8d 9c 7h 8s]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: milo0916 (button blind) collected ($38)
+Seat 4: b0caNer0 folded before Flop (didn't bet)
+Seat 5: h3pp4p01k4 folded on the Flop
+Seat 6: bertotraste folded on the Turn
+
+
+
+PokerStars Hand #195859069944:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 15:08:15 EET [2019/01/17 8:08:15 ET]
+Table 'Pierretta V' 6-max Seat #4 is the button
+Seat 1: gaiggibeliin ($652.69 in chips) 
+Seat 3: milo0916 ($744.05 in chips) 
+Seat 4: b0caNer0 ($172.61 in chips) 
+Seat 5: h3pp4p01k4 ($168 in chips) 
+Seat 6: bertotraste ($438.55 in chips) 
+gaiggibeliin: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+h3pp4p01k4: posts the ante $1
+bertotraste: posts the ante $1
+b0caNer0: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6d 8d]
+h3pp4p01k4: calls $1
+bertotraste: calls $1
+gaiggibeliin: calls $1
+milo0916: raises $14 to $15
+b0caNer0: folds 
+h3pp4p01k4: folds 
+bertotraste: folds 
+gaiggibeliin: calls $14
+*** FLOP *** [Ah 8s Ac]
+gaiggibeliin: checks 
+milo0916: bets $12
+gaiggibeliin: folds 
+Uncalled bet ($12) returned to milo0916
+milo0916 collected $36.10 from pot
+*** SUMMARY ***
+Total pot $38 | Rake $1.90 
+Board [Ah 8s Ac]
+Seat 1: gaiggibeliin folded on the Flop
+Seat 3: milo0916 collected ($36.10)
+Seat 4: b0caNer0 (button blind) folded before Flop
+Seat 5: h3pp4p01k4 folded before Flop
+Seat 6: bertotraste folded before Flop
+
+
+
+PokerStars Hand #195859097647:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 15:09:16 EET [2019/01/17 8:09:16 ET]
+Table 'Pierretta V' 6-max Seat #5 is the button
+Seat 1: gaiggibeliin ($636.69 in chips) 
+Seat 3: milo0916 ($764.15 in chips) 
+Seat 4: b0caNer0 ($170.61 in chips) 
+Seat 5: h3pp4p01k4 ($166 in chips) 
+Seat 6: bertotraste ($436.55 in chips) 
+gaiggibeliin: posts the ante $1
+milo0916: posts the ante $1
+b0caNer0: posts the ante $1
+h3pp4p01k4: posts the ante $1
+bertotraste: posts the ante $1
+h3pp4p01k4: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qs Ts]
+bertotraste: folds 
+gaiggibeliin: raises $7 to $8
+milo0916: calls $8
+b0caNer0: raises $30 to $38
+h3pp4p01k4: folds 
+gaiggibeliin: calls $30
+milo0916: calls $30
+*** FLOP *** [Tc 9s 7d]
+gaiggibeliin: checks 
+milo0916: checks 
+b0caNer0: bets $131.61 and is all-in
+gaiggibeliin: folds 
+milo0916: calls $131.61
+*** TURN *** [Tc 9s 7d] [9h]
+*** RIVER *** [Tc 9s 7d 9h] [7h]
+*** SHOW DOWN ***
+milo0916: shows [Jd Kd] (two pair, Nines and Sevens)
+b0caNer0: shows [Js Ah] (two pair, Nines and Sevens - Ace kicker)
+b0caNer0 collected $380.47 from pot
+*** SUMMARY ***
+Total pot $383.22 | Rake $2.75 
+Board [Tc 9s 7d 9h 7h]
+Seat 1: gaiggibeliin folded on the Flop
+Seat 3: milo0916 showed [Jd Kd] and lost with two pair, Nines and Sevens
+Seat 4: b0caNer0 showed [Js Ah] and won ($380.47) with two pair, Nines and Sevens
+Seat 5: h3pp4p01k4 (button blind) folded before Flop
+Seat 6: bertotraste folded before Flop (didn't bet)
+
+
+

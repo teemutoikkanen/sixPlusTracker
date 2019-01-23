@@ -1,0 +1,1376 @@
+﻿PokerStars Hand #196073982691:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 14:41:41 EET [2019/01/22 7:41:41 ET]
+Table 'Crater VI' 6-max Seat #5 is the button
+Seat 1: gaiggibeliin ($150 in chips) 
+Seat 5: McMarta ($150 in chips) 
+gaiggibeliin: posts the ante $1
+McMarta: posts the ante $1
+McMarta: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kc Jc]
+gaiggibeliin: calls $1
+McMarta: checks 
+*** FLOP *** [8h Qs Ts]
+gaiggibeliin: bets $2.85
+McMarta: calls $2.85
+*** TURN *** [8h Qs Ts] [8c]
+gaiggibeliin: bets $7
+McMarta: calls $7
+*** RIVER *** [8h Qs Ts 8c] [Ac]
+gaiggibeliin: bets $15.09
+McMarta: folds 
+Uncalled bet ($15.09) returned to gaiggibeliin
+gaiggibeliin collected $22.52 from pot
+*** SUMMARY ***
+Total pot $23.70 | Rake $1.18 
+Board [8h Qs Ts 8c Ac]
+Seat 1: gaiggibeliin collected ($22.52)
+Seat 5: McMarta (button blind) folded on the River
+
+
+
+PokerStars Hand #196074003731:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 14:42:28 EET [2019/01/22 7:42:28 ET]
+Table 'Crater VI' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($160.67 in chips) 
+Seat 5: McMarta ($138.15 in chips) 
+gaiggibeliin: posts the ante $1
+McMarta: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9c Ac]
+McMarta: raises $5 to $6
+gaiggibeliin: calls $5
+*** FLOP *** [7s 6c Qc]
+McMarta: bets $6
+gaiggibeliin: raises $13.16 to $19.16
+McMarta: folds 
+Uncalled bet ($13.16) returned to gaiggibeliin
+gaiggibeliin collected $24.75 from pot
+*** SUMMARY ***
+Total pot $26 | Rake $1.25 
+Board [7s 6c Qc]
+Seat 1: gaiggibeliin (button blind) collected ($24.75)
+Seat 5: McMarta folded on the Flop
+
+
+
+PokerStars Hand #196074015502:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 14:42:55 EET [2019/01/22 7:42:55 ET]
+Table 'Crater VI' 6-max Seat #5 is the button
+Seat 1: gaiggibeliin ($172.42 in chips) 
+Seat 5: McMarta ($137 in chips) 
+gaiggibeliin: posts the ante $1
+McMarta: posts the ante $1
+McMarta: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8s Qc]
+gaiggibeliin: calls $1
+McMarta: checks 
+*** FLOP *** [As Td Jd]
+gaiggibeliin: bets $2.55
+McMarta: raises $6.45 to $9
+gaiggibeliin: calls $6.45
+*** TURN *** [As Td Jd] [Th]
+gaiggibeliin: checks 
+McMarta: checks 
+*** RIVER *** [As Td Jd Th] [9c]
+gaiggibeliin: bets $14
+McMarta: folds 
+Uncalled bet ($14) returned to gaiggibeliin
+gaiggibeliin collected $20.90 from pot
+*** SUMMARY ***
+Total pot $22 | Rake $1.10 
+Board [As Td Jd Th 9c]
+Seat 1: gaiggibeliin collected ($20.90)
+Seat 5: McMarta (button blind) folded on the River
+
+
+
+PokerStars Hand #196074039123:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 14:43:48 EET [2019/01/22 7:43:48 ET]
+Table 'Crater VI' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($182.32 in chips) 
+Seat 5: McMarta ($150 in chips) 
+gaiggibeliin: posts the ante $1
+McMarta: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7s Qc]
+McMarta: calls $1
+gaiggibeliin: checks 
+*** FLOP *** [7d 7c 8d]
+McMarta: checks 
+gaiggibeliin: bets $2.55
+McMarta: calls $2.55
+*** TURN *** [7d 7c 8d] [Ah]
+McMarta: checks 
+gaiggibeliin: bets $7
+McMarta: raises $17 to $24
+gaiggibeliin: calls $17
+*** RIVER *** [7d 7c 8d Ah] [Kh]
+McMarta: bets $121.45 and is all-in
+gaiggibeliin: folds 
+Uncalled bet ($121.45) returned to McMarta
+McMarta collected $55.85 from pot
+McMarta: doesn't show hand 
+*** SUMMARY ***
+Total pot $57.10 | Rake $1.25 
+Board [7d 7c 8d Ah Kh]
+Seat 1: gaiggibeliin (button blind) folded on the River
+Seat 5: McMarta collected ($55.85)
+
+
+
+PokerStars Hand #196074067700:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 14:44:52 EET [2019/01/22 7:44:52 ET]
+Table 'Crater VI' 6-max Seat #5 is the button
+Seat 1: gaiggibeliin ($153.77 in chips) 
+Seat 5: McMarta ($177.30 in chips) 
+gaiggibeliin: posts the ante $1
+McMarta: posts the ante $1
+McMarta: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8s Ah]
+gaiggibeliin: calls $1
+McMarta: checks 
+*** FLOP *** [8d Jd 9h]
+gaiggibeliin: checks 
+McMarta: checks 
+*** TURN *** [8d Jd 9h] [9c]
+gaiggibeliin: checks 
+McMarta: bets $1
+gaiggibeliin: calls $1
+*** RIVER *** [8d Jd 9h 9c] [Ac]
+gaiggibeliin: checks 
+McMarta: bets $5
+gaiggibeliin: calls $5
+*** SHOW DOWN ***
+McMarta: shows [Qs 7d] (a pair of Nines)
+gaiggibeliin: shows [8s Ah] (two pair, Aces and Nines)
+gaiggibeliin collected $15.20 from pot
+*** SUMMARY ***
+Total pot $16 | Rake $0.80 
+Board [8d Jd 9h 9c Ac]
+Seat 1: gaiggibeliin showed [8s Ah] and won ($15.20) with two pair, Aces and Nines
+Seat 5: McMarta (button blind) showed [Qs 7d] and lost with a pair of Nines
+
+
+
+PokerStars Hand #196074082854:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 14:45:27 EET [2019/01/22 7:45:27 ET]
+Table 'Crater VI' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($160.97 in chips) 
+Seat 5: McMarta ($169.30 in chips) 
+gaiggibeliin: posts the ante $1
+McMarta: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9c 7s]
+McMarta: calls $1
+gaiggibeliin: raises $6 to $7
+McMarta: folds 
+Uncalled bet ($6) returned to gaiggibeliin
+gaiggibeliin collected $4 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 1: gaiggibeliin (button blind) collected ($4)
+Seat 5: McMarta folded before Flop
+
+
+
+PokerStars Hand #196074087452:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 14:45:37 EET [2019/01/22 7:45:37 ET]
+Table 'Crater VI' 6-max Seat #5 is the button
+Seat 1: gaiggibeliin ($162.97 in chips) 
+Seat 5: McMarta ($167.30 in chips) 
+gaiggibeliin: posts the ante $1
+McMarta: posts the ante $1
+McMarta: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8d Ah]
+gaiggibeliin: calls $1
+McMarta: raises $7 to $8
+gaiggibeliin: folds 
+Uncalled bet ($7) returned to McMarta
+McMarta collected $4 from pot
+McMarta: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 1: gaiggibeliin folded before Flop
+Seat 5: McMarta (button blind) collected ($4)
+
+
+
+PokerStars Hand #196074091300:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 14:45:46 EET [2019/01/22 7:45:46 ET]
+Table 'Crater VI' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($160.97 in chips) 
+Seat 5: McMarta ($169.30 in chips) 
+gaiggibeliin: posts the ante $1
+McMarta: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6d Qc]
+McMarta: calls $1
+gaiggibeliin: checks 
+*** FLOP *** [Td Qh Ad]
+McMarta: checks 
+gaiggibeliin: checks 
+*** TURN *** [Td Qh Ad] [Jd]
+McMarta: checks 
+gaiggibeliin: checks 
+*** RIVER *** [Td Qh Ad Jd] [8s]
+McMarta: checks 
+gaiggibeliin: checks 
+*** SHOW DOWN ***
+McMarta: shows [8c Jh] (two pair, Jacks and Eights)
+gaiggibeliin: mucks hand 
+McMarta collected $3.80 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [Td Qh Ad Jd 8s]
+Seat 1: gaiggibeliin (button blind) mucked [6d Qc]
+Seat 5: McMarta showed [8c Jh] and won ($3.80) with two pair, Jacks and Eights
+
+
+
+PokerStars Hand #196074098880:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 14:46:03 EET [2019/01/22 7:46:03 ET]
+Table 'Crater VI' 6-max Seat #5 is the button
+Seat 1: gaiggibeliin ($158.97 in chips) 
+Seat 5: McMarta ($171.10 in chips) 
+gaiggibeliin: posts the ante $1
+McMarta: posts the ante $1
+McMarta: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7h Qs]
+gaiggibeliin: folds 
+Uncalled bet ($1) returned to McMarta
+McMarta collected $2 from pot
+McMarta: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: McMarta (button blind) collected ($2)
+
+
+
+PokerStars Hand #196074101524:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 14:46:09 EET [2019/01/22 7:46:09 ET]
+Table 'Crater VI' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($157.97 in chips) 
+Seat 5: McMarta ($172.10 in chips) 
+gaiggibeliin: posts the ante $1
+McMarta: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8h 9h]
+McMarta: raises $7 to $8
+gaiggibeliin: calls $7
+*** FLOP *** [Th Ks 7h]
+McMarta: checks 
+gaiggibeliin: bets $11.46
+McMarta: calls $11.46
+*** TURN *** [Th Ks 7h] [8d]
+McMarta: checks 
+gaiggibeliin: bets $31
+McMarta: folds 
+Uncalled bet ($31) returned to gaiggibeliin
+gaiggibeliin collected $39.67 from pot
+*** SUMMARY ***
+Total pot $40.92 | Rake $1.25 
+Board [Th Ks 7h 8d]
+Seat 1: gaiggibeliin (button blind) collected ($39.67)
+Seat 5: McMarta folded on the Turn
+
+
+
+PokerStars Hand #196074119651:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 14:46:51 EET [2019/01/22 7:46:51 ET]
+Table 'Crater VI' 6-max Seat #5 is the button
+Seat 1: gaiggibeliin ($177.18 in chips) 
+Seat 5: McMarta ($151.64 in chips) 
+gaiggibeliin: posts the ante $1
+McMarta: posts the ante $1
+McMarta: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9c Js]
+Elia001 joins the table at seat #2 
+gaiggibeliin: calls $1
+McMarta: checks 
+*** FLOP *** [8s Qd 7s]
+gaiggibeliin: checks 
+McMarta: bets $2.85
+gaiggibeliin: calls $2.85
+*** TURN *** [8s Qd 7s] [9d]
+gaiggibeliin: checks 
+McMarta: checks 
+*** RIVER *** [8s Qd 7s 9d] [Qs]
+gaiggibeliin: checks 
+McMarta: bets $16
+Elia001 leaves the table
+gaiggibeliin: folds 
+Uncalled bet ($16) returned to McMarta
+McMarta collected $9.22 from pot
+McMarta: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.70 | Rake $0.48 
+Board [8s Qd 7s 9d Qs]
+Seat 1: gaiggibeliin folded on the River
+Seat 5: McMarta (button blind) collected ($9.22)
+
+
+
+PokerStars Hand #196074151215:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 14:48:02 EET [2019/01/22 7:48:02 ET]
+Table 'Crater VI' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($172.33 in chips) 
+Seat 5: McMarta ($156.01 in chips) 
+gaiggibeliin: posts the ante $1
+McMarta: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Tc Ts]
+McMarta: folds 
+Uncalled bet ($1) returned to gaiggibeliin
+gaiggibeliin collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: gaiggibeliin (button blind) collected ($2)
+Seat 5: McMarta folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196074156176:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 14:48:13 EET [2019/01/22 7:48:13 ET]
+Table 'Crater VI' 6-max Seat #5 is the button
+Seat 1: gaiggibeliin ($173.33 in chips) 
+Seat 5: McMarta ($155.01 in chips) 
+gaiggibeliin: posts the ante $1
+McMarta: posts the ante $1
+McMarta: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Td 8h]
+gaiggibeliin: calls $1
+McMarta: checks 
+*** FLOP *** [Kh 7c Tc]
+gaiggibeliin: checks 
+McMarta: bets $3
+gaiggibeliin: folds 
+Uncalled bet ($3) returned to McMarta
+McMarta collected $3.80 from pot
+McMarta: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [Kh 7c Tc]
+Seat 1: gaiggibeliin folded on the Flop
+Seat 5: McMarta (button blind) collected ($3.80)
+
+
+
+PokerStars Hand #196074170349:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 14:48:45 EET [2019/01/22 7:48:45 ET]
+Table 'Crater VI' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($171.33 in chips) 
+Seat 5: McMarta ($156.81 in chips) 
+gaiggibeliin: posts the ante $1
+McMarta: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [As 6h]
+McMarta: calls $1
+gaiggibeliin: checks 
+*** FLOP *** [Ad 6s Th]
+McMarta: checks 
+gaiggibeliin: bets $2.55
+McMarta: calls $2.55
+*** TURN *** [Ad 6s Th] [9s]
+McMarta: checks 
+gaiggibeliin: bets $12
+McMarta: folds 
+Uncalled bet ($12) returned to gaiggibeliin
+gaiggibeliin collected $8.64 from pot
+*** SUMMARY ***
+Total pot $9.10 | Rake $0.46 
+Board [Ad 6s Th 9s]
+Seat 1: gaiggibeliin (button blind) collected ($8.64)
+Seat 5: McMarta folded on the Turn
+
+
+
+PokerStars Hand #196074191950:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 14:49:33 EET [2019/01/22 7:49:33 ET]
+Table 'Crater VI' 6-max Seat #5 is the button
+Seat 1: gaiggibeliin ($175.42 in chips) 
+Seat 5: McMarta ($152.26 in chips) 
+gaiggibeliin: posts the ante $1
+McMarta: posts the ante $1
+McMarta: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9s Ts]
+gaiggibeliin: calls $1
+McMarta: raises $6 to $7
+gaiggibeliin: raises $21 to $28
+McMarta: calls $21
+*** FLOP *** [Qd 7h 8c]
+gaiggibeliin: bets $29.51
+McMarta: raises $93.75 to $123.26 and is all-in
+gaiggibeliin: calls $93.75
+*** FIRST TURN *** [Qd 7h 8c] [Ac]
+*** FIRST RIVER *** [Qd 7h 8c Ac] [Td]
+*** SECOND TURN *** [Qd 7h 8c] [Jh]
+*** SECOND RIVER *** [Qd 7h 8c Jh] [7s]
+*** FIRST SHOW DOWN ***
+gaiggibeliin: shows [9s Ts] (a pair of Tens)
+McMarta: shows [8h 7d] (two pair, Eights and Sevens)
+McMarta collected $151.64 from pot
+*** SECOND SHOW DOWN ***
+gaiggibeliin: shows [9s Ts] (a straight, Eight to Queen)
+McMarta: shows [8h 7d] (a full house, Sevens full of Eights)
+McMarta collected $151.63 from pot
+*** SUMMARY ***
+Total pot $304.52 | Rake $1.25 
+Hand was run twice
+FIRST Board [Qd 7h 8c Ac Td]
+SECOND Board [Qd 7h 8c Jh 7s]
+Seat 1: gaiggibeliin showed [9s Ts] and lost with a pair of Tens, and lost with a straight, Eight to Queen
+Seat 5: McMarta (button blind) showed [8h 7d] and won ($151.64) with two pair, Eights and Sevens, and won ($151.63) with a full house, Sevens full of Eights
+
+
+
+PokerStars Hand #196074212837:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 14:50:20 EET [2019/01/22 7:50:20 ET]
+Table 'Crater VI' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($150 in chips) 
+Seat 5: McMarta ($303.27 in chips) 
+gaiggibeliin: posts the ante $1
+McMarta: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7d Ks]
+McMarta: calls $1
+gaiggibeliin: checks 
+*** FLOP *** [Ac 9c 7s]
+McMarta: bets $2.85
+gaiggibeliin: folds 
+Uncalled bet ($2.85) returned to McMarta
+McMarta collected $3.80 from pot
+McMarta: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [Ac 9c 7s]
+Seat 1: gaiggibeliin (button blind) folded on the Flop
+Seat 5: McMarta collected ($3.80)
+
+
+
+PokerStars Hand #196074219265:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 14:50:34 EET [2019/01/22 7:50:34 ET]
+Table 'Crater VI' 6-max Seat #5 is the button
+Seat 1: gaiggibeliin ($148 in chips) 
+Seat 5: McMarta ($305.07 in chips) 
+gaiggibeliin: posts the ante $1
+McMarta: posts the ante $1
+McMarta: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7c Ah]
+gaiggibeliin: calls $1
+McMarta: raises $6 to $7
+gaiggibeliin: folds 
+Uncalled bet ($6) returned to McMarta
+McMarta collected $4 from pot
+McMarta: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 1: gaiggibeliin folded before Flop
+Seat 5: McMarta (button blind) collected ($4)
+
+
+
+PokerStars Hand #196074227111:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 14:50:51 EET [2019/01/22 7:50:51 ET]
+Table 'Crater VI' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($146 in chips) 
+Seat 5: McMarta ($307.07 in chips) 
+gaiggibeliin: posts the ante $1
+McMarta: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7s 9s]
+McMarta: calls $1
+gaiggibeliin: raises $6 to $7
+McMarta: folds 
+Uncalled bet ($6) returned to gaiggibeliin
+gaiggibeliin collected $4 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 1: gaiggibeliin (button blind) collected ($4)
+Seat 5: McMarta folded before Flop
+
+
+
+PokerStars Hand #196074232906:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 14:51:04 EET [2019/01/22 7:51:04 ET]
+Table 'Crater VI' 6-max Seat #5 is the button
+Seat 1: gaiggibeliin ($148 in chips) 
+Seat 5: McMarta ($305.07 in chips) 
+gaiggibeliin: posts the ante $1
+McMarta: posts the ante $1
+McMarta: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8s 7h]
+gaiggibeliin: folds 
+Uncalled bet ($1) returned to McMarta
+McMarta collected $2 from pot
+McMarta: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: McMarta (button blind) collected ($2)
+
+
+
+PokerStars Hand #196074235338:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 14:51:09 EET [2019/01/22 7:51:09 ET]
+Table 'Crater VI' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($147 in chips) 
+Seat 5: McMarta ($306.07 in chips) 
+gaiggibeliin: posts the ante $1
+McMarta: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qs 9s]
+McMarta: calls $1
+gaiggibeliin: raises $6 to $7
+McMarta: calls $6
+*** FLOP *** [6s 7c Jh]
+McMarta: checks 
+gaiggibeliin: checks 
+*** TURN *** [6s 7c Jh] [Kd]
+McMarta: checks 
+gaiggibeliin: checks 
+*** RIVER *** [6s 7c Jh Kd] [6h]
+McMarta: bets $11.40
+gaiggibeliin: folds 
+Uncalled bet ($11.40) returned to McMarta
+McMarta collected $15.20 from pot
+McMarta: doesn't show hand 
+*** SUMMARY ***
+Total pot $16 | Rake $0.80 
+Board [6s 7c Jh Kd 6h]
+Seat 1: gaiggibeliin (button blind) folded on the River
+Seat 5: McMarta collected ($15.20)
+
+
+
+PokerStars Hand #196074249029:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 14:51:39 EET [2019/01/22 7:51:39 ET]
+Table 'Crater VI' 6-max Seat #5 is the button
+Seat 1: gaiggibeliin ($139 in chips) 
+Seat 5: McMarta ($313.27 in chips) 
+gaiggibeliin: posts the ante $1
+McMarta: posts the ante $1
+McMarta: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7h Qc]
+gaiggibeliin: folds 
+Uncalled bet ($1) returned to McMarta
+McMarta collected $2 from pot
+McMarta: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: McMarta (button blind) collected ($2)
+
+
+
+PokerStars Hand #196074251388:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 14:51:44 EET [2019/01/22 7:51:44 ET]
+Table 'Crater VI' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($138 in chips) 
+Seat 5: McMarta ($314.27 in chips) 
+gaiggibeliin: posts the ante $1
+McMarta: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kh Qd]
+McMarta: folds 
+Uncalled bet ($1) returned to gaiggibeliin
+gaiggibeliin collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: gaiggibeliin (button blind) collected ($2)
+Seat 5: McMarta folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196074253958:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 14:51:50 EET [2019/01/22 7:51:50 ET]
+Table 'Crater VI' 6-max Seat #5 is the button
+Seat 1: gaiggibeliin ($139 in chips) 
+Seat 5: McMarta ($313.27 in chips) 
+gaiggibeliin: posts the ante $1
+McMarta: posts the ante $1
+McMarta: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8s Jc]
+gaiggibeliin: calls $1
+McMarta: checks 
+*** FLOP *** [Kh Js Jd]
+gaiggibeliin: bets $1.98
+McMarta: folds 
+Uncalled bet ($1.98) returned to gaiggibeliin
+gaiggibeliin collected $3.80 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [Kh Js Jd]
+Seat 1: gaiggibeliin collected ($3.80)
+Seat 5: McMarta (button blind) folded on the Flop
+
+
+
+PokerStars Hand #196074260579:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 14:52:05 EET [2019/01/22 7:52:05 ET]
+Table 'Crater VI' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($140.80 in chips) 
+Seat 5: McMarta ($311.27 in chips) 
+gaiggibeliin: posts the ante $1
+McMarta: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7c 8h]
+McMarta: calls $1
+gaiggibeliin: raises $6 to $7
+McMarta: calls $6
+*** FLOP *** [9d Tc 7h]
+McMarta: checks 
+gaiggibeliin: checks 
+*** TURN *** [9d Tc 7h] [7s]
+McMarta: checks 
+gaiggibeliin: bets $9
+McMarta: folds 
+Uncalled bet ($9) returned to gaiggibeliin
+gaiggibeliin collected $15.20 from pot
+*** SUMMARY ***
+Total pot $16 | Rake $0.80 
+Board [9d Tc 7h 7s]
+Seat 1: gaiggibeliin (button blind) collected ($15.20)
+Seat 5: McMarta folded on the Turn
+
+
+
+PokerStars Hand #196074286316:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 14:53:01 EET [2019/01/22 7:53:01 ET]
+Table 'Crater VI' 6-max Seat #5 is the button
+Seat 1: gaiggibeliin ($148 in chips) 
+Seat 5: McMarta ($303.27 in chips) 
+gaiggibeliin: posts the ante $1
+McMarta: posts the ante $1
+McMarta: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ks As]
+gaiggibeliin: calls $1
+McMarta: checks 
+*** FLOP *** [7d Qd 6s]
+gaiggibeliin: checks 
+McMarta: checks 
+*** TURN *** [7d Qd 6s] [6h]
+gaiggibeliin: checks 
+McMarta: bets $2.85
+gaiggibeliin: calls $2.85
+*** RIVER *** [7d Qd 6s 6h] [Th]
+gaiggibeliin: checks 
+McMarta: bets $4
+gaiggibeliin: folds 
+Uncalled bet ($4) returned to McMarta
+McMarta collected $9.22 from pot
+McMarta: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.70 | Rake $0.48 
+Board [7d Qd 6s 6h Th]
+Seat 1: gaiggibeliin folded on the River
+Seat 5: McMarta (button blind) collected ($9.22)
+
+
+
+PokerStars Hand #196074304955:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 14:53:43 EET [2019/01/22 7:53:43 ET]
+Table 'Crater VI' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($143.15 in chips) 
+Seat 5: McMarta ($307.64 in chips) 
+gaiggibeliin: posts the ante $1
+McMarta: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qh 6s]
+McMarta: calls $1
+gaiggibeliin: checks 
+*** FLOP *** [7c 9d 7d]
+McMarta: checks 
+gaiggibeliin: checks 
+*** TURN *** [7c 9d 7d] [9s]
+McMarta: bets $2
+gaiggibeliin: folds 
+Uncalled bet ($2) returned to McMarta
+McMarta collected $3.80 from pot
+McMarta: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [7c 9d 7d 9s]
+Seat 1: gaiggibeliin (button blind) folded on the Turn
+Seat 5: McMarta collected ($3.80)
+
+
+
+PokerStars Hand #196074316798:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 14:54:09 EET [2019/01/22 7:54:09 ET]
+Table 'Crater VI' 6-max Seat #5 is the button
+Seat 1: gaiggibeliin ($141.15 in chips) 
+Seat 5: McMarta ($309.44 in chips) 
+gaiggibeliin: posts the ante $1
+McMarta: posts the ante $1
+McMarta: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ks Ad]
+gaiggibeliin: calls $1
+McMarta: checks 
+*** FLOP *** [8d Qh Jd]
+gaiggibeliin: bets $2.55
+McMarta: calls $2.55
+*** TURN *** [8d Qh Jd] [8s]
+gaiggibeliin: bets $5.79
+McMarta: folds 
+Uncalled bet ($5.79) returned to gaiggibeliin
+gaiggibeliin collected $8.64 from pot
+*** SUMMARY ***
+Total pot $9.10 | Rake $0.46 
+Board [8d Qh Jd 8s]
+Seat 1: gaiggibeliin collected ($8.64)
+Seat 5: McMarta (button blind) folded on the Turn
+
+
+
+PokerStars Hand #196074327376:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 14:54:33 EET [2019/01/22 7:54:33 ET]
+Table 'Crater VI' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($145.24 in chips) 
+Seat 5: McMarta ($304.89 in chips) 
+gaiggibeliin: posts the ante $1
+McMarta: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8s 8d]
+McMarta: raises $4 to $5
+gaiggibeliin: calls $4
+*** FLOP *** [As Kc Ad]
+McMarta: checks 
+gaiggibeliin: checks 
+*** TURN *** [As Kc Ad] [Kh]
+McMarta: bets $2
+gaiggibeliin: folds 
+Uncalled bet ($2) returned to McMarta
+McMarta collected $11.40 from pot
+McMarta: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0.60 
+Board [As Kc Ad Kh]
+Seat 1: gaiggibeliin (button blind) folded on the Turn
+Seat 5: McMarta collected ($11.40)
+
+
+
+PokerStars Hand #196074334392:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 14:54:48 EET [2019/01/22 7:54:48 ET]
+Table 'Crater VI' 6-max Seat #5 is the button
+Seat 1: gaiggibeliin ($139.24 in chips) 
+Seat 5: McMarta ($310.29 in chips) 
+gaiggibeliin: posts the ante $1
+McMarta: posts the ante $1
+McMarta: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Js Jh]
+gaiggibeliin: calls $1
+McMarta: checks 
+*** FLOP *** [Kd Kc 7d]
+gaiggibeliin: bets $1.98
+McMarta: folds 
+Uncalled bet ($1.98) returned to gaiggibeliin
+gaiggibeliin collected $3.80 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [Kd Kc 7d]
+Seat 1: gaiggibeliin collected ($3.80)
+Seat 5: McMarta (button blind) folded on the Flop
+
+
+
+PokerStars Hand #196074339317:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 14:54:59 EET [2019/01/22 7:54:59 ET]
+Table 'Crater VI' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($141.04 in chips) 
+Seat 5: McMarta ($308.29 in chips) 
+gaiggibeliin: posts the ante $1
+McMarta: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9d Js]
+McMarta: raises $4 to $5
+gaiggibeliin: calls $4
+*** FLOP *** [Tc 7c Jh]
+McMarta: bets $3
+gaiggibeliin: raises $13 to $16
+McMarta: folds 
+Uncalled bet ($13) returned to gaiggibeliin
+gaiggibeliin collected $17.10 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.90 
+Board [Tc 7c Jh]
+Seat 1: gaiggibeliin (button blind) collected ($17.10)
+Seat 5: McMarta folded on the Flop
+
+
+
+PokerStars Hand #196074351152:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 14:55:27 EET [2019/01/22 7:55:27 ET]
+Table 'Crater VI' 6-max Seat #5 is the button
+Seat 1: gaiggibeliin ($149.14 in chips) 
+Seat 5: McMarta ($299.29 in chips) 
+gaiggibeliin: posts the ante $1
+McMarta: posts the ante $1
+McMarta: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6c Qh]
+gaiggibeliin: folds 
+Uncalled bet ($1) returned to McMarta
+McMarta collected $2 from pot
+McMarta: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: McMarta (button blind) collected ($2)
+
+
+
+PokerStars Hand #196074353492:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 14:55:33 EET [2019/01/22 7:55:33 ET]
+Table 'Crater VI' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($148.14 in chips) 
+Seat 5: McMarta ($300.29 in chips) 
+gaiggibeliin: posts the ante $1
+McMarta: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qc 6d]
+Burzhyj joins the table at seat #4 
+McMarta: calls $1
+gaiggibeliin: checks 
+*** FLOP *** [7s Ts 9c]
+McMarta: checks 
+gaiggibeliin: checks 
+*** TURN *** [7s Ts 9c] [Ah]
+McMarta: bets $2.85
+gaiggibeliin: folds 
+Uncalled bet ($2.85) returned to McMarta
+McMarta collected $3.80 from pot
+McMarta: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [7s Ts 9c Ah]
+Seat 1: gaiggibeliin (button blind) folded on the Turn
+Seat 5: McMarta collected ($3.80)
+
+
+
+PokerStars Hand #196074362332:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 14:55:55 EET [2019/01/22 7:55:55 ET]
+Table 'Crater VI' 6-max Seat #5 is the button
+Seat 1: gaiggibeliin ($146.14 in chips) 
+Seat 4: Burzhyj ($150 in chips) 
+Seat 5: McMarta ($302.09 in chips) 
+gaiggibeliin: posts the ante $1
+Burzhyj: posts the ante $1
+McMarta: posts the ante $1
+McMarta: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ks 7s]
+gaiggibeliin: folds 
+Burzhyj: raises $5 to $6
+McMarta: folds 
+Uncalled bet ($5) returned to Burzhyj
+Burzhyj collected $5 from pot
+Burzhyj: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: Burzhyj collected ($5)
+Seat 5: McMarta (button blind) folded before Flop
+
+
+
+PokerStars Hand #196074367403:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 14:56:08 EET [2019/01/22 7:56:08 ET]
+Table 'Crater VI' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($145.14 in chips) 
+Seat 4: Burzhyj ($153 in chips) 
+Seat 5: McMarta ($300.09 in chips) 
+gaiggibeliin: posts the ante $1
+Burzhyj: posts the ante $1
+McMarta: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Th Jd]
+Burzhyj: folds 
+McMarta: raises $4 to $5
+gaiggibeliin: calls $4
+*** FLOP *** [6h Ks 7s]
+McMarta: bets $3.83
+gaiggibeliin: folds 
+Uncalled bet ($3.83) returned to McMarta
+McMarta collected $12.35 from pot
+McMarta: doesn't show hand 
+*** SUMMARY ***
+Total pot $13 | Rake $0.65 
+Board [6h Ks 7s]
+Seat 1: gaiggibeliin (button blind) folded on the Flop
+Seat 4: Burzhyj folded before Flop (didn't bet)
+Seat 5: McMarta collected ($12.35)
+
+
+
+PokerStars Hand #196074389321:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 14:57:02 EET [2019/01/22 7:57:02 ET]
+Table 'Crater VI' 6-max Seat #4 is the button
+Seat 1: gaiggibeliin ($139.14 in chips) 
+Seat 4: Burzhyj ($152 in chips) 
+Seat 5: McMarta ($306.44 in chips) 
+gaiggibeliin: posts the ante $1
+Burzhyj: posts the ante $1
+McMarta: posts the ante $1
+Burzhyj: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qh 9s]
+McMarta: raises $5 to $6
+gaiggibeliin: folds 
+Burzhyj: folds 
+Uncalled bet ($5) returned to McMarta
+McMarta collected $5 from pot
+McMarta: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: Burzhyj (button blind) folded before Flop
+Seat 5: McMarta collected ($5)
+
+
+
+PokerStars Hand #196074393147:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 14:57:12 EET [2019/01/22 7:57:12 ET]
+Table 'Crater VI' 6-max Seat #5 is the button
+Seat 1: gaiggibeliin ($149 in chips) 
+Seat 4: Burzhyj ($150 in chips) 
+Seat 5: McMarta ($309.44 in chips) 
+gaiggibeliin: posts the ante $1
+Burzhyj: posts the ante $1
+McMarta: posts the ante $1
+McMarta: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ks Js]
+gaiggibeliin: calls $1
+Burzhyj: calls $1
+McMarta: checks 
+*** FLOP *** [6d Kh Ts]
+gaiggibeliin: bets $4.28
+Burzhyj: folds 
+McMarta: folds 
+Uncalled bet ($4.28) returned to gaiggibeliin
+gaiggibeliin collected $5.70 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [6d Kh Ts]
+Seat 1: gaiggibeliin collected ($5.70)
+Seat 4: Burzhyj folded on the Flop
+Seat 5: McMarta (button blind) folded on the Flop
+
+
+
+PokerStars Hand #196074400925:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 14:57:31 EET [2019/01/22 7:57:31 ET]
+Table 'Crater VI' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($152.70 in chips) 
+Seat 4: Burzhyj ($150 in chips) 
+Seat 5: McMarta ($307.44 in chips) 
+gaiggibeliin: posts the ante $1
+Burzhyj: posts the ante $1
+McMarta: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8d 9s]
+Burzhyj: raises $5 to $6
+McMarta: folds 
+gaiggibeliin: calls $5
+*** FLOP *** [Ks 9c Qc]
+Burzhyj: bets $9
+gaiggibeliin: folds 
+Uncalled bet ($9) returned to Burzhyj
+Burzhyj collected $14.25 from pot
+Burzhyj: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0.75 
+Board [Ks 9c Qc]
+Seat 1: gaiggibeliin (button blind) folded on the Flop
+Seat 4: Burzhyj collected ($14.25)
+Seat 5: McMarta folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196074408802:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 14:57:51 EET [2019/01/22 7:57:51 ET]
+Table 'Crater VI' 6-max Seat #4 is the button
+Seat 1: gaiggibeliin ($145.70 in chips) 
+Seat 4: Burzhyj ($157.25 in chips) 
+Seat 5: McMarta ($306.44 in chips) 
+gaiggibeliin: posts the ante $1
+Burzhyj: posts the ante $1
+McMarta: posts the ante $1
+Burzhyj: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ad Tc]
+McMarta: folds 
+gaiggibeliin: calls $1
+Burzhyj: raises $5 to $6
+gaiggibeliin: calls $5
+*** FLOP *** [Kh 6d Ac]
+gaiggibeliin: checks 
+Burzhyj: checks 
+*** TURN *** [Kh 6d Ac] [Kc]
+gaiggibeliin: checks 
+Burzhyj: bets $9
+gaiggibeliin: calls $9
+*** RIVER *** [Kh 6d Ac Kc] [7h]
+gaiggibeliin: checks 
+Burzhyj: checks 
+*** SHOW DOWN ***
+gaiggibeliin: shows [Ad Tc] (two pair, Aces and Kings)
+Burzhyj: mucks hand 
+gaiggibeliin collected $31.75 from pot
+*** SUMMARY ***
+Total pot $33 | Rake $1.25 
+Board [Kh 6d Ac Kc 7h]
+Seat 1: gaiggibeliin showed [Ad Tc] and won ($31.75) with two pair, Aces and Kings
+Seat 4: Burzhyj (button blind) mucked [8s 8h]
+Seat 5: McMarta folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196074431431:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 14:58:47 EET [2019/01/22 7:58:47 ET]
+Table 'Crater VI' 6-max Seat #5 is the button
+Seat 1: gaiggibeliin ($161.45 in chips) 
+Seat 4: Burzhyj ($150 in chips) 
+Seat 5: McMarta ($305.44 in chips) 
+gaiggibeliin: posts the ante $1
+Burzhyj: posts the ante $1
+McMarta: posts the ante $1
+McMarta: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7s Td]
+gaiggibeliin: folds 
+Burzhyj: raises $5 to $6
+McMarta: calls $5
+*** FLOP *** [Ah Th Qs]
+Burzhyj: bets $9
+McMarta: folds 
+Uncalled bet ($9) returned to Burzhyj
+Burzhyj collected $14.25 from pot
+Burzhyj: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0.75 
+Board [Ah Th Qs]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: Burzhyj collected ($14.25)
+Seat 5: McMarta (button blind) folded on the Flop
+
+
+
+PokerStars Hand #196074438619:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 14:59:05 EET [2019/01/22 7:59:05 ET]
+Table 'Crater VI' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($160.45 in chips) 
+Seat 4: Burzhyj ($157.25 in chips) 
+Seat 5: McMarta ($298.44 in chips) 
+gaiggibeliin: posts the ante $1
+Burzhyj: posts the ante $1
+McMarta: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jd 9c]
+Burzhyj: raises $5 to $6
+McMarta: folds 
+gaiggibeliin: calls $5
+*** FLOP *** [Kc Th 8s]
+Burzhyj: bets $9
+gaiggibeliin: raises $31 to $40
+sss457 joins the table at seat #2 
+Burzhyj: folds 
+Uncalled bet ($31) returned to gaiggibeliin
+gaiggibeliin collected $31.75 from pot
+*** SUMMARY ***
+Total pot $33 | Rake $1.25 
+Board [Kc Th 8s]
+Seat 1: gaiggibeliin (button blind) collected ($31.75)
+Seat 4: Burzhyj folded on the Flop
+Seat 5: McMarta folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196074461116:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 15:00:01 EET [2019/01/22 8:00:01 ET]
+Table 'Crater VI' 6-max Seat #4 is the button
+Seat 1: gaiggibeliin ($176.20 in chips) 
+Seat 2: sss457 ($150 in chips) 
+Seat 4: Burzhyj ($150 in chips) 
+Seat 5: McMarta ($297.44 in chips) 
+gaiggibeliin: posts the ante $1
+sss457: posts the ante $1
+Burzhyj: posts the ante $1
+McMarta: posts the ante $1
+Burzhyj: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jh Ts]
+McMarta: folds 
+gaiggibeliin: calls $1
+sss457: folds 
+Burzhyj: raises $6 to $7
+gaiggibeliin: calls $6
+*** FLOP *** [8h Th 8d]
+gaiggibeliin: checks 
+Burzhyj: bets $9
+gaiggibeliin: raises $21 to $30
+Burzhyj: folds 
+Uncalled bet ($21) returned to gaiggibeliin
+gaiggibeliin collected $34.75 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $1.25 
+Board [8h Th 8d]
+Seat 1: gaiggibeliin collected ($34.75)
+Seat 2: sss457 folded before Flop (didn't bet)
+Seat 4: Burzhyj (button blind) folded on the Flop
+Seat 5: McMarta folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196074482494:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 15:00:52 EET [2019/01/22 8:00:52 ET]
+Table 'Crater VI' 6-max Seat #5 is the button
+Seat 1: gaiggibeliin ($193.95 in chips) 
+Seat 2: sss457 ($149 in chips) 
+Seat 4: Burzhyj ($150 in chips) 
+Seat 5: McMarta ($296.44 in chips) 
+gaiggibeliin: posts the ante $1
+sss457: posts the ante $1
+Burzhyj: posts the ante $1
+McMarta: posts the ante $1
+McMarta: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [As 8c]
+gaiggibeliin: folds 
+sss457: calls $1
+Burzhyj: raises $7 to $8
+McMarta: calls $7
+sss457: folds 
+*** FLOP *** [7s Kh Jd]
+Burzhyj: bets $9.98
+McMarta: calls $9.98
+*** TURN *** [7s Kh Jd] [Ts]
+Burzhyj: bets $26.47
+McMarta: calls $26.47
+*** RIVER *** [7s Kh Jd Ts] [Qc]
+Burzhyj: bets $48
+McMarta: calls $48
+*** SHOW DOWN ***
+Burzhyj: shows [8h Th] (a pair of Tens)
+McMarta: shows [Td 9h] (a straight, Nine to King)
+McMarta collected $188.65 from pot
+*** SUMMARY ***
+Total pot $189.90 | Rake $1.25 
+Board [7s Kh Jd Ts Qc]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: sss457 folded before Flop
+Seat 4: Burzhyj showed [8h Th] and lost with a pair of Tens
+Seat 5: McMarta (button blind) showed [Td 9h] and won ($188.65) with a straight, Nine to King
+
+
+
+PokerStars Hand #196074507724:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 15:01:49 EET [2019/01/22 8:01:49 ET]
+Table 'Crater VI' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($192.95 in chips) 
+Seat 2: sss457 ($147 in chips) 
+Seat 4: Burzhyj ($150 in chips) 
+Seat 5: McMarta ($391.64 in chips) 
+gaiggibeliin: posts the ante $1
+sss457: posts the ante $1
+Burzhyj: posts the ante $1
+McMarta: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7d 9d]
+sss457: calls $1
+Burzhyj: folds 
+McMarta: calls $1
+gaiggibeliin: checks 
+*** FLOP *** [Qd Jc 6d]
+sss457: bets $4.99
+McMarta: folds 
+gaiggibeliin: calls $4.99
+*** TURN *** [Qd Jc 6d] [As]
+sss457: bets $12.10
+gaiggibeliin: calls $12.10
+*** RIVER *** [Qd Jc 6d As] [6c]
+sss457: bets $29.95
+gaiggibeliin: folds 
+Uncalled bet ($29.95) returned to sss457
+sss457 collected $39.93 from pot
+sss457: doesn't show hand 
+*** SUMMARY ***
+Total pot $41.18 | Rake $1.25 
+Board [Qd Jc 6d As 6c]
+Seat 1: gaiggibeliin (button blind) folded on the River
+Seat 2: sss457 collected ($39.93)
+Seat 4: Burzhyj folded before Flop (didn't bet)
+Seat 5: McMarta folded on the Flop
+
+
+
+PokerStars Hand #196074538808:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 15:02:57 EET [2019/01/22 8:02:57 ET]
+Table 'Crater VI' 6-max Seat #2 is the button
+Seat 1: gaiggibeliin ($173.86 in chips) 
+Seat 2: sss457 ($167.84 in chips) 
+Seat 4: Burzhyj ($150 in chips) 
+Seat 5: McMarta ($389.64 in chips) 
+gaiggibeliin: posts the ante $1
+sss457: posts the ante $1
+Burzhyj: posts the ante $1
+McMarta: posts the ante $1
+sss457: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9c 6c]
+Burzhyj: folds 
+McMarta: folds 
+gaiggibeliin: calls $1
+sss457: checks 
+*** FLOP *** [8s Qc Td]
+gaiggibeliin: bets $3.82
+sss457: calls $3.82
+*** TURN *** [8s Qc Td] [7c]
+gaiggibeliin: bets $9.72
+sss457: calls $9.72
+*** RIVER *** [8s Qc Td 7c] [8c]
+gaiggibeliin: bets $23.87
+sss457: calls $23.87
+*** SHOW DOWN ***
+gaiggibeliin: shows [9c 6c] (a flush, Queen high)
+sss457: mucks hand 
+gaiggibeliin collected $79.57 from pot
+*** SUMMARY ***
+Total pot $80.82 | Rake $1.25 
+Board [8s Qc Td 7c 8c]
+Seat 1: gaiggibeliin showed [9c 6c] and won ($79.57) with a flush, Queen high
+Seat 2: sss457 (button blind) mucked [8d 9s]
+Seat 4: Burzhyj folded before Flop (didn't bet)
+Seat 5: McMarta folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196074565326:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 15:03:55 EET [2019/01/22 8:03:55 ET]
+Table 'Crater VI' 6-max Seat #4 is the button
+Seat 1: gaiggibeliin ($214.02 in chips) 
+Seat 2: sss457 ($128.43 in chips) 
+Seat 4: Burzhyj ($150 in chips) 
+Seat 5: McMarta ($388.64 in chips) 
+gaiggibeliin: posts the ante $1
+sss457: posts the ante $1
+Burzhyj: posts the ante $1
+McMarta: posts the ante $1
+Burzhyj: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Js Ad]
+McMarta: raises $5 to $6
+gaiggibeliin: folds 
+sss457: folds 
+Burzhyj: folds 
+Uncalled bet ($5) returned to McMarta
+McMarta collected $6 from pot
+McMarta: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: sss457 folded before Flop (didn't bet)
+Seat 4: Burzhyj (button blind) folded before Flop
+Seat 5: McMarta collected ($6)
+
+
+
+PokerStars Hand #196074576257:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 15:04:19 EET [2019/01/22 8:04:19 ET]
+Table 'Crater VI' 6-max Seat #5 is the button
+Seat 1: gaiggibeliin ($213.02 in chips) 
+Seat 2: sss457 ($127.43 in chips) 
+Seat 4: Burzhyj ($150 in chips) 
+Seat 5: McMarta ($392.64 in chips) 
+gaiggibeliin: posts the ante $1
+sss457: posts the ante $1
+Burzhyj: posts the ante $1
+McMarta: posts the ante $1
+McMarta: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ad Kc]
+gaiggibeliin: calls $1
+sss457: folds 
+Burzhyj: folds 
+McMarta: checks 
+*** FLOP *** [Ac 8s 7d]
+gaiggibeliin: bets $3.82
+McMarta: folds 
+Uncalled bet ($3.82) returned to gaiggibeliin
+gaiggibeliin collected $5.70 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Ac 8s 7d]
+Seat 1: gaiggibeliin collected ($5.70)
+Seat 2: sss457 folded before Flop (didn't bet)
+Seat 4: Burzhyj folded before Flop (didn't bet)
+Seat 5: McMarta (button blind) folded on the Flop
+
+
+
+PokerStars Hand #196074598943:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 15:05:09 EET [2019/01/22 8:05:09 ET]
+Table 'Crater VI' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($216.72 in chips) 
+Seat 2: sss457 ($126.43 in chips) 
+Seat 4: Burzhyj ($150 in chips) 
+Seat 5: McMarta ($390.64 in chips) 
+gaiggibeliin: posts the ante $1
+sss457: posts the ante $1
+Burzhyj: posts the ante $1
+McMarta: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8s 9h]
+sss457: calls $1
+Burzhyj: calls $1
+McMarta: calls $1
+gaiggibeliin: checks 
+*** FLOP *** [Ad Jh Td]
+sss457: bets $5.70
+Burzhyj: folds 
+McMarta: folds 
+gaiggibeliin: folds 
+Uncalled bet ($5.70) returned to sss457
+sss457 collected $7.60 from pot
+sss457: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [Ad Jh Td]
+Seat 1: gaiggibeliin (button blind) folded on the Flop
+Seat 2: sss457 collected ($7.60)
+Seat 4: Burzhyj folded on the Flop
+Seat 5: McMarta folded on the Flop
+
+
+
+PokerStars Hand #196074617323:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 15:05:49 EET [2019/01/22 8:05:49 ET]
+Table 'Crater VI' 6-max Seat #2 is the button
+Seat 1: gaiggibeliin ($214.72 in chips) 
+Seat 2: sss457 ($132.03 in chips) 
+Seat 4: Burzhyj ($150 in chips) 
+Seat 5: McMarta ($388.64 in chips) 
+gaiggibeliin: posts the ante $1
+sss457: posts the ante $1
+Burzhyj: posts the ante $1
+McMarta: posts the ante $1
+sss457: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7c Td]
+Burzhyj: raises $1 to $2
+McMarta: folds 
+gaiggibeliin: calls $2
+sss457: calls $1
+*** FLOP *** [9s Js Kd]
+Burzhyj: checks 
+gaiggibeliin: checks 
+sss457: checks 
+*** TURN *** [9s Js Kd] [6h]
+Burzhyj: checks 
+gaiggibeliin: bets $15
+sss457: folds 
+Burzhyj: folds 
+Uncalled bet ($15) returned to gaiggibeliin
+gaiggibeliin collected $9.50 from pot
+*** SUMMARY ***
+Total pot $10 | Rake $0.50 
+Board [9s Js Kd 6h]
+Seat 1: gaiggibeliin collected ($9.50)
+Seat 2: sss457 (button blind) folded on the Turn
+Seat 4: Burzhyj folded on the Turn
+Seat 5: McMarta folded before Flop (didn't bet)
+
+
+

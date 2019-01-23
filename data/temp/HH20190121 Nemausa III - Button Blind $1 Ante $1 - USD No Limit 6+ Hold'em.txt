@@ -1,0 +1,352 @@
+﻿PokerStars Hand #196062841559:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 3:56:08 EET [2019/01/21 20:56:08 ET]
+Table 'Nemausa III' 6-max Seat #3 is the button
+Seat 2: gaiggibeliin ($150 in chips) 
+Seat 3: S3d3m2 ($150 in chips) 
+gaiggibeliin: posts the ante $1
+S3d3m2: posts the ante $1
+S3d3m2: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8c Ah]
+gaiggibeliin: calls $1
+S3d3m2: raises $6 to $7
+gaiggibeliin: folds 
+Uncalled bet ($6) returned to S3d3m2
+S3d3m2 collected $4 from pot
+S3d3m2: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 2: gaiggibeliin folded before Flop
+Seat 3: S3d3m2 (button blind) collected ($4)
+
+
+
+PokerStars Hand #196062846611:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 3:56:24 EET [2019/01/21 20:56:24 ET]
+Table 'Nemausa III' 6-max Seat #2 is the button
+Seat 2: gaiggibeliin ($148 in chips) 
+Seat 3: S3d3m2 ($152 in chips) 
+gaiggibeliin: posts the ante $1
+S3d3m2: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ts Jd]
+S3d3m2: raises $6 to $7
+gaiggibeliin: calls $6
+*** FLOP *** [Ks Kc 8s]
+S3d3m2: bets $11.86
+gaiggibeliin: raises $12.84 to $24.70
+S3d3m2: raises $24.98 to $49.68
+gaiggibeliin: calls $24.98
+*** TURN *** [Ks Kc 8s] [Ad]
+S3d3m2: bets $94.32 and is all-in
+gaiggibeliin: folds 
+Uncalled bet ($94.32) returned to S3d3m2
+S3d3m2 collected $114.11 from pot
+S3d3m2: doesn't show hand 
+*** SUMMARY ***
+Total pot $115.36 | Rake $1.25 
+Board [Ks Kc 8s Ad]
+Seat 2: gaiggibeliin (button blind) folded on the Turn
+Seat 3: S3d3m2 collected ($114.11)
+
+
+
+PokerStars Hand #196062868982:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 3:57:35 EET [2019/01/21 20:57:35 ET]
+Table 'Nemausa III' 6-max Seat #3 is the button
+Seat 2: gaiggibeliin ($150 in chips) 
+Seat 3: S3d3m2 ($208.43 in chips) 
+gaiggibeliin: posts the ante $1
+S3d3m2: posts the ante $1
+S3d3m2: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7c 9s]
+gaiggibeliin: calls $1
+S3d3m2: raises $6 to $7
+gaiggibeliin: calls $6
+*** FLOP *** [6c 8c Js]
+gaiggibeliin: checks 
+S3d3m2: checks 
+*** TURN *** [6c 8c Js] [8s]
+gaiggibeliin: bets $7.90
+S3d3m2: folds 
+Uncalled bet ($7.90) returned to gaiggibeliin
+gaiggibeliin collected $15.20 from pot
+*** SUMMARY ***
+Total pot $16 | Rake $0.80 
+Board [6c 8c Js 8s]
+Seat 2: gaiggibeliin collected ($15.20)
+Seat 3: S3d3m2 (button blind) folded on the Turn
+
+
+
+PokerStars Hand #196062878326:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 3:58:04 EET [2019/01/21 20:58:04 ET]
+Table 'Nemausa III' 6-max Seat #2 is the button
+Seat 2: gaiggibeliin ($157.20 in chips) 
+Seat 3: S3d3m2 ($200.43 in chips) 
+gaiggibeliin: posts the ante $1
+S3d3m2: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qc Tc]
+S3d3m2: calls $1
+gaiggibeliin: raises $4 to $5
+S3d3m2: folds 
+Uncalled bet ($4) returned to gaiggibeliin
+gaiggibeliin collected $4 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 2: gaiggibeliin (button blind) collected ($4)
+Seat 3: S3d3m2 folded before Flop
+
+
+
+PokerStars Hand #196062881816:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 3:58:16 EET [2019/01/21 20:58:16 ET]
+Table 'Nemausa III' 6-max Seat #3 is the button
+Seat 2: gaiggibeliin ($159.20 in chips) 
+Seat 3: S3d3m2 ($198.43 in chips) 
+gaiggibeliin: posts the ante $1
+S3d3m2: posts the ante $1
+S3d3m2: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6c Ks]
+gaiggibeliin: folds 
+Uncalled bet ($1) returned to S3d3m2
+S3d3m2 collected $2 from pot
+S3d3m2: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: S3d3m2 (button blind) collected ($2)
+
+
+
+PokerStars Hand #196062883523:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 3:58:21 EET [2019/01/21 20:58:21 ET]
+Table 'Nemausa III' 6-max Seat #2 is the button
+Seat 2: gaiggibeliin ($158.20 in chips) 
+Seat 3: S3d3m2 ($199.43 in chips) 
+gaiggibeliin: posts the ante $1
+S3d3m2: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Tc As]
+S3d3m2: calls $1
+gaiggibeliin: raises $4 to $5
+S3d3m2: calls $4
+*** FLOP *** [Ks 9c 6d]
+S3d3m2: checks 
+gaiggibeliin: checks 
+*** TURN *** [Ks 9c 6d] [Kd]
+S3d3m2: checks 
+gaiggibeliin: checks 
+*** RIVER *** [Ks 9c 6d Kd] [Qs]
+S3d3m2: checks 
+gaiggibeliin: checks 
+*** SHOW DOWN ***
+S3d3m2: shows [7c 9d] (two pair, Kings and Nines)
+gaiggibeliin: mucks hand 
+S3d3m2 collected $11.40 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.60 
+Board [Ks 9c 6d Kd Qs]
+Seat 2: gaiggibeliin (button blind) mucked [Tc As]
+Seat 3: S3d3m2 showed [7c 9d] and won ($11.40) with two pair, Kings and Nines
+
+
+
+PokerStars Hand #196062897948:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 3:59:07 EET [2019/01/21 20:59:07 ET]
+Table 'Nemausa III' 6-max Seat #3 is the button
+Seat 2: gaiggibeliin ($152.20 in chips) 
+Seat 3: S3d3m2 ($204.83 in chips) 
+gaiggibeliin: posts the ante $1
+S3d3m2: posts the ante $1
+S3d3m2: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6c Kh]
+gaiggibeliin: folds 
+Uncalled bet ($1) returned to S3d3m2
+S3d3m2 collected $2 from pot
+S3d3m2: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: S3d3m2 (button blind) collected ($2)
+
+
+
+PokerStars Hand #196062899517:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 3:59:12 EET [2019/01/21 20:59:12 ET]
+Table 'Nemausa III' 6-max Seat #2 is the button
+Seat 2: gaiggibeliin ($151.20 in chips) 
+Seat 3: S3d3m2 ($205.83 in chips) 
+gaiggibeliin: posts the ante $1
+S3d3m2: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6h Td]
+S3d3m2: calls $1
+gaiggibeliin: checks 
+*** FLOP *** [9h Qd Kc]
+S3d3m2: checks 
+gaiggibeliin: checks 
+*** TURN *** [9h Qd Kc] [Ts]
+S3d3m2: checks 
+gaiggibeliin: checks 
+*** RIVER *** [9h Qd Kc Ts] [9c]
+S3d3m2: checks 
+gaiggibeliin: checks 
+*** SHOW DOWN ***
+S3d3m2: shows [8d Qh] (two pair, Queens and Nines)
+gaiggibeliin: mucks hand 
+S3d3m2 collected $3.80 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [9h Qd Kc Ts 9c]
+Seat 2: gaiggibeliin (button blind) mucked [6h Td]
+Seat 3: S3d3m2 showed [8d Qh] and won ($3.80) with two pair, Queens and Nines
+
+
+
+PokerStars Hand #196062912261:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 3:59:53 EET [2019/01/21 20:59:53 ET]
+Table 'Nemausa III' 6-max Seat #3 is the button
+Seat 2: gaiggibeliin ($149.20 in chips) 
+Seat 3: S3d3m2 ($207.63 in chips) 
+gaiggibeliin: posts the ante $1
+S3d3m2: posts the ante $1
+S3d3m2: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9c 8s]
+gaiggibeliin: calls $1
+S3d3m2: raises $6 to $7
+gaiggibeliin: calls $6
+*** FLOP *** [9h Jh As]
+gaiggibeliin: checks 
+S3d3m2: bets $8
+gaiggibeliin: folds 
+Uncalled bet ($8) returned to S3d3m2
+S3d3m2 collected $15.20 from pot
+S3d3m2: doesn't show hand 
+*** SUMMARY ***
+Total pot $16 | Rake $0.80 
+Board [9h Jh As]
+Seat 2: gaiggibeliin folded on the Flop
+Seat 3: S3d3m2 (button blind) collected ($15.20)
+
+
+
+PokerStars Hand #196062922160:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 4:00:23 EET [2019/01/21 21:00:23 ET]
+Table 'Nemausa III' 6-max Seat #2 is the button
+Seat 2: gaiggibeliin ($141.20 in chips) 
+Seat 3: S3d3m2 ($214.83 in chips) 
+gaiggibeliin: posts the ante $1
+S3d3m2: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9h Ks]
+S3d3m2: calls $1
+gaiggibeliin: raises $6 to $7
+S3d3m2: calls $6
+*** FLOP *** [Kc 8s 7h]
+S3d3m2: checks 
+gaiggibeliin: bets $7.90
+S3d3m2: calls $7.90
+*** TURN *** [Kc 8s 7h] [7d]
+S3d3m2: checks 
+gaiggibeliin: checks 
+*** RIVER *** [Kc 8s 7h 7d] [6h]
+S3d3m2: checks 
+gaiggibeliin: checks 
+*** SHOW DOWN ***
+S3d3m2: shows [8c Jc] (two pair, Eights and Sevens)
+gaiggibeliin: shows [9h Ks] (two pair, Kings and Sevens)
+gaiggibeliin collected $30.55 from pot
+*** SUMMARY ***
+Total pot $31.80 | Rake $1.25 
+Board [Kc 8s 7h 7d 6h]
+Seat 2: gaiggibeliin (button blind) showed [9h Ks] and won ($30.55) with two pair, Kings and Sevens
+Seat 3: S3d3m2 showed [8c Jc] and lost with two pair, Eights and Sevens
+
+
+
+PokerStars Hand #196062939858:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 4:01:16 EET [2019/01/21 21:01:16 ET]
+Table 'Nemausa III' 6-max Seat #3 is the button
+Seat 2: gaiggibeliin ($155.85 in chips) 
+Seat 3: S3d3m2 ($198.93 in chips) 
+gaiggibeliin: posts the ante $1
+S3d3m2: posts the ante $1
+S3d3m2: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ks 8c]
+gaiggibeliin: calls $1
+S3d3m2: raises $6 to $7
+gaiggibeliin: folds 
+Uncalled bet ($6) returned to S3d3m2
+S3d3m2 collected $4 from pot
+S3d3m2: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 2: gaiggibeliin folded before Flop
+Seat 3: S3d3m2 (button blind) collected ($4)
+
+
+
+PokerStars Hand #196062943916:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 4:01:28 EET [2019/01/21 21:01:28 ET]
+Table 'Nemausa III' 6-max Seat #2 is the button
+Seat 2: gaiggibeliin ($153.85 in chips) 
+Seat 3: S3d3m2 ($200.93 in chips) 
+gaiggibeliin: posts the ante $1
+S3d3m2: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kc Qh]
+S3d3m2: calls $1
+gaiggibeliin: raises $6 to $7
+S3d3m2: calls $6
+*** FLOP *** [Th 8h 9s]
+S3d3m2: checks 
+gaiggibeliin: checks 
+*** TURN *** [Th 8h 9s] [6d]
+S3d3m2: checks 
+gaiggibeliin: checks 
+*** RIVER *** [Th 8h 9s 6d] [Jh]
+S3d3m2: checks 
+gaiggibeliin: bets $11.40
+S3d3m2: folds 
+Uncalled bet ($11.40) returned to gaiggibeliin
+gaiggibeliin collected $15.20 from pot
+*** SUMMARY ***
+Total pot $16 | Rake $0.80 
+Board [Th 8h 9s 6d Jh]
+Seat 2: gaiggibeliin (button blind) collected ($15.20)
+Seat 3: S3d3m2 folded on the River
+
+
+
+PokerStars Hand #196062961443:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 4:02:16 EET [2019/01/21 21:02:16 ET]
+Table 'Nemausa III' 6-max Seat #3 is the button
+Seat 2: gaiggibeliin ($161.05 in chips) 
+Seat 3: S3d3m2 ($192.93 in chips) 
+gaiggibeliin: posts the ante $1
+S3d3m2: posts the ante $1
+S3d3m2: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Th 6h]
+gaiggibeliin: calls $1
+S3d3m2: raises $6 to $7
+gaiggibeliin: calls $6
+*** FLOP *** [Kd 8h Jd]
+gaiggibeliin: checks 
+S3d3m2: checks 
+*** TURN *** [Kd 8h Jd] [Qd]
+gaiggibeliin: checks 
+S3d3m2: checks 
+*** RIVER *** [Kd 8h Jd Qd] [Ac]
+gaiggibeliin: bets $10.18
+S3d3m2: folds 
+Uncalled bet ($10.18) returned to gaiggibeliin
+gaiggibeliin collected $15.20 from pot
+*** SUMMARY ***
+Total pot $16 | Rake $0.80 
+Board [Kd 8h Jd Qd Ac]
+Seat 2: gaiggibeliin collected ($15.20)
+Seat 3: S3d3m2 (button blind) folded on the River
+
+
+

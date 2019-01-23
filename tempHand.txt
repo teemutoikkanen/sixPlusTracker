@@ -1,0 +1,34 @@
+PokerStars Hand #196092878206:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/22 22:46:06 EET [2019/01/22 15:46:06 ET]
+Table 'Tomita V' 6-max Seat #2 is the button
+Seat 2: Gen DisColor ($275.26 in chips) 
+Seat 3: w00tLOL ($178.31 in chips) 
+Seat 6: gaiggibeliin ($182.35 in chips) 
+Gen DisColor: posts the ante $1
+w00tLOL: posts the ante $1
+gaiggibeliin: posts the ante $1
+Gen DisColor: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kc Qd]
+w00tLOL: folds 
+gaiggibeliin: calls $1
+Gen DisColor: raises $2 to $3
+gaiggibeliin: calls $2
+*** FLOP *** [Jh 7d Td]
+gaiggibeliin: checks 
+Gen DisColor: checks 
+*** TURN *** [Jh 7d Td] [7h]
+gaiggibeliin: bets $5
+Gen DisColor: calls $5
+*** RIVER *** [Jh 7d Td 7h] [Jc]
+gaiggibeliin: bets $13.54
+Gen DisColor: calls $13.54
+*** SHOW DOWN ***
+gaiggibeliin: shows [Kc Qd] (two pair, Jacks and Sevens)
+Gen DisColor: shows [6s 7s] (a full house, Sevens full of Jacks)
+Gen DisColor collected $44.83 from pot
+*** SUMMARY ***
+Total pot $46.08 | Rake $1.25 
+Board [Jh 7d Td 7h Jc]
+Seat 2: Gen DisColor (button blind) showed [6s 7s] and won ($44.83) with a full house, Sevens full of Jacks
+Seat 3: w00tLOL folded before Flop (didn't bet)
+Seat 6: gaiggibeliin showed [Kc Qd] and lost with two pair, Jacks and Sevens

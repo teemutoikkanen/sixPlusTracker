@@ -1,0 +1,624 @@
+﻿PokerStars Hand #196049744765:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 22:17:25 EET [2019/01/21 15:17:25 ET]
+Table 'Ophiuchus VII' 6-max Seat #1 is the button
+Seat 1: Zihuatanejo3 ($150 in chips) 
+Seat 4: gaiggibeliin ($150 in chips) 
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Zihuatanejo3: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ac Tc]
+gaiggibeliin: calls $1
+Zihuatanejo3: checks 
+*** FLOP *** [9s 7s 8s]
+gaiggibeliin: bets $2.85
+Zihuatanejo3: folds 
+Uncalled bet ($2.85) returned to gaiggibeliin
+gaiggibeliin collected $3.80 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [9s 7s 8s]
+Seat 1: Zihuatanejo3 (button blind) folded on the Flop
+Seat 4: gaiggibeliin collected ($3.80)
+
+
+
+PokerStars Hand #196049778522:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 22:18:05 EET [2019/01/21 15:18:05 ET]
+Table 'Ophiuchus VII' 6-max Seat #4 is the button
+Seat 1: Zihuatanejo3 ($148 in chips) 
+Seat 4: gaiggibeliin ($151.80 in chips) 
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qc Qh]
+Zihuatanejo3: raises $4 to $5
+gaiggibeliin: raises $12 to $17
+Zihuatanejo3: calls $12
+*** FLOP *** [8s Th Qd]
+Zihuatanejo3: checks 
+gaiggibeliin: bets $22
+Zihuatanejo3: raises $108 to $130 and is all-in
+gaiggibeliin: calls $108
+*** FIRST TURN *** [8s Th Qd] [9s]
+*** FIRST RIVER *** [8s Th Qd 9s] [Td]
+*** SECOND TURN *** [8s Th Qd] [8h]
+*** SECOND RIVER *** [8s Th Qd 8h] [8c]
+*** FIRST SHOW DOWN ***
+Zihuatanejo3: shows [Js Ts] (a straight, Eight to Queen)
+gaiggibeliin: shows [Qc Qh] (a full house, Queens full of Tens)
+gaiggibeliin collected $147.38 from pot
+*** SECOND SHOW DOWN ***
+Zihuatanejo3: shows [Js Ts] (a full house, Eights full of Tens)
+gaiggibeliin: shows [Qc Qh] (a full house, Queens full of Eights)
+gaiggibeliin collected $147.37 from pot
+*** SUMMARY ***
+Total pot $296 | Rake $1.25 
+Hand was run twice
+FIRST Board [8s Th Qd 9s Td]
+SECOND Board [8s Th Qd 8h 8c]
+Seat 1: Zihuatanejo3 showed [Js Ts] and lost with a straight, Eight to Queen, and lost with a full house, Eights full of Tens
+Seat 4: gaiggibeliin (button blind) showed [Qc Qh] and won ($147.38) with a full house, Queens full of Tens, and won ($147.37) with a full house, Queens full of Eights
+
+
+
+PokerStars Hand #196049848243:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 22:19:25 EET [2019/01/21 15:19:25 ET]
+Table 'Ophiuchus VII' 6-max Seat #1 is the button
+Seat 1: Zihuatanejo3 ($131 in chips) 
+Seat 4: gaiggibeliin ($298.55 in chips) 
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Zihuatanejo3: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kh Ac]
+gaiggibeliin: calls $1
+Zihuatanejo3: checks 
+*** FLOP *** [6h 7c Jh]
+gaiggibeliin: checks 
+Zihuatanejo3: bets $2.53
+gaiggibeliin: folds 
+Uncalled bet ($2.53) returned to Zihuatanejo3
+Zihuatanejo3 collected $3.80 from pot
+Zihuatanejo3: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [6h 7c Jh]
+Seat 1: Zihuatanejo3 (button blind) collected ($3.80)
+Seat 4: gaiggibeliin folded on the Flop
+
+
+
+PokerStars Hand #196049870595:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 22:19:51 EET [2019/01/21 15:19:51 ET]
+Table 'Ophiuchus VII' 6-max Seat #4 is the button
+Seat 1: Zihuatanejo3 ($132.80 in chips) 
+Seat 4: gaiggibeliin ($296.55 in chips) 
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kc Jh]
+Zihuatanejo3: folds 
+Uncalled bet ($1) returned to gaiggibeliin
+gaiggibeliin collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin (button blind) collected ($2)
+
+
+
+PokerStars Hand #196049877631:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 22:19:59 EET [2019/01/21 15:19:59 ET]
+Table 'Ophiuchus VII' 6-max Seat #1 is the button
+Seat 1: Zihuatanejo3 ($131.80 in chips) 
+Seat 4: gaiggibeliin ($297.55 in chips) 
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Zihuatanejo3: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ah Qs]
+gaiggibeliin: calls $1
+Zihuatanejo3: checks 
+*** FLOP *** [Js 6d Ts]
+gaiggibeliin: checks 
+Zihuatanejo3: bets $3
+gaiggibeliin: calls $3
+*** TURN *** [Js 6d Ts] [7c]
+gaiggibeliin: checks 
+Zihuatanejo3: bets $7
+gaiggibeliin: folds 
+Uncalled bet ($7) returned to Zihuatanejo3
+Zihuatanejo3 collected $9.50 from pot
+Zihuatanejo3: doesn't show hand 
+*** SUMMARY ***
+Total pot $10 | Rake $0.50 
+Board [Js 6d Ts 7c]
+Seat 1: Zihuatanejo3 (button blind) collected ($9.50)
+Seat 4: gaiggibeliin folded on the Turn
+
+
+
+PokerStars Hand #196049902938:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 22:20:29 EET [2019/01/21 15:20:29 ET]
+Table 'Ophiuchus VII' 6-max Seat #4 is the button
+Seat 1: Zihuatanejo3 ($136.30 in chips) 
+Seat 4: gaiggibeliin ($292.55 in chips) 
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Td Qh]
+Zihuatanejo3: raises $4 to $5
+gaiggibeliin: calls $4
+*** FLOP *** [Ks 6h 9c]
+Zihuatanejo3: bets $6
+gaiggibeliin: folds 
+Uncalled bet ($6) returned to Zihuatanejo3
+Zihuatanejo3 collected $11.40 from pot
+Zihuatanejo3: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0.60 
+Board [Ks 6h 9c]
+Seat 1: Zihuatanejo3 collected ($11.40)
+Seat 4: gaiggibeliin (button blind) folded on the Flop
+
+
+
+PokerStars Hand #196049912709:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 22:20:40 EET [2019/01/21 15:20:40 ET]
+Table 'Ophiuchus VII' 6-max Seat #1 is the button
+Seat 1: Zihuatanejo3 ($141.70 in chips) 
+Seat 4: gaiggibeliin ($286.55 in chips) 
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Zihuatanejo3: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Th Jc]
+gaiggibeliin: calls $1
+Zihuatanejo3: raises $5 to $6
+gaiggibeliin: calls $5
+*** FLOP *** [6d Js Ts]
+gaiggibeliin: checks 
+Zihuatanejo3: bets $8.87
+gaiggibeliin: raises $31.13 to $40
+Zihuatanejo3: folds 
+Uncalled bet ($31.13) returned to gaiggibeliin
+gaiggibeliin collected $30.49 from pot
+*** SUMMARY ***
+Total pot $31.74 | Rake $1.25 
+Board [6d Js Ts]
+Seat 1: Zihuatanejo3 (button blind) folded on the Flop
+Seat 4: gaiggibeliin collected ($30.49)
+
+
+
+PokerStars Hand #196049951758:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 22:21:25 EET [2019/01/21 15:21:25 ET]
+Table 'Ophiuchus VII' 6-max Seat #4 is the button
+Seat 1: Zihuatanejo3 ($125.83 in chips) 
+Seat 4: gaiggibeliin ($301.17 in chips) 
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ks 7c]
+Zihuatanejo3: raises $3 to $4
+gaiggibeliin: calls $3
+*** FLOP *** [6c Jc 9h]
+Zihuatanejo3: checks 
+gaiggibeliin: checks 
+*** TURN *** [6c Jc 9h] [6d]
+Zihuatanejo3: bets $6.33
+gaiggibeliin: folds 
+Uncalled bet ($6.33) returned to Zihuatanejo3
+Zihuatanejo3 collected $9.50 from pot
+Zihuatanejo3: doesn't show hand 
+*** SUMMARY ***
+Total pot $10 | Rake $0.50 
+Board [6c Jc 9h 6d]
+Seat 1: Zihuatanejo3 collected ($9.50)
+Seat 4: gaiggibeliin (button blind) folded on the Turn
+
+
+
+PokerStars Hand #196049994008:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 22:22:13 EET [2019/01/21 15:22:13 ET]
+Table 'Ophiuchus VII' 6-max Seat #1 is the button
+Seat 1: Zihuatanejo3 ($130.33 in chips) 
+Seat 4: gaiggibeliin ($296.17 in chips) 
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Zihuatanejo3: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7d As]
+gaiggibeliin: folds 
+Uncalled bet ($1) returned to Zihuatanejo3
+Zihuatanejo3 collected $2 from pot
+Zihuatanejo3: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: Zihuatanejo3 (button blind) collected ($2)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196049998067:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 22:22:18 EET [2019/01/21 15:22:18 ET]
+Table 'Ophiuchus VII' 6-max Seat #4 is the button
+Seat 1: Zihuatanejo3 ($131.33 in chips) 
+Seat 4: gaiggibeliin ($295.17 in chips) 
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Js Th]
+Zihuatanejo3: folds 
+Uncalled bet ($1) returned to gaiggibeliin
+gaiggibeliin collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin (button blind) collected ($2)
+
+
+
+PokerStars Hand #196050007498:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 22:22:29 EET [2019/01/21 15:22:29 ET]
+Table 'Ophiuchus VII' 6-max Seat #1 is the button
+Seat 1: Zihuatanejo3 ($130.33 in chips) 
+Seat 4: gaiggibeliin ($296.17 in chips) 
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Zihuatanejo3: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7s 8s]
+gaiggibeliin: calls $1
+Zihuatanejo3: raises $5 to $6
+gaiggibeliin: calls $5
+*** FLOP *** [Kd Kc 9h]
+gaiggibeliin: checks 
+Zihuatanejo3: bets $6.65
+gaiggibeliin: folds 
+Uncalled bet ($6.65) returned to Zihuatanejo3
+Zihuatanejo3 collected $13.30 from pot
+Zihuatanejo3: doesn't show hand 
+*** SUMMARY ***
+Total pot $14 | Rake $0.70 
+Board [Kd Kc 9h]
+Seat 1: Zihuatanejo3 (button blind) collected ($13.30)
+Seat 4: gaiggibeliin folded on the Flop
+
+
+
+PokerStars Hand #196050025918:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 22:22:50 EET [2019/01/21 15:22:50 ET]
+Table 'Ophiuchus VII' 6-max Seat #4 is the button
+Seat 1: Zihuatanejo3 ($136.63 in chips) 
+Seat 4: gaiggibeliin ($289.17 in chips) 
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qc Th]
+Zihuatanejo3: folds 
+Uncalled bet ($1) returned to gaiggibeliin
+gaiggibeliin collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin (button blind) collected ($2)
+
+
+
+PokerStars Hand #196050031098:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 22:22:56 EET [2019/01/21 15:22:56 ET]
+Table 'Ophiuchus VII' 6-max Seat #1 is the button
+Seat 1: Zihuatanejo3 ($135.63 in chips) 
+Seat 4: gaiggibeliin ($290.17 in chips) 
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Zihuatanejo3: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jd Qs]
+gaiggibeliin: calls $1
+Zihuatanejo3: checks 
+*** FLOP *** [9h 7s Qc]
+gaiggibeliin: checks 
+Zihuatanejo3: bets $2.53
+gaiggibeliin: calls $2.53
+*** TURN *** [9h 7s Qc] [Tc]
+gaiggibeliin: checks 
+Zihuatanejo3: bets $5.74
+gaiggibeliin: calls $5.74
+*** RIVER *** [9h 7s Qc Tc] [6s]
+gaiggibeliin: checks 
+Zihuatanejo3: checks 
+*** SHOW DOWN ***
+gaiggibeliin: shows [Jd Qs] (a pair of Queens)
+Zihuatanejo3: shows [Jh Qd] (a pair of Queens)
+gaiggibeliin collected $9.76 from pot
+Zihuatanejo3 collected $9.75 from pot
+*** SUMMARY ***
+Total pot $20.54 | Rake $1.03 
+Board [9h 7s Qc Tc 6s]
+Seat 1: Zihuatanejo3 (button blind) showed [Jh Qd] and won ($9.75) with a pair of Queens
+Seat 4: gaiggibeliin showed [Jd Qs] and won ($9.76) with a pair of Queens
+
+
+
+PokerStars Hand #196050081390:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 22:23:53 EET [2019/01/21 15:23:53 ET]
+Table 'Ophiuchus VII' 6-max Seat #4 is the button
+Seat 1: Zihuatanejo3 ($135.11 in chips) 
+Seat 4: gaiggibeliin ($289.66 in chips) 
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kd Ah]
+Zihuatanejo3: calls $1
+gaiggibeliin: raises $4 to $5
+Zihuatanejo3: calls $4
+*** FLOP *** [Th 7c 9c]
+Zihuatanejo3: checks 
+gaiggibeliin: checks 
+*** TURN *** [Th 7c 9c] [7h]
+Zihuatanejo3: checks 
+gaiggibeliin: checks 
+*** RIVER *** [Th 7c 9c 7h] [9s]
+Zihuatanejo3: checks 
+gaiggibeliin: checks 
+*** SHOW DOWN ***
+Zihuatanejo3: shows [Jd Tc] (two pair, Tens and Nines)
+gaiggibeliin: mucks hand 
+Zihuatanejo3 collected $11.40 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.60 
+Board [Th 7c 9c 7h 9s]
+Seat 1: Zihuatanejo3 showed [Jd Tc] and won ($11.40) with two pair, Tens and Nines
+Seat 4: gaiggibeliin (button blind) mucked [Kd Ah]
+
+
+
+PokerStars Hand #196050150084:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 22:25:12 EET [2019/01/21 15:25:12 ET]
+Table 'Ophiuchus VII' 6-max Seat #1 is the button
+Seat 1: Zihuatanejo3 ($140.51 in chips) 
+Seat 4: gaiggibeliin ($283.66 in chips) 
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Zihuatanejo3: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6h Ac]
+gaiggibeliin: calls $1
+Zihuatanejo3: checks 
+*** FLOP *** [6s Td Qd]
+gaiggibeliin: checks 
+Zihuatanejo3: checks 
+*** TURN *** [6s Td Qd] [7c]
+gaiggibeliin: checks 
+Zihuatanejo3: checks 
+*** RIVER *** [6s Td Qd 7c] [9c]
+gaiggibeliin: checks 
+Zihuatanejo3: bets $2.53
+gaiggibeliin: folds 
+Uncalled bet ($2.53) returned to Zihuatanejo3
+Zihuatanejo3 collected $3.80 from pot
+Zihuatanejo3: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [6s Td Qd 7c 9c]
+Seat 1: Zihuatanejo3 (button blind) collected ($3.80)
+Seat 4: gaiggibeliin folded on the River
+
+
+
+PokerStars Hand #196050198654:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 22:26:07 EET [2019/01/21 15:26:07 ET]
+Table 'Ophiuchus VII' 6-max Seat #4 is the button
+Seat 1: Zihuatanejo3 ($142.31 in chips) 
+Seat 4: gaiggibeliin ($281.66 in chips) 
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9h Qs]
+Zihuatanejo3: folds 
+Uncalled bet ($1) returned to gaiggibeliin
+gaiggibeliin collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin (button blind) collected ($2)
+
+
+
+PokerStars Hand #196050207314:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 22:26:17 EET [2019/01/21 15:26:17 ET]
+Table 'Ophiuchus VII' 6-max Seat #1 is the button
+Seat 1: Zihuatanejo3 ($141.31 in chips) 
+Seat 4: gaiggibeliin ($282.66 in chips) 
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Zihuatanejo3: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7s 8c]
+gaiggibeliin: calls $1
+Zihuatanejo3: checks 
+*** FLOP *** [Tc Jc 8s]
+gaiggibeliin: checks 
+Zihuatanejo3: bets $3
+gaiggibeliin: folds 
+Uncalled bet ($3) returned to Zihuatanejo3
+Zihuatanejo3 collected $3.80 from pot
+Zihuatanejo3: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [Tc Jc 8s]
+Seat 1: Zihuatanejo3 (button blind) collected ($3.80)
+Seat 4: gaiggibeliin folded on the Flop
+
+
+
+PokerStars Hand #196050240838:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 22:26:56 EET [2019/01/21 15:26:56 ET]
+Table 'Ophiuchus VII' 6-max Seat #4 is the button
+Seat 1: Zihuatanejo3 ($143.11 in chips) 
+Seat 4: gaiggibeliin ($280.66 in chips) 
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8s 6c]
+Zihuatanejo3: raises $3 to $4
+gaiggibeliin: calls $3
+*** FLOP *** [Qd 8d Jd]
+Zihuatanejo3: bets $6.33
+gaiggibeliin: folds 
+Uncalled bet ($6.33) returned to Zihuatanejo3
+Zihuatanejo3 collected $9.50 from pot
+Zihuatanejo3: doesn't show hand 
+*** SUMMARY ***
+Total pot $10 | Rake $0.50 
+Board [Qd 8d Jd]
+Seat 1: Zihuatanejo3 collected ($9.50)
+Seat 4: gaiggibeliin (button blind) folded on the Flop
+
+
+
+PokerStars Hand #196050262660:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 22:27:21 EET [2019/01/21 15:27:21 ET]
+Table 'Ophiuchus VII' 6-max Seat #1 is the button
+Seat 1: Zihuatanejo3 ($147.61 in chips) 
+Seat 4: gaiggibeliin ($275.66 in chips) 
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Zihuatanejo3: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8s 8d]
+gaiggibeliin: calls $1
+Zihuatanejo3: checks 
+*** FLOP *** [6s Qc Tc]
+gaiggibeliin: checks 
+Zihuatanejo3: checks 
+*** TURN *** [6s Qc Tc] [7d]
+gaiggibeliin: checks 
+Zihuatanejo3: bets $2.53
+gaiggibeliin: calls $2.53
+*** RIVER *** [6s Qc Tc 7d] [Jh]
+gaiggibeliin: checks 
+Zihuatanejo3: checks 
+*** SHOW DOWN ***
+gaiggibeliin: shows [8s 8d] (a pair of Eights)
+Zihuatanejo3: shows [Th Kc] (a pair of Tens)
+Zihuatanejo3 collected $8.61 from pot
+*** SUMMARY ***
+Total pot $9.06 | Rake $0.45 
+Board [6s Qc Tc 7d Jh]
+Seat 1: Zihuatanejo3 (button blind) showed [Th Kc] and won ($8.61) with a pair of Tens
+Seat 4: gaiggibeliin showed [8s 8d] and lost with a pair of Eights
+
+
+
+PokerStars Hand #196050305922:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 22:28:11 EET [2019/01/21 15:28:11 ET]
+Table 'Ophiuchus VII' 6-max Seat #4 is the button
+Seat 1: Zihuatanejo3 ($151.69 in chips) 
+Seat 4: gaiggibeliin ($271.13 in chips) 
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qc 7s]
+Zihuatanejo3: calls $1
+gaiggibeliin: checks 
+*** FLOP *** [8c 9d Kc]
+Zihuatanejo3: checks 
+gaiggibeliin: checks 
+*** TURN *** [8c 9d Kc] [7d]
+Zihuatanejo3: checks 
+gaiggibeliin: checks 
+*** RIVER *** [8c 9d Kc 7d] [Jc]
+Zihuatanejo3: checks 
+gaiggibeliin: bets $2.85
+Zihuatanejo3: calls $2.85
+*** SHOW DOWN ***
+gaiggibeliin: shows [Qc 7s] (a pair of Sevens)
+Zihuatanejo3: shows [Jd 9h] (two pair, Jacks and Nines)
+Zihuatanejo3 collected $9.22 from pot
+*** SUMMARY ***
+Total pot $9.70 | Rake $0.48 
+Board [8c 9d Kc 7d Jc]
+Seat 1: Zihuatanejo3 showed [Jd 9h] and won ($9.22) with two pair, Jacks and Nines
+Seat 4: gaiggibeliin (button blind) showed [Qc 7s] and lost with a pair of Sevens
+
+
+
+PokerStars Hand #196050348536:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 22:29:00 EET [2019/01/21 15:29:00 ET]
+Table 'Ophiuchus VII' 6-max Seat #1 is the button
+Seat 1: Zihuatanejo3 ($156.06 in chips) 
+Seat 4: gaiggibeliin ($266.28 in chips) 
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Zihuatanejo3: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7s 8s]
+gaiggibeliin: calls $1
+Zihuatanejo3: checks 
+*** FLOP *** [8d Qh 7d]
+gaiggibeliin: checks 
+Zihuatanejo3: bets $2.53
+gaiggibeliin: calls $2.53
+*** TURN *** [8d Qh 7d] [Kd]
+gaiggibeliin: checks 
+Zihuatanejo3: checks 
+*** RIVER *** [8d Qh 7d Kd] [7c]
+gaiggibeliin: bets $14
+Zihuatanejo3: folds 
+Uncalled bet ($14) returned to gaiggibeliin
+gaiggibeliin collected $8.61 from pot
+*** SUMMARY ***
+Total pot $9.06 | Rake $0.45 
+Board [8d Qh 7d Kd 7c]
+Seat 1: Zihuatanejo3 (button blind) folded on the River
+Seat 4: gaiggibeliin collected ($8.61)
+
+
+
+PokerStars Hand #196050403855:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 22:30:04 EET [2019/01/21 15:30:04 ET]
+Table 'Ophiuchus VII' 6-max Seat #4 is the button
+Seat 1: Zihuatanejo3 ($151.53 in chips) 
+Seat 4: gaiggibeliin ($270.36 in chips) 
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8h Th]
+Zihuatanejo3: calls $1
+gaiggibeliin: raises $4 to $5
+Zihuatanejo3: folds 
+Uncalled bet ($4) returned to gaiggibeliin
+gaiggibeliin collected $4 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 1: Zihuatanejo3 folded before Flop
+Seat 4: gaiggibeliin (button blind) collected ($4)
+
+
+
+PokerStars Hand #196050418715:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 22:30:21 EET [2019/01/21 15:30:21 ET]
+Table 'Ophiuchus VII' 6-max Seat #1 is the button
+Seat 1: Zihuatanejo3 ($149.53 in chips) 
+Seat 4: gaiggibeliin ($272.36 in chips) 
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Zihuatanejo3: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8h Th]
+gaiggibeliin: calls $1
+Zihuatanejo3: raises $5 to $6
+gaiggibeliin: calls $5
+*** FLOP *** [Tc 6s 6h]
+gaiggibeliin: checks 
+Zihuatanejo3: checks 
+*** TURN *** [Tc 6s 6h] [9d]
+gaiggibeliin: checks 
+Zihuatanejo3: checks 
+*** RIVER *** [Tc 6s 6h 9d] [Ac]
+gaiggibeliin: checks 
+Zihuatanejo3: checks 
+*** SHOW DOWN ***
+gaiggibeliin: shows [8h Th] (two pair, Tens and Sixes)
+Zihuatanejo3: mucks hand 
+gaiggibeliin collected $13.30 from pot
+*** SUMMARY ***
+Total pot $14 | Rake $0.70 
+Board [Tc 6s 6h 9d Ac]
+Seat 1: Zihuatanejo3 (button blind) mucked [Kd Jd]
+Seat 4: gaiggibeliin showed [8h Th] and won ($13.30) with two pair, Tens and Sixes
+
+
+

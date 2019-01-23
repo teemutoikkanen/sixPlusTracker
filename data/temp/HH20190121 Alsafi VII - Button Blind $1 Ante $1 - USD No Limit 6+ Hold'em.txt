@@ -1,0 +1,812 @@
+﻿PokerStars Hand #196045303294:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 20:45:38 EET [2019/01/21 13:45:38 ET]
+Table 'Alsafi VII' 6-max Seat #6 is the button
+Seat 1: Buellrunner8 ($293.43 in chips) 
+Seat 2: sry2good4u ($140 in chips) 
+Seat 3: gaiggibeliin ($150 in chips) 
+Seat 4: w00tLOL ($150 in chips) 
+Seat 5: takechip ($165.61 in chips) 
+Seat 6: M1TR4ND1R ($276.53 in chips) 
+Buellrunner8: posts the ante $1
+sry2good4u: posts the ante $1
+gaiggibeliin: posts the ante $1
+w00tLOL: posts the ante $1
+takechip: posts the ante $1
+M1TR4ND1R: posts the ante $1
+M1TR4ND1R: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6s Kd]
+Buellrunner8: folds 
+sry2good4u: raises $8 to $9
+gaiggibeliin: folds 
+w00tLOL: folds 
+takechip: calls $9
+M1TR4ND1R: calls $8
+*** FLOP *** [Ts Ad Kh]
+sry2good4u: bets $22
+takechip: calls $22
+M1TR4ND1R: folds 
+*** TURN *** [Ts Ad Kh] [Td]
+sry2good4u: checks 
+takechip: checks 
+*** RIVER *** [Ts Ad Kh Td] [8c]
+sry2good4u: bets $108 and is all-in
+takechip: folds 
+Uncalled bet ($108) returned to sry2good4u
+sry2good4u collected $74.25 from pot
+sry2good4u: doesn't show hand 
+*** SUMMARY ***
+Total pot $77 | Rake $2.75 
+Board [Ts Ad Kh Td 8c]
+Seat 1: Buellrunner8 folded before Flop (didn't bet)
+Seat 2: sry2good4u collected ($74.25)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: w00tLOL folded before Flop (didn't bet)
+Seat 5: takechip folded on the River
+Seat 6: M1TR4ND1R (button blind) folded on the Flop
+
+
+
+PokerStars Hand #196045351065:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 20:46:38 EET [2019/01/21 13:46:38 ET]
+Table 'Alsafi VII' 6-max Seat #1 is the button
+Seat 1: Buellrunner8 ($292.43 in chips) 
+Seat 2: sry2good4u ($182.25 in chips) 
+Seat 3: gaiggibeliin ($149 in chips) 
+Seat 4: w00tLOL ($150 in chips) 
+Seat 5: takechip ($133.61 in chips) 
+Seat 6: M1TR4ND1R ($266.53 in chips) 
+Buellrunner8: posts the ante $1
+sry2good4u: posts the ante $1
+gaiggibeliin: posts the ante $1
+w00tLOL: posts the ante $1
+takechip: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Buellrunner8: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ks 9s]
+sry2good4u: raises $8 to $9
+gaiggibeliin: folds 
+w00tLOL: folds 
+takechip: folds 
+M1TR4ND1R: folds 
+Buellrunner8: calls $8
+*** FLOP *** [Ah Kc Js]
+sry2good4u: bets $16
+Buellrunner8: calls $16
+*** TURN *** [Ah Kc Js] [Ad]
+sry2good4u: checks 
+Buellrunner8: checks 
+*** RIVER *** [Ah Kc Js Ad] [As]
+sry2good4u: checks 
+Buellrunner8: bets $27
+sry2good4u: calls $27
+*** SHOW DOWN ***
+Buellrunner8: shows [Kh 6h] (a full house, Aces full of Kings)
+sry2good4u: shows [Kd Qh] (a full house, Aces full of Kings)
+sry2good4u collected $53.63 from pot
+Buellrunner8 collected $53.62 from pot
+*** SUMMARY ***
+Total pot $110 | Rake $2.75 
+Board [Ah Kc Js Ad As]
+Seat 1: Buellrunner8 (button blind) showed [Kh 6h] and won ($53.62) with a full house, Aces full of Kings
+Seat 2: sry2good4u showed [Kd Qh] and won ($53.63) with a full house, Aces full of Kings
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: w00tLOL folded before Flop (didn't bet)
+Seat 5: takechip folded before Flop (didn't bet)
+Seat 6: M1TR4ND1R folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196045383026:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 20:47:19 EET [2019/01/21 13:47:19 ET]
+Table 'Alsafi VII' 6-max Seat #2 is the button
+Seat 1: Buellrunner8 ($293.05 in chips) 
+Seat 2: sry2good4u ($182.88 in chips) 
+Seat 3: gaiggibeliin ($148 in chips) 
+Seat 4: w00tLOL ($150 in chips) 
+Seat 5: takechip ($132.61 in chips) 
+Seat 6: M1TR4ND1R ($265.53 in chips) 
+Buellrunner8: posts the ante $1
+sry2good4u: posts the ante $1
+gaiggibeliin: posts the ante $1
+w00tLOL: posts the ante $1
+takechip: posts the ante $1
+M1TR4ND1R: posts the ante $1
+sry2good4u: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8c 7c]
+gaiggibeliin: calls $1
+w00tLOL: folds 
+takechip: folds 
+M1TR4ND1R: raises $9 to $10
+Buellrunner8: calls $10
+sry2good4u: calls $9
+gaiggibeliin: calls $9
+*** FLOP *** [8h Ks 7s]
+gaiggibeliin: checks 
+M1TR4ND1R: bets $32.34
+Buellrunner8: folds 
+sry2good4u: folds 
+gaiggibeliin: raises $104.66 to $137 and is all-in
+M1TR4ND1R: calls $104.66
+*** TURN *** [8h Ks 7s] [8d]
+*** RIVER *** [8h Ks 7s 8d] [Kd]
+*** SHOW DOWN ***
+gaiggibeliin: shows [8c 7c] (a full house, Eights full of Kings)
+M1TR4ND1R: shows [Ts 9s] (two pair, Kings and Eights)
+gaiggibeliin collected $317.25 from pot
+*** SUMMARY ***
+Total pot $320 | Rake $2.75 
+Board [8h Ks 7s 8d Kd]
+Seat 1: Buellrunner8 folded on the Flop
+Seat 2: sry2good4u (button blind) folded on the Flop
+Seat 3: gaiggibeliin showed [8c 7c] and won ($317.25) with a full house, Eights full of Kings
+Seat 4: w00tLOL folded before Flop (didn't bet)
+Seat 5: takechip folded before Flop (didn't bet)
+Seat 6: M1TR4ND1R showed [Ts 9s] and lost with two pair, Kings and Eights
+
+
+
+PokerStars Hand #196045458179:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 20:48:54 EET [2019/01/21 13:48:54 ET]
+Table 'Alsafi VII' 6-max Seat #3 is the button
+Seat 1: Buellrunner8 ($282.05 in chips) 
+Seat 2: sry2good4u ($171.88 in chips) 
+Seat 3: gaiggibeliin ($317.25 in chips) 
+Seat 4: w00tLOL ($150 in chips) 
+Seat 5: takechip ($131.61 in chips) 
+Seat 6: M1TR4ND1R ($150 in chips) 
+Buellrunner8: posts the ante $1
+sry2good4u: posts the ante $1
+gaiggibeliin: posts the ante $1
+w00tLOL: posts the ante $1
+takechip: posts the ante $1
+M1TR4ND1R: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6s Td]
+w00tLOL: folds 
+takechip: raises $7.20 to $8.20
+M1TR4ND1R: calls $8.20
+Buellrunner8: folds 
+sry2good4u: calls $8.20
+gaiggibeliin: folds 
+*** FLOP *** [6h 7h Qs]
+takechip: bets $7.51
+M1TR4ND1R: folds 
+sry2good4u: calls $7.51
+*** TURN *** [6h 7h Qs] [Kc]
+takechip: checks 
+sry2good4u: bets $32
+takechip: folds 
+Uncalled bet ($32) returned to sry2good4u
+sry2good4u collected $44.29 from pot
+sry2good4u: doesn't show hand 
+*** SUMMARY ***
+Total pot $46.62 | Rake $2.33 
+Board [6h 7h Qs Kc]
+Seat 1: Buellrunner8 folded before Flop (didn't bet)
+Seat 2: sry2good4u collected ($44.29)
+Seat 3: gaiggibeliin (button blind) folded before Flop
+Seat 4: w00tLOL folded before Flop (didn't bet)
+Seat 5: takechip folded on the Turn
+Seat 6: M1TR4ND1R folded on the Flop
+
+
+
+PokerStars Hand #196045516099:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 20:50:08 EET [2019/01/21 13:50:08 ET]
+Table 'Alsafi VII' 6-max Seat #4 is the button
+Seat 1: Buellrunner8 ($281.05 in chips) 
+Seat 2: sry2good4u ($199.46 in chips) 
+Seat 3: gaiggibeliin ($315.25 in chips) 
+Seat 4: w00tLOL ($150 in chips) 
+Seat 5: takechip ($114.90 in chips) 
+Seat 6: M1TR4ND1R ($150 in chips) 
+Buellrunner8: posts the ante $1
+sry2good4u: posts the ante $1
+gaiggibeliin: posts the ante $1
+w00tLOL: posts the ante $1
+takechip: posts the ante $1
+M1TR4ND1R: posts the ante $1
+w00tLOL: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6c Qh]
+takechip: folds 
+M1TR4ND1R: calls $1
+Buellrunner8: calls $1
+sry2good4u: raises $10 to $11
+gaiggibeliin: folds 
+w00tLOL: folds 
+M1TR4ND1R: calls $10
+Buellrunner8: calls $10
+*** FLOP *** [Kd 9c Th]
+M1TR4ND1R: checks 
+Buellrunner8: bets $14
+sry2good4u: calls $14
+M1TR4ND1R: folds 
+*** TURN *** [Kd 9c Th] [8c]
+Buellrunner8: bets $33
+sry2good4u: calls $33
+*** RIVER *** [Kd 9c Th 8c] [Jc]
+Buellrunner8: bets $222.05 and is all-in
+sry2good4u: calls $140.46 and is all-in
+Uncalled bet ($81.59) returned to Buellrunner8
+*** SHOW DOWN ***
+Buellrunner8: shows [Js Qs] (a straight, Nine to King)
+sry2good4u: shows [Qc Kc] (a flush, King high)
+sry2good4u collected $412.17 from pot
+*** SUMMARY ***
+Total pot $414.92 | Rake $2.75 
+Board [Kd 9c Th 8c Jc]
+Seat 1: Buellrunner8 showed [Js Qs] and lost with a straight, Nine to King
+Seat 2: sry2good4u showed [Qc Kc] and won ($412.17) with a flush, King high
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: w00tLOL (button blind) folded before Flop
+Seat 5: takechip folded before Flop (didn't bet)
+Seat 6: M1TR4ND1R folded on the Flop
+
+
+
+PokerStars Hand #196045577439:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 20:51:26 EET [2019/01/21 13:51:26 ET]
+Table 'Alsafi VII' 6-max Seat #5 is the button
+Seat 1: Buellrunner8 ($81.59 in chips) 
+Seat 2: sry2good4u ($412.17 in chips) 
+Seat 3: gaiggibeliin ($314.25 in chips) 
+Seat 4: w00tLOL ($150 in chips) 
+Seat 5: takechip ($113.90 in chips) 
+Seat 6: M1TR4ND1R ($150 in chips) 
+Buellrunner8: posts the ante $1
+sry2good4u: posts the ante $1
+gaiggibeliin: posts the ante $1
+w00tLOL: posts the ante $1
+takechip: posts the ante $1
+M1TR4ND1R: posts the ante $1
+takechip: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6h 6s]
+M1TR4ND1R: folds 
+Buellrunner8: raises $79.59 to $80.59 and is all-in
+sry2good4u: folds 
+gaiggibeliin: folds 
+w00tLOL: folds 
+takechip: folds 
+Uncalled bet ($79.59) returned to Buellrunner8
+Buellrunner8 collected $8 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0 
+Seat 1: Buellrunner8 collected ($8)
+Seat 2: sry2good4u folded before Flop (didn't bet)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: w00tLOL folded before Flop (didn't bet)
+Seat 5: takechip (button blind) folded before Flop
+Seat 6: M1TR4ND1R folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196045593956:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 20:51:47 EET [2019/01/21 13:51:47 ET]
+Table 'Alsafi VII' 6-max Seat #6 is the button
+Seat 1: Buellrunner8 ($87.59 in chips) 
+Seat 2: sry2good4u ($411.17 in chips) 
+Seat 3: gaiggibeliin ($313.25 in chips) 
+Seat 4: w00tLOL ($150 in chips) 
+Seat 5: takechip ($111.90 in chips) 
+Seat 6: M1TR4ND1R ($150 in chips) 
+Buellrunner8: posts the ante $1
+sry2good4u: posts the ante $1
+gaiggibeliin: posts the ante $1
+w00tLOL: posts the ante $1
+takechip: posts the ante $1
+M1TR4ND1R: posts the ante $1
+M1TR4ND1R: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9s 9d]
+Buellrunner8: raises $85.59 to $86.59 and is all-in
+sry2good4u: folds 
+gaiggibeliin: folds 
+w00tLOL: folds 
+takechip: folds 
+M1TR4ND1R: folds 
+Uncalled bet ($85.59) returned to Buellrunner8
+Buellrunner8 collected $8 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0 
+Seat 1: Buellrunner8 collected ($8)
+Seat 2: sry2good4u folded before Flop (didn't bet)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: w00tLOL folded before Flop (didn't bet)
+Seat 5: takechip folded before Flop (didn't bet)
+Seat 6: M1TR4ND1R (button blind) folded before Flop
+
+
+
+PokerStars Hand #196045611308:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 20:52:09 EET [2019/01/21 13:52:09 ET]
+Table 'Alsafi VII' 6-max Seat #1 is the button
+Seat 1: Buellrunner8 ($93.59 in chips) 
+Seat 2: sry2good4u ($410.17 in chips) 
+Seat 3: gaiggibeliin ($312.25 in chips) 
+Seat 4: w00tLOL ($150 in chips) 
+Seat 5: takechip ($110.90 in chips) 
+Seat 6: M1TR4ND1R ($150 in chips) 
+Buellrunner8: posts the ante $1
+sry2good4u: posts the ante $1
+gaiggibeliin: posts the ante $1
+w00tLOL: posts the ante $1
+takechip: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Buellrunner8: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6h Td]
+sry2good4u: raises $8 to $9
+gaiggibeliin: folds 
+w00tLOL: raises $23 to $32
+takechip: raises $77 to $109
+M1TR4ND1R: folds 
+Buellrunner8: calls $91.59 and is all-in
+sry2good4u: folds 
+w00tLOL: raises $40 to $149 and is all-in
+takechip: calls $0.90 and is all-in
+Uncalled bet ($39.10) returned to w00tLOL
+*** FLOP *** [6d 8s 8d]
+*** TURN *** [6d 8s 8d] [7s]
+*** RIVER *** [6d 8s 8d 7s] [Tc]
+*** SHOW DOWN ***
+w00tLOL: shows [Ks Ad] (a pair of Eights)
+takechip: shows [Qd Qh] (two pair, Queens and Eights)
+takechip collected $34.62 from side pot
+Buellrunner8: shows [Th Js] (two pair, Tens and Eights)
+takechip collected $290.02 from main pot
+*** SUMMARY ***
+Total pot $327.39 Main pot $290.02. Side pot $34.62. | Rake $2.75 
+Board [6d 8s 8d 7s Tc]
+Seat 1: Buellrunner8 (button blind) showed [Th Js] and lost with two pair, Tens and Eights
+Seat 2: sry2good4u folded before Flop
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: w00tLOL showed [Ks Ad] and lost with a pair of Eights
+Seat 5: takechip showed [Qd Qh] and won ($324.64) with two pair, Queens and Eights
+Seat 6: M1TR4ND1R folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196045648097:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 20:52:56 EET [2019/01/21 13:52:56 ET]
+Table 'Alsafi VII' 6-max Seat #2 is the button
+Seat 2: sry2good4u ($400.17 in chips) 
+Seat 3: gaiggibeliin ($311.25 in chips) 
+Seat 4: w00tLOL ($150 in chips) 
+Seat 5: takechip ($324.64 in chips) 
+Seat 6: M1TR4ND1R ($150 in chips) 
+sry2good4u: posts the ante $1
+gaiggibeliin: posts the ante $1
+w00tLOL: posts the ante $1
+takechip: posts the ante $1
+M1TR4ND1R: posts the ante $1
+sry2good4u: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ac 7s]
+gaiggibeliin: folds 
+Buellrunner8 leaves the table
+w00tLOL: raises $5 to $6
+takechip: calls $6
+M1TR4ND1R: folds 
+sry2good4u: calls $5
+*** FLOP *** [7c 8h 8s]
+w00tLOL: checks 
+takechip: bets $5.46
+sry2good4u: folds 
+w00tLOL: calls $5.46
+*** TURN *** [7c 8h 8s] [8d]
+w00tLOL: checks 
+takechip: bets $20.94
+w00tLOL: folds 
+Uncalled bet ($20.94) returned to takechip
+takechip collected $32.22 from pot
+takechip: doesn't show hand 
+*** SUMMARY ***
+Total pot $33.92 | Rake $1.70 
+Board [7c 8h 8s 8d]
+Seat 2: sry2good4u (button blind) folded on the Flop
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: w00tLOL folded on the Turn
+Seat 5: takechip collected ($32.22)
+Seat 6: M1TR4ND1R folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196045752019:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 20:55:09 EET [2019/01/21 13:55:09 ET]
+Table 'Alsafi VII' 6-max Seat #3 is the button
+Seat 2: sry2good4u ($393.17 in chips) 
+Seat 3: gaiggibeliin ($310.25 in chips) 
+Seat 4: w00tLOL ($150 in chips) 
+Seat 5: takechip ($344.40 in chips) 
+Seat 6: M1TR4ND1R ($150 in chips) 
+sry2good4u: posts the ante $1
+gaiggibeliin: posts the ante $1
+w00tLOL: posts the ante $1
+takechip: posts the ante $1
+M1TR4ND1R: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7c 9c]
+w00tLOL: folds 
+takechip: raises $6.30 to $7.30
+M1TR4ND1R: folds 
+sry2good4u: calls $7.30
+gaiggibeliin: calls $6.30
+*** FLOP *** [8c Js 7d]
+takechip: checks 
+sry2good4u: checks 
+gaiggibeliin: bets $17.13
+takechip: folds 
+sry2good4u: folds 
+Uncalled bet ($17.13) returned to gaiggibeliin
+gaiggibeliin collected $25.56 from pot
+Zihuatanejo3 joins the table at seat #1 
+*** SUMMARY ***
+Total pot $26.90 | Rake $1.34 
+Board [8c Js 7d]
+Seat 2: sry2good4u folded on the Flop
+Seat 3: gaiggibeliin (button blind) collected ($25.56)
+Seat 4: w00tLOL folded before Flop (didn't bet)
+Seat 5: takechip folded on the Flop
+Seat 6: M1TR4ND1R folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196045790691:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 20:56:12 EET [2019/01/21 13:56:12 ET]
+Table 'Alsafi VII' 6-max Seat #4 is the button
+Seat 1: Zihuatanejo3 ($150 in chips) 
+Seat 2: sry2good4u ($384.87 in chips) 
+Seat 3: gaiggibeliin ($327.51 in chips) 
+Seat 4: w00tLOL ($150 in chips) 
+Seat 5: takechip ($336.10 in chips) 
+Seat 6: M1TR4ND1R ($150 in chips) 
+Zihuatanejo3: posts the ante $1
+sry2good4u: posts the ante $1
+gaiggibeliin: posts the ante $1
+w00tLOL: posts the ante $1
+takechip: posts the ante $1
+M1TR4ND1R: posts the ante $1
+w00tLOL: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Th Ks]
+takechip: raises $7.20 to $8.20
+M1TR4ND1R: folds 
+Zihuatanejo3: calls $8.20
+sry2good4u: raises $31.60 to $39.80
+gaiggibeliin: folds 
+w00tLOL: folds 
+takechip: folds 
+Zihuatanejo3: folds 
+Uncalled bet ($31.60) returned to sry2good4u
+sry2good4u collected $31.60 from pot
+sry2good4u: doesn't show hand 
+*** SUMMARY ***
+Total pot $31.60 | Rake $0 
+Seat 1: Zihuatanejo3 folded before Flop
+Seat 2: sry2good4u collected ($31.60)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: w00tLOL (button blind) folded before Flop
+Seat 5: takechip folded before Flop
+Seat 6: M1TR4ND1R folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196045812121:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 20:56:46 EET [2019/01/21 13:56:46 ET]
+Table 'Alsafi VII' 6-max Seat #5 is the button
+Seat 1: Zihuatanejo3 ($140.80 in chips) 
+Seat 2: sry2good4u ($407.27 in chips) 
+Seat 3: gaiggibeliin ($326.51 in chips) 
+Seat 4: w00tLOL ($150 in chips) 
+Seat 5: takechip ($326.90 in chips) 
+Seat 6: M1TR4ND1R ($150 in chips) 
+Zihuatanejo3: posts the ante $1
+sry2good4u: posts the ante $1
+gaiggibeliin: posts the ante $1
+w00tLOL: posts the ante $1
+takechip: posts the ante $1
+M1TR4ND1R: posts the ante $1
+takechip: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jd 8c]
+M1TR4ND1R: calls $1
+Zihuatanejo3: folds 
+sry2good4u: calls $1
+gaiggibeliin: folds 
+w00tLOL: folds 
+takechip: checks 
+*** FLOP *** [Qh 9d 7c]
+M1TR4ND1R: bets $6.33
+sry2good4u: calls $6.33
+takechip: folds 
+*** TURN *** [Qh 9d 7c] [7h]
+M1TR4ND1R: bets $15.23
+sry2good4u: calls $15.23
+*** RIVER *** [Qh 9d 7c 7h] [9c]
+M1TR4ND1R: checks 
+sry2good4u: bets $36
+M1TR4ND1R: calls $36
+*** SHOW DOWN ***
+sry2good4u: shows [9s 9h] (four of a kind, Nines)
+M1TR4ND1R: mucks hand 
+sry2good4u collected $121.37 from pot
+*** SUMMARY ***
+Total pot $124.12 | Rake $2.75 
+Board [Qh 9d 7c 7h 9c]
+Seat 1: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 2: sry2good4u showed [9s 9h] and won ($121.37) with four of a kind, Nines
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: w00tLOL folded before Flop (didn't bet)
+Seat 5: takechip (button blind) folded on the Flop
+Seat 6: M1TR4ND1R mucked [Jh Qc]
+
+
+
+PokerStars Hand #196045857345:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 20:57:58 EET [2019/01/21 13:57:58 ET]
+Table 'Alsafi VII' 6-max Seat #6 is the button
+Seat 1: Zihuatanejo3 ($139.80 in chips) 
+Seat 2: sry2good4u ($469.08 in chips) 
+Seat 3: gaiggibeliin ($325.51 in chips) 
+Seat 4: w00tLOL ($150 in chips) 
+Seat 5: takechip ($324.90 in chips) 
+Seat 6: M1TR4ND1R ($150 in chips) 
+Zihuatanejo3: posts the ante $1
+sry2good4u: posts the ante $1
+gaiggibeliin: posts the ante $1
+w00tLOL: posts the ante $1
+takechip: posts the ante $1
+M1TR4ND1R: posts the ante $1
+M1TR4ND1R: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Th 9c]
+Zihuatanejo3: folds 
+sry2good4u: folds 
+gaiggibeliin: folds 
+w00tLOL: raises $6 to $7
+takechip: calls $7
+M1TR4ND1R: calls $6
+*** FLOP *** [Jc Kd 7s]
+w00tLOL: checks 
+takechip: bets $6.41
+M1TR4ND1R: folds 
+w00tLOL: calls $6.41
+*** TURN *** [Jc Kd 7s] [8h]
+w00tLOL: checks 
+takechip: checks 
+*** RIVER *** [Jc Kd 7s 8h] [7c]
+w00tLOL: checks 
+takechip: checks 
+*** SHOW DOWN ***
+w00tLOL: shows [As Qh] (a pair of Sevens)
+takechip: shows [Ts Ks] (two pair, Kings and Sevens)
+takechip collected $37.83 from pot
+*** SUMMARY ***
+Total pot $39.82 | Rake $1.99 
+Board [Jc Kd 7s 8h 7c]
+Seat 1: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 2: sry2good4u folded before Flop (didn't bet)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: w00tLOL showed [As Qh] and lost with a pair of Sevens
+Seat 5: takechip showed [Ts Ks] and won ($37.83) with two pair, Kings and Sevens
+Seat 6: M1TR4ND1R (button blind) folded on the Flop
+
+
+
+PokerStars Hand #196045895499:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 20:58:59 EET [2019/01/21 13:58:59 ET]
+Table 'Alsafi VII' 6-max Seat #1 is the button
+Seat 1: Zihuatanejo3 ($138.80 in chips) 
+Seat 2: sry2good4u ($468.08 in chips) 
+Seat 3: gaiggibeliin ($324.51 in chips) 
+Seat 4: w00tLOL ($150 in chips) 
+Seat 5: takechip ($348.32 in chips) 
+Seat 6: M1TR4ND1R ($150 in chips) 
+Zihuatanejo3: posts the ante $1
+sry2good4u: posts the ante $1
+gaiggibeliin: posts the ante $1
+w00tLOL: posts the ante $1
+takechip: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Zihuatanejo3: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6d As]
+sry2good4u: folds 
+gaiggibeliin: folds 
+w00tLOL: folds 
+takechip: folds 
+M1TR4ND1R: calls $1
+Zihuatanejo3: checks 
+*** FLOP *** [Ah 7d Jc]
+M1TR4ND1R: checks 
+Zihuatanejo3: checks 
+*** TURN *** [Ah 7d Jc] [Ks]
+M1TR4ND1R: bets $5.62
+Zihuatanejo3: folds 
+Uncalled bet ($5.62) returned to M1TR4ND1R
+M1TR4ND1R collected $7.60 from pot
+M1TR4ND1R: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [Ah 7d Jc Ks]
+Seat 1: Zihuatanejo3 (button blind) folded on the Turn
+Seat 2: sry2good4u folded before Flop (didn't bet)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: w00tLOL folded before Flop (didn't bet)
+Seat 5: takechip folded before Flop (didn't bet)
+Seat 6: M1TR4ND1R collected ($7.60)
+
+
+
+PokerStars Hand #196045929247:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 20:59:52 EET [2019/01/21 13:59:52 ET]
+Table 'Alsafi VII' 6-max Seat #2 is the button
+Seat 1: Zihuatanejo3 ($136.80 in chips) 
+Seat 2: sry2good4u ($467.08 in chips) 
+Seat 3: gaiggibeliin ($323.51 in chips) 
+Seat 4: w00tLOL ($150 in chips) 
+Seat 5: takechip ($347.32 in chips) 
+Seat 6: M1TR4ND1R ($155.60 in chips) 
+Zihuatanejo3: posts the ante $1
+sry2good4u: posts the ante $1
+gaiggibeliin: posts the ante $1
+w00tLOL: posts the ante $1
+takechip: posts the ante $1
+M1TR4ND1R: posts the ante $1
+sry2good4u: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ad 6h]
+gaiggibeliin: folds 
+w00tLOL: folds 
+takechip: raises $7.20 to $8.20
+M1TR4ND1R: calls $8.20
+Zihuatanejo3: folds 
+sry2good4u: calls $7.20
+*** FLOP *** [Ah Kc Kh]
+takechip: checks 
+M1TR4ND1R: checks 
+sry2good4u: checks 
+*** TURN *** [Ah Kc Kh] [Tc]
+takechip: checks 
+M1TR4ND1R: bets $21.51
+sry2good4u: folds 
+takechip: folds 
+Uncalled bet ($21.51) returned to M1TR4ND1R
+M1TR4ND1R collected $29.07 from pot
+M1TR4ND1R: doesn't show hand 
+*** SUMMARY ***
+Total pot $30.60 | Rake $1.53 
+Board [Ah Kc Kh Tc]
+Seat 1: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 2: sry2good4u (button blind) folded on the Turn
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: w00tLOL folded before Flop (didn't bet)
+Seat 5: takechip folded on the Turn
+Seat 6: M1TR4ND1R collected ($29.07)
+
+
+
+PokerStars Hand #196045981613:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 21:01:02 EET [2019/01/21 14:01:02 ET]
+Table 'Alsafi VII' 6-max Seat #3 is the button
+Seat 1: Zihuatanejo3 ($135.80 in chips) 
+Seat 2: sry2good4u ($457.88 in chips) 
+Seat 3: gaiggibeliin ($322.51 in chips) 
+Seat 4: w00tLOL ($150 in chips) 
+Seat 5: takechip ($338.12 in chips) 
+Seat 6: M1TR4ND1R ($175.47 in chips) 
+Zihuatanejo3: posts the ante $1
+sry2good4u: posts the ante $1
+gaiggibeliin: posts the ante $1
+w00tLOL: posts the ante $1
+takechip: posts the ante $1
+M1TR4ND1R: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ah Jc]
+w00tLOL: folds 
+takechip: raises $2 to $3
+M1TR4ND1R: calls $3
+Zihuatanejo3: folds 
+sry2good4u: raises $17 to $20
+gaiggibeliin: folds 
+takechip: calls $17
+M1TR4ND1R: calls $17
+*** FLOP *** [Js Qd 6c]
+takechip: checks 
+M1TR4ND1R: checks 
+sry2good4u: bets $52
+takechip: folds 
+M1TR4ND1R: folds 
+Uncalled bet ($52) returned to sry2good4u
+sry2good4u collected $64.25 from pot
+sry2good4u: doesn't show hand 
+*** SUMMARY ***
+Total pot $67 | Rake $2.75 
+Board [Js Qd 6c]
+Seat 1: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 2: sry2good4u collected ($64.25)
+Seat 3: gaiggibeliin (button blind) folded before Flop
+Seat 4: w00tLOL folded before Flop (didn't bet)
+Seat 5: takechip folded on the Flop
+Seat 6: M1TR4ND1R folded on the Flop
+
+
+
+PokerStars Hand #196046033126:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 21:02:10 EET [2019/01/21 14:02:10 ET]
+Table 'Alsafi VII' 6-max Seat #4 is the button
+Seat 1: Zihuatanejo3 ($134.80 in chips) 
+Seat 2: sry2good4u ($501.13 in chips) 
+Seat 3: gaiggibeliin ($320.51 in chips) 
+Seat 4: w00tLOL ($150 in chips) 
+Seat 5: takechip ($317.12 in chips) 
+Seat 6: M1TR4ND1R ($154.47 in chips) 
+Zihuatanejo3: posts the ante $1
+sry2good4u: posts the ante $1
+gaiggibeliin: posts the ante $1
+w00tLOL: posts the ante $1
+takechip: posts the ante $1
+M1TR4ND1R: posts the ante $1
+w00tLOL: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jc 9s]
+takechip: folds 
+M1TR4ND1R: folds 
+Zihuatanejo3: raises $8 to $9
+sry2good4u: calls $9
+gaiggibeliin: folds 
+w00tLOL: calls $8
+*** FLOP *** [Qh 7h 7s]
+Zihuatanejo3: bets $16
+sry2good4u: calls $16
+w00tLOL: calls $16
+*** TURN *** [Qh 7h 7s] [Kc]
+Zihuatanejo3: bets $40
+sry2good4u: folds 
+w00tLOL: folds 
+Uncalled bet ($40) returned to Zihuatanejo3
+Zihuatanejo3 collected $78.25 from pot
+Zihuatanejo3: doesn't show hand 
+*** SUMMARY ***
+Total pot $81 | Rake $2.75 
+Board [Qh 7h 7s Kc]
+Seat 1: Zihuatanejo3 collected ($78.25)
+Seat 2: sry2good4u folded on the Turn
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: w00tLOL (button blind) folded on the Turn
+Seat 5: takechip folded before Flop (didn't bet)
+Seat 6: M1TR4ND1R folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196046109685:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 21:03:45 EET [2019/01/21 14:03:45 ET]
+Table 'Alsafi VII' 6-max Seat #5 is the button
+Seat 1: Zihuatanejo3 ($187.05 in chips) 
+Seat 2: sry2good4u ($475.13 in chips) 
+Seat 3: gaiggibeliin ($319.51 in chips) 
+Seat 4: w00tLOL ($150 in chips) 
+Seat 5: takechip ($316.12 in chips) 
+Seat 6: M1TR4ND1R ($153.47 in chips) 
+Zihuatanejo3: posts the ante $1
+sry2good4u: posts the ante $1
+gaiggibeliin: posts the ante $1
+w00tLOL: posts the ante $1
+takechip: posts the ante $1
+M1TR4ND1R: posts the ante $1
+takechip: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qc Ad]
+M1TR4ND1R: folds 
+Zihuatanejo3: folds 
+sry2good4u: folds 
+gaiggibeliin: raises $8 to $9
+w00tLOL: folds 
+takechip: calls $8
+*** FLOP *** [Ac Ah 8s]
+gaiggibeliin: bets $7.52
+takechip: folds 
+Uncalled bet ($7.52) returned to gaiggibeliin
+gaiggibeliin collected $22.80 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $1.20 
+Board [Ac Ah 8s]
+Seat 1: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 2: sry2good4u folded before Flop (didn't bet)
+Seat 3: gaiggibeliin collected ($22.80)
+Seat 4: w00tLOL folded before Flop (didn't bet)
+Seat 5: takechip (button blind) folded on the Flop
+Seat 6: M1TR4ND1R folded before Flop (didn't bet)
+
+
+

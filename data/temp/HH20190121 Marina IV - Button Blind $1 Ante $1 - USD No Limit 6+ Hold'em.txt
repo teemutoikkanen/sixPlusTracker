@@ -1,0 +1,1259 @@
+﻿PokerStars Hand #196042923844:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 19:53:00 EET [2019/01/21 12:53:00 ET]
+Table 'Marina IV' 6-max Seat #5 is the button
+Seat 1: Evals ($279.07 in chips) 
+Seat 2: Gen DisColor ($1788.86 in chips) 
+Seat 3: gaiggibeliin ($150 in chips) 
+Seat 4: Zihuatanejo3 ($134.20 in chips) 
+Seat 5: bluehawail ($191.40 in chips) 
+Seat 6: Purakzoli ($304.40 in chips) 
+Evals: posts the ante $1
+Gen DisColor: posts the ante $1
+gaiggibeliin: posts the ante $1
+Zihuatanejo3: posts the ante $1
+bluehawail: posts the ante $1
+Purakzoli: posts the ante $1
+bluehawail: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jc Ah]
+Purakzoli: folds 
+Evals: folds 
+Gen DisColor: folds 
+gaiggibeliin: raises $8 to $9
+Zihuatanejo3: folds 
+bluehawail: calls $8
+*** FLOP *** [Jh 6s 9d]
+gaiggibeliin: checks 
+bluehawail: checks 
+*** TURN *** [Jh 6s 9d] [Tc]
+gaiggibeliin: checks 
+bluehawail: bets $22.80
+gaiggibeliin: calls $22.80
+*** RIVER *** [Jh 6s 9d Tc] [Ac]
+gaiggibeliin: checks 
+bluehawail: bets $158.60 and is all-in
+gaiggibeliin: folds 
+Uncalled bet ($158.60) returned to bluehawail
+bluehawail collected $66.85 from pot
+*** SUMMARY ***
+Total pot $69.60 | Rake $2.75 
+Board [Jh 6s 9d Tc Ac]
+Seat 1: Evals folded before Flop (didn't bet)
+Seat 2: Gen DisColor folded before Flop (didn't bet)
+Seat 3: gaiggibeliin folded on the River
+Seat 4: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 5: bluehawail (button blind) collected ($66.85)
+Seat 6: Purakzoli folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196042974190:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 19:54:08 EET [2019/01/21 12:54:08 ET]
+Table 'Marina IV' 6-max Seat #6 is the button
+Seat 1: Evals ($278.07 in chips) 
+Seat 2: Gen DisColor ($1787.86 in chips) 
+Seat 3: gaiggibeliin ($117.20 in chips) 
+Seat 4: Zihuatanejo3 ($133.20 in chips) 
+Seat 5: bluehawail ($225.45 in chips) 
+Seat 6: Purakzoli ($303.40 in chips) 
+Evals: posts the ante $1
+Gen DisColor: posts the ante $1
+gaiggibeliin: posts the ante $1
+Zihuatanejo3: posts the ante $1
+bluehawail: posts the ante $1
+Purakzoli: posts the ante $1
+Purakzoli: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kh 7d]
+Evals: calls $1
+Gen DisColor: folds 
+gaiggibeliin: folds 
+Zihuatanejo3: calls $1
+bluehawail: calls $1
+Purakzoli: raises $7 to $8
+Evals: calls $7
+Zihuatanejo3: calls $7
+bluehawail: calls $7
+*** FLOP *** [Jd Ts Kc]
+Evals: checks 
+Zihuatanejo3: checks 
+bluehawail: checks 
+Purakzoli: bets $23
+Evals: folds 
+Zihuatanejo3: folds 
+bluehawail: folds 
+Uncalled bet ($23) returned to Purakzoli
+Purakzoli collected $36.10 from pot
+Purakzoli: doesn't show hand 
+*** SUMMARY ***
+Total pot $38 | Rake $1.90 
+Board [Jd Ts Kc]
+Seat 1: Evals folded on the Flop
+Seat 2: Gen DisColor folded before Flop (didn't bet)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: Zihuatanejo3 folded on the Flop
+Seat 5: bluehawail folded on the Flop
+Seat 6: Purakzoli (button blind) collected ($36.10)
+
+
+
+PokerStars Hand #196043017209:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 19:55:07 EET [2019/01/21 12:55:07 ET]
+Table 'Marina IV' 6-max Seat #1 is the button
+Seat 1: Evals ($269.07 in chips) 
+Seat 2: Gen DisColor ($1786.86 in chips) 
+Seat 3: gaiggibeliin ($149 in chips) 
+Seat 4: Zihuatanejo3 ($124.20 in chips) 
+Seat 5: bluehawail ($216.45 in chips) 
+Seat 6: Purakzoli ($330.50 in chips) 
+Evals: posts the ante $1
+Gen DisColor: posts the ante $1
+gaiggibeliin: posts the ante $1
+Zihuatanejo3: posts the ante $1
+bluehawail: posts the ante $1
+Purakzoli: posts the ante $1
+Evals: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8d Td]
+Gen DisColor: raises $8 to $9
+gaiggibeliin: folds 
+Zihuatanejo3: folds 
+bluehawail: folds 
+Purakzoli: folds 
+Evals: folds 
+Uncalled bet ($8) returned to Gen DisColor
+Gen DisColor collected $8 from pot
+Gen DisColor: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0 
+Seat 1: Evals (button blind) folded before Flop
+Seat 2: Gen DisColor collected ($8)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 5: bluehawail folded before Flop (didn't bet)
+Seat 6: Purakzoli folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196043032804:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 19:55:32 EET [2019/01/21 12:55:32 ET]
+Table 'Marina IV' 6-max Seat #2 is the button
+Seat 1: Evals ($267.07 in chips) 
+Seat 2: Gen DisColor ($1792.86 in chips) 
+Seat 3: gaiggibeliin ($148 in chips) 
+Seat 4: Zihuatanejo3 ($123.20 in chips) 
+Seat 5: bluehawail ($215.45 in chips) 
+Seat 6: Purakzoli ($329.50 in chips) 
+Evals: posts the ante $1
+Gen DisColor: posts the ante $1
+gaiggibeliin: posts the ante $1
+Zihuatanejo3: posts the ante $1
+bluehawail: posts the ante $1
+Purakzoli: posts the ante $1
+Gen DisColor: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9s Ts]
+gaiggibeliin: calls $1
+Zihuatanejo3: calls $1
+bluehawail: calls $1
+Purakzoli: calls $1
+Evals: calls $1
+Gen DisColor: raises $22 to $23
+gaiggibeliin: calls $22
+Zihuatanejo3: folds 
+bluehawail: folds 
+Purakzoli: folds 
+Evals: calls $22
+*** FLOP *** [Qs 7c 8c]
+gaiggibeliin: bets $124 and is all-in
+Evals: raises $119.07 to $243.07 and is all-in
+Gen DisColor: calls $243.07
+*** TURN *** [Qs 7c 8c] [9d]
+*** RIVER *** [Qs 7c 8c 9d] [Ac]
+*** SHOW DOWN ***
+Evals: shows [7d 7h] (three of a kind, Sevens)
+Gen DisColor: shows [Kd Ks] (a pair of Kings)
+Evals collected $238.14 from side pot
+gaiggibeliin: shows [9s Ts] (a pair of Nines)
+Evals collected $447.25 from main pot
+*** SUMMARY ***
+Total pot $688.14 Main pot $447.25. Side pot $238.14. | Rake $2.75 
+Board [Qs 7c 8c 9d Ac]
+Seat 1: Evals showed [7d 7h] and won ($685.39) with three of a kind, Sevens
+Seat 2: Gen DisColor (button blind) showed [Kd Ks] and lost with a pair of Kings
+Seat 3: gaiggibeliin showed [9s Ts] and lost with a pair of Nines
+Seat 4: Zihuatanejo3 folded before Flop
+Seat 5: bluehawail folded before Flop
+Seat 6: Purakzoli folded before Flop
+
+
+
+PokerStars Hand #196043083849:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 19:56:57 EET [2019/01/21 12:56:57 ET]
+Table 'Marina IV' 6-max Seat #3 is the button
+Seat 1: Evals ($685.39 in chips) 
+Seat 2: Gen DisColor ($1525.79 in chips) 
+Seat 3: gaiggibeliin ($150 in chips) 
+Seat 4: Zihuatanejo3 ($121.20 in chips) 
+Seat 5: bluehawail ($213.45 in chips) 
+Seat 6: Purakzoli ($327.50 in chips) 
+Evals: posts the ante $1
+Gen DisColor: posts the ante $1
+gaiggibeliin: posts the ante $1
+Zihuatanejo3: posts the ante $1
+bluehawail: posts the ante $1
+Purakzoli: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8d Js]
+Zihuatanejo3: calls $1
+bluehawail: calls $1
+Purakzoli: folds 
+Evals: folds 
+Gen DisColor: folds 
+gaiggibeliin: checks 
+*** FLOP *** [Ks 9d Jh]
+Zihuatanejo3: bets $5.70
+bluehawail: calls $5.70
+gaiggibeliin: folds 
+*** TURN *** [Ks 9d Jh] [9h]
+Zihuatanejo3: checks 
+bluehawail: checks 
+*** RIVER *** [Ks 9d Jh 9h] [Qh]
+Zihuatanejo3: bets $13
+bluehawail: calls $13
+*** SHOW DOWN ***
+Zihuatanejo3: shows [Qd Qs] (a full house, Queens full of Nines)
+bluehawail: mucks hand 
+Zihuatanejo3 collected $44.08 from pot
+*** SUMMARY ***
+Total pot $46.40 | Rake $2.32 
+Board [Ks 9d Jh 9h Qh]
+Seat 1: Evals folded before Flop (didn't bet)
+Seat 2: Gen DisColor folded before Flop (didn't bet)
+Seat 3: gaiggibeliin (button blind) folded on the Flop
+Seat 4: Zihuatanejo3 showed [Qd Qs] and won ($44.08) with a full house, Queens full of Nines
+Seat 5: bluehawail mucked [Th Tc]
+Seat 6: Purakzoli folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196043124862:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 19:58:05 EET [2019/01/21 12:58:05 ET]
+Table 'Marina IV' 6-max Seat #4 is the button
+Seat 1: Evals ($684.39 in chips) 
+Seat 2: Gen DisColor ($1524.79 in chips) 
+Seat 3: gaiggibeliin ($148 in chips) 
+Seat 4: Zihuatanejo3 ($144.58 in chips) 
+Seat 5: bluehawail ($192.75 in chips) 
+Seat 6: Purakzoli ($326.50 in chips) 
+Evals: posts the ante $1
+Gen DisColor: posts the ante $1
+gaiggibeliin: posts the ante $1
+Zihuatanejo3: posts the ante $1
+bluehawail: posts the ante $1
+Purakzoli: posts the ante $1
+Zihuatanejo3: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Th Kh]
+bluehawail has timed out
+bluehawail: folds 
+Purakzoli: raises $5 to $6
+Evals: folds 
+Gen DisColor: folds 
+gaiggibeliin: folds 
+Zihuatanejo3: calls $5
+*** FLOP *** [6d Tc Jh]
+Purakzoli: checks 
+Zihuatanejo3: checks 
+*** TURN *** [6d Tc Jh] [9h]
+Purakzoli: bets $12.83
+Zihuatanejo3: folds 
+Uncalled bet ($12.83) returned to Purakzoli
+Purakzoli collected $17.10 from pot
+Purakzoli: doesn't show hand 
+*** SUMMARY ***
+Total pot $18 | Rake $0.90 
+Board [6d Tc Jh 9h]
+Seat 1: Evals folded before Flop (didn't bet)
+Seat 2: Gen DisColor folded before Flop (didn't bet)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: Zihuatanejo3 (button blind) folded on the Turn
+Seat 5: bluehawail folded before Flop (didn't bet)
+Seat 6: Purakzoli collected ($17.10)
+
+
+
+PokerStars Hand #196043211944:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 20:00:18 EET [2019/01/21 13:00:18 ET]
+Table 'Marina IV' 6-max Seat #1 is the button
+Seat 1: Evals ($683.39 in chips) 
+Seat 2: Gen DisColor ($1523.79 in chips) 
+Seat 3: gaiggibeliin ($147 in chips) 
+Seat 4: Zihuatanejo3 ($137.58 in chips) 
+Evals: posts the ante $1
+Gen DisColor: posts the ante $1
+gaiggibeliin: posts the ante $1
+Zihuatanejo3: posts the ante $1
+Evals: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ad Kh]
+Gen DisColor: raises $6 to $7
+gaiggibeliin: raises $19 to $26
+Purakzoli leaves the table
+Zihuatanejo3: folds 
+Evals: folds 
+Gen DisColor: calls $19
+*** FLOP *** [Qh 8c Kc]
+Gen DisColor: checks 
+bluehawail is disconnected 
+gaiggibeliin: bets $37.35
+Gen DisColor: folds 
+Uncalled bet ($37.35) returned to gaiggibeliin
+gaiggibeliin collected $55.75 from pot
+*** SUMMARY ***
+Total pot $57 | Rake $1.25 
+Board [Qh 8c Kc]
+Seat 1: Evals (button blind) folded before Flop
+Seat 2: Gen DisColor folded on the Flop
+Seat 3: gaiggibeliin collected ($55.75)
+Seat 4: Zihuatanejo3 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196043235489:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 20:00:54 EET [2019/01/21 13:00:54 ET]
+Table 'Marina IV' 6-max Seat #2 is the button
+Seat 1: Evals ($681.39 in chips) 
+Seat 2: Gen DisColor ($1496.79 in chips) 
+Seat 3: gaiggibeliin ($175.75 in chips) 
+Seat 4: Zihuatanejo3 ($136.58 in chips) 
+Evals: posts the ante $1
+Gen DisColor: posts the ante $1
+gaiggibeliin: posts the ante $1
+Zihuatanejo3: posts the ante $1
+Gen DisColor: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6c 9d]
+gaiggibeliin: folds 
+Zihuatanejo3: raises $6 to $7
+Evals: calls $7
+Gen DisColor: folds 
+*** FLOP *** [9s Tc Ad]
+Zihuatanejo3: bets $10
+Evals: calls $10
+*** TURN *** [9s Tc Ad] [6d]
+Zihuatanejo3: bets $20
+Evals: calls $20
+*** RIVER *** [9s Tc Ad 6d] [Js]
+Zihuatanejo3: checks 
+Evals: bets $33
+Zihuatanejo3: calls $33
+*** SHOW DOWN ***
+Evals: shows [Th Ah] (two pair, Aces and Tens)
+Zihuatanejo3: mucks hand 
+Evals collected $143.75 from pot
+*** SUMMARY ***
+Total pot $145 | Rake $1.25 
+Board [9s Tc Ad 6d Js]
+Seat 1: Evals showed [Th Ah] and won ($143.75) with two pair, Aces and Tens
+Seat 2: Gen DisColor (button blind) folded before Flop
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: Zihuatanejo3 mucked [Kc Ac]
+
+
+
+PokerStars Hand #196043265291:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 20:01:36 EET [2019/01/21 13:01:36 ET]
+Table 'Marina IV' 6-max Seat #3 is the button
+Seat 1: Evals ($754.14 in chips) 
+Seat 2: Gen DisColor ($1494.79 in chips) 
+Seat 3: gaiggibeliin ($174.75 in chips) 
+Seat 4: Zihuatanejo3 ($65.58 in chips) 
+Evals: posts the ante $1
+Gen DisColor: posts the ante $1
+gaiggibeliin: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jh Td]
+Zihuatanejo3: folds 
+Evals: calls $1
+Gen DisColor: raises $7 to $8
+gaiggibeliin: calls $7
+Evals: calls $7
+*** FLOP *** [7h Js 8c]
+Evals: checks 
+Gen DisColor: bets $26.75
+gaiggibeliin: folds 
+Evals: calls $26.75
+*** TURN *** [7h Js 8c] [6c]
+Evals: checks 
+Gen DisColor: checks 
+*** RIVER *** [7h Js 8c 6c] [8h]
+Bostongirl337 joins the table at seat #6 
+Evals: bets $78
+Gen DisColor: calls $78
+*** SHOW DOWN ***
+Evals: shows [8s 7s] (a full house, Eights full of Sevens)
+Gen DisColor: mucks hand 
+Evals collected $236.25 from pot
+*** SUMMARY ***
+Total pot $237.50 | Rake $1.25 
+Board [7h Js 8c 6c 8h]
+Seat 1: Evals showed [8s 7s] and won ($236.25) with a full house, Eights full of Sevens
+Seat 2: Gen DisColor mucked [Jd Th]
+Seat 3: gaiggibeliin (button blind) folded on the Flop
+Seat 4: Zihuatanejo3 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196043303762:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 20:02:28 EET [2019/01/21 13:02:28 ET]
+Table 'Marina IV' 6-max Seat #4 is the button
+Seat 1: Evals ($876.64 in chips) 
+Seat 2: Gen DisColor ($1381.04 in chips) 
+Seat 3: gaiggibeliin ($165.75 in chips) 
+Seat 4: Zihuatanejo3 ($124.58 in chips) 
+Seat 6: Bostongirl337 ($150 in chips) 
+Evals: posts the ante $1
+Gen DisColor: posts the ante $1
+gaiggibeliin: posts the ante $1
+Zihuatanejo3: posts the ante $1
+Bostongirl337: posts the ante $1
+Zihuatanejo3: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kd 8d]
+Bostongirl337: calls $1
+Evals: calls $1
+Gen DisColor: folds 
+gaiggibeliin: calls $1
+Zihuatanejo3: checks 
+*** FLOP *** [Ts 9s Jd]
+Bostongirl337: checks 
+Evals: checks 
+gaiggibeliin: checks 
+Zihuatanejo3: bets $6
+Bostongirl337: calls $6
+Evals: folds 
+gaiggibeliin: folds 
+*** TURN *** [Ts 9s Jd] [Tc]
+Bostongirl337: checks 
+Zihuatanejo3: bets $14
+Bostongirl337: folds 
+Uncalled bet ($14) returned to Zihuatanejo3
+Zihuatanejo3 collected $19.95 from pot
+Zihuatanejo3: doesn't show hand 
+*** SUMMARY ***
+Total pot $21 | Rake $1.05 
+Board [Ts 9s Jd Tc]
+Seat 1: Evals folded on the Flop
+Seat 2: Gen DisColor folded before Flop (didn't bet)
+Seat 3: gaiggibeliin folded on the Flop
+Seat 4: Zihuatanejo3 (button blind) collected ($19.95)
+Seat 6: Bostongirl337 folded on the Turn
+
+
+
+PokerStars Hand #196043355769:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 20:03:37 EET [2019/01/21 13:03:37 ET]
+Table 'Marina IV' 6-max Seat #6 is the button
+Seat 1: Evals ($874.64 in chips) 
+Seat 2: Gen DisColor ($1380.04 in chips) 
+Seat 3: gaiggibeliin ($163.75 in chips) 
+Seat 4: Zihuatanejo3 ($136.53 in chips) 
+Seat 6: Bostongirl337 ($142 in chips) 
+Evals: posts the ante $1
+Gen DisColor: posts the ante $1
+gaiggibeliin: posts the ante $1
+Zihuatanejo3: posts the ante $1
+Bostongirl337: posts the ante $1
+Bostongirl337: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9s As]
+Evals: calls $1
+Gen DisColor: raises $2 to $3
+gaiggibeliin: calls $3
+Zihuatanejo3: calls $3
+Bostongirl337: calls $2
+Evals: calls $2
+*** FLOP *** [6c 8s Ks]
+Evals: checks 
+Gen DisColor: checks 
+gaiggibeliin: checks 
+Zihuatanejo3: checks 
+Bostongirl337: checks 
+*** TURN *** [6c 8s Ks] [Qc]
+Evals: bets $19
+Gen DisColor: calls $19
+gaiggibeliin: calls $19
+Zihuatanejo3: folds 
+Bostongirl337: folds 
+*** RIVER *** [6c 8s Ks Qc] [9c]
+Evals: checks 
+Gen DisColor: bets $17
+Bostongirl337 is disconnected 
+gaiggibeliin: raises $123.75 to $140.75 and is all-in
+Evals: folds 
+Gen DisColor: calls $123.75
+*** SHOW DOWN ***
+gaiggibeliin: shows [9s As] (a pair of Nines)
+Gen DisColor: shows [Tc 7c] (a flush, Queen high)
+Gen DisColor collected $355.75 from pot
+*** SUMMARY ***
+Total pot $358.50 | Rake $2.75 
+Board [6c 8s Ks Qc 9c]
+Seat 1: Evals folded on the River
+Seat 2: Gen DisColor showed [Tc 7c] and won ($355.75) with a flush, Queen high
+Seat 3: gaiggibeliin showed [9s As] and lost with a pair of Nines
+Seat 4: Zihuatanejo3 folded on the Turn
+Seat 6: Bostongirl337 (button blind) folded on the Turn
+
+
+
+PokerStars Hand #196043440955:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 20:05:28 EET [2019/01/21 13:05:28 ET]
+Table 'Marina IV' 6-max Seat #2 is the button
+Seat 2: Gen DisColor ($1572.04 in chips) 
+Seat 3: gaiggibeliin ($150 in chips) 
+Seat 4: Zihuatanejo3 ($132.53 in chips) 
+Seat 6: Bostongirl337 ($138 in chips) 
+Gen DisColor: posts the ante $1
+gaiggibeliin: posts the ante $1
+Zihuatanejo3: posts the ante $1
+Bostongirl337: posts the ante $1
+Gen DisColor: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Th Ts]
+gaiggibeliin: calls $1
+Zihuatanejo3: folds 
+Bostongirl337: folds 
+Gen DisColor: raises $6 to $7
+gaiggibeliin: calls $6
+*** FLOP *** [Qs 8c Ks]
+gaiggibeliin: checks 
+Gen DisColor: bets $1564.04 and is all-in
+gaiggibeliin: folds 
+Uncalled bet ($1564.04) returned to Gen DisColor
+Gen DisColor collected $17.10 from pot
+Gen DisColor: doesn't show hand 
+*** SUMMARY ***
+Total pot $18 | Rake $0.90 
+Board [Qs 8c Ks]
+Seat 2: Gen DisColor (button blind) collected ($17.10)
+Seat 3: gaiggibeliin folded on the Flop
+Seat 4: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 6: Bostongirl337 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196043456282:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 20:05:48 EET [2019/01/21 13:05:48 ET]
+Table 'Marina IV' 6-max Seat #3 is the button
+Seat 2: Gen DisColor ($1581.14 in chips) 
+Seat 3: gaiggibeliin ($142 in chips) 
+Seat 4: Zihuatanejo3 ($131.53 in chips) 
+Seat 6: Bostongirl337 ($137 in chips) 
+Gen DisColor: posts the ante $1
+gaiggibeliin: posts the ante $1
+Zihuatanejo3: posts the ante $1
+Bostongirl337: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ac Qc]
+Zihuatanejo3: folds 
+Bostongirl337: folds 
+Gen DisColor: raises $6 to $7
+gaiggibeliin: raises $21 to $28
+Gen DisColor: raises $1552.14 to $1580.14 and is all-in
+gaiggibeliin: calls $113 and is all-in
+Uncalled bet ($1439.14) returned to Gen DisColor
+*** FLOP *** [Ts 8d 8s]
+*** TURN *** [Ts 8d 8s] [9d]
+*** RIVER *** [Ts 8d 8s 9d] [Kh]
+Evals is disconnected 
+*** SHOW DOWN ***
+Gen DisColor: shows [Qd Ad] (a pair of Eights)
+gaiggibeliin: shows [Ac Qc] (a pair of Eights)
+Gen DisColor collected $142.38 from pot
+gaiggibeliin collected $142.37 from pot
+*** SUMMARY ***
+Total pot $286 | Rake $1.25 
+Board [Ts 8d 8s 9d Kh]
+Seat 2: Gen DisColor showed [Qd Ad] and won ($142.38) with a pair of Eights
+Seat 3: gaiggibeliin (button blind) showed [Ac Qc] and won ($142.37) with a pair of Eights
+Seat 4: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 6: Bostongirl337 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196043476383:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 20:06:15 EET [2019/01/21 13:06:15 ET]
+Table 'Marina IV' 6-max Seat #4 is the button
+Seat 2: Gen DisColor ($1581.52 in chips) 
+Seat 3: gaiggibeliin ($142.37 in chips) 
+Seat 4: Zihuatanejo3 ($130.53 in chips) 
+Seat 6: Bostongirl337 ($136 in chips) 
+Gen DisColor: posts the ante $1
+gaiggibeliin: posts the ante $1
+Zihuatanejo3: posts the ante $1
+Bostongirl337: posts the ante $1
+Zihuatanejo3: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6c 6d]
+Bostongirl337: folds 
+Gen DisColor: folds 
+gaiggibeliin: calls $1
+Zihuatanejo3: raises $9 to $10
+gaiggibeliin: calls $9
+*** FLOP *** [Tc 7d Js]
+gaiggibeliin: checks 
+Zihuatanejo3: bets $12
+gaiggibeliin: folds 
+Uncalled bet ($12) returned to Zihuatanejo3
+Zihuatanejo3 collected $22.80 from pot
+Zihuatanejo3: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $1.20 
+Board [Tc 7d Js]
+Seat 2: Gen DisColor folded before Flop (didn't bet)
+Seat 3: gaiggibeliin folded on the Flop
+Seat 4: Zihuatanejo3 (button blind) collected ($22.80)
+Seat 6: Bostongirl337 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196043505004:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 20:06:52 EET [2019/01/21 13:06:52 ET]
+Table 'Marina IV' 6-max Seat #6 is the button
+Seat 2: Gen DisColor ($1580.52 in chips) 
+Seat 3: gaiggibeliin ($131.37 in chips) 
+Seat 4: Zihuatanejo3 ($142.33 in chips) 
+Seat 6: Bostongirl337 ($135 in chips) 
+Gen DisColor: posts the ante $1
+gaiggibeliin: posts the ante $1
+Zihuatanejo3: posts the ante $1
+Bostongirl337: posts the ante $1
+Bostongirl337: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Th Kc]
+Evals leaves the table
+Gen DisColor: folds 
+gaiggibeliin: folds 
+Zihuatanejo3: folds 
+Uncalled bet ($1) returned to Bostongirl337
+Bostongirl337 collected $4 from pot
+Bostongirl337: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 2: Gen DisColor folded before Flop (didn't bet)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 6: Bostongirl337 (button blind) collected ($4)
+
+
+
+PokerStars Hand #196043518039:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 20:07:09 EET [2019/01/21 13:07:09 ET]
+Table 'Marina IV' 6-max Seat #2 is the button
+Seat 2: Gen DisColor ($1579.52 in chips) 
+Seat 3: gaiggibeliin ($130.37 in chips) 
+Seat 4: Zihuatanejo3 ($141.33 in chips) 
+Seat 6: Bostongirl337 ($138 in chips) 
+Gen DisColor: posts the ante $1
+gaiggibeliin: posts the ante $1
+Zihuatanejo3: posts the ante $1
+Bostongirl337: posts the ante $1
+Gen DisColor: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ah Kc]
+gaiggibeliin: raises $6 to $7
+Zihuatanejo3: folds 
+Bostongirl337: folds 
+Gen DisColor: folds 
+Uncalled bet ($6) returned to gaiggibeliin
+gaiggibeliin collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: Gen DisColor (button blind) folded before Flop
+Seat 3: gaiggibeliin collected ($6)
+Seat 4: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 6: Bostongirl337 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196043531979:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 20:07:28 EET [2019/01/21 13:07:28 ET]
+Table 'Marina IV' 6-max Seat #3 is the button
+Seat 2: Gen DisColor ($1577.52 in chips) 
+Seat 3: gaiggibeliin ($134.37 in chips) 
+Seat 4: Zihuatanejo3 ($140.33 in chips) 
+Seat 6: Bostongirl337 ($137 in chips) 
+Gen DisColor: posts the ante $1
+gaiggibeliin: posts the ante $1
+Zihuatanejo3: posts the ante $1
+Bostongirl337: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8d 6d]
+Zihuatanejo3: folds 
+Bostongirl337: raises $1 to $2
+takechip joins the table at seat #1 
+Gen DisColor: raises $9 to $11
+gaiggibeliin: folds 
+Bostongirl337: calls $9
+*** FLOP *** [7h 9c Qd]
+Bostongirl337: checks 
+Gen DisColor: checks 
+*** TURN *** [7h 9c Qd] [7c]
+Bostongirl337: checks 
+Gen DisColor: checks 
+*** RIVER *** [7h 9c Qd 7c] [9s]
+Bostongirl337: bets $1
+Gen DisColor: calls $1
+*** SHOW DOWN ***
+Bostongirl337: shows [Qs 8s] (two pair, Queens and Nines)
+Gen DisColor: mucks hand 
+Bostongirl337 collected $27.75 from pot
+*** SUMMARY ***
+Total pot $29 | Rake $1.25 
+Board [7h 9c Qd 7c 9s]
+Seat 2: Gen DisColor mucked [Js Ad]
+Seat 3: gaiggibeliin (button blind) folded before Flop
+Seat 4: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 6: Bostongirl337 showed [Qs 8s] and won ($27.75) with two pair, Queens and Nines
+
+
+
+PokerStars Hand #196043591729:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 20:08:45 EET [2019/01/21 13:08:45 ET]
+Table 'Marina IV' 6-max Seat #4 is the button
+Seat 1: takechip ($150 in chips) 
+Seat 2: Gen DisColor ($1564.52 in chips) 
+Seat 3: gaiggibeliin ($132.37 in chips) 
+Seat 4: Zihuatanejo3 ($139.33 in chips) 
+Seat 6: Bostongirl337 ($151.75 in chips) 
+takechip: posts the ante $1
+Gen DisColor: posts the ante $1
+gaiggibeliin: posts the ante $1
+Zihuatanejo3: posts the ante $1
+Bostongirl337: posts the ante $1
+Zihuatanejo3: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ts 6c]
+Bostongirl337: folds 
+takechip: folds 
+Gen DisColor: folds 
+gaiggibeliin: folds 
+Uncalled bet ($1) returned to Zihuatanejo3
+Zihuatanejo3 collected $5 from pot
+Zihuatanejo3: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 1: takechip folded before Flop (didn't bet)
+Seat 2: Gen DisColor folded before Flop (didn't bet)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: Zihuatanejo3 (button blind) collected ($5)
+Seat 6: Bostongirl337 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196043602060:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 20:08:59 EET [2019/01/21 13:08:59 ET]
+Table 'Marina IV' 6-max Seat #6 is the button
+Seat 1: takechip ($149 in chips) 
+Seat 2: Gen DisColor ($1563.52 in chips) 
+Seat 3: gaiggibeliin ($131.37 in chips) 
+Seat 4: Zihuatanejo3 ($143.33 in chips) 
+Seat 6: Bostongirl337 ($150.75 in chips) 
+takechip: posts the ante $1
+Gen DisColor: posts the ante $1
+gaiggibeliin: posts the ante $1
+Zihuatanejo3: posts the ante $1
+Bostongirl337: posts the ante $1
+Bostongirl337: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qh Kc]
+takechip: folds 
+Gen DisColor: raises $2 to $3
+gaiggibeliin: calls $3
+Zihuatanejo3: raises $18 to $21
+Bostongirl337: calls $20
+Gen DisColor: calls $18
+gaiggibeliin: raises $18 to $39
+Zihuatanejo3: raises $103.33 to $142.33 and is all-in
+Bostongirl337: raises $7.42 to $149.75 and is all-in
+Gen DisColor: folds 
+gaiggibeliin: calls $91.37 and is all-in
+Uncalled bet ($7.42) returned to Bostongirl337
+*** FLOP *** [9h Kh 7s]
+*** TURN *** [9h Kh 7s] [8d]
+*** RIVER *** [9h Kh 7s 8d] [Tc]
+*** SHOW DOWN ***
+Zihuatanejo3: shows [Ac Ah] (a pair of Aces)
+Bostongirl337: shows [Ks 9s] (two pair, Kings and Nines)
+Bostongirl337 collected $23.92 from side pot
+gaiggibeliin: shows [Qh Kc] (a pair of Kings)
+Bostongirl337 collected $414.36 from main pot
+*** SUMMARY ***
+Total pot $441.03 Main pot $414.36. Side pot $23.92. | Rake $2.75 
+Board [9h Kh 7s 8d Tc]
+Seat 1: takechip folded before Flop (didn't bet)
+Seat 2: Gen DisColor folded before Flop
+Seat 3: gaiggibeliin showed [Qh Kc] and lost with a pair of Kings
+Seat 4: Zihuatanejo3 showed [Ac Ah] and lost with a pair of Aces
+Seat 6: Bostongirl337 (button blind) showed [Ks 9s] and won ($438.28) with two pair, Kings and Nines
+
+
+
+PokerStars Hand #196043648865:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 20:10:00 EET [2019/01/21 13:10:00 ET]
+Table 'Marina IV' 6-max Seat #1 is the button
+Seat 1: takechip ($148 in chips) 
+Seat 2: Gen DisColor ($1541.52 in chips) 
+Seat 3: gaiggibeliin ($150 in chips) 
+Seat 6: Bostongirl337 ($445.70 in chips) 
+takechip: posts the ante $1
+Gen DisColor: posts the ante $1
+gaiggibeliin: posts the ante $1
+Bostongirl337: posts the ante $1
+takechip: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8d Qh]
+Gen DisColor: folds 
+gaiggibeliin: folds 
+Bostongirl337: folds 
+Uncalled bet ($1) returned to takechip
+takechip collected $4 from pot
+takechip: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 1: takechip (button blind) collected ($4)
+Seat 2: Gen DisColor folded before Flop (didn't bet)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: Bostongirl337 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196043656263:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 20:10:10 EET [2019/01/21 13:10:10 ET]
+Table 'Marina IV' 6-max Seat #2 is the button
+Seat 1: takechip ($151 in chips) 
+Seat 2: Gen DisColor ($1540.52 in chips) 
+Seat 3: gaiggibeliin ($149 in chips) 
+Seat 4: Zihuatanejo3 ($122 in chips) 
+Seat 6: Bostongirl337 ($444.70 in chips) 
+takechip: posts the ante $1
+Gen DisColor: posts the ante $1
+gaiggibeliin: posts the ante $1
+Zihuatanejo3: posts the ante $1
+Bostongirl337: posts the ante $1
+Gen DisColor: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Td Kd]
+gaiggibeliin: calls $1
+Zihuatanejo3: folds 
+Bostongirl337: folds 
+takechip: calls $1
+Gen DisColor: checks 
+*** FLOP *** [Kc 7s 9c]
+gaiggibeliin: bets $5.70
+bluehawail was removed from the table for failing to post
+bluehawail leaves the table
+takechip: folds 
+Gen DisColor: raises $9.50 to $15.20
+gaiggibeliin: calls $9.50
+*** TURN *** [Kc 7s 9c] [Jd]
+gaiggibeliin: checks 
+Gen DisColor: checks 
+*** RIVER *** [Kc 7s 9c Jd] [8d]
+gaiggibeliin: bets $27.36
+Gen DisColor: folds 
+Uncalled bet ($27.36) returned to gaiggibeliin
+gaiggibeliin collected $36.48 from pot
+*** SUMMARY ***
+Total pot $38.40 | Rake $1.92 
+Board [Kc 7s 9c Jd 8d]
+Seat 1: takechip folded on the Flop
+Seat 2: Gen DisColor (button blind) folded on the River
+Seat 3: gaiggibeliin collected ($36.48)
+Seat 4: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 6: Bostongirl337 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196043709017:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 20:11:18 EET [2019/01/21 13:11:18 ET]
+Table 'Marina IV' 6-max Seat #3 is the button
+Seat 1: takechip ($149 in chips) 
+Seat 2: Gen DisColor ($1523.32 in chips) 
+Seat 3: gaiggibeliin ($168.28 in chips) 
+Seat 4: Zihuatanejo3 ($121 in chips) 
+Seat 6: Bostongirl337 ($443.70 in chips) 
+takechip: posts the ante $1
+Gen DisColor: posts the ante $1
+gaiggibeliin: posts the ante $1
+Zihuatanejo3: posts the ante $1
+Bostongirl337: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7h 6c]
+Zihuatanejo3: calls $1
+Bostongirl337: folds 
+takechip: calls $1
+Gen DisColor: raises $9 to $10
+gaiggibeliin: folds 
+Zihuatanejo3: calls $9
+takechip: folds 
+*** FLOP *** [Qs Td Js]
+Zihuatanejo3: checks 
+Gen DisColor: bets $25.65
+Zihuatanejo3: folds 
+Uncalled bet ($25.65) returned to Gen DisColor
+Gen DisColor collected $25.65 from pot
+Gen DisColor: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $1.35 
+Board [Qs Td Js]
+Seat 1: takechip folded before Flop
+Seat 2: Gen DisColor collected ($25.65)
+Seat 3: gaiggibeliin (button blind) folded before Flop
+Seat 4: Zihuatanejo3 folded on the Flop
+Seat 6: Bostongirl337 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196043733319:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 20:11:50 EET [2019/01/21 13:11:50 ET]
+Table 'Marina IV' 6-max Seat #4 is the button
+Seat 1: takechip ($147 in chips) 
+Seat 2: Gen DisColor ($1537.97 in chips) 
+Seat 3: gaiggibeliin ($166.28 in chips) 
+Seat 4: Zihuatanejo3 ($110 in chips) 
+Seat 6: Bostongirl337 ($442.70 in chips) 
+takechip: posts the ante $1
+Gen DisColor: posts the ante $1
+gaiggibeliin: posts the ante $1
+Zihuatanejo3: posts the ante $1
+Bostongirl337: posts the ante $1
+Zihuatanejo3: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8s Qh]
+Bostongirl337: raises $5 to $6
+takechip: calls $6
+Gen DisColor: calls $6
+gaiggibeliin: folds 
+Zihuatanejo3: folds 
+*** FLOP *** [Ad 6s As]
+Bostongirl337: bets $9
+takechip: calls $9
+Gen DisColor: folds 
+*** TURN *** [Ad 6s As] [Ah]
+Bostongirl337: checks 
+takechip: checks 
+*** RIVER *** [Ad 6s As Ah] [Kh]
+Bostongirl337: checks 
+takechip: checks 
+*** SHOW DOWN ***
+Bostongirl337: shows [Qd 9d] (three of a kind, Aces)
+takechip: shows [Jc Jh] (a full house, Aces full of Jacks)
+takechip collected $39.90 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $2.10 
+Board [Ad 6s As Ah Kh]
+Seat 1: takechip showed [Jc Jh] and won ($39.90) with a full house, Aces full of Jacks
+Seat 2: Gen DisColor folded on the Flop
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: Zihuatanejo3 (button blind) folded before Flop
+Seat 6: Bostongirl337 showed [Qd 9d] and lost with three of a kind, Aces
+
+
+
+PokerStars Hand #196043776757:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 20:12:46 EET [2019/01/21 13:12:46 ET]
+Table 'Marina IV' 6-max Seat #6 is the button
+Seat 1: takechip ($170.90 in chips) 
+Seat 2: Gen DisColor ($1530.97 in chips) 
+Seat 3: gaiggibeliin ($165.28 in chips) 
+Seat 4: Zihuatanejo3 ($108 in chips) 
+Seat 6: Bostongirl337 ($426.70 in chips) 
+takechip: posts the ante $1
+Gen DisColor: posts the ante $1
+gaiggibeliin: posts the ante $1
+Zihuatanejo3: posts the ante $1
+Bostongirl337: posts the ante $1
+Bostongirl337: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qd Jh]
+takechip: raises $7 to $8
+Gen DisColor: folds 
+gaiggibeliin: folds 
+Zihuatanejo3: folds 
+Bostongirl337: raises $21 to $29
+takechip: calls $21
+*** FLOP *** [6c 6d Ts]
+takechip: checks 
+Bostongirl337: bets $30
+takechip: folds 
+Uncalled bet ($30) returned to Bostongirl337
+Bostongirl337 collected $60.25 from pot
+Bostongirl337: doesn't show hand 
+*** SUMMARY ***
+Total pot $63 | Rake $2.75 
+Board [6c 6d Ts]
+Seat 1: takechip folded on the Flop
+Seat 2: Gen DisColor folded before Flop (didn't bet)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 6: Bostongirl337 (button blind) collected ($60.25)
+
+
+
+PokerStars Hand #196043817740:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 20:13:39 EET [2019/01/21 13:13:39 ET]
+Table 'Marina IV' 6-max Seat #1 is the button
+Seat 1: takechip ($140.90 in chips) 
+Seat 2: Gen DisColor ($1529.97 in chips) 
+Seat 3: gaiggibeliin ($164.28 in chips) 
+Seat 4: Zihuatanejo3 ($107 in chips) 
+Seat 6: Bostongirl337 ($456.95 in chips) 
+takechip: posts the ante $1
+Gen DisColor: posts the ante $1
+gaiggibeliin: posts the ante $1
+Zihuatanejo3: posts the ante $1
+Bostongirl337: posts the ante $1
+takechip: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kc Th]
+Gen DisColor: raises $7 to $8
+gaiggibeliin: folds 
+Zihuatanejo3: calls $8
+Bostongirl337: folds 
+takechip: calls $7
+*** FLOP *** [Kd Tc 8s]
+Gen DisColor: bets $13.78
+Zihuatanejo3: raises $27.56 to $41.34
+takechip: folds 
+Gen DisColor: calls $27.56
+*** TURN *** [Kd Tc 8s] [Qh]
+Gen DisColor: checks 
+Zihuatanejo3: bets $56.66 and is all-in
+Gen DisColor: calls $56.66
+*** RIVER *** [Kd Tc 8s Qh] [6s]
+*** SHOW DOWN ***
+Gen DisColor: shows [Jd Qc] (a pair of Queens)
+Zihuatanejo3: shows [Qd Kh] (two pair, Kings and Queens)
+Zihuatanejo3 collected $222.25 from pot
+*** SUMMARY ***
+Total pot $225 | Rake $2.75 
+Board [Kd Tc 8s Qh 6s]
+Seat 1: takechip (button blind) folded on the Flop
+Seat 2: Gen DisColor showed [Jd Qc] and lost with a pair of Queens
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: Zihuatanejo3 showed [Qd Kh] and won ($222.25) with two pair, Kings and Queens
+Seat 6: Bostongirl337 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196043854735:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 20:14:28 EET [2019/01/21 13:14:28 ET]
+Table 'Marina IV' 6-max Seat #2 is the button
+Seat 1: takechip ($131.90 in chips) 
+Seat 2: Gen DisColor ($1422.97 in chips) 
+Seat 3: gaiggibeliin ($163.28 in chips) 
+Seat 4: Zihuatanejo3 ($222.25 in chips) 
+Seat 6: Bostongirl337 ($455.95 in chips) 
+takechip: posts the ante $1
+Gen DisColor: posts the ante $1
+gaiggibeliin: posts the ante $1
+Zihuatanejo3: posts the ante $1
+Bostongirl337: posts the ante $1
+Gen DisColor: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6s 9h]
+gaiggibeliin: folds 
+Zihuatanejo3: folds 
+Bostongirl337: raises $4 to $5
+takechip: calls $5
+Gen DisColor: calls $4
+*** FLOP *** [9s As Kc]
+Bostongirl337: checks 
+takechip: checks 
+Gen DisColor: bets $31
+Bostongirl337: folds 
+takechip: folds 
+Uncalled bet ($31) returned to Gen DisColor
+Gen DisColor collected $19 from pot
+Gen DisColor: doesn't show hand 
+*** SUMMARY ***
+Total pot $20 | Rake $1 
+Board [9s As Kc]
+Seat 1: takechip folded on the Flop
+Seat 2: Gen DisColor (button blind) collected ($19)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 6: Bostongirl337 folded on the Flop
+
+
+
+PokerStars Hand #196043887319:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 20:15:10 EET [2019/01/21 13:15:10 ET]
+Table 'Marina IV' 6-max Seat #3 is the button
+Seat 1: takechip ($125.90 in chips) 
+Seat 2: Gen DisColor ($1435.97 in chips) 
+Seat 3: gaiggibeliin ($162.28 in chips) 
+Seat 4: Zihuatanejo3 ($221.25 in chips) 
+Seat 6: Bostongirl337 ($449.95 in chips) 
+takechip: posts the ante $1
+Gen DisColor: posts the ante $1
+gaiggibeliin: posts the ante $1
+Zihuatanejo3: posts the ante $1
+Bostongirl337: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8s 7s]
+Zihuatanejo3: calls $1
+Bostongirl337: raises $10 to $11
+takechip: folds 
+Gen DisColor: folds 
+gaiggibeliin: calls $10
+Gen DisColor leaves the table
+Zihuatanejo3: folds 
+*** FLOP *** [9h Qc Td]
+Bostongirl337: bets $17
+gaiggibeliin: calls $17
+*** TURN *** [9h Qc Td] [7h]
+Bostongirl337: bets $30
+gaiggibeliin: calls $30
+*** RIVER *** [9h Qc Td 7h] [7c]
+Bostongirl337: bets $390.95 and is all-in
+gaiggibeliin: calls $103.28 and is all-in
+Uncalled bet ($287.67) returned to Bostongirl337
+*** SHOW DOWN ***
+Bostongirl337: shows [Js Qs] (two pair, Queens and Sevens)
+gaiggibeliin: shows [8s 7s] (three of a kind, Sevens)
+gaiggibeliin collected $325.81 from pot
+*** SUMMARY ***
+Total pot $328.56 | Rake $2.75 
+Board [9h Qc Td 7h 7c]
+Seat 1: takechip folded before Flop (didn't bet)
+Seat 2: Gen DisColor folded before Flop (didn't bet)
+Seat 3: gaiggibeliin (button blind) showed [8s 7s] and won ($325.81) with three of a kind, Sevens
+Seat 4: Zihuatanejo3 folded before Flop
+Seat 6: Bostongirl337 showed [Js Qs] and lost with two pair, Queens and Sevens
+
+
+
+PokerStars Hand #196043964013:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 20:16:50 EET [2019/01/21 13:16:50 ET]
+Table 'Marina IV' 6-max Seat #4 is the button
+Seat 1: takechip ($124.90 in chips) 
+Seat 3: gaiggibeliin ($325.81 in chips) 
+Seat 4: Zihuatanejo3 ($219.25 in chips) 
+takechip: posts the ante $1
+gaiggibeliin: posts the ante $1
+Zihuatanejo3: posts the ante $1
+Zihuatanejo3: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9h Qd]
+Bostongirl337 leaves the table
+takechip: raises $4.50 to $5.50
+gaiggibeliin: folds 
+Zihuatanejo3: calls $4.50
+*** FLOP *** [7s 7d 7c]
+takechip: checks 
+Zihuatanejo3: bets $8
+takechip: calls $8
+*** TURN *** [7s 7d 7c] [Kh]
+takechip: checks 
+Zihuatanejo3: checks 
+*** RIVER *** [7s 7d 7c Kh] [Ac]
+takechip: checks 
+Zihuatanejo3: checks 
+*** SHOW DOWN ***
+takechip: shows [8c 8s] (a full house, Sevens full of Eights)
+Zihuatanejo3: mucks hand 
+takechip collected $28.75 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $1.25 
+Board [7s 7d 7c Kh Ac]
+Seat 1: takechip showed [8c 8s] and won ($28.75) with a full house, Sevens full of Eights
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: Zihuatanejo3 (button blind) mucked [6s 6c]
+
+
+
+PokerStars Hand #196044006524:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 20:17:45 EET [2019/01/21 13:17:45 ET]
+Table 'Marina IV' 6-max Seat #1 is the button
+Seat 1: takechip ($139.15 in chips) 
+Seat 3: gaiggibeliin ($324.81 in chips) 
+Seat 4: Zihuatanejo3 ($204.75 in chips) 
+takechip: posts the ante $1
+gaiggibeliin: posts the ante $1
+Zihuatanejo3: posts the ante $1
+takechip: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jc 6s]
+gaiggibeliin: folds 
+Zihuatanejo3: calls $1
+takechip: raises $5.75 to $6.75
+Zihuatanejo3: calls $5.75
+*** FLOP *** [6h Qs 9s]
+Zihuatanejo3: checks 
+takechip: checks 
+*** TURN *** [6h Qs 9s] [Th]
+Zihuatanejo3: checks 
+takechip: checks 
+*** RIVER *** [6h Qs 9s Th] [Ac]
+Zihuatanejo3: checks 
+takechip: checks 
+*** SHOW DOWN ***
+Zihuatanejo3: shows [Tc Kc] (a pair of Tens)
+takechip: shows [Jh Ad] (a pair of Aces)
+takechip collected $15.68 from pot
+*** SUMMARY ***
+Total pot $16.50 | Rake $0.82 
+Board [6h Qs 9s Th Ac]
+Seat 1: takechip (button blind) showed [Jh Ad] and won ($15.68) with a pair of Aces
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: Zihuatanejo3 showed [Tc Kc] and lost with a pair of Tens
+
+
+
+PokerStars Hand #196044067630:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 20:19:05 EET [2019/01/21 13:19:05 ET]
+Table 'Marina IV' 6-max Seat #3 is the button
+Seat 1: takechip ($147.08 in chips) 
+Seat 3: gaiggibeliin ($323.81 in chips) 
+Seat 4: Zihuatanejo3 ($197 in chips) 
+takechip: posts the ante $1
+gaiggibeliin: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ts Th]
+Zihuatanejo3: raises $3 to $4
+takechip: folds 
+gaiggibeliin: calls $3
+*** FLOP *** [9c Ks Qc]
+Zihuatanejo3: checks 
+gaiggibeliin: bets $7
+Zihuatanejo3: calls $7
+*** TURN *** [9c Ks Qc] [Jc]
+Zihuatanejo3: checks 
+gaiggibeliin: bets $15.91
+Zihuatanejo3: calls $15.91
+*** RIVER *** [9c Ks Qc Jc] [Tc]
+Zihuatanejo3: bets $36
+gaiggibeliin: folds 
+Uncalled bet ($36) returned to Zihuatanejo3
+Zihuatanejo3 collected $55.57 from pot
+Zihuatanejo3: doesn't show hand 
+*** SUMMARY ***
+Total pot $56.82 | Rake $1.25 
+Board [9c Ks Qc Jc Tc]
+Seat 1: takechip folded before Flop (didn't bet)
+Seat 3: gaiggibeliin (button blind) folded on the River
+Seat 4: Zihuatanejo3 collected ($55.57)
+
+
+
+PokerStars Hand #196044126926:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/21 20:20:22 EET [2019/01/21 13:20:22 ET]
+Table 'Marina IV' 6-max Seat #1 is the button
+Seat 1: takechip ($146.08 in chips) 
+Seat 3: gaiggibeliin ($295.90 in chips) 
+takechip: posts the ante $1
+gaiggibeliin: posts the ante $1
+takechip: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6c Tc]
+Zihuatanejo3 leaves the table
+gaiggibeliin: calls $1
+takechip: checks 
+*** FLOP *** [Qs 7d As]
+gaiggibeliin: checks 
+takechip: checks 
+*** TURN *** [Qs 7d As] [Kh]
+gaiggibeliin: bets $2.55
+takechip: folds 
+Uncalled bet ($2.55) returned to gaiggibeliin
+gaiggibeliin collected $3.80 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [Qs 7d As Kh]
+Seat 1: takechip (button blind) folded on the Turn
+Seat 3: gaiggibeliin collected ($3.80)
+
+
+
