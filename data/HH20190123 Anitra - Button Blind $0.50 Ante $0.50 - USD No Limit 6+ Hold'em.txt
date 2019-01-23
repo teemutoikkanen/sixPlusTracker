@@ -1,0 +1,467 @@
+﻿PokerStars Hand #196114526566:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/23 15:33:49 EET [2019/01/23 8:33:49 ET]
+Table 'Anitra' 6-max Seat #3 is the button
+Seat 2: gaiggibeliin ($75 in chips) 
+Seat 3: dalemati24 ($15.06 in chips) 
+Seat 4: Minek96 ($77.60 in chips) 
+Seat 5: wllmm ($130.88 in chips) 
+Seat 6: wendy84546 ($66.82 in chips) 
+gaiggibeliin: posts the ante $0.50
+dalemati24: posts the ante $0.50
+Minek96: posts the ante $0.50
+wllmm: posts the ante $0.50
+wendy84546: posts the ante $0.50
+dalemati24: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kc 6h]
+Minek96: folds 
+wllmm: raises $0.50 to $1
+wendy84546: calls $1
+gaiggibeliin: folds 
+dalemati24: calls $0.50
+*** FLOP *** [Ah Qd Tc]
+wllmm: bets $2.50
+wendy84546: calls $2.50
+dalemati24: calls $2.50
+*** TURN *** [Ah Qd Tc] [Td]
+wllmm: bets $6
+wendy84546: folds 
+dalemati24: folds 
+Uncalled bet ($6) returned to wllmm
+wllmm collected $12.35 from pot
+*** SUMMARY ***
+Total pot $13 | Rake $0.65 
+Board [Ah Qd Tc Td]
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: dalemati24 (button blind) folded on the Turn
+Seat 4: Minek96 folded before Flop (didn't bet)
+Seat 5: wllmm collected ($12.35)
+Seat 6: wendy84546 folded on the Turn
+
+
+
+PokerStars Hand #196114546631:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/23 15:34:36 EET [2019/01/23 8:34:36 ET]
+Table 'Anitra' 6-max Seat #4 is the button
+Seat 2: gaiggibeliin ($74.50 in chips) 
+Seat 3: dalemati24 ($11.06 in chips) 
+Seat 4: Minek96 ($77.10 in chips) 
+Seat 5: wllmm ($139.23 in chips) 
+Seat 6: wendy84546 ($62.82 in chips) 
+gaiggibeliin: posts the ante $0.50
+dalemati24: posts the ante $0.50
+Minek96: posts the ante $0.50
+wllmm: posts the ante $0.50
+wendy84546: posts the ante $0.50
+Minek96: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jh Kc]
+wllmm: folds 
+wendy84546: folds 
+gaiggibeliin: calls $0.50
+dalemati24: calls $0.50
+Minek96: checks 
+*** FLOP *** [7c As Tc]
+gaiggibeliin: checks 
+dalemati24: checks 
+Minek96: checks 
+*** TURN *** [7c As Tc] [Ad]
+gaiggibeliin: checks 
+dalemati24: checks 
+Minek96: checks 
+*** RIVER *** [7c As Tc Ad] [Th]
+gaiggibeliin: checks 
+dalemati24: checks 
+Minek96: checks 
+*** SHOW DOWN ***
+gaiggibeliin: shows [Jh Kc] (two pair, Aces and Tens)
+dalemati24: mucks hand 
+Minek96: mucks hand 
+gaiggibeliin collected $3.80 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [7c As Tc Ad Th]
+Seat 2: gaiggibeliin showed [Jh Kc] and won ($3.80) with two pair, Aces and Tens
+Seat 3: dalemati24 mucked [6s Qs]
+Seat 4: Minek96 (button blind) mucked [6c 9s]
+Seat 5: wllmm folded before Flop (didn't bet)
+Seat 6: wendy84546 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196114570779:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/23 15:35:31 EET [2019/01/23 8:35:31 ET]
+Table 'Anitra' 6-max Seat #5 is the button
+Seat 2: gaiggibeliin ($77.30 in chips) 
+Seat 3: dalemati24 ($10.06 in chips) 
+Seat 4: Minek96 ($76.10 in chips) 
+Seat 5: wllmm ($138.73 in chips) 
+Seat 6: wendy84546 ($62.32 in chips) 
+gaiggibeliin: posts the ante $0.50
+dalemati24: posts the ante $0.50
+Minek96: posts the ante $0.50
+wllmm: posts the ante $0.50
+wendy84546: posts the ante $0.50
+wllmm: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kc 9c]
+wendy84546: folds 
+gaiggibeliin: calls $0.50
+dalemati24: raises $1.50 to $2
+Minek96: calls $2
+wllmm: calls $1.50
+gaiggibeliin: calls $1.50
+*** FLOP *** [Ad 7d Tc]
+gaiggibeliin: checks 
+dalemati24: bets $7.56 and is all-in
+Minek96: calls $7.56
+wllmm: calls $7.56
+gaiggibeliin: folds 
+*** TURN *** [Ad 7d Tc] [7h]
+Minek96: checks 
+wllmm: checks 
+*** RIVER *** [Ad 7d Tc 7h] [7c]
+Minek96: checks 
+wllmm: checks 
+*** SHOW DOWN ***
+dalemati24: shows [Jc Js] (a full house, Sevens full of Jacks)
+Minek96: mucks hand 
+wllmm: mucks hand 
+dalemati24 collected $31.52 from pot
+*** SUMMARY ***
+Total pot $33.18 | Rake $1.66 
+Board [Ad 7d Tc 7h 7c]
+Seat 2: gaiggibeliin folded on the Flop
+Seat 3: dalemati24 showed [Jc Js] and won ($31.52) with a full house, Sevens full of Jacks
+Seat 4: Minek96 mucked [Kd Td]
+Seat 5: wllmm (button blind) mucked [Jh Kh]
+Seat 6: wendy84546 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196114604989:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/23 15:36:49 EET [2019/01/23 8:36:49 ET]
+Table 'Anitra' 6-max Seat #6 is the button
+Seat 2: gaiggibeliin ($74.80 in chips) 
+Seat 3: dalemati24 ($31.52 in chips) 
+Seat 4: Minek96 ($66.04 in chips) 
+Seat 5: wllmm ($128.67 in chips) 
+Seat 6: wendy84546 ($61.82 in chips) 
+gaiggibeliin: posts the ante $0.50
+dalemati24: posts the ante $0.50
+Minek96: posts the ante $0.50
+wllmm: posts the ante $0.50
+wendy84546: posts the ante $0.50
+wendy84546: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6h Ad]
+gaiggibeliin: folds 
+dalemati24: raises $1 to $1.50
+Minek96: folds 
+wllmm: calls $1.50
+wendy84546: folds 
+*** FLOP *** [8h 8c Ks]
+dalemati24: bets $2.85
+wllmm: calls $2.85
+*** TURN *** [8h 8c Ks] [9d]
+dalemati24: bets $7
+wllmm: calls $7
+*** RIVER *** [8h 8c Ks 9d] [9c]
+dalemati24: bets $19.67 and is all-in
+wllmm: calls $19.67
+*** SHOW DOWN ***
+dalemati24: shows [Kd Qc] (two pair, Kings and Nines)
+wllmm: shows [Qh Qd] (two pair, Queens and Nines)
+dalemati24 collected $62.54 from pot
+*** SUMMARY ***
+Total pot $65.04 | Rake $2.50 
+Board [8h 8c Ks 9d 9c]
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: dalemati24 showed [Kd Qc] and won ($62.54) with two pair, Kings and Nines
+Seat 4: Minek96 folded before Flop (didn't bet)
+Seat 5: wllmm showed [Qh Qd] and lost with two pair, Queens and Nines
+Seat 6: wendy84546 (button blind) folded before Flop
+
+
+
+PokerStars Hand #196114622631:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/23 15:37:28 EET [2019/01/23 8:37:28 ET]
+Table 'Anitra' 6-max Seat #2 is the button
+Seat 2: gaiggibeliin ($74.30 in chips) 
+Seat 3: dalemati24 ($62.54 in chips) 
+Seat 4: Minek96 ($65.54 in chips) 
+Seat 5: wllmm ($97.15 in chips) 
+Seat 6: wendy84546 ($60.82 in chips) 
+gaiggibeliin: posts the ante $0.50
+dalemati24: posts the ante $0.50
+Minek96: posts the ante $0.50
+wllmm: posts the ante $0.50
+wendy84546: posts the ante $0.50
+gaiggibeliin: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9c Ah]
+dalemati24: folds 
+Minek96: folds 
+wllmm: raises $0.50 to $1
+wendy84546: calls $1
+gaiggibeliin: calls $0.50
+*** FLOP *** [Qc 6s Ad]
+wllmm: bets $2.50
+wendy84546: folds 
+gaiggibeliin: calls $2.50
+*** TURN *** [Qc 6s Ad] [8c]
+wllmm: bets $5
+gaiggibeliin: calls $5
+*** RIVER *** [Qc 6s Ad 8c] [7d]
+wllmm: bets $9.50
+gaiggibeliin: raises $25.78 to $35.28
+wllmm: calls $25.78
+*** SHOW DOWN ***
+gaiggibeliin: shows [9c Ah] (a straight, Ace to Nine)
+wllmm: mucks hand 
+gaiggibeliin collected $88.56 from pot
+*** SUMMARY ***
+Total pot $91.06 | Rake $2.50 
+Board [Qc 6s Ad 8c 7d]
+Seat 2: gaiggibeliin (button blind) showed [9c Ah] and won ($88.56) with a straight, Ace to Nine
+Seat 3: dalemati24 folded before Flop (didn't bet)
+Seat 4: Minek96 folded before Flop (didn't bet)
+Seat 5: wllmm mucked [Ac 6h]
+Seat 6: wendy84546 folded on the Flop
+
+
+
+PokerStars Hand #196114659973:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/23 15:38:50 EET [2019/01/23 8:38:50 ET]
+Table 'Anitra' 6-max Seat #3 is the button
+Seat 2: gaiggibeliin ($118.58 in chips) 
+Seat 3: dalemati24 ($62.04 in chips) 
+Seat 4: Minek96 ($65.04 in chips) 
+Seat 5: wllmm ($52.87 in chips) 
+Seat 6: wendy84546 ($75 in chips) 
+gaiggibeliin: posts the ante $0.50
+dalemati24: posts the ante $0.50
+Minek96: posts the ante $0.50
+wllmm: posts the ante $0.50
+wendy84546: posts the ante $0.50
+dalemati24: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Td 7s]
+Minek96: folds 
+wllmm: raises $1 to $1.50
+wendy84546: folds 
+gaiggibeliin: folds 
+dalemati24: calls $1
+*** FLOP *** [Kc Js Ah]
+wllmm: bets $2.50
+dalemati24: folds 
+Uncalled bet ($2.50) returned to wllmm
+wllmm collected $5.22 from pot
+wllmm: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.50 | Rake $0.28 
+Board [Kc Js Ah]
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: dalemati24 (button blind) folded on the Flop
+Seat 4: Minek96 folded before Flop (didn't bet)
+Seat 5: wllmm collected ($5.22)
+Seat 6: wendy84546 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196114673040:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/23 15:39:19 EET [2019/01/23 8:39:19 ET]
+Table 'Anitra' 6-max Seat #4 is the button
+Seat 2: gaiggibeliin ($118.08 in chips) 
+Seat 3: dalemati24 ($60.04 in chips) 
+Seat 4: Minek96 ($64.54 in chips) 
+Seat 5: wllmm ($56.09 in chips) 
+Seat 6: wendy84546 ($74.50 in chips) 
+gaiggibeliin: posts the ante $0.50
+dalemati24: posts the ante $0.50
+Minek96: posts the ante $0.50
+wllmm: posts the ante $0.50
+wendy84546: posts the ante $0.50
+Minek96: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7h 8d]
+wllmm: raises $1 to $1.50
+wendy84546: calls $1.50
+gaiggibeliin: folds 
+dalemati24: raises $3 to $4.50
+Minek96: folds 
+wllmm: calls $3
+wendy84546: calls $3
+*** FLOP *** [Ah 6s 7d]
+wllmm: checks 
+wendy84546: bets $69.50 and is all-in
+dalemati24: folds 
+wllmm: folds 
+Uncalled bet ($69.50) returned to wendy84546
+wendy84546 collected $15.68 from pot
+wendy84546: doesn't show hand 
+*** SUMMARY ***
+Total pot $16.50 | Rake $0.82 
+Board [Ah 6s 7d]
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: dalemati24 folded on the Flop
+Seat 4: Minek96 (button blind) folded before Flop
+Seat 5: wllmm folded on the Flop
+Seat 6: wendy84546 collected ($15.68)
+
+
+
+PokerStars Hand #196114692716:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/23 15:40:01 EET [2019/01/23 8:40:01 ET]
+Table 'Anitra' 6-max Seat #5 is the button
+Seat 2: gaiggibeliin ($117.58 in chips) 
+Seat 3: dalemati24 ($55.04 in chips) 
+Seat 4: Minek96 ($63.54 in chips) 
+Seat 5: wllmm ($51.09 in chips) 
+Seat 6: wendy84546 ($85.18 in chips) 
+gaiggibeliin: posts the ante $0.50
+dalemati24: posts the ante $0.50
+Minek96: posts the ante $0.50
+wllmm: posts the ante $0.50
+wendy84546: posts the ante $0.50
+wllmm: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ks 7h]
+wendy84546: folds 
+gaiggibeliin: folds 
+dalemati24: folds 
+Minek96: folds 
+Uncalled bet ($0.50) returned to wllmm
+wllmm collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: dalemati24 folded before Flop (didn't bet)
+Seat 4: Minek96 folded before Flop (didn't bet)
+Seat 5: wllmm (button blind) collected ($2.50)
+Seat 6: wendy84546 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196114697766:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/23 15:40:12 EET [2019/01/23 8:40:12 ET]
+Table 'Anitra' 6-max Seat #6 is the button
+Seat 2: gaiggibeliin ($117.08 in chips) 
+Seat 3: dalemati24 ($54.54 in chips) 
+Seat 4: Minek96 ($63.04 in chips) 
+Seat 5: wllmm ($53.09 in chips) 
+Seat 6: wendy84546 ($84.68 in chips) 
+gaiggibeliin: posts the ante $0.50
+dalemati24: posts the ante $0.50
+Minek96: posts the ante $0.50
+wllmm: posts the ante $0.50
+wendy84546: posts the ante $0.50
+wendy84546: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7c 6d]
+gaiggibeliin: folds 
+dalemati24: raises $1 to $1.50
+Minek96: folds 
+wllmm: folds 
+wendy84546: calls $1
+*** FLOP *** [Kd 6c Jc]
+dalemati24: bets $2.61
+wendy84546: calls $2.61
+*** TURN *** [Kd 6c Jc] [6h]
+dalemati24: bets $11
+wendy84546: folds 
+Uncalled bet ($11) returned to dalemati24
+dalemati24 collected $10.18 from pot
+dalemati24: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.72 | Rake $0.54 
+Board [Kd 6c Jc 6h]
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: dalemati24 collected ($10.18)
+Seat 4: Minek96 folded before Flop (didn't bet)
+Seat 5: wllmm folded before Flop (didn't bet)
+Seat 6: wendy84546 (button blind) folded on the Turn
+
+
+
+PokerStars Hand #196114713091:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/23 15:40:45 EET [2019/01/23 8:40:45 ET]
+Table 'Anitra' 6-max Seat #2 is the button
+Seat 2: gaiggibeliin ($116.58 in chips) 
+Seat 3: dalemati24 ($60.11 in chips) 
+Seat 4: Minek96 ($62.54 in chips) 
+Seat 5: wllmm ($52.59 in chips) 
+Seat 6: wendy84546 ($80.07 in chips) 
+gaiggibeliin: posts the ante $0.50
+dalemati24: posts the ante $0.50
+Minek96: posts the ante $0.50
+wllmm: posts the ante $0.50
+wendy84546: posts the ante $0.50
+gaiggibeliin: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8d 9d]
+dalemati24: raises $1 to $1.50
+Minek96: folds 
+wllmm: calls $1.50
+wendy84546: calls $1.50
+gaiggibeliin: calls $1
+*** FLOP *** [Qd 7d 7c]
+kolyan292 joins the table at seat #1 
+dalemati24: checks 
+wllmm: checks 
+wendy84546: checks 
+gaiggibeliin: bets $4.20
+dalemati24: folds 
+wllmm: folds 
+wendy84546: folds 
+Uncalled bet ($4.20) returned to gaiggibeliin
+gaiggibeliin collected $8.08 from pot
+*** SUMMARY ***
+Total pot $8.50 | Rake $0.42 
+Board [Qd 7d 7c]
+Seat 2: gaiggibeliin (button blind) collected ($8.08)
+Seat 3: dalemati24 folded on the Flop
+Seat 4: Minek96 folded before Flop (didn't bet)
+Seat 5: wllmm folded on the Flop
+Seat 6: wendy84546 folded on the Flop
+
+
+
+PokerStars Hand #196114734730:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/23 15:41:31 EET [2019/01/23 8:41:31 ET]
+Table 'Anitra' 6-max Seat #3 is the button
+Seat 1: kolyan292 ($75 in chips) 
+Seat 2: gaiggibeliin ($122.66 in chips) 
+Seat 3: dalemati24 ($58.11 in chips) 
+Seat 4: Minek96 ($62.04 in chips) 
+Seat 5: wllmm ($50.59 in chips) 
+Seat 6: wendy84546 ($78.07 in chips) 
+kolyan292: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dalemati24: posts the ante $0.50
+Minek96: posts the ante $0.50
+wllmm: posts the ante $0.50
+wendy84546: posts the ante $0.50
+dalemati24: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6h 8h]
+Minek96: folds 
+wllmm: calls $0.50
+wendy84546: calls $0.50
+kolyan292: raises $0.50 to $1
+gaiggibeliin: calls $1
+dalemati24: raises $5 to $6
+wllmm: folds 
+wendy84546: folds 
+kolyan292: calls $5
+gaiggibeliin: calls $5
+*** FLOP *** [9h 9d Js]
+kolyan292: checks 
+gaiggibeliin: checks 
+dalemati24: bets $10.45
+kolyan292: folds 
+gaiggibeliin: folds 
+Uncalled bet ($10.45) returned to dalemati24
+dalemati24 collected $20.90 from pot
+dalemati24: doesn't show hand 
+*** SUMMARY ***
+Total pot $22 | Rake $1.10 
+Board [9h 9d Js]
+Seat 1: kolyan292 folded on the Flop
+Seat 2: gaiggibeliin folded on the Flop
+Seat 3: dalemati24 (button blind) collected ($20.90)
+Seat 4: Minek96 folded before Flop (didn't bet)
+Seat 5: wllmm folded before Flop
+Seat 6: wendy84546 folded before Flop
+
+
+

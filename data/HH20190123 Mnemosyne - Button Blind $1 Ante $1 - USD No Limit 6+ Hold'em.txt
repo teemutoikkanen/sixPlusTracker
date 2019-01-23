@@ -1,0 +1,2251 @@
+﻿PokerStars Hand #196114469881:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 15:31:34 EET [2019/01/23 8:31:34 ET]
+Table 'Mnemosyne' 6-max Seat #4 is the button
+Seat 1: gaiggibeliin ($150 in chips) 
+Seat 3: MMM102 ($150 in chips) 
+Seat 4: bayernfan88 ($251.17 in chips) 
+Seat 5: buyst ($115.94 in chips) 
+gaiggibeliin: posts the ante $1
+MMM102: posts the ante $1
+bayernfan88: posts the ante $1
+buyst: posts the ante $1
+bayernfan88: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ks 8s]
+buyst: folds 
+gaiggibeliin: calls $1
+MMM102: folds 
+bayernfan88: checks 
+*** FLOP *** [Td Kd Qs]
+gaiggibeliin: bets $2.96
+bayernfan88: folds 
+Uncalled bet ($2.96) returned to gaiggibeliin
+gaiggibeliin collected $5.70 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Td Kd Qs]
+Seat 1: gaiggibeliin collected ($5.70)
+Seat 3: MMM102 folded before Flop (didn't bet)
+Seat 4: bayernfan88 (button blind) folded on the Flop
+Seat 5: buyst folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196114479839:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 15:31:58 EET [2019/01/23 8:31:58 ET]
+Table 'Mnemosyne' 6-max Seat #5 is the button
+Seat 1: gaiggibeliin ($153.70 in chips) 
+Seat 3: MMM102 ($150 in chips) 
+Seat 4: bayernfan88 ($249.17 in chips) 
+Seat 5: buyst ($114.94 in chips) 
+gaiggibeliin: posts the ante $1
+MMM102: posts the ante $1
+bayernfan88: posts the ante $1
+buyst: posts the ante $1
+buyst: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ts Jh]
+gaiggibeliin: calls $1
+MMM102: calls $1
+bayernfan88: raises $9 to $10
+buyst: folds 
+gaiggibeliin: folds 
+MMM102: calls $9
+*** FLOP *** [Tc 6d 6s]
+MMM102: checks 
+bayernfan88: bets $9
+MMM102: calls $9
+*** TURN *** [Tc 6d 6s] [7d]
+sjohnny200 joins the table at seat #6 
+MMM102: checks 
+bayernfan88: checks 
+*** RIVER *** [Tc 6d 6s 7d] [Js]
+MMM102: checks 
+bayernfan88: checks 
+*** SHOW DOWN ***
+MMM102: shows [9s 9h] (two pair, Nines and Sixes)
+bayernfan88: mucks hand 
+MMM102 collected $42.75 from pot
+*** SUMMARY ***
+Total pot $44 | Rake $1.25 
+Board [Tc 6d 6s 7d Js]
+Seat 1: gaiggibeliin folded before Flop
+Seat 3: MMM102 showed [9s 9h] and won ($42.75) with two pair, Nines and Sixes
+Seat 4: bayernfan88 mucked [Ks Qh]
+Seat 5: buyst (button blind) folded before Flop
+
+
+
+PokerStars Hand #196114514056:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 15:33:20 EET [2019/01/23 8:33:20 ET]
+Table 'Mnemosyne' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($151.70 in chips) 
+Seat 3: MMM102 ($172.75 in chips) 
+Seat 4: bayernfan88 ($229.17 in chips) 
+Seat 5: buyst ($112.94 in chips) 
+Seat 6: sjohnny200 ($150 in chips) 
+gaiggibeliin: posts the ante $1
+MMM102: posts the ante $1
+bayernfan88: posts the ante $1
+buyst: posts the ante $1
+sjohnny200: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kc Kd]
+MMM102: folds 
+bayernfan88: folds 
+buyst: raises $3 to $4
+sjohnny200: calls $4
+gaiggibeliin: raises $20 to $24
+buyst: folds 
+sjohnny200: folds 
+Uncalled bet ($20) returned to gaiggibeliin
+gaiggibeliin collected $17 from pot
+*** SUMMARY ***
+Total pot $17 | Rake $0 
+Seat 1: gaiggibeliin (button blind) collected ($17)
+Seat 3: MMM102 folded before Flop (didn't bet)
+Seat 4: bayernfan88 folded before Flop (didn't bet)
+Seat 5: buyst folded before Flop
+Seat 6: sjohnny200 folded before Flop
+
+
+
+PokerStars Hand #196114528392:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 15:33:53 EET [2019/01/23 8:33:53 ET]
+Table 'Mnemosyne' 6-max Seat #3 is the button
+Seat 1: gaiggibeliin ($163.70 in chips) 
+Seat 3: MMM102 ($171.75 in chips) 
+Seat 4: bayernfan88 ($228.17 in chips) 
+Seat 5: buyst ($107.94 in chips) 
+Seat 6: sjohnny200 ($145 in chips) 
+gaiggibeliin: posts the ante $1
+MMM102: posts the ante $1
+bayernfan88: posts the ante $1
+buyst: posts the ante $1
+sjohnny200: posts the ante $1
+MMM102: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jh 6s]
+bayernfan88: folds 
+buyst: raises $3 to $4
+sjohnny200: raises $14 to $18
+gaiggibeliin: folds 
+MMM102: folds 
+buyst: calls $14
+*** FLOP *** [Kc Qh Qs]
+buyst: checks 
+sjohnny200: bets $15
+buyst: folds 
+Uncalled bet ($15) returned to sjohnny200
+sjohnny200 collected $39.90 from pot
+sjohnny200: doesn't show hand 
+*** SUMMARY ***
+Total pot $42 | Rake $2.10 
+Board [Kc Qh Qs]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: MMM102 (button blind) folded before Flop
+Seat 4: bayernfan88 folded before Flop (didn't bet)
+Seat 5: buyst folded on the Flop
+Seat 6: sjohnny200 collected ($39.90)
+
+
+
+PokerStars Hand #196114541609:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 15:34:24 EET [2019/01/23 8:34:24 ET]
+Table 'Mnemosyne' 6-max Seat #4 is the button
+Seat 1: gaiggibeliin ($162.70 in chips) 
+Seat 3: MMM102 ($169.75 in chips) 
+Seat 4: bayernfan88 ($227.17 in chips) 
+Seat 5: buyst ($88.94 in chips) 
+Seat 6: sjohnny200 ($165.90 in chips) 
+gaiggibeliin: posts the ante $1
+MMM102: posts the ante $1
+bayernfan88: posts the ante $1
+buyst: posts the ante $1
+sjohnny200: posts the ante $1
+bayernfan88: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ac Ad]
+buyst: folds 
+sjohnny200: raises $4 to $5
+gaiggibeliin: raises $16 to $21
+MMM102: folds 
+bayernfan88: folds 
+sjohnny200: folds 
+Uncalled bet ($16) returned to gaiggibeliin
+gaiggibeliin collected $16 from pot
+*** SUMMARY ***
+Total pot $16 | Rake $0 
+Seat 1: gaiggibeliin collected ($16)
+Seat 3: MMM102 folded before Flop (didn't bet)
+Seat 4: bayernfan88 (button blind) folded before Flop
+Seat 5: buyst folded before Flop (didn't bet)
+Seat 6: sjohnny200 folded before Flop
+
+
+
+PokerStars Hand #196114548858:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 15:34:41 EET [2019/01/23 8:34:41 ET]
+Table 'Mnemosyne' 6-max Seat #5 is the button
+Seat 1: gaiggibeliin ($172.70 in chips) 
+Seat 3: MMM102 ($168.75 in chips) 
+Seat 4: bayernfan88 ($225.17 in chips) 
+Seat 5: buyst ($87.94 in chips) 
+Seat 6: sjohnny200 ($159.90 in chips) 
+gaiggibeliin: posts the ante $1
+MMM102: posts the ante $1
+bayernfan88: posts the ante $1
+buyst: posts the ante $1
+sjohnny200: posts the ante $1
+buyst: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jh Jd]
+sjohnny200: folds 
+gaiggibeliin: calls $1
+MMM102: folds 
+bayernfan88: folds 
+buyst: raises $6 to $7
+gaiggibeliin: calls $6
+*** FLOP *** [7s Ad Ac]
+gaiggibeliin: checks 
+buyst: checks 
+*** TURN *** [7s Ad Ac] [Td]
+gaiggibeliin: checks 
+buyst: bets $5
+gaiggibeliin: calls $5
+*** RIVER *** [7s Ad Ac Td] [Kc]
+gaiggibeliin: checks 
+buyst: checks 
+*** SHOW DOWN ***
+gaiggibeliin: shows [Jh Jd] (two pair, Aces and Jacks)
+buyst: mucks hand 
+gaiggibeliin collected $27.55 from pot
+*** SUMMARY ***
+Total pot $29 | Rake $1.45 
+Board [7s Ad Ac Td Kc]
+Seat 1: gaiggibeliin showed [Jh Jd] and won ($27.55) with two pair, Aces and Jacks
+Seat 3: MMM102 folded before Flop (didn't bet)
+Seat 4: bayernfan88 folded before Flop (didn't bet)
+Seat 5: buyst (button blind) mucked [9d Tc]
+Seat 6: sjohnny200 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196114575884:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 15:35:43 EET [2019/01/23 8:35:43 ET]
+Table 'Mnemosyne' 6-max Seat #6 is the button
+Seat 1: gaiggibeliin ($187.25 in chips) 
+Seat 3: MMM102 ($167.75 in chips) 
+Seat 4: bayernfan88 ($224.17 in chips) 
+Seat 5: buyst ($74.94 in chips) 
+Seat 6: sjohnny200 ($158.90 in chips) 
+gaiggibeliin: posts the ante $1
+MMM102: posts the ante $1
+bayernfan88: posts the ante $1
+buyst: posts the ante $1
+sjohnny200: posts the ante $1
+sjohnny200: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Tc Qd]
+gaiggibeliin: folds 
+MMM102: folds 
+bayernfan88: folds 
+buyst: folds 
+Uncalled bet ($1) returned to sjohnny200
+sjohnny200 collected $5 from pot
+sjohnny200: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: MMM102 folded before Flop (didn't bet)
+Seat 4: bayernfan88 folded before Flop (didn't bet)
+Seat 5: buyst folded before Flop (didn't bet)
+Seat 6: sjohnny200 (button blind) collected ($5)
+
+
+
+PokerStars Hand #196114585177:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 15:36:04 EET [2019/01/23 8:36:04 ET]
+Table 'Mnemosyne' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($186.25 in chips) 
+Seat 3: MMM102 ($166.75 in chips) 
+Seat 4: bayernfan88 ($223.17 in chips) 
+Seat 5: buyst ($73.94 in chips) 
+Seat 6: sjohnny200 ($162.90 in chips) 
+gaiggibeliin: posts the ante $1
+MMM102: posts the ante $1
+bayernfan88: posts the ante $1
+buyst: posts the ante $1
+sjohnny200: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kc Ts]
+MMM102: folds 
+bayernfan88: folds 
+buyst: calls $1
+sjohnny200: raises $2 to $3
+gaiggibeliin: calls $2
+buyst: raises $69.94 to $72.94 and is all-in
+sjohnny200: folds 
+gaiggibeliin: folds 
+Uncalled bet ($69.94) returned to buyst
+buyst collected $14 from pot
+buyst: doesn't show hand 
+*** SUMMARY ***
+Total pot $14 | Rake $0 
+Seat 1: gaiggibeliin (button blind) folded before Flop
+Seat 3: MMM102 folded before Flop (didn't bet)
+Seat 4: bayernfan88 folded before Flop (didn't bet)
+Seat 5: buyst collected ($14)
+Seat 6: sjohnny200 folded before Flop
+
+
+
+PokerStars Hand #196114597459:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 15:36:32 EET [2019/01/23 8:36:32 ET]
+Table 'Mnemosyne' 6-max Seat #3 is the button
+Seat 1: gaiggibeliin ($182.25 in chips) 
+Seat 3: MMM102 ($165.75 in chips) 
+Seat 4: bayernfan88 ($222.17 in chips) 
+Seat 5: buyst ($83.94 in chips) 
+Seat 6: sjohnny200 ($158.90 in chips) 
+gaiggibeliin: posts the ante $1
+MMM102: posts the ante $1
+bayernfan88: posts the ante $1
+buyst: posts the ante $1
+sjohnny200: posts the ante $1
+MMM102: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qs 6c]
+bayernfan88: raises $6 to $7
+buyst: folds 
+sjohnny200: folds 
+gaiggibeliin: folds 
+MMM102: folds 
+Uncalled bet ($6) returned to bayernfan88
+bayernfan88 collected $7 from pot
+*** SUMMARY ***
+Total pot $7 | Rake $0 
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: MMM102 (button blind) folded before Flop
+Seat 4: bayernfan88 collected ($7)
+Seat 5: buyst folded before Flop (didn't bet)
+Seat 6: sjohnny200 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196114603801:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 15:36:46 EET [2019/01/23 8:36:46 ET]
+Table 'Mnemosyne' 6-max Seat #4 is the button
+Seat 1: gaiggibeliin ($181.25 in chips) 
+Seat 3: MMM102 ($163.75 in chips) 
+Seat 4: bayernfan88 ($227.17 in chips) 
+Seat 5: buyst ($82.94 in chips) 
+Seat 6: sjohnny200 ($157.90 in chips) 
+gaiggibeliin: posts the ante $1
+MMM102: posts the ante $1
+bayernfan88: posts the ante $1
+buyst: posts the ante $1
+sjohnny200: posts the ante $1
+bayernfan88: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qd Tc]
+buyst: folds 
+sjohnny200: raises $2 to $3
+gaiggibeliin: calls $3
+MMM102: folds 
+bayernfan88: folds 
+*** FLOP *** [7s Ks 8d]
+sjohnny200: checks 
+gaiggibeliin: bets $8.55
+sjohnny200: folds 
+Uncalled bet ($8.55) returned to gaiggibeliin
+gaiggibeliin collected $11.40 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.60 
+Board [7s Ks 8d]
+Seat 1: gaiggibeliin collected ($11.40)
+Seat 3: MMM102 folded before Flop (didn't bet)
+Seat 4: bayernfan88 (button blind) folded before Flop
+Seat 5: buyst folded before Flop (didn't bet)
+Seat 6: sjohnny200 folded on the Flop
+
+
+
+PokerStars Hand #196114618044:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 15:37:18 EET [2019/01/23 8:37:18 ET]
+Table 'Mnemosyne' 6-max Seat #5 is the button
+Seat 1: gaiggibeliin ($188.65 in chips) 
+Seat 3: MMM102 ($162.75 in chips) 
+Seat 4: bayernfan88 ($225.17 in chips) 
+Seat 5: buyst ($81.94 in chips) 
+Seat 6: sjohnny200 ($153.90 in chips) 
+gaiggibeliin: posts the ante $1
+MMM102: posts the ante $1
+bayernfan88: posts the ante $1
+buyst: posts the ante $1
+sjohnny200: posts the ante $1
+buyst: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9h 9c]
+sjohnny200: folds 
+gaiggibeliin: calls $1
+MMM102: folds 
+bayernfan88: folds 
+buyst: raises $8 to $9
+gaiggibeliin: raises $178.65 to $187.65 and is all-in
+buyst: calls $71.94 and is all-in
+Uncalled bet ($106.71) returned to gaiggibeliin
+*** FLOP *** [Ks 6s Ac]
+vlrma_ joins the table at seat #2 
+*** TURN *** [Ks 6s Ac] [Js]
+*** RIVER *** [Ks 6s Ac Js] [Tc]
+*** SHOW DOWN ***
+gaiggibeliin: shows [9h 9c] (a pair of Nines)
+buyst: shows [8s 8d] (a pair of Eights)
+gaiggibeliin collected $164.13 from pot
+*** SUMMARY ***
+Total pot $166.88 | Rake $2.75 
+Board [Ks 6s Ac Js Tc]
+Seat 1: gaiggibeliin showed [9h 9c] and won ($164.13) with a pair of Nines
+Seat 3: MMM102 folded before Flop (didn't bet)
+Seat 4: bayernfan88 folded before Flop (didn't bet)
+Seat 5: buyst (button blind) showed [8s 8d] and lost with a pair of Eights
+Seat 6: sjohnny200 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196114636804:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 15:37:59 EET [2019/01/23 8:37:59 ET]
+Table 'Mnemosyne' 6-max Seat #6 is the button
+Seat 1: gaiggibeliin ($270.84 in chips) 
+Seat 2: vlrma_ ($100 in chips) 
+Seat 3: MMM102 ($161.75 in chips) 
+Seat 4: bayernfan88 ($224.17 in chips) 
+Seat 6: sjohnny200 ($152.90 in chips) 
+gaiggibeliin: posts the ante $1
+vlrma_: posts the ante $1
+MMM102: posts the ante $1
+bayernfan88: posts the ante $1
+sjohnny200: posts the ante $1
+sjohnny200: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kc Jc]
+buyst leaves the table
+gaiggibeliin: calls $1
+vlrma_: folds 
+MMM102: folds 
+bayernfan88: raises $8 to $9
+sjohnny200: folds 
+gaiggibeliin: calls $8
+*** FLOP *** [6c 9s 6d]
+gaiggibeliin: checks 
+bayernfan88: bets $8.52
+gaiggibeliin: folds 
+Uncalled bet ($8.52) returned to bayernfan88
+bayernfan88 collected $22.80 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $1.20 
+Board [6c 9s 6d]
+Seat 1: gaiggibeliin folded on the Flop
+Seat 2: vlrma_ folded before Flop (didn't bet)
+Seat 3: MMM102 folded before Flop (didn't bet)
+Seat 4: bayernfan88 collected ($22.80)
+Seat 6: sjohnny200 (button blind) folded before Flop
+
+
+
+PokerStars Hand #196114664828:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 15:39:01 EET [2019/01/23 8:39:01 ET]
+Table 'Mnemosyne' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($260.84 in chips) 
+Seat 2: vlrma_ ($99 in chips) 
+Seat 3: MMM102 ($160.75 in chips) 
+Seat 4: bayernfan88 ($236.97 in chips) 
+Seat 6: sjohnny200 ($150.90 in chips) 
+gaiggibeliin: posts the ante $1
+vlrma_: posts the ante $1
+MMM102: posts the ante $1
+bayernfan88: posts the ante $1
+sjohnny200: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kh Ac]
+vlrma_: folds 
+MMM102: folds 
+bayernfan88: folds 
+sjohnny200: raises $7 to $8
+gaiggibeliin: raises $21 to $29
+sjohnny200: folds 
+Uncalled bet ($21) returned to gaiggibeliin
+gaiggibeliin collected $21 from pot
+*** SUMMARY ***
+Total pot $21 | Rake $0 
+Seat 1: gaiggibeliin (button blind) collected ($21)
+Seat 2: vlrma_ folded before Flop (didn't bet)
+Seat 3: MMM102 folded before Flop (didn't bet)
+Seat 4: bayernfan88 folded before Flop (didn't bet)
+Seat 6: sjohnny200 folded before Flop
+
+
+
+PokerStars Hand #196114676908:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 15:39:27 EET [2019/01/23 8:39:27 ET]
+Table 'Mnemosyne' 6-max Seat #2 is the button
+Seat 1: gaiggibeliin ($272.84 in chips) 
+Seat 2: vlrma_ ($98 in chips) 
+Seat 3: MMM102 ($159.75 in chips) 
+Seat 4: bayernfan88 ($235.97 in chips) 
+Seat 6: sjohnny200 ($141.90 in chips) 
+gaiggibeliin: posts the ante $1
+vlrma_: posts the ante $1
+MMM102: posts the ante $1
+bayernfan88: posts the ante $1
+sjohnny200: posts the ante $1
+vlrma_: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ac 8h]
+MMM102: folds 
+bayernfan88: raises $7 to $8
+sjohnny200: calls $8
+gaiggibeliin: folds 
+vlrma_: raises $89 to $97 and is all-in
+bayernfan88: raises $137.97 to $234.97 and is all-in
+sjohnny200: calls $132.90 and is all-in
+Uncalled bet ($94.07) returned to bayernfan88
+*** FLOP *** [6s Qh 7h]
+*** TURN *** [6s Qh 7h] [8s]
+*** RIVER *** [6s Qh 7h 8s] [7s]
+*** SHOW DOWN ***
+bayernfan88: shows [As Kc] (a pair of Sevens)
+sjohnny200: shows [7c Jc] (three of a kind, Sevens)
+sjohnny200 collected $87.80 from side pot
+vlrma_: shows [Tc Ts] (two pair, Tens and Sevens)
+sjohnny200 collected $293.25 from main pot
+*** SUMMARY ***
+Total pot $383.80 Main pot $293.25. Side pot $87.80. | Rake $2.75 
+Board [6s Qh 7h 8s 7s]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: vlrma_ (button blind) showed [Tc Ts] and lost with two pair, Tens and Sevens
+Seat 3: MMM102 folded before Flop (didn't bet)
+Seat 4: bayernfan88 showed [As Kc] and lost with a pair of Sevens
+Seat 6: sjohnny200 showed [7c Jc] and won ($381.05) with three of a kind, Sevens
+
+
+
+PokerStars Hand #196114696586:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 15:40:10 EET [2019/01/23 8:40:10 ET]
+Table 'Mnemosyne' 6-max Seat #3 is the button
+Seat 1: gaiggibeliin ($271.84 in chips) 
+Seat 3: MMM102 ($158.75 in chips) 
+Seat 4: bayernfan88 ($120.17 in chips) 
+Seat 6: sjohnny200 ($381.05 in chips) 
+gaiggibeliin: posts the ante $1
+MMM102: posts the ante $1
+bayernfan88: posts the ante $1
+sjohnny200: posts the ante $1
+MMM102: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7d 8h]
+bayernfan88: raises $6 to $7
+sjohnny200: calls $7
+gaiggibeliin: folds 
+MMM102: folds 
+*** FLOP *** [Kh 8c Qc]
+bayernfan88: bets $13.54
+sjohnny200: folds 
+Uncalled bet ($13.54) returned to bayernfan88
+bayernfan88 collected $18.05 from pot
+*** SUMMARY ***
+Total pot $19 | Rake $0.95 
+Board [Kh 8c Qc]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: MMM102 (button blind) folded before Flop
+Seat 4: bayernfan88 collected ($18.05)
+Seat 6: sjohnny200 folded on the Flop
+
+
+
+PokerStars Hand #196114704139:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 15:40:26 EET [2019/01/23 8:40:26 ET]
+Table 'Mnemosyne' 6-max Seat #4 is the button
+Seat 1: gaiggibeliin ($270.84 in chips) 
+Seat 2: vlrma_ ($124.77 in chips) 
+Seat 3: MMM102 ($156.75 in chips) 
+Seat 4: bayernfan88 ($130.22 in chips) 
+Seat 6: sjohnny200 ($373.05 in chips) 
+gaiggibeliin: posts the ante $1
+vlrma_: posts the ante $1
+MMM102: posts the ante $1
+bayernfan88: posts the ante $1
+sjohnny200: posts the ante $1
+bayernfan88: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qd 8s]
+sjohnny200: raises $4 to $5
+gaiggibeliin: folds 
+vlrma_: raises $10 to $15
+MMM102: folds 
+bayernfan88: folds 
+sjohnny200: calls $10
+*** FLOP *** [Ks 9c Kh]
+sjohnny200: checks 
+vlrma_: bets $12
+sjohnny200: raises $23 to $35
+vlrma_: raises $52.10 to $87.10
+sjohnny200: raises $52.10 to $139.20
+vlrma_: calls $21.67 and is all-in
+Uncalled bet ($30.43) returned to sjohnny200
+*** TURN *** [Ks 9c Kh] [Th]
+*** RIVER *** [Ks 9c Kh Th] [Jc]
+*** SHOW DOWN ***
+sjohnny200: shows [9s 9h] (a full house, Nines full of Kings)
+vlrma_: shows [Jd Jh] (a full house, Jacks full of Kings)
+vlrma_ collected $250.79 from pot
+*** SUMMARY ***
+Total pot $253.54 | Rake $2.75 
+Board [Ks 9c Kh Th Jc]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: vlrma_ showed [Jd Jh] and won ($250.79) with a full house, Jacks full of Kings
+Seat 3: MMM102 folded before Flop (didn't bet)
+Seat 4: bayernfan88 (button blind) folded before Flop
+Seat 6: sjohnny200 showed [9s 9h] and lost with a full house, Nines full of Kings
+
+
+
+PokerStars Hand #196114722800:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 15:41:06 EET [2019/01/23 8:41:06 ET]
+Table 'Mnemosyne' 6-max Seat #6 is the button
+Seat 1: gaiggibeliin ($269.84 in chips) 
+Seat 2: vlrma_ ($250.79 in chips) 
+Seat 3: MMM102 ($155.75 in chips) 
+Seat 4: bayernfan88 ($128.22 in chips) 
+Seat 6: sjohnny200 ($248.28 in chips) 
+gaiggibeliin: posts the ante $1
+vlrma_: posts the ante $1
+MMM102: posts the ante $1
+bayernfan88: posts the ante $1
+sjohnny200: posts the ante $1
+sjohnny200: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ts 9c]
+gaiggibeliin: folds 
+vlrma_: calls $1
+MMM102: folds 
+bayernfan88: folds 
+sjohnny200: raises $7 to $8
+vlrma_: calls $7
+*** FLOP *** [8h 7d 9h]
+vlrma_: checks 
+sjohnny200: bets $14
+vlrma_: calls $14
+*** TURN *** [8h 7d 9h] [Th]
+vlrma_: checks 
+sjohnny200: checks 
+*** RIVER *** [8h 7d 9h Th] [Qd]
+vlrma_: bets $28
+sjohnny200: folds 
+Uncalled bet ($28) returned to vlrma_
+vlrma_ collected $46.55 from pot
+vlrma_: doesn't show hand 
+*** SUMMARY ***
+Total pot $49 | Rake $2.45 
+Board [8h 7d 9h Th Qd]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: vlrma_ collected ($46.55)
+Seat 3: MMM102 folded before Flop (didn't bet)
+Seat 4: bayernfan88 folded before Flop (didn't bet)
+Seat 6: sjohnny200 (button blind) folded on the River
+
+
+
+PokerStars Hand #196117938599:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:20:36 EET [2019/01/23 10:20:36 ET]
+Table 'Mnemosyne' 6-max Seat #5 is the button
+Seat 1: gaiggibeliin ($150 in chips) 
+Seat 2: MrBarrett82 ($138.62 in chips) 
+Seat 3: KingNidhog ($398.67 in chips) 
+Seat 4: trawlerman00 ($61.07 in chips) 
+Seat 5: tomas156562 ($185.59 in chips) 
+Seat 6: eSeemann ($180.12 in chips) 
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts the ante $1
+KingNidhog: posts the ante $1
+trawlerman00: posts the ante $1
+tomas156562: posts the ante $1
+eSeemann: posts the ante $1
+tomas156562: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jc Ac]
+eSeemann: folds 
+gaiggibeliin: calls $1
+MrBarrett82: folds 
+KingNidhog: calls $1
+trawlerman00: raises $10 to $11
+tomas156562: calls $10
+gaiggibeliin: calls $10
+KingNidhog: calls $10
+*** FLOP *** [7s 9s 8s]
+gaiggibeliin: checks 
+KingNidhog: checks 
+trawlerman00: checks 
+tomas156562: checks 
+*** TURN *** [7s 9s 8s] [7d]
+gaiggibeliin: checks 
+KingNidhog: checks 
+trawlerman00: bets $23.75
+tomas156562: calls $23.75
+gaiggibeliin: folds 
+KingNidhog: folds 
+*** RIVER *** [7s 9s 8s 7d] [Th]
+trawlerman00: checks 
+tomas156562: bets $149.84 and is all-in
+trawlerman00: folds 
+Uncalled bet ($149.84) returned to tomas156562
+tomas156562 collected $94.75 from pot
+*** SUMMARY ***
+Total pot $97.50 | Rake $2.75 
+Board [7s 9s 8s 7d Th]
+Seat 1: gaiggibeliin folded on the Turn
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 3: KingNidhog folded on the Turn
+Seat 4: trawlerman00 folded on the River
+Seat 5: tomas156562 (button blind) collected ($94.75)
+Seat 6: eSeemann folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196117980074:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:21:45 EET [2019/01/23 10:21:45 ET]
+Table 'Mnemosyne' 6-max Seat #6 is the button
+Seat 1: gaiggibeliin ($138 in chips) 
+Seat 2: MrBarrett82 ($137.62 in chips) 
+Seat 3: KingNidhog ($386.67 in chips) 
+Seat 4: trawlerman00 ($25.32 in chips) 
+Seat 5: tomas156562 ($244.59 in chips) 
+Seat 6: eSeemann ($179.12 in chips) 
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts the ante $1
+KingNidhog: posts the ante $1
+trawlerman00: posts the ante $1
+tomas156562: posts the ante $1
+eSeemann: posts the ante $1
+eSeemann: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8c Jh]
+gaiggibeliin: folds 
+MrBarrett82: folds 
+KingNidhog: calls $1
+trawlerman00: calls $1
+tomas156562: raises $10 to $11
+eSeemann: raises $89 to $100
+KingNidhog: folds 
+trawlerman00: calls $23.32 and is all-in
+tomas156562: raises $143.59 to $243.59 and is all-in
+eSeemann: calls $78.12 and is all-in
+Uncalled bet ($65.47) returned to tomas156562
+*** FLOP *** [Ac 6s 9d]
+*** TURN *** [Ac 6s 9d] [8d]
+*** RIVER *** [Ac 6s 9d 8d] [Ad]
+*** SHOW DOWN ***
+tomas156562: shows [Qh Qc] (two pair, Aces and Queens)
+eSeemann: shows [Ks Kh] (two pair, Aces and Kings)
+eSeemann collected $307.60 from side pot
+trawlerman00: shows [8h 7h] (a straight, Ace to Nine)
+trawlerman00 collected $77.21 from main pot
+*** SUMMARY ***
+Total pot $387.56 Main pot $77.21. Side pot $307.60. | Rake $2.75 
+Board [Ac 6s 9d 8d Ad]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 3: KingNidhog folded before Flop
+Seat 4: trawlerman00 showed [8h 7h] and won ($77.21) with a straight, Ace to Nine
+Seat 5: tomas156562 showed [Qh Qc] and lost with two pair, Aces and Queens
+Seat 6: eSeemann (button blind) showed [Ks Kh] and won ($307.60) with two pair, Aces and Kings
+
+
+
+PokerStars Hand #196118003727:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:22:25 EET [2019/01/23 10:22:25 ET]
+Table 'Mnemosyne' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($150 in chips) 
+Seat 2: MrBarrett82 ($136.62 in chips) 
+Seat 3: KingNidhog ($384.67 in chips) 
+Seat 4: trawlerman00 ($77.21 in chips) 
+Seat 5: tomas156562 ($65.47 in chips) 
+Seat 6: eSeemann ($307.60 in chips) 
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts the ante $1
+KingNidhog: posts the ante $1
+trawlerman00: posts the ante $1
+tomas156562: posts the ante $1
+eSeemann: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ah 7s]
+MrBarrett82: calls $1
+KingNidhog: folds 
+trawlerman00: calls $1
+tomas156562: raises $1 to $2
+eSeemann: folds 
+gaiggibeliin: calls $1
+MrBarrett82: raises $133.62 to $135.62 and is all-in
+trawlerman00: folds 
+tomas156562: folds 
+gaiggibeliin: folds 
+Uncalled bet ($133.62) returned to MrBarrett82
+MrBarrett82 collected $13 from pot
+MrBarrett82: doesn't show hand 
+*** SUMMARY ***
+Total pot $13 | Rake $0 
+Seat 1: gaiggibeliin (button blind) folded before Flop
+Seat 2: MrBarrett82 collected ($13)
+Seat 3: KingNidhog folded before Flop (didn't bet)
+Seat 4: trawlerman00 folded before Flop
+Seat 5: tomas156562 folded before Flop
+Seat 6: eSeemann folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196118034496:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:23:16 EET [2019/01/23 10:23:16 ET]
+Table 'Mnemosyne' 6-max Seat #2 is the button
+Seat 1: gaiggibeliin ($147 in chips) 
+Seat 2: MrBarrett82 ($146.62 in chips) 
+Seat 3: KingNidhog ($383.67 in chips) 
+Seat 4: trawlerman00 ($75.21 in chips) 
+Seat 5: tomas156562 ($62.47 in chips) 
+Seat 6: eSeemann ($306.60 in chips) 
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts the ante $1
+KingNidhog: posts the ante $1
+trawlerman00: posts the ante $1
+tomas156562: posts the ante $1
+eSeemann: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ah Kh]
+KingNidhog: calls $1
+trawlerman00: calls $1
+tomas156562: calls $1
+eSeemann: calls $1
+gaiggibeliin: raises $12 to $13
+MrBarrett82: folds 
+KingNidhog: calls $12
+trawlerman00: calls $12
+tomas156562: calls $12
+eSeemann: folds 
+*** FLOP *** [Qh As Kd]
+KingNidhog: checks 
+trawlerman00: checks 
+tomas156562: checks 
+gaiggibeliin: bets $18.89
+KingNidhog: calls $18.89
+trawlerman00: calls $18.89
+tomas156562: raises $18.89 to $37.78
+gaiggibeliin: raises $95.22 to $133 and is all-in
+KingNidhog: folds 
+trawlerman00: calls $42.32 and is all-in
+tomas156562: calls $10.69 and is all-in
+Uncalled bet ($71.79) returned to gaiggibeliin
+*** TURN *** [Qh As Kd] [7h]
+*** RIVER *** [Qh As Kd 7h] [8s]
+*** SHOW DOWN ***
+trawlerman00: shows [Ad Qc] (two pair, Aces and Queens)
+gaiggibeliin: shows [Ah Kh] (two pair, Aces and Kings)
+gaiggibeliin collected $25.48 from side pot
+tomas156562: shows [Jh Td] (a straight, Ten to Ace)
+tomas156562 collected $221.55 from main pot
+*** SUMMARY ***
+Total pot $249.78 Main pot $221.55. Side pot $25.48. | Rake $2.75 
+Board [Qh As Kd 7h 8s]
+Seat 1: gaiggibeliin showed [Ah Kh] and won ($25.48) with two pair, Aces and Kings
+Seat 2: MrBarrett82 (button blind) folded before Flop
+Seat 3: KingNidhog folded on the Flop
+Seat 4: trawlerman00 showed [Ad Qc] and lost with two pair, Aces and Queens
+Seat 5: tomas156562 showed [Jh Td] and won ($221.55) with a straight, Ten to Ace
+Seat 6: eSeemann folded before Flop
+
+
+
+PokerStars Hand #196118093227:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:24:54 EET [2019/01/23 10:24:54 ET]
+Table 'Mnemosyne' 6-max Seat #3 is the button
+Seat 1: gaiggibeliin ($150 in chips) 
+Seat 2: MrBarrett82 ($144.62 in chips) 
+Seat 3: KingNidhog ($350.78 in chips) 
+Seat 5: tomas156562 ($221.55 in chips) 
+Seat 6: eSeemann ($304.60 in chips) 
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts the ante $1
+KingNidhog: posts the ante $1
+tomas156562: posts the ante $1
+eSeemann: posts the ante $1
+KingNidhog: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7h Ks]
+tomas156562: raises $1 to $2
+eSeemann: folds 
+gaiggibeliin: folds 
+trawlerman00 leaves the table
+MrBarrett82: folds 
+KingNidhog: calls $1
+*** FLOP *** [Ts 7s 7d]
+tomas156562: bets $1
+KingNidhog: raises $5.28 to $6.28
+tomas156562: folds 
+Uncalled bet ($5.28) returned to KingNidhog
+KingNidhog collected $10.45 from pot
+KingNidhog: doesn't show hand 
+*** SUMMARY ***
+Total pot $11 | Rake $0.55 
+Board [Ts 7s 7d]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 3: KingNidhog (button blind) collected ($10.45)
+Seat 5: tomas156562 folded on the Flop
+Seat 6: eSeemann folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196118110573:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:25:23 EET [2019/01/23 10:25:23 ET]
+Table 'Mnemosyne' 6-max Seat #5 is the button
+Seat 1: gaiggibeliin ($149 in chips) 
+Seat 2: MrBarrett82 ($143.62 in chips) 
+Seat 3: KingNidhog ($357.23 in chips) 
+Seat 5: tomas156562 ($217.55 in chips) 
+Seat 6: eSeemann ($303.60 in chips) 
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts the ante $1
+KingNidhog: posts the ante $1
+tomas156562: posts the ante $1
+eSeemann: posts the ante $1
+tomas156562: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6h Jd]
+eSeemann: folds 
+gaiggibeliin: folds 
+MrBarrett82: calls $1
+KingNidhog: folds 
+tomas156562: raises $7 to $8
+MrBarrett82: calls $7
+*** FLOP *** [Ad Th Qs]
+MrBarrett82: checks 
+tomas156562: checks 
+*** TURN *** [Ad Th Qs] [Jc]
+MrBarrett82: checks 
+tomas156562: checks 
+*** RIVER *** [Ad Th Qs Jc] [6s]
+MrBarrett82: checks 
+tomas156562: bets $20
+MrBarrett82: folds 
+Uncalled bet ($20) returned to tomas156562
+tomas156562 collected $19.95 from pot
+*** SUMMARY ***
+Total pot $21 | Rake $1.05 
+Board [Ad Th Qs Jc 6s]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: MrBarrett82 folded on the River
+Seat 3: KingNidhog folded before Flop (didn't bet)
+Seat 5: tomas156562 (button blind) collected ($19.95)
+Seat 6: eSeemann folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196118143304:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:26:18 EET [2019/01/23 10:26:18 ET]
+Table 'Mnemosyne' 6-max Seat #6 is the button
+Seat 1: gaiggibeliin ($148 in chips) 
+Seat 2: MrBarrett82 ($134.62 in chips) 
+Seat 3: KingNidhog ($356.23 in chips) 
+Seat 5: tomas156562 ($228.50 in chips) 
+Seat 6: eSeemann ($302.60 in chips) 
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts the ante $1
+KingNidhog: posts the ante $1
+tomas156562: posts the ante $1
+eSeemann: posts the ante $1
+eSeemann: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jd 8d]
+gaiggibeliin: folds 
+MrBarrett82: folds 
+KingNidhog: calls $1
+tomas156562: calls $1
+eSeemann: checks 
+*** FLOP *** [Kd Td Kh]
+KingNidhog: checks 
+tomas156562: bets $1
+eSeemann: folds 
+KingNidhog: calls $1
+*** TURN *** [Kd Td Kh] [Qd]
+KingNidhog: checks 
+tomas156562: checks 
+*** RIVER *** [Kd Td Kh Qd] [Qh]
+KingNidhog: bets $4.75
+tomas156562: folds 
+Uncalled bet ($4.75) returned to KingNidhog
+KingNidhog collected $9.50 from pot
+KingNidhog: doesn't show hand 
+*** SUMMARY ***
+Total pot $10 | Rake $0.50 
+Board [Kd Td Kh Qd Qh]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 3: KingNidhog collected ($9.50)
+Seat 5: tomas156562 folded on the River
+Seat 6: eSeemann (button blind) folded on the Flop
+
+
+
+PokerStars Hand #196118180486:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:27:20 EET [2019/01/23 10:27:20 ET]
+Table 'Mnemosyne' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($147 in chips) 
+Seat 2: MrBarrett82 ($133.62 in chips) 
+Seat 3: KingNidhog ($362.73 in chips) 
+Seat 5: tomas156562 ($225.50 in chips) 
+Seat 6: eSeemann ($300.60 in chips) 
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts the ante $1
+KingNidhog: posts the ante $1
+tomas156562: posts the ante $1
+eSeemann: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6d Jh]
+MrBarrett82: calls $1
+KingNidhog: folds 
+tomas156562: calls $1
+eSeemann: folds 
+gaiggibeliin: checks 
+*** FLOP *** [6c Qd Tc]
+MrBarrett82: checks 
+tomas156562: checks 
+gaiggibeliin: checks 
+*** TURN *** [6c Qd Tc] [Ad]
+MrBarrett82: bets $7
+tomas156562: folds 
+gaiggibeliin: folds 
+Uncalled bet ($7) returned to MrBarrett82
+MrBarrett82 collected $7.60 from pot
+MrBarrett82: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [6c Qd Tc Ad]
+Seat 1: gaiggibeliin (button blind) folded on the Turn
+Seat 2: MrBarrett82 collected ($7.60)
+Seat 3: KingNidhog folded before Flop (didn't bet)
+Seat 5: tomas156562 folded on the Turn
+Seat 6: eSeemann folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196118201249:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:27:54 EET [2019/01/23 10:27:54 ET]
+Table 'Mnemosyne' 6-max Seat #2 is the button
+Seat 1: gaiggibeliin ($145 in chips) 
+Seat 2: MrBarrett82 ($139.22 in chips) 
+Seat 3: KingNidhog ($361.73 in chips) 
+Seat 5: tomas156562 ($223.50 in chips) 
+Seat 6: eSeemann ($299.60 in chips) 
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts the ante $1
+KingNidhog: posts the ante $1
+tomas156562: posts the ante $1
+eSeemann: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9d Tc]
+KingNidhog: calls $1
+tomas156562: raises $1 to $2
+eSeemann: raises $11 to $13
+gaiggibeliin: folds 
+MrBarrett82: raises $125.22 to $138.22 and is all-in
+KingNidhog: folds 
+tomas156562: folds 
+eSeemann: calls $125.22
+*** FLOP *** [7s Ad Ks]
+*** TURN *** [7s Ad Ks] [9h]
+*** RIVER *** [7s Ad Ks 9h] [Td]
+*** SHOW DOWN ***
+eSeemann: shows [Jh Jc] (a pair of Jacks)
+MrBarrett82: shows [Ah Kc] (two pair, Aces and Kings)
+MrBarrett82 collected $281.69 from pot
+*** SUMMARY ***
+Total pot $284.44 | Rake $2.75 
+Board [7s Ad Ks 9h Td]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: MrBarrett82 (button blind) showed [Ah Kc] and won ($281.69) with two pair, Aces and Kings
+Seat 3: KingNidhog folded before Flop
+Seat 5: tomas156562 folded before Flop
+Seat 6: eSeemann showed [Jh Jc] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #196118224789:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:28:33 EET [2019/01/23 10:28:33 ET]
+Table 'Mnemosyne' 6-max Seat #3 is the button
+Seat 1: gaiggibeliin ($144 in chips) 
+Seat 2: MrBarrett82 ($281.69 in chips) 
+Seat 3: KingNidhog ($359.73 in chips) 
+Seat 5: tomas156562 ($220.50 in chips) 
+Seat 6: eSeemann ($160.38 in chips) 
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts the ante $1
+KingNidhog: posts the ante $1
+tomas156562: posts the ante $1
+eSeemann: posts the ante $1
+KingNidhog: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kh 9s]
+tomas156562: raises $1 to $2
+eSeemann: calls $2
+gaiggibeliin: folds 
+MrBarrett82: calls $2
+KingNidhog: calls $1
+*** FLOP *** [6c Kd 8h]
+tomas156562: bets $1
+eSeemann: calls $1
+MrBarrett82: folds 
+KingNidhog: calls $1
+*** TURN *** [6c Kd 8h] [Jh]
+tomas156562: bets $1
+eSeemann: calls $1
+KingNidhog: calls $1
+*** RIVER *** [6c Kd 8h Jh] [Qh]
+tomas156562: bets $1
+eSeemann: calls $1
+KingNidhog: calls $1
+*** SHOW DOWN ***
+tomas156562: shows [Ts Qs] (a pair of Queens)
+eSeemann: mucks hand 
+KingNidhog: mucks hand 
+tomas156562 collected $20.90 from pot
+*** SUMMARY ***
+Total pot $22 | Rake $1.10 
+Board [6c Kd 8h Jh Qh]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: MrBarrett82 folded on the Flop
+Seat 3: KingNidhog (button blind) mucked [7h Jc]
+Seat 5: tomas156562 showed [Ts Qs] and won ($20.90) with a pair of Queens
+Seat 6: eSeemann mucked [Ac 8c]
+
+
+
+PokerStars Hand #196118246805:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:29:09 EET [2019/01/23 10:29:09 ET]
+Table 'Mnemosyne' 6-max Seat #5 is the button
+Seat 1: gaiggibeliin ($143 in chips) 
+Seat 2: MrBarrett82 ($278.69 in chips) 
+Seat 3: KingNidhog ($353.73 in chips) 
+Seat 5: tomas156562 ($235.40 in chips) 
+Seat 6: eSeemann ($154.38 in chips) 
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts the ante $1
+KingNidhog: posts the ante $1
+tomas156562: posts the ante $1
+eSeemann: posts the ante $1
+tomas156562: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jc Ah]
+eSeemann: calls $1
+gaiggibeliin: calls $1
+MrBarrett82: calls $1
+KingNidhog: calls $1
+tomas156562: checks 
+*** FLOP *** [Ts 6s Qh]
+eSeemann: checks 
+gaiggibeliin: checks 
+MrBarrett82: checks 
+KingNidhog: bets $4.75
+tomas156562: folds 
+eSeemann: folds 
+gaiggibeliin: folds 
+MrBarrett82: folds 
+Uncalled bet ($4.75) returned to KingNidhog
+KingNidhog collected $9.50 from pot
+KingNidhog: doesn't show hand 
+*** SUMMARY ***
+Total pot $10 | Rake $0.50 
+Board [Ts 6s Qh]
+Seat 1: gaiggibeliin folded on the Flop
+Seat 2: MrBarrett82 folded on the Flop
+Seat 3: KingNidhog collected ($9.50)
+Seat 5: tomas156562 (button blind) folded on the Flop
+Seat 6: eSeemann folded on the Flop
+
+
+
+PokerStars Hand #196118275931:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:29:57 EET [2019/01/23 10:29:57 ET]
+Table 'Mnemosyne' 6-max Seat #6 is the button
+Seat 1: gaiggibeliin ($148 in chips) 
+Seat 2: MrBarrett82 ($276.69 in chips) 
+Seat 3: KingNidhog ($361.23 in chips) 
+Seat 5: tomas156562 ($233.40 in chips) 
+Seat 6: eSeemann ($152.38 in chips) 
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts the ante $1
+KingNidhog: posts the ante $1
+tomas156562: posts the ante $1
+eSeemann: posts the ante $1
+eSeemann: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6h 6d]
+gaiggibeliin: calls $1
+MrBarrett82: folds 
+KingNidhog: calls $1
+tomas156562: calls $1
+eSeemann: checks 
+*** FLOP *** [Qh Qc 7d]
+gaiggibeliin: checks 
+KingNidhog: checks 
+tomas156562: bets $1
+eSeemann: folds 
+gaiggibeliin: raises $7 to $8
+KingNidhog: folds 
+tomas156562: folds 
+Uncalled bet ($7) returned to gaiggibeliin
+gaiggibeliin collected $10.45 from pot
+*** SUMMARY ***
+Total pot $11 | Rake $0.55 
+Board [Qh Qc 7d]
+Seat 1: gaiggibeliin collected ($10.45)
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 3: KingNidhog folded on the Flop
+Seat 5: tomas156562 folded on the Flop
+Seat 6: eSeemann (button blind) folded on the Flop
+
+
+
+PokerStars Hand #196118304053:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:30:43 EET [2019/01/23 10:30:43 ET]
+Table 'Mnemosyne' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($155.45 in chips) 
+Seat 2: MrBarrett82 ($275.69 in chips) 
+Seat 3: KingNidhog ($359.23 in chips) 
+Seat 5: tomas156562 ($230.40 in chips) 
+Seat 6: eSeemann ($150.38 in chips) 
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts the ante $1
+KingNidhog: posts the ante $1
+tomas156562: posts the ante $1
+eSeemann: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6d 7d]
+MrBarrett82: folds 
+KingNidhog: folds 
+tomas156562: raises $1 to $2
+eSeemann: raises $10 to $12
+gaiggibeliin: calls $11
+tomas156562: calls $10
+*** FLOP *** [Qd Ah Jh]
+tomas156562: checks 
+eSeemann: bets $40
+gaiggibeliin: folds 
+tomas156562: folds 
+Uncalled bet ($40) returned to eSeemann
+eSeemann collected $38.95 from pot
+eSeemann: doesn't show hand 
+*** SUMMARY ***
+Total pot $41 | Rake $2.05 
+Board [Qd Ah Jh]
+Seat 1: gaiggibeliin (button blind) folded on the Flop
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 3: KingNidhog folded before Flop (didn't bet)
+Seat 5: tomas156562 folded on the Flop
+Seat 6: eSeemann collected ($38.95)
+
+
+
+PokerStars Hand #196118320330:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:31:10 EET [2019/01/23 10:31:10 ET]
+Table 'Mnemosyne' 6-max Seat #2 is the button
+Seat 1: gaiggibeliin ($142.45 in chips) 
+Seat 2: MrBarrett82 ($274.69 in chips) 
+Seat 3: KingNidhog ($358.23 in chips) 
+Seat 5: tomas156562 ($217.40 in chips) 
+Seat 6: eSeemann ($176.33 in chips) 
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts the ante $1
+KingNidhog: posts the ante $1
+tomas156562: posts the ante $1
+eSeemann: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ad 7h]
+KingNidhog: folds 
+tomas156562: raises $1 to $2
+eSeemann: folds 
+gaiggibeliin: calls $2
+MrBarrett82: folds 
+*** FLOP *** [7s Qc Jh]
+tomas156562: bets $1
+gaiggibeliin: calls $1
+*** TURN *** [7s Qc Jh] [7d]
+tomas156562: bets $1
+gaiggibeliin: raises $12 to $13
+tomas156562: calls $12
+*** RIVER *** [7s Qc Jh 7d] [Td]
+tomas156562: bets $36
+jwonss joins the table at seat #4 
+gaiggibeliin: calls $36
+*** SHOW DOWN ***
+tomas156562: shows [Ah Kc] (a straight, Ten to Ace)
+gaiggibeliin: mucks hand 
+tomas156562 collected $107.25 from pot
+*** SUMMARY ***
+Total pot $110 | Rake $2.75 
+Board [7s Qc Jh 7d Td]
+Seat 1: gaiggibeliin mucked [Ad 7h]
+Seat 2: MrBarrett82 (button blind) folded before Flop
+Seat 3: KingNidhog folded before Flop (didn't bet)
+Seat 5: tomas156562 showed [Ah Kc] and won ($107.25) with a straight, Ten to Ace
+Seat 6: eSeemann folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196118347734:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:31:55 EET [2019/01/23 10:31:55 ET]
+Table 'Mnemosyne' 6-max Seat #3 is the button
+Seat 1: gaiggibeliin ($150 in chips) 
+Seat 2: MrBarrett82 ($272.69 in chips) 
+Seat 3: KingNidhog ($357.23 in chips) 
+Seat 4: jwonss ($150 in chips) 
+Seat 5: tomas156562 ($271.65 in chips) 
+Seat 6: eSeemann ($175.33 in chips) 
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts the ante $1
+KingNidhog: posts the ante $1
+jwonss: posts the ante $1
+tomas156562: posts the ante $1
+eSeemann: posts the ante $1
+KingNidhog: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ah Qh]
+jwonss: folds 
+tomas156562: calls $1
+eSeemann: calls $1
+gaiggibeliin: raises $10 to $11
+MrBarrett82: folds 
+KingNidhog: calls $10
+tomas156562: calls $10
+eSeemann: calls $10
+*** FLOP *** [Js 8h Tc]
+tomas156562: checks 
+eSeemann: checks 
+gaiggibeliin: bets $138 and is all-in
+KingNidhog: calls $138
+tomas156562: raises $121.65 to $259.65 and is all-in
+eSeemann: calls $163.33 and is all-in
+KingNidhog: calls $121.65
+*** TURN *** [Js 8h Tc] [7s]
+*** RIVER *** [Js 8h Tc 7s] [Jh]
+*** SHOW DOWN ***
+tomas156562: shows [8d Ts] (two pair, Jacks and Tens)
+KingNidhog: shows [Jc Jd] (four of a kind, Jacks)
+KingNidhog collected $192.64 from side pot-2 
+eSeemann: shows [9c Qc] (a straight, Eight to Queen)
+KingNidhog collected $75.99 from side pot-1 
+gaiggibeliin: shows [Ah Qh] (a pair of Jacks)
+KingNidhog collected $599.25 from main pot
+*** SUMMARY ***
+Total pot $870.63 Main pot $599.25. Side pot-1 $75.99. Side pot-2 $192.64. | Rake $2.75 
+Board [Js 8h Tc 7s Jh]
+Seat 1: gaiggibeliin showed [Ah Qh] and lost with a pair of Jacks
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 3: KingNidhog (button blind) showed [Jc Jd] and won ($867.88) with four of a kind, Jacks
+Seat 4: jwonss folded before Flop (didn't bet)
+Seat 5: tomas156562 showed [8d Ts] and lost with two pair, Jacks and Tens
+Seat 6: eSeemann showed [9c Qc] and lost with a straight, Eight to Queen
+
+
+
+PokerStars Hand #196118395188:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:33:13 EET [2019/01/23 10:33:13 ET]
+Table 'Mnemosyne' 6-max Seat #4 is the button
+Seat 1: gaiggibeliin ($150 in chips) 
+Seat 2: MrBarrett82 ($271.69 in chips) 
+Seat 3: KingNidhog ($953.46 in chips) 
+Seat 4: jwonss ($149 in chips) 
+Seat 6: eSeemann ($150 in chips) 
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts the ante $1
+KingNidhog: posts the ante $1
+jwonss: posts the ante $1
+eSeemann: posts the ante $1
+jwonss: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [As 9d]
+eSeemann: folds 
+KingNidhog said, "OMG"
+gaiggibeliin: folds 
+tomas156562 leaves the table
+KingNidhog said, "*__*"
+MrBarrett82: calls $1
+KingNidhog said, "dat was disguisting"
+KingNidhog: calls $1
+jwonss: checks 
+*** FLOP *** [8d Qs Jh]
+MrBarrett82: bets $5
+KingNidhog: calls $5
+jwonss: folds 
+*** TURN *** [8d Qs Jh] [6s]
+MrBarrett82: bets $13
+KingNidhog: calls $13
+*** RIVER *** [8d Qs Jh 6s] [Kc]
+MrBarrett82: checks 
+KingNidhog: bets $20.90
+MrBarrett82: calls $20.90
+*** SHOW DOWN ***
+KingNidhog: shows [8h 8c] (three of a kind, Eights)
+MrBarrett82: mucks hand 
+KingNidhog collected $83.05 from pot
+*** SUMMARY ***
+Total pot $85.80 | Rake $2.75 
+Board [8d Qs Jh 6s Kc]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: MrBarrett82 mucked [Qc Jc]
+Seat 3: KingNidhog showed [8h 8c] and won ($83.05) with three of a kind, Eights
+Seat 4: jwonss (button blind) folded on the Flop
+Seat 6: eSeemann folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196118443419:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:34:33 EET [2019/01/23 10:34:33 ET]
+Table 'Mnemosyne' 6-max Seat #6 is the button
+Seat 1: gaiggibeliin ($149 in chips) 
+Seat 2: MrBarrett82 ($230.79 in chips) 
+Seat 3: KingNidhog ($995.61 in chips) 
+Seat 4: jwonss ($147 in chips) 
+Seat 6: eSeemann ($150 in chips) 
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts the ante $1
+KingNidhog: posts the ante $1
+jwonss: posts the ante $1
+eSeemann: posts the ante $1
+eSeemann: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qh 8h]
+gaiggibeliin: calls $1
+MrBarrett82: calls $1
+KingNidhog: calls $1
+jwonss: calls $1
+eSeemann: checks 
+*** FLOP *** [Kd 6h 9s]
+teo96 joins the table at seat #5 
+gaiggibeliin: checks 
+MrBarrett82: checks 
+KingNidhog: checks 
+jwonss: checks 
+eSeemann: bets $7
+gaiggibeliin: folds 
+MrBarrett82: calls $7
+KingNidhog: folds 
+jwonss: folds 
+*** TURN *** [Kd 6h 9s] [Jc]
+MrBarrett82: checks 
+eSeemann: bets $15
+MrBarrett82: folds 
+Uncalled bet ($15) returned to eSeemann
+eSeemann collected $22.80 from pot
+eSeemann: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $1.20 
+Board [Kd 6h 9s Jc]
+Seat 1: gaiggibeliin folded on the Flop
+Seat 2: MrBarrett82 folded on the Turn
+Seat 3: KingNidhog folded on the Flop
+Seat 4: jwonss folded on the Flop
+Seat 6: eSeemann (button blind) collected ($22.80)
+
+
+
+PokerStars Hand #196118504827:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:36:14 EET [2019/01/23 10:36:14 ET]
+Table 'Mnemosyne' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($147 in chips) 
+Seat 2: MrBarrett82 ($221.79 in chips) 
+Seat 3: KingNidhog ($993.61 in chips) 
+Seat 4: jwonss ($145 in chips) 
+Seat 5: teo96 ($150 in chips) 
+Seat 6: eSeemann ($163.80 in chips) 
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts the ante $1
+KingNidhog: posts the ante $1
+jwonss: posts the ante $1
+teo96: posts the ante $1
+eSeemann: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qh 6h]
+MrBarrett82: folds 
+KingNidhog: calls $1
+jwonss: folds 
+teo96: raises $9 to $10
+eSeemann: folds 
+gaiggibeliin: folds 
+KingNidhog: calls $9
+*** FLOP *** [9h Kc Ts]
+KingNidhog: checks 
+teo96: bets $12.83
+KingNidhog: folds 
+Uncalled bet ($12.83) returned to teo96
+teo96 collected $25.65 from pot
+teo96: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $1.35 
+Board [9h Kc Ts]
+Seat 1: gaiggibeliin (button blind) folded before Flop
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 3: KingNidhog folded on the Flop
+Seat 4: jwonss folded before Flop (didn't bet)
+Seat 5: teo96 collected ($25.65)
+Seat 6: eSeemann folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196118533670:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:37:02 EET [2019/01/23 10:37:02 ET]
+Table 'Mnemosyne' 6-max Seat #2 is the button
+Seat 1: gaiggibeliin ($145 in chips) 
+Seat 2: MrBarrett82 ($220.79 in chips) 
+Seat 3: KingNidhog ($982.61 in chips) 
+Seat 4: jwonss ($144 in chips) 
+Seat 5: teo96 ($164.65 in chips) 
+Seat 6: eSeemann ($162.80 in chips) 
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts the ante $1
+KingNidhog: posts the ante $1
+jwonss: posts the ante $1
+teo96: posts the ante $1
+eSeemann: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kd Kh]
+KingNidhog: calls $1
+jwonss: folds 
+teo96: folds 
+eSeemann: folds 
+gaiggibeliin: raises $9 to $10
+MrBarrett82: folds 
+KingNidhog: calls $9
+*** FLOP *** [As Jc 6d]
+KingNidhog: checks 
+gaiggibeliin: bets $8.46
+KingNidhog: calls $8.46
+*** TURN *** [As Jc 6d] [8c]
+KingNidhog: checks 
+gaiggibeliin: checks 
+*** RIVER *** [As Jc 6d 8c] [Jh]
+KingNidhog: bets $20.86
+gaiggibeliin: folds 
+Uncalled bet ($20.86) returned to KingNidhog
+KingNidhog collected $41.72 from pot
+KingNidhog: doesn't show hand 
+*** SUMMARY ***
+Total pot $43.92 | Rake $2.20 
+Board [As Jc 6d 8c Jh]
+Seat 1: gaiggibeliin folded on the River
+Seat 2: MrBarrett82 (button blind) folded before Flop
+Seat 3: KingNidhog collected ($41.72)
+Seat 4: jwonss folded before Flop (didn't bet)
+Seat 5: teo96 folded before Flop (didn't bet)
+Seat 6: eSeemann folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196118568494:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:37:59 EET [2019/01/23 10:37:59 ET]
+Table 'Mnemosyne' 6-max Seat #3 is the button
+Seat 1: gaiggibeliin ($125.54 in chips) 
+Seat 2: MrBarrett82 ($218.79 in chips) 
+Seat 3: KingNidhog ($1004.87 in chips) 
+Seat 4: jwonss ($143 in chips) 
+Seat 5: teo96 ($163.65 in chips) 
+Seat 6: eSeemann ($161.80 in chips) 
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts the ante $1
+KingNidhog: posts the ante $1
+jwonss: posts the ante $1
+teo96: posts the ante $1
+eSeemann: posts the ante $1
+KingNidhog: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qc Kh]
+jwonss: folds 
+teo96: folds 
+eSeemann: folds 
+gaiggibeliin: raises $8 to $9
+MrBarrett82: calls $9
+KingNidhog: calls $8
+*** FLOP *** [9c Ks Th]
+gaiggibeliin: checks 
+MrBarrett82: checks 
+KingNidhog: bets $15.68
+gaiggibeliin: calls $15.68
+MrBarrett82: folds 
+*** TURN *** [9c Ks Th] [Ac]
+gaiggibeliin: checks 
+KingNidhog: bets $30.81
+gaiggibeliin: folds 
+Uncalled bet ($30.81) returned to KingNidhog
+KingNidhog collected $61.61 from pot
+KingNidhog: doesn't show hand 
+*** SUMMARY ***
+Total pot $64.36 | Rake $2.75 
+Board [9c Ks Th Ac]
+Seat 1: gaiggibeliin folded on the Turn
+Seat 2: MrBarrett82 folded on the Flop
+Seat 3: KingNidhog (button blind) collected ($61.61)
+Seat 4: jwonss folded before Flop (didn't bet)
+Seat 5: teo96 folded before Flop (didn't bet)
+Seat 6: eSeemann folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196118614235:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:39:14 EET [2019/01/23 10:39:14 ET]
+Table 'Mnemosyne' 6-max Seat #4 is the button
+Seat 1: gaiggibeliin ($150 in chips) 
+Seat 2: MrBarrett82 ($208.79 in chips) 
+Seat 3: KingNidhog ($1040.80 in chips) 
+Seat 4: jwonss ($142 in chips) 
+Seat 5: teo96 ($162.65 in chips) 
+Seat 6: eSeemann ($160.80 in chips) 
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts the ante $1
+KingNidhog: posts the ante $1
+jwonss: posts the ante $1
+teo96: posts the ante $1
+eSeemann: posts the ante $1
+jwonss: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ad Qh]
+teo96: raises $9 to $10
+eSeemann: folds 
+gaiggibeliin: calls $10
+MrBarrett82: folds 
+KingNidhog: folds 
+KingNidhog leaves the table
+jwonss: folds 
+*** FLOP *** [Kc 9d 8h]
+teo96: checks 
+gaiggibeliin: bets $15
+teo96: calls $15
+*** TURN *** [Kc 9d 8h] [Qd]
+teo96: checks 
+gaiggibeliin: checks 
+*** RIVER *** [Kc 9d 8h Qd] [8d]
+teo96: checks 
+gaiggibeliin: checks 
+*** SHOW DOWN ***
+teo96: shows [Jc Js] (two pair, Jacks and Eights)
+gaiggibeliin: shows [Ad Qh] (two pair, Queens and Eights)
+gaiggibeliin collected $54.25 from pot
+*** SUMMARY ***
+Total pot $57 | Rake $2.75 
+Board [Kc 9d 8h Qd 8d]
+Seat 1: gaiggibeliin showed [Ad Qh] and won ($54.25) with two pair, Queens and Eights
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 3: KingNidhog folded before Flop (didn't bet)
+Seat 4: jwonss (button blind) folded before Flop
+Seat 5: teo96 showed [Jc Js] and lost with two pair, Jacks and Eights
+Seat 6: eSeemann folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196118669237:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:40:43 EET [2019/01/23 10:40:43 ET]
+Table 'Mnemosyne' 6-max Seat #5 is the button
+Seat 1: gaiggibeliin ($178.25 in chips) 
+Seat 2: MrBarrett82 ($207.79 in chips) 
+Seat 4: jwonss ($140 in chips) 
+Seat 5: teo96 ($136.65 in chips) 
+Seat 6: eSeemann ($159.80 in chips) 
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts the ante $1
+jwonss: posts the ante $1
+teo96: posts the ante $1
+eSeemann: posts the ante $1
+teo96: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Js As]
+eSeemann: raises $7 to $8
+gaiggibeliin: calls $8
+MrBarrett82: folds 
+jwonss: folds 
+teo96: calls $7
+*** FLOP *** [Qd Ts Qh]
+eSeemann: bets $13.78
+gaiggibeliin: folds 
+teo96: folds 
+Uncalled bet ($13.78) returned to eSeemann
+eSeemann collected $27.55 from pot
+eSeemann: doesn't show hand 
+*** SUMMARY ***
+Total pot $29 | Rake $1.45 
+Board [Qd Ts Qh]
+Seat 1: gaiggibeliin folded on the Flop
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 4: jwonss folded before Flop (didn't bet)
+Seat 5: teo96 (button blind) folded on the Flop
+Seat 6: eSeemann collected ($27.55)
+
+
+
+PokerStars Hand #196118696346:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:41:28 EET [2019/01/23 10:41:28 ET]
+Table 'Mnemosyne' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($169.25 in chips) 
+Seat 2: MrBarrett82 ($206.79 in chips) 
+Seat 4: jwonss ($139 in chips) 
+Seat 5: teo96 ($127.65 in chips) 
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts the ante $1
+jwonss: posts the ante $1
+teo96: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qc 8d]
+MrBarrett82: folds 
+eSeemann leaves the table
+jwonss: raises $4 to $5
+teo96: folds 
+gaiggibeliin: calls $4
+*** FLOP *** [6d Qs 7h]
+jwonss: checks 
+gaiggibeliin: bets $8.91
+jwonss: folds 
+Uncalled bet ($8.91) returned to gaiggibeliin
+gaiggibeliin collected $13.30 from pot
+*** SUMMARY ***
+Total pot $14 | Rake $0.70 
+Board [6d Qs 7h]
+Seat 1: gaiggibeliin (button blind) collected ($13.30)
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 4: jwonss folded on the Flop
+Seat 5: teo96 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196118714131:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:41:56 EET [2019/01/23 10:41:56 ET]
+Table 'Mnemosyne' 6-max Seat #2 is the button
+Seat 1: gaiggibeliin ($176.55 in chips) 
+Seat 2: MrBarrett82 ($205.79 in chips) 
+Seat 4: jwonss ($133 in chips) 
+Seat 5: teo96 ($126.65 in chips) 
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts the ante $1
+jwonss: posts the ante $1
+teo96: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6s 8c]
+jwonss: folds 
+teo96: raises $7 to $8
+gaiggibeliin: folds 
+MrBarrett82: folds 
+Uncalled bet ($7) returned to teo96
+teo96 collected $6 from pot
+teo96: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: MrBarrett82 (button blind) folded before Flop
+Seat 4: jwonss folded before Flop (didn't bet)
+Seat 5: teo96 collected ($6)
+
+
+
+PokerStars Hand #196118721288:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:42:08 EET [2019/01/23 10:42:08 ET]
+Table 'Mnemosyne' 6-max Seat #4 is the button
+Seat 1: gaiggibeliin ($175.55 in chips) 
+Seat 2: MrBarrett82 ($203.79 in chips) 
+Seat 4: jwonss ($132 in chips) 
+Seat 5: teo96 ($130.65 in chips) 
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts the ante $1
+jwonss: posts the ante $1
+teo96: posts the ante $1
+jwonss: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ah 9c]
+teo96: folds 
+gaiggibeliin: folds 
+MrBarrett82: calls $1
+jwonss: checks 
+*** FLOP *** [Jh 6s 6d]
+MrBarrett82: bets $3
+jwonss: calls $3
+*** TURN *** [Jh 6s 6d] [As]
+MrBarrett82: checks 
+jwonss: checks 
+*** RIVER *** [Jh 6s 6d As] [7h]
+MrBarrett82: checks 
+jwonss: checks 
+*** SHOW DOWN ***
+MrBarrett82: shows [Ad Jc] (two pair, Aces and Jacks)
+jwonss: mucks hand 
+MrBarrett82 collected $11.40 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.60 
+Board [Jh 6s 6d As 7h]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: MrBarrett82 showed [Ad Jc] and won ($11.40) with two pair, Aces and Jacks
+Seat 4: jwonss (button blind) mucked [Jd Kh]
+Seat 5: teo96 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196118777973:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:43:41 EET [2019/01/23 10:43:41 ET]
+Table 'Mnemosyne' 6-max Seat #5 is the button
+Seat 1: gaiggibeliin ($174.55 in chips) 
+Seat 2: MrBarrett82 ($210.19 in chips) 
+Seat 4: jwonss ($127 in chips) 
+Seat 5: teo96 ($129.65 in chips) 
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts the ante $1
+jwonss: posts the ante $1
+teo96: posts the ante $1
+teo96: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Tc 6h]
+gaiggibeliin: folds 
+MrBarrett82: folds 
+jwonss: calls $1
+teo96: raises $9 to $10
+jwonss: raises $116 to $126 and is all-in
+teo96: folds 
+Uncalled bet ($116) returned to jwonss
+jwonss collected $24 from pot
+jwonss: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 4: jwonss collected ($24)
+Seat 5: teo96 (button blind) folded before Flop
+
+
+
+PokerStars Hand #196118796787:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:44:12 EET [2019/01/23 10:44:12 ET]
+Table 'Mnemosyne' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($173.55 in chips) 
+Seat 2: MrBarrett82 ($209.19 in chips) 
+Seat 4: jwonss ($140 in chips) 
+Seat 5: teo96 ($118.65 in chips) 
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts the ante $1
+jwonss: posts the ante $1
+teo96: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6c Ts]
+MrBarrett82: folds 
+jwonss: calls $1
+teo96: folds 
+gaiggibeliin: checks 
+*** FLOP *** [Jd Ad 9s]
+jwonss: checks 
+gaiggibeliin: checks 
+*** TURN *** [Jd Ad 9s] [8d]
+jwonss: checks 
+gaiggibeliin: bets $3.82
+jwonss: folds 
+Uncalled bet ($3.82) returned to gaiggibeliin
+gaiggibeliin collected $5.70 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Jd Ad 9s 8d]
+Seat 1: gaiggibeliin (button blind) collected ($5.70)
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 4: jwonss folded on the Turn
+Seat 5: teo96 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196118832204:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:45:10 EET [2019/01/23 10:45:10 ET]
+Table 'Mnemosyne' 6-max Seat #2 is the button
+Seat 1: gaiggibeliin ($177.25 in chips) 
+Seat 2: MrBarrett82 ($208.19 in chips) 
+Seat 4: jwonss ($138 in chips) 
+Seat 5: teo96 ($117.65 in chips) 
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts the ante $1
+jwonss: posts the ante $1
+teo96: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Tc 9c]
+jwonss: calls $1
+teo96: raises $9 to $10
+gaiggibeliin: calls $10
+MrBarrett82: folds 
+jwonss: calls $9
+*** FLOP *** [Qc Td Ks]
+jwonss: checks 
+teo96: checks 
+gaiggibeliin: checks 
+*** TURN *** [Qc Td Ks] [Kh]
+jwonss: checks 
+teo96: checks 
+gaiggibeliin: checks 
+*** RIVER *** [Qc Td Ks Kh] [Ad]
+jwonss: checks 
+teo96: checks 
+gaiggibeliin: checks 
+*** SHOW DOWN ***
+jwonss: shows [8h 7h] (a pair of Kings)
+teo96: shows [9d Ah] (two pair, Aces and Kings)
+gaiggibeliin: mucks hand 
+teo96 collected $33.75 from pot
+*** SUMMARY ***
+Total pot $35 | Rake $1.25 
+Board [Qc Td Ks Kh Ad]
+Seat 1: gaiggibeliin mucked [Tc 9c]
+Seat 2: MrBarrett82 (button blind) folded before Flop
+Seat 4: jwonss showed [8h 7h] and lost with a pair of Kings
+Seat 5: teo96 showed [9d Ah] and won ($33.75) with two pair, Aces and Kings
+
+
+
+PokerStars Hand #196118871210:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:46:13 EET [2019/01/23 10:46:13 ET]
+Table 'Mnemosyne' 6-max Seat #4 is the button
+Seat 1: gaiggibeliin ($166.25 in chips) 
+Seat 2: MrBarrett82 ($206.19 in chips) 
+Seat 4: jwonss ($127 in chips) 
+Seat 5: teo96 ($140.40 in chips) 
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts the ante $1
+jwonss: posts the ante $1
+teo96: posts the ante $1
+jwonss: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Td 6c]
+teo96: raises $9 to $10
+gaiggibeliin: folds 
+MrBarrett82: folds 
+jwonss: folds 
+Uncalled bet ($9) returned to teo96
+teo96 collected $6 from pot
+teo96: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 4: jwonss (button blind) folded before Flop
+Seat 5: teo96 collected ($6)
+
+
+
+PokerStars Hand #196118878193:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:46:25 EET [2019/01/23 10:46:25 ET]
+Table 'Mnemosyne' 6-max Seat #5 is the button
+Seat 1: gaiggibeliin ($165.25 in chips) 
+Seat 2: MrBarrett82 ($205.19 in chips) 
+Seat 4: jwonss ($125 in chips) 
+Seat 5: teo96 ($144.40 in chips) 
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts the ante $1
+jwonss: posts the ante $1
+teo96: posts the ante $1
+teo96: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jd Ts]
+gaiggibeliin: calls $1
+MrBarrett82: calls $1
+jwonss: raises $9 to $10
+teo96: calls $9
+gaiggibeliin: calls $9
+MrBarrett82: calls $9
+*** FLOP *** [As Ks 9c]
+gaiggibeliin: checks 
+MrBarrett82: checks 
+jwonss: checks 
+teo96: bets $31.64
+gaiggibeliin: folds 
+MrBarrett82: folds 
+jwonss: folds 
+Uncalled bet ($31.64) returned to teo96
+teo96 collected $42.75 from pot
+teo96: doesn't show hand 
+*** SUMMARY ***
+Total pot $44 | Rake $1.25 
+Board [As Ks 9c]
+Seat 1: gaiggibeliin folded on the Flop
+Seat 2: MrBarrett82 folded on the Flop
+Seat 4: jwonss folded on the Flop
+Seat 5: teo96 (button blind) collected ($42.75)
+
+
+
+PokerStars Hand #196118934223:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:47:56 EET [2019/01/23 10:47:56 ET]
+Table 'Mnemosyne' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($154.25 in chips) 
+Seat 2: MrBarrett82 ($194.19 in chips) 
+Seat 4: jwonss ($114 in chips) 
+Seat 5: teo96 ($176.15 in chips) 
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts the ante $1
+jwonss: posts the ante $1
+teo96: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ts Tc]
+MrBarrett82: folds 
+jwonss: calls $1
+teo96: folds 
+DutchPolicy joins the table at seat #3 
+gaiggibeliin: checks 
+*** FLOP *** [Ks Td Qh]
+jwonss: bets $1
+gaiggibeliin: raises $6 to $7
+jwonss: calls $6
+*** TURN *** [Ks Td Qh] [Ah]
+jwonss: checks 
+gaiggibeliin: checks 
+*** RIVER *** [Ks Td Qh Ah] [Js]
+jwonss: checks 
+gaiggibeliin: checks 
+*** SHOW DOWN ***
+jwonss: shows [Qs Jc] (a straight, Ten to Ace)
+gaiggibeliin: shows [Ts Tc] (a straight, Ten to Ace)
+jwonss collected $9.50 from pot
+gaiggibeliin collected $9.50 from pot
+*** SUMMARY ***
+Total pot $20 | Rake $1 
+Board [Ks Td Qh Ah Js]
+Seat 1: gaiggibeliin (button blind) showed [Ts Tc] and won ($9.50) with a straight, Ten to Ace
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 4: jwonss showed [Qs Jc] and won ($9.50) with a straight, Ten to Ace
+Seat 5: teo96 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196118962728:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:48:41 EET [2019/01/23 10:48:41 ET]
+Table 'Mnemosyne' 6-max Seat #2 is the button
+Seat 1: gaiggibeliin ($154.75 in chips) 
+Seat 2: MrBarrett82 ($193.19 in chips) 
+Seat 3: DutchPolicy ($150 in chips) 
+Seat 4: jwonss ($114.50 in chips) 
+Seat 5: teo96 ($175.15 in chips) 
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts the ante $1
+DutchPolicy: posts the ante $1
+jwonss: posts the ante $1
+teo96: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6s 6d]
+DutchPolicy: raises $7 to $8
+jwonss: folds 
+teo96: folds 
+gaiggibeliin: calls $8
+MrBarrett82: calls $7
+*** FLOP *** [Qc Ts Ad]
+DutchPolicy: checks 
+gaiggibeliin: checks 
+MrBarrett82: checks 
+*** TURN *** [Qc Ts Ad] [9s]
+DutchPolicy: checks 
+gaiggibeliin: checks 
+MrBarrett82: checks 
+*** RIVER *** [Qc Ts Ad 9s] [Th]
+DutchPolicy: checks 
+gaiggibeliin: checks 
+MrBarrett82: checks 
+*** SHOW DOWN ***
+DutchPolicy: shows [6h Ah] (two pair, Aces and Tens)
+gaiggibeliin: mucks hand 
+MrBarrett82: mucks hand 
+DutchPolicy collected $27.55 from pot
+*** SUMMARY ***
+Total pot $29 | Rake $1.45 
+Board [Qc Ts Ad 9s Th]
+Seat 1: gaiggibeliin mucked [6s 6d]
+Seat 2: MrBarrett82 (button blind) mucked [Qh Kd]
+Seat 3: DutchPolicy showed [6h Ah] and won ($27.55) with two pair, Aces and Tens
+Seat 4: jwonss folded before Flop (didn't bet)
+Seat 5: teo96 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196119011675:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:50:00 EET [2019/01/23 10:50:00 ET]
+Table 'Mnemosyne' 6-max Seat #3 is the button
+Seat 1: gaiggibeliin ($145.75 in chips) 
+Seat 2: MrBarrett82 ($184.19 in chips) 
+Seat 3: DutchPolicy ($168.55 in chips) 
+Seat 4: jwonss ($113.50 in chips) 
+Seat 5: teo96 ($174.15 in chips) 
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts the ante $1
+DutchPolicy: posts the ante $1
+jwonss: posts the ante $1
+teo96: posts the ante $1
+DutchPolicy: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8h Jd]
+zamir buffet joins the table at seat #6 
+jwonss: calls $1
+teo96: folds 
+gaiggibeliin: folds 
+MrBarrett82: calls $1
+DutchPolicy: checks 
+*** FLOP *** [Jh 9s Td]
+jwonss: checks 
+MrBarrett82: bets $5
+DutchPolicy: folds 
+jwonss: folds 
+Uncalled bet ($5) returned to MrBarrett82
+MrBarrett82 collected $7.60 from pot
+MrBarrett82: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [Jh 9s Td]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: MrBarrett82 collected ($7.60)
+Seat 3: DutchPolicy (button blind) folded on the Flop
+Seat 4: jwonss folded on the Flop
+Seat 5: teo96 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196119037152:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:50:41 EET [2019/01/23 10:50:41 ET]
+Table 'Mnemosyne' 6-max Seat #4 is the button
+Seat 1: gaiggibeliin ($144.75 in chips) 
+Seat 2: MrBarrett82 ($189.79 in chips) 
+Seat 3: DutchPolicy ($166.55 in chips) 
+Seat 4: jwonss ($111.50 in chips) 
+Seat 5: teo96 ($173.15 in chips) 
+Seat 6: zamir buffet ($150 in chips) 
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts the ante $1
+DutchPolicy: posts the ante $1
+jwonss: posts the ante $1
+teo96: posts the ante $1
+zamir buffet: posts the ante $1
+jwonss: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qc 8h]
+teo96: folds 
+zamir buffet: folds 
+gaiggibeliin: folds 
+MrBarrett82: folds 
+DutchPolicy: calls $1
+jwonss: raises $8 to $9
+DutchPolicy: folds 
+Uncalled bet ($8) returned to jwonss
+jwonss collected $8 from pot
+jwonss: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0 
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 3: DutchPolicy folded before Flop
+Seat 4: jwonss (button blind) collected ($8)
+Seat 5: teo96 folded before Flop (didn't bet)
+Seat 6: zamir buffet folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196119057297:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:51:13 EET [2019/01/23 10:51:13 ET]
+Table 'Mnemosyne' 6-max Seat #5 is the button
+Seat 1: gaiggibeliin ($143.75 in chips) 
+Seat 2: MrBarrett82 ($188.79 in chips) 
+Seat 3: DutchPolicy ($164.55 in chips) 
+Seat 4: jwonss ($117.50 in chips) 
+Seat 5: teo96 ($172.15 in chips) 
+Seat 6: zamir buffet ($149 in chips) 
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts the ante $1
+DutchPolicy: posts the ante $1
+jwonss: posts the ante $1
+teo96: posts the ante $1
+zamir buffet: posts the ante $1
+teo96: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6d Ac]
+zamir buffet: folds 
+gaiggibeliin: folds 
+MrBarrett82: calls $1
+DutchPolicy: folds 
+jwonss: folds 
+teo96: raises $11 to $12
+MrBarrett82: raises $175.79 to $187.79 and is all-in
+teo96: calls $159.15 and is all-in
+Uncalled bet ($16.64) returned to MrBarrett82
+*** FLOP *** [Ah As Ad]
+*** TURN *** [Ah As Ad] [9s]
+*** RIVER *** [Ah As Ad 9s] [9h]
+*** SHOW DOWN ***
+MrBarrett82: shows [Kd Kh] (a full house, Aces full of Kings)
+teo96: shows [Jd Td] (a full house, Aces full of Nines)
+MrBarrett82 collected $345.55 from pot
+*** SUMMARY ***
+Total pot $348.30 | Rake $2.75 
+Board [Ah As Ad 9s 9h]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: MrBarrett82 showed [Kd Kh] and won ($345.55) with a full house, Aces full of Kings
+Seat 3: DutchPolicy folded before Flop (didn't bet)
+Seat 4: jwonss folded before Flop (didn't bet)
+Seat 5: teo96 (button blind) showed [Jd Td] and lost with a full house, Aces full of Nines
+Seat 6: zamir buffet folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196119082173:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:51:53 EET [2019/01/23 10:51:53 ET]
+Table 'Mnemosyne' 6-max Seat #6 is the button
+Seat 1: gaiggibeliin ($142.75 in chips) 
+Seat 2: MrBarrett82 ($362.19 in chips) 
+Seat 3: DutchPolicy ($163.55 in chips) 
+Seat 4: jwonss ($116.50 in chips) 
+Seat 5: teo96 ($100 in chips) 
+Seat 6: zamir buffet ($148 in chips) 
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts the ante $1
+DutchPolicy: posts the ante $1
+jwonss: posts the ante $1
+teo96: posts the ante $1
+zamir buffet: posts the ante $1
+zamir buffet: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qs Ts]
+gaiggibeliin: calls $1
+MrBarrett82: calls $1
+DutchPolicy: folds 
+jwonss: raises $9 to $10
+teo96: calls $10
+zamir buffet: folds 
+gaiggibeliin: calls $9
+MrBarrett82: calls $9
+*** FLOP *** [Qh Ks 8h]
+gaiggibeliin: checks 
+MrBarrett82: checks 
+jwonss: checks 
+teo96: bets $26
+gaiggibeliin: folds 
+MrBarrett82: folds 
+jwonss: folds 
+Uncalled bet ($26) returned to teo96
+teo96 collected $44.65 from pot
+teo96: doesn't show hand 
+*** SUMMARY ***
+Total pot $47 | Rake $2.35 
+Board [Qh Ks 8h]
+Seat 1: gaiggibeliin folded on the Flop
+Seat 2: MrBarrett82 folded on the Flop
+Seat 3: DutchPolicy folded before Flop (didn't bet)
+Seat 4: jwonss folded on the Flop
+Seat 5: teo96 collected ($44.65)
+Seat 6: zamir buffet (button blind) folded before Flop
+
+
+
+PokerStars Hand #196119133478:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:53:15 EET [2019/01/23 10:53:15 ET]
+Table 'Mnemosyne' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($139 in chips) 
+Seat 2: MrBarrett82 ($351.19 in chips) 
+Seat 3: DutchPolicy ($162.55 in chips) 
+Seat 4: jwonss ($105.50 in chips) 
+Seat 5: teo96 ($133.65 in chips) 
+Seat 6: zamir buffet ($146 in chips) 
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts the ante $1
+DutchPolicy: posts the ante $1
+jwonss: posts the ante $1
+teo96: posts the ante $1
+zamir buffet: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kd 6h]
+MrBarrett82: folds 
+DutchPolicy: folds 
+jwonss: folds 
+teo96: calls $1
+zamir buffet: raises $9 to $10
+gaiggibeliin: folds 
+teo96: calls $9
+*** FLOP *** [9c 9d Kc]
+teo96: checks 
+zamir buffet: bets $8.21
+teo96: folds 
+Uncalled bet ($8.21) returned to zamir buffet
+zamir buffet collected $25.65 from pot
+zamir buffet: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $1.35 
+Board [9c 9d Kc]
+Seat 1: gaiggibeliin (button blind) folded before Flop
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 3: DutchPolicy folded before Flop (didn't bet)
+Seat 4: jwonss folded before Flop (didn't bet)
+Seat 5: teo96 folded on the Flop
+Seat 6: zamir buffet collected ($25.65)
+
+
+

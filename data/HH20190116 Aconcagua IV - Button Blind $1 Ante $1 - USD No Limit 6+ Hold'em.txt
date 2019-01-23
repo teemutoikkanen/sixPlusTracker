@@ -1,0 +1,900 @@
+﻿PokerStars Hand #195843191607:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:38:59 EET [2019/01/16 18:38:59 ET]
+Table 'Aconcagua IV' 6-max Seat #3 is the button
+Seat 3: gaiggibeliin ($200 in chips) 
+Seat 4: S3d3m2 ($150 in chips) 
+gaiggibeliin: posts the ante $1
+S3d3m2: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jc 6s]
+S3d3m2: calls $1
+gaiggibeliin: raises $4 to $5
+S3d3m2: folds 
+Uncalled bet ($4) returned to gaiggibeliin
+gaiggibeliin collected $4 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 3: gaiggibeliin (button blind) collected ($4)
+Seat 4: S3d3m2 folded before Flop
+
+
+
+PokerStars Hand #195843200436:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:39:14 EET [2019/01/16 18:39:14 ET]
+Table 'Aconcagua IV' 6-max Seat #4 is the button
+Seat 3: gaiggibeliin ($202 in chips) 
+Seat 4: S3d3m2 ($148 in chips) 
+gaiggibeliin: posts the ante $1
+S3d3m2: posts the ante $1
+S3d3m2: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7d Ts]
+gaiggibeliin: calls $1
+S3d3m2: raises $7 to $8
+gaiggibeliin: calls $7
+*** FLOP *** [Th 9h Ad]
+gaiggibeliin: checks 
+S3d3m2: bets $9
+gaiggibeliin: calls $9
+*** TURN *** [Th 9h Ad] [6h]
+gaiggibeliin: checks 
+S3d3m2: bets $25
+gaiggibeliin: calls $25
+*** RIVER *** [Th 9h Ad 6h] [7h]
+gaiggibeliin: checks 
+S3d3m2: bets $105 and is all-in
+gaiggibeliin: folds 
+Uncalled bet ($105) returned to S3d3m2
+S3d3m2 collected $84.75 from pot
+S3d3m2: doesn't show hand 
+*** SUMMARY ***
+Total pot $86 | Rake $1.25 
+Board [Th 9h Ad 6h 7h]
+Seat 3: gaiggibeliin folded on the River
+Seat 4: S3d3m2 (button blind) collected ($84.75)
+
+
+
+PokerStars Hand #195843235684:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:40:11 EET [2019/01/16 18:40:11 ET]
+Table 'Aconcagua IV' 6-max Seat #3 is the button
+Seat 3: gaiggibeliin ($159 in chips) 
+Seat 4: S3d3m2 ($189.75 in chips) 
+gaiggibeliin: posts the ante $1
+S3d3m2: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8d Kd]
+S3d3m2: calls $1
+gaiggibeliin: raises $4 to $5
+S3d3m2: folds 
+Uncalled bet ($4) returned to gaiggibeliin
+gaiggibeliin collected $4 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 3: gaiggibeliin (button blind) collected ($4)
+Seat 4: S3d3m2 folded before Flop
+
+
+
+PokerStars Hand #195843241711:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:40:21 EET [2019/01/16 18:40:21 ET]
+Table 'Aconcagua IV' 6-max Seat #4 is the button
+Seat 3: gaiggibeliin ($200 in chips) 
+Seat 4: S3d3m2 ($187.75 in chips) 
+gaiggibeliin: posts the ante $1
+S3d3m2: posts the ante $1
+S3d3m2: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7c Qs]
+gaiggibeliin: calls $1
+S3d3m2: raises $7 to $8
+gaiggibeliin: folds 
+Uncalled bet ($7) returned to S3d3m2
+S3d3m2 collected $4 from pot
+S3d3m2: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 3: gaiggibeliin folded before Flop
+Seat 4: S3d3m2 (button blind) collected ($4)
+
+
+
+PokerStars Hand #195843246269:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:40:28 EET [2019/01/16 18:40:28 ET]
+Table 'Aconcagua IV' 6-max Seat #3 is the button
+Seat 3: gaiggibeliin ($198 in chips) 
+Seat 4: S3d3m2 ($189.75 in chips) 
+gaiggibeliin: posts the ante $1
+S3d3m2: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ad 7d]
+S3d3m2: calls $1
+gaiggibeliin: raises $4 to $5
+S3d3m2: raises $35 to $40
+gaiggibeliin: folds 
+Uncalled bet ($35) returned to S3d3m2
+S3d3m2 collected $12 from pot
+S3d3m2: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 3: gaiggibeliin (button blind) folded before Flop
+Seat 4: S3d3m2 collected ($12)
+
+
+
+PokerStars Hand #195843257273:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:40:46 EET [2019/01/16 18:40:46 ET]
+Table 'Aconcagua IV' 6-max Seat #4 is the button
+Seat 3: gaiggibeliin ($192 in chips) 
+Seat 4: S3d3m2 ($195.75 in chips) 
+gaiggibeliin: posts the ante $1
+S3d3m2: posts the ante $1
+S3d3m2: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [As Qs]
+gaiggibeliin: calls $1
+S3d3m2: raises $7 to $8
+gaiggibeliin: raises $183 to $191 and is all-in
+S3d3m2: folds 
+Uncalled bet ($183) returned to gaiggibeliin
+gaiggibeliin collected $18 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0 
+Seat 3: gaiggibeliin collected ($18)
+Seat 4: S3d3m2 (button blind) folded before Flop
+
+
+
+PokerStars Hand #195843265510:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:40:59 EET [2019/01/16 18:40:59 ET]
+Table 'Aconcagua IV' 6-max Seat #3 is the button
+Seat 3: gaiggibeliin ($201 in chips) 
+Seat 4: S3d3m2 ($186.75 in chips) 
+gaiggibeliin: posts the ante $1
+S3d3m2: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8c 7d]
+S3d3m2: raises $9 to $10
+gaiggibeliin: folds 
+Uncalled bet ($9) returned to S3d3m2
+S3d3m2 collected $4 from pot
+S3d3m2: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 3: gaiggibeliin (button blind) folded before Flop
+Seat 4: S3d3m2 collected ($4)
+
+
+
+PokerStars Hand #195843274041:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:41:13 EET [2019/01/16 18:41:13 ET]
+Table 'Aconcagua IV' 6-max Seat #4 is the button
+Seat 3: gaiggibeliin ($199 in chips) 
+Seat 4: S3d3m2 ($188.75 in chips) 
+gaiggibeliin: posts the ante $1
+S3d3m2: posts the ante $1
+S3d3m2: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6s Ah]
+gaiggibeliin: folds 
+Uncalled bet ($1) returned to S3d3m2
+S3d3m2 collected $2 from pot
+S3d3m2: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: S3d3m2 (button blind) collected ($2)
+
+
+
+PokerStars Hand #195843277693:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:41:19 EET [2019/01/16 18:41:19 ET]
+Table 'Aconcagua IV' 6-max Seat #3 is the button
+Seat 3: gaiggibeliin ($198 in chips) 
+Seat 4: S3d3m2 ($189.75 in chips) 
+gaiggibeliin: posts the ante $1
+S3d3m2: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8d Ks]
+S3d3m2: calls $1
+gaiggibeliin: raises $4 to $5
+S3d3m2: raises $183.75 to $188.75 and is all-in
+gaiggibeliin: folds 
+Uncalled bet ($183.75) returned to S3d3m2
+S3d3m2 collected $12 from pot
+S3d3m2: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 3: gaiggibeliin (button blind) folded before Flop
+Seat 4: S3d3m2 collected ($12)
+
+
+
+PokerStars Hand #195843285410:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:41:31 EET [2019/01/16 18:41:31 ET]
+Table 'Aconcagua IV' 6-max Seat #4 is the button
+Seat 3: gaiggibeliin ($192 in chips) 
+Seat 4: S3d3m2 ($195.75 in chips) 
+gaiggibeliin: posts the ante $1
+S3d3m2: posts the ante $1
+S3d3m2: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qs Kd]
+gaiggibeliin: calls $1
+S3d3m2: raises $4 to $5
+gaiggibeliin: calls $4
+*** FLOP *** [7s As 6c]
+gaiggibeliin: checks 
+S3d3m2: bets $6
+gaiggibeliin: folds 
+Uncalled bet ($6) returned to S3d3m2
+S3d3m2 collected $11.40 from pot
+S3d3m2: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0.60 
+Board [7s As 6c]
+Seat 3: gaiggibeliin folded on the Flop
+Seat 4: S3d3m2 (button blind) collected ($11.40)
+
+
+
+PokerStars Hand #195843307601:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:42:08 EET [2019/01/16 18:42:08 ET]
+Table 'Aconcagua IV' 6-max Seat #3 is the button
+Seat 3: gaiggibeliin ($186 in chips) 
+Seat 4: S3d3m2 ($201.15 in chips) 
+gaiggibeliin: posts the ante $1
+S3d3m2: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7d Kd]
+S3d3m2: calls $1
+gaiggibeliin: raises $4 to $5
+S3d3m2: calls $4
+*** FLOP *** [Ts Tc 6c]
+S3d3m2: checks 
+gaiggibeliin: checks 
+*** TURN *** [Ts Tc 6c] [7h]
+S3d3m2: bets $18
+gaiggibeliin: calls $18
+*** RIVER *** [Ts Tc 6c 7h] [Qs]
+S3d3m2: bets $19
+gaiggibeliin: calls $19
+*** SHOW DOWN ***
+S3d3m2: shows [8c Qc] (two pair, Queens and Tens)
+gaiggibeliin: mucks hand 
+S3d3m2 collected $84.75 from pot
+*** SUMMARY ***
+Total pot $86 | Rake $1.25 
+Board [Ts Tc 6c 7h Qs]
+Seat 3: gaiggibeliin (button blind) mucked [7d Kd]
+Seat 4: S3d3m2 showed [8c Qc] and won ($84.75) with two pair, Queens and Tens
+
+
+
+PokerStars Hand #195843338952:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:42:59 EET [2019/01/16 18:42:59 ET]
+Table 'Aconcagua IV' 6-max Seat #4 is the button
+Seat 3: gaiggibeliin ($143 in chips) 
+Seat 4: S3d3m2 ($242.90 in chips) 
+gaiggibeliin: posts the ante $1
+S3d3m2: posts the ante $1
+S3d3m2: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kc Js]
+gaiggibeliin: calls $1
+S3d3m2: checks 
+*** FLOP *** [Qd Td Kh]
+gaiggibeliin: checks 
+S3d3m2: bets $2
+gaiggibeliin: calls $2
+*** TURN *** [Qd Td Kh] [9s]
+gaiggibeliin: checks 
+S3d3m2: bets $10
+gaiggibeliin: calls $10
+*** RIVER *** [Qd Td Kh 9s] [Qs]
+gaiggibeliin: checks 
+S3d3m2: bets $15
+gaiggibeliin: calls $15
+*** SHOW DOWN ***
+S3d3m2: shows [Jd 7c] (a straight, Nine to King)
+gaiggibeliin: shows [Kc Js] (a straight, Nine to King)
+gaiggibeliin collected $28.38 from pot
+S3d3m2 collected $28.37 from pot
+*** SUMMARY ***
+Total pot $58 | Rake $1.25 
+Board [Qd Td Kh 9s Qs]
+Seat 3: gaiggibeliin showed [Kc Js] and won ($28.38) with a straight, Nine to King
+Seat 4: S3d3m2 (button blind) showed [Jd 7c] and won ($28.37) with a straight, Nine to King
+
+
+
+PokerStars Hand #195843371791:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:43:53 EET [2019/01/16 18:43:53 ET]
+Table 'Aconcagua IV' 6-max Seat #3 is the button
+Seat 3: gaiggibeliin ($200 in chips) 
+Seat 4: S3d3m2 ($242.27 in chips) 
+gaiggibeliin: posts the ante $1
+S3d3m2: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6c Kd]
+S3d3m2: calls $1
+gaiggibeliin: raises $7 to $8
+S3d3m2: calls $7
+*** FLOP *** [Kc Qh Js]
+S3d3m2: checks 
+gaiggibeliin: checks 
+*** TURN *** [Kc Qh Js] [Qs]
+S3d3m2: checks 
+gaiggibeliin: bets $5.64
+S3d3m2: folds 
+Uncalled bet ($5.64) returned to gaiggibeliin
+gaiggibeliin collected $17.10 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.90 
+Board [Kc Qh Js Qs]
+Seat 3: gaiggibeliin (button blind) collected ($17.10)
+Seat 4: S3d3m2 folded on the Turn
+
+
+
+PokerStars Hand #195843382456:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:44:11 EET [2019/01/16 18:44:11 ET]
+Table 'Aconcagua IV' 6-max Seat #4 is the button
+Seat 3: gaiggibeliin ($208.10 in chips) 
+Seat 4: S3d3m2 ($233.27 in chips) 
+gaiggibeliin: posts the ante $1
+S3d3m2: posts the ante $1
+S3d3m2: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7d 6c]
+gaiggibeliin: folds 
+Uncalled bet ($1) returned to S3d3m2
+S3d3m2 collected $2 from pot
+S3d3m2: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: S3d3m2 (button blind) collected ($2)
+
+
+
+PokerStars Hand #195843387582:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:44:19 EET [2019/01/16 18:44:19 ET]
+Table 'Aconcagua IV' 6-max Seat #3 is the button
+Seat 3: gaiggibeliin ($207.10 in chips) 
+Seat 4: S3d3m2 ($234.27 in chips) 
+gaiggibeliin: posts the ante $1
+S3d3m2: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7d Ah]
+S3d3m2: calls $1
+gaiggibeliin: raises $5 to $6
+S3d3m2: folds 
+Uncalled bet ($5) returned to gaiggibeliin
+gaiggibeliin collected $4 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 3: gaiggibeliin (button blind) collected ($4)
+Seat 4: S3d3m2 folded before Flop
+
+
+
+PokerStars Hand #195843393148:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:44:28 EET [2019/01/16 18:44:28 ET]
+Table 'Aconcagua IV' 6-max Seat #4 is the button
+Seat 3: gaiggibeliin ($209.10 in chips) 
+Seat 4: S3d3m2 ($232.27 in chips) 
+gaiggibeliin: posts the ante $1
+S3d3m2: posts the ante $1
+S3d3m2: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kd 9h]
+gaiggibeliin: folds 
+Uncalled bet ($1) returned to S3d3m2
+S3d3m2 collected $2 from pot
+S3d3m2: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: S3d3m2 (button blind) collected ($2)
+
+
+
+PokerStars Hand #195843400399:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:44:40 EET [2019/01/16 18:44:40 ET]
+Table 'Aconcagua IV' 6-max Seat #3 is the button
+Seat 3: gaiggibeliin ($208.10 in chips) 
+Seat 4: S3d3m2 ($233.27 in chips) 
+gaiggibeliin: posts the ante $1
+S3d3m2: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kd Jd]
+S3d3m2: calls $1
+gaiggibeliin: raises $5 to $6
+S3d3m2: calls $5
+*** FLOP *** [7h 9h 6s]
+S3d3m2: checks 
+gaiggibeliin: checks 
+*** TURN *** [7h 9h 6s] [Js]
+S3d3m2: bets $11
+gaiggibeliin: calls $11
+*** RIVER *** [7h 9h 6s Js] [8c]
+S3d3m2: checks 
+gaiggibeliin: checks 
+*** SHOW DOWN ***
+S3d3m2: shows [7c Jc] (two pair, Jacks and Sevens)
+gaiggibeliin: mucks hand 
+S3d3m2 collected $34.75 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $1.25 
+Board [7h 9h 6s Js 8c]
+Seat 3: gaiggibeliin (button blind) mucked [Kd Jd]
+Seat 4: S3d3m2 showed [7c Jc] and won ($34.75) with two pair, Jacks and Sevens
+
+
+
+PokerStars Hand #195843415461:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:45:05 EET [2019/01/16 18:45:05 ET]
+Table 'Aconcagua IV' 6-max Seat #4 is the button
+Seat 3: gaiggibeliin ($190.10 in chips) 
+Seat 4: S3d3m2 ($250.02 in chips) 
+gaiggibeliin: posts the ante $1
+S3d3m2: posts the ante $1
+S3d3m2: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qc 7c]
+gaiggibeliin: calls $1
+S3d3m2: raises $7 to $8
+gaiggibeliin: calls $7
+*** FLOP *** [6c Kh Ac]
+gaiggibeliin: checks 
+S3d3m2: bets $10
+gaiggibeliin: folds 
+Uncalled bet ($10) returned to S3d3m2
+S3d3m2 collected $17.10 from pot
+S3d3m2: doesn't show hand 
+*** SUMMARY ***
+Total pot $18 | Rake $0.90 
+Board [6c Kh Ac]
+Seat 3: gaiggibeliin folded on the Flop
+Seat 4: S3d3m2 (button blind) collected ($17.10)
+
+
+
+PokerStars Hand #195843434458:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:45:37 EET [2019/01/16 18:45:37 ET]
+Table 'Aconcagua IV' 6-max Seat #3 is the button
+Seat 3: gaiggibeliin ($181.10 in chips) 
+Seat 4: S3d3m2 ($258.12 in chips) 
+gaiggibeliin: posts the ante $1
+S3d3m2: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8s Td]
+S3d3m2: calls $1
+gaiggibeliin: checks 
+*** FLOP *** [9s 7c Tc]
+S3d3m2: checks 
+gaiggibeliin: bets $2.55
+S3d3m2: folds 
+Uncalled bet ($2.55) returned to gaiggibeliin
+gaiggibeliin collected $3.80 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [9s 7c Tc]
+Seat 3: gaiggibeliin (button blind) collected ($3.80)
+Seat 4: S3d3m2 folded on the Flop
+
+
+
+PokerStars Hand #195843462331:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:46:14 EET [2019/01/16 18:46:14 ET]
+Table 'Aconcagua IV' 6-max Seat #4 is the button
+Seat 3: gaiggibeliin ($182.90 in chips) 
+Seat 4: S3d3m2 ($256.12 in chips) 
+gaiggibeliin: posts the ante $1
+S3d3m2: posts the ante $1
+S3d3m2: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [As Qs]
+gaiggibeliin: calls $1
+S3d3m2: checks 
+*** FLOP *** [Th 7s Jd]
+gaiggibeliin: checks 
+S3d3m2: bets $2
+gaiggibeliin: calls $2
+*** TURN *** [Th 7s Jd] [8c]
+gaiggibeliin: checks 
+S3d3m2: checks 
+*** RIVER *** [Th 7s Jd 8c] [8s]
+gaiggibeliin: bets $5.09
+S3d3m2: folds 
+Uncalled bet ($5.09) returned to gaiggibeliin
+gaiggibeliin collected $7.60 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [Th 7s Jd 8c 8s]
+Seat 3: gaiggibeliin collected ($7.60)
+Seat 4: S3d3m2 (button blind) folded on the River
+
+
+
+PokerStars Hand #195843476393:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:46:38 EET [2019/01/16 18:46:38 ET]
+Table 'Aconcagua IV' 6-max Seat #3 is the button
+Seat 3: gaiggibeliin ($186.50 in chips) 
+Seat 4: S3d3m2 ($252.12 in chips) 
+gaiggibeliin: posts the ante $1
+S3d3m2: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7c Ah]
+S3d3m2: calls $1
+gaiggibeliin: checks 
+*** FLOP *** [8c 7h 7d]
+S3d3m2: checks 
+gaiggibeliin: bets $2.55
+S3d3m2: raises $9.45 to $12
+gaiggibeliin: calls $9.45
+*** TURN *** [8c 7h 7d] [Kh]
+S3d3m2: bets $34
+gaiggibeliin: calls $34
+*** RIVER *** [8c 7h 7d Kh] [Th]
+S3d3m2: bets $62
+gaiggibeliin: calls $62
+*** SHOW DOWN ***
+S3d3m2: shows [7s 9d] (three of a kind, Sevens)
+gaiggibeliin: shows [7c Ah] (three of a kind, Sevens - Ace kicker)
+gaiggibeliin collected $218.75 from pot
+*** SUMMARY ***
+Total pot $220 | Rake $1.25 
+Board [8c 7h 7d Kh Th]
+Seat 3: gaiggibeliin (button blind) showed [7c Ah] and won ($218.75) with three of a kind, Sevens
+Seat 4: S3d3m2 showed [7s 9d] and lost with three of a kind, Sevens
+
+
+
+PokerStars Hand #195843528980:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:48:06 EET [2019/01/16 18:48:06 ET]
+Table 'Aconcagua IV' 6-max Seat #4 is the button
+Seat 3: gaiggibeliin ($295.25 in chips) 
+Seat 4: S3d3m2 ($142.12 in chips) 
+gaiggibeliin: posts the ante $1
+S3d3m2: posts the ante $1
+S3d3m2: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8s 9c]
+gaiggibeliin: calls $1
+S3d3m2: raises $6 to $7
+gaiggibeliin: calls $6
+*** FLOP *** [Jc 8h 6c]
+gaiggibeliin: checks 
+S3d3m2: bets $10
+gaiggibeliin: calls $10
+*** TURN *** [Jc 8h 6c] [Qd]
+gaiggibeliin: checks 
+S3d3m2: checks 
+*** RIVER *** [Jc 8h 6c Qd] [8c]
+gaiggibeliin: bets $23.28
+S3d3m2: folds 
+Uncalled bet ($23.28) returned to gaiggibeliin
+gaiggibeliin collected $34.75 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $1.25 
+Board [Jc 8h 6c Qd 8c]
+Seat 3: gaiggibeliin collected ($34.75)
+Seat 4: S3d3m2 (button blind) folded on the River
+
+
+
+PokerStars Hand #195843547343:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:48:37 EET [2019/01/16 18:48:37 ET]
+Table 'Aconcagua IV' 6-max Seat #3 is the button
+Seat 3: gaiggibeliin ($312 in chips) 
+Seat 4: S3d3m2 ($124.12 in chips) 
+gaiggibeliin: posts the ante $1
+S3d3m2: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8d 7c]
+S3d3m2: calls $1
+gaiggibeliin: raises $5 to $6
+S3d3m2: calls $5
+*** FLOP *** [Ts Qc Jc]
+S3d3m2: checks 
+gaiggibeliin: checks 
+*** TURN *** [Ts Qc Jc] [9d]
+S3d3m2: checks 
+gaiggibeliin: checks 
+*** RIVER *** [Ts Qc Jc 9d] [Js]
+S3d3m2: checks 
+gaiggibeliin: bets $4.39
+S3d3m2: folds 
+Uncalled bet ($4.39) returned to gaiggibeliin
+gaiggibeliin collected $13.30 from pot
+*** SUMMARY ***
+Total pot $14 | Rake $0.70 
+Board [Ts Qc Jc 9d Js]
+Seat 3: gaiggibeliin (button blind) collected ($13.30)
+Seat 4: S3d3m2 folded on the River
+
+
+
+PokerStars Hand #195843569564:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:49:14 EET [2019/01/16 18:49:14 ET]
+Table 'Aconcagua IV' 6-max Seat #4 is the button
+Seat 3: gaiggibeliin ($318.30 in chips) 
+Seat 4: S3d3m2 ($194.76 in chips) 
+gaiggibeliin: posts the ante $1
+S3d3m2: posts the ante $1
+S3d3m2: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jd 7h]
+gaiggibeliin: calls $1
+S3d3m2: raises $7 to $8
+gaiggibeliin: folds 
+Uncalled bet ($7) returned to S3d3m2
+S3d3m2 collected $4 from pot
+S3d3m2: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 3: gaiggibeliin folded before Flop
+Seat 4: S3d3m2 (button blind) collected ($4)
+
+
+
+PokerStars Hand #195843576147:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:49:25 EET [2019/01/16 18:49:25 ET]
+Table 'Aconcagua IV' 6-max Seat #3 is the button
+Seat 3: gaiggibeliin ($316.30 in chips) 
+Seat 4: S3d3m2 ($196.76 in chips) 
+gaiggibeliin: posts the ante $1
+S3d3m2: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7c 6c]
+S3d3m2: calls $1
+gaiggibeliin: raises $5 to $6
+S3d3m2: raises $34 to $40
+gaiggibeliin: folds 
+Uncalled bet ($34) returned to S3d3m2
+S3d3m2 collected $14 from pot
+S3d3m2: doesn't show hand 
+*** SUMMARY ***
+Total pot $14 | Rake $0 
+Seat 3: gaiggibeliin (button blind) folded before Flop
+Seat 4: S3d3m2 collected ($14)
+
+
+
+PokerStars Hand #195843587021:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:49:43 EET [2019/01/16 18:49:43 ET]
+Table 'Aconcagua IV' 6-max Seat #4 is the button
+Seat 3: gaiggibeliin ($309.30 in chips) 
+Seat 4: S3d3m2 ($203.76 in chips) 
+gaiggibeliin: posts the ante $1
+S3d3m2: posts the ante $1
+S3d3m2: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ad Kc]
+gaiggibeliin: calls $1
+S3d3m2: checks 
+*** FLOP *** [Tc 6h Ts]
+gaiggibeliin: checks 
+S3d3m2: checks 
+*** TURN *** [Tc 6h Ts] [Qs]
+gaiggibeliin: checks 
+S3d3m2: checks 
+*** RIVER *** [Tc 6h Ts Qs] [Qh]
+gaiggibeliin: bets $1.98
+S3d3m2: folds 
+Uncalled bet ($1.98) returned to gaiggibeliin
+gaiggibeliin collected $3.80 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [Tc 6h Ts Qs Qh]
+Seat 3: gaiggibeliin collected ($3.80)
+Seat 4: S3d3m2 (button blind) folded on the River
+
+
+
+PokerStars Hand #195843599057:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:50:03 EET [2019/01/16 18:50:03 ET]
+Table 'Aconcagua IV' 6-max Seat #3 is the button
+Seat 3: gaiggibeliin ($311.10 in chips) 
+Seat 4: S3d3m2 ($201.76 in chips) 
+gaiggibeliin: posts the ante $1
+S3d3m2: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6d Kd]
+S3d3m2: calls $1
+gaiggibeliin: raises $5 to $6
+S3d3m2: calls $5
+*** FLOP *** [Td Qh Qs]
+S3d3m2: checks 
+gaiggibeliin: bets $4.39
+S3d3m2: folds 
+Uncalled bet ($4.39) returned to gaiggibeliin
+gaiggibeliin collected $13.30 from pot
+*** SUMMARY ***
+Total pot $14 | Rake $0.70 
+Board [Td Qh Qs]
+Seat 3: gaiggibeliin (button blind) collected ($13.30)
+Seat 4: S3d3m2 folded on the Flop
+
+
+
+PokerStars Hand #195843611605:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:50:24 EET [2019/01/16 18:50:24 ET]
+Table 'Aconcagua IV' 6-max Seat #4 is the button
+Seat 3: gaiggibeliin ($317.40 in chips) 
+Seat 4: S3d3m2 ($194.76 in chips) 
+gaiggibeliin: posts the ante $1
+S3d3m2: posts the ante $1
+S3d3m2: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7d Kc]
+gaiggibeliin: calls $1
+S3d3m2: raises $6 to $7
+gaiggibeliin: folds 
+Uncalled bet ($6) returned to S3d3m2
+S3d3m2 collected $4 from pot
+S3d3m2: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 3: gaiggibeliin folded before Flop
+Seat 4: S3d3m2 (button blind) collected ($4)
+
+
+
+PokerStars Hand #195843615854:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:50:31 EET [2019/01/16 18:50:31 ET]
+Table 'Aconcagua IV' 6-max Seat #3 is the button
+Seat 3: gaiggibeliin ($315.40 in chips) 
+Seat 4: S3d3m2 ($196.76 in chips) 
+gaiggibeliin: posts the ante $1
+S3d3m2: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Js Kc]
+S3d3m2: calls $1
+gaiggibeliin: raises $5 to $6
+S3d3m2: calls $5
+*** FLOP *** [7s 7c Ks]
+S3d3m2: checks 
+gaiggibeliin: checks 
+*** TURN *** [7s 7c Ks] [9s]
+S3d3m2: bets $11
+gaiggibeliin: calls $11
+*** RIVER *** [7s 7c Ks 9s] [8d]
+S3d3m2: bets $27.11
+gaiggibeliin: calls $27.11
+*** SHOW DOWN ***
+S3d3m2: shows [Th 7h] (three of a kind, Sevens)
+gaiggibeliin: mucks hand 
+S3d3m2 collected $88.97 from pot
+*** SUMMARY ***
+Total pot $90.22 | Rake $1.25 
+Board [7s 7c Ks 9s 8d]
+Seat 3: gaiggibeliin (button blind) mucked [Js Kc]
+Seat 4: S3d3m2 showed [Th 7h] and won ($88.97) with three of a kind, Sevens
+
+
+
+PokerStars Hand #195843634367:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:51:02 EET [2019/01/16 18:51:02 ET]
+Table 'Aconcagua IV' 6-max Seat #4 is the button
+Seat 3: gaiggibeliin ($270.29 in chips) 
+Seat 4: S3d3m2 ($240.62 in chips) 
+gaiggibeliin: posts the ante $1
+S3d3m2: posts the ante $1
+S3d3m2: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9d Ah]
+gaiggibeliin: calls $1
+S3d3m2: raises $7 to $8
+gaiggibeliin: calls $7
+*** FLOP *** [Js 8d Jh]
+gaiggibeliin: checks 
+S3d3m2: bets $9
+gaiggibeliin: folds 
+Uncalled bet ($9) returned to S3d3m2
+S3d3m2 collected $17.10 from pot
+S3d3m2: doesn't show hand 
+*** SUMMARY ***
+Total pot $18 | Rake $0.90 
+Board [Js 8d Jh]
+Seat 3: gaiggibeliin folded on the Flop
+Seat 4: S3d3m2 (button blind) collected ($17.10)
+
+
+
+PokerStars Hand #195843644055:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:51:19 EET [2019/01/16 18:51:19 ET]
+Table 'Aconcagua IV' 6-max Seat #3 is the button
+Seat 3: gaiggibeliin ($261.29 in chips) 
+Seat 4: S3d3m2 ($248.72 in chips) 
+gaiggibeliin: posts the ante $1
+S3d3m2: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Td Ad]
+S3d3m2: folds 
+Uncalled bet ($1) returned to gaiggibeliin
+gaiggibeliin collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 3: gaiggibeliin (button blind) collected ($2)
+Seat 4: S3d3m2 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #195843647295:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:51:24 EET [2019/01/16 18:51:24 ET]
+Table 'Aconcagua IV' 6-max Seat #4 is the button
+Seat 3: gaiggibeliin ($262.29 in chips) 
+Seat 4: S3d3m2 ($247.72 in chips) 
+gaiggibeliin: posts the ante $1
+S3d3m2: posts the ante $1
+S3d3m2: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ah 7h]
+gaiggibeliin: calls $1
+S3d3m2: checks 
+*** FLOP *** [9h 6d As]
+gaiggibeliin: checks 
+S3d3m2: checks 
+*** TURN *** [9h 6d As] [8d]
+gaiggibeliin: bets $2.85
+S3d3m2: raises $12.15 to $15
+gaiggibeliin: calls $12.15
+*** RIVER *** [9h 6d As 8d] [Qh]
+gaiggibeliin: checks 
+S3d3m2: checks 
+*** SHOW DOWN ***
+gaiggibeliin: shows [Ah 7h] (a straight, Ace to Nine)
+S3d3m2: shows [7c Ks] (a straight, Ace to Nine)
+gaiggibeliin collected $16.38 from pot
+S3d3m2 collected $16.37 from pot
+*** SUMMARY ***
+Total pot $34 | Rake $1.25 
+Board [9h 6d As 8d Qh]
+Seat 3: gaiggibeliin showed [Ah 7h] and won ($16.38) with a straight, Ace to Nine
+Seat 4: S3d3m2 (button blind) showed [7c Ks] and won ($16.37) with a straight, Ace to Nine
+
+
+
+PokerStars Hand #195843666193:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:51:56 EET [2019/01/16 18:51:56 ET]
+Table 'Aconcagua IV' 6-max Seat #3 is the button
+Seat 3: gaiggibeliin ($261.67 in chips) 
+Seat 4: S3d3m2 ($247.09 in chips) 
+gaiggibeliin: posts the ante $1
+S3d3m2: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Th 7c]
+S3d3m2: calls $1
+gaiggibeliin: raises $4 to $5
+S3d3m2: calls $4
+*** FLOP *** [Ad Jc Kh]
+S3d3m2: checks 
+gaiggibeliin: checks 
+*** TURN *** [Ad Jc Kh] [Ah]
+S3d3m2: checks 
+gaiggibeliin: bets $3.76
+S3d3m2: calls $3.76
+*** RIVER *** [Ad Jc Kh Ah] [7d]
+S3d3m2: checks 
+gaiggibeliin: checks 
+*** SHOW DOWN ***
+S3d3m2: shows [Kd 9s] (two pair, Aces and Kings)
+gaiggibeliin: mucks hand 
+S3d3m2 collected $18.54 from pot
+*** SUMMARY ***
+Total pot $19.52 | Rake $0.98 
+Board [Ad Jc Kh Ah 7d]
+Seat 3: gaiggibeliin (button blind) mucked [Th 7c]
+Seat 4: S3d3m2 showed [Kd 9s] and won ($18.54) with two pair, Aces and Kings
+
+
+
+PokerStars Hand #195843685859:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:52:29 EET [2019/01/16 18:52:29 ET]
+Table 'Aconcagua IV' 6-max Seat #4 is the button
+Seat 3: gaiggibeliin ($251.91 in chips) 
+Seat 4: S3d3m2 ($255.87 in chips) 
+gaiggibeliin: posts the ante $1
+S3d3m2: posts the ante $1
+S3d3m2: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kh 6c]
+gaiggibeliin: calls $1
+S3d3m2: raises $5 to $6
+gaiggibeliin: folds 
+Uncalled bet ($5) returned to S3d3m2
+S3d3m2 collected $4 from pot
+S3d3m2: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 3: gaiggibeliin folded before Flop
+Seat 4: S3d3m2 (button blind) collected ($4)
+
+
+

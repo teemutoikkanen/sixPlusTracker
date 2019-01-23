@@ -1,0 +1,1869 @@
+﻿PokerStars Hand #196134089008:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:23:25 EET [2019/01/23 16:23:25 ET]
+Table 'Philippina' 6-max Seat #1 is the button
+Seat 1: M1TR4ND1R ($150 in chips) 
+Seat 3: gaiggibeliin ($150 in chips) 
+M1TR4ND1R: posts the ante $1
+gaiggibeliin: posts the ante $1
+M1TR4ND1R: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [As Jh]
+gaiggibeliin: calls $1
+M1TR4ND1R: checks 
+*** FLOP *** [8h Qs Ts]
+gaiggibeliin: bets $3
+M1TR4ND1R: folds 
+Uncalled bet ($3) returned to gaiggibeliin
+gaiggibeliin collected $3.80 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [8h Qs Ts]
+Seat 1: M1TR4ND1R (button blind) folded on the Flop
+Seat 3: gaiggibeliin collected ($3.80)
+
+
+
+PokerStars Hand #196134105818:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:23:46 EET [2019/01/23 16:23:46 ET]
+Table 'Philippina' 6-max Seat #3 is the button
+Seat 1: M1TR4ND1R ($150 in chips) 
+Seat 3: gaiggibeliin ($151.80 in chips) 
+M1TR4ND1R: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jh 8s]
+M1TR4ND1R: raises $4 to $5
+gaiggibeliin: calls $4
+*** FLOP *** [Th 9s Ac]
+M1TR4ND1R: checks 
+gaiggibeliin: bets $8.55
+M1TR4ND1R: calls $8.55
+*** TURN *** [Th 9s Ac] [8d]
+M1TR4ND1R: checks 
+gaiggibeliin: bets $22
+M1TR4ND1R: folds 
+Uncalled bet ($22) returned to gaiggibeliin
+gaiggibeliin collected $27.85 from pot
+*** SUMMARY ***
+Total pot $29.10 | Rake $1.25 
+Board [Th 9s Ac 8d]
+Seat 1: M1TR4ND1R folded on the Turn
+Seat 3: gaiggibeliin (button blind) collected ($27.85)
+
+
+
+PokerStars Hand #196134147169:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:24:37 EET [2019/01/23 16:24:37 ET]
+Table 'Philippina' 6-max Seat #1 is the button
+Seat 1: M1TR4ND1R ($150 in chips) 
+Seat 3: gaiggibeliin ($165.10 in chips) 
+M1TR4ND1R: posts the ante $1
+gaiggibeliin: posts the ante $1
+M1TR4ND1R: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7h Th]
+gaiggibeliin: calls $1
+M1TR4ND1R: raises $7 to $8
+gaiggibeliin: calls $7
+*** FLOP *** [6c 6d Ah]
+gaiggibeliin: checks 
+M1TR4ND1R: checks 
+*** TURN *** [6c 6d Ah] [Kc]
+gaiggibeliin: checks 
+M1TR4ND1R: checks 
+*** RIVER *** [6c 6d Ah Kc] [Ac]
+gaiggibeliin: bets $32
+M1TR4ND1R: folds 
+Uncalled bet ($32) returned to gaiggibeliin
+gaiggibeliin collected $17.10 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.90 
+Board [6c 6d Ah Kc Ac]
+Seat 1: M1TR4ND1R (button blind) folded on the River
+Seat 3: gaiggibeliin collected ($17.10)
+
+
+
+PokerStars Hand #196134179799:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:25:17 EET [2019/01/23 16:25:17 ET]
+Table 'Philippina' 6-max Seat #3 is the button
+Seat 1: M1TR4ND1R ($150 in chips) 
+Seat 3: gaiggibeliin ($173.20 in chips) 
+M1TR4ND1R: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9h 7c]
+M1TR4ND1R: folds 
+Uncalled bet ($1) returned to gaiggibeliin
+gaiggibeliin collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: M1TR4ND1R folded before Flop (didn't bet)
+Seat 3: gaiggibeliin (button blind) collected ($2)
+
+
+
+PokerStars Hand #196134184254:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:25:22 EET [2019/01/23 16:25:22 ET]
+Table 'Philippina' 6-max Seat #1 is the button
+Seat 1: M1TR4ND1R ($150 in chips) 
+Seat 3: gaiggibeliin ($174.20 in chips) 
+M1TR4ND1R: posts the ante $1
+gaiggibeliin: posts the ante $1
+M1TR4ND1R: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ts Kc]
+gaiggibeliin: calls $1
+Stacy99 joins the table at seat #2 
+M1TR4ND1R: checks 
+*** FLOP *** [Js 8d Ah]
+gaiggibeliin: checks 
+M1TR4ND1R: checks 
+*** TURN *** [Js 8d Ah] [9h]
+gaiggibeliin: bets $3
+M1TR4ND1R: raises $7.25 to $10.25
+gaiggibeliin: calls $7.25
+*** RIVER *** [Js 8d Ah 9h] [Qd]
+gaiggibeliin: bets $15.60
+M1TR4ND1R: calls $15.60
+*** SHOW DOWN ***
+gaiggibeliin: shows [Ts Kc] (a straight, Ten to Ace)
+M1TR4ND1R: mucks hand 
+gaiggibeliin collected $54.45 from pot
+*** SUMMARY ***
+Total pot $55.70 | Rake $1.25 
+Board [Js 8d Ah 9h Qd]
+Seat 1: M1TR4ND1R (button blind) mucked [Tc 7c]
+Seat 3: gaiggibeliin showed [Ts Kc] and won ($54.45) with a straight, Ten to Ace
+
+
+
+PokerStars Hand #196134239991:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:26:31 EET [2019/01/23 16:26:31 ET]
+Table 'Philippina' 6-max Seat #3 is the button
+Seat 1: M1TR4ND1R ($150 in chips) 
+Seat 2: Stacy99 ($150 in chips) 
+Seat 3: gaiggibeliin ($200.80 in chips) 
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7c 6c]
+M1TR4ND1R: calls $1
+Stacy99: raises $6 to $7
+gaiggibeliin: calls $6
+M1TR4ND1R: calls $6
+*** FLOP *** [8h 9d Ks]
+M1TR4ND1R: checks 
+Stacy99: bets $17.10
+gaiggibeliin: calls $17.10
+M1TR4ND1R: calls $17.10
+*** TURN *** [8h 9d Ks] [Ad]
+M1TR4ND1R: checks 
+Stacy99: bets $55.54
+gaiggibeliin: raises $120.16 to $175.70 and is all-in
+M1TR4ND1R: calls $124.90 and is all-in
+Stacy99: folds 
+Uncalled bet ($50.80) returned to gaiggibeliin
+*** RIVER *** [8h 9d Ks Ad] [7s]
+*** SHOW DOWN ***
+M1TR4ND1R: shows [Kd 6d] (a straight, Ace to Nine)
+gaiggibeliin: shows [7c 6c] (a straight, Ace to Nine)
+M1TR4ND1R collected $189.70 from pot
+gaiggibeliin collected $189.69 from pot
+*** SUMMARY ***
+Total pot $380.64 | Rake $1.25 
+Board [8h 9d Ks Ad 7s]
+Seat 1: M1TR4ND1R showed [Kd 6d] and won ($189.70) with a straight, Ace to Nine
+Seat 2: Stacy99 folded on the Turn
+Seat 3: gaiggibeliin (button blind) showed [7c 6c] and won ($189.69) with a straight, Ace to Nine
+
+
+
+PokerStars Hand #196134323929:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:28:13 EET [2019/01/23 16:28:13 ET]
+Table 'Philippina' 6-max Seat #1 is the button
+Seat 1: M1TR4ND1R ($189.70 in chips) 
+Seat 2: Stacy99 ($150 in chips) 
+Seat 3: gaiggibeliin ($240.49 in chips) 
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gaiggibeliin: posts the ante $1
+M1TR4ND1R: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8h Qd]
+Stacy99: folds 
+gaiggibeliin: folds 
+Uncalled bet ($1) returned to M1TR4ND1R
+M1TR4ND1R collected $3 from pot
+M1TR4ND1R: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0 
+Seat 1: M1TR4ND1R (button blind) collected ($3)
+Seat 2: Stacy99 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196134329379:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:28:20 EET [2019/01/23 16:28:20 ET]
+Table 'Philippina' 6-max Seat #2 is the button
+Seat 1: M1TR4ND1R ($191.70 in chips) 
+Seat 2: Stacy99 ($150 in chips) 
+Seat 3: gaiggibeliin ($239.49 in chips) 
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gaiggibeliin: posts the ante $1
+Stacy99: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7h Jd]
+gaiggibeliin: folds 
+M1TR4ND1R: raises $6 to $7
+Stacy99: calls $6
+*** FLOP *** [7c 9d Th]
+M1TR4ND1R: checks 
+Stacy99: bets $16.15
+M1TR4ND1R: folds 
+Uncalled bet ($16.15) returned to Stacy99
+Stacy99 collected $16.15 from pot
+*** SUMMARY ***
+Total pot $17 | Rake $0.85 
+Board [7c 9d Th]
+Seat 1: M1TR4ND1R folded on the Flop
+Seat 2: Stacy99 (button blind) collected ($16.15)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196134346907:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:28:42 EET [2019/01/23 16:28:42 ET]
+Table 'Philippina' 6-max Seat #3 is the button
+Seat 1: M1TR4ND1R ($183.70 in chips) 
+Seat 2: Stacy99 ($158.15 in chips) 
+Seat 3: gaiggibeliin ($238.49 in chips) 
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kd Th]
+M1TR4ND1R: calls $1
+Stacy99: raises $5 to $6
+gaiggibeliin: calls $5
+M1TR4ND1R: calls $5
+*** FLOP *** [Qc 8c 7d]
+M1TR4ND1R: checks 
+Stacy99: bets $9.98
+gaiggibeliin: folds 
+M1TR4ND1R: calls $9.98
+*** TURN *** [Qc 8c 7d] [Kc]
+M1TR4ND1R: checks 
+Stacy99: checks 
+*** RIVER *** [Qc 8c 7d Kc] [6s]
+M1TR4ND1R: checks 
+Stacy99: bets $29.78
+M1TR4ND1R: folds 
+Uncalled bet ($29.78) returned to Stacy99
+Stacy99 collected $39.71 from pot
+*** SUMMARY ***
+Total pot $40.96 | Rake $1.25 
+Board [Qc 8c 7d Kc 6s]
+Seat 1: M1TR4ND1R folded on the River
+Seat 2: Stacy99 collected ($39.71)
+Seat 3: gaiggibeliin (button blind) folded on the Flop
+
+
+
+PokerStars Hand #196134386936:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:29:31 EET [2019/01/23 16:29:31 ET]
+Table 'Philippina' 6-max Seat #1 is the button
+Seat 1: M1TR4ND1R ($166.72 in chips) 
+Seat 2: Stacy99 ($180.88 in chips) 
+Seat 3: gaiggibeliin ($231.49 in chips) 
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gaiggibeliin: posts the ante $1
+M1TR4ND1R: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7c Kh]
+Stacy99: folds 
+gaiggibeliin: folds 
+Uncalled bet ($1) returned to M1TR4ND1R
+M1TR4ND1R collected $3 from pot
+M1TR4ND1R: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0 
+Seat 1: M1TR4ND1R (button blind) collected ($3)
+Seat 2: Stacy99 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196134394316:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:29:40 EET [2019/01/23 16:29:40 ET]
+Table 'Philippina' 6-max Seat #2 is the button
+Seat 1: M1TR4ND1R ($168.72 in chips) 
+Seat 2: Stacy99 ($179.88 in chips) 
+Seat 3: gaiggibeliin ($230.49 in chips) 
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gaiggibeliin: posts the ante $1
+Stacy99: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6d 6c]
+gaiggibeliin: calls $1
+M1TR4ND1R: raises $9 to $10
+Stacy99: folds 
+gaiggibeliin: calls $9
+*** FLOP *** [Kh Ad Qh]
+gaiggibeliin: checks 
+M1TR4ND1R: bets $16.87
+gaiggibeliin: folds 
+Uncalled bet ($16.87) returned to M1TR4ND1R
+M1TR4ND1R collected $22.80 from pot
+M1TR4ND1R: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $1.20 
+Board [Kh Ad Qh]
+Seat 1: M1TR4ND1R collected ($22.80)
+Seat 2: Stacy99 (button blind) folded before Flop
+Seat 3: gaiggibeliin folded on the Flop
+
+
+
+PokerStars Hand #196134406105:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:29:54 EET [2019/01/23 16:29:54 ET]
+Table 'Philippina' 6-max Seat #3 is the button
+Seat 1: M1TR4ND1R ($180.52 in chips) 
+Seat 2: Stacy99 ($177.88 in chips) 
+Seat 3: gaiggibeliin ($219.49 in chips) 
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9d 7h]
+M1TR4ND1R: calls $1
+Stacy99: calls $1
+gaiggibeliin: checks 
+*** FLOP *** [6c Ts Ad]
+M1TR4ND1R: checks 
+Stacy99: checks 
+gaiggibeliin: checks 
+*** TURN *** [6c Ts Ad] [Qs]
+M1TR4ND1R: checks 
+Stacy99: bets $2.85
+gaiggibeliin: folds 
+M1TR4ND1R: folds 
+Uncalled bet ($2.85) returned to Stacy99
+Stacy99 collected $5.70 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [6c Ts Ad Qs]
+Seat 1: M1TR4ND1R folded on the Turn
+Seat 2: Stacy99 collected ($5.70)
+Seat 3: gaiggibeliin (button blind) folded on the Turn
+
+
+
+PokerStars Hand #196134440758:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:30:37 EET [2019/01/23 16:30:37 ET]
+Table 'Philippina' 6-max Seat #1 is the button
+Seat 1: M1TR4ND1R ($178.52 in chips) 
+Seat 2: Stacy99 ($181.58 in chips) 
+Seat 3: gaiggibeliin ($217.49 in chips) 
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gaiggibeliin: posts the ante $1
+M1TR4ND1R: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8c Js]
+Stacy99: folds 
+gaiggibeliin: folds 
+Uncalled bet ($1) returned to M1TR4ND1R
+M1TR4ND1R collected $3 from pot
+M1TR4ND1R: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0 
+Seat 1: M1TR4ND1R (button blind) collected ($3)
+Seat 2: Stacy99 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196134455628:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:30:55 EET [2019/01/23 16:30:55 ET]
+Table 'Philippina' 6-max Seat #2 is the button
+Seat 1: M1TR4ND1R ($180.52 in chips) 
+Seat 2: Stacy99 ($180.58 in chips) 
+Seat 3: gaiggibeliin ($216.49 in chips) 
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gaiggibeliin: posts the ante $1
+Stacy99: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6h 9s]
+gaiggibeliin: folds 
+M1TR4ND1R: folds 
+Uncalled bet ($1) returned to Stacy99
+Stacy99 collected $3 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0 
+Seat 1: M1TR4ND1R folded before Flop (didn't bet)
+Seat 2: Stacy99 (button blind) collected ($3)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196134461253:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:31:02 EET [2019/01/23 16:31:02 ET]
+Table 'Philippina' 6-max Seat #3 is the button
+Seat 1: M1TR4ND1R ($179.52 in chips) 
+Seat 2: Stacy99 ($182.58 in chips) 
+Seat 3: gaiggibeliin ($215.49 in chips) 
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9s Kd]
+M1TR4ND1R: calls $1
+Stacy99: calls $1
+gaiggibeliin: checks 
+*** FLOP *** [Ac Ks Jd]
+M1TR4ND1R: checks 
+Stacy99: bets $2.85
+gaiggibeliin: folds 
+M1TR4ND1R: folds 
+Uncalled bet ($2.85) returned to Stacy99
+Stacy99 collected $5.70 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Ac Ks Jd]
+Seat 1: M1TR4ND1R folded on the Flop
+Seat 2: Stacy99 collected ($5.70)
+Seat 3: gaiggibeliin (button blind) folded on the Flop
+
+
+
+PokerStars Hand #196134495587:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:31:44 EET [2019/01/23 16:31:44 ET]
+Table 'Philippina' 6-max Seat #1 is the button
+Seat 1: M1TR4ND1R ($177.52 in chips) 
+Seat 2: Stacy99 ($186.28 in chips) 
+Seat 3: gaiggibeliin ($213.49 in chips) 
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gaiggibeliin: posts the ante $1
+M1TR4ND1R: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6c Kc]
+Stacy99: raises $5 to $6
+gaiggibeliin: folds 
+M1TR4ND1R: calls $5
+*** FLOP *** [Ah Kd 7d]
+Stacy99: bets $7.13
+M1TR4ND1R: folds 
+Uncalled bet ($7.13) returned to Stacy99
+Stacy99 collected $14.25 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0.75 
+Board [Ah Kd 7d]
+Seat 1: M1TR4ND1R (button blind) folded on the Flop
+Seat 2: Stacy99 collected ($14.25)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196134513539:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:32:07 EET [2019/01/23 16:32:07 ET]
+Table 'Philippina' 6-max Seat #2 is the button
+Seat 1: M1TR4ND1R ($170.52 in chips) 
+Seat 2: Stacy99 ($193.53 in chips) 
+Seat 3: gaiggibeliin ($212.49 in chips) 
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gaiggibeliin: posts the ante $1
+Stacy99: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ts Js]
+gaiggibeliin: calls $1
+M1TR4ND1R: folds 
+Stacy99: raises $7 to $8
+gaiggibeliin: calls $7
+*** FLOP *** [Ks 9h 6s]
+gaiggibeliin: checks 
+Stacy99: bets $13.54
+KingNidhog joins the table at seat #6 
+gaiggibeliin: calls $13.54
+*** TURN *** [Ks 9h 6s] [8s]
+gaiggibeliin: checks 
+Stacy99: checks 
+*** RIVER *** [Ks 9h 6s 8s] [Ac]
+gaiggibeliin: checks 
+Stacy99: checks 
+*** SHOW DOWN ***
+gaiggibeliin: shows [Ts Js] (a flush, King high)
+Stacy99: mucks hand 
+gaiggibeliin collected $44.83 from pot
+*** SUMMARY ***
+Total pot $46.08 | Rake $1.25 
+Board [Ks 9h 6s 8s Ac]
+Seat 1: M1TR4ND1R folded before Flop (didn't bet)
+Seat 2: Stacy99 (button blind) mucked [Ah Kd]
+Seat 3: gaiggibeliin showed [Ts Js] and won ($44.83) with a flush, King high
+
+
+
+PokerStars Hand #196134582478:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:33:32 EET [2019/01/23 16:33:32 ET]
+Table 'Philippina' 6-max Seat #3 is the button
+Seat 1: M1TR4ND1R ($169.52 in chips) 
+Seat 2: Stacy99 ($170.99 in chips) 
+Seat 3: gaiggibeliin ($234.78 in chips) 
+Seat 6: KingNidhog ($150 in chips) 
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gaiggibeliin: posts the ante $1
+KingNidhog: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9c Ks]
+KingNidhog: folds 
+M1TR4ND1R: raises $8 to $9
+Stacy99: folds 
+gaiggibeliin: calls $8
+*** FLOP *** [6c 9d Tc]
+M1TR4ND1R: bets $15.47
+gaiggibeliin: folds 
+Uncalled bet ($15.47) returned to M1TR4ND1R
+M1TR4ND1R collected $20.90 from pot
+M1TR4ND1R: doesn't show hand 
+*** SUMMARY ***
+Total pot $22 | Rake $1.10 
+Board [6c 9d Tc]
+Seat 1: M1TR4ND1R collected ($20.90)
+Seat 2: Stacy99 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin (button blind) folded on the Flop
+Seat 6: KingNidhog folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196134603116:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:33:58 EET [2019/01/23 16:33:58 ET]
+Table 'Philippina' 6-max Seat #6 is the button
+Seat 1: M1TR4ND1R ($180.42 in chips) 
+Seat 2: Stacy99 ($169.99 in chips) 
+Seat 3: gaiggibeliin ($224.78 in chips) 
+Seat 6: KingNidhog ($149 in chips) 
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gaiggibeliin: posts the ante $1
+KingNidhog: posts the ante $1
+KingNidhog: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kc 9s]
+M1TR4ND1R: folds 
+Stacy99: raises $5 to $6
+gaiggibeliin: folds 
+KingNidhog: calls $5
+*** FLOP *** [Td Js Qs]
+Stacy99: bets $11.40
+KingNidhog: folds 
+Uncalled bet ($11.40) returned to Stacy99
+Stacy99 collected $15.20 from pot
+*** SUMMARY ***
+Total pot $16 | Rake $0.80 
+Board [Td Js Qs]
+Seat 1: M1TR4ND1R folded before Flop (didn't bet)
+Seat 2: Stacy99 collected ($15.20)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: KingNidhog (button blind) folded on the Flop
+
+
+
+PokerStars Hand #196134632604:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:34:34 EET [2019/01/23 16:34:34 ET]
+Table 'Philippina' 6-max Seat #1 is the button
+Seat 1: M1TR4ND1R ($179.42 in chips) 
+Seat 2: Stacy99 ($178.19 in chips) 
+Seat 3: gaiggibeliin ($223.78 in chips) 
+Seat 6: KingNidhog ($142 in chips) 
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gaiggibeliin: posts the ante $1
+KingNidhog: posts the ante $1
+M1TR4ND1R: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9s Qc]
+Stacy99: folds 
+gaiggibeliin: folds 
+KingNidhog: calls $1
+M1TR4ND1R: checks 
+*** FLOP *** [Js 7c As]
+KingNidhog: bets $6
+M1TR4ND1R: folds 
+Uncalled bet ($6) returned to KingNidhog
+KingNidhog collected $5.70 from pot
+KingNidhog: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Js 7c As]
+Seat 1: M1TR4ND1R (button blind) folded on the Flop
+Seat 2: Stacy99 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: KingNidhog collected ($5.70)
+
+
+
+PokerStars Hand #196134654811:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:35:02 EET [2019/01/23 16:35:02 ET]
+Table 'Philippina' 6-max Seat #2 is the button
+Seat 1: M1TR4ND1R ($177.42 in chips) 
+Seat 2: Stacy99 ($177.19 in chips) 
+Seat 3: gaiggibeliin ($222.78 in chips) 
+Seat 6: KingNidhog ($145.70 in chips) 
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gaiggibeliin: posts the ante $1
+KingNidhog: posts the ante $1
+Stacy99: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qs 9c]
+gaiggibeliin: folds 
+KingNidhog: calls $1
+M1TR4ND1R: folds 
+Stacy99: checks 
+*** FLOP *** [As Td Kd]
+KingNidhog: checks 
+Stacy99: checks 
+*** TURN *** [As Td Kd] [8c]
+KingNidhog: bets $3
+Stacy99: calls $3
+*** RIVER *** [As Td Kd 8c] [8d]
+KingNidhog: bets $6
+Stacy99: calls $6
+*** SHOW DOWN ***
+KingNidhog: shows [Tc 7c] (two pair, Tens and Eights)
+Stacy99: shows [Ad 6s] (two pair, Aces and Eights)
+Stacy99 collected $22.80 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $1.20 
+Board [As Td Kd 8c 8d]
+Seat 1: M1TR4ND1R folded before Flop (didn't bet)
+Seat 2: Stacy99 (button blind) showed [Ad 6s] and won ($22.80) with two pair, Aces and Eights
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: KingNidhog showed [Tc 7c] and lost with two pair, Tens and Eights
+
+
+
+PokerStars Hand #196134677523:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:35:30 EET [2019/01/23 16:35:30 ET]
+Table 'Philippina' 6-max Seat #3 is the button
+Seat 1: M1TR4ND1R ($176.42 in chips) 
+Seat 2: Stacy99 ($188.99 in chips) 
+Seat 3: gaiggibeliin ($221.78 in chips) 
+Seat 6: KingNidhog ($134.70 in chips) 
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gaiggibeliin: posts the ante $1
+KingNidhog: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [As Kd]
+KingNidhog: folds 
+KingNidhog leaves the table
+M1TR4ND1R: folds 
+Stacy99: calls $1
+gaiggibeliin: raises $9 to $10
+Stacy99: folds 
+Uncalled bet ($9) returned to gaiggibeliin
+gaiggibeliin collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: M1TR4ND1R folded before Flop (didn't bet)
+Seat 2: Stacy99 folded before Flop
+Seat 3: gaiggibeliin (button blind) collected ($6)
+Seat 6: KingNidhog folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196134689900:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:35:46 EET [2019/01/23 16:35:46 ET]
+Table 'Philippina' 6-max Seat #1 is the button
+Seat 1: M1TR4ND1R ($175.42 in chips) 
+Seat 2: Stacy99 ($186.99 in chips) 
+Seat 3: gaiggibeliin ($225.78 in chips) 
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gaiggibeliin: posts the ante $1
+M1TR4ND1R: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ah Ts]
+Stacy99: folds 
+gaiggibeliin: calls $1
+M1TR4ND1R: checks 
+*** FLOP *** [Th 6c 9h]
+gaiggibeliin: checks 
+M1TR4ND1R: checks 
+*** TURN *** [Th 6c 9h] [Jd]
+gaiggibeliin: checks 
+M1TR4ND1R: checks 
+*** RIVER *** [Th 6c 9h Jd] [9s]
+gaiggibeliin: checks 
+M1TR4ND1R: checks 
+*** SHOW DOWN ***
+gaiggibeliin: shows [Ah Ts] (two pair, Tens and Nines)
+M1TR4ND1R: mucks hand 
+gaiggibeliin collected $4.75 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [Th 6c 9h Jd 9s]
+Seat 1: M1TR4ND1R (button blind) mucked [6d Ac]
+Seat 2: Stacy99 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin showed [Ah Ts] and won ($4.75) with two pair, Tens and Nines
+
+
+
+PokerStars Hand #196134718307:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:36:21 EET [2019/01/23 16:36:21 ET]
+Table 'Philippina' 6-max Seat #2 is the button
+Seat 1: M1TR4ND1R ($173.42 in chips) 
+Seat 2: Stacy99 ($185.99 in chips) 
+Seat 3: gaiggibeliin ($228.53 in chips) 
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gaiggibeliin: posts the ante $1
+Stacy99: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Td 6c]
+gaiggibeliin: folds 
+M1TR4ND1R: folds 
+Uncalled bet ($1) returned to Stacy99
+Stacy99 collected $3 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0 
+Seat 1: M1TR4ND1R folded before Flop (didn't bet)
+Seat 2: Stacy99 (button blind) collected ($3)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196134723186:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:36:27 EET [2019/01/23 16:36:27 ET]
+Table 'Philippina' 6-max Seat #3 is the button
+Seat 1: M1TR4ND1R ($172.42 in chips) 
+Seat 2: Stacy99 ($187.99 in chips) 
+Seat 3: gaiggibeliin ($227.53 in chips) 
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ts 7s]
+M1TR4ND1R: raises $8 to $9
+Stacy99: folds 
+gaiggibeliin: calls $8
+*** FLOP *** [9d 7h 8d]
+M1TR4ND1R: checks 
+gaiggibeliin: bets $10.37
+M1TR4ND1R: folds 
+Uncalled bet ($10.37) returned to gaiggibeliin
+gaiggibeliin collected $19.95 from pot
+*** SUMMARY ***
+Total pot $21 | Rake $1.05 
+Board [9d 7h 8d]
+Seat 1: M1TR4ND1R folded on the Flop
+Seat 2: Stacy99 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin (button blind) collected ($19.95)
+
+
+
+PokerStars Hand #196134746890:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:36:57 EET [2019/01/23 16:36:57 ET]
+Table 'Philippina' 6-max Seat #1 is the button
+Seat 1: M1TR4ND1R ($162.42 in chips) 
+Seat 2: Stacy99 ($186.99 in chips) 
+Seat 3: gaiggibeliin ($237.48 in chips) 
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gaiggibeliin: posts the ante $1
+M1TR4ND1R: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kh Kd]
+Stacy99: folds 
+gaiggibeliin: calls $1
+M1TR4ND1R: checks 
+*** FLOP *** [Jh 9s Kc]
+gaiggibeliin: bets $3
+M1TR4ND1R: folds 
+Uncalled bet ($3) returned to gaiggibeliin
+Burzhyj joins the table at seat #6 
+gaiggibeliin collected $4.75 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [Jh 9s Kc]
+Seat 1: M1TR4ND1R (button blind) folded on the Flop
+Seat 2: Stacy99 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin collected ($4.75)
+
+
+
+PokerStars Hand #196134768567:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:37:24 EET [2019/01/23 16:37:24 ET]
+Table 'Philippina' 6-max Seat #2 is the button
+Seat 1: M1TR4ND1R ($160.42 in chips) 
+Seat 2: Stacy99 ($185.99 in chips) 
+Seat 3: gaiggibeliin ($240.23 in chips) 
+Seat 6: Burzhyj ($150 in chips) 
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gaiggibeliin: posts the ante $1
+Burzhyj: posts the ante $1
+Stacy99: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qd 9d]
+gaiggibeliin: calls $1
+Burzhyj: folds 
+M1TR4ND1R: folds 
+Stacy99: checks 
+*** FLOP *** [6h Kh Qs]
+sss457 joins the table at seat #5 
+gaiggibeliin: bets $3.82
+Stacy99: folds 
+Uncalled bet ($3.82) returned to gaiggibeliin
+gaiggibeliin collected $5.70 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [6h Kh Qs]
+Seat 1: M1TR4ND1R folded before Flop (didn't bet)
+Seat 2: Stacy99 (button blind) folded on the Flop
+Seat 3: gaiggibeliin collected ($5.70)
+Seat 6: Burzhyj folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196134791452:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:37:53 EET [2019/01/23 16:37:53 ET]
+Table 'Philippina' 6-max Seat #3 is the button
+Seat 1: M1TR4ND1R ($159.42 in chips) 
+Seat 2: Stacy99 ($183.99 in chips) 
+Seat 3: gaiggibeliin ($243.93 in chips) 
+Seat 5: sss457 ($150 in chips) 
+Seat 6: Burzhyj ($150 in chips) 
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gaiggibeliin: posts the ante $1
+sss457: posts the ante $1
+Burzhyj: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8c Js]
+sss457: folds 
+Burzhyj: raises $4 to $5
+M1TR4ND1R: folds 
+Stacy99: calls $5
+sss457 leaves the table
+gaiggibeliin: calls $4
+*** FLOP *** [9d 9h 7c]
+Burzhyj: checks 
+Mastermandel joins the table at seat #4 
+Stacy99: checks 
+gaiggibeliin: bets $9.88
+Burzhyj: folds 
+Stacy99: calls $9.88
+*** TURN *** [9d 9h 7c] [9c]
+Stacy99: checks 
+gaiggibeliin: checks 
+*** RIVER *** [9d 9h 7c 9c] [8s]
+Stacy99: bets $61
+gaiggibeliin: folds 
+Uncalled bet ($61) returned to Stacy99
+Stacy99 collected $37.77 from pot
+*** SUMMARY ***
+Total pot $39.76 | Rake $1.99 
+Board [9d 9h 7c 9c 8s]
+Seat 1: M1TR4ND1R folded before Flop (didn't bet)
+Seat 2: Stacy99 collected ($37.77)
+Seat 3: gaiggibeliin (button blind) folded on the River
+Seat 5: sss457 folded before Flop (didn't bet)
+Seat 6: Burzhyj folded on the Flop
+
+
+
+PokerStars Hand #196134850080:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:39:07 EET [2019/01/23 16:39:07 ET]
+Table 'Philippina' 6-max Seat #6 is the button
+Seat 1: M1TR4ND1R ($158.42 in chips) 
+Seat 2: Stacy99 ($205.88 in chips) 
+Seat 3: gaiggibeliin ($228.05 in chips) 
+Seat 4: Mastermandel ($150 in chips) 
+Seat 6: Burzhyj ($150 in chips) 
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gaiggibeliin: posts the ante $1
+Mastermandel: posts the ante $1
+Burzhyj: posts the ante $1
+Burzhyj: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6d 9c]
+M1TR4ND1R: calls $1
+Stacy99: folds 
+gaiggibeliin: folds 
+Mastermandel: calls $1
+Burzhyj: checks 
+*** FLOP *** [Ah Ts Kd]
+M1TR4ND1R: checks 
+Mastermandel: checks 
+Burzhyj: checks 
+*** TURN *** [Ah Ts Kd] [As]
+M1TR4ND1R: checks 
+Mastermandel: checks 
+Burzhyj: checks 
+*** RIVER *** [Ah Ts Kd As] [Tc]
+M1TR4ND1R: checks 
+Mastermandel: checks 
+Burzhyj: bets $3.80
+M1TR4ND1R: folds 
+Mastermandel: folds 
+Uncalled bet ($3.80) returned to Burzhyj
+Burzhyj collected $7.60 from pot
+Burzhyj: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [Ah Ts Kd As Tc]
+Seat 1: M1TR4ND1R folded on the River
+Seat 2: Stacy99 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: Mastermandel folded on the River
+Seat 6: Burzhyj (button blind) collected ($7.60)
+
+
+
+PokerStars Hand #196134903551:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:40:14 EET [2019/01/23 16:40:14 ET]
+Table 'Philippina' 6-max Seat #1 is the button
+Seat 1: M1TR4ND1R ($156.42 in chips) 
+Seat 2: Stacy99 ($204.88 in chips) 
+Seat 3: gaiggibeliin ($227.05 in chips) 
+Seat 4: Mastermandel ($148 in chips) 
+Seat 6: Burzhyj ($155.60 in chips) 
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gaiggibeliin: posts the ante $1
+Mastermandel: posts the ante $1
+Burzhyj: posts the ante $1
+M1TR4ND1R: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6d Kc]
+Stacy99: folds 
+gaiggibeliin: folds 
+Mastermandel: raises $7 to $8
+Burzhyj: folds 
+M1TR4ND1R: calls $7
+*** FLOP *** [Jd Qd 9h]
+Mastermandel: checks 
+M1TR4ND1R: bets $14.76
+Mastermandel: folds 
+Uncalled bet ($14.76) returned to M1TR4ND1R
+M1TR4ND1R collected $19.95 from pot
+M1TR4ND1R: doesn't show hand 
+*** SUMMARY ***
+Total pot $21 | Rake $1.05 
+Board [Jd Qd 9h]
+Seat 1: M1TR4ND1R (button blind) collected ($19.95)
+Seat 2: Stacy99 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: Mastermandel folded on the Flop
+Seat 6: Burzhyj folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196134935514:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:40:54 EET [2019/01/23 16:40:54 ET]
+Table 'Philippina' 6-max Seat #2 is the button
+Seat 1: M1TR4ND1R ($167.37 in chips) 
+Seat 2: Stacy99 ($203.88 in chips) 
+Seat 3: gaiggibeliin ($226.05 in chips) 
+Seat 4: Mastermandel ($139 in chips) 
+Seat 6: Burzhyj ($154.60 in chips) 
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gaiggibeliin: posts the ante $1
+Mastermandel: posts the ante $1
+Burzhyj: posts the ante $1
+Stacy99: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [As 8s]
+gaiggibeliin: calls $1
+Mastermandel: calls $1
+Burzhyj: folds 
+M1TR4ND1R: folds 
+Stacy99: checks 
+*** FLOP *** [Jd 8h 6d]
+gaiggibeliin: bets $5.09
+Mastermandel: calls $5.09
+Stacy99: folds 
+*** TURN *** [Jd 8h 6d] [7h]
+gaiggibeliin: checks 
+Mastermandel: bets $16.26
+gaiggibeliin: folds 
+Uncalled bet ($16.26) returned to Mastermandel
+Mastermandel collected $17.27 from pot
+*** SUMMARY ***
+Total pot $18.18 | Rake $0.91 
+Board [Jd 8h 6d 7h]
+Seat 1: M1TR4ND1R folded before Flop (didn't bet)
+Seat 2: Stacy99 (button blind) folded on the Flop
+Seat 3: gaiggibeliin folded on the Turn
+Seat 4: Mastermandel collected ($17.27)
+Seat 6: Burzhyj folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196134986126:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:41:55 EET [2019/01/23 16:41:55 ET]
+Table 'Philippina' 6-max Seat #3 is the button
+Seat 1: M1TR4ND1R ($166.37 in chips) 
+Seat 2: Stacy99 ($201.88 in chips) 
+Seat 3: gaiggibeliin ($218.96 in chips) 
+Seat 4: Mastermandel ($149.18 in chips) 
+Seat 6: Burzhyj ($153.60 in chips) 
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gaiggibeliin: posts the ante $1
+Mastermandel: posts the ante $1
+Burzhyj: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8s Kd]
+Mastermandel: folds 
+Burzhyj: folds 
+M1TR4ND1R: raises $8 to $9
+Stacy99: raises $24 to $33
+gaiggibeliin: folds 
+M1TR4ND1R: calls $24
+*** FLOP *** [Tc Jd 7s]
+M1TR4ND1R: checks 
+Stacy99: checks 
+*** TURN *** [Tc Jd 7s] [Qh]
+M1TR4ND1R: checks 
+Stacy99: bets $34.63
+M1TR4ND1R: folds 
+Uncalled bet ($34.63) returned to Stacy99
+Stacy99 collected $69.25 from pot
+*** SUMMARY ***
+Total pot $72 | Rake $2.75 
+Board [Tc Jd 7s Qh]
+Seat 1: M1TR4ND1R folded on the Turn
+Seat 2: Stacy99 collected ($69.25)
+Seat 3: gaiggibeliin (button blind) folded before Flop
+Seat 4: Mastermandel folded before Flop (didn't bet)
+Seat 6: Burzhyj folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196135010232:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:42:25 EET [2019/01/23 16:42:25 ET]
+Table 'Philippina' 6-max Seat #4 is the button
+Seat 1: M1TR4ND1R ($150 in chips) 
+Seat 2: Stacy99 ($237.13 in chips) 
+Seat 3: gaiggibeliin ($216.96 in chips) 
+Seat 4: Mastermandel ($148.18 in chips) 
+Seat 6: Burzhyj ($152.60 in chips) 
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gaiggibeliin: posts the ante $1
+Mastermandel: posts the ante $1
+Burzhyj: posts the ante $1
+Mastermandel: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ah As]
+Burzhyj: folds 
+M1TR4ND1R: calls $1
+Stacy99: folds 
+gaiggibeliin: raises $8 to $9
+Mastermandel: calls $8
+M1TR4ND1R: calls $8
+*** FLOP *** [6d 7s Qc]
+M1TR4ND1R: checks 
+gaiggibeliin: bets $20.37
+Mastermandel: folds 
+M1TR4ND1R: folds 
+Uncalled bet ($20.37) returned to gaiggibeliin
+gaiggibeliin collected $30.40 from pot
+*** SUMMARY ***
+Total pot $32 | Rake $1.60 
+Board [6d 7s Qc]
+Seat 1: M1TR4ND1R folded on the Flop
+Seat 2: Stacy99 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin collected ($30.40)
+Seat 4: Mastermandel (button blind) folded on the Flop
+Seat 6: Burzhyj folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196135066331:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:43:36 EET [2019/01/23 16:43:36 ET]
+Table 'Philippina' 6-max Seat #6 is the button
+Seat 1: M1TR4ND1R ($150 in chips) 
+Seat 2: Stacy99 ($236.13 in chips) 
+Seat 3: gaiggibeliin ($237.36 in chips) 
+Seat 4: Mastermandel ($138.18 in chips) 
+Seat 6: Burzhyj ($151.60 in chips) 
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gaiggibeliin: posts the ante $1
+Mastermandel: posts the ante $1
+Burzhyj: posts the ante $1
+Burzhyj: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kc Jh]
+M1TR4ND1R: folds 
+Stacy99: folds 
+gaiggibeliin: calls $1
+Mastermandel: folds 
+Burzhyj: checks 
+*** FLOP *** [7c 9c Js]
+gaiggibeliin: checks 
+Burzhyj: checks 
+*** TURN *** [7c 9c Js] [Ac]
+gaiggibeliin: checks 
+Burzhyj: checks 
+*** RIVER *** [7c 9c Js Ac] [8h]
+gaiggibeliin: checks 
+Burzhyj: checks 
+*** SHOW DOWN ***
+gaiggibeliin: shows [Kc Jh] (a pair of Jacks)
+Burzhyj: shows [8c 8d] (three of a kind, Eights)
+Burzhyj collected $6.65 from pot
+*** SUMMARY ***
+Total pot $7 | Rake $0.35 
+Board [7c 9c Js Ac 8h]
+Seat 1: M1TR4ND1R folded before Flop (didn't bet)
+Seat 2: Stacy99 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin showed [Kc Jh] and lost with a pair of Jacks
+Seat 4: Mastermandel folded before Flop (didn't bet)
+Seat 6: Burzhyj (button blind) showed [8c 8d] and won ($6.65) with three of a kind, Eights
+
+
+
+PokerStars Hand #196135093901:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:44:11 EET [2019/01/23 16:44:11 ET]
+Table 'Philippina' 6-max Seat #1 is the button
+Seat 1: M1TR4ND1R ($150 in chips) 
+Seat 2: Stacy99 ($235.13 in chips) 
+Seat 3: gaiggibeliin ($235.36 in chips) 
+Seat 4: Mastermandel ($137.18 in chips) 
+Seat 6: Burzhyj ($156.25 in chips) 
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gaiggibeliin: posts the ante $1
+Mastermandel: posts the ante $1
+Burzhyj: posts the ante $1
+M1TR4ND1R: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Td 9h]
+Stacy99: folds 
+gaiggibeliin: calls $1
+Mastermandel: raises $8 to $9
+Burzhyj: folds 
+M1TR4ND1R: folds 
+gaiggibeliin: calls $8
+*** FLOP *** [Kh 7c Qs]
+gaiggibeliin: checks 
+Mastermandel: checks 
+*** TURN *** [Kh 7c Qs] [6h]
+gaiggibeliin: bets $24
+Mastermandel: calls $24
+*** RIVER *** [Kh 7c Qs 6h] [7h]
+gaiggibeliin: checks 
+Mastermandel: bets $69
+gaiggibeliin: folds 
+Uncalled bet ($69) returned to Mastermandel
+Mastermandel collected $69.25 from pot
+sjohnny200 joins the table at seat #5 
+*** SUMMARY ***
+Total pot $72 | Rake $2.75 
+Board [Kh 7c Qs 6h 7h]
+Seat 1: M1TR4ND1R (button blind) folded before Flop
+Seat 2: Stacy99 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin folded on the River
+Seat 4: Mastermandel collected ($69.25)
+Seat 6: Burzhyj folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196135176245:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:45:55 EET [2019/01/23 16:45:55 ET]
+Table 'Philippina' 6-max Seat #2 is the button
+Seat 1: M1TR4ND1R ($150 in chips) 
+Seat 2: Stacy99 ($234.13 in chips) 
+Seat 3: gaiggibeliin ($201.36 in chips) 
+Seat 4: Mastermandel ($172.43 in chips) 
+Seat 5: sjohnny200 ($150 in chips) 
+Seat 6: Burzhyj ($155.25 in chips) 
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gaiggibeliin: posts the ante $1
+Mastermandel: posts the ante $1
+sjohnny200: posts the ante $1
+Burzhyj: posts the ante $1
+Stacy99: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kd Ah]
+gaiggibeliin: calls $1
+Mastermandel: folds 
+sjohnny200: raises $9 to $10
+Burzhyj: folds 
+M1TR4ND1R: folds 
+Stacy99: folds 
+gaiggibeliin: raises $190.36 to $200.36 and is all-in
+sjohnny200: calls $139 and is all-in
+Uncalled bet ($51.36) returned to gaiggibeliin
+*** FLOP *** [Kh Qd 8h]
+*** TURN *** [Kh Qd 8h] [Th]
+*** RIVER *** [Kh Qd 8h Th] [8s]
+*** SHOW DOWN ***
+gaiggibeliin: shows [Kd Ah] (two pair, Kings and Eights)
+sjohnny200: shows [7c 7s] (two pair, Eights and Sevens)
+gaiggibeliin collected $302.25 from pot
+*** SUMMARY ***
+Total pot $305 | Rake $2.75 
+Board [Kh Qd 8h Th 8s]
+Seat 1: M1TR4ND1R folded before Flop (didn't bet)
+Seat 2: Stacy99 (button blind) folded before Flop
+Seat 3: gaiggibeliin showed [Kd Ah] and won ($302.25) with two pair, Kings and Eights
+Seat 4: Mastermandel folded before Flop (didn't bet)
+Seat 5: sjohnny200 showed [7c 7s] and lost with two pair, Eights and Sevens
+Seat 6: Burzhyj folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196135197344:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:46:22 EET [2019/01/23 16:46:22 ET]
+Table 'Philippina' 6-max Seat #3 is the button
+Seat 1: M1TR4ND1R ($150 in chips) 
+Seat 2: Stacy99 ($232.13 in chips) 
+Seat 3: gaiggibeliin ($353.61 in chips) 
+Seat 4: Mastermandel ($171.43 in chips) 
+Seat 6: Burzhyj ($154.25 in chips) 
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gaiggibeliin: posts the ante $1
+Mastermandel: posts the ante $1
+Burzhyj: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jh 7d]
+Mastermandel: folds 
+Burzhyj: raises $2 to $3
+M1TR4ND1R: folds 
+Stacy99: raises $12 to $15
+gaiggibeliin: folds 
+Burzhyj: raises $138.25 to $153.25 and is all-in
+Stacy99: folds 
+Uncalled bet ($138.25) returned to Burzhyj
+Burzhyj collected $36 from pot
+Burzhyj: doesn't show hand 
+*** SUMMARY ***
+Total pot $36 | Rake $0 
+Seat 1: M1TR4ND1R folded before Flop (didn't bet)
+Seat 2: Stacy99 folded before Flop
+Seat 3: gaiggibeliin (button blind) folded before Flop
+Seat 4: Mastermandel folded before Flop (didn't bet)
+Seat 6: Burzhyj collected ($36)
+
+
+
+PokerStars Hand #196135234842:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:47:09 EET [2019/01/23 16:47:09 ET]
+Table 'Philippina' 6-max Seat #4 is the button
+Seat 1: M1TR4ND1R ($150 in chips) 
+Seat 2: Stacy99 ($216.13 in chips) 
+Seat 3: gaiggibeliin ($351.61 in chips) 
+Seat 4: Mastermandel ($170.43 in chips) 
+Seat 5: sjohnny200 ($150 in chips) 
+Seat 6: Burzhyj ($174.25 in chips) 
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gaiggibeliin: posts the ante $1
+Mastermandel: posts the ante $1
+sjohnny200: posts the ante $1
+Burzhyj: posts the ante $1
+Mastermandel: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ts 8c]
+sjohnny200: folds 
+Burzhyj: folds 
+M1TR4ND1R: folds 
+Stacy99: folds 
+gaiggibeliin: calls $1
+Mastermandel: checks 
+*** FLOP *** [7c Kh Qh]
+gaiggibeliin: bets $3.95
+Mastermandel: calls $3.95
+*** TURN *** [7c Kh Qh] [Qd]
+gaiggibeliin: checks 
+Mastermandel: checks 
+*** RIVER *** [7c Kh Qh Qd] [Jh]
+gaiggibeliin: bets $10.12
+Mastermandel: folds 
+Uncalled bet ($10.12) returned to gaiggibeliin
+gaiggibeliin collected $15.10 from pot
+*** SUMMARY ***
+Total pot $15.90 | Rake $0.80 
+Board [7c Kh Qh Qd Jh]
+Seat 1: M1TR4ND1R folded before Flop (didn't bet)
+Seat 2: Stacy99 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin collected ($15.10)
+Seat 4: Mastermandel (button blind) folded on the River
+Seat 5: sjohnny200 folded before Flop (didn't bet)
+Seat 6: Burzhyj folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196135300101:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:48:31 EET [2019/01/23 16:48:31 ET]
+Table 'Philippina' 6-max Seat #5 is the button
+Seat 1: M1TR4ND1R ($150 in chips) 
+Seat 2: Stacy99 ($215.13 in chips) 
+Seat 3: gaiggibeliin ($360.76 in chips) 
+Seat 4: Mastermandel ($164.48 in chips) 
+Seat 5: sjohnny200 ($149 in chips) 
+Seat 6: Burzhyj ($173.25 in chips) 
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gaiggibeliin: posts the ante $1
+Mastermandel: posts the ante $1
+sjohnny200: posts the ante $1
+Burzhyj: posts the ante $1
+sjohnny200: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7d Jh]
+Burzhyj: folds 
+M1TR4ND1R: folds 
+Stacy99: raises $8 to $9
+gaiggibeliin: folds 
+Mastermandel: calls $9
+sjohnny200: calls $8
+*** FLOP *** [7s Qc Jd]
+Stacy99: bets $23.51
+Mastermandel: folds 
+sjohnny200: folds 
+Uncalled bet ($23.51) returned to Stacy99
+Stacy99 collected $31.35 from pot
+*** SUMMARY ***
+Total pot $33 | Rake $1.65 
+Board [7s Qc Jd]
+Seat 1: M1TR4ND1R folded before Flop (didn't bet)
+Seat 2: Stacy99 collected ($31.35)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: Mastermandel folded on the Flop
+Seat 5: sjohnny200 (button blind) folded on the Flop
+Seat 6: Burzhyj folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196135347778:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:49:31 EET [2019/01/23 16:49:31 ET]
+Table 'Philippina' 6-max Seat #6 is the button
+Seat 1: M1TR4ND1R ($150 in chips) 
+Seat 2: Stacy99 ($236.48 in chips) 
+Seat 3: gaiggibeliin ($359.76 in chips) 
+Seat 4: Mastermandel ($154.48 in chips) 
+Seat 5: sjohnny200 ($139 in chips) 
+Seat 6: Burzhyj ($172.25 in chips) 
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gaiggibeliin: posts the ante $1
+Mastermandel: posts the ante $1
+sjohnny200: posts the ante $1
+Burzhyj: posts the ante $1
+Burzhyj: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9s 7s]
+M1TR4ND1R: folds 
+Stacy99: folds 
+gaiggibeliin: calls $1
+Mastermandel: calls $1
+sjohnny200: raises $6 to $7
+Burzhyj: folds 
+gaiggibeliin: calls $6
+Mastermandel: calls $6
+*** FLOP *** [Ks Kh Qc]
+gaiggibeliin: checks 
+Mastermandel: checks 
+sjohnny200: checks 
+*** TURN *** [Ks Kh Qc] [As]
+gaiggibeliin: checks 
+Mastermandel: checks 
+sjohnny200: checks 
+*** RIVER *** [Ks Kh Qc As] [8d]
+gaiggibeliin: checks 
+Burzhyj leaves the table
+Mastermandel: checks 
+sjohnny200: checks 
+*** SHOW DOWN ***
+gaiggibeliin: shows [9s 7s] (a pair of Kings)
+Mastermandel: shows [Jd Qh] (two pair, Kings and Queens)
+sjohnny200: mucks hand 
+Mastermandel collected $26.60 from pot
+*** SUMMARY ***
+Total pot $28 | Rake $1.40 
+Board [Ks Kh Qc As 8d]
+Seat 1: M1TR4ND1R folded before Flop (didn't bet)
+Seat 2: Stacy99 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin showed [9s 7s] and lost with a pair of Kings
+Seat 4: Mastermandel showed [Jd Qh] and won ($26.60) with two pair, Kings and Queens
+Seat 5: sjohnny200 mucked [9c 9h]
+Seat 6: Burzhyj (button blind) folded before Flop
+
+
+
+PokerStars Hand #196135412941:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:50:54 EET [2019/01/23 16:50:54 ET]
+Table 'Philippina' 6-max Seat #1 is the button
+Seat 1: M1TR4ND1R ($150 in chips) 
+Seat 2: Stacy99 ($235.48 in chips) 
+Seat 3: gaiggibeliin ($351.76 in chips) 
+Seat 4: Mastermandel ($173.08 in chips) 
+Seat 5: sjohnny200 ($131 in chips) 
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gaiggibeliin: posts the ante $1
+Mastermandel: posts the ante $1
+sjohnny200: posts the ante $1
+M1TR4ND1R: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9d 9s]
+Stacy99: folds 
+gaiggibeliin: calls $1
+Mastermandel: raises $8 to $9
+sjohnny200: folds 
+M1TR4ND1R: folds 
+gaiggibeliin: calls $8
+*** FLOP *** [9c Ac Qs]
+gaiggibeliin: checks 
+Mastermandel: bets $12.31
+gaiggibeliin: raises $31.77 to $44.08
+Mastermandel: calls $31.77
+*** TURN *** [9c Ac Qs] [7h]
+gaiggibeliin: bets $297.68 and is all-in
+Mastermandel: calls $119 and is all-in
+Uncalled bet ($178.68) returned to gaiggibeliin
+*** RIVER *** [9c Ac Qs 7h] [Kc]
+*** SHOW DOWN ***
+gaiggibeliin: shows [9d 9s] (three of a kind, Nines)
+Mastermandel: shows [As Jh] (a pair of Aces)
+gaiggibeliin collected $347.41 from pot
+*** SUMMARY ***
+Total pot $350.16 | Rake $2.75 
+Board [9c Ac Qs 7h Kc]
+Seat 1: M1TR4ND1R (button blind) folded before Flop
+Seat 2: Stacy99 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin showed [9d 9s] and won ($347.41) with three of a kind, Nines
+Seat 4: Mastermandel showed [As Jh] and lost with a pair of Aces
+Seat 5: sjohnny200 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196135480758:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:52:20 EET [2019/01/23 16:52:20 ET]
+Table 'Philippina' 6-max Seat #2 is the button
+Seat 1: M1TR4ND1R ($150 in chips) 
+Seat 2: Stacy99 ($234.48 in chips) 
+Seat 3: gaiggibeliin ($526.09 in chips) 
+Seat 4: Mastermandel ($150 in chips) 
+Seat 5: sjohnny200 ($150 in chips) 
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gaiggibeliin: posts the ante $1
+Mastermandel: posts the ante $1
+sjohnny200: posts the ante $1
+Stacy99: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qd Ts]
+gaiggibeliin: folds 
+Mastermandel: folds 
+Mastermandel leaves the table
+sjohnny200: folds 
+M1TR4ND1R: calls $1
+Stacy99: raises $7 to $8
+M1TR4ND1R: calls $7
+*** FLOP *** [7d 6d 7s]
+M1TR4ND1R: checks 
+Stacy99: bets $9.98
+MadStarfish joins the table at seat #6 
+M1TR4ND1R: folds 
+Uncalled bet ($9.98) returned to Stacy99
+Stacy99 collected $19.95 from pot
+*** SUMMARY ***
+Total pot $21 | Rake $1.05 
+Board [7d 6d 7s]
+Seat 1: M1TR4ND1R folded on the Flop
+Seat 2: Stacy99 (button blind) collected ($19.95)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: Mastermandel folded before Flop (didn't bet)
+Seat 5: sjohnny200 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196135514707:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:53:04 EET [2019/01/23 16:53:04 ET]
+Table 'Philippina' 6-max Seat #3 is the button
+Seat 1: M1TR4ND1R ($150 in chips) 
+Seat 2: Stacy99 ($245.43 in chips) 
+Seat 3: gaiggibeliin ($525.09 in chips) 
+Seat 5: sjohnny200 ($149 in chips) 
+Seat 6: MadStarfish ($150 in chips) 
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gaiggibeliin: posts the ante $1
+sjohnny200: posts the ante $1
+MadStarfish: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ks Th]
+sjohnny200: raises $4 to $5
+MadStarfish: calls $5
+M1TR4ND1R: folds 
+Stacy99: folds 
+gaiggibeliin: calls $4
+*** FLOP *** [Ts Jd 8c]
+sjohnny200: bets $14.25
+MadStarfish: calls $14.25
+gaiggibeliin: folds 
+*** TURN *** [Ts Jd 8c] [7h]
+sjohnny200: checks 
+MadStarfish: bets $28
+sjohnny200: calls $28
+*** RIVER *** [Ts Jd 8c 7h] [8s]
+sjohnny200: checks 
+MadStarfish: checks 
+*** SHOW DOWN ***
+sjohnny200: shows [Kd Qd] (a pair of Eights)
+MadStarfish: shows [Tc Ac] (two pair, Tens and Eights)
+MadStarfish collected $101.75 from pot
+*** SUMMARY ***
+Total pot $104.50 | Rake $2.75 
+Board [Ts Jd 8c 7h 8s]
+Seat 1: M1TR4ND1R folded before Flop (didn't bet)
+Seat 2: Stacy99 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin (button blind) folded on the Flop
+Seat 5: sjohnny200 showed [Kd Qd] and lost with a pair of Eights
+Seat 6: MadStarfish showed [Tc Ac] and won ($101.75) with two pair, Tens and Eights
+
+
+
+PokerStars Hand #196135561067:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:54:04 EET [2019/01/23 16:54:04 ET]
+Table 'Philippina' 6-max Seat #5 is the button
+Seat 1: M1TR4ND1R ($150 in chips) 
+Seat 2: Stacy99 ($244.43 in chips) 
+Seat 3: gaiggibeliin ($519.09 in chips) 
+Seat 5: sjohnny200 ($100.75 in chips) 
+Seat 6: MadStarfish ($203.50 in chips) 
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gaiggibeliin: posts the ante $1
+sjohnny200: posts the ante $1
+MadStarfish: posts the ante $1
+sjohnny200: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7h 9h]
+MadStarfish: raises $4 to $5
+M1TR4ND1R: folds 
+Stacy99: calls $5
+gaiggibeliin: calls $5
+sjohnny200: calls $4
+*** FLOP *** [6h Jh Kh]
+MadStarfish: checks 
+Stacy99: checks 
+gaiggibeliin: bets $14
+sjohnny200: folds 
+MadStarfish: folds 
+sjohnny200 leaves the table
+Stacy99: folds 
+Uncalled bet ($14) returned to gaiggibeliin
+gaiggibeliin collected $23.75 from pot
+*** SUMMARY ***
+Total pot $25 | Rake $1.25 
+Board [6h Jh Kh]
+Seat 1: M1TR4ND1R folded before Flop (didn't bet)
+Seat 2: Stacy99 folded on the Flop
+Seat 3: gaiggibeliin collected ($23.75)
+Seat 5: sjohnny200 (button blind) folded on the Flop
+Seat 6: MadStarfish folded on the Flop
+
+
+
+PokerStars Hand #196135608258:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:55:04 EET [2019/01/23 16:55:04 ET]
+Table 'Philippina' 6-max Seat #6 is the button
+Seat 1: M1TR4ND1R ($150 in chips) 
+Seat 2: Stacy99 ($238.43 in chips) 
+Seat 3: gaiggibeliin ($536.84 in chips) 
+Seat 6: MadStarfish ($197.50 in chips) 
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gaiggibeliin: posts the ante $1
+MadStarfish: posts the ante $1
+MadStarfish: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ac Qh]
+M1TR4ND1R: folds 
+Stacy99: raises $6 to $7
+gaiggibeliin: calls $7
+MadStarfish: raises $35 to $42
+Stacy99: folds 
+gaiggibeliin: folds 
+Uncalled bet ($35) returned to MadStarfish
+MadStarfish collected $25 from pot
+MadStarfish: doesn't show hand 
+*** SUMMARY ***
+Total pot $25 | Rake $0 
+Seat 1: M1TR4ND1R folded before Flop (didn't bet)
+Seat 2: Stacy99 folded before Flop
+Seat 3: gaiggibeliin folded before Flop
+Seat 6: MadStarfish (button blind) collected ($25)
+
+
+
+PokerStars Hand #196135637605:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:55:53 EET [2019/01/23 16:55:53 ET]
+Table 'Philippina' 6-max Seat #1 is the button
+Seat 1: M1TR4ND1R ($150 in chips) 
+Seat 2: Stacy99 ($230.43 in chips) 
+Seat 3: gaiggibeliin ($528.84 in chips) 
+Seat 6: MadStarfish ($214.50 in chips) 
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gaiggibeliin: posts the ante $1
+MadStarfish: posts the ante $1
+M1TR4ND1R: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9c Js]
+Stacy99: folds 
+gaiggibeliin: folds 
+MadStarfish: raises $4 to $5
+M1TR4ND1R: folds 
+Uncalled bet ($4) returned to MadStarfish
+MadStarfish collected $6 from pot
+MadStarfish: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: M1TR4ND1R (button blind) folded before Flop
+Seat 2: Stacy99 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: MadStarfish collected ($6)
+
+
+
+PokerStars Hand #196135644100:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:56:04 EET [2019/01/23 16:56:04 ET]
+Table 'Philippina' 6-max Seat #2 is the button
+Seat 1: M1TR4ND1R ($150 in chips) 
+Seat 2: Stacy99 ($229.43 in chips) 
+Seat 3: gaiggibeliin ($527.84 in chips) 
+Seat 6: MadStarfish ($218.50 in chips) 
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gaiggibeliin: posts the ante $1
+MadStarfish: posts the ante $1
+Stacy99: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jc Kh]
+gaiggibeliin: calls $1
+MadStarfish: raises $8 to $9
+M1TR4ND1R: folds 
+Stacy99: folds 
+gaiggibeliin: calls $8
+*** FLOP *** [Td As 6d]
+gaiggibeliin: checks 
+MadStarfish: bets $14
+gaiggibeliin: folds 
+Uncalled bet ($14) returned to MadStarfish
+MadStarfish collected $21.85 from pot
+MadStarfish: doesn't show hand 
+*** SUMMARY ***
+Total pot $23 | Rake $1.15 
+Board [Td As 6d]
+Seat 1: M1TR4ND1R folded before Flop (didn't bet)
+Seat 2: Stacy99 (button blind) folded before Flop
+Seat 3: gaiggibeliin folded on the Flop
+Seat 6: MadStarfish collected ($21.85)
+
+
+
+PokerStars Hand #196135671115:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:56:48 EET [2019/01/23 16:56:48 ET]
+Table 'Philippina' 6-max Seat #3 is the button
+Seat 1: M1TR4ND1R ($150 in chips) 
+Seat 2: Stacy99 ($227.43 in chips) 
+Seat 3: gaiggibeliin ($517.84 in chips) 
+Seat 6: MadStarfish ($230.35 in chips) 
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gaiggibeliin: posts the ante $1
+MadStarfish: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8c 6c]
+MadStarfish: raises $4 to $5
+M1TR4ND1R: raises $14 to $19
+Stacy99: folds 
+gaiggibeliin: folds 
+MadStarfish: folds 
+Uncalled bet ($14) returned to M1TR4ND1R
+M1TR4ND1R collected $15 from pot
+M1TR4ND1R: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: M1TR4ND1R collected ($15)
+Seat 2: Stacy99 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin (button blind) folded before Flop
+Seat 6: MadStarfish folded before Flop
+
+
+
+PokerStars Hand #196135683049:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:57:08 EET [2019/01/23 16:57:08 ET]
+Table 'Philippina' 6-max Seat #6 is the button
+Seat 1: M1TR4ND1R ($159 in chips) 
+Seat 2: Stacy99 ($226.43 in chips) 
+Seat 3: gaiggibeliin ($515.84 in chips) 
+Seat 6: MadStarfish ($224.35 in chips) 
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gaiggibeliin: posts the ante $1
+MadStarfish: posts the ante $1
+MadStarfish: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ks 6d]
+M1TR4ND1R: folds 
+Stacy99: folds 
+gaiggibeliin: folds 
+Uncalled bet ($1) returned to MadStarfish
+MadStarfish collected $4 from pot
+MadStarfish: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 1: M1TR4ND1R folded before Flop (didn't bet)
+Seat 2: Stacy99 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: MadStarfish (button blind) collected ($4)
+
+
+
+PokerStars Hand #196135686544:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:57:14 EET [2019/01/23 16:57:14 ET]
+Table 'Philippina' 6-max Seat #1 is the button
+Seat 1: M1TR4ND1R ($158 in chips) 
+Seat 2: Stacy99 ($225.43 in chips) 
+Seat 3: gaiggibeliin ($514.84 in chips) 
+Seat 6: MadStarfish ($227.35 in chips) 
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gaiggibeliin: posts the ante $1
+MadStarfish: posts the ante $1
+M1TR4ND1R: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6d Ah]
+Stacy99: folds 
+gaiggibeliin: folds 
+MadStarfish: raises $4 to $5
+M1TR4ND1R: calls $4
+*** FLOP *** [Th Jh Qd]
+MadStarfish: bets $8
+M1TR4ND1R: calls $8
+*** TURN *** [Th Jh Qd] [Qs]
+MadStarfish: bets $18
+M1TR4ND1R: folds 
+Uncalled bet ($18) returned to MadStarfish
+MadStarfish collected $28.75 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $1.25 
+Board [Th Jh Qd Qs]
+Seat 1: M1TR4ND1R (button blind) folded on the Turn
+Seat 2: Stacy99 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: MadStarfish collected ($28.75)
+
+
+
+PokerStars Hand #196135724149:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:58:16 EET [2019/01/23 16:58:16 ET]
+Table 'Philippina' 6-max Seat #2 is the button
+Seat 1: M1TR4ND1R ($150 in chips) 
+Seat 2: Stacy99 ($224.43 in chips) 
+Seat 3: gaiggibeliin ($513.84 in chips) 
+Seat 6: MadStarfish ($242.10 in chips) 
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gaiggibeliin: posts the ante $1
+MadStarfish: posts the ante $1
+Stacy99: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9c Kh]
+gaiggibeliin: folds 
+MadStarfish: folds 
+M1TR4ND1R: calls $1
+Stacy99: raises $6 to $7
+M1TR4ND1R: calls $6
+*** FLOP *** [Qs 7s 9d]
+M1TR4ND1R: checks 
+Stacy99: bets $8.55
+M1TR4ND1R: calls $8.55
+*** TURN *** [Qs 7s 9d] [Jc]
+M1TR4ND1R: checks 
+MadStarfish is disconnected 
+Stacy99: checks 
+*** RIVER *** [Qs 7s 9d Jc] [Js]
+M1TR4ND1R: checks 
+Stacy99: bets $16.93
+M1TR4ND1R: folds 
+Uncalled bet ($16.93) returned to Stacy99
+Stacy99 collected $33.85 from pot
+*** SUMMARY ***
+Total pot $35.10 | Rake $1.25 
+Board [Qs 7s 9d Jc Js]
+Seat 1: M1TR4ND1R folded on the River
+Seat 2: Stacy99 (button blind) collected ($33.85)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: MadStarfish folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196135753325:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:59:05 EET [2019/01/23 16:59:05 ET]
+Table 'Philippina' 6-max Seat #3 is the button
+Seat 1: M1TR4ND1R ($150 in chips) 
+Seat 2: Stacy99 ($241.73 in chips) 
+Seat 3: gaiggibeliin ($512.84 in chips) 
+Seat 6: MadStarfish ($241.10 in chips) 
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gaiggibeliin: posts the ante $1
+MadStarfish: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jd Jh]
+MadStarfish is connected 
+MadStarfish: raises $4 to $5
+M1TR4ND1R: calls $5
+Stacy99: calls $5
+gaiggibeliin: raises $32 to $37
+MadStarfish: folds 
+M1TR4ND1R: calls $32
+Stacy99: folds 
+*** FLOP *** [Qs Ah Qh]
+M1TR4ND1R: checks 
+gaiggibeliin: checks 
+*** TURN *** [Qs Ah Qh] [Kd]
+M1TR4ND1R: checks 
+gaiggibeliin: checks 
+*** RIVER *** [Qs Ah Qh Kd] [Tc]
+M1TR4ND1R: checks 
+gaiggibeliin: bets $24
+M1TR4ND1R: folds 
+Uncalled bet ($24) returned to gaiggibeliin
+gaiggibeliin collected $86.75 from pot
+M1TR4ND1R leaves the table
+*** SUMMARY ***
+Total pot $88 | Rake $1.25 
+Board [Qs Ah Qh Kd Tc]
+Seat 1: M1TR4ND1R folded on the River
+Seat 2: Stacy99 folded before Flop
+Seat 3: gaiggibeliin (button blind) collected ($86.75)
+Seat 6: MadStarfish folded before Flop
+
+
+
+PokerStars Hand #196135823464:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:00:47 EET [2019/01/23 17:00:47 ET]
+Table 'Philippina' 6-max Seat #6 is the button
+Seat 2: Stacy99 ($235.73 in chips) 
+Seat 3: gaiggibeliin ($561.59 in chips) 
+Seat 6: MadStarfish ($235.10 in chips) 
+Stacy99: posts the ante $1
+gaiggibeliin: posts the ante $1
+MadStarfish: posts the ante $1
+MadStarfish: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kc Qh]
+Stacy99: raises $5 to $6
+gaiggibeliin: calls $6
+MadStarfish: calls $5
+*** FLOP *** [7h Qs 8h]
+Stacy99: checks 
+gaiggibeliin: checks 
+MadStarfish: checks 
+*** TURN *** [7h Qs 8h] [6d]
+Stacy99: checks 
+gaiggibeliin: checks 
+MadStarfish: bets $12
+Stacy99: folds 
+gaiggibeliin: folds 
+Uncalled bet ($12) returned to MadStarfish
+MadStarfish collected $19.95 from pot
+MadStarfish: doesn't show hand 
+*** SUMMARY ***
+Total pot $21 | Rake $1.05 
+Board [7h Qs 8h 6d]
+Seat 2: Stacy99 folded on the Turn
+Seat 3: gaiggibeliin folded on the Turn
+Seat 6: MadStarfish (button blind) collected ($19.95)
+
+
+

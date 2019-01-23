@@ -1,0 +1,1503 @@
+﻿PokerStars Hand #196117883967:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:19:03 EET [2019/01/23 10:19:03 ET]
+Table 'Baillauda' 6-max Seat #3 is the button
+Seat 2: MrBarrett82 ($213.45 in chips) 
+Seat 3: eSeemann ($248.24 in chips) 
+Seat 4: Alex Welsh ($238.23 in chips) 
+Seat 5: trawlerman00 ($63.34 in chips) 
+Seat 6: gaiggibeliin ($150 in chips) 
+MrBarrett82: posts the ante $1
+eSeemann: posts the ante $1
+Alex Welsh: posts the ante $1
+trawlerman00: posts the ante $1
+gaiggibeliin: posts the ante $1
+eSeemann: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8h Js]
+Alex Welsh: calls $1
+trawlerman00: calls $1
+gaiggibeliin: folds 
+MrBarrett82: folds 
+eSeemann: checks 
+*** FLOP *** [6s 9s Jd]
+Alex Welsh: checks 
+trawlerman00: bets $7.60
+eSeemann: folds 
+Alex Welsh: folds 
+Uncalled bet ($7.60) returned to trawlerman00
+trawlerman00 collected $7.60 from pot
+trawlerman00: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [6s 9s Jd]
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 3: eSeemann (button blind) folded on the Flop
+Seat 4: Alex Welsh folded on the Flop
+Seat 5: trawlerman00 collected ($7.60)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196117924407:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:20:12 EET [2019/01/23 10:20:12 ET]
+Table 'Baillauda' 6-max Seat #4 is the button
+Seat 2: MrBarrett82 ($212.45 in chips) 
+Seat 3: eSeemann ($246.24 in chips) 
+Seat 4: Alex Welsh ($236.23 in chips) 
+Seat 5: trawlerman00 ($68.94 in chips) 
+Seat 6: gaiggibeliin ($149 in chips) 
+MrBarrett82: posts the ante $1
+eSeemann: posts the ante $1
+Alex Welsh: posts the ante $1
+trawlerman00: posts the ante $1
+gaiggibeliin: posts the ante $1
+Alex Welsh: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kd Jc]
+trawlerman00: calls $1
+gaiggibeliin: calls $1
+MrBarrett82: calls $1
+eSeemann: raises $10 to $11
+Alex Welsh: folds 
+trawlerman00: calls $10
+gaiggibeliin: calls $10
+MrBarrett82: raises $200.45 to $211.45 and is all-in
+eSeemann: folds 
+trawlerman00: folds 
+gaiggibeliin: folds 
+Uncalled bet ($200.45) returned to MrBarrett82
+MrBarrett82 collected $50 from pot
+MrBarrett82: doesn't show hand 
+*** SUMMARY ***
+Total pot $50 | Rake $0 
+Seat 2: MrBarrett82 collected ($50)
+Seat 3: eSeemann folded before Flop
+Seat 4: Alex Welsh (button blind) folded before Flop
+Seat 5: trawlerman00 folded before Flop
+Seat 6: gaiggibeliin folded before Flop
+
+
+
+PokerStars Hand #196117963729:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:21:18 EET [2019/01/23 10:21:18 ET]
+Table 'Baillauda' 6-max Seat #5 is the button
+Seat 2: MrBarrett82 ($250.45 in chips) 
+Seat 3: eSeemann ($234.24 in chips) 
+Seat 4: Alex Welsh ($234.23 in chips) 
+Seat 5: trawlerman00 ($56.94 in chips) 
+Seat 6: gaiggibeliin ($137 in chips) 
+MrBarrett82: posts the ante $1
+eSeemann: posts the ante $1
+Alex Welsh: posts the ante $1
+trawlerman00: posts the ante $1
+gaiggibeliin: posts the ante $1
+trawlerman00: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6s 9h]
+gaiggibeliin: folds 
+MrBarrett82: folds 
+eSeemann: folds 
+Alex Welsh: folds 
+Uncalled bet ($1) returned to trawlerman00
+trawlerman00 collected $5 from pot
+trawlerman00: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 3: eSeemann folded before Flop (didn't bet)
+Seat 4: Alex Welsh folded before Flop (didn't bet)
+Seat 5: trawlerman00 (button blind) collected ($5)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196117970687:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:21:29 EET [2019/01/23 10:21:29 ET]
+Table 'Baillauda' 6-max Seat #6 is the button
+Seat 2: MrBarrett82 ($249.45 in chips) 
+Seat 3: eSeemann ($233.24 in chips) 
+Seat 4: Alex Welsh ($233.23 in chips) 
+Seat 5: trawlerman00 ($60.94 in chips) 
+Seat 6: gaiggibeliin ($136 in chips) 
+MrBarrett82: posts the ante $1
+eSeemann: posts the ante $1
+Alex Welsh: posts the ante $1
+trawlerman00: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kh 6c]
+MrBarrett82: calls $1
+eSeemann: raises $8 to $9
+Alex Welsh: folds 
+trawlerman00: folds 
+gaiggibeliin: folds 
+MrBarrett82: folds 
+Uncalled bet ($8) returned to eSeemann
+eSeemann collected $8 from pot
+eSeemann: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0 
+Seat 2: MrBarrett82 folded before Flop
+Seat 3: eSeemann collected ($8)
+Seat 4: Alex Welsh folded before Flop (didn't bet)
+Seat 5: trawlerman00 folded before Flop (didn't bet)
+Seat 6: gaiggibeliin (button blind) folded before Flop
+
+
+
+PokerStars Hand #196117988564:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:21:59 EET [2019/01/23 10:21:59 ET]
+Table 'Baillauda' 6-max Seat #2 is the button
+Seat 2: MrBarrett82 ($247.45 in chips) 
+Seat 3: eSeemann ($239.24 in chips) 
+Seat 4: Alex Welsh ($232.23 in chips) 
+Seat 5: trawlerman00 ($59.94 in chips) 
+Seat 6: gaiggibeliin ($134 in chips) 
+MrBarrett82: posts the ante $1
+eSeemann: posts the ante $1
+Alex Welsh: posts the ante $1
+trawlerman00: posts the ante $1
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7d 9d]
+eSeemann: raises $7 to $8
+Alex Welsh: calls $8
+trawlerman00: folds 
+gaiggibeliin: calls $8
+MrBarrett82: calls $7
+*** FLOP *** [6c 9s 8h]
+eSeemann: bets $8.79
+Alex Welsh: calls $8.79
+gaiggibeliin: raises $116.21 to $125 and is all-in
+MrBarrett82: raises $113.45 to $238.45 and is all-in
+eSeemann: folds 
+Alex Welsh: folds 
+Uncalled bet ($113.45) returned to MrBarrett82
+*** TURN *** [6c 9s 8h] [Ad]
+*** RIVER *** [6c 9s 8h Ad] [Kd]
+*** SHOW DOWN ***
+gaiggibeliin: shows [7d 9d] (a straight, Ace to Nine)
+MrBarrett82: shows [Jd Tc] (high card Ace)
+gaiggibeliin collected $301.83 from pot
+*** SUMMARY ***
+Total pot $304.58 | Rake $2.75 
+Board [6c 9s 8h Ad Kd]
+Seat 2: MrBarrett82 (button blind) showed [Jd Tc] and lost with high card Ace
+Seat 3: eSeemann folded on the Flop
+Seat 4: Alex Welsh folded on the Flop
+Seat 5: trawlerman00 folded before Flop (didn't bet)
+Seat 6: gaiggibeliin showed [7d 9d] and won ($301.83) with a straight, Ace to Nine
+
+
+
+PokerStars Hand #196118024788:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:23:00 EET [2019/01/23 10:23:00 ET]
+Table 'Baillauda' 6-max Seat #3 is the button
+Seat 2: MrBarrett82 ($113.45 in chips) 
+Seat 3: eSeemann ($221.45 in chips) 
+Seat 4: Alex Welsh ($214.44 in chips) 
+Seat 5: trawlerman00 ($58.94 in chips) 
+Seat 6: gaiggibeliin ($301.83 in chips) 
+MrBarrett82: posts the ante $1
+eSeemann: posts the ante $1
+Alex Welsh: posts the ante $1
+trawlerman00: posts the ante $1
+gaiggibeliin: posts the ante $1
+eSeemann: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jh Th]
+Alex Welsh: calls $1
+trawlerman00: folds 
+gaiggibeliin: raises $8 to $9
+MrBarrett82: folds 
+eSeemann: folds 
+Alex Welsh: calls $8
+*** FLOP *** [As 7s 9d]
+Alex Welsh: checks 
+gaiggibeliin: bets $13
+Alex Welsh: folds 
+Uncalled bet ($13) returned to gaiggibeliin
+gaiggibeliin collected $22.80 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $1.20 
+Board [As 7s 9d]
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 3: eSeemann (button blind) folded before Flop
+Seat 4: Alex Welsh folded on the Flop
+Seat 5: trawlerman00 folded before Flop (didn't bet)
+Seat 6: gaiggibeliin collected ($22.80)
+
+
+
+PokerStars Hand #196118045317:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:23:34 EET [2019/01/23 10:23:34 ET]
+Table 'Baillauda' 6-max Seat #4 is the button
+Seat 2: MrBarrett82 ($112.45 in chips) 
+Seat 3: eSeemann ($219.45 in chips) 
+Seat 4: Alex Welsh ($204.44 in chips) 
+Seat 5: trawlerman00 ($57.94 in chips) 
+Seat 6: gaiggibeliin ($314.63 in chips) 
+MrBarrett82: posts the ante $1
+eSeemann: posts the ante $1
+Alex Welsh: posts the ante $1
+trawlerman00: posts the ante $1
+gaiggibeliin: posts the ante $1
+Alex Welsh: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qh Tc]
+trawlerman00: calls $1
+gaiggibeliin: calls $1
+MrBarrett82: folds 
+eSeemann: calls $1
+Alex Welsh: raises $9 to $10
+trawlerman00: calls $9
+gaiggibeliin: folds 
+eSeemann: calls $9
+*** FLOP *** [8h 8c 7d]
+trawlerman00: checks 
+eSeemann: checks 
+Alex Welsh: bets $11.63
+trawlerman00: calls $11.63
+eSeemann: folds 
+*** TURN *** [8h 8c 7d] [8s]
+trawlerman00: checks 
+dT_pP99 joins the table at seat #1 
+Alex Welsh: checks 
+*** RIVER *** [8h 8c 7d 8s] [Ac]
+trawlerman00: checks 
+Alex Welsh: bets $181.81 and is all-in
+trawlerman00: calls $35.31 and is all-in
+Uncalled bet ($146.50) returned to Alex Welsh
+*** SHOW DOWN ***
+Alex Welsh: shows [Qc Kd] (three of a kind, Eights)
+trawlerman00: shows [9s 9h] (a full house, Eights full of Nines)
+trawlerman00 collected $127.13 from pot
+*** SUMMARY ***
+Total pot $129.88 | Rake $2.75 
+Board [8h 8c 7d 8s Ac]
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 3: eSeemann folded on the Flop
+Seat 4: Alex Welsh (button blind) showed [Qc Kd] and lost with three of a kind, Eights
+Seat 5: trawlerman00 showed [9s 9h] and won ($127.13) with a full house, Eights full of Nines
+Seat 6: gaiggibeliin folded before Flop
+
+
+
+PokerStars Hand #196118121227:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:25:41 EET [2019/01/23 10:25:41 ET]
+Table 'Baillauda' 6-max Seat #5 is the button
+Seat 1: dT_pP99 ($150 in chips) 
+Seat 2: MrBarrett82 ($111.45 in chips) 
+Seat 3: eSeemann ($208.45 in chips) 
+Seat 4: Alex Welsh ($146.50 in chips) 
+Seat 5: trawlerman00 ($127.13 in chips) 
+Seat 6: gaiggibeliin ($312.63 in chips) 
+dT_pP99: posts the ante $1
+MrBarrett82: posts the ante $1
+eSeemann: posts the ante $1
+Alex Welsh: posts the ante $1
+trawlerman00: posts the ante $1
+gaiggibeliin: posts the ante $1
+trawlerman00: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ac 8s]
+gaiggibeliin: folds 
+dT_pP99: folds 
+MrBarrett82: calls $1
+eSeemann: folds 
+Alex Welsh: raises $9 to $10
+trawlerman00: folds 
+MrBarrett82: raises $100.45 to $110.45 and is all-in
+Alex Welsh: folds 
+Uncalled bet ($100.45) returned to MrBarrett82
+MrBarrett82 collected $27 from pot
+MrBarrett82: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $0 
+Seat 1: dT_pP99 folded before Flop (didn't bet)
+Seat 2: MrBarrett82 collected ($27)
+Seat 3: eSeemann folded before Flop (didn't bet)
+Seat 4: Alex Welsh folded before Flop
+Seat 5: trawlerman00 (button blind) folded before Flop
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196118139638:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:26:12 EET [2019/01/23 10:26:12 ET]
+Table 'Baillauda' 6-max Seat #6 is the button
+Seat 1: dT_pP99 ($149 in chips) 
+Seat 2: MrBarrett82 ($127.45 in chips) 
+Seat 3: eSeemann ($207.45 in chips) 
+Seat 4: Alex Welsh ($135.50 in chips) 
+Seat 5: trawlerman00 ($125.13 in chips) 
+Seat 6: gaiggibeliin ($311.63 in chips) 
+dT_pP99: posts the ante $1
+MrBarrett82: posts the ante $1
+eSeemann: posts the ante $1
+Alex Welsh: posts the ante $1
+trawlerman00: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8d Jc]
+dT_pP99: folds 
+MrBarrett82: folds 
+eSeemann: folds 
+Alex Welsh: folds 
+trawlerman00: calls $1
+gaiggibeliin: checks 
+*** FLOP *** [6c 9h 6s]
+trawlerman00: checks 
+gaiggibeliin: bets $3
+trawlerman00: folds 
+Uncalled bet ($3) returned to gaiggibeliin
+gaiggibeliin collected $7.60 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [6c 9h 6s]
+Seat 1: dT_pP99 folded before Flop (didn't bet)
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 3: eSeemann folded before Flop (didn't bet)
+Seat 4: Alex Welsh folded before Flop (didn't bet)
+Seat 5: trawlerman00 folded on the Flop
+Seat 6: gaiggibeliin (button blind) collected ($7.60)
+
+
+
+PokerStars Hand #196118158583:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:26:43 EET [2019/01/23 10:26:43 ET]
+Table 'Baillauda' 6-max Seat #1 is the button
+Seat 1: dT_pP99 ($148 in chips) 
+Seat 2: MrBarrett82 ($126.45 in chips) 
+Seat 3: eSeemann ($206.45 in chips) 
+Seat 4: Alex Welsh ($134.50 in chips) 
+Seat 5: trawlerman00 ($123.13 in chips) 
+Seat 6: gaiggibeliin ($317.23 in chips) 
+dT_pP99: posts the ante $1
+MrBarrett82: posts the ante $1
+eSeemann: posts the ante $1
+Alex Welsh: posts the ante $1
+trawlerman00: posts the ante $1
+gaiggibeliin: posts the ante $1
+dT_pP99: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8d Ac]
+MrBarrett82: folds 
+eSeemann: folds 
+Alex Welsh: calls $1
+trawlerman00: calls $1
+gaiggibeliin: folds 
+dT_pP99: checks 
+*** FLOP *** [Jd Th 9d]
+Alex Welsh: checks 
+trawlerman00: bets $8.55
+dT_pP99: folds 
+Alex Welsh: folds 
+Uncalled bet ($8.55) returned to trawlerman00
+trawlerman00 collected $8.55 from pot
+trawlerman00: doesn't show hand 
+*** SUMMARY ***
+Total pot $9 | Rake $0.45 
+Board [Jd Th 9d]
+Seat 1: dT_pP99 (button blind) folded on the Flop
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 3: eSeemann folded before Flop (didn't bet)
+Seat 4: Alex Welsh folded on the Flop
+Seat 5: trawlerman00 collected ($8.55)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196118185876:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:27:28 EET [2019/01/23 10:27:28 ET]
+Table 'Baillauda' 6-max Seat #2 is the button
+Seat 1: dT_pP99 ($146 in chips) 
+Seat 2: MrBarrett82 ($125.45 in chips) 
+Seat 3: eSeemann ($205.45 in chips) 
+Seat 4: Alex Welsh ($132.50 in chips) 
+Seat 5: trawlerman00 ($129.68 in chips) 
+Seat 6: gaiggibeliin ($316.23 in chips) 
+dT_pP99: posts the ante $1
+MrBarrett82: posts the ante $1
+eSeemann: posts the ante $1
+Alex Welsh: posts the ante $1
+trawlerman00: posts the ante $1
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ts Qh]
+eSeemann: raises $7 to $8
+Alex Welsh: raises $23 to $31
+trawlerman00: folds 
+gaiggibeliin: folds 
+dT_pP99: folds 
+MrBarrett82: folds 
+eSeemann: folds 
+Uncalled bet ($23) returned to Alex Welsh
+Alex Welsh collected $23 from pot
+*** SUMMARY ***
+Total pot $23 | Rake $0 
+Seat 1: dT_pP99 folded before Flop (didn't bet)
+Seat 2: MrBarrett82 (button blind) folded before Flop
+Seat 3: eSeemann folded before Flop
+Seat 4: Alex Welsh collected ($23)
+Seat 5: trawlerman00 folded before Flop (didn't bet)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196118211723:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:28:11 EET [2019/01/23 10:28:11 ET]
+Table 'Baillauda' 6-max Seat #3 is the button
+Seat 1: dT_pP99 ($145 in chips) 
+Seat 2: MrBarrett82 ($123.45 in chips) 
+Seat 3: eSeemann ($196.45 in chips) 
+Seat 4: Alex Welsh ($146.50 in chips) 
+Seat 5: trawlerman00 ($128.68 in chips) 
+Seat 6: gaiggibeliin ($315.23 in chips) 
+dT_pP99: posts the ante $1
+MrBarrett82: posts the ante $1
+eSeemann: posts the ante $1
+Alex Welsh: posts the ante $1
+trawlerman00: posts the ante $1
+gaiggibeliin: posts the ante $1
+eSeemann: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8c 7s]
+Alex Welsh: folds 
+trawlerman00: calls $1
+gaiggibeliin: folds 
+dT_pP99: calls $1
+MrBarrett82: folds 
+eSeemann: checks 
+*** FLOP *** [8d Kh Qs]
+trawlerman00: checks 
+dT_pP99: checks 
+eSeemann: bets $8.55
+trawlerman00: calls $8.55
+dT_pP99: folds 
+*** TURN *** [8d Kh Qs] [Th]
+trawlerman00: checks 
+eSeemann: bets $12.40
+trawlerman00: calls $12.40
+*** RIVER *** [8d Kh Qs Th] [Jd]
+trawlerman00: bets $24.18
+eSeemann: folds 
+Uncalled bet ($24.18) returned to trawlerman00
+trawlerman00 collected $48.36 from pot
+trawlerman00: doesn't show hand 
+*** SUMMARY ***
+Total pot $50.90 | Rake $2.54 
+Board [8d Kh Qs Th Jd]
+Seat 1: dT_pP99 folded on the Flop
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 3: eSeemann (button blind) folded on the River
+Seat 4: Alex Welsh folded before Flop (didn't bet)
+Seat 5: trawlerman00 collected ($48.36)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196118253058:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:29:19 EET [2019/01/23 10:29:19 ET]
+Table 'Baillauda' 6-max Seat #4 is the button
+Seat 1: dT_pP99 ($143 in chips) 
+Seat 2: MrBarrett82 ($122.45 in chips) 
+Seat 3: eSeemann ($173.50 in chips) 
+Seat 4: Alex Welsh ($145.50 in chips) 
+Seat 5: trawlerman00 ($154.09 in chips) 
+Seat 6: gaiggibeliin ($314.23 in chips) 
+dT_pP99: posts the ante $1
+MrBarrett82: posts the ante $1
+eSeemann: posts the ante $1
+Alex Welsh: posts the ante $1
+trawlerman00: posts the ante $1
+gaiggibeliin: posts the ante $1
+Alex Welsh: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9d Kd]
+trawlerman00: folds 
+gaiggibeliin: calls $1
+dT_pP99: raises $4 to $5
+MrBarrett82: folds 
+eSeemann: calls $5
+Alex Welsh: calls $4
+gaiggibeliin: calls $4
+*** FLOP *** [Tc 9c Ad]
+gaiggibeliin: checks 
+dT_pP99: checks 
+eSeemann: checks 
+Alex Welsh: checks 
+*** TURN *** [Tc 9c Ad] [8c]
+gaiggibeliin: checks 
+dT_pP99: checks 
+eSeemann: checks 
+Alex Welsh: checks 
+*** RIVER *** [Tc 9c Ad 8c] [6s]
+gaiggibeliin: checks 
+dT_pP99: bets $10
+eSeemann: folds 
+Alex Welsh: folds 
+gaiggibeliin: folds 
+Uncalled bet ($10) returned to dT_pP99
+dT_pP99 collected $24.70 from pot
+dT_pP99: doesn't show hand 
+*** SUMMARY ***
+Total pot $26 | Rake $1.30 
+Board [Tc 9c Ad 8c 6s]
+Seat 1: dT_pP99 collected ($24.70)
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 3: eSeemann folded on the River
+Seat 4: Alex Welsh (button blind) folded on the River
+Seat 5: trawlerman00 folded before Flop (didn't bet)
+Seat 6: gaiggibeliin folded on the River
+
+
+
+PokerStars Hand #196118311335:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:30:55 EET [2019/01/23 10:30:55 ET]
+Table 'Baillauda' 6-max Seat #6 is the button
+Seat 1: dT_pP99 ($161.70 in chips) 
+Seat 2: MrBarrett82 ($121.45 in chips) 
+Seat 3: eSeemann ($167.50 in chips) 
+Seat 4: Alex Welsh ($139.50 in chips) 
+Seat 6: gaiggibeliin ($308.23 in chips) 
+dT_pP99: posts the ante $1
+MrBarrett82: posts the ante $1
+eSeemann: posts the ante $1
+Alex Welsh: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qh Jd]
+dT_pP99: calls $1
+MrBarrett82: calls $1
+eSeemann: calls $1
+Alex Welsh: calls $1
+gaiggibeliin: checks 
+*** FLOP *** [8c As 7s]
+dT_pP99: checks 
+MrBarrett82: checks 
+eSeemann: checks 
+Alex Welsh: checks 
+gaiggibeliin: checks 
+*** TURN *** [8c As 7s] [Th]
+dT_pP99: bets $7
+MrBarrett82: folds 
+eSeemann: folds 
+Alex Welsh: calls $7
+gaiggibeliin: folds 
+*** RIVER *** [8c As 7s Th] [Jc]
+dT_pP99: bets $10
+Alex Welsh: folds 
+Uncalled bet ($10) returned to dT_pP99
+dT_pP99 collected $22.80 from pot
+dT_pP99: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $1.20 
+Board [8c As 7s Th Jc]
+Seat 1: dT_pP99 collected ($22.80)
+Seat 2: MrBarrett82 folded on the Turn
+Seat 3: eSeemann folded on the Turn
+Seat 4: Alex Welsh folded on the River
+Seat 6: gaiggibeliin (button blind) folded on the Turn
+
+
+
+PokerStars Hand #196118375716:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:32:41 EET [2019/01/23 10:32:41 ET]
+Table 'Baillauda' 6-max Seat #1 is the button
+Seat 1: dT_pP99 ($175.50 in chips) 
+Seat 2: MrBarrett82 ($119.45 in chips) 
+Seat 3: eSeemann ($165.50 in chips) 
+Seat 4: Alex Welsh ($130.50 in chips) 
+Seat 5: trawlerman00 ($153.09 in chips) 
+Seat 6: gaiggibeliin ($306.23 in chips) 
+dT_pP99: posts the ante $1
+MrBarrett82: posts the ante $1
+eSeemann: posts the ante $1
+Alex Welsh: posts the ante $1
+trawlerman00: posts the ante $1
+gaiggibeliin: posts the ante $1
+dT_pP99: posts button blind $1
+trawlerman00: posts big blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qc Ks]
+MrBarrett82: folds 
+eSeemann: raises $9 to $10
+Alex Welsh: folds 
+trawlerman00: folds 
+gaiggibeliin: calls $10
+dT_pP99: calls $9
+*** FLOP *** [Ts 8s 6c]
+eSeemann: checks 
+gaiggibeliin: checks 
+dT_pP99: checks 
+*** TURN *** [Ts 8s 6c] [6s]
+eSeemann: bets $17.58
+gaiggibeliin: folds 
+dT_pP99: calls $17.58
+*** RIVER *** [Ts 8s 6c 6s] [8h]
+eSeemann: checks 
+dT_pP99: bets $40
+eSeemann: calls $40
+*** SHOW DOWN ***
+dT_pP99: shows [9h 9s] (two pair, Nines and Eights)
+eSeemann: shows [Jd Td] (two pair, Tens and Eights)
+eSeemann collected $149.41 from pot
+*** SUMMARY ***
+Total pot $152.16 | Rake $2.75 
+Board [Ts 8s 6c 6s 8h]
+Seat 1: dT_pP99 (button blind) showed [9h 9s] and lost with two pair, Nines and Eights
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 3: eSeemann showed [Jd Td] and won ($149.41) with two pair, Tens and Eights
+Seat 4: Alex Welsh folded before Flop (didn't bet)
+Seat 5: trawlerman00 folded before Flop (didn't bet)
+Seat 6: gaiggibeliin folded on the Turn
+
+
+
+PokerStars Hand #196118443742:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:34:33 EET [2019/01/23 10:34:33 ET]
+Table 'Baillauda' 6-max Seat #2 is the button
+Seat 1: dT_pP99 ($106.92 in chips) 
+Seat 2: MrBarrett82 ($118.45 in chips) 
+Seat 3: eSeemann ($246.33 in chips) 
+Seat 4: Alex Welsh ($129.50 in chips) 
+Seat 5: trawlerman00 ($151.09 in chips) 
+Seat 6: gaiggibeliin ($295.23 in chips) 
+dT_pP99: posts the ante $1
+MrBarrett82: posts the ante $1
+eSeemann: posts the ante $1
+Alex Welsh: posts the ante $1
+trawlerman00: posts the ante $1
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kh 8d]
+eSeemann: calls $1
+Alex Welsh: calls $1
+trawlerman00: raises $3 to $4
+gaiggibeliin: folds 
+dT_pP99: calls $4
+MrBarrett82: folds 
+eSeemann: calls $3
+Alex Welsh: calls $3
+*** FLOP *** [9c 7h 7c]
+eSeemann: checks 
+Alex Welsh: checks 
+trawlerman00: checks 
+dT_pP99: bets $10
+eSeemann: raises $41.85 to $51.85
+Alex Welsh: folds 
+trawlerman00: folds 
+dT_pP99: raises $50.07 to $101.92 and is all-in
+eSeemann: calls $50.07
+*** TURN *** [9c 7h 7c] [Th]
+*** RIVER *** [9c 7h 7c Th] [9d]
+*** SHOW DOWN ***
+eSeemann: shows [7d Ad] (a full house, Sevens full of Nines)
+dT_pP99: shows [6c Jc] (two pair, Nines and Sevens)
+eSeemann collected $224.09 from pot
+*** SUMMARY ***
+Total pot $226.84 | Rake $2.75 
+Board [9c 7h 7c Th 9d]
+Seat 1: dT_pP99 showed [6c Jc] and lost with two pair, Nines and Sevens
+Seat 2: MrBarrett82 (button blind) folded before Flop
+Seat 3: eSeemann showed [7d Ad] and won ($224.09) with a full house, Sevens full of Nines
+Seat 4: Alex Welsh folded on the Flop
+Seat 5: trawlerman00 folded on the Flop
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196118489256:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:35:48 EET [2019/01/23 10:35:48 ET]
+Table 'Baillauda' 6-max Seat #3 is the button
+Seat 2: MrBarrett82 ($116.45 in chips) 
+Seat 3: eSeemann ($363.50 in chips) 
+Seat 4: Alex Welsh ($124.50 in chips) 
+Seat 5: trawlerman00 ($146.09 in chips) 
+Seat 6: gaiggibeliin ($294.23 in chips) 
+MrBarrett82: posts the ante $1
+eSeemann: posts the ante $1
+Alex Welsh: posts the ante $1
+trawlerman00: posts the ante $1
+gaiggibeliin: posts the ante $1
+eSeemann: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jd 8d]
+Alex Welsh: folds 
+dT_pP99 leaves the table
+trawlerman00: calls $1
+gaiggibeliin: calls $1
+MrBarrett82: calls $1
+eSeemann: raises $6 to $7
+trawlerman00: calls $6
+gaiggibeliin: calls $6
+MrBarrett82: calls $6
+*** FLOP *** [6h Jh Qs]
+trawlerman00: checks 
+gaiggibeliin: checks 
+MrBarrett82: checks 
+eSeemann: checks 
+*** TURN *** [6h Jh Qs] [Qh]
+trawlerman00: checks 
+gaiggibeliin: bets $16.30
+MrBarrett82: folds 
+eSeemann: folds 
+trawlerman00: folds 
+Uncalled bet ($16.30) returned to gaiggibeliin
+gaiggibeliin collected $31.35 from pot
+yaboybush joins the table at seat #1 
+*** SUMMARY ***
+Total pot $33 | Rake $1.65 
+Board [6h Jh Qs Qh]
+Seat 2: MrBarrett82 folded on the Turn
+Seat 3: eSeemann (button blind) folded on the Turn
+Seat 4: Alex Welsh folded before Flop (didn't bet)
+Seat 5: trawlerman00 folded on the Turn
+Seat 6: gaiggibeliin collected ($31.35)
+
+
+
+PokerStars Hand #196118543741:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:37:18 EET [2019/01/23 10:37:18 ET]
+Table 'Baillauda' 6-max Seat #4 is the button
+Seat 1: yaboybush ($150 in chips) 
+Seat 2: MrBarrett82 ($108.45 in chips) 
+Seat 3: eSeemann ($355.50 in chips) 
+Seat 4: Alex Welsh ($123.50 in chips) 
+Seat 5: trawlerman00 ($138.09 in chips) 
+Seat 6: gaiggibeliin ($317.58 in chips) 
+yaboybush: posts the ante $1
+MrBarrett82: posts the ante $1
+eSeemann: posts the ante $1
+Alex Welsh: posts the ante $1
+trawlerman00: posts the ante $1
+gaiggibeliin: posts the ante $1
+Alex Welsh: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7s As]
+trawlerman00: calls $1
+gaiggibeliin: calls $1
+yaboybush: calls $1
+MrBarrett82: folds 
+eSeemann: folds 
+Alex Welsh: checks 
+*** FLOP *** [7d 8h 9d]
+trawlerman00: bets $9.50
+gaiggibeliin: folds 
+yaboybush: folds 
+Alex Welsh: calls $9.50
+*** TURN *** [7d 8h 9d] [8d]
+trawlerman00: bets $27.55
+Alex Welsh: raises $84.45 to $112 and is all-in
+trawlerman00: folds 
+Uncalled bet ($84.45) returned to Alex Welsh
+Alex Welsh collected $81.35 from pot
+*** SUMMARY ***
+Total pot $84.10 | Rake $2.75 
+Board [7d 8h 9d 8d]
+Seat 1: yaboybush folded on the Flop
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 3: eSeemann folded before Flop (didn't bet)
+Seat 4: Alex Welsh (button blind) collected ($81.35)
+Seat 5: trawlerman00 folded on the Turn
+Seat 6: gaiggibeliin folded on the Flop
+
+
+
+PokerStars Hand #196118595124:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:38:42 EET [2019/01/23 10:38:42 ET]
+Table 'Baillauda' 6-max Seat #5 is the button
+Seat 1: yaboybush ($148 in chips) 
+Seat 2: MrBarrett82 ($107.45 in chips) 
+Seat 3: eSeemann ($354.50 in chips) 
+Seat 4: Alex Welsh ($165.80 in chips) 
+Seat 5: trawlerman00 ($99.04 in chips) 
+Seat 6: gaiggibeliin ($315.58 in chips) 
+yaboybush: posts the ante $1
+MrBarrett82: posts the ante $1
+eSeemann: posts the ante $1
+Alex Welsh: posts the ante $1
+trawlerman00: posts the ante $1
+gaiggibeliin: posts the ante $1
+trawlerman00: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9h Td]
+gaiggibeliin: folds 
+yaboybush: folds 
+MrBarrett82: folds 
+eSeemann: folds 
+Alex Welsh: calls $1
+trawlerman00: checks 
+*** FLOP *** [6h 7c 7h]
+Alex Welsh: checks 
+trawlerman00: bets $7.60
+Alex Welsh: folds 
+Uncalled bet ($7.60) returned to trawlerman00
+trawlerman00 collected $7.60 from pot
+trawlerman00: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [6h 7c 7h]
+Seat 1: yaboybush folded before Flop (didn't bet)
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 3: eSeemann folded before Flop (didn't bet)
+Seat 4: Alex Welsh folded on the Flop
+Seat 5: trawlerman00 (button blind) collected ($7.60)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196118611523:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:39:09 EET [2019/01/23 10:39:09 ET]
+Table 'Baillauda' 6-max Seat #6 is the button
+Seat 1: yaboybush ($147 in chips) 
+Seat 2: MrBarrett82 ($106.45 in chips) 
+Seat 3: eSeemann ($353.50 in chips) 
+Seat 4: Alex Welsh ($163.80 in chips) 
+Seat 5: trawlerman00 ($104.64 in chips) 
+Seat 6: gaiggibeliin ($314.58 in chips) 
+yaboybush: posts the ante $1
+MrBarrett82: posts the ante $1
+eSeemann: posts the ante $1
+Alex Welsh: posts the ante $1
+trawlerman00: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Tc Qs]
+yaboybush: raises $4 to $5
+MrBarrett82: folds 
+eSeemann: folds 
+Alex Welsh: calls $5
+trawlerman00: calls $5
+gaiggibeliin: calls $4
+*** FLOP *** [8h Kd 6d]
+yaboybush: checks 
+Alex Welsh: checks 
+trawlerman00: bets $24.70
+gaiggibeliin: folds 
+yaboybush: folds 
+Alex Welsh: raises $133.10 to $157.80 and is all-in
+trawlerman00: calls $73.94 and is all-in
+Uncalled bet ($59.16) returned to Alex Welsh
+*** TURN *** [8h Kd 6d] [Th]
+*** RIVER *** [8h Kd 6d Th] [Td]
+*** SHOW DOWN ***
+Alex Welsh: shows [7d 8d] (a flush, King high)
+trawlerman00: shows [6h Kh] (two pair, Kings and Tens)
+Alex Welsh collected $220.53 from pot
+*** SUMMARY ***
+Total pot $223.28 | Rake $2.75 
+Board [8h Kd 6d Th Td]
+Seat 1: yaboybush folded on the Flop
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 3: eSeemann folded before Flop (didn't bet)
+Seat 4: Alex Welsh showed [7d 8d] and won ($220.53) with a flush, King high
+Seat 5: trawlerman00 showed [6h Kh] and lost with two pair, Kings and Tens
+Seat 6: gaiggibeliin (button blind) folded on the Flop
+
+
+
+PokerStars Hand #196118646143:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:40:06 EET [2019/01/23 10:40:06 ET]
+Table 'Baillauda' 6-max Seat #1 is the button
+Seat 1: yaboybush ($141 in chips) 
+Seat 2: MrBarrett82 ($105.45 in chips) 
+Seat 3: eSeemann ($352.50 in chips) 
+Seat 4: Alex Welsh ($279.69 in chips) 
+Seat 6: gaiggibeliin ($308.58 in chips) 
+yaboybush: posts the ante $1
+MrBarrett82: posts the ante $1
+eSeemann: posts the ante $1
+Alex Welsh: posts the ante $1
+gaiggibeliin: posts the ante $1
+yaboybush: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ac Ts]
+MrBarrett82: calls $1
+eSeemann: folds 
+Alex Welsh: calls $1
+gaiggibeliin: raises $9 to $10
+yaboybush: folds 
+MrBarrett82: calls $9
+Alex Welsh: calls $9
+*** FLOP *** [Qh 9d Js]
+MrBarrett82: checks 
+Alex Welsh: checks 
+gaiggibeliin: bets $31
+MrBarrett82: folds 
+Alex Welsh: folds 
+Uncalled bet ($31) returned to gaiggibeliin
+gaiggibeliin collected $34.20 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $1.80 
+Board [Qh 9d Js]
+Seat 1: yaboybush (button blind) folded before Flop
+Seat 2: MrBarrett82 folded on the Flop
+Seat 3: eSeemann folded before Flop (didn't bet)
+Seat 4: Alex Welsh folded on the Flop
+Seat 6: gaiggibeliin collected ($34.20)
+
+
+
+PokerStars Hand #196118698247:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:41:31 EET [2019/01/23 10:41:31 ET]
+Table 'Baillauda' 6-max Seat #2 is the button
+Seat 1: yaboybush ($139 in chips) 
+Seat 2: MrBarrett82 ($150 in chips) 
+Seat 3: eSeemann ($351.50 in chips) 
+Seat 4: Alex Welsh ($268.69 in chips) 
+Seat 5: trawlerman00 ($150 in chips) 
+Seat 6: gaiggibeliin ($331.78 in chips) 
+yaboybush: posts the ante $1
+MrBarrett82: posts the ante $1
+eSeemann: posts the ante $1
+Alex Welsh: posts the ante $1
+trawlerman00: posts the ante $1
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ac Jh]
+eSeemann: folds 
+Alex Welsh: calls $1
+trawlerman00: calls $1
+gaiggibeliin: calls $1
+yaboybush: calls $1
+MrBarrett82: checks 
+*** FLOP *** [As Qh Th]
+Alex Welsh: checks 
+trawlerman00: checks 
+gaiggibeliin: bets $7.84
+yaboybush: folds 
+MrBarrett82: calls $7.84
+Alex Welsh: folds 
+trawlerman00: calls $7.84
+*** TURN *** [As Qh Th] [8d]
+trawlerman00: checks 
+gaiggibeliin: bets $28
+MrBarrett82: folds 
+trawlerman00: folds 
+Uncalled bet ($28) returned to gaiggibeliin
+gaiggibeliin collected $32.79 from pot
+*** SUMMARY ***
+Total pot $34.52 | Rake $1.73 
+Board [As Qh Th 8d]
+Seat 1: yaboybush folded on the Flop
+Seat 2: MrBarrett82 (button blind) folded on the Turn
+Seat 3: eSeemann folded before Flop (didn't bet)
+Seat 4: Alex Welsh folded on the Flop
+Seat 5: trawlerman00 folded on the Turn
+Seat 6: gaiggibeliin collected ($32.79)
+
+
+
+PokerStars Hand #196118775750:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:43:38 EET [2019/01/23 10:43:38 ET]
+Table 'Baillauda' 6-max Seat #3 is the button
+Seat 1: yaboybush ($137 in chips) 
+Seat 2: MrBarrett82 ($140.16 in chips) 
+Seat 3: eSeemann ($350.50 in chips) 
+Seat 4: Alex Welsh ($266.69 in chips) 
+Seat 5: trawlerman00 ($140.16 in chips) 
+Seat 6: gaiggibeliin ($354.73 in chips) 
+yaboybush: posts the ante $1
+MrBarrett82: posts the ante $1
+eSeemann: posts the ante $1
+Alex Welsh: posts the ante $1
+trawlerman00: posts the ante $1
+gaiggibeliin: posts the ante $1
+eSeemann: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9c Th]
+Alex Welsh: folds 
+trawlerman00: folds 
+gaiggibeliin: folds 
+yaboybush: raises $4 to $5
+MrBarrett82: folds 
+eSeemann: folds 
+Uncalled bet ($4) returned to yaboybush
+yaboybush collected $8 from pot
+yaboybush: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0 
+Seat 1: yaboybush collected ($8)
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 3: eSeemann (button blind) folded before Flop
+Seat 4: Alex Welsh folded before Flop (didn't bet)
+Seat 5: trawlerman00 folded before Flop (didn't bet)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196118794773:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:44:09 EET [2019/01/23 10:44:09 ET]
+Table 'Baillauda' 6-max Seat #4 is the button
+Seat 1: yaboybush ($143 in chips) 
+Seat 2: MrBarrett82 ($139.16 in chips) 
+Seat 3: eSeemann ($348.50 in chips) 
+Seat 4: Alex Welsh ($265.69 in chips) 
+Seat 5: trawlerman00 ($139.16 in chips) 
+Seat 6: gaiggibeliin ($353.73 in chips) 
+yaboybush: posts the ante $1
+MrBarrett82: posts the ante $1
+eSeemann: posts the ante $1
+Alex Welsh: posts the ante $1
+trawlerman00: posts the ante $1
+gaiggibeliin: posts the ante $1
+Alex Welsh: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kd 9s]
+trawlerman00: folds 
+gaiggibeliin: folds 
+yaboybush: folds 
+MrBarrett82: folds 
+eSeemann: raises $8 to $9
+Alex Welsh: raises $24 to $33
+eSeemann: calls $24
+*** FLOP *** [6s Tc Qd]
+eSeemann: checks 
+Alex Welsh: bets $22.85
+eSeemann: calls $22.85
+*** TURN *** [6s Tc Qd] [8s]
+eSeemann: checks 
+Alex Welsh: checks 
+*** RIVER *** [6s Tc Qd 8s] [8c]
+eSeemann: checks 
+Alex Welsh: checks 
+*** SHOW DOWN ***
+eSeemann: shows [Td 9d] (two pair, Tens and Eights)
+Alex Welsh: mucks hand 
+eSeemann collected $114.95 from pot
+*** SUMMARY ***
+Total pot $117.70 | Rake $2.75 
+Board [6s Tc Qd 8s 8c]
+Seat 1: yaboybush folded before Flop (didn't bet)
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 3: eSeemann showed [Td 9d] and won ($114.95) with two pair, Tens and Eights
+Seat 4: Alex Welsh (button blind) mucked [As Jc]
+Seat 5: trawlerman00 folded before Flop (didn't bet)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196118841640:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:45:25 EET [2019/01/23 10:45:25 ET]
+Table 'Baillauda' 6-max Seat #5 is the button
+Seat 1: yaboybush ($142 in chips) 
+Seat 2: MrBarrett82 ($138.16 in chips) 
+Seat 3: eSeemann ($406.60 in chips) 
+Seat 4: Alex Welsh ($208.84 in chips) 
+Seat 5: trawlerman00 ($138.16 in chips) 
+Seat 6: gaiggibeliin ($352.73 in chips) 
+yaboybush: posts the ante $1
+MrBarrett82: posts the ante $1
+eSeemann: posts the ante $1
+Alex Welsh: posts the ante $1
+trawlerman00: posts the ante $1
+gaiggibeliin: posts the ante $1
+trawlerman00: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6c 8c]
+gaiggibeliin: folds 
+yaboybush: raises $4 to $5
+MrBarrett82: folds 
+eSeemann: folds 
+Alex Welsh: calls $5
+trawlerman00: folds 
+*** FLOP *** [9d Ac 9h]
+yaboybush: checks 
+Alex Welsh: checks 
+*** TURN *** [9d Ac 9h] [8s]
+yaboybush: checks 
+Alex Welsh: bets $5.33
+yaboybush: calls $5.33
+*** RIVER *** [9d Ac 9h 8s] [Qs]
+yaboybush: checks 
+Alex Welsh: checks 
+*** SHOW DOWN ***
+yaboybush: shows [Qd Ah] (two pair, Aces and Queens)
+Alex Welsh: mucks hand 
+yaboybush collected $26.28 from pot
+*** SUMMARY ***
+Total pot $27.66 | Rake $1.38 
+Board [9d Ac 9h 8s Qs]
+Seat 1: yaboybush showed [Qd Ah] and won ($26.28) with two pair, Aces and Queens
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 3: eSeemann folded before Flop (didn't bet)
+Seat 4: Alex Welsh mucked [Js As]
+Seat 5: trawlerman00 (button blind) folded before Flop
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196118875625:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:46:21 EET [2019/01/23 10:46:21 ET]
+Table 'Baillauda' 6-max Seat #6 is the button
+Seat 1: yaboybush ($156.95 in chips) 
+Seat 2: MrBarrett82 ($137.16 in chips) 
+Seat 4: Alex Welsh ($197.51 in chips) 
+Seat 5: trawlerman00 ($136.16 in chips) 
+Seat 6: gaiggibeliin ($351.73 in chips) 
+yaboybush: posts the ante $1
+MrBarrett82: posts the ante $1
+Alex Welsh: posts the ante $1
+trawlerman00: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ks Qh]
+yaboybush: folds 
+MrBarrett82: folds 
+Alex Welsh: calls $1
+trawlerman00: raises $8 to $9
+gaiggibeliin: calls $8
+Alex Welsh: calls $8
+*** FLOP *** [7d 8d 9c]
+Alex Welsh: checks 
+trawlerman00: bets $15.20
+gaiggibeliin: folds 
+Alex Welsh: calls $15.20
+*** TURN *** [7d 8d 9c] [Td]
+Alex Welsh: checks 
+trawlerman00: bets $29.83
+Alex Welsh: folds 
+Uncalled bet ($29.83) returned to trawlerman00
+trawlerman00 collected $59.65 from pot
+trawlerman00: doesn't show hand 
+*** SUMMARY ***
+Total pot $62.40 | Rake $2.75 
+Board [7d 8d 9c Td]
+Seat 1: yaboybush folded before Flop (didn't bet)
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 4: Alex Welsh folded on the Turn
+Seat 5: trawlerman00 collected ($59.65)
+Seat 6: gaiggibeliin (button blind) folded on the Flop
+
+
+
+PokerStars Hand #196118915809:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:47:26 EET [2019/01/23 10:47:26 ET]
+Table 'Baillauda' 6-max Seat #1 is the button
+Seat 1: yaboybush ($155.95 in chips) 
+Seat 2: MrBarrett82 ($136.16 in chips) 
+Seat 3: eSeemann ($405.60 in chips) 
+Seat 4: Alex Welsh ($172.31 in chips) 
+Seat 5: trawlerman00 ($170.61 in chips) 
+Seat 6: gaiggibeliin ($341.73 in chips) 
+yaboybush: posts the ante $1
+MrBarrett82: posts the ante $1
+eSeemann: posts the ante $1
+Alex Welsh: posts the ante $1
+trawlerman00: posts the ante $1
+gaiggibeliin: posts the ante $1
+yaboybush: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ah Qh]
+MrBarrett82: calls $1
+eSeemann: calls $1
+Alex Welsh: folds 
+trawlerman00: raises $2 to $3
+gaiggibeliin: raises $15 to $18
+yaboybush: folds 
+MrBarrett82: raises $117.16 to $135.16 and is all-in
+eSeemann: folds 
+trawlerman00: folds 
+gaiggibeliin: folds 
+Uncalled bet ($117.16) returned to MrBarrett82
+MrBarrett82 collected $47 from pot
+MrBarrett82: doesn't show hand 
+*** SUMMARY ***
+Total pot $47 | Rake $0 
+Seat 1: yaboybush (button blind) folded before Flop
+Seat 2: MrBarrett82 collected ($47)
+Seat 3: eSeemann folded before Flop
+Seat 4: Alex Welsh folded before Flop (didn't bet)
+Seat 5: trawlerman00 folded before Flop
+Seat 6: gaiggibeliin folded before Flop
+
+
+
+PokerStars Hand #196118958558:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:48:35 EET [2019/01/23 10:48:35 ET]
+Table 'Baillauda' 6-max Seat #2 is the button
+Seat 1: yaboybush ($153.95 in chips) 
+Seat 2: MrBarrett82 ($164.16 in chips) 
+Seat 3: eSeemann ($403.60 in chips) 
+Seat 4: Alex Welsh ($171.31 in chips) 
+Seat 5: trawlerman00 ($166.61 in chips) 
+Seat 6: gaiggibeliin ($322.73 in chips) 
+yaboybush: posts the ante $1
+MrBarrett82: posts the ante $1
+eSeemann: posts the ante $1
+Alex Welsh: posts the ante $1
+trawlerman00: posts the ante $1
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Tc Qs]
+eSeemann: folds 
+Alex Welsh: folds 
+trawlerman00: folds 
+gaiggibeliin: calls $1
+yaboybush: folds 
+MrBarrett82: raises $5 to $6
+gaiggibeliin: calls $5
+*** FLOP *** [Jh Qd Ks]
+gaiggibeliin: checks 
+MrBarrett82: checks 
+*** TURN *** [Jh Qd Ks] [Ad]
+gaiggibeliin: bets $8.89
+MrBarrett82: calls $8.89
+*** RIVER *** [Jh Qd Ks Ad] [6s]
+gaiggibeliin: bets $22.77
+MrBarrett82: folds 
+Uncalled bet ($22.77) returned to gaiggibeliin
+gaiggibeliin collected $33.99 from pot
+*** SUMMARY ***
+Total pot $35.78 | Rake $1.79 
+Board [Jh Qd Ks Ad 6s]
+Seat 1: yaboybush folded before Flop (didn't bet)
+Seat 2: MrBarrett82 (button blind) folded on the River
+Seat 3: eSeemann folded before Flop (didn't bet)
+Seat 4: Alex Welsh folded before Flop (didn't bet)
+Seat 5: trawlerman00 folded before Flop (didn't bet)
+Seat 6: gaiggibeliin collected ($33.99)
+
+
+
+PokerStars Hand #196119012935:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:50:02 EET [2019/01/23 10:50:02 ET]
+Table 'Baillauda' 6-max Seat #3 is the button
+Seat 1: yaboybush ($152.95 in chips) 
+Seat 2: MrBarrett82 ($148.27 in chips) 
+Seat 3: eSeemann ($402.60 in chips) 
+Seat 4: Alex Welsh ($170.31 in chips) 
+Seat 5: trawlerman00 ($165.61 in chips) 
+Seat 6: gaiggibeliin ($340.83 in chips) 
+yaboybush: posts the ante $1
+MrBarrett82: posts the ante $1
+eSeemann: posts the ante $1
+Alex Welsh: posts the ante $1
+trawlerman00: posts the ante $1
+gaiggibeliin: posts the ante $1
+eSeemann: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ac 9d]
+Alex Welsh: folds 
+trawlerman00: folds 
+gaiggibeliin: folds 
+yaboybush: raises $4 to $5
+MrBarrett82: folds 
+eSeemann: calls $4
+*** FLOP *** [Ts Ad 8c]
+yaboybush: bets $9
+eSeemann: folds 
+Uncalled bet ($9) returned to yaboybush
+yaboybush collected $15.20 from pot
+yaboybush: doesn't show hand 
+*** SUMMARY ***
+Total pot $16 | Rake $0.80 
+Board [Ts Ad 8c]
+Seat 1: yaboybush collected ($15.20)
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 3: eSeemann (button blind) folded on the Flop
+Seat 4: Alex Welsh folded before Flop (didn't bet)
+Seat 5: trawlerman00 folded before Flop (didn't bet)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196119036093:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:50:39 EET [2019/01/23 10:50:39 ET]
+Table 'Baillauda' 6-max Seat #4 is the button
+Seat 1: yaboybush ($162.15 in chips) 
+Seat 2: MrBarrett82 ($147.27 in chips) 
+Seat 3: eSeemann ($396.60 in chips) 
+Seat 4: Alex Welsh ($169.31 in chips) 
+Seat 5: trawlerman00 ($164.61 in chips) 
+Seat 6: gaiggibeliin ($339.83 in chips) 
+yaboybush: posts the ante $1
+MrBarrett82: posts the ante $1
+eSeemann: posts the ante $1
+Alex Welsh: posts the ante $1
+trawlerman00: posts the ante $1
+gaiggibeliin: posts the ante $1
+Alex Welsh: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ad Kh]
+trawlerman00: calls $1
+gaiggibeliin: raises $11 to $12
+yaboybush: folds 
+MrBarrett82: folds 
+eSeemann: folds 
+Alex Welsh: folds 
+trawlerman00: calls $11
+*** FLOP *** [Jd 6c 6h]
+trawlerman00: checks 
+gaiggibeliin: bets $9.72
+trawlerman00: calls $9.72
+*** TURN *** [Jd 6c 6h] [As]
+trawlerman00: checks 
+gaiggibeliin: bets $28.92
+trawlerman00: calls $28.92
+*** RIVER *** [Jd 6c 6h As] [Jc]
+trawlerman00: checks 
+gaiggibeliin: checks 
+*** SHOW DOWN ***
+trawlerman00: shows [9c Ac] (two pair, Aces and Jacks)
+gaiggibeliin: shows [Ad Kh] (two pair, Aces and Jacks - King kicker)
+gaiggibeliin collected $105.53 from pot
+*** SUMMARY ***
+Total pot $108.28 | Rake $2.75 
+Board [Jd 6c 6h As Jc]
+Seat 1: yaboybush folded before Flop (didn't bet)
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 3: eSeemann folded before Flop (didn't bet)
+Seat 4: Alex Welsh (button blind) folded before Flop
+Seat 5: trawlerman00 showed [9c Ac] and lost with two pair, Aces and Jacks
+Seat 6: gaiggibeliin showed [Ad Kh] and won ($105.53) with two pair, Aces and Jacks
+
+
+
+PokerStars Hand #196119071834:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:51:37 EET [2019/01/23 10:51:37 ET]
+Table 'Baillauda' 6-max Seat #5 is the button
+Seat 1: yaboybush ($161.15 in chips) 
+Seat 2: MrBarrett82 ($146.27 in chips) 
+Seat 3: eSeemann ($395.60 in chips) 
+Seat 4: Alex Welsh ($167.31 in chips) 
+Seat 5: trawlerman00 ($112.97 in chips) 
+Seat 6: gaiggibeliin ($393.72 in chips) 
+yaboybush: posts the ante $1
+MrBarrett82: posts the ante $1
+eSeemann: posts the ante $1
+Alex Welsh: posts the ante $1
+trawlerman00: posts the ante $1
+gaiggibeliin: posts the ante $1
+trawlerman00: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8d Ah]
+gaiggibeliin: folds 
+yaboybush: folds 
+MrBarrett82: folds 
+eSeemann: calls $1
+Alex Welsh: folds 
+trawlerman00: checks 
+*** FLOP *** [Td Qh Jh]
+eSeemann: checks 
+trawlerman00: bets $7.60
+eSeemann: folds 
+Uncalled bet ($7.60) returned to trawlerman00
+trawlerman00 collected $7.60 from pot
+trawlerman00: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [Td Qh Jh]
+Seat 1: yaboybush folded before Flop (didn't bet)
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 3: eSeemann folded on the Flop
+Seat 4: Alex Welsh folded before Flop (didn't bet)
+Seat 5: trawlerman00 (button blind) collected ($7.60)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196119103406:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:52:27 EET [2019/01/23 10:52:27 ET]
+Table 'Baillauda' 6-max Seat #6 is the button
+Seat 1: yaboybush ($160.15 in chips) 
+Seat 2: MrBarrett82 ($145.27 in chips) 
+Seat 3: eSeemann ($393.60 in chips) 
+Seat 4: Alex Welsh ($166.31 in chips) 
+Seat 5: trawlerman00 ($118.57 in chips) 
+Seat 6: gaiggibeliin ($392.72 in chips) 
+yaboybush: posts the ante $1
+MrBarrett82: posts the ante $1
+eSeemann: posts the ante $1
+Alex Welsh: posts the ante $1
+trawlerman00: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8h 6d]
+yaboybush: folds 
+MrBarrett82: folds 
+eSeemann: calls $1
+Alex Welsh: raises $11 to $12
+trawlerman00: folds 
+gaiggibeliin: folds 
+eSeemann: folds 
+Uncalled bet ($11) returned to Alex Welsh
+Alex Welsh collected $9 from pot
+*** SUMMARY ***
+Total pot $9 | Rake $0 
+Seat 1: yaboybush folded before Flop (didn't bet)
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 3: eSeemann folded before Flop
+Seat 4: Alex Welsh collected ($9)
+Seat 5: trawlerman00 folded before Flop (didn't bet)
+Seat 6: gaiggibeliin (button blind) folded before Flop
+
+
+
+PokerStars Hand #196119126114:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:53:03 EET [2019/01/23 10:53:03 ET]
+Table 'Baillauda' 6-max Seat #1 is the button
+Seat 1: yaboybush ($159.15 in chips) 
+Seat 2: MrBarrett82 ($144.27 in chips) 
+Seat 3: eSeemann ($391.60 in chips) 
+Seat 4: Alex Welsh ($173.31 in chips) 
+Seat 5: trawlerman00 ($117.57 in chips) 
+Seat 6: gaiggibeliin ($390.72 in chips) 
+yaboybush: posts the ante $1
+MrBarrett82: posts the ante $1
+eSeemann: posts the ante $1
+Alex Welsh: posts the ante $1
+trawlerman00: posts the ante $1
+gaiggibeliin: posts the ante $1
+yaboybush: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qh 7c]
+MrBarrett82: calls $1
+eSeemann: folds 
+Alex Welsh: folds 
+trawlerman00: folds 
+gaiggibeliin: folds 
+yaboybush: checks 
+*** FLOP *** [9s Kc 6s]
+MrBarrett82: bets $5
+yaboybush: calls $5
+*** TURN *** [9s Kc 6s] [9h]
+MrBarrett82: checks 
+yaboybush: bets $13
+MrBarrett82: folds 
+Uncalled bet ($13) returned to yaboybush
+yaboybush collected $17.10 from pot
+yaboybush: doesn't show hand 
+*** SUMMARY ***
+Total pot $18 | Rake $0.90 
+Board [9s Kc 6s 9h]
+Seat 1: yaboybush (button blind) collected ($17.10)
+Seat 2: MrBarrett82 folded on the Turn
+Seat 3: eSeemann folded before Flop (didn't bet)
+Seat 4: Alex Welsh folded before Flop (didn't bet)
+Seat 5: trawlerman00 folded before Flop (didn't bet)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196119164089:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 17:54:04 EET [2019/01/23 10:54:04 ET]
+Table 'Baillauda' 6-max Seat #2 is the button
+Seat 1: yaboybush ($169.25 in chips) 
+Seat 2: MrBarrett82 ($137.27 in chips) 
+Seat 3: eSeemann ($390.60 in chips) 
+Seat 4: Alex Welsh ($172.31 in chips) 
+Seat 5: trawlerman00 ($116.57 in chips) 
+Seat 6: gaiggibeliin ($389.72 in chips) 
+yaboybush: posts the ante $1
+MrBarrett82: posts the ante $1
+eSeemann: posts the ante $1
+Alex Welsh: posts the ante $1
+trawlerman00: posts the ante $1
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jc 8c]
+eSeemann: calls $1
+Alex Welsh: folds 
+trawlerman00: folds 
+gaiggibeliin: folds 
+yaboybush: folds 
+MrBarrett82: checks 
+*** FLOP *** [Jh Tc Ah]
+eSeemann: bets $1
+MrBarrett82: folds 
+Uncalled bet ($1) returned to eSeemann
+eSeemann collected $7.60 from pot
+eSeemann: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [Jh Tc Ah]
+Seat 1: yaboybush folded before Flop (didn't bet)
+Seat 2: MrBarrett82 (button blind) folded on the Flop
+Seat 3: eSeemann collected ($7.60)
+Seat 4: Alex Welsh folded before Flop (didn't bet)
+Seat 5: trawlerman00 folded before Flop (didn't bet)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+

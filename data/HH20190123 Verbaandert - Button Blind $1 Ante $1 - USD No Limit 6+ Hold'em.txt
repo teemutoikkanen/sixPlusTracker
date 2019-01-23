@@ -1,0 +1,36 @@
+﻿PokerStars Hand #196114620997:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 15:37:24 EET [2019/01/23 8:37:24 ET]
+Table 'Verbaandert' 6-max Seat #4 is the button
+Seat 3: gaiggibeliin ($150 in chips) 
+Seat 4: sjohnny200 ($150 in chips) 
+gaiggibeliin: posts the ante $1
+sjohnny200: posts the ante $1
+sjohnny200: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kh Jd]
+gaiggibeliin: calls $1
+sjohnny200: raises $3 to $4
+gaiggibeliin: calls $3
+*** FLOP *** [9s Ks 6d]
+gaiggibeliin: checks 
+sjohnny200: bets $7
+vlrma_ joins the table at seat #2 
+gaiggibeliin: calls $7
+*** TURN *** [9s Ks 6d] [Tc]
+gaiggibeliin: checks 
+travelerk.s joins the table at seat #6 
+sjohnny200: checks 
+*** RIVER *** [9s Ks 6d Tc] [Ad]
+gaiggibeliin: checks 
+sjohnny200: bets $13
+gaiggibeliin: folds 
+Uncalled bet ($13) returned to sjohnny200
+sjohnny200 collected $22.80 from pot
+sjohnny200: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $1.20 
+Board [9s Ks 6d Tc Ad]
+Seat 3: gaiggibeliin folded on the River
+Seat 4: sjohnny200 (button blind) collected ($22.80)
+
+
+

@@ -1,0 +1,4382 @@
+﻿PokerStars Hand #196134096541:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:23:35 EET [2019/01/23 16:23:35 ET]
+Table 'Heidelberga II' 6-max Seat #6 is the button
+Seat 1: madkokko ($222.98 in chips) 
+Seat 2: bumbumpau ($236.96 in chips) 
+Seat 3: sjohnny200 ($146.67 in chips) 
+Seat 4: gaiggibeliin ($150 in chips) 
+Seat 5: danipesis ($231.49 in chips) 
+Seat 6: M1TR4ND1R ($150 in chips) 
+madkokko: posts the ante $1
+bumbumpau: posts the ante $1
+sjohnny200: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+M1TR4ND1R: posts the ante $1
+M1TR4ND1R: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kd 7d]
+madkokko: folds 
+bumbumpau: folds 
+sjohnny200: raises $8 to $9
+gaiggibeliin: folds 
+danipesis: folds 
+M1TR4ND1R: folds 
+Uncalled bet ($8) returned to sjohnny200
+sjohnny200 collected $8 from pot
+sjohnny200: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0 
+Seat 1: madkokko folded before Flop (didn't bet)
+Seat 2: bumbumpau folded before Flop (didn't bet)
+Seat 3: sjohnny200 collected ($8)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: danipesis folded before Flop (didn't bet)
+Seat 6: M1TR4ND1R (button blind) folded before Flop
+
+
+
+PokerStars Hand #196134114172:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:23:56 EET [2019/01/23 16:23:56 ET]
+Table 'Heidelberga II' 6-max Seat #1 is the button
+Seat 1: madkokko ($221.98 in chips) 
+Seat 2: bumbumpau ($235.96 in chips) 
+Seat 3: sjohnny200 ($152.67 in chips) 
+Seat 4: gaiggibeliin ($149 in chips) 
+Seat 5: danipesis ($230.49 in chips) 
+Seat 6: M1TR4ND1R ($150 in chips) 
+madkokko: posts the ante $1
+bumbumpau: posts the ante $1
+sjohnny200: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+M1TR4ND1R: posts the ante $1
+madkokko: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9c Kh]
+bumbumpau: raises $5 to $6
+sjohnny200: calls $6
+gaiggibeliin: folds 
+danipesis: folds 
+M1TR4ND1R: folds 
+madkokko: calls $5
+*** FLOP *** [8c Qc Jh]
+bumbumpau: bets $13
+sjohnny200: calls $13
+madkokko: calls $13
+*** TURN *** [8c Qc Jh] [9d]
+bumbumpau: checks 
+sjohnny200: bets $33
+madkokko: calls $33
+bumbumpau: folds 
+*** RIVER *** [8c Qc Jh 9d] [Ad]
+sjohnny200: bets $38
+madkokko has timed out
+madkokko: folds 
+Uncalled bet ($38) returned to sjohnny200
+sjohnny200 collected $126.25 from pot
+sjohnny200: doesn't show hand 
+*** SUMMARY ***
+Total pot $129 | Rake $2.75 
+Board [8c Qc Jh 9d Ad]
+Seat 1: madkokko (button blind) folded on the River
+Seat 2: bumbumpau folded on the Turn
+Seat 3: sjohnny200 collected ($126.25)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: danipesis folded before Flop (didn't bet)
+Seat 6: M1TR4ND1R folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196134182604:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:25:20 EET [2019/01/23 16:25:20 ET]
+Table 'Heidelberga II' 6-max Seat #2 is the button
+Seat 1: madkokko ($168.98 in chips) 
+Seat 2: bumbumpau ($215.96 in chips) 
+Seat 3: sjohnny200 ($225.92 in chips) 
+Seat 4: gaiggibeliin ($148 in chips) 
+Seat 5: danipesis ($229.49 in chips) 
+Seat 6: M1TR4ND1R ($150 in chips) 
+madkokko: posts the ante $1
+bumbumpau: posts the ante $1
+sjohnny200: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+M1TR4ND1R: posts the ante $1
+bumbumpau: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7d 9h]
+sjohnny200: raises $8 to $9
+gaiggibeliin: folds 
+danipesis: folds 
+M1TR4ND1R: calls $9
+madkokko: calls $9
+bumbumpau: folds 
+*** FLOP *** [Jd 7c Ks]
+sjohnny200: checks 
+M1TR4ND1R: checks 
+madkokko: checks 
+*** TURN *** [Jd 7c Ks] [7s]
+sjohnny200: bets $22
+M1TR4ND1R: folds 
+madkokko: folds 
+Uncalled bet ($22) returned to sjohnny200
+sjohnny200 collected $32.30 from pot
+sjohnny200: doesn't show hand 
+*** SUMMARY ***
+Total pot $34 | Rake $1.70 
+Board [Jd 7c Ks 7s]
+Seat 1: madkokko folded on the Turn
+Seat 2: bumbumpau (button blind) folded before Flop
+Seat 3: sjohnny200 collected ($32.30)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: danipesis folded before Flop (didn't bet)
+Seat 6: M1TR4ND1R folded on the Turn
+
+
+
+PokerStars Hand #196134220998:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:26:08 EET [2019/01/23 16:26:08 ET]
+Table 'Heidelberga II' 6-max Seat #3 is the button
+Seat 1: madkokko ($158.98 in chips) 
+Seat 2: bumbumpau ($213.96 in chips) 
+Seat 3: sjohnny200 ($248.22 in chips) 
+Seat 4: gaiggibeliin ($147 in chips) 
+Seat 5: danipesis ($228.49 in chips) 
+Seat 6: M1TR4ND1R ($150 in chips) 
+madkokko: posts the ante $1
+bumbumpau: posts the ante $1
+sjohnny200: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+M1TR4ND1R: posts the ante $1
+sjohnny200: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6h 6d]
+gaiggibeliin: calls $1
+danipesis: folds 
+M1TR4ND1R: folds 
+madkokko: folds 
+madkokko leaves the table
+bumbumpau: raises $7 to $8
+sjohnny200: calls $7
+gaiggibeliin: calls $7
+*** FLOP *** [Qs Ac 7c]
+gaiggibeliin: checks 
+bumbumpau: checks 
+sjohnny200: bets $19
+gaiggibeliin: folds 
+bumbumpau: folds 
+Uncalled bet ($19) returned to sjohnny200
+sjohnny200 collected $28.50 from pot
+sjohnny200: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $1.50 
+Board [Qs Ac 7c]
+Seat 1: madkokko folded before Flop (didn't bet)
+Seat 2: bumbumpau folded on the Flop
+Seat 3: sjohnny200 (button blind) collected ($28.50)
+Seat 4: gaiggibeliin folded on the Flop
+Seat 5: danipesis folded before Flop (didn't bet)
+Seat 6: M1TR4ND1R folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196134267501:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:27:04 EET [2019/01/23 16:27:04 ET]
+Table 'Heidelberga II' 6-max Seat #4 is the button
+Seat 2: bumbumpau ($204.96 in chips) 
+Seat 3: sjohnny200 ($267.72 in chips) 
+Seat 4: gaiggibeliin ($138 in chips) 
+Seat 5: danipesis ($227.49 in chips) 
+Seat 6: M1TR4ND1R ($150 in chips) 
+bumbumpau: posts the ante $1
+sjohnny200: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+M1TR4ND1R: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8d Th]
+danipesis: folds 
+M1TR4ND1R: folds 
+bumbumpau: raises $6 to $7
+sjohnny200: folds 
+Tiltkorv joins the table at seat #1 
+gaiggibeliin: calls $6
+*** FLOP *** [Qd 6c 7c]
+bumbumpau: bets $13
+gaiggibeliin: calls $13
+*** TURN *** [Qd 6c 7c] [Js]
+bumbumpau: checks 
+gaiggibeliin: checks 
+*** RIVER *** [Qd 6c 7c Js] [Qh]
+bumbumpau: bets $28
+gaiggibeliin: folds 
+Uncalled bet ($28) returned to bumbumpau
+bumbumpau collected $42.75 from pot
+*** SUMMARY ***
+Total pot $45 | Rake $2.25 
+Board [Qd 6c 7c Js Qh]
+Seat 2: bumbumpau collected ($42.75)
+Seat 3: sjohnny200 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin (button blind) folded on the River
+Seat 5: danipesis folded before Flop (didn't bet)
+Seat 6: M1TR4ND1R folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196134337530:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:28:30 EET [2019/01/23 16:28:30 ET]
+Table 'Heidelberga II' 6-max Seat #5 is the button
+Seat 1: Tiltkorv ($150 in chips) 
+Seat 2: bumbumpau ($226.71 in chips) 
+Seat 3: sjohnny200 ($266.72 in chips) 
+Seat 4: gaiggibeliin ($117 in chips) 
+Seat 5: danipesis ($226.49 in chips) 
+Seat 6: M1TR4ND1R ($150 in chips) 
+Tiltkorv: posts the ante $1
+bumbumpau: posts the ante $1
+sjohnny200: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+M1TR4ND1R: posts the ante $1
+danipesis: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jc 6h]
+M1TR4ND1R: calls $1
+Tiltkorv: folds 
+bumbumpau: raises $6 to $7
+sjohnny200: calls $7
+gaiggibeliin: folds 
+danipesis: folds 
+M1TR4ND1R: calls $6
+*** FLOP *** [7c 9s 8c]
+M1TR4ND1R: checks 
+bumbumpau: bets $19
+sjohnny200: folds 
+M1TR4ND1R: calls $19
+*** TURN *** [7c 9s 8c] [Ac]
+M1TR4ND1R: checks 
+bumbumpau: checks 
+*** RIVER *** [7c 9s 8c Ac] [6s]
+M1TR4ND1R: bets $34.16
+bumbumpau: calls $34.16
+*** SHOW DOWN ***
+M1TR4ND1R: shows [Ts Qs] (a straight, Six to Ten)
+bumbumpau: shows [Td Js] (a straight, Seven to Jack)
+bumbumpau collected $131.57 from pot
+*** SUMMARY ***
+Total pot $134.32 | Rake $2.75 
+Board [7c 9s 8c Ac 6s]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: bumbumpau showed [Td Js] and won ($131.57) with a straight, Seven to Jack
+Seat 3: sjohnny200 folded on the Flop
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: danipesis (button blind) folded before Flop
+Seat 6: M1TR4ND1R showed [Ts Qs] and lost with a straight, Six to Ten
+
+
+
+PokerStars Hand #196134406912:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:29:55 EET [2019/01/23 16:29:55 ET]
+Table 'Heidelberga II' 6-max Seat #6 is the button
+Seat 1: Tiltkorv ($149 in chips) 
+Seat 2: bumbumpau ($297.12 in chips) 
+Seat 3: sjohnny200 ($258.72 in chips) 
+Seat 4: gaiggibeliin ($116 in chips) 
+Seat 5: danipesis ($224.49 in chips) 
+Seat 6: M1TR4ND1R ($150 in chips) 
+Tiltkorv: posts the ante $1
+bumbumpau: posts the ante $1
+sjohnny200: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+M1TR4ND1R: posts the ante $1
+M1TR4ND1R: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Js 8d]
+Tiltkorv: folds 
+bumbumpau: folds 
+sjohnny200: folds 
+gaiggibeliin: folds 
+danipesis: folds 
+Uncalled bet ($1) returned to M1TR4ND1R
+M1TR4ND1R collected $6 from pot
+M1TR4ND1R: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: bumbumpau folded before Flop (didn't bet)
+Seat 3: sjohnny200 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: danipesis folded before Flop (didn't bet)
+Seat 6: M1TR4ND1R (button blind) collected ($6)
+
+
+
+PokerStars Hand #196134416808:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:30:07 EET [2019/01/23 16:30:07 ET]
+Table 'Heidelberga II' 6-max Seat #1 is the button
+Seat 1: Tiltkorv ($148 in chips) 
+Seat 2: bumbumpau ($296.12 in chips) 
+Seat 3: sjohnny200 ($257.72 in chips) 
+Seat 4: gaiggibeliin ($115 in chips) 
+Seat 5: danipesis ($223.49 in chips) 
+Seat 6: M1TR4ND1R ($155 in chips) 
+Tiltkorv: posts the ante $1
+bumbumpau: posts the ante $1
+sjohnny200: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Tiltkorv: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6h Ac]
+bumbumpau: folds 
+sjohnny200: raises $8 to $9
+gaiggibeliin: folds 
+danipesis: folds 
+M1TR4ND1R: folds 
+Tiltkorv: calls $8
+*** FLOP *** [7s Kd Jh]
+sjohnny200: bets $11.40
+Tiltkorv: calls $11.40
+*** TURN *** [7s Kd Jh] [Qc]
+sjohnny200: checks 
+Tiltkorv: bets $24
+sjohnny200: folds 
+Uncalled bet ($24) returned to Tiltkorv
+Tiltkorv collected $44.46 from pot
+Tiltkorv: doesn't show hand 
+*** SUMMARY ***
+Total pot $46.80 | Rake $2.34 
+Board [7s Kd Jh Qc]
+Seat 1: Tiltkorv (button blind) collected ($44.46)
+Seat 2: bumbumpau folded before Flop (didn't bet)
+Seat 3: sjohnny200 folded on the Turn
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: danipesis folded before Flop (didn't bet)
+Seat 6: M1TR4ND1R folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196134443070:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:30:40 EET [2019/01/23 16:30:40 ET]
+Table 'Heidelberga II' 6-max Seat #2 is the button
+Seat 1: Tiltkorv ($171.06 in chips) 
+Seat 2: bumbumpau ($295.12 in chips) 
+Seat 3: sjohnny200 ($236.32 in chips) 
+Seat 4: gaiggibeliin ($114 in chips) 
+Seat 5: danipesis ($222.49 in chips) 
+Seat 6: M1TR4ND1R ($154 in chips) 
+Tiltkorv: posts the ante $1
+bumbumpau: posts the ante $1
+sjohnny200: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+M1TR4ND1R: posts the ante $1
+bumbumpau: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9h 9s]
+sjohnny200: raises $8 to $9
+gaiggibeliin: calls $9
+danipesis: folds 
+M1TR4ND1R: folds 
+Tiltkorv: folds 
+bumbumpau: raises $32 to $41
+sjohnny200: calls $32
+gaiggibeliin: calls $32
+*** FLOP *** [9d Jh 6c]
+sjohnny200: bets $126.25
+gaiggibeliin: calls $72 and is all-in
+bumbumpau: raises $126.87 to $253.12 and is all-in
+sjohnny200: calls $68.07 and is all-in
+Uncalled bet ($58.80) returned to bumbumpau
+*** TURN *** [9d Jh 6c] [Qd]
+*** RIVER *** [9d Jh 6c Qd] [Kc]
+*** SHOW DOWN ***
+sjohnny200: shows [7s 8s] (high card King)
+bumbumpau: shows [Ad Ac] (a pair of Aces)
+bumbumpau collected $244.64 from side pot
+gaiggibeliin: shows [9h 9s] (three of a kind, Nines)
+gaiggibeliin collected $342.25 from main pot
+*** SUMMARY ***
+Total pot $589.64 Main pot $342.25. Side pot $244.64. | Rake $2.75 
+Board [9d Jh 6c Qd Kc]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: bumbumpau (button blind) showed [Ad Ac] and won ($244.64) with a pair of Aces
+Seat 3: sjohnny200 showed [7s 8s] and lost with high card King
+Seat 4: gaiggibeliin showed [9h 9s] and won ($342.25) with three of a kind, Nines
+Seat 5: danipesis folded before Flop (didn't bet)
+Seat 6: M1TR4ND1R folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196134487930:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:31:35 EET [2019/01/23 16:31:35 ET]
+Table 'Heidelberga II' 6-max Seat #4 is the button
+Seat 1: Tiltkorv ($170.06 in chips) 
+Seat 2: bumbumpau ($303.44 in chips) 
+Seat 4: gaiggibeliin ($342.25 in chips) 
+Seat 5: danipesis ($221.49 in chips) 
+Seat 6: M1TR4ND1R ($153 in chips) 
+Tiltkorv: posts the ante $1
+bumbumpau: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+M1TR4ND1R: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7d Jh]
+danipesis: folds 
+M1TR4ND1R: folds 
+Tiltkorv: folds 
+bumbumpau: folds 
+Uncalled bet ($1) returned to gaiggibeliin
+gaiggibeliin collected $5 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: bumbumpau folded before Flop (didn't bet)
+Seat 4: gaiggibeliin (button blind) collected ($5)
+Seat 5: danipesis folded before Flop (didn't bet)
+Seat 6: M1TR4ND1R folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196134502494:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:31:53 EET [2019/01/23 16:31:53 ET]
+Table 'Heidelberga II' 6-max Seat #5 is the button
+Seat 1: Tiltkorv ($169.06 in chips) 
+Seat 2: bumbumpau ($302.44 in chips) 
+Seat 3: sjohnny200 ($150 in chips) 
+Seat 4: gaiggibeliin ($346.25 in chips) 
+Seat 5: danipesis ($220.49 in chips) 
+Seat 6: M1TR4ND1R ($152 in chips) 
+Tiltkorv: posts the ante $1
+bumbumpau: posts the ante $1
+sjohnny200: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+M1TR4ND1R: posts the ante $1
+danipesis: posts button blind $1
+sjohnny200: posts big blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6s 8c]
+M1TR4ND1R: folds 
+Tiltkorv: folds 
+bumbumpau: raises $6 to $7
+sjohnny200: calls $6
+gaiggibeliin: folds 
+danipesis: folds 
+*** FLOP *** [8h Ac 6d]
+bumbumpau: checks 
+sjohnny200: checks 
+*** TURN *** [8h Ac 6d] [Jc]
+bumbumpau: checks 
+sjohnny200: bets $15
+bumbumpau: folds 
+Uncalled bet ($15) returned to sjohnny200
+sjohnny200 collected $19.95 from pot
+sjohnny200: doesn't show hand 
+*** SUMMARY ***
+Total pot $21 | Rake $1.05 
+Board [8h Ac 6d Jc]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: bumbumpau folded on the Turn
+Seat 3: sjohnny200 collected ($19.95)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: danipesis (button blind) folded before Flop
+Seat 6: M1TR4ND1R folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196134534783:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:32:33 EET [2019/01/23 16:32:33 ET]
+Table 'Heidelberga II' 6-max Seat #6 is the button
+Seat 1: Tiltkorv ($168.06 in chips) 
+Seat 2: bumbumpau ($294.44 in chips) 
+Seat 3: sjohnny200 ($161.95 in chips) 
+Seat 4: gaiggibeliin ($345.25 in chips) 
+Seat 5: danipesis ($218.49 in chips) 
+Seat 6: M1TR4ND1R ($151 in chips) 
+Tiltkorv: posts the ante $1
+bumbumpau: posts the ante $1
+sjohnny200: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+M1TR4ND1R: posts the ante $1
+M1TR4ND1R: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qc 8h]
+Tiltkorv: folds 
+bumbumpau: raises $5 to $6
+sjohnny200: calls $6
+gaiggibeliin: folds 
+danipesis: calls $6
+M1TR4ND1R: raises $144 to $150 and is all-in
+bumbumpau: folds 
+sjohnny200: raises $10.95 to $160.95 and is all-in
+danipesis: folds 
+Uncalled bet ($10.95) returned to sjohnny200
+*** FLOP *** [Ah 8c Kc]
+*** TURN *** [Ah 8c Kc] [6h]
+*** RIVER *** [Ah 8c Kc 6h] [Jc]
+*** SHOW DOWN ***
+sjohnny200: shows [9s 6s] (a pair of Sixes)
+M1TR4ND1R: shows [Jh Th] (a pair of Jacks)
+M1TR4ND1R collected $315.25 from pot
+*** SUMMARY ***
+Total pot $318 | Rake $2.75 
+Board [Ah 8c Kc 6h Jc]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: bumbumpau folded before Flop
+Seat 3: sjohnny200 showed [9s 6s] and lost with a pair of Sixes
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: danipesis folded before Flop
+Seat 6: M1TR4ND1R (button blind) showed [Jh Th] and won ($315.25) with a pair of Jacks
+
+
+
+PokerStars Hand #196134564470:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:33:09 EET [2019/01/23 16:33:09 ET]
+Table 'Heidelberga II' 6-max Seat #1 is the button
+Seat 1: Tiltkorv ($167.06 in chips) 
+Seat 2: bumbumpau ($287.44 in chips) 
+Seat 3: sjohnny200 ($10.95 in chips) 
+Seat 4: gaiggibeliin ($344.25 in chips) 
+Seat 5: danipesis ($211.49 in chips) 
+Seat 6: M1TR4ND1R ($315.25 in chips) 
+Tiltkorv: posts the ante $1
+bumbumpau: posts the ante $1
+sjohnny200: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Tiltkorv: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9c Ts]
+bumbumpau: folds 
+sjohnny200: raises $8.95 to $9.95 and is all-in
+gaiggibeliin: folds 
+danipesis: folds 
+M1TR4ND1R: folds 
+Tiltkorv: calls $8.95
+*** FLOP *** [8h 9d 6s]
+*** TURN *** [8h 9d 6s] [Ah]
+*** RIVER *** [8h 9d 6s Ah] [8d]
+*** SHOW DOWN ***
+sjohnny200: shows [Tc Jc] (a pair of Eights)
+Tiltkorv: shows [7h 7s] (a straight, Ace to Nine)
+Tiltkorv collected $24.60 from pot
+*** SUMMARY ***
+Total pot $25.90 | Rake $1.30 
+Board [8h 9d 6s Ah 8d]
+Seat 1: Tiltkorv (button blind) showed [7h 7s] and won ($24.60) with a straight, Ace to Nine
+Seat 2: bumbumpau folded before Flop (didn't bet)
+Seat 3: sjohnny200 showed [Tc Jc] and lost with a pair of Eights
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: danipesis folded before Flop (didn't bet)
+Seat 6: M1TR4ND1R folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196134586899:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:33:37 EET [2019/01/23 16:33:37 ET]
+Table 'Heidelberga II' 6-max Seat #2 is the button
+Seat 1: Tiltkorv ($180.71 in chips) 
+Seat 2: bumbumpau ($286.44 in chips) 
+Seat 4: gaiggibeliin ($343.25 in chips) 
+Seat 5: danipesis ($210.49 in chips) 
+Seat 6: M1TR4ND1R ($314.25 in chips) 
+Tiltkorv: posts the ante $1
+bumbumpau: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+M1TR4ND1R: posts the ante $1
+bumbumpau: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ah Kc]
+sjohnny200 leaves the table
+gaiggibeliin: calls $1
+danipesis: calls $1
+M1TR4ND1R: calls $1
+Tiltkorv: calls $1
+bumbumpau: checks 
+*** FLOP *** [8c 7h 9h]
+gaiggibeliin: checks 
+danipesis: checks 
+M1TR4ND1R: checks 
+Tiltkorv: bets $6
+bumbumpau: folds 
+gaiggibeliin: folds 
+danipesis: folds 
+M1TR4ND1R: calls $6
+*** TURN *** [8c 7h 9h] [Tc]
+M1TR4ND1R: checks 
+Tiltkorv: checks 
+*** RIVER *** [8c 7h 9h Tc] [Qh]
+M1TR4ND1R: checks 
+Tiltkorv: checks 
+*** SHOW DOWN ***
+M1TR4ND1R: shows [6s 8s] (a straight, Six to Ten)
+Tiltkorv: mucks hand 
+M1TR4ND1R collected $20.90 from pot
+*** SUMMARY ***
+Total pot $22 | Rake $1.10 
+Board [8c 7h 9h Tc Qh]
+Seat 1: Tiltkorv mucked [7s 9s]
+Seat 2: bumbumpau (button blind) folded on the Flop
+Seat 4: gaiggibeliin folded on the Flop
+Seat 5: danipesis folded on the Flop
+Seat 6: M1TR4ND1R showed [6s 8s] and won ($20.90) with a straight, Six to Ten
+
+
+
+PokerStars Hand #196134650786:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:34:57 EET [2019/01/23 16:34:57 ET]
+Table 'Heidelberga II' 6-max Seat #4 is the button
+Seat 1: Tiltkorv ($172.71 in chips) 
+Seat 2: bumbumpau ($284.44 in chips) 
+Seat 4: gaiggibeliin ($341.25 in chips) 
+Seat 5: danipesis ($208.49 in chips) 
+Seat 6: M1TR4ND1R ($327.15 in chips) 
+Tiltkorv: posts the ante $1
+bumbumpau: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+M1TR4ND1R: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6s 7d]
+danipesis: folds 
+M1TR4ND1R: folds 
+Tiltkorv: folds 
+bumbumpau: raises $6 to $7
+gaiggibeliin: calls $6
+*** FLOP *** [8h 6d Jh]
+bumbumpau: bets $12
+gaiggibeliin: folds 
+Uncalled bet ($12) returned to bumbumpau
+bumbumpau collected $18.05 from pot
+*** SUMMARY ***
+Total pot $19 | Rake $0.95 
+Board [8h 6d Jh]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: bumbumpau collected ($18.05)
+Seat 4: gaiggibeliin (button blind) folded on the Flop
+Seat 5: danipesis folded before Flop (didn't bet)
+Seat 6: M1TR4ND1R folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196134672658:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:35:24 EET [2019/01/23 16:35:24 ET]
+Table 'Heidelberga II' 6-max Seat #5 is the button
+Seat 1: Tiltkorv ($171.71 in chips) 
+Seat 2: bumbumpau ($294.49 in chips) 
+Seat 4: gaiggibeliin ($333.25 in chips) 
+Seat 5: danipesis ($207.49 in chips) 
+Seat 6: M1TR4ND1R ($326.15 in chips) 
+Tiltkorv: posts the ante $1
+bumbumpau: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+M1TR4ND1R: posts the ante $1
+danipesis: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7s Js]
+Martlith joins the table at seat #3 
+M1TR4ND1R: folds 
+Tiltkorv: folds 
+bumbumpau: raises $5 to $6
+gaiggibeliin: folds 
+danipesis: folds 
+Uncalled bet ($5) returned to bumbumpau
+bumbumpau collected $7 from pot
+*** SUMMARY ***
+Total pot $7 | Rake $0 
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: bumbumpau collected ($7)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: danipesis (button blind) folded before Flop
+Seat 6: M1TR4ND1R folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196134703303:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:36:03 EET [2019/01/23 16:36:03 ET]
+Table 'Heidelberga II' 6-max Seat #6 is the button
+Seat 1: Tiltkorv ($170.71 in chips) 
+Seat 2: bumbumpau ($299.49 in chips) 
+Seat 3: Martlith ($108.36 in chips) 
+Seat 4: gaiggibeliin ($332.25 in chips) 
+Seat 5: danipesis ($205.49 in chips) 
+Seat 6: M1TR4ND1R ($325.15 in chips) 
+Tiltkorv: posts the ante $1
+bumbumpau: posts the ante $1
+Martlith: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+M1TR4ND1R: posts the ante $1
+M1TR4ND1R: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7h Qc]
+Tiltkorv: folds 
+bumbumpau: folds 
+Martlith: raises $4 to $5
+gaiggibeliin: folds 
+danipesis: folds 
+M1TR4ND1R: calls $4
+*** FLOP *** [Js Qs Jh]
+Martlith: bets $7.60
+M1TR4ND1R: calls $7.60
+*** TURN *** [Js Qs Jh] [8d]
+Martlith: bets $11
+M1TR4ND1R: folds 
+Uncalled bet ($11) returned to Martlith
+Martlith collected $29.64 from pot
+*** SUMMARY ***
+Total pot $31.20 | Rake $1.56 
+Board [Js Qs Jh 8d]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: bumbumpau folded before Flop (didn't bet)
+Seat 3: Martlith collected ($29.64)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: danipesis folded before Flop (didn't bet)
+Seat 6: M1TR4ND1R (button blind) folded on the Turn
+
+
+
+PokerStars Hand #196134739282:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:36:48 EET [2019/01/23 16:36:48 ET]
+Table 'Heidelberga II' 6-max Seat #1 is the button
+Seat 1: Tiltkorv ($169.71 in chips) 
+Seat 2: bumbumpau ($298.49 in chips) 
+Seat 3: Martlith ($124.40 in chips) 
+Seat 4: gaiggibeliin ($331.25 in chips) 
+Seat 5: danipesis ($204.49 in chips) 
+Seat 6: M1TR4ND1R ($311.55 in chips) 
+Tiltkorv: posts the ante $1
+bumbumpau: posts the ante $1
+Martlith: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Tiltkorv: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ah Jc]
+bumbumpau: folds 
+Martlith: folds 
+gaiggibeliin: raises $8 to $9
+danipesis: calls $9
+M1TR4ND1R: folds 
+Tiltkorv: calls $8
+*** FLOP *** [7s Th 9c]
+gaiggibeliin: checks 
+danipesis: bets $22
+Tiltkorv: calls $22
+gaiggibeliin: folds 
+*** TURN *** [7s Th 9c] [Kd]
+danipesis: bets $42
+Tiltkorv: calls $42
+*** RIVER *** [7s Th 9c Kd] [Jh]
+danipesis: bets $35
+Tiltkorv: calls $35
+*** SHOW DOWN ***
+danipesis: shows [Qs Js] (a straight, Nine to King)
+Tiltkorv: mucks hand 
+danipesis collected $228.25 from pot
+*** SUMMARY ***
+Total pot $231 | Rake $2.75 
+Board [7s Th 9c Kd Jh]
+Seat 1: Tiltkorv (button blind) mucked [8d 8s]
+Seat 2: bumbumpau folded before Flop (didn't bet)
+Seat 3: Martlith folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded on the Flop
+Seat 5: danipesis showed [Qs Js] and won ($228.25) with a straight, Nine to King
+Seat 6: M1TR4ND1R folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196134801018:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:38:05 EET [2019/01/23 16:38:05 ET]
+Table 'Heidelberga II' 6-max Seat #2 is the button
+Seat 1: Tiltkorv ($60.71 in chips) 
+Seat 2: bumbumpau ($297.49 in chips) 
+Seat 3: Martlith ($123.40 in chips) 
+Seat 4: gaiggibeliin ($321.25 in chips) 
+Seat 5: danipesis ($323.74 in chips) 
+Seat 6: M1TR4ND1R ($310.55 in chips) 
+Tiltkorv: posts the ante $1
+bumbumpau: posts the ante $1
+Martlith: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+M1TR4ND1R: posts the ante $1
+bumbumpau: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6s Qd]
+Martlith: raises $6 to $7
+gaiggibeliin: folds 
+danipesis: folds 
+M1TR4ND1R: folds 
+Tiltkorv: folds 
+bumbumpau: folds 
+Uncalled bet ($6) returned to Martlith
+Martlith collected $8 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0 
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: bumbumpau (button blind) folded before Flop
+Seat 3: Martlith collected ($8)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: danipesis folded before Flop (didn't bet)
+Seat 6: M1TR4ND1R folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196134813745:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:38:21 EET [2019/01/23 16:38:21 ET]
+Table 'Heidelberga II' 6-max Seat #3 is the button
+Seat 1: Tiltkorv ($59.71 in chips) 
+Seat 2: bumbumpau ($295.49 in chips) 
+Seat 3: Martlith ($129.40 in chips) 
+Seat 4: gaiggibeliin ($320.25 in chips) 
+Seat 5: danipesis ($322.74 in chips) 
+Seat 6: M1TR4ND1R ($309.55 in chips) 
+Tiltkorv: posts the ante $1
+bumbumpau: posts the ante $1
+Martlith: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Martlith: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9c Ac]
+gaiggibeliin: calls $1
+danipesis: folds 
+M1TR4ND1R: folds 
+Tiltkorv: folds 
+bumbumpau: calls $1
+Martlith: checks 
+*** FLOP *** [Qd Ks Js]
+gaiggibeliin: checks 
+bumbumpau: bets $7
+Martlith: folds 
+gaiggibeliin: folds 
+Uncalled bet ($7) returned to bumbumpau
+bumbumpau collected $8.55 from pot
+*** SUMMARY ***
+Total pot $9 | Rake $0.45 
+Board [Qd Ks Js]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: bumbumpau collected ($8.55)
+Seat 3: Martlith (button blind) folded on the Flop
+Seat 4: gaiggibeliin folded on the Flop
+Seat 5: danipesis folded before Flop (didn't bet)
+Seat 6: M1TR4ND1R folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196134858679:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:39:18 EET [2019/01/23 16:39:18 ET]
+Table 'Heidelberga II' 6-max Seat #4 is the button
+Seat 1: Tiltkorv ($58.71 in chips) 
+Seat 2: bumbumpau ($302.04 in chips) 
+Seat 3: Martlith ($127.40 in chips) 
+Seat 4: gaiggibeliin ($318.25 in chips) 
+Seat 5: danipesis ($321.74 in chips) 
+Seat 6: M1TR4ND1R ($308.55 in chips) 
+Tiltkorv: posts the ante $1
+bumbumpau: posts the ante $1
+Martlith: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+M1TR4ND1R: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Js Ah]
+danipesis: folds 
+M1TR4ND1R: folds 
+Tiltkorv: folds 
+bumbumpau: folds 
+Martlith: raises $5 to $6
+gaiggibeliin: calls $5
+*** FLOP *** [Kh 7h Jd]
+Martlith: checks 
+gaiggibeliin: bets $11.46
+Martlith: folds 
+Uncalled bet ($11.46) returned to gaiggibeliin
+gaiggibeliin collected $17.10 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.90 
+Board [Kh 7h Jd]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: bumbumpau folded before Flop (didn't bet)
+Seat 3: Martlith folded on the Flop
+Seat 4: gaiggibeliin (button blind) collected ($17.10)
+Seat 5: danipesis folded before Flop (didn't bet)
+Seat 6: M1TR4ND1R folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196134892955:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:40:00 EET [2019/01/23 16:40:00 ET]
+Table 'Heidelberga II' 6-max Seat #5 is the button
+Seat 1: Tiltkorv ($57.71 in chips) 
+Seat 2: bumbumpau ($301.04 in chips) 
+Seat 3: Martlith ($120.40 in chips) 
+Seat 4: gaiggibeliin ($328.35 in chips) 
+Seat 5: danipesis ($320.74 in chips) 
+Seat 6: M1TR4ND1R ($307.55 in chips) 
+Tiltkorv: posts the ante $1
+bumbumpau: posts the ante $1
+Martlith: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+M1TR4ND1R: posts the ante $1
+danipesis: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qs 8s]
+M1TR4ND1R: folds 
+Tiltkorv: folds 
+bumbumpau: raises $6 to $7
+Martlith: folds 
+gaiggibeliin: folds 
+danipesis: calls $6
+*** FLOP *** [Tc Jc Td]
+bumbumpau: bets $11
+danipesis: folds 
+Uncalled bet ($11) returned to bumbumpau
+bumbumpau collected $19 from pot
+*** SUMMARY ***
+Total pot $20 | Rake $1 
+Board [Tc Jc Td]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: bumbumpau collected ($19)
+Seat 3: Martlith folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: danipesis (button blind) folded on the Flop
+Seat 6: M1TR4ND1R folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196134960197:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:41:22 EET [2019/01/23 16:41:22 ET]
+Table 'Heidelberga II' 6-max Seat #1 is the button
+Seat 1: Tiltkorv ($55.71 in chips) 
+Seat 2: bumbumpau ($288.04 in chips) 
+Seat 3: Martlith ($118.40 in chips) 
+Seat 4: gaiggibeliin ($327.35 in chips) 
+Seat 5: danipesis ($311.74 in chips) 
+Seat 6: M1TR4ND1R ($331 in chips) 
+Tiltkorv: posts the ante $1
+bumbumpau: posts the ante $1
+Martlith: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Tiltkorv: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Td Jh]
+bumbumpau: folds 
+Martlith: calls $1
+gaiggibeliin: calls $1
+danipesis: folds 
+M1TR4ND1R: folds 
+Tiltkorv: checks 
+*** FLOP *** [6s As 6d]
+Martlith: checks 
+gaiggibeliin: checks 
+Tiltkorv: bets $4
+Martlith: folds 
+gaiggibeliin: folds 
+Uncalled bet ($4) returned to Tiltkorv
+Tiltkorv collected $8.55 from pot
+Tiltkorv: doesn't show hand 
+*** SUMMARY ***
+Total pot $9 | Rake $0.45 
+Board [6s As 6d]
+Seat 1: Tiltkorv (button blind) collected ($8.55)
+Seat 2: bumbumpau folded before Flop (didn't bet)
+Seat 3: Martlith folded on the Flop
+Seat 4: gaiggibeliin folded on the Flop
+Seat 5: danipesis folded before Flop (didn't bet)
+Seat 6: M1TR4ND1R folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196134995441:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:42:06 EET [2019/01/23 16:42:06 ET]
+Table 'Heidelberga II' 6-max Seat #2 is the button
+Seat 1: Tiltkorv ($62.26 in chips) 
+Seat 2: bumbumpau ($287.04 in chips) 
+Seat 3: Martlith ($116.40 in chips) 
+Seat 4: gaiggibeliin ($325.35 in chips) 
+Seat 5: danipesis ($310.74 in chips) 
+Seat 6: M1TR4ND1R ($330 in chips) 
+Tiltkorv: posts the ante $1
+bumbumpau: posts the ante $1
+Martlith: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+M1TR4ND1R: posts the ante $1
+bumbumpau: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8h 7h]
+Martlith: folds 
+gaiggibeliin: calls $1
+danipesis: raises $8 to $9
+M1TR4ND1R: folds 
+Tiltkorv: calls $9
+bumbumpau: calls $8
+gaiggibeliin: calls $8
+*** FLOP *** [6h 8c Ah]
+gaiggibeliin: bets $26.73
+danipesis: folds 
+Tiltkorv: folds 
+bumbumpau: folds 
+Uncalled bet ($26.73) returned to gaiggibeliin
+gaiggibeliin collected $39.90 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $2.10 
+Board [6h 8c Ah]
+Seat 1: Tiltkorv folded on the Flop
+Seat 2: bumbumpau (button blind) folded on the Flop
+Seat 3: Martlith folded before Flop (didn't bet)
+Seat 4: gaiggibeliin collected ($39.90)
+Seat 5: danipesis folded on the Flop
+Seat 6: M1TR4ND1R folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196135042406:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:43:06 EET [2019/01/23 16:43:06 ET]
+Table 'Heidelberga II' 6-max Seat #3 is the button
+Seat 1: Tiltkorv ($52.26 in chips) 
+Seat 2: bumbumpau ($277.04 in chips) 
+Seat 3: Martlith ($115.40 in chips) 
+Seat 4: gaiggibeliin ($355.25 in chips) 
+Seat 5: danipesis ($300.74 in chips) 
+Seat 6: M1TR4ND1R ($329 in chips) 
+Tiltkorv: posts the ante $1
+bumbumpau: posts the ante $1
+Martlith: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Martlith: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ts Jd]
+gaiggibeliin: folds 
+danipesis: calls $1
+M1TR4ND1R: folds 
+Tiltkorv: raises $50.26 to $51.26 and is all-in
+bumbumpau: folds 
+Martlith: folds 
+danipesis: folds 
+Uncalled bet ($50.26) returned to Tiltkorv
+Tiltkorv collected $9 from pot
+Tiltkorv: doesn't show hand 
+*** SUMMARY ***
+Total pot $9 | Rake $0 
+Seat 1: Tiltkorv collected ($9)
+Seat 2: bumbumpau folded before Flop (didn't bet)
+Seat 3: Martlith (button blind) folded before Flop
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: danipesis folded before Flop
+Seat 6: M1TR4ND1R folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196135061525:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:43:30 EET [2019/01/23 16:43:30 ET]
+Table 'Heidelberga II' 6-max Seat #4 is the button
+Seat 1: Tiltkorv ($59.26 in chips) 
+Seat 2: bumbumpau ($276.04 in chips) 
+Seat 3: Martlith ($113.40 in chips) 
+Seat 4: gaiggibeliin ($354.25 in chips) 
+Seat 5: danipesis ($298.74 in chips) 
+Seat 6: M1TR4ND1R ($328 in chips) 
+Tiltkorv: posts the ante $1
+bumbumpau: posts the ante $1
+Martlith: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+M1TR4ND1R: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jc Qd]
+danipesis: folds 
+M1TR4ND1R: folds 
+Tiltkorv: folds 
+bumbumpau: raises $7 to $8
+Martlith: folds 
+gaiggibeliin: calls $7
+*** FLOP *** [Jh 8s 9d]
+bumbumpau: checks 
+gaiggibeliin: bets $12
+bumbumpau: folds 
+Uncalled bet ($12) returned to gaiggibeliin
+gaiggibeliin collected $20.90 from pot
+*** SUMMARY ***
+Total pot $22 | Rake $1.10 
+Board [Jh 8s 9d]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: bumbumpau folded on the Flop
+Seat 3: Martlith folded before Flop (didn't bet)
+Seat 4: gaiggibeliin (button blind) collected ($20.90)
+Seat 5: danipesis folded before Flop (didn't bet)
+Seat 6: M1TR4ND1R folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196135087356:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:44:03 EET [2019/01/23 16:44:03 ET]
+Table 'Heidelberga II' 6-max Seat #5 is the button
+Seat 1: Tiltkorv ($58.26 in chips) 
+Seat 2: bumbumpau ($267.04 in chips) 
+Seat 3: Martlith ($112.40 in chips) 
+Seat 4: gaiggibeliin ($366.15 in chips) 
+Seat 5: danipesis ($297.74 in chips) 
+Seat 6: M1TR4ND1R ($327 in chips) 
+Tiltkorv: posts the ante $1
+bumbumpau: posts the ante $1
+Martlith: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+M1TR4ND1R: posts the ante $1
+danipesis: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ah Qs]
+M1TR4ND1R: calls $1
+Tiltkorv: folds 
+bumbumpau: raises $6 to $7
+Martlith: folds 
+gaiggibeliin: calls $7
+danipesis: calls $6
+M1TR4ND1R: raises $34 to $41
+bumbumpau: folds 
+gaiggibeliin: folds 
+danipesis: calls $34
+*** FLOP *** [Th Kc Ac]
+M1TR4ND1R: bets $53.60
+danipesis: calls $53.60
+*** TURN *** [Th Kc Ac] [6s]
+M1TR4ND1R: bets $231.40 and is all-in
+danipesis: folds 
+Uncalled bet ($231.40) returned to M1TR4ND1R
+M1TR4ND1R collected $206.45 from pot
+M1TR4ND1R: doesn't show hand 
+*** SUMMARY ***
+Total pot $209.20 | Rake $2.75 
+Board [Th Kc Ac 6s]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: bumbumpau folded before Flop
+Seat 3: Martlith folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop
+Seat 5: danipesis (button blind) folded on the Turn
+Seat 6: M1TR4ND1R collected ($206.45)
+
+
+
+PokerStars Hand #196135170060:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:45:47 EET [2019/01/23 16:45:47 ET]
+Table 'Heidelberga II' 6-max Seat #6 is the button
+Seat 1: Tiltkorv ($57.26 in chips) 
+Seat 2: bumbumpau ($259.04 in chips) 
+Seat 3: Martlith ($111.40 in chips) 
+Seat 4: gaiggibeliin ($358.15 in chips) 
+Seat 5: danipesis ($202.14 in chips) 
+Seat 6: M1TR4ND1R ($437.85 in chips) 
+Tiltkorv: posts the ante $1
+bumbumpau: posts the ante $1
+Martlith: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+M1TR4ND1R: posts the ante $1
+M1TR4ND1R: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6c 7h]
+Tiltkorv: folds 
+bumbumpau: raises $6 to $7
+Martlith: folds 
+gaiggibeliin: folds 
+danipesis: raises $23 to $30
+M1TR4ND1R: folds 
+bumbumpau: calls $23
+*** FLOP *** [7c Ac Qs]
+bumbumpau: checks 
+danipesis: bets $40
+bumbumpau: folds 
+Uncalled bet ($40) returned to danipesis
+danipesis collected $64.25 from pot
+danipesis: doesn't show hand 
+*** SUMMARY ***
+Total pot $67 | Rake $2.75 
+Board [7c Ac Qs]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: bumbumpau folded on the Flop
+Seat 3: Martlith folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: danipesis collected ($64.25)
+Seat 6: M1TR4ND1R (button blind) folded before Flop
+
+
+
+PokerStars Hand #196135198955:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:46:24 EET [2019/01/23 16:46:24 ET]
+Table 'Heidelberga II' 6-max Seat #1 is the button
+Seat 1: Tiltkorv ($56.26 in chips) 
+Seat 2: bumbumpau ($228.04 in chips) 
+Seat 3: Martlith ($110.40 in chips) 
+Seat 4: gaiggibeliin ($357.15 in chips) 
+Seat 5: danipesis ($235.39 in chips) 
+Seat 6: M1TR4ND1R ($435.85 in chips) 
+Tiltkorv: posts the ante $1
+bumbumpau: posts the ante $1
+Martlith: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Tiltkorv: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7d As]
+bumbumpau: folds 
+Martlith: folds 
+gaiggibeliin: folds 
+danipesis: folds 
+M1TR4ND1R: folds 
+Uncalled bet ($1) returned to Tiltkorv
+Tiltkorv collected $6 from pot
+Tiltkorv: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Tiltkorv (button blind) collected ($6)
+Seat 2: bumbumpau folded before Flop (didn't bet)
+Seat 3: Martlith folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: danipesis folded before Flop (didn't bet)
+Seat 6: M1TR4ND1R folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196135209644:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:46:37 EET [2019/01/23 16:46:37 ET]
+Table 'Heidelberga II' 6-max Seat #2 is the button
+Seat 1: Tiltkorv ($61.26 in chips) 
+Seat 2: bumbumpau ($227.04 in chips) 
+Seat 3: Martlith ($109.40 in chips) 
+Seat 4: gaiggibeliin ($356.15 in chips) 
+Seat 5: danipesis ($234.39 in chips) 
+Seat 6: M1TR4ND1R ($434.85 in chips) 
+Tiltkorv: posts the ante $1
+bumbumpau: posts the ante $1
+Martlith: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+M1TR4ND1R: posts the ante $1
+bumbumpau: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ad Td]
+Martlith: folds 
+gaiggibeliin: calls $1
+danipesis: raises $9 to $10
+M1TR4ND1R: folds 
+Tiltkorv: raises $50.26 to $60.26 and is all-in
+bumbumpau: folds 
+gaiggibeliin: folds 
+danipesis: calls $50.26
+*** FIRST FLOP *** [Kh 6c Ks]
+*** FIRST TURN *** [Kh 6c Ks] [7c]
+*** FIRST RIVER *** [Kh 6c Ks 7c] [8d]
+*** SECOND FLOP *** [7s 8c Qc]
+*** SECOND TURN *** [7s 8c Qc] [9d]
+*** SECOND RIVER *** [7s 8c Qc 9d] [Th]
+*** FIRST SHOW DOWN ***
+danipesis: shows [Kc Ac] (three of a kind, Kings)
+Tiltkorv: shows [Jh Js] (two pair, Kings and Jacks)
+danipesis collected $62.89 from pot
+*** SECOND SHOW DOWN ***
+danipesis: shows [Kc Ac] (high card Ace)
+Tiltkorv: shows [Jh Js] (a straight, Eight to Queen)
+Tiltkorv collected $62.88 from pot
+*** SUMMARY ***
+Total pot $128.52 | Rake $2.75 
+Hand was run twice
+FIRST Board [Kh 6c Ks 7c 8d]
+SECOND Board [7s 8c Qc 9d Th]
+Seat 1: Tiltkorv showed [Jh Js] and lost with two pair, Kings and Jacks, and won ($62.88) with a straight, Eight to Queen
+Seat 2: bumbumpau (button blind) folded before Flop
+Seat 3: Martlith folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop
+Seat 5: danipesis showed [Kc Ac] and won ($62.89) with three of a kind, Kings, and lost with high card Ace
+Seat 6: M1TR4ND1R folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196135234327:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:47:08 EET [2019/01/23 16:47:08 ET]
+Table 'Heidelberga II' 6-max Seat #3 is the button
+Seat 1: Tiltkorv ($62.88 in chips) 
+Seat 2: bumbumpau ($225.04 in chips) 
+Seat 3: Martlith ($108.40 in chips) 
+Seat 4: gaiggibeliin ($354.15 in chips) 
+Seat 5: danipesis ($236.02 in chips) 
+Seat 6: M1TR4ND1R ($433.85 in chips) 
+Tiltkorv: posts the ante $1
+bumbumpau: posts the ante $1
+Martlith: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Martlith: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ks Ts]
+gaiggibeliin: calls $1
+danipesis: raises $10 to $11
+M1TR4ND1R: folds 
+Tiltkorv: folds 
+bumbumpau: folds 
+Martlith: folds 
+gaiggibeliin: calls $10
+*** FLOP *** [7c Qc Ah]
+gaiggibeliin: checks 
+danipesis: checks 
+*** TURN *** [7c Qc Ah] [9c]
+gaiggibeliin: bets $18.46
+danipesis: calls $18.46
+*** RIVER *** [7c Qc Ah 9c] [Jc]
+gaiggibeliin: checks 
+danipesis: bets $100
+gaiggibeliin: folds 
+Uncalled bet ($100) returned to danipesis
+danipesis collected $63.17 from pot
+danipesis: doesn't show hand 
+*** SUMMARY ***
+Total pot $65.92 | Rake $2.75 
+Board [7c Qc Ah 9c Jc]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: bumbumpau folded before Flop (didn't bet)
+Seat 3: Martlith (button blind) folded before Flop
+Seat 4: gaiggibeliin folded on the River
+Seat 5: danipesis collected ($63.17)
+Seat 6: M1TR4ND1R folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196135306733:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:48:39 EET [2019/01/23 16:48:39 ET]
+Table 'Heidelberga II' 6-max Seat #4 is the button
+Seat 1: Tiltkorv ($61.88 in chips) 
+Seat 2: bumbumpau ($224.04 in chips) 
+Seat 3: Martlith ($106.40 in chips) 
+Seat 4: gaiggibeliin ($323.69 in chips) 
+Seat 5: danipesis ($268.73 in chips) 
+Seat 6: M1TR4ND1R ($432.85 in chips) 
+Tiltkorv: posts the ante $1
+bumbumpau: posts the ante $1
+Martlith: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+M1TR4ND1R: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kc Td]
+danipesis: calls $1
+M1TR4ND1R: folds 
+Tiltkorv: calls $1
+bumbumpau: folds 
+Martlith: calls $1
+gaiggibeliin: checks 
+*** FLOP *** [9c Ts 6h]
+danipesis: checks 
+Tiltkorv: checks 
+Martlith: checks 
+gaiggibeliin: bets $6.37
+danipesis: calls $6.37
+Tiltkorv: folds 
+Martlith: folds 
+*** TURN *** [9c Ts 6h] [7h]
+danipesis: bets $15
+gaiggibeliin: folds 
+Uncalled bet ($15) returned to danipesis
+danipesis collected $21.60 from pot
+danipesis: doesn't show hand 
+*** SUMMARY ***
+Total pot $22.74 | Rake $1.14 
+Board [9c Ts 6h 7h]
+Seat 1: Tiltkorv folded on the Flop
+Seat 2: bumbumpau folded before Flop (didn't bet)
+Seat 3: Martlith folded on the Flop
+Seat 4: gaiggibeliin (button blind) folded on the Turn
+Seat 5: danipesis collected ($21.60)
+Seat 6: M1TR4ND1R folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196135354239:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:49:40 EET [2019/01/23 16:49:40 ET]
+Table 'Heidelberga II' 6-max Seat #5 is the button
+Seat 1: Tiltkorv ($59.88 in chips) 
+Seat 2: bumbumpau ($223.04 in chips) 
+Seat 3: Martlith ($104.40 in chips) 
+Seat 4: gaiggibeliin ($315.32 in chips) 
+Seat 5: danipesis ($281.96 in chips) 
+Seat 6: M1TR4ND1R ($431.85 in chips) 
+Tiltkorv: posts the ante $1
+bumbumpau: posts the ante $1
+Martlith: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+M1TR4ND1R: posts the ante $1
+danipesis: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Td 9d]
+M1TR4ND1R: folds 
+Tiltkorv: folds 
+bumbumpau: folds 
+Martlith: calls $1
+gaiggibeliin: raises $9 to $10
+danipesis: folds 
+Martlith: folds 
+Uncalled bet ($9) returned to gaiggibeliin
+gaiggibeliin collected $9 from pot
+*** SUMMARY ***
+Total pot $9 | Rake $0 
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: bumbumpau folded before Flop (didn't bet)
+Seat 3: Martlith folded before Flop
+Seat 4: gaiggibeliin collected ($9)
+Seat 5: danipesis (button blind) folded before Flop
+Seat 6: M1TR4ND1R folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196135375790:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:50:07 EET [2019/01/23 16:50:07 ET]
+Table 'Heidelberga II' 6-max Seat #6 is the button
+Seat 1: Tiltkorv ($58.88 in chips) 
+Seat 2: bumbumpau ($222.04 in chips) 
+Seat 3: Martlith ($102.40 in chips) 
+Seat 4: gaiggibeliin ($322.32 in chips) 
+Seat 5: danipesis ($279.96 in chips) 
+Seat 6: M1TR4ND1R ($430.85 in chips) 
+Tiltkorv: posts the ante $1
+bumbumpau: posts the ante $1
+Martlith: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+M1TR4ND1R: posts the ante $1
+M1TR4ND1R: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9h 7s]
+Tiltkorv: folds 
+bumbumpau: folds 
+Martlith: folds 
+gaiggibeliin: folds 
+danipesis: raises $5 to $6
+M1TR4ND1R: raises $18 to $24
+danipesis: folds 
+Uncalled bet ($18) returned to M1TR4ND1R
+M1TR4ND1R collected $18 from pot
+M1TR4ND1R: doesn't show hand 
+*** SUMMARY ***
+Total pot $18 | Rake $0 
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: bumbumpau folded before Flop (didn't bet)
+Seat 3: Martlith folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: danipesis folded before Flop
+Seat 6: M1TR4ND1R (button blind) collected ($18)
+
+
+
+PokerStars Hand #196135409230:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:50:49 EET [2019/01/23 16:50:49 ET]
+Table 'Heidelberga II' 6-max Seat #1 is the button
+Seat 1: Tiltkorv ($57.88 in chips) 
+Seat 2: bumbumpau ($221.04 in chips) 
+Seat 3: Martlith ($101.40 in chips) 
+Seat 4: gaiggibeliin ($321.32 in chips) 
+Seat 5: danipesis ($272.96 in chips) 
+Seat 6: M1TR4ND1R ($441.85 in chips) 
+Tiltkorv: posts the ante $1
+bumbumpau: posts the ante $1
+Martlith: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Tiltkorv: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6h Ts]
+bumbumpau: folds 
+Martlith: calls $1
+gaiggibeliin: folds 
+danipesis: folds 
+M1TR4ND1R: calls $1
+Tiltkorv: raises $9 to $10
+Martlith: folds 
+M1TR4ND1R: calls $9
+*** FLOP *** [Jd Qs 7h]
+M1TR4ND1R: checks 
+Tiltkorv: bets $46.88 and is all-in
+M1TR4ND1R: folds 
+Uncalled bet ($46.88) returned to Tiltkorv
+Tiltkorv collected $25.65 from pot
+Tiltkorv: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $1.35 
+Board [Jd Qs 7h]
+Seat 1: Tiltkorv (button blind) collected ($25.65)
+Seat 2: bumbumpau folded before Flop (didn't bet)
+Seat 3: Martlith folded before Flop
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: danipesis folded before Flop (didn't bet)
+Seat 6: M1TR4ND1R folded on the Flop
+
+
+
+PokerStars Hand #196135445828:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:51:36 EET [2019/01/23 16:51:36 ET]
+Table 'Heidelberga II' 6-max Seat #2 is the button
+Seat 1: Tiltkorv ($72.53 in chips) 
+Seat 2: bumbumpau ($220.04 in chips) 
+Seat 3: Martlith ($99.40 in chips) 
+Seat 4: gaiggibeliin ($320.32 in chips) 
+Seat 5: danipesis ($271.96 in chips) 
+Seat 6: M1TR4ND1R ($430.85 in chips) 
+Tiltkorv: posts the ante $1
+bumbumpau: posts the ante $1
+Martlith: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+M1TR4ND1R: posts the ante $1
+bumbumpau: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jh Kh]
+Martlith: calls $1
+gaiggibeliin: raises $9 to $10
+danipesis: folds 
+M1TR4ND1R: folds 
+Tiltkorv: folds 
+bumbumpau: folds 
+Martlith: folds 
+Uncalled bet ($9) returned to gaiggibeliin
+gaiggibeliin collected $9 from pot
+*** SUMMARY ***
+Total pot $9 | Rake $0 
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: bumbumpau (button blind) folded before Flop
+Seat 3: Martlith folded before Flop
+Seat 4: gaiggibeliin collected ($9)
+Seat 5: danipesis folded before Flop (didn't bet)
+Seat 6: M1TR4ND1R folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196135463944:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:51:59 EET [2019/01/23 16:51:59 ET]
+Table 'Heidelberga II' 6-max Seat #3 is the button
+Seat 1: Tiltkorv ($71.53 in chips) 
+Seat 2: bumbumpau ($218.04 in chips) 
+Seat 3: Martlith ($97.40 in chips) 
+Seat 4: gaiggibeliin ($327.32 in chips) 
+Seat 5: danipesis ($270.96 in chips) 
+Seat 6: M1TR4ND1R ($429.85 in chips) 
+Tiltkorv: posts the ante $1
+bumbumpau: posts the ante $1
+Martlith: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Martlith: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6c Kh]
+gaiggibeliin: folds 
+danipesis: folds 
+M1TR4ND1R: calls $1
+Tiltkorv: folds 
+bumbumpau: folds 
+Martlith: checks 
+*** FLOP *** [8h 8s 7d]
+M1TR4ND1R: checks 
+Martlith: checks 
+*** TURN *** [8h 8s 7d] [9c]
+M1TR4ND1R: bets $4.10
+Martlith: folds 
+Uncalled bet ($4.10) returned to M1TR4ND1R
+M1TR4ND1R collected $7.60 from pot
+M1TR4ND1R: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [8h 8s 7d 9c]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: bumbumpau folded before Flop (didn't bet)
+Seat 3: Martlith (button blind) folded on the Turn
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: danipesis folded before Flop (didn't bet)
+Seat 6: M1TR4ND1R collected ($7.60)
+
+
+
+PokerStars Hand #196135488587:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:52:30 EET [2019/01/23 16:52:30 ET]
+Table 'Heidelberga II' 6-max Seat #4 is the button
+Seat 1: Tiltkorv ($70.53 in chips) 
+Seat 2: bumbumpau ($217.04 in chips) 
+Seat 3: Martlith ($95.40 in chips) 
+Seat 4: gaiggibeliin ($326.32 in chips) 
+Seat 5: danipesis ($269.96 in chips) 
+Seat 6: M1TR4ND1R ($435.45 in chips) 
+Tiltkorv: posts the ante $1
+bumbumpau: posts the ante $1
+Martlith: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+M1TR4ND1R: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ac Qc]
+danipesis: calls $1
+M1TR4ND1R: calls $1
+Tiltkorv: folds 
+bumbumpau: folds 
+Martlith: calls $1
+gaiggibeliin: raises $14 to $15
+danipesis: calls $14
+M1TR4ND1R: folds 
+Martlith: folds 
+*** FLOP *** [6d 7h Qh]
+danipesis: checks 
+Martlith leaves the table
+gaiggibeliin: bets $24.19
+danipesis: folds 
+Uncalled bet ($24.19) returned to gaiggibeliin
+gaiggibeliin collected $36.10 from pot
+*** SUMMARY ***
+Total pot $38 | Rake $1.90 
+Board [6d 7h Qh]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: bumbumpau folded before Flop (didn't bet)
+Seat 3: Martlith folded before Flop
+Seat 4: gaiggibeliin (button blind) collected ($36.10)
+Seat 5: danipesis folded on the Flop
+Seat 6: M1TR4ND1R folded before Flop
+
+
+
+PokerStars Hand #196135537780:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:53:34 EET [2019/01/23 16:53:34 ET]
+Table 'Heidelberga II' 6-max Seat #5 is the button
+Seat 1: Tiltkorv ($69.53 in chips) 
+Seat 2: bumbumpau ($216.04 in chips) 
+Seat 4: gaiggibeliin ($346.42 in chips) 
+Seat 5: danipesis ($253.96 in chips) 
+Seat 6: M1TR4ND1R ($433.45 in chips) 
+Tiltkorv: posts the ante $1
+bumbumpau: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+M1TR4ND1R: posts the ante $1
+danipesis: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6s Tc]
+M1TR4ND1R: folds 
+Tiltkorv: folds 
+bumbumpau: folds 
+gaiggibeliin: folds 
+Uncalled bet ($1) returned to danipesis
+danipesis collected $5 from pot
+danipesis: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: bumbumpau folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: danipesis (button blind) collected ($5)
+Seat 6: M1TR4ND1R folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196135549830:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:53:49 EET [2019/01/23 16:53:49 ET]
+Table 'Heidelberga II' 6-max Seat #6 is the button
+Seat 1: Tiltkorv ($68.53 in chips) 
+Seat 2: bumbumpau ($215.04 in chips) 
+Seat 4: gaiggibeliin ($345.42 in chips) 
+Seat 5: danipesis ($257.96 in chips) 
+Seat 6: M1TR4ND1R ($432.45 in chips) 
+Tiltkorv: posts the ante $1
+bumbumpau: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+M1TR4ND1R: posts the ante $1
+M1TR4ND1R: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Tc Jd]
+Tiltkorv: folds 
+bumbumpau: folds 
+gaiggibeliin: calls $1
+danipesis: raises $6 to $7
+M1TR4ND1R: calls $6
+gaiggibeliin: calls $6
+*** FLOP *** [Kc As Qs]
+gaiggibeliin: checks 
+danipesis: bets $10
+M1TR4ND1R: calls $10
+gaiggibeliin: calls $10
+*** TURN *** [Kc As Qs] [Td]
+gaiggibeliin: checks 
+sjohnny200 joins the table at seat #3 
+danipesis: bets $23
+M1TR4ND1R: calls $23
+gaiggibeliin: raises $65 to $88
+danipesis: raises $151.96 to $239.96 and is all-in
+M1TR4ND1R: folds 
+gaiggibeliin: calls $151.96
+*** FIRST RIVER *** [Kc As Qs Td] [7d]
+*** SECOND RIVER *** [Kc As Qs Td] [Qd]
+*** FIRST SHOW DOWN ***
+gaiggibeliin: shows [Tc Jd] (a straight, Ten to Ace)
+danipesis: shows [Ah Jc] (a straight, Ten to Ace)
+gaiggibeliin collected $139.05 from pot
+danipesis collected $139.04 from pot
+*** SECOND SHOW DOWN ***
+gaiggibeliin: shows [Tc Jd] (a straight, Ten to Ace)
+danipesis: shows [Ah Jc] (a straight, Ten to Ace)
+gaiggibeliin collected $139.04 from pot
+danipesis collected $139.04 from pot
+*** SUMMARY ***
+Total pot $558.92 | Rake $2.75 
+Hand was run twice
+FIRST Board [Kc As Qs Td 7d]
+SECOND Board [Kc As Qs Td Qd]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: bumbumpau folded before Flop (didn't bet)
+Seat 4: gaiggibeliin showed [Tc Jd] and won ($139.05) with a straight, Ten to Ace, and won ($139.04) with a straight, Ten to Ace
+Seat 5: danipesis showed [Ah Jc] and won ($139.04) with a straight, Ten to Ace, and won ($139.04) with a straight, Ten to Ace
+Seat 6: M1TR4ND1R (button blind) folded on the Turn
+
+
+
+PokerStars Hand #196135632992:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:55:45 EET [2019/01/23 16:55:45 ET]
+Table 'Heidelberga II' 6-max Seat #1 is the button
+Seat 1: Tiltkorv ($67.53 in chips) 
+Seat 2: bumbumpau ($214.04 in chips) 
+Seat 3: sjohnny200 ($150 in chips) 
+Seat 4: gaiggibeliin ($365.55 in chips) 
+Seat 5: danipesis ($278.08 in chips) 
+Seat 6: M1TR4ND1R ($391.45 in chips) 
+Tiltkorv: posts the ante $1
+bumbumpau: posts the ante $1
+sjohnny200: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Tiltkorv: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6c Qd]
+bumbumpau: folds 
+sjohnny200: raises $8 to $9
+gaiggibeliin: folds 
+danipesis: folds 
+M1TR4ND1R: folds 
+Tiltkorv: calls $8
+*** FLOP *** [Ac 7d 9d]
+sjohnny200: bets $17.10
+Tiltkorv: folds 
+Uncalled bet ($17.10) returned to sjohnny200
+sjohnny200 collected $22.80 from pot
+sjohnny200: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $1.20 
+Board [Ac 7d 9d]
+Seat 1: Tiltkorv (button blind) folded on the Flop
+Seat 2: bumbumpau folded before Flop (didn't bet)
+Seat 3: sjohnny200 collected ($22.80)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: danipesis folded before Flop (didn't bet)
+Seat 6: M1TR4ND1R folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196135651909:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:56:17 EET [2019/01/23 16:56:17 ET]
+Table 'Heidelberga II' 6-max Seat #2 is the button
+Seat 1: Tiltkorv ($57.53 in chips) 
+Seat 2: bumbumpau ($213.04 in chips) 
+Seat 3: sjohnny200 ($162.80 in chips) 
+Seat 4: gaiggibeliin ($364.55 in chips) 
+Seat 5: danipesis ($277.08 in chips) 
+Seat 6: M1TR4ND1R ($390.45 in chips) 
+Tiltkorv: posts the ante $1
+bumbumpau: posts the ante $1
+sjohnny200: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+M1TR4ND1R: posts the ante $1
+bumbumpau: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kd 8c]
+sjohnny200: raises $8 to $9
+gaiggibeliin: folds 
+danipesis: folds 
+M1TR4ND1R: folds 
+Tiltkorv: calls $9
+bumbumpau: folds 
+*** FLOP *** [9s 7s Qs]
+sjohnny200: bets $18
+Tiltkorv: raises $29.53 to $47.53 and is all-in
+sjohnny200: calls $29.53
+*** TURN *** [9s 7s Qs] [8s]
+*** RIVER *** [9s 7s Qs 8s] [As]
+*** SHOW DOWN ***
+sjohnny200: shows [Jc Ts] (a flush, Ace high)
+Tiltkorv: shows [Th Js] (a flush, Ace high - Jack higher)
+Tiltkorv collected $117.31 from pot
+*** SUMMARY ***
+Total pot $120.06 | Rake $2.75 
+Board [9s 7s Qs 8s As]
+Seat 1: Tiltkorv showed [Th Js] and won ($117.31) with a flush, Ace high
+Seat 2: bumbumpau (button blind) folded before Flop
+Seat 3: sjohnny200 showed [Jc Ts] and lost with a flush, Ace high
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: danipesis folded before Flop (didn't bet)
+Seat 6: M1TR4ND1R folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196135675032:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:56:55 EET [2019/01/23 16:56:55 ET]
+Table 'Heidelberga II' 6-max Seat #3 is the button
+Seat 1: Tiltkorv ($117.31 in chips) 
+Seat 2: bumbumpau ($211.04 in chips) 
+Seat 3: sjohnny200 ($105.27 in chips) 
+Seat 4: gaiggibeliin ($363.55 in chips) 
+Seat 5: danipesis ($276.08 in chips) 
+Seat 6: M1TR4ND1R ($389.45 in chips) 
+Tiltkorv: posts the ante $1
+bumbumpau: posts the ante $1
+sjohnny200: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+M1TR4ND1R: posts the ante $1
+sjohnny200: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qs Ad]
+gaiggibeliin: calls $1
+danipesis: folds 
+M1TR4ND1R: folds 
+Tiltkorv: folds 
+bumbumpau: folds 
+sjohnny200: raises $8 to $9
+gaiggibeliin: raises $353.55 to $362.55 and is all-in
+sjohnny200: folds 
+Uncalled bet ($353.55) returned to gaiggibeliin
+gaiggibeliin collected $24 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: bumbumpau folded before Flop (didn't bet)
+Seat 3: sjohnny200 (button blind) folded before Flop
+Seat 4: gaiggibeliin collected ($24)
+Seat 5: danipesis folded before Flop (didn't bet)
+Seat 6: M1TR4ND1R folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196135687361:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:57:16 EET [2019/01/23 16:57:16 ET]
+Table 'Heidelberga II' 6-max Seat #4 is the button
+Seat 1: Tiltkorv ($116.31 in chips) 
+Seat 2: bumbumpau ($210.04 in chips) 
+Seat 3: sjohnny200 ($150 in chips) 
+Seat 4: gaiggibeliin ($377.55 in chips) 
+Seat 5: danipesis ($275.08 in chips) 
+Seat 6: M1TR4ND1R ($388.45 in chips) 
+Tiltkorv: posts the ante $1
+bumbumpau: posts the ante $1
+sjohnny200: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+M1TR4ND1R: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qd 6s]
+danipesis: calls $1
+M1TR4ND1R: folds 
+Tiltkorv: calls $1
+bumbumpau: calls $1
+sjohnny200: raises $11 to $12
+gaiggibeliin: folds 
+danipesis: calls $11
+Tiltkorv: folds 
+bumbumpau: calls $11
+*** FLOP *** [6c Qc Kh]
+danipesis: checks 
+bumbumpau: checks 
+sjohnny200: checks 
+*** TURN *** [6c Qc Kh] [9c]
+danipesis: checks 
+bumbumpau: checks 
+sjohnny200: checks 
+*** RIVER *** [6c Qc Kh 9c] [6d]
+danipesis: checks 
+bumbumpau: checks 
+sjohnny200: checks 
+*** SHOW DOWN ***
+danipesis: shows [8c 8s] (two pair, Eights and Sixes)
+bumbumpau: mucks hand 
+sjohnny200: shows [9h 8h] (two pair, Nines and Sixes)
+sjohnny200 collected $41.80 from pot
+*** SUMMARY ***
+Total pot $44 | Rake $2.20 
+Board [6c Qc Kh 9c 6d]
+Seat 1: Tiltkorv folded before Flop
+Seat 2: bumbumpau mucked [Th Ah]
+Seat 3: sjohnny200 showed [9h 8h] and won ($41.80) with two pair, Nines and Sixes
+Seat 4: gaiggibeliin (button blind) folded before Flop
+Seat 5: danipesis showed [8c 8s] and lost with two pair, Eights and Sixes
+Seat 6: M1TR4ND1R folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196135727112:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:58:21 EET [2019/01/23 16:58:21 ET]
+Table 'Heidelberga II' 6-max Seat #5 is the button
+Seat 1: Tiltkorv ($114.31 in chips) 
+Seat 2: bumbumpau ($197.04 in chips) 
+Seat 3: sjohnny200 ($178.80 in chips) 
+Seat 4: gaiggibeliin ($375.55 in chips) 
+Seat 5: danipesis ($262.08 in chips) 
+Seat 6: M1TR4ND1R ($387.45 in chips) 
+Tiltkorv: posts the ante $1
+bumbumpau: posts the ante $1
+sjohnny200: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+M1TR4ND1R: posts the ante $1
+danipesis: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jc 8s]
+M1TR4ND1R: folds 
+Tiltkorv: folds 
+bumbumpau: folds 
+sjohnny200: raises $8 to $9
+gaiggibeliin: folds 
+danipesis: folds 
+Uncalled bet ($8) returned to sjohnny200
+sjohnny200 collected $8 from pot
+sjohnny200: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0 
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: bumbumpau folded before Flop (didn't bet)
+Seat 3: sjohnny200 collected ($8)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: danipesis (button blind) folded before Flop
+Seat 6: M1TR4ND1R folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196135737180:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:58:38 EET [2019/01/23 16:58:38 ET]
+Table 'Heidelberga II' 6-max Seat #6 is the button
+Seat 1: Tiltkorv ($113.31 in chips) 
+Seat 2: bumbumpau ($196.04 in chips) 
+Seat 3: sjohnny200 ($184.80 in chips) 
+Seat 4: gaiggibeliin ($374.55 in chips) 
+Seat 5: danipesis ($260.08 in chips) 
+Seat 6: M1TR4ND1R ($386.45 in chips) 
+Tiltkorv: posts the ante $1
+bumbumpau: posts the ante $1
+sjohnny200: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+M1TR4ND1R: posts the ante $1
+M1TR4ND1R: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kc 6d]
+Tiltkorv: calls $1
+bumbumpau: folds 
+sjohnny200: raises $9 to $10
+gaiggibeliin: folds 
+danipesis: folds 
+M1TR4ND1R: folds 
+Tiltkorv: calls $9
+*** FLOP *** [Kh 9s 6h]
+Tiltkorv: checks 
+sjohnny200: bets $17.10
+Tiltkorv: folds 
+Uncalled bet ($17.10) returned to sjohnny200
+sjohnny200 collected $25.65 from pot
+sjohnny200: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $1.35 
+Board [Kh 9s 6h]
+Seat 1: Tiltkorv folded on the Flop
+Seat 2: bumbumpau folded before Flop (didn't bet)
+Seat 3: sjohnny200 collected ($25.65)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: danipesis folded before Flop (didn't bet)
+Seat 6: M1TR4ND1R (button blind) folded before Flop
+
+
+
+PokerStars Hand #196135760062:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:59:16 EET [2019/01/23 16:59:16 ET]
+Table 'Heidelberga II' 6-max Seat #1 is the button
+Seat 1: Tiltkorv ($102.31 in chips) 
+Seat 2: bumbumpau ($195.04 in chips) 
+Seat 3: sjohnny200 ($199.45 in chips) 
+Seat 4: gaiggibeliin ($373.55 in chips) 
+Seat 5: danipesis ($259.08 in chips) 
+Tiltkorv: posts the ante $1
+bumbumpau: posts the ante $1
+sjohnny200: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+Tiltkorv: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Th Jh]
+bumbumpau: folds 
+sjohnny200: raises $7 to $8
+gaiggibeliin: calls $8
+danipesis: folds 
+M1TR4ND1R leaves the table
+Tiltkorv: calls $7
+*** FLOP *** [6d Kd Ac]
+sjohnny200: checks 
+gaiggibeliin: checks 
+Tiltkorv: checks 
+*** TURN *** [6d Kd Ac] [Ad]
+sjohnny200: checks 
+gaiggibeliin: checks 
+Tiltkorv: checks 
+*** RIVER *** [6d Kd Ac Ad] [Ah]
+sjohnny200: checks 
+gaiggibeliin: checks 
+Tiltkorv: checks 
+*** SHOW DOWN ***
+sjohnny200: shows [8c Ts] (three of a kind, Aces)
+gaiggibeliin: shows [Th Jh] (three of a kind, Aces - King+Jack kicker)
+Tiltkorv: shows [Jc Qh] (three of a kind, Aces - King+Queen kicker)
+Tiltkorv collected $27.55 from pot
+*** SUMMARY ***
+Total pot $29 | Rake $1.45 
+Board [6d Kd Ac Ad Ah]
+Seat 1: Tiltkorv (button blind) showed [Jc Qh] and won ($27.55) with three of a kind, Aces
+Seat 2: bumbumpau folded before Flop (didn't bet)
+Seat 3: sjohnny200 showed [8c Ts] and lost with three of a kind, Aces
+Seat 4: gaiggibeliin showed [Th Jh] and lost with three of a kind, Aces
+Seat 5: danipesis folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196135817813:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:00:38 EET [2019/01/23 17:00:38 ET]
+Table 'Heidelberga II' 6-max Seat #2 is the button
+Seat 1: Tiltkorv ($120.86 in chips) 
+Seat 2: bumbumpau ($194.04 in chips) 
+Seat 3: sjohnny200 ($190.45 in chips) 
+Seat 4: gaiggibeliin ($364.55 in chips) 
+Seat 5: danipesis ($258.08 in chips) 
+Tiltkorv: posts the ante $1
+bumbumpau: posts the ante $1
+sjohnny200: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+bumbumpau: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jh 9s]
+sjohnny200: raises $4 to $5
+gaiggibeliin: folds 
+danipesis: folds 
+Tiltkorv: folds 
+bumbumpau: calls $4
+*** FLOP *** [6h 9d 8s]
+sjohnny200: checks 
+bumbumpau: checks 
+*** TURN *** [6h 9d 8s] [Qc]
+sjohnny200: checks 
+bumbumpau: checks 
+*** RIVER *** [6h 9d 8s Qc] [Qs]
+sjohnny200: bets $11
+bumbumpau: folds 
+Uncalled bet ($11) returned to sjohnny200
+sjohnny200 collected $14.25 from pot
+sjohnny200: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0.75 
+Board [6h 9d 8s Qc Qs]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: bumbumpau (button blind) folded on the River
+Seat 3: sjohnny200 collected ($14.25)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: danipesis folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196135844782:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:01:19 EET [2019/01/23 17:01:19 ET]
+Table 'Heidelberga II' 6-max Seat #3 is the button
+Seat 1: Tiltkorv ($119.86 in chips) 
+Seat 2: bumbumpau ($188.04 in chips) 
+Seat 3: sjohnny200 ($198.70 in chips) 
+Seat 4: gaiggibeliin ($363.55 in chips) 
+Seat 5: danipesis ($257.08 in chips) 
+Tiltkorv: posts the ante $1
+bumbumpau: posts the ante $1
+sjohnny200: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+sjohnny200: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Th Jd]
+gaiggibeliin: calls $1
+danipesis: folds 
+Tiltkorv: folds 
+bumbumpau: calls $1
+sjohnny200: raises $8 to $9
+gaiggibeliin: calls $8
+bumbumpau: calls $8
+*** FLOP *** [Ts Ac 6s]
+gaiggibeliin: checks 
+bumbumpau: checks 
+sjohnny200: checks 
+*** TURN *** [Ts Ac 6s] [Ks]
+gaiggibeliin: checks 
+bumbumpau: checks 
+sjohnny200: checks 
+*** RIVER *** [Ts Ac 6s Ks] [Td]
+gaiggibeliin: bets $6
+bumbumpau: calls $6
+sjohnny200: folds 
+*** SHOW DOWN ***
+gaiggibeliin: shows [Th Jd] (three of a kind, Tens)
+bumbumpau: shows [Jc Qd] (a straight, Ten to Ace)
+bumbumpau collected $41.80 from pot
+*** SUMMARY ***
+Total pot $44 | Rake $2.20 
+Board [Ts Ac 6s Ks Td]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: bumbumpau showed [Jc Qd] and won ($41.80) with a straight, Ten to Ace
+Seat 3: sjohnny200 (button blind) folded on the River
+Seat 4: gaiggibeliin showed [Th Jd] and lost with three of a kind, Tens
+Seat 5: danipesis folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196136254035:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:10:16 EET [2019/01/23 17:10:16 ET]
+Table 'Heidelberga II' 6-max Seat #2 is the button
+Seat 1: Tiltkorv ($159.65 in chips) 
+Seat 2: MrBarrett82 ($160 in chips) 
+Seat 3: sjohnny200 ($306.42 in chips) 
+Seat 4: gaiggibeliin ($347.55 in chips) 
+Seat 5: danipesis ($237.52 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+sjohnny200: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+MrBarrett82: posts button blind $1
+gaiggibeliin: posts big blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8h Td]
+sjohnny200: raises $4 to $5
+gaiggibeliin: calls $4
+danipesis: folds 
+Tiltkorv: raises $21 to $26
+MrBarrett82: folds 
+sjohnny200: calls $21
+gaiggibeliin: calls $21
+*** FLOP *** [Jd 7s Jh]
+sjohnny200: checks 
+gaiggibeliin: checks 
+Tiltkorv: checks 
+*** TURN *** [Jd 7s Jh] [7d]
+sjohnny200: checks 
+gaiggibeliin: bets $26.81
+Tiltkorv: calls $26.81
+sjohnny200: calls $26.81
+*** RIVER *** [Jd 7s Jh 7d] [Qc]
+sjohnny200: checks 
+gaiggibeliin: checks 
+Tiltkorv: bets $105.84 and is all-in
+sjohnny200: calls $105.84
+gaiggibeliin: folds 
+*** SHOW DOWN ***
+Tiltkorv: shows [As Kc] (two pair, Jacks and Sevens)
+sjohnny200: shows [7h 9h] (a full house, Sevens full of Jacks)
+sjohnny200 collected $373.36 from pot
+*** SUMMARY ***
+Total pot $376.11 | Rake $2.75 
+Board [Jd 7s Jh 7d Qc]
+Seat 1: Tiltkorv showed [As Kc] and lost with two pair, Jacks and Sevens
+Seat 2: MrBarrett82 (button blind) folded before Flop
+Seat 3: sjohnny200 showed [7h 9h] and won ($373.36) with a full house, Sevens full of Jacks
+Seat 4: gaiggibeliin folded on the River
+Seat 5: danipesis folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196136320676:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:11:43 EET [2019/01/23 17:11:43 ET]
+Table 'Heidelberga II' 6-max Seat #3 is the button
+Seat 2: MrBarrett82 ($158 in chips) 
+Seat 3: sjohnny200 ($520.13 in chips) 
+Seat 4: gaiggibeliin ($293.74 in chips) 
+Seat 5: danipesis ($236.52 in chips) 
+MrBarrett82: posts the ante $1
+sjohnny200: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+sjohnny200: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9c Ks]
+gaiggibeliin: folds 
+danipesis: folds 
+MrBarrett82: calls $1
+sjohnny200: checks 
+*** FLOP *** [6d Qs Tc]
+MrBarrett82: checks 
+sjohnny200: bets $4
+MrBarrett82: folds 
+Uncalled bet ($4) returned to sjohnny200
+sjohnny200 collected $5.70 from pot
+sjohnny200: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [6d Qs Tc]
+Seat 2: MrBarrett82 folded on the Flop
+Seat 3: sjohnny200 (button blind) collected ($5.70)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: danipesis folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196136347251:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:12:19 EET [2019/01/23 17:12:19 ET]
+Table 'Heidelberga II' 6-max Seat #4 is the button
+Seat 1: Tiltkorv ($150 in chips) 
+Seat 2: MrBarrett82 ($156 in chips) 
+Seat 3: sjohnny200 ($523.83 in chips) 
+Seat 4: gaiggibeliin ($292.74 in chips) 
+Seat 5: danipesis ($235.52 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+sjohnny200: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ts Jh]
+danipesis: folds 
+Tiltkorv: folds 
+MrBarrett82: folds 
+sjohnny200: folds 
+Uncalled bet ($1) returned to gaiggibeliin
+gaiggibeliin collected $5 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 3: sjohnny200 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin (button blind) collected ($5)
+Seat 5: danipesis folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196136372903:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:12:52 EET [2019/01/23 17:12:52 ET]
+Table 'Heidelberga II' 6-max Seat #5 is the button
+Seat 1: Tiltkorv ($149 in chips) 
+Seat 2: MrBarrett82 ($155 in chips) 
+Seat 3: sjohnny200 ($522.83 in chips) 
+Seat 4: gaiggibeliin ($296.74 in chips) 
+Seat 5: danipesis ($234.52 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+sjohnny200: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+danipesis: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kd 8c]
+Tiltkorv: folds 
+MrBarrett82: calls $1
+sjohnny200: raises $4 to $5
+gaiggibeliin: folds 
+danipesis: folds 
+MrBarrett82: calls $4
+*** FLOP *** [Tc 8s Qc]
+MrBarrett82: checks 
+sjohnny200: bets $10.13
+MrBarrett82: calls $10.13
+*** TURN *** [Tc 8s Qc] [Ac]
+MrBarrett82: checks 
+sjohnny200: checks 
+*** RIVER *** [Tc 8s Qc Ac] [7d]
+MrBarrett82: bets $30
+sjohnny200: folds 
+Uncalled bet ($30) returned to MrBarrett82
+MrBarrett82 collected $34.45 from pot
+MrBarrett82: doesn't show hand 
+*** SUMMARY ***
+Total pot $36.26 | Rake $1.81 
+Board [Tc 8s Qc Ac 7d]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: MrBarrett82 collected ($34.45)
+Seat 3: sjohnny200 folded on the River
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: danipesis (button blind) folded before Flop
+
+
+
+PokerStars Hand #196136441086:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:14:22 EET [2019/01/23 17:14:22 ET]
+Table 'Heidelberga II' 6-max Seat #1 is the button
+Seat 1: Tiltkorv ($148 in chips) 
+Seat 2: MrBarrett82 ($173.32 in chips) 
+Seat 3: sjohnny200 ($506.70 in chips) 
+Seat 4: gaiggibeliin ($295.74 in chips) 
+Seat 5: danipesis ($232.52 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+sjohnny200: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+Tiltkorv: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9c 6h]
+MrBarrett82: calls $1
+sjohnny200: raises $8 to $9
+gaiggibeliin: folds 
+danipesis: folds 
+Tiltkorv: raises $24 to $33
+MrBarrett82: calls $32
+sjohnny200: calls $24
+*** FLOP *** [6s As 7d]
+MrBarrett82: checks 
+sjohnny200: checks 
+Tiltkorv: bets $114 and is all-in
+MrBarrett82: folds 
+sjohnny200: calls $114
+*** FIRST TURN *** [6s As 7d] [Qd]
+*** FIRST RIVER *** [6s As 7d Qd] [6d]
+*** SECOND TURN *** [6s As 7d] [Js]
+*** SECOND RIVER *** [6s As 7d Js] [8s]
+*** FIRST SHOW DOWN ***
+sjohnny200: shows [9d Ad] (a flush, Ace high)
+Tiltkorv: shows [Ah Ks] (two pair, Aces and Sixes)
+sjohnny200 collected $164.63 from pot
+*** SECOND SHOW DOWN ***
+sjohnny200: shows [9d Ad] (a straight, Ace to Nine)
+Tiltkorv: shows [Ah Ks] (a flush, Ace high)
+Tiltkorv collected $164.62 from pot
+*** SUMMARY ***
+Total pot $332 | Rake $2.75 
+Hand was run twice
+FIRST Board [6s As 7d Qd 6d]
+SECOND Board [6s As 7d Js 8s]
+Seat 1: Tiltkorv (button blind) showed [Ah Ks] and lost with two pair, Aces and Sixes, and won ($164.62) with a flush, Ace high
+Seat 2: MrBarrett82 folded on the Flop
+Seat 3: sjohnny200 showed [9d Ad] and won ($164.63) with a flush, Ace high, and lost with a straight, Ace to Nine
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: danipesis folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196136501462:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:15:43 EET [2019/01/23 17:15:43 ET]
+Table 'Heidelberga II' 6-max Seat #2 is the button
+Seat 1: Tiltkorv ($164.62 in chips) 
+Seat 2: MrBarrett82 ($139.32 in chips) 
+Seat 3: sjohnny200 ($523.33 in chips) 
+Seat 4: gaiggibeliin ($294.74 in chips) 
+Seat 5: danipesis ($231.52 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+sjohnny200: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8d Kd]
+sjohnny200: raises $2 to $3
+gaiggibeliin: folds 
+danipesis: raises $227.52 to $230.52 and is all-in
+Tiltkorv: folds 
+MrBarrett82: folds 
+sjohnny200: folds 
+Uncalled bet ($227.52) returned to danipesis
+danipesis collected $12 from pot
+danipesis: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: MrBarrett82 (button blind) folded before Flop
+Seat 3: sjohnny200 folded before Flop
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: danipesis collected ($12)
+
+
+
+PokerStars Hand #196136528574:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:16:19 EET [2019/01/23 17:16:19 ET]
+Table 'Heidelberga II' 6-max Seat #3 is the button
+Seat 1: Tiltkorv ($163.62 in chips) 
+Seat 2: MrBarrett82 ($137.32 in chips) 
+Seat 3: sjohnny200 ($519.33 in chips) 
+Seat 4: gaiggibeliin ($293.74 in chips) 
+Seat 5: danipesis ($239.52 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+sjohnny200: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+sjohnny200: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9d Jh]
+gaiggibeliin: folds 
+danipesis: calls $1
+Tiltkorv: calls $1
+MrBarrett82: calls $1
+sjohnny200: checks 
+*** FLOP *** [8s Qs Ad]
+danipesis: checks 
+Tiltkorv: checks 
+MrBarrett82: bets $7
+sjohnny200: folds 
+danipesis: folds 
+Tiltkorv: folds 
+Uncalled bet ($7) returned to MrBarrett82
+MrBarrett82 collected $8.55 from pot
+MrBarrett82: doesn't show hand 
+*** SUMMARY ***
+Total pot $9 | Rake $0.45 
+Board [8s Qs Ad]
+Seat 1: Tiltkorv folded on the Flop
+Seat 2: MrBarrett82 collected ($8.55)
+Seat 3: sjohnny200 (button blind) folded on the Flop
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: danipesis folded on the Flop
+
+
+
+PokerStars Hand #196136569642:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:17:14 EET [2019/01/23 17:17:14 ET]
+Table 'Heidelberga II' 6-max Seat #4 is the button
+Seat 1: Tiltkorv ($161.62 in chips) 
+Seat 2: MrBarrett82 ($143.87 in chips) 
+Seat 3: sjohnny200 ($517.33 in chips) 
+Seat 4: gaiggibeliin ($292.74 in chips) 
+Seat 5: danipesis ($237.52 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+sjohnny200: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jc As]
+danipesis: calls $1
+Tiltkorv: folds 
+MrBarrett82: folds 
+sjohnny200: folds 
+yumanrazz joins the table at seat #6 
+gaiggibeliin: raises $9 to $10
+yumanrazz leaves the table
+danipesis: raises $226.52 to $236.52 and is all-in
+gaiggibeliin: folds 
+Uncalled bet ($226.52) returned to danipesis
+danipesis collected $25 from pot
+danipesis: doesn't show hand 
+*** SUMMARY ***
+Total pot $25 | Rake $0 
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 3: sjohnny200 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin (button blind) folded before Flop
+Seat 5: danipesis collected ($25)
+
+
+
+PokerStars Hand #196136596440:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:17:50 EET [2019/01/23 17:17:50 ET]
+Table 'Heidelberga II' 6-max Seat #5 is the button
+Seat 1: Tiltkorv ($160.62 in chips) 
+Seat 2: MrBarrett82 ($142.87 in chips) 
+Seat 3: sjohnny200 ($516.33 in chips) 
+Seat 4: gaiggibeliin ($281.74 in chips) 
+Seat 5: danipesis ($251.52 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+sjohnny200: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+danipesis: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [As Jd]
+Tiltkorv: calls $1
+MrBarrett82: folds 
+sjohnny200: raises $4 to $5
+gaiggibeliin: calls $5
+danipesis: raises $245.52 to $250.52 and is all-in
+Tiltkorv: folds 
+sjohnny200: folds 
+gaiggibeliin: folds 
+Uncalled bet ($245.52) returned to danipesis
+danipesis collected $21 from pot
+danipesis: doesn't show hand 
+*** SUMMARY ***
+Total pot $21 | Rake $0 
+Seat 1: Tiltkorv folded before Flop
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 3: sjohnny200 folded before Flop
+Seat 4: gaiggibeliin folded before Flop
+Seat 5: danipesis (button blind) collected ($21)
+
+
+
+PokerStars Hand #196136626431:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:18:30 EET [2019/01/23 17:18:30 ET]
+Table 'Heidelberga II' 6-max Seat #1 is the button
+Seat 1: Tiltkorv ($158.62 in chips) 
+Seat 2: MrBarrett82 ($141.87 in chips) 
+Seat 3: sjohnny200 ($510.33 in chips) 
+Seat 4: gaiggibeliin ($275.74 in chips) 
+Seat 5: danipesis ($266.52 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+sjohnny200: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+Tiltkorv: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ac Js]
+jayme1987 joins the table at seat #6 
+MrBarrett82: calls $1
+sjohnny200: raises $8 to $9
+gaiggibeliin: folds 
+danipesis: folds 
+Tiltkorv: folds 
+MrBarrett82: calls $8
+*** FLOP *** [7c Qd 8d]
+MrBarrett82: checks 
+sjohnny200: checks 
+*** TURN *** [7c Qd 8d] [6s]
+MrBarrett82: checks 
+sjohnny200: checks 
+*** RIVER *** [7c Qd 8d 6s] [7d]
+MrBarrett82: checks 
+sjohnny200: checks 
+*** SHOW DOWN ***
+MrBarrett82: shows [Ah Jc] (a pair of Sevens)
+sjohnny200: shows [As Kd] (a pair of Sevens - Ace+King kicker)
+sjohnny200 collected $22.80 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $1.20 
+Board [7c Qd 8d 6s 7d]
+Seat 1: Tiltkorv (button blind) folded before Flop
+Seat 2: MrBarrett82 showed [Ah Jc] and lost with a pair of Sevens
+Seat 3: sjohnny200 showed [As Kd] and won ($22.80) with a pair of Sevens
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: danipesis folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196136673183:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:19:32 EET [2019/01/23 17:19:32 ET]
+Table 'Heidelberga II' 6-max Seat #2 is the button
+Seat 1: Tiltkorv ($156.62 in chips) 
+Seat 2: MrBarrett82 ($131.87 in chips) 
+Seat 3: sjohnny200 ($523.13 in chips) 
+Seat 4: gaiggibeliin ($274.74 in chips) 
+Seat 5: danipesis ($265.52 in chips) 
+Seat 6: jayme1987 ($150 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+sjohnny200: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+jayme1987: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6c 8c]
+sjohnny200: folds 
+gaiggibeliin: folds 
+danipesis: folds 
+jayme1987: raises $6 to $7
+Tiltkorv: calls $7
+MrBarrett82: folds 
+*** FLOP *** [As Kh 7h]
+jayme1987: checks 
+Tiltkorv: checks 
+*** TURN *** [As Kh 7h] [9s]
+jayme1987: checks 
+Tiltkorv: checks 
+*** RIVER *** [As Kh 7h 9s] [Ac]
+jayme1987: bets $6.58
+Tiltkorv: calls $6.58
+*** SHOW DOWN ***
+jayme1987: shows [Jd Ks] (two pair, Aces and Kings)
+Tiltkorv: mucks hand 
+jayme1987 collected $32.45 from pot
+*** SUMMARY ***
+Total pot $34.16 | Rake $1.71 
+Board [As Kh 7h 9s Ac]
+Seat 1: Tiltkorv mucked [Tc 9c]
+Seat 2: MrBarrett82 (button blind) folded before Flop
+Seat 3: sjohnny200 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: danipesis folded before Flop (didn't bet)
+Seat 6: jayme1987 showed [Jd Ks] and won ($32.45) with two pair, Aces and Kings
+
+
+
+PokerStars Hand #196136708798:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:20:20 EET [2019/01/23 17:20:20 ET]
+Table 'Heidelberga II' 6-max Seat #3 is the button
+Seat 1: Tiltkorv ($142.04 in chips) 
+Seat 2: MrBarrett82 ($129.87 in chips) 
+Seat 3: sjohnny200 ($522.13 in chips) 
+Seat 4: gaiggibeliin ($273.74 in chips) 
+Seat 5: danipesis ($264.52 in chips) 
+Seat 6: jayme1987 ($167.87 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+sjohnny200: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+jayme1987: posts the ante $1
+sjohnny200: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kh 8d]
+gaiggibeliin: folds 
+danipesis: calls $1
+jayme1987: raises $8 to $9
+Tiltkorv: folds 
+MrBarrett82: calls $9
+sjohnny200: folds 
+danipesis: folds 
+*** FLOP *** [9h Tc 6s]
+jayme1987: checks 
+MrBarrett82: bets $16
+jayme1987: folds 
+Uncalled bet ($16) returned to MrBarrett82
+MrBarrett82 collected $24.70 from pot
+MrBarrett82: doesn't show hand 
+*** SUMMARY ***
+Total pot $26 | Rake $1.30 
+Board [9h Tc 6s]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: MrBarrett82 collected ($24.70)
+Seat 3: sjohnny200 (button blind) folded before Flop
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: danipesis folded before Flop
+Seat 6: jayme1987 folded on the Flop
+
+
+
+PokerStars Hand #196136750667:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:21:17 EET [2019/01/23 17:21:17 ET]
+Table 'Heidelberga II' 6-max Seat #4 is the button
+Seat 1: Tiltkorv ($141.04 in chips) 
+Seat 2: MrBarrett82 ($144.57 in chips) 
+Seat 3: sjohnny200 ($520.13 in chips) 
+Seat 4: gaiggibeliin ($272.74 in chips) 
+Seat 5: danipesis ($262.52 in chips) 
+Seat 6: jayme1987 ($157.87 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+sjohnny200: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+jayme1987: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jc 9c]
+danipesis: folds 
+jayme1987: folds 
+Tiltkorv: folds 
+MrBarrett82: calls $1
+sjohnny200: folds 
+gaiggibeliin: raises $10 to $11
+MrBarrett82: calls $10
+*** FLOP *** [Jh Ad 9s]
+MrBarrett82: checks 
+gaiggibeliin: bets $15
+MrBarrett82: calls $15
+*** TURN *** [Jh Ad 9s] [Td]
+MrBarrett82: checks 
+gaiggibeliin: checks 
+*** RIVER *** [Jh Ad 9s Td] [As]
+MrBarrett82: checks 
+gaiggibeliin: checks 
+*** SHOW DOWN ***
+MrBarrett82: shows [Kh Th] (two pair, Aces and Tens)
+gaiggibeliin: shows [Jc 9c] (two pair, Aces and Jacks)
+gaiggibeliin collected $55.25 from pot
+*** SUMMARY ***
+Total pot $58 | Rake $2.75 
+Board [Jh Ad 9s Td As]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: MrBarrett82 showed [Kh Th] and lost with two pair, Aces and Tens
+Seat 3: sjohnny200 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin (button blind) showed [Jc 9c] and won ($55.25) with two pair, Aces and Jacks
+Seat 5: danipesis folded before Flop (didn't bet)
+Seat 6: jayme1987 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196136822165:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:22:55 EET [2019/01/23 17:22:55 ET]
+Table 'Heidelberga II' 6-max Seat #5 is the button
+Seat 1: Tiltkorv ($140.04 in chips) 
+Seat 2: MrBarrett82 ($117.57 in chips) 
+Seat 3: sjohnny200 ($519.13 in chips) 
+Seat 4: gaiggibeliin ($300.99 in chips) 
+Seat 5: danipesis ($261.52 in chips) 
+Seat 6: jayme1987 ($156.87 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+sjohnny200: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+jayme1987: posts the ante $1
+danipesis: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kc Kd]
+jayme1987: folds 
+Tiltkorv: calls $1
+MrBarrett82: calls $1
+sjohnny200: calls $1
+gaiggibeliin: raises $14 to $15
+danipesis: folds 
+Tiltkorv: raises $124.04 to $139.04 and is all-in
+MrBarrett82: folds 
+sjohnny200: folds 
+gaiggibeliin: calls $124.04
+*** FIRST FLOP *** [Jc Js 9h]
+*** FIRST TURN *** [Jc Js 9h] [9c]
+*** FIRST RIVER *** [Jc Js 9h 9c] [As]
+*** SECOND FLOP *** [Kh 8h 7h]
+*** SECOND TURN *** [Kh 8h 7h] [8c]
+*** SECOND RIVER *** [Kh 8h 7h 8c] [7d]
+*** FIRST SHOW DOWN ***
+Tiltkorv: shows [Th Ah] (two pair, Aces and Jacks)
+gaiggibeliin: shows [Kc Kd] (two pair, Kings and Jacks)
+Tiltkorv collected $142.17 from pot
+*** SECOND SHOW DOWN ***
+Tiltkorv: shows [Th Ah] (a flush, Ace high)
+gaiggibeliin: shows [Kc Kd] (a full house, Kings full of Eights)
+Tiltkorv collected $142.16 from pot
+*** SUMMARY ***
+Total pot $287.08 | Rake $2.75 
+Hand was run twice
+FIRST Board [Jc Js 9h 9c As]
+SECOND Board [Kh 8h 7h 8c 7d]
+Seat 1: Tiltkorv showed [Th Ah] and won ($142.17) with two pair, Aces and Jacks, and won ($142.16) with a flush, Ace high
+Seat 2: MrBarrett82 folded before Flop
+Seat 3: sjohnny200 folded before Flop
+Seat 4: gaiggibeliin showed [Kc Kd] and lost with two pair, Kings and Jacks, and lost with a full house, Kings full of Eights
+Seat 5: danipesis (button blind) folded before Flop
+Seat 6: jayme1987 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196136861692:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:23:49 EET [2019/01/23 17:23:49 ET]
+Table 'Heidelberga II' 6-max Seat #6 is the button
+Seat 1: Tiltkorv ($284.33 in chips) 
+Seat 2: MrBarrett82 ($115.57 in chips) 
+Seat 3: sjohnny200 ($517.13 in chips) 
+Seat 4: gaiggibeliin ($160.95 in chips) 
+Seat 5: danipesis ($259.52 in chips) 
+Seat 6: jayme1987 ($155.87 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+sjohnny200: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+jayme1987: posts the ante $1
+jayme1987: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ks Ad]
+Tiltkorv: folds 
+MrBarrett82: folds 
+sjohnny200: raises $8 to $9
+gaiggibeliin: raises $25 to $34
+danipesis: folds 
+jayme1987: folds 
+sjohnny200: calls $25
+*** FLOP *** [7c Jc 7d]
+sjohnny200: checks 
+gaiggibeliin: bets $23.84
+sjohnny200: calls $23.84
+*** TURN *** [7c Jc 7d] [8h]
+sjohnny200: checks 
+gaiggibeliin: checks 
+*** RIVER *** [7c Jc 7d 8h] [Qd]
+sjohnny200: checks 
+gaiggibeliin: checks 
+*** SHOW DOWN ***
+sjohnny200: shows [Jh Tc] (two pair, Jacks and Sevens)
+gaiggibeliin: mucks hand 
+sjohnny200 collected $119.93 from pot
+*** SUMMARY ***
+Total pot $122.68 | Rake $2.75 
+Board [7c Jc 7d 8h Qd]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 3: sjohnny200 showed [Jh Tc] and won ($119.93) with two pair, Jacks and Sevens
+Seat 4: gaiggibeliin mucked [Ks Ad]
+Seat 5: danipesis folded before Flop (didn't bet)
+Seat 6: jayme1987 (button blind) folded before Flop
+
+
+
+PokerStars Hand #196136917030:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:25:04 EET [2019/01/23 17:25:04 ET]
+Table 'Heidelberga II' 6-max Seat #1 is the button
+Seat 1: Tiltkorv ($283.33 in chips) 
+Seat 2: MrBarrett82 ($114.57 in chips) 
+Seat 3: sjohnny200 ($578.22 in chips) 
+Seat 4: gaiggibeliin ($102.11 in chips) 
+Seat 5: danipesis ($258.52 in chips) 
+Seat 6: jayme1987 ($153.87 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+sjohnny200: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+jayme1987: posts the ante $1
+Tiltkorv: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7c 6h]
+MrBarrett82: calls $1
+sjohnny200: raises $4 to $5
+gaiggibeliin: folds 
+danipesis: folds 
+jayme1987: folds 
+Tiltkorv: raises $19 to $24
+MrBarrett82: folds 
+sjohnny200: folds 
+Uncalled bet ($19) returned to Tiltkorv
+Tiltkorv collected $17 from pot
+Tiltkorv: doesn't show hand 
+sjohnny200 leaves the table
+*** SUMMARY ***
+Total pot $17 | Rake $0 
+Seat 1: Tiltkorv (button blind) collected ($17)
+Seat 2: MrBarrett82 folded before Flop
+Seat 3: sjohnny200 folded before Flop
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: danipesis folded before Flop (didn't bet)
+Seat 6: jayme1987 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196136955228:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:25:56 EET [2019/01/23 17:25:56 ET]
+Table 'Heidelberga II' 6-max Seat #2 is the button
+Seat 1: Tiltkorv ($294.33 in chips) 
+Seat 2: MrBarrett82 ($112.57 in chips) 
+Seat 4: gaiggibeliin ($150 in chips) 
+Seat 5: danipesis ($257.52 in chips) 
+Seat 6: jayme1987 ($152.87 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+jayme1987: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9s 6c]
+gaiggibeliin: folds 
+danipesis: folds 
+jayme1987: folds 
+Tiltkorv: calls $1
+MrBarrett82: checks 
+*** FLOP *** [Qd 7c Jc]
+Tiltkorv: bets $3
+MrBarrett82: folds 
+Uncalled bet ($3) returned to Tiltkorv
+Tiltkorv collected $6.65 from pot
+Tiltkorv: doesn't show hand 
+*** SUMMARY ***
+Total pot $7 | Rake $0.35 
+Board [Qd 7c Jc]
+Seat 1: Tiltkorv collected ($6.65)
+Seat 2: MrBarrett82 (button blind) folded on the Flop
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: danipesis folded before Flop (didn't bet)
+Seat 6: jayme1987 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196136982855:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:26:33 EET [2019/01/23 17:26:33 ET]
+Table 'Heidelberga II' 6-max Seat #4 is the button
+Seat 1: Tiltkorv ($298.98 in chips) 
+Seat 2: MrBarrett82 ($110.57 in chips) 
+Seat 4: gaiggibeliin ($149 in chips) 
+Seat 5: danipesis ($256.52 in chips) 
+Seat 6: jayme1987 ($151.87 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+jayme1987: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7h 6s]
+danipesis: folds 
+jayme1987: folds 
+Tiltkorv: folds 
+MrBarrett82: folds 
+Uncalled bet ($1) returned to gaiggibeliin
+gaiggibeliin collected $5 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin (button blind) collected ($5)
+Seat 5: danipesis folded before Flop (didn't bet)
+Seat 6: jayme1987 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196137000899:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:26:58 EET [2019/01/23 17:26:58 ET]
+Table 'Heidelberga II' 6-max Seat #5 is the button
+Seat 1: Tiltkorv ($297.98 in chips) 
+Seat 2: MrBarrett82 ($109.57 in chips) 
+Seat 4: gaiggibeliin ($153 in chips) 
+Seat 5: danipesis ($255.52 in chips) 
+Seat 6: jayme1987 ($150.87 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+jayme1987: posts the ante $1
+danipesis: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ah Ac]
+jayme1987: calls $1
+Tiltkorv: folds 
+MrBarrett82: calls $1
+gaiggibeliin: raises $11 to $12
+danipesis: folds 
+jayme1987: calls $11
+MrBarrett82: raises $96.57 to $108.57 and is all-in
+gaiggibeliin: raises $43.43 to $152 and is all-in
+jayme1987: folds 
+Uncalled bet ($43.43) returned to gaiggibeliin
+*** FLOP *** [9h Td 9c]
+*** TURN *** [9h Td 9c] [6s]
+*** RIVER *** [9h Td 9c 6s] [7d]
+*** SHOW DOWN ***
+MrBarrett82: shows [Qh As] (a pair of Nines)
+gaiggibeliin: shows [Ah Ac] (two pair, Aces and Nines)
+gaiggibeliin collected $232.39 from pot
+*** SUMMARY ***
+Total pot $235.14 | Rake $2.75 
+Board [9h Td 9c 6s 7d]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: MrBarrett82 showed [Qh As] and lost with a pair of Nines
+Seat 4: gaiggibeliin showed [Ah Ac] and won ($232.39) with two pair, Aces and Nines
+Seat 5: danipesis (button blind) folded before Flop
+Seat 6: jayme1987 folded before Flop
+
+
+
+PokerStars Hand #196137037120:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:27:47 EET [2019/01/23 17:27:47 ET]
+Table 'Heidelberga II' 6-max Seat #6 is the button
+Seat 1: Tiltkorv ($296.98 in chips) 
+Seat 2: MrBarrett82 ($150 in chips) 
+Seat 4: gaiggibeliin ($275.82 in chips) 
+Seat 5: danipesis ($253.52 in chips) 
+Seat 6: jayme1987 ($150 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+jayme1987: posts the ante $1
+jayme1987: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Td 6s]
+Tiltkorv: folds 
+MrBarrett82: folds 
+gaiggibeliin: folds 
+danipesis: raises $4 to $5
+jayme1987: calls $4
+*** FLOP *** [7h 8d 7c]
+danipesis: bets $7
+jayme1987: folds 
+Uncalled bet ($7) returned to danipesis
+danipesis collected $14.25 from pot
+danipesis: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0.75 
+Board [7h 8d 7c]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: danipesis collected ($14.25)
+Seat 6: jayme1987 (button blind) folded on the Flop
+
+
+
+PokerStars Hand #196137059195:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:28:16 EET [2019/01/23 17:28:16 ET]
+Table 'Heidelberga II' 6-max Seat #1 is the button
+Seat 1: Tiltkorv ($295.98 in chips) 
+Seat 2: MrBarrett82 ($149 in chips) 
+Seat 4: gaiggibeliin ($274.82 in chips) 
+Seat 5: danipesis ($261.77 in chips) 
+Seat 6: jayme1987 ($150 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+danipesis: posts the ante $1
+jayme1987: posts the ante $1
+Tiltkorv: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8c Jh]
+MrBarrett82: folds 
+gaiggibeliin: folds 
+danipesis: folds 
+jayme1987: raises $5 to $6
+Tiltkorv: calls $5
+*** FLOP *** [Qc 8s 6d]
+jayme1987: checks 
+danipesis leaves the table
+Tiltkorv: bets $10
+jayme1987: calls $10
+*** TURN *** [Qc 8s 6d] [Kh]
+jayme1987: checks 
+Tiltkorv: checks 
+*** RIVER *** [Qc 8s 6d Kh] [Jc]
+jayme1987: checks 
+Tiltkorv: bets $72
+jayme1987: folds 
+Uncalled bet ($72) returned to Tiltkorv
+Tiltkorv collected $35.15 from pot
+Tiltkorv: doesn't show hand 
+*** SUMMARY ***
+Total pot $37 | Rake $1.85 
+Board [Qc 8s 6d Kh Jc]
+Seat 1: Tiltkorv (button blind) collected ($35.15)
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: danipesis folded before Flop (didn't bet)
+Seat 6: jayme1987 folded on the River
+
+
+
+PokerStars Hand #196137120244:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:29:39 EET [2019/01/23 17:29:39 ET]
+Table 'Heidelberga II' 6-max Seat #2 is the button
+Seat 1: Tiltkorv ($314.13 in chips) 
+Seat 2: MrBarrett82 ($148 in chips) 
+Seat 4: gaiggibeliin ($273.82 in chips) 
+Seat 6: jayme1987 ($150 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+jayme1987: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ac 8h]
+gaiggibeliin: folds 
+jayme1987: folds 
+Tiltkorv: folds 
+Uncalled bet ($1) returned to MrBarrett82
+MrBarrett82 collected $4 from pot
+MrBarrett82: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: MrBarrett82 (button blind) collected ($4)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: jayme1987 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196137131996:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:29:55 EET [2019/01/23 17:29:55 ET]
+Table 'Heidelberga II' 6-max Seat #4 is the button
+Seat 1: Tiltkorv ($313.13 in chips) 
+Seat 2: MrBarrett82 ($151 in chips) 
+Seat 4: gaiggibeliin ($272.82 in chips) 
+Seat 6: jayme1987 ($150 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+jayme1987: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [As Qs]
+jayme1987: folds 
+Tiltkorv: folds 
+MrBarrett82: calls $1
+gaiggibeliin: raises $8 to $9
+MrBarrett82: calls $8
+*** FLOP *** [8c Ks 8d]
+MrBarrett82: checks 
+gaiggibeliin: bets $6.90
+MrBarrett82: folds 
+Uncalled bet ($6.90) returned to gaiggibeliin
+gaiggibeliin collected $20.90 from pot
+*** SUMMARY ***
+Total pot $22 | Rake $1.10 
+Board [8c Ks 8d]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: MrBarrett82 folded on the Flop
+Seat 4: gaiggibeliin (button blind) collected ($20.90)
+Seat 6: jayme1987 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196137180485:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:31:00 EET [2019/01/23 17:31:00 ET]
+Table 'Heidelberga II' 6-max Seat #6 is the button
+Seat 1: Tiltkorv ($312.13 in chips) 
+Seat 2: MrBarrett82 ($141 in chips) 
+Seat 4: gaiggibeliin ($283.72 in chips) 
+Seat 6: jayme1987 ($150 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+jayme1987: posts the ante $1
+jayme1987: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6h Jc]
+Tiltkorv: folds 
+MrBarrett82: folds 
+gaiggibeliin: folds 
+Uncalled bet ($1) returned to jayme1987
+jayme1987 collected $4 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: jayme1987 (button blind) collected ($4)
+
+
+
+PokerStars Hand #196137190106:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:31:13 EET [2019/01/23 17:31:13 ET]
+Table 'Heidelberga II' 6-max Seat #1 is the button
+Seat 1: Tiltkorv ($311.13 in chips) 
+Seat 2: MrBarrett82 ($140 in chips) 
+Seat 4: gaiggibeliin ($282.72 in chips) 
+Seat 6: jayme1987 ($153 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+jayme1987: posts the ante $1
+Tiltkorv: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8d 6d]
+MrBarrett82: folds 
+gaiggibeliin: raises $6 to $7
+jayme1987: raises $14 to $21
+Tiltkorv: folds 
+gaiggibeliin: calls $14
+*** FLOP *** [7h Kd Ts]
+gaiggibeliin: checks 
+jayme1987: bets $15.10
+gaiggibeliin: calls $15.10
+*** TURN *** [7h Kd Ts] [Jc]
+gaiggibeliin: checks 
+jayme1987: checks 
+*** RIVER *** [7h Kd Ts Jc] [Qd]
+gaiggibeliin: bets $39.49
+jayme1987: folds 
+Uncalled bet ($39.49) returned to gaiggibeliin
+gaiggibeliin collected $75.95 from pot
+*** SUMMARY ***
+Total pot $77.20 | Rake $1.25 
+Board [7h Kd Ts Jc Qd]
+Seat 1: Tiltkorv (button blind) folded before Flop
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin collected ($75.95)
+Seat 6: jayme1987 folded on the River
+
+
+
+PokerStars Hand #196137237142:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:32:16 EET [2019/01/23 17:32:16 ET]
+Table 'Heidelberga II' 6-max Seat #2 is the button
+Seat 1: Tiltkorv ($309.13 in chips) 
+Seat 2: MrBarrett82 ($139 in chips) 
+Seat 4: gaiggibeliin ($321.57 in chips) 
+Seat 6: jayme1987 ($150 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+jayme1987: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kh 9h]
+gaiggibeliin: calls $1
+jayme1987: raises $5 to $6
+Tiltkorv: folds 
+MrBarrett82: folds 
+gaiggibeliin: calls $5
+*** FLOP *** [Tc Td 6h]
+gaiggibeliin: checks 
+jayme1987: bets $5.33
+gaiggibeliin: calls $5.33
+*** TURN *** [Tc Td 6h] [Kc]
+gaiggibeliin: checks 
+jayme1987: bets $14
+gaiggibeliin: calls $14
+*** RIVER *** [Tc Td 6h Kc] [8c]
+gaiggibeliin: checks 
+jayme1987: bets $28.84
+gaiggibeliin: calls $28.84
+*** SHOW DOWN ***
+jayme1987: shows [Th Js] (three of a kind, Tens)
+gaiggibeliin: mucks hand 
+jayme1987 collected $112.09 from pot
+*** SUMMARY ***
+Total pot $113.34 | Rake $1.25 
+Board [Tc Td 6h Kc 8c]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: MrBarrett82 (button blind) folded before Flop
+Seat 4: gaiggibeliin mucked [Kh 9h]
+Seat 6: jayme1987 showed [Th Js] and won ($112.09) with three of a kind, Tens
+
+
+
+PokerStars Hand #196137300740:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:33:42 EET [2019/01/23 17:33:42 ET]
+Table 'Heidelberga II' 6-max Seat #4 is the button
+Seat 1: Tiltkorv ($308.13 in chips) 
+Seat 2: MrBarrett82 ($137 in chips) 
+Seat 4: gaiggibeliin ($266.40 in chips) 
+Seat 6: jayme1987 ($206.92 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+jayme1987: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ad 9c]
+jayme1987: folds 
+Tiltkorv: calls $1
+MrBarrett82: calls $1
+gaiggibeliin: checks 
+*** FLOP *** [Kd Ts Js]
+Tiltkorv: bets $4
+MrBarrett82: folds 
+gaiggibeliin: folds 
+Uncalled bet ($4) returned to Tiltkorv
+Tiltkorv collected $6.65 from pot
+Tiltkorv: doesn't show hand 
+*** SUMMARY ***
+Total pot $7 | Rake $0.35 
+Board [Kd Ts Js]
+Seat 1: Tiltkorv collected ($6.65)
+Seat 2: MrBarrett82 folded on the Flop
+Seat 4: gaiggibeliin (button blind) folded on the Flop
+Seat 6: jayme1987 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196137325632:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:34:16 EET [2019/01/23 17:34:16 ET]
+Table 'Heidelberga II' 6-max Seat #6 is the button
+Seat 1: Tiltkorv ($312.78 in chips) 
+Seat 2: MrBarrett82 ($135 in chips) 
+Seat 4: gaiggibeliin ($264.40 in chips) 
+Seat 6: jayme1987 ($205.92 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+jayme1987: posts the ante $1
+jayme1987: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ad 7h]
+Tiltkorv: folds 
+MrBarrett82: calls $1
+gaiggibeliin: calls $1
+jayme1987: checks 
+*** FLOP *** [9d Qc Kc]
+MrBarrett82: bets $5
+gaiggibeliin: folds 
+jayme1987: calls $5
+*** TURN *** [9d Qc Kc] [Qs]
+MrBarrett82: checks 
+jayme1987: checks 
+*** RIVER *** [9d Qc Kc Qs] [Ts]
+MrBarrett82: checks 
+jayme1987: checks 
+*** SHOW DOWN ***
+MrBarrett82: shows [Ks Td] (two pair, Kings and Queens)
+jayme1987: shows [8h Kd] (two pair, Kings and Queens)
+MrBarrett82 collected $8.08 from pot
+jayme1987 collected $8.07 from pot
+*** SUMMARY ***
+Total pot $17 | Rake $0.85 
+Board [9d Qc Kc Qs Ts]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: MrBarrett82 showed [Ks Td] and won ($8.08) with two pair, Kings and Queens
+Seat 4: gaiggibeliin folded on the Flop
+Seat 6: jayme1987 (button blind) showed [8h Kd] and won ($8.07) with two pair, Kings and Queens
+
+
+
+PokerStars Hand #196137365759:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:35:10 EET [2019/01/23 17:35:10 ET]
+Table 'Heidelberga II' 6-max Seat #1 is the button
+Seat 1: Tiltkorv ($311.78 in chips) 
+Seat 2: MrBarrett82 ($136.08 in chips) 
+Seat 4: gaiggibeliin ($262.40 in chips) 
+Seat 6: jayme1987 ($206.99 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+jayme1987: posts the ante $1
+Tiltkorv: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Td Kd]
+MrBarrett82: folds 
+gaiggibeliin: calls $1
+jayme1987: raises $5 to $6
+Tiltkorv: folds 
+gaiggibeliin: calls $5
+*** FLOP *** [Qh Ts 8h]
+gaiggibeliin: checks 
+jayme1987: checks 
+*** TURN *** [Qh Ts 8h] [Qc]
+gaiggibeliin: checks 
+jayme1987: bets $8.56
+gaiggibeliin: calls $8.56
+*** RIVER *** [Qh Ts 8h Qc] [Jc]
+gaiggibeliin: checks 
+jayme1987: bets $40
+gaiggibeliin: folds 
+Uncalled bet ($40) returned to jayme1987
+jayme1987 collected $32.87 from pot
+*** SUMMARY ***
+Total pot $34.12 | Rake $1.25 
+Board [Qh Ts 8h Qc Jc]
+Seat 1: Tiltkorv (button blind) folded before Flop
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded on the River
+Seat 6: jayme1987 collected ($32.87)
+
+
+
+PokerStars Hand #196137407565:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:36:07 EET [2019/01/23 17:36:07 ET]
+Table 'Heidelberga II' 6-max Seat #2 is the button
+Seat 1: Tiltkorv ($309.78 in chips) 
+Seat 2: MrBarrett82 ($135.08 in chips) 
+Seat 4: gaiggibeliin ($246.84 in chips) 
+Seat 6: jayme1987 ($224.30 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+jayme1987: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6h Jd]
+gaiggibeliin: folds 
+jayme1987: folds 
+Tiltkorv: calls $1
+MrBarrett82: checks 
+*** FLOP *** [Td 6c Ah]
+Tiltkorv: bets $3
+MrBarrett82: calls $3
+*** TURN *** [Td 6c Ah] [8c]
+Tiltkorv: bets $8
+MrBarrett82: calls $8
+*** RIVER *** [Td 6c Ah 8c] [Jc]
+Tiltkorv: bets $18
+MrBarrett82: folds 
+Uncalled bet ($18) returned to Tiltkorv
+Tiltkorv collected $26.75 from pot
+Tiltkorv: doesn't show hand 
+*** SUMMARY ***
+Total pot $28 | Rake $1.25 
+Board [Td 6c Ah 8c Jc]
+Seat 1: Tiltkorv collected ($26.75)
+Seat 2: MrBarrett82 (button blind) folded on the River
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: jayme1987 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196137457680:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:37:15 EET [2019/01/23 17:37:15 ET]
+Table 'Heidelberga II' 6-max Seat #4 is the button
+Seat 1: Tiltkorv ($323.53 in chips) 
+Seat 2: MrBarrett82 ($122.08 in chips) 
+Seat 4: gaiggibeliin ($245.84 in chips) 
+Seat 6: jayme1987 ($223.30 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+jayme1987: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kh Kc]
+jayme1987: raises $4 to $5
+Tiltkorv: folds 
+MrBarrett82: folds 
+gaiggibeliin: raises $19 to $24
+jayme1987: raises $198.30 to $222.30 and is all-in
+gaiggibeliin: calls $198.30
+*** FIRST FLOP *** [9h Ac 6c]
+*** FIRST TURN *** [9h Ac 6c] [Qd]
+*** FIRST RIVER *** [9h Ac 6c Qd] [9d]
+*** SECOND FLOP *** [8c 9s Ks]
+*** SECOND TURN *** [8c 9s Ks] [9c]
+*** SECOND RIVER *** [8c 9s Ks 9c] [Jd]
+*** FIRST SHOW DOWN ***
+jayme1987: shows [Kd Ad] (two pair, Aces and Nines)
+gaiggibeliin: shows [Kh Kc] (two pair, Kings and Nines)
+jayme1987 collected $223.68 from pot
+*** SECOND SHOW DOWN ***
+jayme1987: shows [Kd Ad] (two pair, Kings and Nines)
+gaiggibeliin: shows [Kh Kc] (a full house, Kings full of Nines)
+gaiggibeliin collected $223.67 from pot
+*** SUMMARY ***
+Total pot $448.60 | Rake $1.25 
+Hand was run twice
+FIRST Board [9h Ac 6c Qd 9d]
+SECOND Board [8c 9s Ks 9c Jd]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin (button blind) showed [Kh Kc] and lost with two pair, Kings and Nines, and won ($223.67) with a full house, Kings full of Nines
+Seat 6: jayme1987 showed [Kd Ad] and won ($223.68) with two pair, Aces and Nines, and lost with two pair, Kings and Nines
+
+
+
+PokerStars Hand #196137493266:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:38:03 EET [2019/01/23 17:38:03 ET]
+Table 'Heidelberga II' 6-max Seat #6 is the button
+Seat 1: Tiltkorv ($322.53 in chips) 
+Seat 2: MrBarrett82 ($121.08 in chips) 
+Seat 4: gaiggibeliin ($246.21 in chips) 
+Seat 6: jayme1987 ($223.68 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+jayme1987: posts the ante $1
+jayme1987: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7h 7c]
+Tiltkorv: folds 
+MrBarrett82: folds 
+gaiggibeliin: calls $1
+jayme1987: checks 
+*** FLOP *** [Kh Ah 6s]
+gaiggibeliin: bets $3.82
+jayme1987: folds 
+Uncalled bet ($3.82) returned to gaiggibeliin
+gaiggibeliin collected $5.70 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Kh Ah 6s]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin collected ($5.70)
+Seat 6: jayme1987 (button blind) folded on the Flop
+
+
+
+PokerStars Hand #196137515728:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:38:34 EET [2019/01/23 17:38:34 ET]
+Table 'Heidelberga II' 6-max Seat #1 is the button
+Seat 1: Tiltkorv ($321.53 in chips) 
+Seat 2: MrBarrett82 ($120.08 in chips) 
+Seat 4: gaiggibeliin ($249.91 in chips) 
+Seat 6: jayme1987 ($221.68 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+jayme1987: posts the ante $1
+Tiltkorv: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8s Th]
+MrBarrett82: folds 
+gaiggibeliin: folds 
+jayme1987: calls $1
+Tiltkorv: checks 
+*** FLOP *** [Td 6d 9c]
+jayme1987: checks 
+Tiltkorv: bets $3
+jayme1987: folds 
+Uncalled bet ($3) returned to Tiltkorv
+Tiltkorv collected $5.70 from pot
+Tiltkorv: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Td 6d 9c]
+Seat 1: Tiltkorv (button blind) collected ($5.70)
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: jayme1987 folded on the Flop
+
+
+
+PokerStars Hand #196137539618:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:39:07 EET [2019/01/23 17:39:07 ET]
+Table 'Heidelberga II' 6-max Seat #2 is the button
+Seat 1: Tiltkorv ($325.23 in chips) 
+Seat 2: MrBarrett82 ($119.08 in chips) 
+Seat 4: gaiggibeliin ($248.91 in chips) 
+Seat 6: jayme1987 ($219.68 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+jayme1987: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jd Qd]
+gaiggibeliin: calls $1
+jayme1987: raises $5 to $6
+Tiltkorv: folds 
+MrBarrett82: folds 
+gaiggibeliin: calls $5
+*** FLOP *** [Js 7c Td]
+gaiggibeliin: checks 
+jayme1987: checks 
+*** TURN *** [Js 7c Td] [Tc]
+gaiggibeliin: bets $10.82
+jayme1987: calls $10.82
+*** RIVER *** [Js 7c Td Tc] [Kc]
+gaiggibeliin: checks 
+jayme1987: bets $40
+gaiggibeliin: folds 
+Uncalled bet ($40) returned to jayme1987
+jayme1987 collected $37.39 from pot
+*** SUMMARY ***
+Total pot $38.64 | Rake $1.25 
+Board [Js 7c Td Tc Kc]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: MrBarrett82 (button blind) folded before Flop
+Seat 4: gaiggibeliin folded on the River
+Seat 6: jayme1987 collected ($37.39)
+
+
+
+PokerStars Hand #196137600925:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:40:32 EET [2019/01/23 17:40:32 ET]
+Table 'Heidelberga II' 6-max Seat #4 is the button
+Seat 1: Tiltkorv ($324.23 in chips) 
+Seat 2: MrBarrett82 ($117.08 in chips) 
+Seat 4: gaiggibeliin ($231.09 in chips) 
+Seat 6: jayme1987 ($239.25 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+jayme1987: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8d Qd]
+jayme1987: folds 
+Tiltkorv: calls $1
+MrBarrett82: calls $1
+gaiggibeliin: checks 
+*** FLOP *** [9s Ac Ad]
+Tiltkorv: bets $3
+MrBarrett82: folds 
+gaiggibeliin: folds 
+Uncalled bet ($3) returned to Tiltkorv
+Tiltkorv collected $6.65 from pot
+Tiltkorv: doesn't show hand 
+*** SUMMARY ***
+Total pot $7 | Rake $0.35 
+Board [9s Ac Ad]
+Seat 1: Tiltkorv collected ($6.65)
+Seat 2: MrBarrett82 folded on the Flop
+Seat 4: gaiggibeliin (button blind) folded on the Flop
+Seat 6: jayme1987 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196137625237:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:41:05 EET [2019/01/23 17:41:05 ET]
+Table 'Heidelberga II' 6-max Seat #6 is the button
+Seat 1: Tiltkorv ($328.88 in chips) 
+Seat 2: MrBarrett82 ($115.08 in chips) 
+Seat 4: gaiggibeliin ($229.09 in chips) 
+Seat 6: jayme1987 ($238.25 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+jayme1987: posts the ante $1
+jayme1987: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qd 8s]
+Tiltkorv: folds 
+MrBarrett82: folds 
+gaiggibeliin: calls $1
+jayme1987: raises $5 to $6
+gaiggibeliin: calls $5
+*** FLOP *** [Jd 8d Ad]
+gaiggibeliin: checks 
+jayme1987: checks 
+*** TURN *** [Jd 8d Ad] [6h]
+gaiggibeliin: bets $11.40
+jayme1987: folds 
+Uncalled bet ($11.40) returned to gaiggibeliin
+gaiggibeliin collected $15.20 from pot
+*** SUMMARY ***
+Total pot $16 | Rake $0.80 
+Board [Jd 8d Ad 6h]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin collected ($15.20)
+Seat 6: jayme1987 (button blind) folded on the Turn
+
+
+
+PokerStars Hand #196137679003:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:42:19 EET [2019/01/23 17:42:19 ET]
+Table 'Heidelberga II' 6-max Seat #1 is the button
+Seat 1: Tiltkorv ($327.88 in chips) 
+Seat 2: MrBarrett82 ($114.08 in chips) 
+Seat 4: gaiggibeliin ($237.29 in chips) 
+Seat 6: jayme1987 ($231.25 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+jayme1987: posts the ante $1
+Tiltkorv: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6d 8c]
+MrBarrett82: folds 
+gaiggibeliin: folds 
+jayme1987: folds 
+Uncalled bet ($1) returned to Tiltkorv
+Tiltkorv collected $4 from pot
+Tiltkorv: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 1: Tiltkorv (button blind) collected ($4)
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: jayme1987 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196137688820:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:42:33 EET [2019/01/23 17:42:33 ET]
+Table 'Heidelberga II' 6-max Seat #2 is the button
+Seat 1: Tiltkorv ($330.88 in chips) 
+Seat 2: MrBarrett82 ($113.08 in chips) 
+Seat 4: gaiggibeliin ($236.29 in chips) 
+Seat 6: jayme1987 ($230.25 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+jayme1987: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qc Jh]
+gaiggibeliin: calls $1
+jayme1987: folds 
+Tiltkorv: folds 
+MrBarrett82: checks 
+*** FLOP *** [6d Td Kc]
+sjohnny200 joins the table at seat #3 
+gaiggibeliin: bets $4.28
+MrBarrett82: folds 
+Uncalled bet ($4.28) returned to gaiggibeliin
+gaiggibeliin collected $5.70 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [6d Td Kc]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: MrBarrett82 (button blind) folded on the Flop
+Seat 4: gaiggibeliin collected ($5.70)
+Seat 6: jayme1987 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196137724384:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:43:22 EET [2019/01/23 17:43:22 ET]
+Table 'Heidelberga II' 6-max Seat #4 is the button
+Seat 1: Tiltkorv ($329.88 in chips) 
+Seat 2: MrBarrett82 ($111.08 in chips) 
+Seat 3: sjohnny200 ($150 in chips) 
+Seat 4: gaiggibeliin ($239.99 in chips) 
+Seat 6: jayme1987 ($229.25 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+sjohnny200: posts the ante $1
+gaiggibeliin: posts the ante $1
+jayme1987: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9c Kh]
+jayme1987: folds 
+Tiltkorv: folds 
+MrBarrett82: calls $1
+sjohnny200: raises $8 to $9
+gaiggibeliin: folds 
+MrBarrett82: raises $101.08 to $110.08 and is all-in
+sjohnny200: folds 
+Uncalled bet ($101.08) returned to MrBarrett82
+MrBarrett82 collected $24 from pot
+MrBarrett82: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: MrBarrett82 collected ($24)
+Seat 3: sjohnny200 folded before Flop
+Seat 4: gaiggibeliin (button blind) folded before Flop
+Seat 6: jayme1987 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196137752708:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:44:02 EET [2019/01/23 17:44:02 ET]
+Table 'Heidelberga II' 6-max Seat #6 is the button
+Seat 1: Tiltkorv ($328.88 in chips) 
+Seat 2: MrBarrett82 ($125.08 in chips) 
+Seat 3: sjohnny200 ($140 in chips) 
+Seat 4: gaiggibeliin ($237.99 in chips) 
+Seat 6: jayme1987 ($228.25 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+sjohnny200: posts the ante $1
+gaiggibeliin: posts the ante $1
+jayme1987: posts the ante $1
+jayme1987: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9c Td]
+Tiltkorv: folds 
+MrBarrett82: calls $1
+sjohnny200: raises $8 to $9
+gaiggibeliin: folds 
+jayme1987: calls $8
+MrBarrett82: raises $115.08 to $124.08 and is all-in
+sjohnny200: raises $14.92 to $139 and is all-in
+jayme1987: folds 
+Uncalled bet ($14.92) returned to sjohnny200
+*** FLOP *** [7s Ks 7d]
+*** TURN *** [7s Ks 7d] [Js]
+*** RIVER *** [7s Ks 7d Js] [Jd]
+*** SHOW DOWN ***
+MrBarrett82: shows [Kd As] (two pair, Kings and Jacks)
+sjohnny200: shows [Ac Qd] (two pair, Jacks and Sevens)
+MrBarrett82 collected $259.41 from pot
+*** SUMMARY ***
+Total pot $262.16 | Rake $2.75 
+Board [7s Ks 7d Js Jd]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: MrBarrett82 showed [Kd As] and won ($259.41) with two pair, Kings and Jacks
+Seat 3: sjohnny200 showed [Ac Qd] and lost with two pair, Jacks and Sevens
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: jayme1987 (button blind) folded before Flop
+
+
+
+PokerStars Hand #196137778123:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:44:37 EET [2019/01/23 17:44:37 ET]
+Table 'Heidelberga II' 6-max Seat #1 is the button
+Seat 1: Tiltkorv ($327.88 in chips) 
+Seat 2: MrBarrett82 ($259.41 in chips) 
+Seat 3: sjohnny200 ($14.92 in chips) 
+Seat 4: gaiggibeliin ($236.99 in chips) 
+Seat 6: jayme1987 ($218.25 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+sjohnny200: posts the ante $1
+gaiggibeliin: posts the ante $1
+jayme1987: posts the ante $1
+Tiltkorv: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6d Jh]
+MrBarrett82: calls $1
+sjohnny200: raises $8 to $9
+gaiggibeliin: folds 
+jayme1987: raises $8 to $17
+Tiltkorv: folds 
+MrBarrett82: folds 
+sjohnny200: calls $4.92 and is all-in
+Uncalled bet ($3.08) returned to jayme1987
+*** FLOP *** [Qs Jc As]
+*** TURN *** [Qs Jc As] [Qh]
+*** RIVER *** [Qs Jc As Qh] [Kh]
+*** SHOW DOWN ***
+sjohnny200: shows [Th Js] (a straight, Ten to Ace)
+jayme1987: shows [9d 9h] (two pair, Queens and Nines)
+sjohnny200 collected $33.10 from pot
+*** SUMMARY ***
+Total pot $34.84 | Rake $1.74 
+Board [Qs Jc As Qh Kh]
+Seat 1: Tiltkorv (button blind) folded before Flop
+Seat 2: MrBarrett82 folded before Flop
+Seat 3: sjohnny200 showed [Th Js] and won ($33.10) with a straight, Ten to Ace
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: jayme1987 showed [9d 9h] and lost with two pair, Queens and Nines
+
+
+
+PokerStars Hand #196137807107:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:45:18 EET [2019/01/23 17:45:18 ET]
+Table 'Heidelberga II' 6-max Seat #2 is the button
+Seat 1: Tiltkorv ($325.88 in chips) 
+Seat 2: MrBarrett82 ($257.41 in chips) 
+Seat 3: sjohnny200 ($33.10 in chips) 
+Seat 4: gaiggibeliin ($235.99 in chips) 
+Seat 6: jayme1987 ($203.33 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+sjohnny200: posts the ante $1
+gaiggibeliin: posts the ante $1
+jayme1987: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7c 9s]
+sjohnny200: folds 
+gaiggibeliin: folds 
+jayme1987: raises $5 to $6
+Tiltkorv: folds 
+MrBarrett82: calls $5
+*** FLOP *** [Jc Th Jd]
+jayme1987: bets $8.56
+MrBarrett82: folds 
+Uncalled bet ($8.56) returned to jayme1987
+jayme1987 collected $16.15 from pot
+*** SUMMARY ***
+Total pot $17 | Rake $0.85 
+Board [Jc Th Jd]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: MrBarrett82 (button blind) folded on the Flop
+Seat 3: sjohnny200 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: jayme1987 collected ($16.15)
+
+
+
+PokerStars Hand #196137826567:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:45:45 EET [2019/01/23 17:45:45 ET]
+Table 'Heidelberga II' 6-max Seat #3 is the button
+Seat 1: Tiltkorv ($324.88 in chips) 
+Seat 2: MrBarrett82 ($250.41 in chips) 
+Seat 3: sjohnny200 ($149 in chips) 
+Seat 4: gaiggibeliin ($234.99 in chips) 
+Seat 6: jayme1987 ($212.48 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+sjohnny200: posts the ante $1
+gaiggibeliin: posts the ante $1
+jayme1987: posts the ante $1
+sjohnny200: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6s 7c]
+gaiggibeliin: folds 
+jayme1987: raises $4 to $5
+Tiltkorv: folds 
+MrBarrett82: calls $5
+sjohnny200: calls $4
+*** FLOP *** [7d Th 8d]
+jayme1987: checks 
+MrBarrett82: checks 
+sjohnny200: checks 
+*** TURN *** [7d Th 8d] [Kd]
+jayme1987: bets $10.07
+MrBarrett82: calls $10.07
+sjohnny200: folds 
+*** RIVER *** [7d Th 8d Kd] [6h]
+jayme1987: checks 
+MrBarrett82: checks 
+*** SHOW DOWN ***
+jayme1987: shows [Qh Kc] (a pair of Kings)
+MrBarrett82: mucks hand 
+jayme1987 collected $38.13 from pot
+*** SUMMARY ***
+Total pot $40.14 | Rake $2.01 
+Board [7d Th 8d Kd 6h]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: MrBarrett82 mucked [Ah Td]
+Seat 3: sjohnny200 (button blind) folded on the Turn
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: jayme1987 showed [Qh Kc] and won ($38.13) with a pair of Kings
+
+
+
+PokerStars Hand #196137867927:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:46:43 EET [2019/01/23 17:46:43 ET]
+Table 'Heidelberga II' 6-max Seat #4 is the button
+Seat 1: Tiltkorv ($323.88 in chips) 
+Seat 2: MrBarrett82 ($234.34 in chips) 
+Seat 3: sjohnny200 ($143 in chips) 
+Seat 4: gaiggibeliin ($233.99 in chips) 
+Seat 6: jayme1987 ($234.54 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+sjohnny200: posts the ante $1
+gaiggibeliin: posts the ante $1
+jayme1987: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qh 6c]
+Kirei83 joins the table at seat #5 
+jayme1987: calls $1
+Tiltkorv: calls $1
+MrBarrett82: folds 
+sjohnny200: raises $2 to $3
+gaiggibeliin: folds 
+jayme1987: calls $2
+Tiltkorv: raises $319.88 to $322.88 and is all-in
+sjohnny200: calls $139 and is all-in
+jayme1987: folds 
+Uncalled bet ($180.88) returned to Tiltkorv
+*** FLOP *** [8c Ac 7c]
+*** TURN *** [8c Ac 7c] [9c]
+*** RIVER *** [8c Ac 7c 9c] [Qs]
+*** SHOW DOWN ***
+Tiltkorv: shows [Jc Jd] (a flush, Ace high)
+sjohnny200: shows [9d 6d] (a straight, Ace to Nine)
+Tiltkorv collected $290.25 from pot
+*** SUMMARY ***
+Total pot $293 | Rake $2.75 
+Board [8c Ac 7c 9c Qs]
+Seat 1: Tiltkorv showed [Jc Jd] and won ($290.25) with a flush, Ace high
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 3: sjohnny200 showed [9d 6d] and lost with a straight, Ace to Nine
+Seat 4: gaiggibeliin (button blind) folded before Flop
+Seat 6: jayme1987 folded before Flop
+
+
+
+PokerStars Hand #196137892254:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:47:17 EET [2019/01/23 17:47:17 ET]
+Table 'Heidelberga II' 6-max Seat #6 is the button
+Seat 1: Tiltkorv ($471.13 in chips) 
+Seat 2: MrBarrett82 ($233.34 in chips) 
+Seat 4: gaiggibeliin ($231.99 in chips) 
+Seat 5: Kirei83 ($150 in chips) 
+Seat 6: jayme1987 ($230.54 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+Kirei83: posts the ante $1
+jayme1987: posts the ante $1
+jayme1987: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7h Kh]
+Tiltkorv: folds 
+MrBarrett82: folds 
+gaiggibeliin: folds 
+Kirei83: raises $3 to $4
+jayme1987: calls $3
+*** FLOP *** [Tc Ac 6c]
+Kirei83: bets $8.23
+jayme1987: folds 
+Uncalled bet ($8.23) returned to Kirei83
+Kirei83 collected $12.35 from pot
+Kirei83: doesn't show hand 
+*** SUMMARY ***
+Total pot $13 | Rake $0.65 
+Board [Tc Ac 6c]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: Kirei83 collected ($12.35)
+Seat 6: jayme1987 (button blind) folded on the Flop
+
+
+
+PokerStars Hand #196137918298:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:47:54 EET [2019/01/23 17:47:54 ET]
+Table 'Heidelberga II' 6-max Seat #1 is the button
+Seat 1: Tiltkorv ($470.13 in chips) 
+Seat 2: MrBarrett82 ($232.34 in chips) 
+Seat 3: sjohnny200 ($150 in chips) 
+Seat 4: gaiggibeliin ($230.99 in chips) 
+Seat 5: Kirei83 ($157.35 in chips) 
+Seat 6: jayme1987 ($225.54 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+sjohnny200: posts the ante $1
+gaiggibeliin: posts the ante $1
+Kirei83: posts the ante $1
+jayme1987: posts the ante $1
+Tiltkorv: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8s 8c]
+MrBarrett82: folds 
+sjohnny200: raises $8 to $9
+gaiggibeliin: calls $9
+Kirei83: folds 
+Kirei83 leaves the table
+jayme1987: folds 
+Tiltkorv: folds 
+*** FLOP *** [7c 9d Ks]
+sjohnny200: checks 
+gaiggibeliin: checks 
+*** TURN *** [7c 9d Ks] [Qs]
+sjohnny200: bets $15.83
+gaiggibeliin: folds 
+Uncalled bet ($15.83) returned to sjohnny200
+sjohnny200 collected $23.75 from pot
+sjohnny200: doesn't show hand 
+*** SUMMARY ***
+Total pot $25 | Rake $1.25 
+Board [7c 9d Ks Qs]
+Seat 1: Tiltkorv (button blind) folded before Flop
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 3: sjohnny200 collected ($23.75)
+Seat 4: gaiggibeliin folded on the Turn
+Seat 5: Kirei83 folded before Flop (didn't bet)
+Seat 6: jayme1987 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196137960158:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:48:53 EET [2019/01/23 17:48:53 ET]
+Table 'Heidelberga II' 6-max Seat #2 is the button
+Seat 1: Tiltkorv ($468.13 in chips) 
+Seat 2: MrBarrett82 ($231.34 in chips) 
+Seat 3: sjohnny200 ($163.75 in chips) 
+Seat 4: gaiggibeliin ($220.99 in chips) 
+Seat 6: jayme1987 ($224.54 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+sjohnny200: posts the ante $1
+gaiggibeliin: posts the ante $1
+jayme1987: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ad 7h]
+sjohnny200: raises $7 to $8
+gaiggibeliin: folds 
+jayme1987: raises $18 to $26
+Tiltkorv: folds 
+MrBarrett82: folds 
+sjohnny200: calls $18
+*** FLOP *** [Ts As 8s]
+sjohnny200: checks 
+jayme1987: checks 
+*** TURN *** [Ts As 8s] [9c]
+sjohnny200: checks 
+jayme1987: checks 
+*** RIVER *** [Ts As 8s 9c] [Qs]
+sjohnny200: checks 
+jayme1987: checks 
+*** SHOW DOWN ***
+sjohnny200: shows [Qd 9d] (two pair, Queens and Nines)
+jayme1987: mucks hand 
+sjohnny200 collected $55.25 from pot
+*** SUMMARY ***
+Total pot $58 | Rake $2.75 
+Board [Ts As 8s 9c Qs]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: MrBarrett82 (button blind) folded before Flop
+Seat 3: sjohnny200 showed [Qd 9d] and won ($55.25) with two pair, Queens and Nines
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: jayme1987 mucked [Kc Tc]
+
+
+
+PokerStars Hand #196138012588:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:50:09 EET [2019/01/23 17:50:09 ET]
+Table 'Heidelberga II' 6-max Seat #3 is the button
+Seat 1: Tiltkorv ($467.13 in chips) 
+Seat 2: MrBarrett82 ($229.34 in chips) 
+Seat 3: sjohnny200 ($192 in chips) 
+Seat 4: gaiggibeliin ($219.99 in chips) 
+Seat 6: jayme1987 ($197.54 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+sjohnny200: posts the ante $1
+gaiggibeliin: posts the ante $1
+jayme1987: posts the ante $1
+sjohnny200: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ts 9c]
+gaiggibeliin: folds 
+jayme1987: raises $5 to $6
+Tiltkorv: raises $18 to $24
+MrBarrett82: folds 
+sjohnny200: calls $23
+jayme1987: calls $18
+*** FLOP *** [Ad Jd 6s]
+jayme1987: checks 
+Tiltkorv: bets $31
+sjohnny200: folds 
+jayme1987: folds 
+Uncalled bet ($31) returned to Tiltkorv
+Tiltkorv collected $74.25 from pot
+Tiltkorv: doesn't show hand 
+*** SUMMARY ***
+Total pot $77 | Rake $2.75 
+Board [Ad Jd 6s]
+Seat 1: Tiltkorv collected ($74.25)
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 3: sjohnny200 (button blind) folded on the Flop
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: jayme1987 folded on the Flop
+
+
+
+PokerStars Hand #196138047057:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:50:58 EET [2019/01/23 17:50:58 ET]
+Table 'Heidelberga II' 6-max Seat #4 is the button
+Seat 1: Tiltkorv ($516.38 in chips) 
+Seat 2: MrBarrett82 ($228.34 in chips) 
+Seat 3: sjohnny200 ($167 in chips) 
+Seat 4: gaiggibeliin ($218.99 in chips) 
+Seat 6: jayme1987 ($172.54 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+sjohnny200: posts the ante $1
+gaiggibeliin: posts the ante $1
+jayme1987: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ts 8h]
+dealo joins the table at seat #5 
+jayme1987: folds 
+Tiltkorv: calls $1
+MrBarrett82: calls $1
+sjohnny200: raises $2 to $3
+gaiggibeliin: calls $2
+Tiltkorv: calls $2
+MrBarrett82: calls $2
+*** FLOP *** [Jc 9s 7h]
+Tiltkorv: checks 
+MrBarrett82: checks 
+sjohnny200: checks 
+gaiggibeliin: bets $10.82
+Tiltkorv: calls $10.82
+MrBarrett82: folds 
+sjohnny200: folds 
+*** TURN *** [Jc 9s 7h] [7d]
+sjohnny200 leaves the table
+Tiltkorv: checks 
+gaiggibeliin: bets $27
+Tiltkorv: folds 
+Uncalled bet ($27) returned to gaiggibeliin
+gaiggibeliin collected $36.71 from pot
+*** SUMMARY ***
+Total pot $38.64 | Rake $1.93 
+Board [Jc 9s 7h 7d]
+Seat 1: Tiltkorv folded on the Turn
+Seat 2: MrBarrett82 folded on the Flop
+Seat 3: sjohnny200 folded on the Flop
+Seat 4: gaiggibeliin (button blind) collected ($36.71)
+Seat 6: jayme1987 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196138119509:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:52:44 EET [2019/01/23 17:52:44 ET]
+Table 'Heidelberga II' 6-max Seat #6 is the button
+Seat 1: Tiltkorv ($501.56 in chips) 
+Seat 2: MrBarrett82 ($224.34 in chips) 
+Seat 4: gaiggibeliin ($240.88 in chips) 
+Seat 5: dealo ($150 in chips) 
+Seat 6: jayme1987 ($171.54 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+dealo: posts the ante $1
+jayme1987: posts the ante $1
+jayme1987: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6d Th]
+Tiltkorv: folds 
+MrBarrett82: folds 
+gaiggibeliin: folds 
+dealo: raises $6 to $7
+jayme1987: calls $6
+*** FLOP *** [Ad Jh 9d]
+dealo: bets $10.11
+jayme1987: calls $10.11
+*** TURN *** [Ad Jh 9d] [9h]
+dealo: bets $20.87
+jayme1987: folds 
+Uncalled bet ($20.87) returned to dealo
+dealo collected $37.26 from pot
+dealo: doesn't show hand 
+*** SUMMARY ***
+Total pot $39.22 | Rake $1.96 
+Board [Ad Jh 9d 9h]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: dealo collected ($37.26)
+Seat 6: jayme1987 (button blind) folded on the Turn
+
+
+
+PokerStars Hand #196138156489:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:53:38 EET [2019/01/23 17:53:38 ET]
+Table 'Heidelberga II' 6-max Seat #1 is the button
+Seat 1: Tiltkorv ($500.56 in chips) 
+Seat 2: MrBarrett82 ($223.34 in chips) 
+Seat 4: gaiggibeliin ($239.88 in chips) 
+Seat 5: dealo ($169.15 in chips) 
+Seat 6: jayme1987 ($153.43 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+dealo: posts the ante $1
+jayme1987: posts the ante $1
+Tiltkorv: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7s 6h]
+MrBarrett82: folds 
+gaiggibeliin: folds 
+dealo: raises $5 to $6
+jayme1987: raises $14 to $20
+Tiltkorv: folds 
+dealo: calls $14
+*** FLOP *** [Td 9s 7d]
+dealo: checks 
+jayme1987: bets $23.16
+dealo: folds 
+Uncalled bet ($23.16) returned to jayme1987
+jayme1987 collected $43.70 from pot
+*** SUMMARY ***
+Total pot $46 | Rake $2.30 
+Board [Td 9s 7d]
+Seat 1: Tiltkorv (button blind) folded before Flop
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: dealo folded on the Flop
+Seat 6: jayme1987 collected ($43.70)
+
+
+
+PokerStars Hand #196138183494:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:54:18 EET [2019/01/23 17:54:18 ET]
+Table 'Heidelberga II' 6-max Seat #2 is the button
+Seat 1: Tiltkorv ($498.56 in chips) 
+Seat 2: MrBarrett82 ($222.34 in chips) 
+Seat 4: gaiggibeliin ($238.88 in chips) 
+Seat 5: dealo ($148.15 in chips) 
+Seat 6: jayme1987 ($176.13 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+dealo: posts the ante $1
+jayme1987: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9c Jh]
+gaiggibeliin: folds 
+dealo: folds 
+jayme1987: raises $5 to $6
+Tiltkorv: calls $6
+MrBarrett82: calls $5
+*** FLOP *** [6d Ks Td]
+jayme1987: checks 
+Spencediamond joins the table at seat #3 
+Tiltkorv: checks 
+MrBarrett82: checks 
+*** TURN *** [6d Ks Td] [Qd]
+jayme1987: checks 
+Tiltkorv: bets $13
+MrBarrett82: calls $13
+jayme1987: folds 
+*** RIVER *** [6d Ks Td Qd] [8s]
+Tiltkorv: checks 
+MrBarrett82: bets $36
+Tiltkorv: calls $36
+*** SHOW DOWN ***
+MrBarrett82: shows [Jd Ac] (a straight, Ten to Ace)
+Tiltkorv: mucks hand 
+MrBarrett82 collected $118.25 from pot
+*** SUMMARY ***
+Total pot $121 | Rake $2.75 
+Board [6d Ks Td Qd 8s]
+Seat 1: Tiltkorv mucked [Qs Ts]
+Seat 2: MrBarrett82 (button blind) showed [Jd Ac] and won ($118.25) with a straight, Ten to Ace
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: dealo folded before Flop (didn't bet)
+Seat 6: jayme1987 folded on the Turn
+
+
+
+PokerStars Hand #196138246703:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:56:02 EET [2019/01/23 17:56:02 ET]
+Table 'Heidelberga II' 6-max Seat #4 is the button
+Seat 1: Tiltkorv ($442.56 in chips) 
+Seat 2: MrBarrett82 ($284.59 in chips) 
+Seat 3: Spencediamond ($150 in chips) 
+Seat 4: gaiggibeliin ($237.88 in chips) 
+Seat 5: dealo ($147.15 in chips) 
+Seat 6: jayme1987 ($169.13 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+Spencediamond: posts the ante $1
+gaiggibeliin: posts the ante $1
+dealo: posts the ante $1
+jayme1987: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8s 9d]
+dealo: folds 
+jayme1987: raises $6 to $7
+Tiltkorv: folds 
+MrBarrett82: calls $7
+Spencediamond: calls $7
+gaiggibeliin: calls $6
+*** FLOP *** [Kc 7d 6h]
+jayme1987: checks 
+MrBarrett82: bets $24
+Spencediamond: folds 
+gaiggibeliin: raises $53.80 to $77.80
+jayme1987: calls $77.80
+MrBarrett82: calls $53.80
+*** TURN *** [Kc 7d 6h] [Js]
+jayme1987: checks 
+MrBarrett82: checks 
+gaiggibeliin: checks 
+*** RIVER *** [Kc 7d 6h Js] [7s]
+jayme1987: bets $83.33 and is all-in
+MrBarrett82: folds 
+gaiggibeliin: folds 
+Uncalled bet ($83.33) returned to jayme1987
+jayme1987 collected $264.65 from pot
+*** SUMMARY ***
+Total pot $267.40 | Rake $2.75 
+Board [Kc 7d 6h Js 7s]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: MrBarrett82 folded on the River
+Seat 3: Spencediamond folded on the Flop
+Seat 4: gaiggibeliin (button blind) folded on the River
+Seat 5: dealo folded before Flop (didn't bet)
+Seat 6: jayme1987 collected ($264.65)
+
+
+
+PokerStars Hand #196138321388:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:58:12 EET [2019/01/23 17:58:12 ET]
+Table 'Heidelberga II' 6-max Seat #5 is the button
+Seat 1: Tiltkorv ($441.56 in chips) 
+Seat 2: MrBarrett82 ($198.79 in chips) 
+Seat 3: Spencediamond ($142 in chips) 
+Seat 4: gaiggibeliin ($152.08 in chips) 
+Seat 5: dealo ($146.15 in chips) 
+Seat 6: jayme1987 ($347.98 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+Spencediamond: posts the ante $1
+gaiggibeliin: posts the ante $1
+dealo: posts the ante $1
+jayme1987: posts the ante $1
+dealo: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Th 9s]
+jayme1987: raises $6 to $7
+Tiltkorv: folds 
+MrBarrett82: folds 
+Spencediamond: raises $6 to $13
+gaiggibeliin: folds 
+dealo: calls $12
+jayme1987: raises $333.98 to $346.98 and is all-in
+Spencediamond: folds 
+dealo: folds 
+Uncalled bet ($333.98) returned to jayme1987
+jayme1987 collected $45 from pot
+*** SUMMARY ***
+Total pot $45 | Rake $0 
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 3: Spencediamond folded before Flop
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: dealo (button blind) folded before Flop
+Seat 6: jayme1987 collected ($45)
+
+
+
+PokerStars Hand #196138338889:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:58:44 EET [2019/01/23 17:58:44 ET]
+Table 'Heidelberga II' 6-max Seat #6 is the button
+Seat 1: Tiltkorv ($440.56 in chips) 
+Seat 2: MrBarrett82 ($197.79 in chips) 
+Seat 3: Spencediamond ($128 in chips) 
+Seat 4: gaiggibeliin ($151.08 in chips) 
+Seat 5: dealo ($132.15 in chips) 
+Seat 6: jayme1987 ($378.98 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+Spencediamond: posts the ante $1
+gaiggibeliin: posts the ante $1
+dealo: posts the ante $1
+jayme1987: posts the ante $1
+jayme1987: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Tc Ac]
+Tiltkorv: folds 
+MrBarrett82: calls $1
+Spencediamond: folds 
+gaiggibeliin: raises $10 to $11
+dealo: folds 
+jayme1987: folds 
+MrBarrett82: folds 
+Uncalled bet ($10) returned to gaiggibeliin
+gaiggibeliin collected $9 from pot
+*** SUMMARY ***
+Total pot $9 | Rake $0 
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: MrBarrett82 folded before Flop
+Seat 3: Spencediamond folded before Flop (didn't bet)
+Seat 4: gaiggibeliin collected ($9)
+Seat 5: dealo folded before Flop (didn't bet)
+Seat 6: jayme1987 (button blind) folded before Flop
+
+
+
+PokerStars Hand #196138353349:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:59:10 EET [2019/01/23 17:59:10 ET]
+Table 'Heidelberga II' 6-max Seat #1 is the button
+Seat 1: Tiltkorv ($439.56 in chips) 
+Seat 2: MrBarrett82 ($195.79 in chips) 
+Seat 3: Spencediamond ($127 in chips) 
+Seat 4: gaiggibeliin ($158.08 in chips) 
+Seat 5: dealo ($131.15 in chips) 
+Seat 6: jayme1987 ($376.98 in chips) 
+Tiltkorv: posts the ante $1
+MrBarrett82: posts the ante $1
+Spencediamond: posts the ante $1
+gaiggibeliin: posts the ante $1
+dealo: posts the ante $1
+jayme1987: posts the ante $1
+Tiltkorv: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Js 9c]
+MrBarrett82: folds 
+Spencediamond: raises $1 to $2
+gaiggibeliin: calls $2
+dealo: folds 
+jayme1987: folds 
+Tiltkorv: calls $1
+*** FLOP *** [As 9d 7c]
+Spencediamond: bets $6
+gaiggibeliin: folds 
+Tiltkorv: folds 
+Uncalled bet ($6) returned to Spencediamond
+Spencediamond collected $11.40 from pot
+Spencediamond: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0.60 
+Board [As 9d 7c]
+Seat 1: Tiltkorv (button blind) folded on the Flop
+Seat 2: MrBarrett82 folded before Flop (didn't bet)
+Seat 3: Spencediamond collected ($11.40)
+Seat 4: gaiggibeliin folded on the Flop
+Seat 5: dealo folded before Flop (didn't bet)
+Seat 6: jayme1987 folded before Flop (didn't bet)
+
+
+

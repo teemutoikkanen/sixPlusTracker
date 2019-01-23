@@ -1,0 +1,1400 @@
+﻿PokerStars Hand #196118207533:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/23 17:28:04 EET [2019/01/23 10:28:04 ET]
+Table 'Montague' 6-max Seat #1 is the button
+Seat 1: el cadejo89 ($86.62 in chips) 
+Seat 2: N`ice$kiv ($157.78 in chips) 
+Seat 3: kolyan292 ($32.13 in chips) 
+Seat 6: gaiggibeliin ($75 in chips) 
+el cadejo89: posts the ante $0.50
+N`ice$kiv: posts the ante $0.50
+kolyan292: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+el cadejo89: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qc 7s]
+N`ice$kiv: folds 
+max70310 joins the table at seat #4 
+kolyan292: calls $0.50
+gaiggibeliin: folds 
+[BO$$]BUDDAH joins the table at seat #5 
+el cadejo89: checks 
+*** FLOP *** [Kh 6c 9d]
+kolyan292: checks 
+el cadejo89: bets $2.85
+kolyan292: folds 
+Uncalled bet ($2.85) returned to el cadejo89
+el cadejo89 collected $2.85 from pot
+el cadejo89: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0.15 
+Board [Kh 6c 9d]
+Seat 1: el cadejo89 (button blind) collected ($2.85)
+Seat 2: N`ice$kiv folded before Flop (didn't bet)
+Seat 3: kolyan292 folded on the Flop
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196118223193:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/23 17:28:30 EET [2019/01/23 10:28:30 ET]
+Table 'Montague' 6-max Seat #2 is the button
+Seat 1: el cadejo89 ($88.47 in chips) 
+Seat 2: N`ice$kiv ($157.28 in chips) 
+Seat 3: kolyan292 ($31.13 in chips) 
+Seat 4: max70310 ($50 in chips) 
+Seat 5: [BO$$]BUDDAH ($75 in chips) 
+Seat 6: gaiggibeliin ($74.50 in chips) 
+el cadejo89: posts the ante $0.50
+N`ice$kiv: posts the ante $0.50
+kolyan292: posts the ante $0.50
+max70310: posts the ante $0.50
+[BO$$]BUDDAH: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+N`ice$kiv: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qh 7h]
+kolyan292: calls $0.50
+max70310: calls $0.50
+[BO$$]BUDDAH: folds 
+gaiggibeliin: folds 
+el cadejo89: folds 
+N`ice$kiv: checks 
+*** FLOP *** [6d 7d Qs]
+kolyan292: checks 
+max70310: checks 
+N`ice$kiv: checks 
+*** TURN *** [6d 7d Qs] [Tc]
+kolyan292: checks 
+max70310: checks 
+N`ice$kiv: checks 
+*** RIVER *** [6d 7d Qs Tc] [Ts]
+kolyan292: checks 
+max70310: checks 
+N`ice$kiv: checks 
+*** SHOW DOWN ***
+kolyan292: shows [8h Ad] (a pair of Tens)
+max70310: shows [7s Ah] (two pair, Tens and Sevens)
+N`ice$kiv: mucks hand 
+max70310 collected $4.28 from pot
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [6d 7d Qs Tc Ts]
+Seat 1: el cadejo89 folded before Flop (didn't bet)
+Seat 2: N`ice$kiv (button blind) mucked [6s Jd]
+Seat 3: kolyan292 showed [8h Ad] and lost with a pair of Tens
+Seat 4: max70310 showed [7s Ah] and won ($4.28) with two pair, Tens and Sevens
+Seat 5: [BO$$]BUDDAH folded before Flop (didn't bet)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196118248164:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/23 17:29:11 EET [2019/01/23 10:29:11 ET]
+Table 'Montague' 6-max Seat #3 is the button
+Seat 1: el cadejo89 ($87.97 in chips) 
+Seat 2: N`ice$kiv ($156.28 in chips) 
+Seat 3: kolyan292 ($30.13 in chips) 
+Seat 4: max70310 ($53.28 in chips) 
+Seat 5: [BO$$]BUDDAH ($74.50 in chips) 
+Seat 6: gaiggibeliin ($74 in chips) 
+el cadejo89: posts the ante $0.50
+N`ice$kiv: posts the ante $0.50
+kolyan292: posts the ante $0.50
+max70310: posts the ante $0.50
+[BO$$]BUDDAH: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+kolyan292: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8s Qd]
+max70310: calls $0.50
+[BO$$]BUDDAH: raises $5 to $5.50
+gaiggibeliin: folds 
+el cadejo89: folds 
+N`ice$kiv: raises $15 to $20.50
+kolyan292: folds 
+max70310: folds 
+[BO$$]BUDDAH: calls $15
+*** FLOP *** [7c 8c 6s]
+kolyan292 leaves the table
+[BO$$]BUDDAH: checks 
+N`ice$kiv: bets $135.28 and is all-in
+[BO$$]BUDDAH: folds 
+Uncalled bet ($135.28) returned to N`ice$kiv
+N`ice$kiv collected $42.75 from pot
+N`ice$kiv: doesn't show hand 
+*** SUMMARY ***
+Total pot $45 | Rake $2.25 
+Board [7c 8c 6s]
+Seat 1: el cadejo89 folded before Flop (didn't bet)
+Seat 2: N`ice$kiv collected ($42.75)
+Seat 3: kolyan292 (button blind) folded before Flop
+Seat 4: max70310 folded before Flop
+Seat 5: [BO$$]BUDDAH folded on the Flop
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196118295040:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/23 17:30:29 EET [2019/01/23 10:30:29 ET]
+Table 'Montague' 6-max Seat #4 is the button
+Seat 1: el cadejo89 ($87.47 in chips) 
+Seat 2: N`ice$kiv ($178.03 in chips) 
+Seat 4: max70310 ($52.28 in chips) 
+Seat 5: [BO$$]BUDDAH ($53.50 in chips) 
+Seat 6: gaiggibeliin ($73.50 in chips) 
+el cadejo89: posts the ante $0.50
+N`ice$kiv: posts the ante $0.50
+max70310: posts the ante $0.50
+[BO$$]BUDDAH: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+max70310: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [As Js]
+[BO$$]BUDDAH: folds 
+vlrma_ joins the table at seat #3 
+gaiggibeliin: raises $3.50 to $4
+vlrma_ leaves the table
+el cadejo89: calls $4
+N`ice$kiv: raises $15 to $19
+max70310: raises $32.78 to $51.78 and is all-in
+gaiggibeliin: folds 
+el cadejo89: folds 
+N`ice$kiv: calls $32.78
+*** FIRST FLOP *** [Ks Qh 7s]
+*** FIRST TURN *** [Ks Qh 7s] [Jd]
+*** FIRST RIVER *** [Ks Qh 7s Jd] [9h]
+*** SECOND FLOP *** [Kh 7h 8s]
+*** SECOND TURN *** [Kh 7h 8s] [Jc]
+*** SECOND RIVER *** [Kh 7h 8s Jc] [6h]
+*** FIRST SHOW DOWN ***
+N`ice$kiv: shows [Ac Kd] (a pair of Kings)
+max70310: shows [Ah Qs] (a pair of Queens)
+N`ice$kiv collected $55.78 from pot
+*** SECOND SHOW DOWN ***
+N`ice$kiv: shows [Ac Kd] (a pair of Kings)
+max70310: shows [Ah Qs] (high card Ace)
+N`ice$kiv collected $55.78 from pot
+*** SUMMARY ***
+Total pot $114.06 | Rake $2.50 
+Hand was run twice
+FIRST Board [Ks Qh 7s Jd 9h]
+SECOND Board [Kh 7h 8s Jc 6h]
+Seat 1: el cadejo89 folded before Flop
+Seat 2: N`ice$kiv showed [Ac Kd] and won ($55.78) with a pair of Kings, and won ($55.78) with a pair of Kings
+Seat 4: max70310 (button blind) showed [Ah Qs] and lost with a pair of Queens, and lost with high card Ace
+Seat 5: [BO$$]BUDDAH folded before Flop (didn't bet)
+Seat 6: gaiggibeliin folded before Flop
+
+
+
+PokerStars Hand #196118321393:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/23 17:31:12 EET [2019/01/23 10:31:12 ET]
+Table 'Montague' 6-max Seat #5 is the button
+Seat 1: el cadejo89 ($82.97 in chips) 
+Seat 2: N`ice$kiv ($237.31 in chips) 
+Seat 5: [BO$$]BUDDAH ($53 in chips) 
+Seat 6: gaiggibeliin ($69 in chips) 
+el cadejo89: posts the ante $0.50
+N`ice$kiv: posts the ante $0.50
+[BO$$]BUDDAH: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+[BO$$]BUDDAH: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qs 7c]
+gaiggibeliin: folds 
+el cadejo89: folds 
+N`ice$kiv: folds 
+Uncalled bet ($0.50) returned to [BO$$]BUDDAH
+[BO$$]BUDDAH collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: el cadejo89 folded before Flop (didn't bet)
+Seat 2: N`ice$kiv folded before Flop (didn't bet)
+Seat 5: [BO$$]BUDDAH (button blind) collected ($2)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196118327384:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/23 17:31:22 EET [2019/01/23 10:31:22 ET]
+Table 'Montague' 6-max Seat #6 is the button
+Seat 1: el cadejo89 ($82.47 in chips) 
+Seat 2: N`ice$kiv ($236.81 in chips) 
+Seat 4: max70310 ($68.40 in chips) 
+Seat 5: [BO$$]BUDDAH ($54.50 in chips) 
+Seat 6: gaiggibeliin ($68.50 in chips) 
+el cadejo89: posts the ante $0.50
+N`ice$kiv: posts the ante $0.50
+max70310: posts the ante $0.50
+[BO$$]BUDDAH: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+gaiggibeliin: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jc As]
+el cadejo89: folds 
+N`ice$kiv: folds 
+max70310: raises $1 to $1.50
+[BO$$]BUDDAH: raises $52.50 to $54 and is all-in
+gaiggibeliin: folds 
+max70310: calls $52.50
+*** FIRST FLOP *** [Jd Qs Kd]
+*** FIRST TURN *** [Jd Qs Kd] [Kc]
+*** FIRST RIVER *** [Jd Qs Kd Kc] [9d]
+*** SECOND FLOP *** [Qc Ks 7c]
+*** SECOND TURN *** [Qc Ks 7c] [Kh]
+*** SECOND RIVER *** [Qc Ks 7c Kh] [7h]
+*** FIRST SHOW DOWN ***
+max70310: shows [8d 8h] (two pair, Kings and Eights)
+[BO$$]BUDDAH: shows [Ah Ad] (two pair, Aces and Kings)
+[BO$$]BUDDAH collected $54.25 from pot
+*** SECOND SHOW DOWN ***
+max70310: shows [8d 8h] (two pair, Kings and Eights)
+[BO$$]BUDDAH: shows [Ah Ad] (two pair, Aces and Kings)
+[BO$$]BUDDAH collected $54.25 from pot
+*** SUMMARY ***
+Total pot $111 | Rake $2.50 
+Hand was run twice
+FIRST Board [Jd Qs Kd Kc 9d]
+SECOND Board [Qc Ks 7c Kh 7h]
+Seat 1: el cadejo89 folded before Flop (didn't bet)
+Seat 2: N`ice$kiv folded before Flop (didn't bet)
+Seat 4: max70310 showed [8d 8h] and lost with two pair, Kings and Eights, and lost with two pair, Kings and Eights
+Seat 5: [BO$$]BUDDAH showed [Ah Ad] and won ($54.25) with two pair, Aces and Kings, and won ($54.25) with two pair, Aces and Kings
+Seat 6: gaiggibeliin (button blind) folded before Flop
+
+
+
+PokerStars Hand #196118354050:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/23 17:32:05 EET [2019/01/23 10:32:05 ET]
+Table 'Montague' 6-max Seat #1 is the button
+Seat 1: el cadejo89 ($81.97 in chips) 
+Seat 2: N`ice$kiv ($236.31 in chips) 
+Seat 4: max70310 ($13.90 in chips) 
+Seat 5: [BO$$]BUDDAH ($108.50 in chips) 
+Seat 6: gaiggibeliin ($67.50 in chips) 
+el cadejo89: posts the ante $0.50
+N`ice$kiv: posts the ante $0.50
+max70310: posts the ante $0.50
+[BO$$]BUDDAH: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+el cadejo89: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Th 7d]
+N`ice$kiv: folds 
+max70310: raises $12.90 to $13.40 and is all-in
+[BO$$]BUDDAH: calls $13.40
+gaiggibeliin: folds 
+el cadejo89: folds 
+*** FIRST FLOP *** [Js Td 9h]
+*** FIRST TURN *** [Js Td 9h] [Ts]
+*** FIRST RIVER *** [Js Td 9h Ts] [7c]
+*** SECOND FLOP *** [7h 9c Kc]
+*** SECOND TURN *** [7h 9c Kc] [Ah]
+*** SECOND RIVER *** [7h 9c Kc Ah] [Jh]
+*** FIRST SHOW DOWN ***
+max70310: shows [Tc Qh] (three of a kind, Tens)
+[BO$$]BUDDAH: shows [Ad Jc] (two pair, Jacks and Tens)
+max70310 collected $14.16 from pot
+*** SECOND SHOW DOWN ***
+max70310: shows [Tc Qh] (a straight, Ten to Ace)
+[BO$$]BUDDAH: shows [Ad Jc] (two pair, Aces and Jacks)
+max70310 collected $14.15 from pot
+*** SUMMARY ***
+Total pot $29.80 | Rake $1.49 
+Hand was run twice
+FIRST Board [Js Td 9h Ts 7c]
+SECOND Board [7h 9c Kc Ah Jh]
+Seat 1: el cadejo89 (button blind) folded before Flop
+Seat 2: N`ice$kiv folded before Flop (didn't bet)
+Seat 4: max70310 showed [Tc Qh] and won ($14.16) with three of a kind, Tens, and won ($14.15) with a straight, Ten to Ace
+Seat 5: [BO$$]BUDDAH showed [Ad Jc] and lost with two pair, Jacks and Tens, and lost with two pair, Aces and Jacks
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196118370035:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/23 17:32:31 EET [2019/01/23 10:32:31 ET]
+Table 'Montague' 6-max Seat #2 is the button
+Seat 1: el cadejo89 ($80.97 in chips) 
+Seat 2: N`ice$kiv ($235.81 in chips) 
+Seat 4: max70310 ($28.31 in chips) 
+Seat 5: [BO$$]BUDDAH ($94.60 in chips) 
+Seat 6: gaiggibeliin ($67 in chips) 
+el cadejo89: posts the ante $0.50
+N`ice$kiv: posts the ante $0.50
+max70310: posts the ante $0.50
+[BO$$]BUDDAH: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+N`ice$kiv: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ts Ks]
+henrisince1974 joins the table at seat #3 
+max70310: folds 
+[BO$$]BUDDAH: calls $0.50
+gaiggibeliin: folds 
+el cadejo89: raises $2.50 to $3
+N`ice$kiv: raises $9 to $12
+[BO$$]BUDDAH: folds 
+el cadejo89: folds 
+Uncalled bet ($9) returned to N`ice$kiv
+N`ice$kiv collected $9 from pot
+N`ice$kiv: doesn't show hand 
+*** SUMMARY ***
+Total pot $9 | Rake $0 
+Seat 1: el cadejo89 folded before Flop
+Seat 2: N`ice$kiv (button blind) collected ($9)
+Seat 4: max70310 folded before Flop (didn't bet)
+Seat 5: [BO$$]BUDDAH folded before Flop
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196118403051:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/23 17:33:26 EET [2019/01/23 10:33:26 ET]
+Table 'Montague' 6-max Seat #4 is the button
+Seat 1: el cadejo89 ($77.47 in chips) 
+Seat 2: N`ice$kiv ($241.31 in chips) 
+Seat 3: henrisince1974 ($75 in chips) 
+Seat 4: max70310 ($27.81 in chips) 
+Seat 5: [BO$$]BUDDAH ($93.60 in chips) 
+Seat 6: gaiggibeliin ($66.50 in chips) 
+el cadejo89: posts the ante $0.50
+N`ice$kiv: posts the ante $0.50
+henrisince1974: posts the ante $0.50
+max70310: posts the ante $0.50
+[BO$$]BUDDAH: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+max70310: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8d Tc]
+[BO$$]BUDDAH: folds 
+gaiggibeliin: folds 
+el cadejo89: folds 
+N`ice$kiv: raises $4 to $4.50
+henrisince1974: folds 
+max70310: raises $12 to $16.50
+N`ice$kiv: raises $36 to $52.50
+max70310: calls $10.81 and is all-in
+Uncalled bet ($25.19) returned to N`ice$kiv
+*** FLOP *** [Jh 7h 9s]
+*** TURN *** [Jh 7h 9s] [Qs]
+*** RIVER *** [Jh 7h 9s Qs] [9c]
+*** SHOW DOWN ***
+N`ice$kiv: shows [As Qd] (two pair, Queens and Nines)
+max70310: shows [Ac Kc] (a pair of Nines)
+N`ice$kiv collected $55.12 from pot
+*** SUMMARY ***
+Total pot $57.62 | Rake $2.50 
+Board [Jh 7h 9s Qs 9c]
+Seat 1: el cadejo89 folded before Flop (didn't bet)
+Seat 2: N`ice$kiv showed [As Qd] and won ($55.12) with two pair, Queens and Nines
+Seat 3: henrisince1974 folded before Flop (didn't bet)
+Seat 4: max70310 (button blind) showed [Ac Kc] and lost with a pair of Nines
+Seat 5: [BO$$]BUDDAH folded before Flop (didn't bet)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196118418430:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/23 17:33:51 EET [2019/01/23 10:33:51 ET]
+Table 'Montague' 6-max Seat #5 is the button
+Seat 1: el cadejo89 ($76.97 in chips) 
+Seat 2: N`ice$kiv ($268.62 in chips) 
+Seat 3: henrisince1974 ($74.50 in chips) 
+Seat 5: [BO$$]BUDDAH ($93.10 in chips) 
+Seat 6: gaiggibeliin ($75 in chips) 
+el cadejo89: posts the ante $0.50
+N`ice$kiv: posts the ante $0.50
+henrisince1974: posts the ante $0.50
+[BO$$]BUDDAH: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+[BO$$]BUDDAH: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kd 7c]
+gaiggibeliin: folds 
+el cadejo89: folds 
+N`ice$kiv: raises $3.50 to $4
+max70310 leaves the table
+henrisince1974: folds 
+[BO$$]BUDDAH: calls $3.50
+*** FLOP *** [6c Js Ts]
+N`ice$kiv: bets $7.68
+[BO$$]BUDDAH: calls $7.68
+*** TURN *** [6c Js Ts] [Ah]
+N`ice$kiv: checks 
+[BO$$]BUDDAH: bets $17.50
+N`ice$kiv: folds 
+Uncalled bet ($17.50) returned to [BO$$]BUDDAH
+[BO$$]BUDDAH collected $24.57 from pot
+*** SUMMARY ***
+Total pot $25.86 | Rake $1.29 
+Board [6c Js Ts Ah]
+Seat 1: el cadejo89 folded before Flop (didn't bet)
+Seat 2: N`ice$kiv folded on the Turn
+Seat 3: henrisince1974 folded before Flop (didn't bet)
+Seat 5: [BO$$]BUDDAH (button blind) collected ($24.57)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196118469850:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/23 17:35:16 EET [2019/01/23 10:35:16 ET]
+Table 'Montague' 6-max Seat #6 is the button
+Seat 1: el cadejo89 ($76.47 in chips) 
+Seat 2: N`ice$kiv ($256.44 in chips) 
+Seat 3: henrisince1974 ($74 in chips) 
+Seat 5: [BO$$]BUDDAH ($105.49 in chips) 
+Seat 6: gaiggibeliin ($74.50 in chips) 
+el cadejo89: posts the ante $0.50
+N`ice$kiv: posts the ante $0.50
+henrisince1974: posts the ante $0.50
+[BO$$]BUDDAH: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+gaiggibeliin: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7h 6s]
+el cadejo89: raises $1.50 to $2
+N`ice$kiv: folds 
+henrisince1974: folds 
+[BO$$]BUDDAH: folds 
+gaiggibeliin: calls $1.50
+*** FLOP *** [Kh Kc Qs]
+1975994 joins the table at seat #4 
+el cadejo89: bets $1.92
+gaiggibeliin: folds 
+Uncalled bet ($1.92) returned to el cadejo89
+el cadejo89 collected $6.18 from pot
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [Kh Kc Qs]
+Seat 1: el cadejo89 collected ($6.18)
+Seat 2: N`ice$kiv folded before Flop (didn't bet)
+Seat 3: henrisince1974 folded before Flop (didn't bet)
+Seat 5: [BO$$]BUDDAH folded before Flop (didn't bet)
+Seat 6: gaiggibeliin (button blind) folded on the Flop
+
+
+
+PokerStars Hand #196118482399:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/23 17:35:37 EET [2019/01/23 10:35:37 ET]
+Table 'Montague' 6-max Seat #1 is the button
+Seat 1: el cadejo89 ($80.15 in chips) 
+Seat 2: N`ice$kiv ($255.94 in chips) 
+Seat 3: henrisince1974 ($73.50 in chips) 
+Seat 4: 1975994 ($75 in chips) 
+Seat 5: [BO$$]BUDDAH ($104.99 in chips) 
+Seat 6: gaiggibeliin ($72 in chips) 
+el cadejo89: posts the ante $0.50
+N`ice$kiv: posts the ante $0.50
+henrisince1974: posts the ante $0.50
+1975994: posts the ante $0.50
+[BO$$]BUDDAH: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+el cadejo89: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9d 7c]
+N`ice$kiv: raises $4 to $4.50
+henrisince1974: folds 
+1975994: folds 
+[BO$$]BUDDAH: calls $4.50
+gaiggibeliin: folds 
+el cadejo89: folds 
+*** FLOP *** [Qs Jc Js]
+N`ice$kiv: checks 
+[BO$$]BUDDAH: bets $5.94
+N`ice$kiv: calls $5.94
+*** TURN *** [Qs Jc Js] [Kd]
+N`ice$kiv: checks 
+[BO$$]BUDDAH: checks 
+*** RIVER *** [Qs Jc Js Kd] [7d]
+N`ice$kiv: checks 
+[BO$$]BUDDAH: bets $14
+N`ice$kiv: folds 
+Uncalled bet ($14) returned to [BO$$]BUDDAH
+[BO$$]BUDDAH collected $23.16 from pot
+*** SUMMARY ***
+Total pot $24.38 | Rake $1.22 
+Board [Qs Jc Js Kd 7d]
+Seat 1: el cadejo89 (button blind) folded before Flop
+Seat 2: N`ice$kiv folded on the River
+Seat 3: henrisince1974 folded before Flop (didn't bet)
+Seat 4: 1975994 folded before Flop (didn't bet)
+Seat 5: [BO$$]BUDDAH collected ($23.16)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196118521642:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/23 17:36:42 EET [2019/01/23 10:36:42 ET]
+Table 'Montague' 6-max Seat #2 is the button
+Seat 1: el cadejo89 ($79.15 in chips) 
+Seat 2: N`ice$kiv ($245 in chips) 
+Seat 3: henrisince1974 ($73 in chips) 
+Seat 4: 1975994 ($74.50 in chips) 
+Seat 5: [BO$$]BUDDAH ($117.21 in chips) 
+Seat 6: gaiggibeliin ($71.50 in chips) 
+el cadejo89: posts the ante $0.50
+N`ice$kiv: posts the ante $0.50
+henrisince1974: posts the ante $0.50
+1975994: posts the ante $0.50
+[BO$$]BUDDAH: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+N`ice$kiv: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kh 6h]
+henrisince1974: folds 
+1975994: calls $0.50
+[BO$$]BUDDAH: calls $0.50
+gaiggibeliin: folds 
+el cadejo89: calls $0.50
+N`ice$kiv: checks 
+*** FLOP *** [Ks Ac Ad]
+1975994: checks 
+[BO$$]BUDDAH: checks 
+el cadejo89: checks 
+N`ice$kiv: bets $3.66
+1975994: calls $3.66
+[BO$$]BUDDAH: folds 
+el cadejo89: folds 
+*** TURN *** [Ks Ac Ad] [As]
+1975994: checks 
+N`ice$kiv: checks 
+*** RIVER *** [Ks Ac Ad As] [Qs]
+1975994: bets $5.85
+N`ice$kiv: raises $11.70 to $17.55
+1975994: calls $11.70
+*** SHOW DOWN ***
+N`ice$kiv: shows [8d Ah] (four of a kind, Aces)
+1975994: mucks hand 
+N`ice$kiv collected $45.05 from pot
+*** SUMMARY ***
+Total pot $47.42 | Rake $2.37 
+Board [Ks Ac Ad As Qs]
+Seat 1: el cadejo89 folded on the Flop
+Seat 2: N`ice$kiv (button blind) showed [8d Ah] and won ($45.05) with four of a kind, Aces
+Seat 3: henrisince1974 folded before Flop (didn't bet)
+Seat 4: 1975994 mucked [Qd Js]
+Seat 5: [BO$$]BUDDAH folded on the Flop
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196118581458:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/23 17:38:20 EET [2019/01/23 10:38:20 ET]
+Table 'Montague' 6-max Seat #3 is the button
+Seat 1: el cadejo89 ($78.15 in chips) 
+Seat 2: N`ice$kiv ($267.84 in chips) 
+Seat 3: henrisince1974 ($72.50 in chips) 
+Seat 4: 1975994 ($52.29 in chips) 
+Seat 5: [BO$$]BUDDAH ($116.21 in chips) 
+Seat 6: gaiggibeliin ($71 in chips) 
+el cadejo89: posts the ante $0.50
+N`ice$kiv: posts the ante $0.50
+henrisince1974: posts the ante $0.50
+1975994: posts the ante $0.50
+[BO$$]BUDDAH: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+henrisince1974: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jh 9d]
+1975994: calls $0.50
+[BO$$]BUDDAH: calls $0.50
+gaiggibeliin: folds 
+el cadejo89: folds 
+1975994 said, "nh"
+N`ice$kiv: raises $5 to $5.50
+henrisince1974: folds 
+1975994: raises $46.29 to $51.79 and is all-in
+N`ice$kiv said, "ty sir"
+[BO$$]BUDDAH: calls $51.29
+N`ice$kiv: folds 
+*** FLOP *** [9h 7d 8s]
+*** TURN *** [9h 7d 8s] [Tc]
+*** RIVER *** [9h 7d 8s Tc] [7c]
+*** SHOW DOWN ***
+1975994: shows [As Kc] (a pair of Sevens)
+[BO$$]BUDDAH: shows [Ah Ks] (a pair of Sevens)
+1975994 collected $55.04 from pot
+[BO$$]BUDDAH collected $55.04 from pot
+*** SUMMARY ***
+Total pot $112.58 | Rake $2.50 
+Board [9h 7d 8s Tc 7c]
+Seat 1: el cadejo89 folded before Flop (didn't bet)
+Seat 2: N`ice$kiv folded before Flop
+Seat 3: henrisince1974 (button blind) folded before Flop
+Seat 4: 1975994 showed [As Kc] and won ($55.04) with a pair of Sevens
+Seat 5: [BO$$]BUDDAH showed [Ah Ks] and won ($55.04) with a pair of Sevens
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196118608046:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/23 17:39:03 EET [2019/01/23 10:39:03 ET]
+Table 'Montague' 6-max Seat #4 is the button
+Seat 1: el cadejo89 ($77.65 in chips) 
+Seat 2: N`ice$kiv ($261.84 in chips) 
+Seat 3: henrisince1974 ($71.50 in chips) 
+Seat 4: 1975994 ($55.04 in chips) 
+Seat 5: [BO$$]BUDDAH ($118.96 in chips) 
+Seat 6: gaiggibeliin ($70.50 in chips) 
+el cadejo89: posts the ante $0.50
+N`ice$kiv: posts the ante $0.50
+henrisince1974: posts the ante $0.50
+1975994: posts the ante $0.50
+[BO$$]BUDDAH: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+1975994: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qc 9c]
+[BO$$]BUDDAH: raises $4 to $4.50
+gaiggibeliin: folds 
+el cadejo89: folds 
+N`ice$kiv: calls $4.50
+henrisince1974: folds 
+1975994: calls $4
+*** FLOP *** [6h Td Jd]
+[BO$$]BUDDAH: bets $13.50
+N`ice$kiv: folds 
+1975994: folds 
+Uncalled bet ($13.50) returned to [BO$$]BUDDAH
+[BO$$]BUDDAH collected $15.68 from pot
+*** SUMMARY ***
+Total pot $16.50 | Rake $0.82 
+Board [6h Td Jd]
+Seat 1: el cadejo89 folded before Flop (didn't bet)
+Seat 2: N`ice$kiv folded on the Flop
+Seat 3: henrisince1974 folded before Flop (didn't bet)
+Seat 4: 1975994 (button blind) folded on the Flop
+Seat 5: [BO$$]BUDDAH collected ($15.68)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196118639120:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/23 17:39:54 EET [2019/01/23 10:39:54 ET]
+Table 'Montague' 6-max Seat #5 is the button
+Seat 1: el cadejo89 ($77.15 in chips) 
+Seat 2: N`ice$kiv ($256.84 in chips) 
+Seat 3: henrisince1974 ($71 in chips) 
+Seat 4: 1975994 ($50.04 in chips) 
+Seat 5: [BO$$]BUDDAH ($129.64 in chips) 
+Seat 6: gaiggibeliin ($70 in chips) 
+el cadejo89: posts the ante $0.50
+N`ice$kiv: posts the ante $0.50
+henrisince1974: posts the ante $0.50
+1975994: posts the ante $0.50
+[BO$$]BUDDAH: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+[BO$$]BUDDAH: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kc Ad]
+gaiggibeliin: calls $0.50
+el cadejo89: calls $0.50
+N`ice$kiv: folds 
+henrisince1974: raises $5 to $5.50
+1975994: folds 
+[BO$$]BUDDAH: folds 
+gaiggibeliin: raises $15 to $20.50
+el cadejo89: folds 
+henrisince1974: raises $50 to $70.50 and is all-in
+gaiggibeliin: calls $49 and is all-in
+Uncalled bet ($1) returned to henrisince1974
+*** FIRST FLOP *** [7c 6d 9d]
+*** FIRST TURN *** [7c 6d 9d] [Tc]
+*** FIRST RIVER *** [7c 6d 9d Tc] [Th]
+*** SECOND FLOP *** [Kd Jd 7h]
+*** SECOND TURN *** [Kd Jd 7h] [6h]
+*** SECOND RIVER *** [Kd Jd 7h 6h] [6s]
+*** FIRST SHOW DOWN ***
+gaiggibeliin: shows [Kc Ad] (a pair of Tens)
+henrisince1974: shows [Ah Kh] (a pair of Tens)
+gaiggibeliin collected $35.13 from pot
+henrisince1974 collected $35.12 from pot
+*** SECOND SHOW DOWN ***
+gaiggibeliin: shows [Kc Ad] (two pair, Kings and Sixes)
+henrisince1974: shows [Ah Kh] (two pair, Kings and Sixes)
+gaiggibeliin collected $35.13 from pot
+henrisince1974 collected $35.12 from pot
+*** SUMMARY ***
+Total pot $143 | Rake $2.50 
+Hand was run twice
+FIRST Board [7c 6d 9d Tc Th]
+SECOND Board [Kd Jd 7h 6h 6s]
+Seat 1: el cadejo89 folded before Flop
+Seat 2: N`ice$kiv folded before Flop (didn't bet)
+Seat 3: henrisince1974 showed [Ah Kh] and won ($35.12) with a pair of Tens, and won ($35.12) with two pair, Kings and Sixes
+Seat 4: 1975994 folded before Flop (didn't bet)
+Seat 5: [BO$$]BUDDAH (button blind) folded before Flop
+Seat 6: gaiggibeliin showed [Kc Ad] and won ($35.13) with a pair of Tens, and won ($35.13) with two pair, Kings and Sixes
+
+
+
+PokerStars Hand #196118682892:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/23 17:41:06 EET [2019/01/23 10:41:06 ET]
+Table 'Montague' 6-max Seat #6 is the button
+Seat 1: el cadejo89 ($76.15 in chips) 
+Seat 2: N`ice$kiv ($256.34 in chips) 
+Seat 3: henrisince1974 ($71.24 in chips) 
+Seat 4: 1975994 ($49.54 in chips) 
+Seat 5: [BO$$]BUDDAH ($128.64 in chips) 
+Seat 6: gaiggibeliin ($70.26 in chips) 
+el cadejo89: posts the ante $0.50
+N`ice$kiv: posts the ante $0.50
+henrisince1974: posts the ante $0.50
+1975994: posts the ante $0.50
+[BO$$]BUDDAH: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+gaiggibeliin: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jh Kc]
+el cadejo89: folds 
+N`ice$kiv: folds 
+el cadejo89 leaves the table
+henrisince1974: raises $1.50 to $2
+1975994: calls $2
+[BO$$]BUDDAH: folds 
+gaiggibeliin: folds 
+*** FLOP *** [6h Qd 6s]
+henrisince1974: checks 
+1975994: bets $0.50
+henrisince1974: raises $4.87 to $5.37
+1975994: folds 
+Uncalled bet ($4.87) returned to henrisince1974
+henrisince1974 collected $8.08 from pot
+henrisince1974: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.50 | Rake $0.42 
+Board [6h Qd 6s]
+Seat 1: el cadejo89 folded before Flop (didn't bet)
+Seat 2: N`ice$kiv folded before Flop (didn't bet)
+Seat 3: henrisince1974 collected ($8.08)
+Seat 4: 1975994 folded on the Flop
+Seat 5: [BO$$]BUDDAH folded before Flop (didn't bet)
+Seat 6: gaiggibeliin (button blind) folded before Flop
+
+
+
+PokerStars Hand #196118702996:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/23 17:41:38 EET [2019/01/23 10:41:38 ET]
+Table 'Montague' 6-max Seat #2 is the button
+Seat 2: N`ice$kiv ($255.84 in chips) 
+Seat 3: henrisince1974 ($76.32 in chips) 
+Seat 4: 1975994 ($46.54 in chips) 
+Seat 5: [BO$$]BUDDAH ($128.14 in chips) 
+Seat 6: gaiggibeliin ($69.26 in chips) 
+N`ice$kiv: posts the ante $0.50
+henrisince1974: posts the ante $0.50
+1975994: posts the ante $0.50
+[BO$$]BUDDAH: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+N`ice$kiv: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kd 9d]
+henrisince1974: folds 
+1975994: folds 
+[BO$$]BUDDAH: calls $0.50
+gaiggibeliin: raises $4 to $4.50
+Saha Nik joins the table at seat #1 
+N`ice$kiv: folds 
+[BO$$]BUDDAH: calls $4
+*** FLOP *** [Ah 9s Jd]
+[BO$$]BUDDAH: checks 
+Saha Nik leaves the table
+gaiggibeliin: checks 
+*** TURN *** [Ah 9s Jd] [Ks]
+[BO$$]BUDDAH: checks 
+gaiggibeliin: bets $7.64
+[BO$$]BUDDAH: folds 
+Uncalled bet ($7.64) returned to gaiggibeliin
+gaiggibeliin collected $11.40 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.60 
+Board [Ah 9s Jd Ks]
+Seat 2: N`ice$kiv (button blind) folded before Flop
+Seat 3: henrisince1974 folded before Flop (didn't bet)
+Seat 4: 1975994 folded before Flop (didn't bet)
+Seat 5: [BO$$]BUDDAH folded on the Turn
+Seat 6: gaiggibeliin collected ($11.40)
+
+
+
+PokerStars Hand #196118736734:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/23 17:42:33 EET [2019/01/23 10:42:33 ET]
+Table 'Montague' 6-max Seat #3 is the button
+Seat 2: N`ice$kiv ($254.84 in chips) 
+Seat 3: henrisince1974 ($75.82 in chips) 
+Seat 4: 1975994 ($46.04 in chips) 
+Seat 5: [BO$$]BUDDAH ($123.14 in chips) 
+Seat 6: gaiggibeliin ($75.66 in chips) 
+N`ice$kiv: posts the ante $0.50
+henrisince1974: posts the ante $0.50
+1975994: posts the ante $0.50
+[BO$$]BUDDAH: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+henrisince1974: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ks Ad]
+1975994: folds 
+[BO$$]BUDDAH: folds 
+gaiggibeliin: raises $3.50 to $4
+N`ice$kiv: folds 
+henrisince1974: folds 
+Uncalled bet ($3.50) returned to gaiggibeliin
+gaiggibeliin collected $3.50 from pot
+*** SUMMARY ***
+Total pot $3.50 | Rake $0 
+Seat 2: N`ice$kiv folded before Flop (didn't bet)
+Seat 3: henrisince1974 (button blind) folded before Flop
+Seat 4: 1975994 folded before Flop (didn't bet)
+Seat 5: [BO$$]BUDDAH folded before Flop (didn't bet)
+Seat 6: gaiggibeliin collected ($3.50)
+
+
+
+PokerStars Hand #196118745862:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/23 17:42:49 EET [2019/01/23 10:42:49 ET]
+Table 'Montague' 6-max Seat #4 is the button
+Seat 2: N`ice$kiv ($254.34 in chips) 
+Seat 3: henrisince1974 ($74.82 in chips) 
+Seat 4: 1975994 ($45.54 in chips) 
+Seat 5: [BO$$]BUDDAH ($122.64 in chips) 
+Seat 6: gaiggibeliin ($78.16 in chips) 
+N`ice$kiv: posts the ante $0.50
+henrisince1974: posts the ante $0.50
+1975994: posts the ante $0.50
+[BO$$]BUDDAH: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+1975994: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7s 8d]
+[BO$$]BUDDAH: calls $0.50
+gaiggibeliin: folds 
+N`ice$kiv: folds 
+henrisince1974: folds 
+1975994: checks 
+*** FLOP *** [6d Jc 6h]
+[BO$$]BUDDAH: bets $1.66
+1975994: calls $1.66
+*** TURN *** [6d Jc 6h] [Ac]
+[BO$$]BUDDAH: checks 
+1975994: checks 
+*** RIVER *** [6d Jc 6h Ac] [Ks]
+[BO$$]BUDDAH: checks 
+1975994: checks 
+*** SHOW DOWN ***
+[BO$$]BUDDAH: shows [9s 9h] (two pair, Nines and Sixes)
+1975994: shows [Qc Jd] (two pair, Jacks and Sixes)
+1975994 collected $6.48 from pot
+*** SUMMARY ***
+Total pot $6.82 | Rake $0.34 
+Board [6d Jc 6h Ac Ks]
+Seat 2: N`ice$kiv folded before Flop (didn't bet)
+Seat 3: henrisince1974 folded before Flop (didn't bet)
+Seat 4: 1975994 (button blind) showed [Qc Jd] and won ($6.48) with two pair, Jacks and Sixes
+Seat 5: [BO$$]BUDDAH showed [9s 9h] and lost with two pair, Nines and Sixes
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196118771390:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/23 17:43:30 EET [2019/01/23 10:43:30 ET]
+Table 'Montague' 6-max Seat #5 is the button
+Seat 2: N`ice$kiv ($253.84 in chips) 
+Seat 3: henrisince1974 ($74.32 in chips) 
+Seat 4: 1975994 ($49.36 in chips) 
+Seat 5: [BO$$]BUDDAH ($119.98 in chips) 
+Seat 6: gaiggibeliin ($77.66 in chips) 
+N`ice$kiv: posts the ante $0.50
+henrisince1974: posts the ante $0.50
+1975994: posts the ante $0.50
+[BO$$]BUDDAH: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+[BO$$]BUDDAH: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6d 6h]
+gaiggibeliin: calls $0.50
+N`ice$kiv: folds 
+henrisince1974: folds 
+1975994: calls $0.50
+[BO$$]BUDDAH: raises $4 to $4.50
+gaiggibeliin: calls $4
+1975994: raises $44.36 to $48.86 and is all-in
+forsmajor joins the table at seat #1 
+[BO$$]BUDDAH: folds 
+gaiggibeliin: folds 
+Uncalled bet ($44.36) returned to 1975994
+1975994 collected $16 from pot
+1975994: doesn't show hand 
+*** SUMMARY ***
+Total pot $16 | Rake $0 
+Seat 2: N`ice$kiv folded before Flop (didn't bet)
+Seat 3: henrisince1974 folded before Flop (didn't bet)
+Seat 4: 1975994 collected ($16)
+Seat 5: [BO$$]BUDDAH (button blind) folded before Flop
+Seat 6: gaiggibeliin folded before Flop
+
+
+
+PokerStars Hand #196118788075:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/23 17:43:58 EET [2019/01/23 10:43:58 ET]
+Table 'Montague' 6-max Seat #6 is the button
+Seat 1: forsmajor ($75 in chips) 
+Seat 2: N`ice$kiv ($253.34 in chips) 
+Seat 3: henrisince1974 ($73.82 in chips) 
+Seat 4: 1975994 ($60.36 in chips) 
+Seat 5: [BO$$]BUDDAH ($114.98 in chips) 
+Seat 6: gaiggibeliin ($72.66 in chips) 
+forsmajor: posts the ante $0.50
+N`ice$kiv: posts the ante $0.50
+henrisince1974: posts the ante $0.50
+1975994: posts the ante $0.50
+[BO$$]BUDDAH: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+gaiggibeliin: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kh 6s]
+forsmajor: folds 
+N`ice$kiv: raises $4 to $4.50
+henrisince1974: folds 
+1975994: calls $4.50
+[BO$$]BUDDAH: calls $4.50
+gaiggibeliin: folds 
+*** FLOP *** [Qd Ah 7s]
+N`ice$kiv: checks 
+1975994: checks 
+[BO$$]BUDDAH: bets $12.50
+N`ice$kiv: folds 
+1975994: raises $42.86 to $55.36 and is all-in
+[BO$$]BUDDAH: calls $42.86
+*** TURN *** [Qd Ah 7s] [Js]
+*** RIVER *** [Qd Ah 7s Js] [Qc]
+*** SHOW DOWN ***
+1975994: shows [7c 7d] (a full house, Sevens full of Queens)
+[BO$$]BUDDAH: shows [Jh Ad] (two pair, Aces and Queens)
+1975994 collected $125.22 from pot
+*** SUMMARY ***
+Total pot $127.72 | Rake $2.50 
+Board [Qd Ah 7s Js Qc]
+Seat 1: forsmajor folded before Flop (didn't bet)
+Seat 2: N`ice$kiv folded on the Flop
+Seat 3: henrisince1974 folded before Flop (didn't bet)
+Seat 4: 1975994 showed [7c 7d] and won ($125.22) with a full house, Sevens full of Queens
+Seat 5: [BO$$]BUDDAH showed [Jh Ad] and lost with two pair, Aces and Queens
+Seat 6: gaiggibeliin (button blind) folded before Flop
+
+
+
+PokerStars Hand #196118816788:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/23 17:44:44 EET [2019/01/23 10:44:44 ET]
+Table 'Montague' 6-max Seat #1 is the button
+Seat 1: forsmajor ($74.50 in chips) 
+Seat 2: N`ice$kiv ($248.34 in chips) 
+Seat 3: henrisince1974 ($73.32 in chips) 
+Seat 4: 1975994 ($125.22 in chips) 
+Seat 5: [BO$$]BUDDAH ($54.62 in chips) 
+Seat 6: gaiggibeliin ($71.66 in chips) 
+forsmajor: posts the ante $0.50
+N`ice$kiv: posts the ante $0.50
+henrisince1974: posts the ante $0.50
+1975994: posts the ante $0.50
+[BO$$]BUDDAH: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+forsmajor: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6c 6h]
+N`ice$kiv: raises $4 to $4.50
+henrisince1974: folds 
+1975994: folds 
+[BO$$]BUDDAH: calls $4.50
+gaiggibeliin: calls $4.50
+forsmajor: folds 
+*** FLOP *** [Ks 9d Tc]
+N`ice$kiv: checks 
+[BO$$]BUDDAH: checks 
+gaiggibeliin: checks 
+*** TURN *** [Ks 9d Tc] [7s]
+N`ice$kiv: bets $12.44
+[BO$$]BUDDAH: calls $12.44
+gaiggibeliin: folds 
+*** RIVER *** [Ks 9d Tc 7s] [Qc]
+N`ice$kiv: checks 
+[BO$$]BUDDAH: checks 
+*** SHOW DOWN ***
+N`ice$kiv: shows [Ts Kd] (two pair, Kings and Tens)
+[BO$$]BUDDAH: mucks hand 
+N`ice$kiv collected $39.79 from pot
+*** SUMMARY ***
+Total pot $41.88 | Rake $2.09 
+Board [Ks 9d Tc 7s Qc]
+Seat 1: forsmajor (button blind) folded before Flop
+Seat 2: N`ice$kiv showed [Ts Kd] and won ($39.79) with two pair, Kings and Tens
+Seat 3: henrisince1974 folded before Flop (didn't bet)
+Seat 4: 1975994 folded before Flop (didn't bet)
+Seat 5: [BO$$]BUDDAH mucked [Qs 8s]
+Seat 6: gaiggibeliin folded on the Turn
+
+
+
+PokerStars Hand #196118868414:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/23 17:46:09 EET [2019/01/23 10:46:09 ET]
+Table 'Montague' 6-max Seat #2 is the button
+Seat 1: forsmajor ($73.50 in chips) 
+Seat 2: N`ice$kiv ($270.69 in chips) 
+Seat 3: henrisince1974 ($72.82 in chips) 
+Seat 4: 1975994 ($124.72 in chips) 
+Seat 5: [BO$$]BUDDAH ($37.18 in chips) 
+Seat 6: gaiggibeliin ($66.66 in chips) 
+forsmajor: posts the ante $0.50
+N`ice$kiv: posts the ante $0.50
+henrisince1974: posts the ante $0.50
+1975994: posts the ante $0.50
+[BO$$]BUDDAH: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+N`ice$kiv: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qc As]
+henrisince1974: folds 
+1975994: calls $0.50
+[BO$$]BUDDAH: folds 
+[BO$$]BUDDAH leaves the table
+gaiggibeliin: raises $4.50 to $5
+forsmajor: folds 
+N`ice$kiv: calls $4.50
+1975994: calls $4.50
+*** FLOP *** [Ac Ad Tc]
+1975994: checks 
+gaiggibeliin: bets $5.64
+N`ice$kiv: calls $5.64
+1975994: folds 
+*** TURN *** [Ac Ad Tc] [Qh]
+gaiggibeliin: bets $14.47
+N`ice$kiv: calls $14.47
+*** RIVER *** [Ac Ad Tc Qh] [Js]
+gaiggibeliin: bets $41.05 and is all-in
+N`ice$kiv: calls $41.05
+*** SHOW DOWN ***
+gaiggibeliin: shows [Qc As] (a full house, Aces full of Queens)
+N`ice$kiv: shows [Jd Ah] (a full house, Aces full of Jacks)
+gaiggibeliin collected $137.82 from pot
+*** SUMMARY ***
+Total pot $140.32 | Rake $2.50 
+Board [Ac Ad Tc Qh Js]
+Seat 1: forsmajor folded before Flop (didn't bet)
+Seat 2: N`ice$kiv (button blind) showed [Jd Ah] and lost with a full house, Aces full of Jacks
+Seat 3: henrisince1974 folded before Flop (didn't bet)
+Seat 4: 1975994 folded on the Flop
+Seat 5: [BO$$]BUDDAH folded before Flop (didn't bet)
+Seat 6: gaiggibeliin showed [Qc As] and won ($137.82) with a full house, Aces full of Queens
+
+
+
+PokerStars Hand #196118911675:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/23 17:47:19 EET [2019/01/23 10:47:19 ET]
+Table 'Montague' 6-max Seat #3 is the button
+Seat 1: forsmajor ($73 in chips) 
+Seat 2: N`ice$kiv ($204.03 in chips) 
+Seat 3: henrisince1974 ($72.32 in chips) 
+Seat 4: 1975994 ($119.22 in chips) 
+Seat 6: gaiggibeliin ($137.82 in chips) 
+forsmajor: posts the ante $0.50
+N`ice$kiv: posts the ante $0.50
+henrisince1974: posts the ante $0.50
+1975994: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+henrisince1974: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ah 7s]
+1975994: calls $0.50
+gaiggibeliin: folds 
+forsmajor: folds 
+eBashKak9I joins the table at seat #5 
+N`ice$kiv: raises $4 to $4.50
+henrisince1974: folds 
+1975994: calls $4
+*** FLOP *** [8h Ad Qc]
+1975994: checks 
+N`ice$kiv: bets $5.70
+1975994: raises $5.70 to $11.40
+N`ice$kiv: folds 
+Uncalled bet ($5.70) returned to 1975994
+1975994 collected $22.23 from pot
+1975994: doesn't show hand 
+*** SUMMARY ***
+Total pot $23.40 | Rake $1.17 
+Board [8h Ad Qc]
+Seat 1: forsmajor folded before Flop (didn't bet)
+Seat 2: N`ice$kiv folded on the Flop
+Seat 3: henrisince1974 (button blind) folded before Flop
+Seat 4: 1975994 collected ($22.23)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196118936339:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/23 17:47:59 EET [2019/01/23 10:47:59 ET]
+Table 'Montague' 6-max Seat #4 is the button
+Seat 1: forsmajor ($72.50 in chips) 
+Seat 2: N`ice$kiv ($193.33 in chips) 
+Seat 3: henrisince1974 ($71.32 in chips) 
+Seat 4: 1975994 ($130.75 in chips) 
+Seat 5: eBashKak9I ($75 in chips) 
+Seat 6: gaiggibeliin ($137.32 in chips) 
+forsmajor: posts the ante $0.50
+N`ice$kiv: posts the ante $0.50
+henrisince1974: posts the ante $0.50
+1975994: posts the ante $0.50
+eBashKak9I: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+1975994: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jc Ts]
+eBashKak9I: folds 
+gaiggibeliin: folds 
+forsmajor: raises $1.50 to $2
+N`ice$kiv: folds 
+henrisince1974: folds 
+1975994: calls $1.50
+*** FLOP *** [As Qc Td]
+forsmajor: checks 
+1975994: bets $0.50
+forsmajor: calls $0.50
+*** TURN *** [As Qc Td] [9c]
+forsmajor: checks 
+1975994: checks 
+*** RIVER *** [As Qc Td 9c] [9d]
+forsmajor: checks 
+1975994: checks 
+*** SHOW DOWN ***
+forsmajor: shows [Ah 8c] (two pair, Aces and Nines)
+1975994: mucks hand 
+forsmajor collected $7.60 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [As Qc Td 9c 9d]
+Seat 1: forsmajor showed [Ah 8c] and won ($7.60) with two pair, Aces and Nines
+Seat 2: N`ice$kiv folded before Flop (didn't bet)
+Seat 3: henrisince1974 folded before Flop (didn't bet)
+Seat 4: 1975994 (button blind) mucked [6c 7s]
+Seat 5: eBashKak9I folded before Flop (didn't bet)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196118960238:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/23 17:48:37 EET [2019/01/23 10:48:37 ET]
+Table 'Montague' 6-max Seat #5 is the button
+Seat 1: forsmajor ($77.10 in chips) 
+Seat 2: N`ice$kiv ($192.83 in chips) 
+Seat 3: henrisince1974 ($70.82 in chips) 
+Seat 4: 1975994 ($127.75 in chips) 
+Seat 5: eBashKak9I ($75 in chips) 
+Seat 6: gaiggibeliin ($136.82 in chips) 
+forsmajor: posts the ante $0.50
+N`ice$kiv: posts the ante $0.50
+henrisince1974: posts the ante $0.50
+1975994: posts the ante $0.50
+eBashKak9I: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+eBashKak9I: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qc Th]
+gaiggibeliin: folds 
+forsmajor: folds 
+N`ice$kiv: raises $4 to $4.50
+henrisince1974: calls $4.50
+1975994: calls $4.50
+eBashKak9I: calls $4
+*** FLOP *** [7c 6s 7s]
+N`ice$kiv: checks 
+henrisince1974: bets $11.97
+1975994: calls $11.97
+eBashKak9I: raises $17.88 to $29.85
+N`ice$kiv: folds 
+henrisince1974: folds 
+1975994: folds 
+Uncalled bet ($17.88) returned to eBashKak9I
+eBashKak9I collected $54.41 from pot
+eBashKak9I: doesn't show hand 
+*** SUMMARY ***
+Total pot $56.91 | Rake $2.50 
+Board [7c 6s 7s]
+Seat 1: forsmajor folded before Flop (didn't bet)
+Seat 2: N`ice$kiv folded on the Flop
+Seat 3: henrisince1974 folded on the Flop
+Seat 4: 1975994 folded on the Flop
+Seat 5: eBashKak9I (button blind) collected ($54.41)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196119006265:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/23 17:49:51 EET [2019/01/23 10:49:51 ET]
+Table 'Montague' 6-max Seat #6 is the button
+Seat 1: forsmajor ($76.60 in chips) 
+Seat 2: N`ice$kiv ($187.83 in chips) 
+Seat 3: henrisince1974 ($75 in chips) 
+Seat 4: 1975994 ($110.78 in chips) 
+Seat 5: eBashKak9I ($112.44 in chips) 
+Seat 6: gaiggibeliin ($136.32 in chips) 
+forsmajor: posts the ante $0.50
+N`ice$kiv: posts the ante $0.50
+henrisince1974: posts the ante $0.50
+1975994: posts the ante $0.50
+eBashKak9I: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+gaiggibeliin: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7h 8h]
+forsmajor: folds 
+N`ice$kiv: raises $4 to $4.50
+henrisince1974: folds 
+1975994: folds 
+eBashKak9I: folds 
+gaiggibeliin: calls $4
+*** FLOP *** [Jh Kc Ad]
+N`ice$kiv: checks 
+gaiggibeliin: checks 
+*** TURN *** [Jh Kc Ad] [8d]
+N`ice$kiv: checks 
+gaiggibeliin: checks 
+*** RIVER *** [Jh Kc Ad 8d] [Ts]
+N`ice$kiv: bets $4.50
+gaiggibeliin: folds 
+Uncalled bet ($4.50) returned to N`ice$kiv
+N`ice$kiv collected $11.40 from pot
+N`ice$kiv: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0.60 
+Board [Jh Kc Ad 8d Ts]
+Seat 1: forsmajor folded before Flop (didn't bet)
+Seat 2: N`ice$kiv collected ($11.40)
+Seat 3: henrisince1974 folded before Flop (didn't bet)
+Seat 4: 1975994 folded before Flop (didn't bet)
+Seat 5: eBashKak9I folded before Flop (didn't bet)
+Seat 6: gaiggibeliin (button blind) folded on the River
+
+
+
+PokerStars Hand #196119037794:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/23 17:50:42 EET [2019/01/23 10:50:42 ET]
+Table 'Montague' 6-max Seat #1 is the button
+Seat 1: forsmajor ($76.10 in chips) 
+Seat 2: N`ice$kiv ($194.23 in chips) 
+Seat 3: henrisince1974 ($74.50 in chips) 
+Seat 4: 1975994 ($110.28 in chips) 
+Seat 5: eBashKak9I ($111.94 in chips) 
+Seat 6: gaiggibeliin ($131.32 in chips) 
+forsmajor: posts the ante $0.50
+N`ice$kiv: posts the ante $0.50
+henrisince1974: posts the ante $0.50
+1975994: posts the ante $0.50
+eBashKak9I: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+forsmajor: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7h 7c]
+N`ice$kiv: folds 
+henrisince1974: folds 
+1975994: calls $0.50
+eBashKak9I: folds 
+gaiggibeliin: raises $4.50 to $5
+forsmajor: folds 
+1975994: calls $4.50
+*** FLOP *** [6h 9s 9d]
+1975994: checks 
+gaiggibeliin: bets $4.23
+1975994: raises $4.23 to $8.46
+gaiggibeliin: calls $4.23
+*** TURN *** [6h 9s 9d] [8c]
+1975994: checks 
+gaiggibeliin: checks 
+*** RIVER *** [6h 9s 9d 8c] [Kh]
+1975994: checks 
+gaiggibeliin: checks 
+*** SHOW DOWN ***
+1975994: shows [As Td] (a pair of Nines)
+gaiggibeliin: shows [7h 7c] (two pair, Nines and Sevens)
+gaiggibeliin collected $28.90 from pot
+*** SUMMARY ***
+Total pot $30.42 | Rake $1.52 
+Board [6h 9s 9d 8c Kh]
+Seat 1: forsmajor (button blind) folded before Flop
+Seat 2: N`ice$kiv folded before Flop (didn't bet)
+Seat 3: henrisince1974 folded before Flop (didn't bet)
+Seat 4: 1975994 showed [As Td] and lost with a pair of Nines
+Seat 5: eBashKak9I folded before Flop (didn't bet)
+Seat 6: gaiggibeliin showed [7h 7c] and won ($28.90) with two pair, Nines and Sevens
+
+
+
+PokerStars Hand #196119086748:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/23 17:52:00 EET [2019/01/23 10:52:00 ET]
+Table 'Montague' 6-max Seat #2 is the button
+Seat 1: forsmajor ($75.10 in chips) 
+Seat 2: N`ice$kiv ($193.73 in chips) 
+Seat 3: henrisince1974 ($74 in chips) 
+Seat 4: 1975994 ($96.32 in chips) 
+Seat 5: eBashKak9I ($111.44 in chips) 
+Seat 6: gaiggibeliin ($146.26 in chips) 
+forsmajor: posts the ante $0.50
+N`ice$kiv: posts the ante $0.50
+henrisince1974: posts the ante $0.50
+1975994: posts the ante $0.50
+eBashKak9I: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+N`ice$kiv: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qd 7d]
+henrisince1974: folds 
+1975994: calls $0.50
+eBashKak9I: folds 
+gaiggibeliin: folds 
+forsmajor: raises $2 to $2.50
+N`ice$kiv: folds 
+1975994: calls $2
+*** FLOP *** [6s 7s 9d]
+1975994: checks 
+forsmajor: bets $5
+1975994: calls $5
+*** TURN *** [6s 7s 9d] [Kc]
+1975994: checks 
+forsmajor: bets $14
+1975994: calls $14
+*** RIVER *** [6s 7s 9d Kc] [Jc]
+1975994: checks 
+forsmajor: bets $27
+1975994: folds 
+Uncalled bet ($27) returned to forsmajor
+forsmajor collected $44.18 from pot
+forsmajor: doesn't show hand 
+*** SUMMARY ***
+Total pot $46.50 | Rake $2.32 
+Board [6s 7s 9d Kc Jc]
+Seat 1: forsmajor collected ($44.18)
+Seat 2: N`ice$kiv (button blind) folded before Flop
+Seat 3: henrisince1974 folded before Flop (didn't bet)
+Seat 4: 1975994 folded on the River
+Seat 5: eBashKak9I folded before Flop (didn't bet)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196119136986:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/23 17:53:21 EET [2019/01/23 10:53:21 ET]
+Table 'Montague' 6-max Seat #3 is the button
+Seat 1: forsmajor ($97.28 in chips) 
+Seat 2: N`ice$kiv ($192.73 in chips) 
+Seat 3: henrisince1974 ($73.50 in chips) 
+Seat 4: 1975994 ($74.32 in chips) 
+Seat 5: eBashKak9I ($110.94 in chips) 
+Seat 6: gaiggibeliin ($145.76 in chips) 
+forsmajor: posts the ante $0.50
+N`ice$kiv: posts the ante $0.50
+henrisince1974: posts the ante $0.50
+1975994: posts the ante $0.50
+eBashKak9I: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+henrisince1974: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jd Qh]
+1975994: calls $0.50
+eBashKak9I: raises $3.50 to $4
+gaiggibeliin: folds 
+forsmajor: folds 
+N`ice$kiv: folds 
+henrisince1974: folds 
+1975994: calls $3.50
+*** FLOP *** [Jc Kh 9s]
+1975994: checks 
+eBashKak9I: checks 
+*** TURN *** [Jc Kh 9s] [6c]
+1975994: checks 
+eBashKak9I: checks 
+*** RIVER *** [Jc Kh 9s 6c] [7h]
+1975994: checks 
+eBashKak9I: checks 
+*** SHOW DOWN ***
+1975994: shows [Js Qs] (a pair of Jacks)
+eBashKak9I: mucks hand 
+1975994 collected $10.92 from pot
+*** SUMMARY ***
+Total pot $11.50 | Rake $0.58 
+Board [Jc Kh 9s 6c 7h]
+Seat 1: forsmajor folded before Flop (didn't bet)
+Seat 2: N`ice$kiv folded before Flop (didn't bet)
+Seat 3: henrisince1974 (button blind) folded before Flop
+Seat 4: 1975994 showed [Js Qs] and won ($10.92) with a pair of Jacks
+Seat 5: eBashKak9I mucked [Ts Tc]
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+

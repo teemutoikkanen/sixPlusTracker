@@ -1,0 +1,3741 @@
+﻿PokerStars Hand #196134388635:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:29:33 EET [2019/01/23 16:29:33 ET]
+Table 'Griqua' 6-max Seat #6 is the button
+Seat 1: Tiltkorv ($143 in chips) 
+Seat 2: gaiggibeliin ($150 in chips) 
+Seat 3: M1TR4ND1R ($270.96 in chips) 
+Seat 4: Stacy99 ($150 in chips) 
+Seat 5: gusmaa ($412.11 in chips) 
+Seat 6: w00tLOL ($288.45 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+w00tLOL: posts the ante $1
+w00tLOL: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8d Qs]
+Tiltkorv: folds 
+gaiggibeliin: folds 
+M1TR4ND1R: calls $1
+Stacy99: raises $9 to $10
+gusmaa: folds 
+w00tLOL: folds 
+M1TR4ND1R: raises $259.96 to $269.96 and is all-in
+Stacy99: calls $139 and is all-in
+Uncalled bet ($120.96) returned to M1TR4ND1R
+*** FLOP *** [Jd Jc 6h]
+*** TURN *** [Jd Jc 6h] [9h]
+*** RIVER *** [Jd Jc 6h 9h] [Qc]
+*** SHOW DOWN ***
+M1TR4ND1R: shows [Ah Kh] (a pair of Jacks)
+Stacy99: shows [Kd Kc] (two pair, Kings and Jacks)
+Stacy99 collected $302.25 from pot
+*** SUMMARY ***
+Total pot $305 | Rake $2.75 
+Board [Jd Jc 6h 9h Qc]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: M1TR4ND1R showed [Ah Kh] and lost with a pair of Jacks
+Seat 4: Stacy99 showed [Kd Kc] and won ($302.25) with two pair, Kings and Jacks
+Seat 5: gusmaa folded before Flop (didn't bet)
+Seat 6: w00tLOL (button blind) folded before Flop
+
+
+
+PokerStars Hand #196134414828:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:30:05 EET [2019/01/23 16:30:05 ET]
+Table 'Griqua' 6-max Seat #1 is the button
+Seat 1: Tiltkorv ($142 in chips) 
+Seat 2: gaiggibeliin ($149 in chips) 
+Seat 3: M1TR4ND1R ($150 in chips) 
+Seat 4: Stacy99 ($302.25 in chips) 
+Seat 5: gusmaa ($411.11 in chips) 
+Seat 6: w00tLOL ($286.45 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+w00tLOL: posts the ante $1
+Tiltkorv: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qs 7s]
+gaiggibeliin: folds 
+M1TR4ND1R: folds 
+Stacy99: calls $1
+gusmaa: calls $1
+w00tLOL: calls $1
+Tiltkorv: checks 
+*** FLOP *** [Ks Jd Ah]
+Stacy99: bets $4.75
+gusmaa: calls $4.75
+w00tLOL: calls $4.75
+Tiltkorv: folds 
+*** TURN *** [Ks Jd Ah] [Js]
+Stacy99: checks 
+gusmaa: checks 
+w00tLOL: checks 
+*** RIVER *** [Ks Jd Ah Js] [Ts]
+Stacy99: checks 
+gusmaa: checks 
+w00tLOL: checks 
+*** SHOW DOWN ***
+Stacy99: shows [As 9s] (a flush, Ace high)
+gusmaa: mucks hand 
+w00tLOL: mucks hand 
+Stacy99 collected $23.04 from pot
+*** SUMMARY ***
+Total pot $24.25 | Rake $1.21 
+Board [Ks Jd Ah Js Ts]
+Seat 1: Tiltkorv (button blind) folded on the Flop
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: M1TR4ND1R folded before Flop (didn't bet)
+Seat 4: Stacy99 showed [As 9s] and won ($23.04) with a flush, Ace high
+Seat 5: gusmaa mucked [Td 9h]
+Seat 6: w00tLOL mucked [6c Ac]
+
+
+
+PokerStars Hand #196134477300:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:31:22 EET [2019/01/23 16:31:22 ET]
+Table 'Griqua' 6-max Seat #2 is the button
+Seat 1: Tiltkorv ($140 in chips) 
+Seat 2: gaiggibeliin ($148 in chips) 
+Seat 3: M1TR4ND1R ($150 in chips) 
+Seat 4: Stacy99 ($318.54 in chips) 
+Seat 5: gusmaa ($404.36 in chips) 
+Seat 6: w00tLOL ($279.70 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+w00tLOL: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jd Kd]
+M1TR4ND1R: calls $1
+Stacy99: folds 
+gusmaa: raises $6 to $7
+w00tLOL: folds 
+Tiltkorv: folds 
+gaiggibeliin: calls $6
+M1TR4ND1R: calls $6
+*** FLOP *** [Kh Jc 7d]
+M1TR4ND1R: checks 
+gusmaa: bets $17
+gaiggibeliin: calls $17
+M1TR4ND1R: calls $17
+*** TURN *** [Kh Jc 7d] [8d]
+M1TR4ND1R: checks 
+gusmaa: bets $125
+gaiggibeliin: calls $123 and is all-in
+M1TR4ND1R: folds 
+Uncalled bet ($2) returned to gusmaa
+*** FIRST RIVER *** [Kh Jc 7d 8d] [9s]
+*** SECOND RIVER *** [Kh Jc 7d 8d] [8h]
+*** FIRST SHOW DOWN ***
+gusmaa: shows [Ad Ts] (a straight, Seven to Jack)
+gaiggibeliin: shows [Jd Kd] (two pair, Kings and Jacks)
+gusmaa collected $160.63 from pot
+*** SECOND SHOW DOWN ***
+gusmaa: shows [Ad Ts] (a pair of Eights)
+gaiggibeliin: shows [Jd Kd] (two pair, Kings and Jacks)
+gaiggibeliin collected $160.62 from pot
+*** SUMMARY ***
+Total pot $324 | Rake $2.75 
+Hand was run twice
+FIRST Board [Kh Jc 7d 8d 9s]
+SECOND Board [Kh Jc 7d 8d 8h]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: gaiggibeliin (button blind) showed [Jd Kd] and lost with two pair, Kings and Jacks, and won ($160.62) with two pair, Kings and Jacks
+Seat 3: M1TR4ND1R folded on the Turn
+Seat 4: Stacy99 folded before Flop (didn't bet)
+Seat 5: gusmaa showed [Ad Ts] and won ($160.63) with a straight, Seven to Jack, and lost with a pair of Eights
+Seat 6: w00tLOL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196134539320:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:32:38 EET [2019/01/23 16:32:38 ET]
+Table 'Griqua' 6-max Seat #3 is the button
+Seat 1: Tiltkorv ($139 in chips) 
+Seat 2: gaiggibeliin ($160.62 in chips) 
+Seat 3: M1TR4ND1R ($150 in chips) 
+Seat 4: Stacy99 ($317.54 in chips) 
+Seat 5: gusmaa ($416.99 in chips) 
+Seat 6: w00tLOL ($278.70 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+w00tLOL: posts the ante $1
+M1TR4ND1R: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8d Jd]
+Stacy99: folds 
+gusmaa: folds 
+w00tLOL: folds 
+Tiltkorv: folds 
+gaiggibeliin: calls $1
+M1TR4ND1R: checks 
+*** FLOP *** [Kd Jh 8c]
+gaiggibeliin: checks 
+M1TR4ND1R: checks 
+*** TURN *** [Kd Jh 8c] [Qd]
+gaiggibeliin: checks 
+M1TR4ND1R: checks 
+*** RIVER *** [Kd Jh 8c Qd] [Kc]
+gaiggibeliin: checks 
+M1TR4ND1R: checks 
+*** SHOW DOWN ***
+gaiggibeliin: shows [8d Jd] (two pair, Kings and Jacks)
+M1TR4ND1R: mucks hand 
+gaiggibeliin collected $7.60 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [Kd Jh 8c Qd Kc]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: gaiggibeliin showed [8d Jd] and won ($7.60) with two pair, Kings and Jacks
+Seat 3: M1TR4ND1R (button blind) mucked [Ah 6h]
+Seat 4: Stacy99 folded before Flop (didn't bet)
+Seat 5: gusmaa folded before Flop (didn't bet)
+Seat 6: w00tLOL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196134593361:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:33:46 EET [2019/01/23 16:33:46 ET]
+Table 'Griqua' 6-max Seat #4 is the button
+Seat 1: Tiltkorv ($138 in chips) 
+Seat 2: gaiggibeliin ($166.22 in chips) 
+Seat 3: M1TR4ND1R ($150 in chips) 
+Seat 4: Stacy99 ($316.54 in chips) 
+Seat 5: gusmaa ($415.99 in chips) 
+Seat 6: w00tLOL ($277.70 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+w00tLOL: posts the ante $1
+Stacy99: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [As 8h]
+gusmaa: raises $6 to $7
+w00tLOL: folds 
+Tiltkorv: folds 
+gaiggibeliin: folds 
+M1TR4ND1R: folds 
+Stacy99: calls $6
+*** FLOP *** [8c 7c 6d]
+gusmaa: checks 
+w00tLOL leaves the table
+Stacy99: bets $14.25
+gusmaa: calls $14.25
+*** TURN *** [8c 7c 6d] [6h]
+gusmaa: checks 
+Stacy99: checks 
+*** RIVER *** [8c 7c 6d 6h] [9s]
+gusmaa: checks 
+Stacy99: checks 
+*** SHOW DOWN ***
+gusmaa: shows [Qc Qh] (two pair, Queens and Sixes)
+Stacy99: shows [Kd Ad] (a straight, Ace to Nine)
+Stacy99 collected $46.08 from pot
+*** SUMMARY ***
+Total pot $48.50 | Rake $2.42 
+Board [8c 7c 6d 6h 9s]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: M1TR4ND1R folded before Flop (didn't bet)
+Seat 4: Stacy99 (button blind) showed [Kd Ad] and won ($46.08) with a straight, Ace to Nine
+Seat 5: gusmaa showed [Qc Qh] and lost with two pair, Queens and Sixes
+Seat 6: w00tLOL folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196134639300:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:34:43 EET [2019/01/23 16:34:43 ET]
+Table 'Griqua' 6-max Seat #5 is the button
+Seat 1: Tiltkorv ($137 in chips) 
+Seat 2: gaiggibeliin ($165.22 in chips) 
+Seat 3: M1TR4ND1R ($150 in chips) 
+Seat 4: Stacy99 ($340.37 in chips) 
+Seat 5: gusmaa ($393.74 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+gusmaa: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qc Td]
+Tiltkorv: folds 
+gaiggibeliin: calls $1
+M1TR4ND1R: folds 
+Stacy99: calls $1
+gusmaa: checks 
+*** FLOP *** [Jc 9h Kc]
+gaiggibeliin: bets $5.70
+Stacy99: folds 
+gusmaa: folds 
+Uncalled bet ($5.70) returned to gaiggibeliin
+gaiggibeliin collected $7.60 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [Jc 9h Kc]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: gaiggibeliin collected ($7.60)
+Seat 3: M1TR4ND1R folded before Flop (didn't bet)
+Seat 4: Stacy99 folded on the Flop
+Seat 5: gusmaa (button blind) folded on the Flop
+
+
+
+PokerStars Hand #196134663547:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:35:13 EET [2019/01/23 16:35:13 ET]
+Table 'Griqua' 6-max Seat #1 is the button
+Seat 1: Tiltkorv ($136 in chips) 
+Seat 2: gaiggibeliin ($170.82 in chips) 
+Seat 3: M1TR4ND1R ($150 in chips) 
+Seat 4: Stacy99 ($338.37 in chips) 
+Seat 5: gusmaa ($391.74 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+Tiltkorv: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Th Ks]
+gaiggibeliin: folds 
+M1TR4ND1R: folds 
+Stacy99: raises $5 to $6
+gusmaa: folds 
+Tiltkorv: calls $5
+*** FLOP *** [6c 8c 6s]
+Stacy99: checks 
+Tiltkorv: bets $8
+Stacy99: folds 
+Uncalled bet ($8) returned to Tiltkorv
+Tiltkorv collected $16.15 from pot
+Tiltkorv: doesn't show hand 
+*** SUMMARY ***
+Total pot $17 | Rake $0.85 
+Board [6c 8c 6s]
+Seat 1: Tiltkorv (button blind) collected ($16.15)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: M1TR4ND1R folded before Flop (didn't bet)
+Seat 4: Stacy99 folded on the Flop
+Seat 5: gusmaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196134695371:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:35:53 EET [2019/01/23 16:35:53 ET]
+Table 'Griqua' 6-max Seat #2 is the button
+Seat 1: Tiltkorv ($145.15 in chips) 
+Seat 2: gaiggibeliin ($169.82 in chips) 
+Seat 3: M1TR4ND1R ($150 in chips) 
+Seat 4: Stacy99 ($331.37 in chips) 
+Seat 5: gusmaa ($390.74 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qh Td]
+M1TR4ND1R: raises $8 to $9
+Stacy99: folds 
+gusmaa: folds 
+Tiltkorv: folds 
+gaiggibeliin: calls $8
+*** FLOP *** [9d 6d 7c]
+M1TR4ND1R: bets $16.17
+bumbumpau joins the table at seat #6 
+gaiggibeliin: folds 
+Uncalled bet ($16.17) returned to M1TR4ND1R
+M1TR4ND1R collected $21.85 from pot
+M1TR4ND1R: doesn't show hand 
+*** SUMMARY ***
+Total pot $23 | Rake $1.15 
+Board [9d 6d 7c]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: gaiggibeliin (button blind) folded on the Flop
+Seat 3: M1TR4ND1R collected ($21.85)
+Seat 4: Stacy99 folded before Flop (didn't bet)
+Seat 5: gusmaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196134724492:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:36:29 EET [2019/01/23 16:36:29 ET]
+Table 'Griqua' 6-max Seat #3 is the button
+Seat 1: Tiltkorv ($144.15 in chips) 
+Seat 2: gaiggibeliin ($159.82 in chips) 
+Seat 3: M1TR4ND1R ($161.85 in chips) 
+Seat 4: Stacy99 ($330.37 in chips) 
+Seat 5: gusmaa ($389.74 in chips) 
+Seat 6: bumbumpau ($150 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+bumbumpau: posts the ante $1
+M1TR4ND1R: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9s 6h]
+Stacy99: folds 
+gusmaa: folds 
+bumbumpau: raises $6 to $7
+Tiltkorv: folds 
+gaiggibeliin: folds 
+M1TR4ND1R: calls $6
+*** FLOP *** [8c Td Qs]
+bumbumpau: bets $12
+M1TR4ND1R: calls $12
+*** TURN *** [8c Td Qs] [Ks]
+bumbumpau: checks 
+M1TR4ND1R: checks 
+*** RIVER *** [8c Td Qs Ks] [Th]
+bumbumpau: checks 
+M1TR4ND1R: bets $30.93
+bumbumpau: folds 
+Uncalled bet ($30.93) returned to M1TR4ND1R
+M1TR4ND1R collected $41.80 from pot
+M1TR4ND1R: doesn't show hand 
+*** SUMMARY ***
+Total pot $44 | Rake $2.20 
+Board [8c Td Qs Ks Th]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: M1TR4ND1R (button blind) collected ($41.80)
+Seat 4: Stacy99 folded before Flop (didn't bet)
+Seat 5: gusmaa folded before Flop (didn't bet)
+Seat 6: bumbumpau folded on the River
+
+
+
+PokerStars Hand #196134770193:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:37:27 EET [2019/01/23 16:37:27 ET]
+Table 'Griqua' 6-max Seat #4 is the button
+Seat 1: Tiltkorv ($143.15 in chips) 
+Seat 2: gaiggibeliin ($158.82 in chips) 
+Seat 3: M1TR4ND1R ($183.65 in chips) 
+Seat 4: Stacy99 ($329.37 in chips) 
+Seat 5: gusmaa ($388.74 in chips) 
+Seat 6: bumbumpau ($130 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+bumbumpau: posts the ante $1
+Stacy99: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Tc 9s]
+gusmaa: folds 
+bumbumpau: folds 
+Tiltkorv: folds 
+gaiggibeliin: folds 
+M1TR4ND1R: raises $8 to $9
+Stacy99: folds 
+Uncalled bet ($8) returned to M1TR4ND1R
+M1TR4ND1R collected $8 from pot
+M1TR4ND1R: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0 
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: M1TR4ND1R collected ($8)
+Seat 4: Stacy99 (button blind) folded before Flop
+Seat 5: gusmaa folded before Flop (didn't bet)
+Seat 6: bumbumpau folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196134782233:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:37:42 EET [2019/01/23 16:37:42 ET]
+Table 'Griqua' 6-max Seat #5 is the button
+Seat 1: Tiltkorv ($142.15 in chips) 
+Seat 2: gaiggibeliin ($157.82 in chips) 
+Seat 3: M1TR4ND1R ($189.65 in chips) 
+Seat 4: Stacy99 ($327.37 in chips) 
+Seat 5: gusmaa ($387.74 in chips) 
+Seat 6: bumbumpau ($150 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+bumbumpau: posts the ante $1
+gusmaa: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Js 8c]
+bumbumpau: folds 
+Tiltkorv: folds 
+gaiggibeliin: folds 
+M1TR4ND1R: folds 
+Stacy99: raises $8 to $9
+gusmaa: folds 
+Uncalled bet ($8) returned to Stacy99
+Stacy99 collected $8 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0 
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: M1TR4ND1R folded before Flop (didn't bet)
+Seat 4: Stacy99 collected ($8)
+Seat 5: gusmaa (button blind) folded before Flop
+Seat 6: bumbumpau folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196134797969:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:38:01 EET [2019/01/23 16:38:01 ET]
+Table 'Griqua' 6-max Seat #6 is the button
+Seat 1: Tiltkorv ($141.15 in chips) 
+Seat 2: gaiggibeliin ($156.82 in chips) 
+Seat 3: M1TR4ND1R ($188.65 in chips) 
+Seat 4: Stacy99 ($333.37 in chips) 
+Seat 5: gusmaa ($385.74 in chips) 
+Seat 6: bumbumpau ($149 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+bumbumpau: posts the ante $1
+bumbumpau: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ac Kd]
+Tiltkorv: folds 
+gaiggibeliin: calls $1
+M1TR4ND1R: folds 
+Stacy99: raises $4 to $5
+gusmaa: raises $15 to $20
+bumbumpau: folds 
+gaiggibeliin: raises $135.82 to $155.82 and is all-in
+Stacy99: folds 
+gusmaa: folds 
+Uncalled bet ($135.82) returned to gaiggibeliin
+gaiggibeliin collected $52 from pot
+*** SUMMARY ***
+Total pot $52 | Rake $0 
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: gaiggibeliin collected ($52)
+Seat 3: M1TR4ND1R folded before Flop (didn't bet)
+Seat 4: Stacy99 folded before Flop
+Seat 5: gusmaa folded before Flop
+Seat 6: bumbumpau (button blind) folded before Flop
+
+
+
+PokerStars Hand #196134828939:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:38:40 EET [2019/01/23 16:38:40 ET]
+Table 'Griqua' 6-max Seat #1 is the button
+Seat 1: Tiltkorv ($140.15 in chips) 
+Seat 2: gaiggibeliin ($187.82 in chips) 
+Seat 3: M1TR4ND1R ($187.65 in chips) 
+Seat 4: Stacy99 ($327.37 in chips) 
+Seat 5: gusmaa ($364.74 in chips) 
+Seat 6: bumbumpau ($147 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+bumbumpau: posts the ante $1
+Tiltkorv: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7s Js]
+gaiggibeliin: folds 
+M1TR4ND1R: folds 
+Stacy99: calls $1
+gusmaa: folds 
+bumbumpau: folds 
+Tiltkorv: checks 
+*** FLOP *** [Qh Kh 8s]
+Stacy99: bets $5.70
+Tiltkorv: folds 
+Uncalled bet ($5.70) returned to Stacy99
+Stacy99 collected $7.60 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [Qh Kh 8s]
+Seat 1: Tiltkorv (button blind) folded on the Flop
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: M1TR4ND1R folded before Flop (didn't bet)
+Seat 4: Stacy99 collected ($7.60)
+Seat 5: gusmaa folded before Flop (didn't bet)
+Seat 6: bumbumpau folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196134856630:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:39:15 EET [2019/01/23 16:39:15 ET]
+Table 'Griqua' 6-max Seat #2 is the button
+Seat 1: Tiltkorv ($138.15 in chips) 
+Seat 2: gaiggibeliin ($186.82 in chips) 
+Seat 3: M1TR4ND1R ($186.65 in chips) 
+Seat 4: Stacy99 ($332.97 in chips) 
+Seat 5: gusmaa ($363.74 in chips) 
+Seat 6: bumbumpau ($146 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+bumbumpau: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ad 6d]
+M1TR4ND1R: folds 
+Stacy99: folds 
+gusmaa: folds 
+bumbumpau: folds 
+Tiltkorv: calls $1
+gaiggibeliin: raises $11 to $12
+Tiltkorv: calls $11
+*** FLOP *** [8s 7d Js]
+Tiltkorv: checks 
+gaiggibeliin: checks 
+*** TURN *** [8s 7d Js] [8d]
+Tiltkorv: bets $28
+gaiggibeliin: calls $28
+*** RIVER *** [8s 7d Js 8d] [9s]
+Tiltkorv: bets $42
+gaiggibeliin: folds 
+Uncalled bet ($42) returned to Tiltkorv
+Tiltkorv collected $83.25 from pot
+Tiltkorv: doesn't show hand 
+*** SUMMARY ***
+Total pot $86 | Rake $2.75 
+Board [8s 7d Js 8d 9s]
+Seat 1: Tiltkorv collected ($83.25)
+Seat 2: gaiggibeliin (button blind) folded on the River
+Seat 3: M1TR4ND1R folded before Flop (didn't bet)
+Seat 4: Stacy99 folded before Flop (didn't bet)
+Seat 5: gusmaa folded before Flop (didn't bet)
+Seat 6: bumbumpau folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196134941488:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:40:58 EET [2019/01/23 16:40:58 ET]
+Table 'Griqua' 6-max Seat #3 is the button
+Seat 1: Tiltkorv ($180.40 in chips) 
+Seat 2: gaiggibeliin ($145.82 in chips) 
+Seat 3: M1TR4ND1R ($185.65 in chips) 
+Seat 4: Stacy99 ($331.97 in chips) 
+Seat 5: gusmaa ($362.74 in chips) 
+Seat 6: bumbumpau ($145 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+bumbumpau: posts the ante $1
+M1TR4ND1R: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7h Tc]
+Stacy99: folds 
+gusmaa: raises $5 to $6
+bumbumpau: folds 
+Tiltkorv: folds 
+gaiggibeliin: folds 
+M1TR4ND1R: calls $5
+*** FLOP *** [Kh 6d Ts]
+gusmaa: bets $6
+M1TR4ND1R: calls $6
+*** TURN *** [Kh 6d Ts] [Ac]
+gusmaa: bets $22
+M1TR4ND1R: folds 
+Uncalled bet ($22) returned to gusmaa
+gusmaa collected $28.50 from pot
+gusmaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $1.50 
+Board [Kh 6d Ts Ac]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: M1TR4ND1R (button blind) folded on the Turn
+Seat 4: Stacy99 folded before Flop (didn't bet)
+Seat 5: gusmaa collected ($28.50)
+Seat 6: bumbumpau folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196134971228:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:41:36 EET [2019/01/23 16:41:36 ET]
+Table 'Griqua' 6-max Seat #4 is the button
+Seat 1: Tiltkorv ($179.40 in chips) 
+Seat 2: gaiggibeliin ($144.82 in chips) 
+Seat 3: M1TR4ND1R ($172.65 in chips) 
+Seat 4: Stacy99 ($330.97 in chips) 
+Seat 5: gusmaa ($378.24 in chips) 
+Seat 6: bumbumpau ($144 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+bumbumpau: posts the ante $1
+Stacy99: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Tc As]
+gusmaa: folds 
+bumbumpau: folds 
+Tiltkorv: folds 
+gaiggibeliin: calls $1
+M1TR4ND1R: calls $1
+Stacy99: raises $9 to $10
+gaiggibeliin: folds 
+M1TR4ND1R: folds 
+Uncalled bet ($9) returned to Stacy99
+Stacy99 collected $9 from pot
+*** SUMMARY ***
+Total pot $9 | Rake $0 
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded before Flop
+Seat 3: M1TR4ND1R folded before Flop
+Seat 4: Stacy99 (button blind) collected ($9)
+Seat 5: gusmaa folded before Flop (didn't bet)
+Seat 6: bumbumpau folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196134998493:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:42:10 EET [2019/01/23 16:42:10 ET]
+Table 'Griqua' 6-max Seat #5 is the button
+Seat 1: Tiltkorv ($178.40 in chips) 
+Seat 2: gaiggibeliin ($142.82 in chips) 
+Seat 3: M1TR4ND1R ($170.65 in chips) 
+Seat 4: Stacy99 ($337.97 in chips) 
+Seat 5: gusmaa ($377.24 in chips) 
+Seat 6: bumbumpau ($143 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+bumbumpau: posts the ante $1
+gusmaa: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jd Kd]
+bumbumpau: folds 
+Tiltkorv: folds 
+gaiggibeliin: calls $1
+M1TR4ND1R: folds 
+Stacy99: raises $9 to $10
+gusmaa: calls $9
+gaiggibeliin: calls $9
+*** FLOP *** [Qh 9h Ts]
+gaiggibeliin: checks 
+Stacy99: checks 
+gusmaa: checks 
+*** TURN *** [Qh 9h Ts] [6d]
+gaiggibeliin: bets $28
+Stacy99: folds 
+gusmaa: folds 
+Uncalled bet ($28) returned to gaiggibeliin
+gaiggibeliin collected $34.20 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $1.80 
+Board [Qh 9h Ts 6d]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: gaiggibeliin collected ($34.20)
+Seat 3: M1TR4ND1R folded before Flop (didn't bet)
+Seat 4: Stacy99 folded on the Turn
+Seat 5: gusmaa (button blind) folded on the Turn
+Seat 6: bumbumpau folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196135057549:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:43:25 EET [2019/01/23 16:43:25 ET]
+Table 'Griqua' 6-max Seat #6 is the button
+Seat 1: Tiltkorv ($177.40 in chips) 
+Seat 2: gaiggibeliin ($166.02 in chips) 
+Seat 3: M1TR4ND1R ($169.65 in chips) 
+Seat 4: Stacy99 ($326.97 in chips) 
+Seat 5: gusmaa ($366.24 in chips) 
+Seat 6: bumbumpau ($142 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+bumbumpau: posts the ante $1
+bumbumpau: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ac Td]
+Tiltkorv: folds 
+gaiggibeliin: folds 
+M1TR4ND1R: calls $1
+Stacy99: raises $9 to $10
+gusmaa: folds 
+bumbumpau: calls $9
+M1TR4ND1R: calls $9
+*** FLOP *** [Qs 7d Tc]
+M1TR4ND1R: checks 
+Stacy99: checks 
+bumbumpau: bets $28
+M1TR4ND1R: folds 
+Stacy99: folds 
+Uncalled bet ($28) returned to bumbumpau
+bumbumpau collected $34.20 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $1.80 
+Board [Qs 7d Tc]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: M1TR4ND1R folded on the Flop
+Seat 4: Stacy99 folded on the Flop
+Seat 5: gusmaa folded before Flop (didn't bet)
+Seat 6: bumbumpau (button blind) collected ($34.20)
+
+
+
+PokerStars Hand #196135099825:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:44:19 EET [2019/01/23 16:44:19 ET]
+Table 'Griqua' 6-max Seat #1 is the button
+Seat 1: Tiltkorv ($176.40 in chips) 
+Seat 2: gaiggibeliin ($165.02 in chips) 
+Seat 3: M1TR4ND1R ($158.65 in chips) 
+Seat 4: Stacy99 ($315.97 in chips) 
+Seat 5: gusmaa ($365.24 in chips) 
+Seat 6: bumbumpau ($165.20 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+bumbumpau: posts the ante $1
+Tiltkorv: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9c Ac]
+gaiggibeliin: calls $1
+M1TR4ND1R: calls $1
+Stacy99: calls $1
+gusmaa: folds 
+bumbumpau: calls $1
+Tiltkorv: raises $13 to $14
+gaiggibeliin: folds 
+M1TR4ND1R: folds 
+Stacy99: calls $13
+bumbumpau: folds 
+*** FLOP *** [6c 9s Ah]
+Stacy99: checks 
+Tiltkorv: bets $18
+Stacy99: calls $18
+*** TURN *** [6c 9s Ah] [Th]
+Stacy99: checks 
+Tiltkorv: checks 
+*** RIVER *** [6c 9s Ah Th] [Jc]
+Stacy99: bets $35.13
+Tiltkorv: raises $108.27 to $143.40 and is all-in
+Stacy99: folds 
+Uncalled bet ($108.27) returned to Tiltkorv
+Tiltkorv collected $140.51 from pot
+Tiltkorv: doesn't show hand 
+*** SUMMARY ***
+Total pot $143.26 | Rake $2.75 
+Board [6c 9s Ah Th Jc]
+Seat 1: Tiltkorv (button blind) collected ($140.51)
+Seat 2: gaiggibeliin folded before Flop
+Seat 3: M1TR4ND1R folded before Flop
+Seat 4: Stacy99 folded on the River
+Seat 5: gusmaa folded before Flop (didn't bet)
+Seat 6: bumbumpau folded before Flop
+
+
+
+PokerStars Hand #196135158138:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:45:33 EET [2019/01/23 16:45:33 ET]
+Table 'Griqua' 6-max Seat #2 is the button
+Seat 1: Tiltkorv ($248.78 in chips) 
+Seat 2: gaiggibeliin ($163.02 in chips) 
+Seat 3: M1TR4ND1R ($156.65 in chips) 
+Seat 4: Stacy99 ($247.84 in chips) 
+Seat 5: gusmaa ($364.24 in chips) 
+Seat 6: bumbumpau ($163.20 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+bumbumpau: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7s 8h]
+M1TR4ND1R: folds 
+Stacy99: raises $5 to $6
+gusmaa: calls $6
+bumbumpau: folds 
+Tiltkorv: raises $25 to $31
+gaiggibeliin: folds 
+Stacy99: calls $25
+gusmaa: calls $25
+*** FLOP *** [8c Jh Ad]
+Stacy99: checks 
+gusmaa: checks 
+Tiltkorv: checks 
+*** TURN *** [8c Jh Ad] [7h]
+Stacy99: bets $48.63
+gusmaa: folds 
+Tiltkorv: calls $48.63
+*** RIVER *** [8c Jh Ad 7h] [Qs]
+Stacy99: bets $167.21 and is all-in
+Tiltkorv: folds 
+Uncalled bet ($167.21) returned to Stacy99
+Stacy99 collected $194.51 from pot
+Stacy99: shows [Th Ah] (a pair of Aces)
+*** SUMMARY ***
+Total pot $197.26 | Rake $2.75 
+Board [8c Jh Ad 7h Qs]
+Seat 1: Tiltkorv folded on the River
+Seat 2: gaiggibeliin (button blind) folded before Flop
+Seat 3: M1TR4ND1R folded before Flop (didn't bet)
+Seat 4: Stacy99 collected ($194.51)
+Seat 5: gusmaa folded on the Turn
+Seat 6: bumbumpau folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196135241264:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:47:17 EET [2019/01/23 16:47:17 ET]
+Table 'Griqua' 6-max Seat #3 is the button
+Seat 1: Tiltkorv ($168.15 in chips) 
+Seat 2: gaiggibeliin ($161.02 in chips) 
+Seat 3: M1TR4ND1R ($155.65 in chips) 
+Seat 4: Stacy99 ($361.72 in chips) 
+Seat 5: gusmaa ($332.24 in chips) 
+Seat 6: bumbumpau ($162.20 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+bumbumpau: posts the ante $1
+M1TR4ND1R: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kc 7h]
+Stacy99: folds 
+gusmaa: folds 
+bumbumpau: folds 
+Tiltkorv: calls $1
+gaiggibeliin: folds 
+M1TR4ND1R: checks 
+*** FLOP *** [7c 9d Qc]
+Tiltkorv: bets $4
+M1TR4ND1R: folds 
+Uncalled bet ($4) returned to Tiltkorv
+Tiltkorv collected $7.60 from pot
+Tiltkorv: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [7c 9d Qc]
+Seat 1: Tiltkorv collected ($7.60)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: M1TR4ND1R (button blind) folded on the Flop
+Seat 4: Stacy99 folded before Flop (didn't bet)
+Seat 5: gusmaa folded before Flop (didn't bet)
+Seat 6: bumbumpau folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196135260822:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:47:42 EET [2019/01/23 16:47:42 ET]
+Table 'Griqua' 6-max Seat #4 is the button
+Seat 1: Tiltkorv ($173.75 in chips) 
+Seat 2: gaiggibeliin ($160.02 in chips) 
+Seat 3: M1TR4ND1R ($153.65 in chips) 
+Seat 4: Stacy99 ($360.72 in chips) 
+Seat 5: gusmaa ($331.24 in chips) 
+Seat 6: bumbumpau ($161.20 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+bumbumpau: posts the ante $1
+Stacy99: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6h 8s]
+gusmaa: folds 
+bumbumpau: folds 
+Tiltkorv: folds 
+gaiggibeliin: folds 
+M1TR4ND1R: folds 
+Uncalled bet ($1) returned to Stacy99
+Stacy99 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: M1TR4ND1R folded before Flop (didn't bet)
+Seat 4: Stacy99 (button blind) collected ($6)
+Seat 5: gusmaa folded before Flop (didn't bet)
+Seat 6: bumbumpau folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196135274485:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:47:59 EET [2019/01/23 16:47:59 ET]
+Table 'Griqua' 6-max Seat #5 is the button
+Seat 1: Tiltkorv ($172.75 in chips) 
+Seat 2: gaiggibeliin ($159.02 in chips) 
+Seat 3: M1TR4ND1R ($152.65 in chips) 
+Seat 4: Stacy99 ($365.72 in chips) 
+Seat 5: gusmaa ($330.24 in chips) 
+Seat 6: bumbumpau ($160.20 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+bumbumpau: posts the ante $1
+gusmaa: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qs 9c]
+bumbumpau: folds 
+Tiltkorv: folds 
+gaiggibeliin: folds 
+M1TR4ND1R: folds 
+Stacy99: raises $5 to $6
+gusmaa: raises $14 to $20
+Stacy99: calls $14
+*** FLOP *** [8h 7d Ks]
+Stacy99: checks 
+gusmaa: bets $15
+Stacy99: folds 
+Uncalled bet ($15) returned to gusmaa
+gusmaa collected $43.70 from pot
+gusmaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $46 | Rake $2.30 
+Board [8h 7d Ks]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: M1TR4ND1R folded before Flop (didn't bet)
+Seat 4: Stacy99 folded on the Flop
+Seat 5: gusmaa (button blind) collected ($43.70)
+Seat 6: bumbumpau folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196135308598:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:48:42 EET [2019/01/23 16:48:42 ET]
+Table 'Griqua' 6-max Seat #6 is the button
+Seat 1: Tiltkorv ($171.75 in chips) 
+Seat 2: gaiggibeliin ($158.02 in chips) 
+Seat 3: M1TR4ND1R ($151.65 in chips) 
+Seat 4: Stacy99 ($344.72 in chips) 
+Seat 5: gusmaa ($352.94 in chips) 
+Seat 6: bumbumpau ($159.20 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+bumbumpau: posts the ante $1
+bumbumpau: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6h 7d]
+Tiltkorv: calls $1
+gaiggibeliin: folds 
+M1TR4ND1R: folds 
+Stacy99: raises $9 to $10
+gusmaa: folds 
+bumbumpau: folds 
+Tiltkorv: calls $9
+*** FLOP *** [8c 6c 9c]
+Tiltkorv: checks 
+Stacy99: bets $12.83
+Tiltkorv: folds 
+Uncalled bet ($12.83) returned to Stacy99
+Stacy99 collected $25.65 from pot
+*** SUMMARY ***
+Total pot $27 | Rake $1.35 
+Board [8c 6c 9c]
+Seat 1: Tiltkorv folded on the Flop
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: M1TR4ND1R folded before Flop (didn't bet)
+Seat 4: Stacy99 collected ($25.65)
+Seat 5: gusmaa folded before Flop (didn't bet)
+Seat 6: bumbumpau (button blind) folded before Flop
+
+
+
+PokerStars Hand #196135337538:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:49:18 EET [2019/01/23 16:49:18 ET]
+Table 'Griqua' 6-max Seat #1 is the button
+Seat 1: Tiltkorv ($160.75 in chips) 
+Seat 2: gaiggibeliin ($157.02 in chips) 
+Seat 3: M1TR4ND1R ($150.65 in chips) 
+Seat 4: Stacy99 ($359.37 in chips) 
+Seat 5: gusmaa ($351.94 in chips) 
+Seat 6: bumbumpau ($157.20 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+bumbumpau: posts the ante $1
+Tiltkorv: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7s Jc]
+gaiggibeliin: folds 
+M1TR4ND1R: calls $1
+Stacy99: calls $1
+gusmaa: calls $1
+bumbumpau: folds 
+Tiltkorv: checks 
+*** FLOP *** [Ks Ac Ts]
+M1TR4ND1R: bets $7.03
+Stacy99: calls $7.03
+gusmaa: folds 
+Tiltkorv: folds 
+*** TURN *** [Ks Ac Ts] [6d]
+M1TR4ND1R: bets $16.92
+Stacy99: calls $16.92
+*** RIVER *** [Ks Ac Ts 6d] [Kh]
+M1TR4ND1R: bets $40.81
+Stacy99: folds 
+Uncalled bet ($40.81) returned to M1TR4ND1R
+M1TR4ND1R collected $55.15 from pot
+M1TR4ND1R: doesn't show hand 
+*** SUMMARY ***
+Total pot $57.90 | Rake $2.75 
+Board [Ks Ac Ts 6d Kh]
+Seat 1: Tiltkorv (button blind) folded on the Flop
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: M1TR4ND1R collected ($55.15)
+Seat 4: Stacy99 folded on the River
+Seat 5: gusmaa folded on the Flop
+Seat 6: bumbumpau folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196135393096:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:50:29 EET [2019/01/23 16:50:29 ET]
+Table 'Griqua' 6-max Seat #2 is the button
+Seat 1: Tiltkorv ($158.75 in chips) 
+Seat 2: gaiggibeliin ($156.02 in chips) 
+Seat 3: M1TR4ND1R ($179.85 in chips) 
+Seat 4: Stacy99 ($333.42 in chips) 
+Seat 5: gusmaa ($349.94 in chips) 
+Seat 6: bumbumpau ($156.20 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+bumbumpau: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6c Kh]
+M1TR4ND1R: raises $8 to $9
+Stacy99: folds 
+gusmaa: calls $9
+bumbumpau: calls $9
+Tiltkorv: folds 
+gaiggibeliin: folds 
+*** FLOP *** [9c Th Kc]
+M1TR4ND1R: bets $23.90
+gusmaa: calls $23.90
+bumbumpau: folds 
+*** TURN *** [9c Th Kc] [Ts]
+M1TR4ND1R: checks 
+gusmaa: bets $50
+M1TR4ND1R: raises $95.95 to $145.95 and is all-in
+gusmaa: folds 
+Uncalled bet ($95.95) returned to M1TR4ND1R
+M1TR4ND1R collected $179.05 from pot
+M1TR4ND1R: doesn't show hand 
+*** SUMMARY ***
+Total pot $181.80 | Rake $2.75 
+Board [9c Th Kc Ts]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: gaiggibeliin (button blind) folded before Flop
+Seat 3: M1TR4ND1R collected ($179.05)
+Seat 4: Stacy99 folded before Flop (didn't bet)
+Seat 5: gusmaa folded on the Turn
+Seat 6: bumbumpau folded on the Flop
+
+
+
+PokerStars Hand #196135431408:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:51:17 EET [2019/01/23 16:51:17 ET]
+Table 'Griqua' 6-max Seat #3 is the button
+Seat 1: Tiltkorv ($157.75 in chips) 
+Seat 2: gaiggibeliin ($154.02 in chips) 
+Seat 3: M1TR4ND1R ($275 in chips) 
+Seat 4: Stacy99 ($332.42 in chips) 
+Seat 5: gusmaa ($266.04 in chips) 
+Seat 6: bumbumpau ($146.20 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+bumbumpau: posts the ante $1
+M1TR4ND1R: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qh 8c]
+Stacy99: folds 
+gusmaa: folds 
+bumbumpau: folds 
+Tiltkorv: calls $1
+gaiggibeliin: folds 
+M1TR4ND1R: checks 
+*** FLOP *** [Th 7d Jc]
+Tiltkorv: checks 
+M1TR4ND1R: checks 
+*** TURN *** [Th 7d Jc] [Qs]
+Tiltkorv: checks 
+M1TR4ND1R: checks 
+*** RIVER *** [Th 7d Jc Qs] [Ah]
+Tiltkorv: bets $2
+M1TR4ND1R: folds 
+Uncalled bet ($2) returned to Tiltkorv
+Tiltkorv collected $7.60 from pot
+Tiltkorv: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [Th 7d Jc Qs Ah]
+Seat 1: Tiltkorv collected ($7.60)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: M1TR4ND1R (button blind) folded on the River
+Seat 4: Stacy99 folded before Flop (didn't bet)
+Seat 5: gusmaa folded before Flop (didn't bet)
+Seat 6: bumbumpau folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196135450107:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:51:41 EET [2019/01/23 16:51:41 ET]
+Table 'Griqua' 6-max Seat #4 is the button
+Seat 1: Tiltkorv ($163.35 in chips) 
+Seat 2: gaiggibeliin ($153.02 in chips) 
+Seat 3: M1TR4ND1R ($273 in chips) 
+Seat 4: Stacy99 ($331.42 in chips) 
+Seat 5: gusmaa ($265.04 in chips) 
+Seat 6: bumbumpau ($145.20 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+bumbumpau: posts the ante $1
+Stacy99: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qs Ks]
+gusmaa: raises $5 to $6
+bumbumpau: folds 
+Tiltkorv: calls $6
+gaiggibeliin: calls $6
+M1TR4ND1R: folds 
+Stacy99: calls $5
+*** FLOP *** [Ah 6s Kd]
+gusmaa: checks 
+Tiltkorv: bets $14
+gaiggibeliin: folds 
+Stacy99: folds 
+gusmaa: calls $14
+*** TURN *** [Ah 6s Kd] [8d]
+gusmaa: checks 
+Tiltkorv: checks 
+*** RIVER *** [Ah 6s Kd 8d] [9h]
+gusmaa: checks 
+Tiltkorv: checks 
+*** SHOW DOWN ***
+gusmaa: shows [Jh Qc] (high card Ace)
+Tiltkorv: shows [Qh Ac] (a pair of Aces)
+Tiltkorv collected $55.25 from pot
+*** SUMMARY ***
+Total pot $58 | Rake $2.75 
+Board [Ah 6s Kd 8d 9h]
+Seat 1: Tiltkorv showed [Qh Ac] and won ($55.25) with a pair of Aces
+Seat 2: gaiggibeliin folded on the Flop
+Seat 3: M1TR4ND1R folded before Flop (didn't bet)
+Seat 4: Stacy99 (button blind) folded on the Flop
+Seat 5: gusmaa showed [Jh Qc] and lost with high card Ace
+Seat 6: bumbumpau folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196135494534:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:52:38 EET [2019/01/23 16:52:38 ET]
+Table 'Griqua' 6-max Seat #5 is the button
+Seat 1: Tiltkorv ($197.60 in chips) 
+Seat 2: gaiggibeliin ($146.02 in chips) 
+Seat 3: M1TR4ND1R ($272 in chips) 
+Seat 4: Stacy99 ($324.42 in chips) 
+Seat 5: gusmaa ($244.04 in chips) 
+Seat 6: bumbumpau ($144.20 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+bumbumpau: posts the ante $1
+gusmaa: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7d Ac]
+bumbumpau: folds 
+Tiltkorv: folds 
+gaiggibeliin: folds 
+M1TR4ND1R: folds 
+Stacy99: raises $8 to $9
+gusmaa: raises $18 to $27
+Stacy99: calls $18
+*** FLOP *** [Js 7h Jc]
+Stacy99: checks 
+gusmaa: bets $18
+Stacy99: folds 
+Uncalled bet ($18) returned to gusmaa
+gusmaa collected $57.25 from pot
+gusmaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $60 | Rake $2.75 
+Board [Js 7h Jc]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: M1TR4ND1R folded before Flop (didn't bet)
+Seat 4: Stacy99 folded on the Flop
+Seat 5: gusmaa (button blind) collected ($57.25)
+Seat 6: bumbumpau folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196135533704:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:53:28 EET [2019/01/23 16:53:28 ET]
+Table 'Griqua' 6-max Seat #6 is the button
+Seat 1: Tiltkorv ($196.60 in chips) 
+Seat 2: gaiggibeliin ($145.02 in chips) 
+Seat 3: M1TR4ND1R ($271 in chips) 
+Seat 4: Stacy99 ($296.42 in chips) 
+Seat 5: gusmaa ($273.29 in chips) 
+Seat 6: bumbumpau ($143.20 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+bumbumpau: posts the ante $1
+bumbumpau: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9d 8s]
+Tiltkorv: folds 
+gaiggibeliin: folds 
+M1TR4ND1R: calls $1
+Stacy99: raises $9 to $10
+gusmaa: calls $10
+bumbumpau: folds 
+M1TR4ND1R: calls $9
+*** FLOP *** [8h 7h Ah]
+M1TR4ND1R: checks 
+Stacy99: bets $17.58
+gusmaa: calls $17.58
+M1TR4ND1R: folds 
+*** TURN *** [8h 7h Ah] [As]
+Stacy99: checks 
+gusmaa: bets $56
+Stacy99: folds 
+Uncalled bet ($56) returned to gusmaa
+gusmaa collected $69.41 from pot
+gusmaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $72.16 | Rake $2.75 
+Board [8h 7h Ah As]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: M1TR4ND1R folded on the Flop
+Seat 4: Stacy99 folded on the Turn
+Seat 5: gusmaa collected ($69.41)
+Seat 6: bumbumpau (button blind) folded before Flop
+
+
+
+PokerStars Hand #196135580217:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:54:28 EET [2019/01/23 16:54:28 ET]
+Table 'Griqua' 6-max Seat #1 is the button
+Seat 1: Tiltkorv ($195.60 in chips) 
+Seat 2: gaiggibeliin ($144.02 in chips) 
+Seat 3: M1TR4ND1R ($260 in chips) 
+Seat 4: Stacy99 ($267.84 in chips) 
+Seat 5: gusmaa ($314.12 in chips) 
+Seat 6: bumbumpau ($141.20 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+bumbumpau: posts the ante $1
+Tiltkorv: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8h 8c]
+gaiggibeliin: calls $1
+M1TR4ND1R: calls $1
+Stacy99: calls $1
+gusmaa: calls $1
+bumbumpau: folds 
+Tiltkorv: checks 
+*** FLOP *** [9d Qc Tc]
+gaiggibeliin: checks 
+M1TR4ND1R: checks 
+Stacy99: bets $5.23
+gusmaa: calls $5.23
+Tiltkorv: folds 
+gaiggibeliin: folds 
+M1TR4ND1R: calls $5.23
+*** TURN *** [9d Qc Tc] [Js]
+M1TR4ND1R: checks 
+Stacy99: checks 
+gusmaa: checks 
+*** RIVER *** [9d Qc Tc Js] [Jh]
+M1TR4ND1R: checks 
+Stacy99: checks 
+gusmaa: checks 
+*** SHOW DOWN ***
+M1TR4ND1R: shows [9c Ac] (two pair, Jacks and Nines)
+Stacy99: shows [9h Th] (two pair, Jacks and Tens)
+gusmaa: shows [Ts Qh] (two pair, Queens and Jacks)
+gusmaa collected $25.36 from pot
+*** SUMMARY ***
+Total pot $26.69 | Rake $1.33 
+Board [9d Qc Tc Js Jh]
+Seat 1: Tiltkorv (button blind) folded on the Flop
+Seat 2: gaiggibeliin folded on the Flop
+Seat 3: M1TR4ND1R showed [9c Ac] and lost with two pair, Jacks and Nines
+Seat 4: Stacy99 showed [9h Th] and lost with two pair, Jacks and Tens
+Seat 5: gusmaa showed [Ts Qh] and won ($25.36) with two pair, Queens and Jacks
+Seat 6: bumbumpau folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196135634328:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:55:47 EET [2019/01/23 16:55:47 ET]
+Table 'Griqua' 6-max Seat #2 is the button
+Seat 1: Tiltkorv ($193.60 in chips) 
+Seat 2: gaiggibeliin ($142.02 in chips) 
+Seat 3: M1TR4ND1R ($252.77 in chips) 
+Seat 4: Stacy99 ($260.61 in chips) 
+Seat 5: gusmaa ($332.25 in chips) 
+Seat 6: bumbumpau ($140.20 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+bumbumpau: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8d Td]
+M1TR4ND1R: folds 
+Stacy99: raises $8 to $9
+gusmaa: folds 
+bumbumpau: folds 
+Tiltkorv: raises $25 to $34
+gaiggibeliin: folds 
+Stacy99: raises $225.61 to $259.61 and is all-in
+Tiltkorv: calls $158.60 and is all-in
+Uncalled bet ($67.01) returned to Stacy99
+*** FIRST FLOP *** [7c 6h 7d]
+*** FIRST TURN *** [7c 6h 7d] [Kh]
+*** FIRST RIVER *** [7c 6h 7d Kh] [Ad]
+*** SECOND FLOP *** [7s 8h Jc]
+*** SECOND TURN *** [7s 8h Jc] [Kd]
+*** SECOND RIVER *** [7s 8h Jc Kd] [6s]
+*** FIRST SHOW DOWN ***
+Stacy99: shows [Ks Ac] (two pair, Aces and Kings)
+Tiltkorv: shows [Qc 9c] (a pair of Sevens)
+Stacy99 collected $194.73 from pot
+*** SECOND SHOW DOWN ***
+Stacy99: shows [Ks Ac] (a pair of Kings)
+Tiltkorv: shows [Qc 9c] (high card King)
+Stacy99 collected $194.72 from pot
+*** SUMMARY ***
+Total pot $392.20 | Rake $2.75 
+Hand was run twice
+FIRST Board [7c 6h 7d Kh Ad]
+SECOND Board [7s 8h Jc Kd 6s]
+Seat 1: Tiltkorv showed [Qc 9c] and lost with a pair of Sevens, and lost with high card King
+Seat 2: gaiggibeliin (button blind) folded before Flop
+Seat 3: M1TR4ND1R folded before Flop (didn't bet)
+Seat 4: Stacy99 showed [Ks Ac] and won ($194.73) with two pair, Aces and Kings, and won ($194.72) with a pair of Kings
+Seat 5: gusmaa folded before Flop (didn't bet)
+Seat 6: bumbumpau folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196135655278:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:56:22 EET [2019/01/23 16:56:22 ET]
+Table 'Griqua' 6-max Seat #3 is the button
+Seat 2: gaiggibeliin ($140.02 in chips) 
+Seat 3: M1TR4ND1R ($251.77 in chips) 
+Seat 4: Stacy99 ($456.46 in chips) 
+Seat 5: gusmaa ($331.25 in chips) 
+Seat 6: bumbumpau ($139.20 in chips) 
+gaiggibeliin: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+bumbumpau: posts the ante $1
+M1TR4ND1R: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7c Kd]
+Stacy99: folds 
+gusmaa: raises $5 to $6
+bumbumpau: calls $6
+gaiggibeliin: folds 
+M1TR4ND1R: folds 
+*** FLOP *** [8s Tc Jc]
+gusmaa: checks 
+bumbumpau: bets $11
+gusmaa: calls $11
+*** TURN *** [8s Tc Jc] [8h]
+gusmaa: checks 
+bumbumpau: bets $26
+gusmaa: calls $26
+*** RIVER *** [8s Tc Jc 8h] [7d]
+gusmaa: checks 
+bumbumpau: checks 
+*** SHOW DOWN ***
+gusmaa: shows [Qs Ah] (a pair of Eights)
+bumbumpau: shows [Jh Qd] (two pair, Jacks and Eights)
+bumbumpau collected $89.25 from pot
+*** SUMMARY ***
+Total pot $92 | Rake $2.75 
+Board [8s Tc Jc 8h 7d]
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: M1TR4ND1R (button blind) folded before Flop
+Seat 4: Stacy99 folded before Flop (didn't bet)
+Seat 5: gusmaa showed [Qs Ah] and lost with a pair of Eights
+Seat 6: bumbumpau showed [Jh Qd] and won ($89.25) with two pair, Jacks and Eights
+
+
+
+PokerStars Hand #196135689103:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:57:18 EET [2019/01/23 16:57:18 ET]
+Table 'Griqua' 6-max Seat #4 is the button
+Seat 1: Tiltkorv ($150 in chips) 
+Seat 2: gaiggibeliin ($150 in chips) 
+Seat 3: M1TR4ND1R ($249.77 in chips) 
+Seat 4: Stacy99 ($455.46 in chips) 
+Seat 5: gusmaa ($287.25 in chips) 
+Seat 6: bumbumpau ($184.45 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+bumbumpau: posts the ante $1
+Stacy99: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kc Ac]
+gusmaa: raises $5 to $6
+bumbumpau: calls $6
+Tiltkorv: folds 
+gaiggibeliin: raises $25 to $31
+M1TR4ND1R: folds 
+Stacy99: folds 
+gusmaa: raises $255.25 to $286.25 and is all-in
+bumbumpau: folds 
+gaiggibeliin: calls $118 and is all-in
+Uncalled bet ($137.25) returned to gusmaa
+*** FIRST FLOP *** [9s 7d Jc]
+*** FIRST TURN *** [9s 7d Jc] [8c]
+*** FIRST RIVER *** [9s 7d Jc 8c] [Tc]
+*** SECOND FLOP *** [9d 8s 7c]
+*** SECOND TURN *** [9d 8s 7c] [Ad]
+*** SECOND RIVER *** [9d 8s 7c Ad] [Jh]
+*** FIRST SHOW DOWN ***
+gusmaa: shows [As Qd] (a straight, Eight to Queen)
+gaiggibeliin: shows [Kc Ac] (a flush, Ace high)
+gaiggibeliin collected $154.13 from pot
+*** SECOND SHOW DOWN ***
+gusmaa: shows [As Qd] (a pair of Aces)
+gaiggibeliin: shows [Kc Ac] (a pair of Aces - King kicker)
+gaiggibeliin collected $154.12 from pot
+*** SUMMARY ***
+Total pot $311 | Rake $2.75 
+Hand was run twice
+FIRST Board [9s 7d Jc 8c Tc]
+SECOND Board [9d 8s 7c Ad Jh]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: gaiggibeliin showed [Kc Ac] and won ($154.13) with a flush, Ace high, and won ($154.12) with a pair of Aces
+Seat 3: M1TR4ND1R folded before Flop (didn't bet)
+Seat 4: Stacy99 (button blind) folded before Flop
+Seat 5: gusmaa showed [As Qd] and lost with a straight, Eight to Queen, and lost with a pair of Aces
+Seat 6: bumbumpau folded before Flop
+
+
+
+PokerStars Hand #196135707781:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:57:49 EET [2019/01/23 16:57:49 ET]
+Table 'Griqua' 6-max Seat #5 is the button
+Seat 1: Tiltkorv ($149 in chips) 
+Seat 2: gaiggibeliin ($308.25 in chips) 
+Seat 3: M1TR4ND1R ($248.77 in chips) 
+Seat 4: Stacy99 ($453.46 in chips) 
+Seat 5: gusmaa ($137.25 in chips) 
+Seat 6: bumbumpau ($177.45 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+bumbumpau: posts the ante $1
+gusmaa: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kh Ts]
+bumbumpau: folds 
+Tiltkorv: folds 
+gaiggibeliin: folds 
+M1TR4ND1R: folds 
+Stacy99: raises $8 to $9
+gusmaa: calls $8
+*** FLOP *** [As 7h Th]
+Stacy99: bets $11.40
+gusmaa: calls $11.40
+*** TURN *** [As 7h Th] [Jd]
+Stacy99: checks 
+gusmaa: bets $29
+Stacy99: folds 
+Uncalled bet ($29) returned to gusmaa
+gusmaa collected $44.46 from pot
+gusmaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $46.80 | Rake $2.34 
+Board [As 7h Th Jd]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: M1TR4ND1R folded before Flop (didn't bet)
+Seat 4: Stacy99 folded on the Turn
+Seat 5: gusmaa (button blind) collected ($44.46)
+Seat 6: bumbumpau folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196135735229:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:58:35 EET [2019/01/23 16:58:35 ET]
+Table 'Griqua' 6-max Seat #6 is the button
+Seat 1: Tiltkorv ($148 in chips) 
+Seat 2: gaiggibeliin ($307.25 in chips) 
+Seat 3: M1TR4ND1R ($247.77 in chips) 
+Seat 4: Stacy99 ($432.06 in chips) 
+Seat 5: gusmaa ($160.31 in chips) 
+Seat 6: bumbumpau ($176.45 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+bumbumpau: posts the ante $1
+bumbumpau: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kh Js]
+Tiltkorv: calls $1
+gaiggibeliin: calls $1
+M1TR4ND1R: raises $13 to $14
+Stacy99: calls $14
+gusmaa: folds 
+bumbumpau: folds 
+Tiltkorv: raises $133 to $147 and is all-in
+gaiggibeliin: folds 
+M1TR4ND1R: raises $99.77 to $246.77 and is all-in
+Stacy99: folds 
+Uncalled bet ($99.77) returned to M1TR4ND1R
+*** FLOP *** [8c 9s 9d]
+*** TURN *** [8c 9s 9d] [Ts]
+*** RIVER *** [8c 9s 9d Ts] [Ks]
+*** SHOW DOWN ***
+Tiltkorv: shows [Qc Qs] (two pair, Queens and Nines)
+M1TR4ND1R: shows [As Qh] (a pair of Nines)
+Tiltkorv collected $313.25 from pot
+*** SUMMARY ***
+Total pot $316 | Rake $2.75 
+Board [8c 9s 9d Ts Ks]
+Seat 1: Tiltkorv showed [Qc Qs] and won ($313.25) with two pair, Queens and Nines
+Seat 2: gaiggibeliin folded before Flop
+Seat 3: M1TR4ND1R showed [As Qh] and lost with a pair of Nines
+Seat 4: Stacy99 folded before Flop
+Seat 5: gusmaa folded before Flop (didn't bet)
+Seat 6: bumbumpau (button blind) folded before Flop
+
+
+
+PokerStars Hand #196135756903:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:59:11 EET [2019/01/23 16:59:11 ET]
+Table 'Griqua' 6-max Seat #1 is the button
+Seat 1: Tiltkorv ($313.25 in chips) 
+Seat 2: gaiggibeliin ($305.25 in chips) 
+Seat 3: M1TR4ND1R ($150 in chips) 
+Seat 4: Stacy99 ($417.06 in chips) 
+Seat 5: gusmaa ($159.31 in chips) 
+Seat 6: bumbumpau ($174.45 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+bumbumpau: posts the ante $1
+Tiltkorv: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8s 7s]
+gaiggibeliin: calls $1
+M1TR4ND1R: folds 
+Stacy99: folds 
+gusmaa: folds 
+bumbumpau: folds 
+Tiltkorv: checks 
+*** FLOP *** [Th 8h Js]
+M1TR4ND1R leaves the table
+gaiggibeliin: checks 
+Tiltkorv: checks 
+*** TURN *** [Th 8h Js] [7d]
+gaiggibeliin: checks 
+Tiltkorv: checks 
+*** RIVER *** [Th 8h Js 7d] [Qd]
+gaiggibeliin: checks 
+Tiltkorv: checks 
+*** SHOW DOWN ***
+gaiggibeliin: shows [8s 7s] (two pair, Eights and Sevens)
+Tiltkorv: mucks hand 
+gaiggibeliin collected $7.60 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [Th 8h Js 7d Qd]
+Seat 1: Tiltkorv (button blind) mucked [6s Ad]
+Seat 2: gaiggibeliin showed [8s 7s] and won ($7.60) with two pair, Eights and Sevens
+Seat 3: M1TR4ND1R folded before Flop (didn't bet)
+Seat 4: Stacy99 folded before Flop (didn't bet)
+Seat 5: gusmaa folded before Flop (didn't bet)
+Seat 6: bumbumpau folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196135785038:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:59:58 EET [2019/01/23 16:59:58 ET]
+Table 'Griqua' 6-max Seat #2 is the button
+Seat 1: Tiltkorv ($311.25 in chips) 
+Seat 2: gaiggibeliin ($310.85 in chips) 
+Seat 4: Stacy99 ($416.06 in chips) 
+Seat 5: gusmaa ($158.31 in chips) 
+Seat 6: bumbumpau ($173.45 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+bumbumpau: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kd Ah]
+Stacy99: folds 
+gusmaa: folds 
+bumbumpau: folds 
+Tiltkorv: folds 
+Uncalled bet ($1) returned to gaiggibeliin
+gaiggibeliin collected $5 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: gaiggibeliin (button blind) collected ($5)
+Seat 4: Stacy99 folded before Flop (didn't bet)
+Seat 5: gusmaa folded before Flop (didn't bet)
+Seat 6: bumbumpau folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196135791754:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:00:08 EET [2019/01/23 17:00:08 ET]
+Table 'Griqua' 6-max Seat #4 is the button
+Seat 1: Tiltkorv ($310.25 in chips) 
+Seat 2: gaiggibeliin ($314.85 in chips) 
+Seat 4: Stacy99 ($415.06 in chips) 
+Seat 5: gusmaa ($157.31 in chips) 
+Seat 6: bumbumpau ($172.45 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+bumbumpau: posts the ante $1
+Stacy99: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6d Qs]
+decardy80 joins the table at seat #3 
+gusmaa: folds 
+bumbumpau: raises $5 to $6
+Tiltkorv: raises $18 to $24
+gaiggibeliin: folds 
+Stacy99: folds 
+bumbumpau: folds 
+Uncalled bet ($18) returned to Tiltkorv
+Tiltkorv collected $18 from pot
+Tiltkorv: doesn't show hand 
+*** SUMMARY ***
+Total pot $18 | Rake $0 
+Seat 1: Tiltkorv collected ($18)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: Stacy99 (button blind) folded before Flop
+Seat 5: gusmaa folded before Flop (didn't bet)
+Seat 6: bumbumpau folded before Flop
+
+
+
+PokerStars Hand #196135836646:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:01:07 EET [2019/01/23 17:01:07 ET]
+Table 'Griqua' 6-max Seat #5 is the button
+Seat 1: Tiltkorv ($321.25 in chips) 
+Seat 2: gaiggibeliin ($313.85 in chips) 
+Seat 3: decardy80 ($150 in chips) 
+Seat 4: Stacy99 ($413.06 in chips) 
+Seat 5: gusmaa ($156.31 in chips) 
+Seat 6: bumbumpau ($165.45 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+decardy80: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+bumbumpau: posts the ante $1
+gusmaa: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jh 6d]
+bumbumpau: raises $5 to $6
+Tiltkorv: folds 
+gaiggibeliin: folds 
+decardy80: folds 
+Stacy99: folds 
+gusmaa: raises $14 to $20
+bumbumpau: calls $14
+*** FLOP *** [8c Ks 8d]
+bumbumpau: checks 
+gusmaa: bets $14
+bumbumpau: calls $14
+*** TURN *** [8c Ks 8d] [Kd]
+bumbumpau: checks 
+gusmaa: bets $42
+bumbumpau: raises $88.45 to $130.45 and is all-in
+gusmaa: folds 
+Uncalled bet ($88.45) returned to bumbumpau
+bumbumpau collected $155.25 from pot
+*** SUMMARY ***
+Total pot $158 | Rake $2.75 
+Board [8c Ks 8d Kd]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: decardy80 folded before Flop (didn't bet)
+Seat 4: Stacy99 folded before Flop (didn't bet)
+Seat 5: gusmaa (button blind) folded on the Turn
+Seat 6: bumbumpau collected ($155.25)
+
+
+
+PokerStars Hand #196136561521:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:17:03 EET [2019/01/23 17:17:03 ET]
+Table 'Griqua' 6-max Seat #3 is the button
+Seat 1: Tiltkorv ($330.15 in chips) 
+Seat 2: gaiggibeliin ($312.85 in chips) 
+Seat 3: decardy80 ($201.95 in chips) 
+Seat 4: Stacy99 ($425.98 in chips) 
+Seat 5: gusmaa ($127.15 in chips) 
+Seat 6: MrBarrett82 ($148.30 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+decardy80: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+MrBarrett82: posts the ante $1
+decardy80: posts button blind $1
+gaiggibeliin: posts big blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6c Kc]
+Stacy99: calls $1
+gusmaa: calls $1
+MrBarrett82: folds 
+Tiltkorv: calls $1
+gaiggibeliin: checks 
+decardy80: checks 
+*** FLOP *** [9s 6s 9d]
+Stacy99: checks 
+gusmaa: checks 
+Tiltkorv: bets $5
+gaiggibeliin: folds 
+decardy80: folds 
+decardy80 leaves the table
+Stacy99: calls $5
+gusmaa: folds 
+*** TURN *** [9s 6s 9d] [Kd]
+Stacy99: checks 
+Tiltkorv: checks 
+*** RIVER *** [9s 6s 9d Kd] [Ts]
+Stacy99: checks 
+Tiltkorv: checks 
+*** SHOW DOWN ***
+Stacy99: shows [Tc Td] (a full house, Tens full of Nines)
+Tiltkorv: mucks hand 
+Stacy99 collected $19.95 from pot
+*** SUMMARY ***
+Total pot $21 | Rake $1.05 
+Board [9s 6s 9d Kd Ts]
+Seat 1: Tiltkorv mucked [8c 8s]
+Seat 2: gaiggibeliin folded on the Flop (didn't bet)
+Seat 3: decardy80 (button blind) folded on the Flop
+Seat 4: Stacy99 showed [Tc Td] and won ($19.95) with a full house, Tens full of Nines
+Seat 5: gusmaa folded on the Flop
+Seat 6: MrBarrett82 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196136625231:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:18:28 EET [2019/01/23 17:18:28 ET]
+Table 'Griqua' 6-max Seat #4 is the button
+Seat 1: Tiltkorv ($323.15 in chips) 
+Seat 2: gaiggibeliin ($310.85 in chips) 
+Seat 4: Stacy99 ($438.93 in chips) 
+Seat 5: gusmaa ($125.15 in chips) 
+Seat 6: MrBarrett82 ($147.30 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+MrBarrett82: posts the ante $1
+Stacy99: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [As Jh]
+gusmaa: raises $5 to $6
+MrBarrett82: folds 
+Tiltkorv: folds 
+gaiggibeliin: folds 
+Stacy99: calls $5
+*** FLOP *** [9s 6h Tc]
+gusmaa: checks 
+Stacy99: bets $8.08
+gusmaa: calls $8.08
+*** TURN *** [9s 6h Tc] [Kc]
+gusmaa: checks 
+Stacy99: checks 
+*** RIVER *** [9s 6h Tc Kc] [7s]
+gusmaa: checks 
+Stacy99: bets $15.75
+Spencediamond joins the table at seat #3 
+gusmaa: folds 
+Uncalled bet ($15.75) returned to Stacy99
+Stacy99 collected $31.50 from pot
+*** SUMMARY ***
+Total pot $33.16 | Rake $1.66 
+Board [9s 6h Tc Kc 7s]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: Stacy99 (button blind) collected ($31.50)
+Seat 5: gusmaa folded on the River
+Seat 6: MrBarrett82 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196136676393:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:19:36 EET [2019/01/23 17:19:36 ET]
+Table 'Griqua' 6-max Seat #5 is the button
+Seat 1: Tiltkorv ($322.15 in chips) 
+Seat 2: gaiggibeliin ($309.85 in chips) 
+Seat 3: Spencediamond ($150 in chips) 
+Seat 4: Stacy99 ($455.35 in chips) 
+Seat 5: gusmaa ($110.07 in chips) 
+Seat 6: MrBarrett82 ($146.30 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+Spencediamond: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+MrBarrett82: posts the ante $1
+gusmaa: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6c Qh]
+MrBarrett82: folds 
+Tiltkorv: folds 
+gaiggibeliin: folds 
+Spencediamond: raises $2 to $3
+Stacy99: folds 
+gusmaa: raises $9 to $12
+Spencediamond: calls $9
+*** FLOP *** [9s 6d 6s]
+Spencediamond: bets $1
+gusmaa: raises $14 to $15
+Spencediamond: calls $14
+*** TURN *** [9s 6d 6s] [Jd]
+Spencediamond: checks 
+gusmaa: bets $38
+Spencediamond: raises $38 to $76
+gusmaa: raises $6.07 to $82.07 and is all-in
+Spencediamond: calls $6.07
+*** RIVER *** [9s 6d 6s Jd] [Ac]
+*** SHOW DOWN ***
+Spencediamond: shows [Jh Qs] (two pair, Jacks and Sixes)
+gusmaa: shows [Kh Kc] (two pair, Kings and Sixes)
+gusmaa collected $221.39 from pot
+*** SUMMARY ***
+Total pot $224.14 | Rake $2.75 
+Board [9s 6d 6s Jd Ac]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: Spencediamond showed [Jh Qs] and lost with two pair, Jacks and Sixes
+Seat 4: Stacy99 folded before Flop (didn't bet)
+Seat 5: gusmaa (button blind) showed [Kh Kc] and won ($221.39) with two pair, Kings and Sixes
+Seat 6: MrBarrett82 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196136712643:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:20:25 EET [2019/01/23 17:20:25 ET]
+Table 'Griqua' 6-max Seat #6 is the button
+Seat 1: Tiltkorv ($321.15 in chips) 
+Seat 2: gaiggibeliin ($308.85 in chips) 
+Seat 3: Spencediamond ($39.93 in chips) 
+Seat 4: Stacy99 ($454.35 in chips) 
+Seat 5: gusmaa ($221.39 in chips) 
+Seat 6: MrBarrett82 ($145.30 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+Spencediamond: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+MrBarrett82: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9c 7h]
+Tiltkorv: calls $1
+gaiggibeliin: folds 
+Spencediamond: raises $9 to $10
+Stacy99: folds 
+gusmaa: folds 
+MrBarrett82: folds 
+Tiltkorv: calls $9
+*** FLOP *** [Kh 7c Tc]
+Tiltkorv: checks 
+Spencediamond: bets $13
+Tiltkorv: calls $13
+*** TURN *** [Kh 7c Tc] [6c]
+Tiltkorv: bets $25
+Spencediamond: folds 
+Uncalled bet ($25) returned to Tiltkorv
+Tiltkorv collected $50.35 from pot
+Tiltkorv: doesn't show hand 
+*** SUMMARY ***
+Total pot $53 | Rake $2.65 
+Board [Kh 7c Tc 6c]
+Seat 1: Tiltkorv collected ($50.35)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: Spencediamond folded on the Turn
+Seat 4: Stacy99 folded before Flop (didn't bet)
+Seat 5: gusmaa folded before Flop (didn't bet)
+Seat 6: MrBarrett82 (button blind) folded before Flop
+
+
+
+PokerStars Hand #196136747359:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:21:12 EET [2019/01/23 17:21:12 ET]
+Table 'Griqua' 6-max Seat #1 is the button
+Seat 1: Tiltkorv ($347.50 in chips) 
+Seat 2: gaiggibeliin ($307.85 in chips) 
+Seat 3: Spencediamond ($15.93 in chips) 
+Seat 4: Stacy99 ($453.35 in chips) 
+Seat 5: gusmaa ($220.39 in chips) 
+Seat 6: MrBarrett82 ($143.30 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+Spencediamond: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+MrBarrett82: posts the ante $1
+Tiltkorv: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8s As]
+gaiggibeliin: calls $1
+Spencediamond: raises $13.93 to $14.93 and is all-in
+Stacy99: folds 
+gusmaa: folds 
+MrBarrett82: folds 
+Tiltkorv: calls $13.93
+gaiggibeliin: calls $13.93
+*** FLOP *** [Td 6s 6d]
+gaiggibeliin: checks 
+Tiltkorv: bets $24
+gaiggibeliin: folds 
+Uncalled bet ($24) returned to Tiltkorv
+*** TURN *** [Td 6s 6d] [Kc]
+*** RIVER *** [Td 6s 6d Kc] [7c]
+*** SHOW DOWN ***
+Spencediamond: shows [9c Ah] (a pair of Sixes)
+Tiltkorv: shows [Ks Kh] (a full house, Kings full of Sixes)
+Tiltkorv collected $48.25 from pot
+*** SUMMARY ***
+Total pot $50.79 | Rake $2.54 
+Board [Td 6s 6d Kc 7c]
+Seat 1: Tiltkorv (button blind) showed [Ks Kh] and won ($48.25) with a full house, Kings full of Sixes
+Seat 2: gaiggibeliin folded on the Flop
+Seat 3: Spencediamond showed [9c Ah] and lost with a pair of Sixes
+Seat 4: Stacy99 folded before Flop (didn't bet)
+Seat 5: gusmaa folded before Flop (didn't bet)
+Seat 6: MrBarrett82 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196136776054:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:21:51 EET [2019/01/23 17:21:51 ET]
+Table 'Griqua' 6-max Seat #2 is the button
+Seat 1: Tiltkorv ($379.82 in chips) 
+Seat 2: gaiggibeliin ($291.92 in chips) 
+Seat 4: Stacy99 ($452.35 in chips) 
+Seat 5: gusmaa ($219.39 in chips) 
+Seat 6: MrBarrett82 ($142.30 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8d 8h]
+Spencediamond leaves the table
+Stacy99: folds 
+gusmaa: raises $5 to $6
+MrBarrett82: folds 
+Tiltkorv: folds 
+gaiggibeliin: calls $5
+*** FLOP *** [9c Qh 6c]
+gusmaa: bets $12
+gaiggibeliin: folds 
+Uncalled bet ($12) returned to gusmaa
+gusmaa collected $16.15 from pot
+gusmaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $17 | Rake $0.85 
+Board [9c Qh 6c]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: gaiggibeliin (button blind) folded on the Flop
+Seat 4: Stacy99 folded before Flop (didn't bet)
+Seat 5: gusmaa collected ($16.15)
+Seat 6: MrBarrett82 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196136795857:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:22:19 EET [2019/01/23 17:22:19 ET]
+Table 'Griqua' 6-max Seat #4 is the button
+Seat 1: Tiltkorv ($378.82 in chips) 
+Seat 2: gaiggibeliin ($284.92 in chips) 
+Seat 4: Stacy99 ($451.35 in chips) 
+Seat 5: gusmaa ($228.54 in chips) 
+Seat 6: MrBarrett82 ($141.30 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+MrBarrett82: posts the ante $1
+Stacy99: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ts Qs]
+gusmaa: calls $1
+MrBarrett82: folds 
+Tiltkorv: folds 
+gaiggibeliin: raises $8 to $9
+Stacy99: folds 
+gusmaa: folds 
+Uncalled bet ($8) returned to gaiggibeliin
+gaiggibeliin collected $8 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0 
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: gaiggibeliin collected ($8)
+Seat 4: Stacy99 (button blind) folded before Flop
+Seat 5: gusmaa folded before Flop
+Seat 6: MrBarrett82 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196136819603:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:22:52 EET [2019/01/23 17:22:52 ET]
+Table 'Griqua' 6-max Seat #5 is the button
+Seat 1: Tiltkorv ($377.82 in chips) 
+Seat 2: gaiggibeliin ($290.92 in chips) 
+Seat 4: Stacy99 ($449.35 in chips) 
+Seat 5: gusmaa ($226.54 in chips) 
+Seat 6: MrBarrett82 ($140.30 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+MrBarrett82: posts the ante $1
+gusmaa: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ts 7c]
+MrBarrett82: folds 
+Tiltkorv: folds 
+gaiggibeliin: folds 
+Stacy99: raises $7 to $8
+gusmaa: calls $7
+*** FLOP *** [Jc 9c Td]
+Stacy99: bets $9.98
+gusmaa: raises $28.02 to $38
+Stacy99: calls $28.02
+*** TURN *** [Jc 9c Td] [7s]
+Stacy99: checks 
+gusmaa: bets $75
+Stacy99: folds 
+Uncalled bet ($75) returned to gusmaa
+gusmaa collected $94.25 from pot
+gusmaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $97 | Rake $2.75 
+Board [Jc 9c Td 7s]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: Stacy99 folded on the Turn
+Seat 5: gusmaa (button blind) collected ($94.25)
+Seat 6: MrBarrett82 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196136853477:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:23:38 EET [2019/01/23 17:23:38 ET]
+Table 'Griqua' 6-max Seat #6 is the button
+Seat 1: Tiltkorv ($376.82 in chips) 
+Seat 2: gaiggibeliin ($289.92 in chips) 
+Seat 4: Stacy99 ($402.35 in chips) 
+Seat 5: gusmaa ($273.79 in chips) 
+Seat 6: MrBarrett82 ($139.30 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+MrBarrett82: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6s Kh]
+Tiltkorv: folds 
+gaiggibeliin: folds 
+Stacy99: folds 
+gusmaa: raises $5 to $6
+MrBarrett82: folds 
+Uncalled bet ($5) returned to gusmaa
+gusmaa collected $7 from pot
+gusmaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $7 | Rake $0 
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: Stacy99 folded before Flop (didn't bet)
+Seat 5: gusmaa collected ($7)
+Seat 6: MrBarrett82 (button blind) folded before Flop
+
+
+
+PokerStars Hand #196136864628:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:23:53 EET [2019/01/23 17:23:53 ET]
+Table 'Griqua' 6-max Seat #1 is the button
+Seat 1: Tiltkorv ($375.82 in chips) 
+Seat 2: gaiggibeliin ($288.92 in chips) 
+Seat 4: Stacy99 ($401.35 in chips) 
+Seat 5: gusmaa ($278.79 in chips) 
+Seat 6: MrBarrett82 ($137.30 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+MrBarrett82: posts the ante $1
+Tiltkorv: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jc Ah]
+gaiggibeliin: calls $1
+Stacy99: folds 
+gusmaa: folds 
+MrBarrett82: calls $1
+Tiltkorv: checks 
+*** FLOP *** [7s 9c 8c]
+gaiggibeliin: checks 
+MrBarrett82: bets $6
+Tiltkorv: raises $20 to $26
+gaiggibeliin: folds 
+MrBarrett82: raises $109.30 to $135.30 and is all-in
+Tiltkorv: folds 
+Uncalled bet ($109.30) returned to MrBarrett82
+MrBarrett82 collected $57.25 from pot
+MrBarrett82: doesn't show hand 
+*** SUMMARY ***
+Total pot $60 | Rake $2.75 
+Board [7s 9c 8c]
+Seat 1: Tiltkorv (button blind) folded on the Flop
+Seat 2: gaiggibeliin folded on the Flop
+Seat 4: Stacy99 folded before Flop (didn't bet)
+Seat 5: gusmaa folded before Flop (didn't bet)
+Seat 6: MrBarrett82 collected ($57.25)
+
+
+
+PokerStars Hand #196136932617:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:25:26 EET [2019/01/23 17:25:26 ET]
+Table 'Griqua' 6-max Seat #2 is the button
+Seat 1: Tiltkorv ($347.82 in chips) 
+Seat 2: gaiggibeliin ($286.92 in chips) 
+Seat 4: Stacy99 ($400.35 in chips) 
+Seat 5: gusmaa ($277.79 in chips) 
+Seat 6: MrBarrett82 ($166.55 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ts 6c]
+Stacy99: raises $3 to $4
+gusmaa: folds 
+MrBarrett82: calls $4
+Tiltkorv: calls $4
+gaiggibeliin: calls $3
+*** FLOP *** [Qc Th 7d]
+Stacy99: checks 
+MrBarrett82: checks 
+Tiltkorv: checks 
+gaiggibeliin: checks 
+*** TURN *** [Qc Th 7d] [Ac]
+Stacy99: checks 
+MrBarrett82: checks 
+Tiltkorv: bets $32
+gaiggibeliin: folds 
+Stacy99: folds 
+MrBarrett82: folds 
+Uncalled bet ($32) returned to Tiltkorv
+Tiltkorv collected $19.95 from pot
+Tiltkorv: doesn't show hand 
+*** SUMMARY ***
+Total pot $21 | Rake $1.05 
+Board [Qc Th 7d Ac]
+Seat 1: Tiltkorv collected ($19.95)
+Seat 2: gaiggibeliin (button blind) folded on the Turn
+Seat 4: Stacy99 folded on the Turn
+Seat 5: gusmaa folded before Flop (didn't bet)
+Seat 6: MrBarrett82 folded on the Turn
+
+
+
+PokerStars Hand #196136974251:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:26:22 EET [2019/01/23 17:26:22 ET]
+Table 'Griqua' 6-max Seat #4 is the button
+Seat 1: Tiltkorv ($362.77 in chips) 
+Seat 2: gaiggibeliin ($281.92 in chips) 
+Seat 4: Stacy99 ($395.35 in chips) 
+Seat 5: gusmaa ($276.79 in chips) 
+Seat 6: MrBarrett82 ($161.55 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+MrBarrett82: posts the ante $1
+Stacy99: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ad Jc]
+gusmaa: folds 
+MrBarrett82: calls $1
+Tiltkorv: folds 
+gaiggibeliin: raises $9 to $10
+Stacy99: folds 
+MrBarrett82: calls $9
+*** FLOP *** [8d Ah Ks]
+MrBarrett82: checks 
+gaiggibeliin: bets $12.84
+MrBarrett82: folds 
+Uncalled bet ($12.84) returned to gaiggibeliin
+gaiggibeliin collected $24.70 from pot
+*** SUMMARY ***
+Total pot $26 | Rake $1.30 
+Board [8d Ah Ks]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: gaiggibeliin collected ($24.70)
+Seat 4: Stacy99 (button blind) folded before Flop
+Seat 5: gusmaa folded before Flop (didn't bet)
+Seat 6: MrBarrett82 folded on the Flop
+
+
+
+PokerStars Hand #196137005378:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:27:04 EET [2019/01/23 17:27:04 ET]
+Table 'Griqua' 6-max Seat #5 is the button
+Seat 1: Tiltkorv ($361.77 in chips) 
+Seat 2: gaiggibeliin ($295.62 in chips) 
+Seat 4: Stacy99 ($393.35 in chips) 
+Seat 5: gusmaa ($275.79 in chips) 
+Seat 6: MrBarrett82 ($150.55 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+MrBarrett82: posts the ante $1
+gusmaa: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9s Qc]
+MrBarrett82: folds 
+sjohnny200 joins the table at seat #3 
+Tiltkorv: folds 
+gaiggibeliin: folds 
+Stacy99: raises $7 to $8
+gusmaa: raises $17 to $25
+Stacy99: raises $55 to $80
+gusmaa: folds 
+Uncalled bet ($55) returned to Stacy99
+Stacy99 collected $55 from pot
+*** SUMMARY ***
+Total pot $55 | Rake $0 
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: Stacy99 collected ($55)
+Seat 5: gusmaa (button blind) folded before Flop
+Seat 6: MrBarrett82 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196137028052:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:27:34 EET [2019/01/23 17:27:34 ET]
+Table 'Griqua' 6-max Seat #6 is the button
+Seat 1: Tiltkorv ($360.77 in chips) 
+Seat 2: gaiggibeliin ($294.62 in chips) 
+Seat 3: sjohnny200 ($150 in chips) 
+Seat 4: Stacy99 ($422.35 in chips) 
+Seat 5: gusmaa ($249.79 in chips) 
+Seat 6: MrBarrett82 ($149.55 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+sjohnny200: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+MrBarrett82: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9s Kc]
+Tiltkorv: calls $1
+gaiggibeliin: folds 
+sjohnny200: raises $9 to $10
+Stacy99: folds 
+gusmaa: calls $10
+MrBarrett82: folds 
+Tiltkorv: calls $9
+*** FLOP *** [Th 6c As]
+Tiltkorv: checks 
+sjohnny200: bets $24
+gusmaa: calls $24
+Tiltkorv: folds 
+*** TURN *** [Th 6c As] [Ts]
+sjohnny200: bets $36
+gusmaa: calls $36
+*** RIVER *** [Th 6c As Ts] [Qc]
+sjohnny200: checks 
+gusmaa: bets $178.79 and is all-in
+sjohnny200: folds 
+Uncalled bet ($178.79) returned to gusmaa
+gusmaa collected $154.25 from pot
+gusmaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $157 | Rake $2.75 
+Board [Th 6c As Ts Qc]
+Seat 1: Tiltkorv folded on the Flop
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: sjohnny200 folded on the River
+Seat 4: Stacy99 folded before Flop (didn't bet)
+Seat 5: gusmaa collected ($154.25)
+Seat 6: MrBarrett82 (button blind) folded before Flop
+
+
+
+PokerStars Hand #196137075069:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:28:38 EET [2019/01/23 17:28:38 ET]
+Table 'Griqua' 6-max Seat #1 is the button
+Seat 1: Tiltkorv ($349.77 in chips) 
+Seat 2: gaiggibeliin ($293.62 in chips) 
+Seat 3: sjohnny200 ($79 in chips) 
+Seat 4: Stacy99 ($421.35 in chips) 
+Seat 5: gusmaa ($333.04 in chips) 
+Seat 6: MrBarrett82 ($147.55 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+sjohnny200: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+MrBarrett82: posts the ante $1
+Tiltkorv: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ad Th]
+gaiggibeliin: folds 
+sjohnny200: folds 
+Stacy99: folds 
+gusmaa: raises $5 to $6
+MrBarrett82: calls $6
+Tiltkorv: folds 
+*** FLOP *** [Jh Js Qc]
+gusmaa: checks 
+MrBarrett82: bets $10
+gusmaa: calls $10
+*** TURN *** [Jh Js Qc] [6d]
+gusmaa: checks 
+MrBarrett82: checks 
+*** RIVER *** [Jh Js Qc 6d] [Qs]
+gusmaa: checks 
+MrBarrett82: bets $24
+gusmaa: raises $38 to $62
+MrBarrett82: calls $38
+*** SHOW DOWN ***
+gusmaa: shows [Qd Td] (a full house, Queens full of Jacks)
+MrBarrett82: shows [Qh Ts] (a full house, Queens full of Jacks)
+gusmaa collected $80.13 from pot
+MrBarrett82 collected $80.12 from pot
+*** SUMMARY ***
+Total pot $163 | Rake $2.75 
+Board [Jh Js Qc 6d Qs]
+Seat 1: Tiltkorv (button blind) folded before Flop
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: sjohnny200 folded before Flop (didn't bet)
+Seat 4: Stacy99 folded before Flop (didn't bet)
+Seat 5: gusmaa showed [Qd Td] and won ($80.13) with a full house, Queens full of Jacks
+Seat 6: MrBarrett82 showed [Qh Ts] and won ($80.12) with a full house, Queens full of Jacks
+
+
+
+PokerStars Hand #196137150987:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:30:20 EET [2019/01/23 17:30:20 ET]
+Table 'Griqua' 6-max Seat #2 is the button
+Seat 1: Tiltkorv ($347.77 in chips) 
+Seat 2: gaiggibeliin ($292.62 in chips) 
+Seat 3: sjohnny200 ($149 in chips) 
+Seat 4: Stacy99 ($420.35 in chips) 
+Seat 5: gusmaa ($334.17 in chips) 
+Seat 6: MrBarrett82 ($148.67 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+sjohnny200: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ad 6s]
+sjohnny200: calls $1
+Stacy99: calls $1
+gusmaa: raises $9 to $10
+MrBarrett82: folds 
+Tiltkorv: calls $10
+gaiggibeliin: folds 
+sjohnny200: calls $9
+Stacy99: calls $9
+*** FLOP *** [Ac 7d 7c]
+sjohnny200: checks 
+Stacy99: checks 
+gusmaa: checks 
+Tiltkorv: checks 
+*** TURN *** [Ac 7d 7c] [9d]
+sjohnny200: checks 
+Stacy99: checks 
+gusmaa: bets $48
+Tiltkorv: calls $48
+sjohnny200: folds 
+Stacy99: folds 
+*** RIVER *** [Ac 7d 7c 9d] [As]
+gusmaa: checks 
+Tiltkorv: checks 
+*** SHOW DOWN ***
+gusmaa: shows [Kh Ah] (a full house, Aces full of Sevens)
+Tiltkorv: mucks hand 
+gusmaa collected $140.25 from pot
+*** SUMMARY ***
+Total pot $143 | Rake $2.75 
+Board [Ac 7d 7c 9d As]
+Seat 1: Tiltkorv mucked [9c Tc]
+Seat 2: gaiggibeliin (button blind) folded before Flop
+Seat 3: sjohnny200 folded on the Turn
+Seat 4: Stacy99 folded on the Turn
+Seat 5: gusmaa showed [Kh Ah] and won ($140.25) with a full house, Aces full of Sevens
+Seat 6: MrBarrett82 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196137213901:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:31:45 EET [2019/01/23 17:31:45 ET]
+Table 'Griqua' 6-max Seat #3 is the button
+Seat 1: Tiltkorv ($288.77 in chips) 
+Seat 2: gaiggibeliin ($290.62 in chips) 
+Seat 3: sjohnny200 ($138 in chips) 
+Seat 4: Stacy99 ($409.35 in chips) 
+Seat 5: gusmaa ($415.42 in chips) 
+Seat 6: MrBarrett82 ($147.67 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+sjohnny200: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+MrBarrett82: posts the ante $1
+sjohnny200: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7s Qc]
+Stacy99: folds 
+gusmaa: calls $1
+MrBarrett82: folds 
+Tiltkorv: folds 
+gaiggibeliin: folds 
+sjohnny200: raises $8 to $9
+gusmaa: calls $8
+*** FLOP *** [Qs Kc Kh]
+gusmaa: checks 
+sjohnny200: bets $10
+gusmaa: calls $10
+*** TURN *** [Qs Kc Kh] [Kd]
+gusmaa: checks 
+sjohnny200: bets $23
+gusmaa: calls $23
+*** RIVER *** [Qs Kc Kh Kd] [Jh]
+gusmaa: checks 
+sjohnny200: checks 
+*** SHOW DOWN ***
+gusmaa: shows [Qd Tc] (a full house, Kings full of Queens)
+sjohnny200: mucks hand 
+gusmaa collected $87.25 from pot
+*** SUMMARY ***
+Total pot $90 | Rake $2.75 
+Board [Qs Kc Kh Kd Jh]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: sjohnny200 (button blind) mucked [Jc 7c]
+Seat 4: Stacy99 folded before Flop (didn't bet)
+Seat 5: gusmaa showed [Qd Tc] and won ($87.25) with a full house, Kings full of Queens
+Seat 6: MrBarrett82 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196137250180:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:32:34 EET [2019/01/23 17:32:34 ET]
+Table 'Griqua' 6-max Seat #4 is the button
+Seat 1: Tiltkorv ($287.77 in chips) 
+Seat 2: gaiggibeliin ($289.62 in chips) 
+Seat 3: sjohnny200 ($95 in chips) 
+Seat 4: Stacy99 ($408.35 in chips) 
+Seat 5: gusmaa ($459.67 in chips) 
+Seat 6: MrBarrett82 ($146.67 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+sjohnny200: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+MrBarrett82: posts the ante $1
+Stacy99: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kd Ts]
+gusmaa: folds 
+MrBarrett82: folds 
+Tiltkorv: folds 
+gaiggibeliin: folds 
+sjohnny200: raises $8 to $9
+Stacy99: calls $8
+*** FLOP *** [Qc Jd Td]
+sjohnny200: bets $22.80
+Stacy99: calls $22.80
+*** TURN *** [Qc Jd Td] [Kc]
+sjohnny200: bets $62.20 and is all-in
+Stacy99: folds 
+Uncalled bet ($62.20) returned to sjohnny200
+sjohnny200 collected $66.85 from pot
+sjohnny200: doesn't show hand 
+*** SUMMARY ***
+Total pot $69.60 | Rake $2.75 
+Board [Qc Jd Td Kc]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: sjohnny200 collected ($66.85)
+Seat 4: Stacy99 (button blind) folded on the Turn
+Seat 5: gusmaa folded before Flop (didn't bet)
+Seat 6: MrBarrett82 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196137287019:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:33:23 EET [2019/01/23 17:33:23 ET]
+Table 'Griqua' 6-max Seat #5 is the button
+Seat 1: Tiltkorv ($286.77 in chips) 
+Seat 2: gaiggibeliin ($288.62 in chips) 
+Seat 3: sjohnny200 ($129.05 in chips) 
+Seat 4: Stacy99 ($375.55 in chips) 
+Seat 5: gusmaa ($458.67 in chips) 
+Seat 6: MrBarrett82 ($145.67 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+sjohnny200: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+MrBarrett82: posts the ante $1
+gusmaa: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9d 8s]
+MrBarrett82: calls $1
+Tiltkorv: folds 
+gaiggibeliin: folds 
+sjohnny200: raises $9 to $10
+Stacy99: folds 
+gusmaa: calls $9
+MrBarrett82: raises $134.67 to $144.67 and is all-in
+sjohnny200: calls $118.05 and is all-in
+gusmaa: folds 
+Uncalled bet ($16.62) returned to MrBarrett82
+*** FLOP *** [8d Qs Qd]
+*** TURN *** [8d Qs Qd] [Ks]
+*** RIVER *** [8d Qs Qd Ks] [8h]
+*** SHOW DOWN ***
+MrBarrett82: shows [Kd Kh] (a full house, Kings full of Queens)
+sjohnny200: shows [As Qc] (a full house, Queens full of Eights)
+MrBarrett82 collected $269.35 from pot
+*** SUMMARY ***
+Total pot $272.10 | Rake $2.75 
+Board [8d Qs Qd Ks 8h]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: sjohnny200 showed [As Qc] and lost with a full house, Queens full of Eights
+Seat 4: Stacy99 folded before Flop (didn't bet)
+Seat 5: gusmaa (button blind) folded before Flop
+Seat 6: MrBarrett82 showed [Kd Kh] and won ($269.35) with a full house, Kings full of Queens
+
+
+
+PokerStars Hand #196137322765:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:34:12 EET [2019/01/23 17:34:12 ET]
+Table 'Griqua' 6-max Seat #6 is the button
+Seat 1: Tiltkorv ($285.77 in chips) 
+Seat 2: gaiggibeliin ($287.62 in chips) 
+Seat 4: Stacy99 ($374.55 in chips) 
+Seat 5: gusmaa ($447.67 in chips) 
+Seat 6: MrBarrett82 ($285.97 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+MrBarrett82: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6d Th]
+Tiltkorv: calls $1
+gaiggibeliin: folds 
+Stacy99: raises $8 to $9
+sjohnny200 leaves the table
+gusmaa: folds 
+MrBarrett82: folds 
+Tiltkorv: raises $26 to $35
+Stacy99: raises $61 to $96
+Tiltkorv: calls $61
+*** FLOP *** [Qc 8d Ac]
+Tiltkorv: checks 
+Stacy99: checks 
+*** TURN *** [Qc 8d Ac] [8s]
+Tiltkorv: checks 
+Stacy99: checks 
+*** RIVER *** [Qc 8d Ac 8s] [Kh]
+Tiltkorv: checks 
+Stacy99: bets $97.63
+Tiltkorv: calls $97.63
+*** SHOW DOWN ***
+Stacy99: shows [As Kd] (two pair, Aces and Kings)
+Tiltkorv: shows [Kc Ks] (a full house, Kings full of Eights)
+Tiltkorv collected $390.51 from pot
+*** SUMMARY ***
+Total pot $393.26 | Rake $2.75 
+Board [Qc 8d Ac 8s Kh]
+Seat 1: Tiltkorv showed [Kc Ks] and won ($390.51) with a full house, Kings full of Eights
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: Stacy99 showed [As Kd] and lost with two pair, Aces and Kings
+Seat 5: gusmaa folded before Flop (didn't bet)
+Seat 6: MrBarrett82 (button blind) folded before Flop
+
+
+
+PokerStars Hand #196137401263:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:35:59 EET [2019/01/23 17:35:59 ET]
+Table 'Griqua' 6-max Seat #1 is the button
+Seat 1: Tiltkorv ($481.65 in chips) 
+Seat 2: gaiggibeliin ($286.62 in chips) 
+Seat 4: Stacy99 ($179.92 in chips) 
+Seat 5: gusmaa ($446.67 in chips) 
+Seat 6: MrBarrett82 ($283.97 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+MrBarrett82: posts the ante $1
+Tiltkorv: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jd 9h]
+gaiggibeliin: folds 
+Stacy99: raises $7 to $8
+gusmaa: folds 
+MrBarrett82: folds 
+Tiltkorv: calls $7
+*** FLOP *** [Qc 6c Tc]
+Stacy99: bets $9.98
+Tiltkorv: calls $9.98
+*** TURN *** [Qc 6c Tc] [As]
+Stacy99: checks 
+Tiltkorv: checks 
+*** RIVER *** [Qc 6c Tc As] [Ad]
+Stacy99: checks 
+Tiltkorv: checks 
+*** SHOW DOWN ***
+Stacy99: shows [Qd Kd] (two pair, Aces and Queens)
+Tiltkorv: mucks hand 
+Stacy99 collected $38.91 from pot
+*** SUMMARY ***
+Total pot $40.96 | Rake $2.05 
+Board [Qc 6c Tc As Ad]
+Seat 1: Tiltkorv (button blind) mucked [9s 8d]
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: Stacy99 showed [Qd Kd] and won ($38.91) with two pair, Aces and Queens
+Seat 5: gusmaa folded before Flop (didn't bet)
+Seat 6: MrBarrett82 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196137440947:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:36:52 EET [2019/01/23 17:36:52 ET]
+Table 'Griqua' 6-max Seat #2 is the button
+Seat 1: Tiltkorv ($462.67 in chips) 
+Seat 2: gaiggibeliin ($285.62 in chips) 
+Seat 4: Stacy99 ($199.85 in chips) 
+Seat 5: gusmaa ($445.67 in chips) 
+Seat 6: MrBarrett82 ($282.97 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8c Ks]
+Stacy99: raises $6 to $7
+gusmaa: folds 
+MrBarrett82: calls $7
+Tiltkorv: raises $27 to $34
+gaiggibeliin: folds 
+Stacy99: raises $164.85 to $198.85 and is all-in
+MrBarrett82: folds 
+Tiltkorv: calls $164.85
+*** FIRST FLOP *** [9s Ad 9d]
+*** FIRST TURN *** [9s Ad 9d] [Td]
+*** FIRST RIVER *** [9s Ad 9d Td] [As]
+*** SECOND FLOP *** [6h 7s Qc]
+*** SECOND TURN *** [6h 7s Qc] [Qd]
+*** SECOND RIVER *** [6h 7s Qc Qd] [Kd]
+*** FIRST SHOW DOWN ***
+Stacy99: shows [Ah Kc] (a full house, Aces full of Nines)
+Tiltkorv: shows [Ac Tc] (a full house, Aces full of Tens)
+Tiltkorv collected $203.98 from pot
+*** SECOND SHOW DOWN ***
+Stacy99: shows [Ah Kc] (two pair, Kings and Queens)
+Tiltkorv: shows [Ac Tc] (a pair of Queens)
+Stacy99 collected $203.97 from pot
+*** SUMMARY ***
+Total pot $410.70 | Rake $2.75 
+Hand was run twice
+FIRST Board [9s Ad 9d Td As]
+SECOND Board [6h 7s Qc Qd Kd]
+Seat 1: Tiltkorv showed [Ac Tc] and won ($203.98) with a full house, Aces full of Tens, and lost with a pair of Queens
+Seat 2: gaiggibeliin (button blind) folded before Flop
+Seat 4: Stacy99 showed [Ah Kc] and lost with a full house, Aces full of Nines, and won ($203.97) with two pair, Kings and Queens
+Seat 5: gusmaa folded before Flop (didn't bet)
+Seat 6: MrBarrett82 folded before Flop
+
+
+
+PokerStars Hand #196137471959:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:37:34 EET [2019/01/23 17:37:34 ET]
+Table 'Griqua' 6-max Seat #4 is the button
+Seat 1: Tiltkorv ($466.80 in chips) 
+Seat 2: gaiggibeliin ($283.62 in chips) 
+Seat 4: Stacy99 ($203.97 in chips) 
+Seat 5: gusmaa ($444.67 in chips) 
+Seat 6: MrBarrett82 ($274.97 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+MrBarrett82: posts the ante $1
+Stacy99: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9h Ad]
+gusmaa: calls $1
+MrBarrett82: calls $1
+Tiltkorv: folds 
+gaiggibeliin: folds 
+Stacy99: raises $8 to $9
+gusmaa: calls $8
+MrBarrett82: calls $8
+*** FLOP *** [8h 8s Jc]
+gusmaa: checks 
+MrBarrett82: checks 
+Stacy99: bets $15.20
+gusmaa: raises $39.80 to $55
+MrBarrett82: folds 
+Stacy99: folds 
+Uncalled bet ($39.80) returned to gusmaa
+gusmaa collected $59.65 from pot
+gusmaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $62.40 | Rake $2.75 
+Board [8h 8s Jc]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: Stacy99 (button blind) folded on the Flop
+Seat 5: gusmaa collected ($59.65)
+Seat 6: MrBarrett82 folded on the Flop
+
+
+
+PokerStars Hand #196137519848:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:38:39 EET [2019/01/23 17:38:39 ET]
+Table 'Griqua' 6-max Seat #5 is the button
+Seat 1: Tiltkorv ($465.80 in chips) 
+Seat 2: gaiggibeliin ($282.62 in chips) 
+Seat 4: Stacy99 ($178.77 in chips) 
+Seat 5: gusmaa ($479.12 in chips) 
+Seat 6: MrBarrett82 ($264.97 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+MrBarrett82: posts the ante $1
+gusmaa: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Th Kc]
+MrBarrett82: folds 
+Tiltkorv: folds 
+gaiggibeliin: calls $1
+Stacy99: folds 
+gusmaa: raises $7 to $8
+Stacy99 leaves the table
+gaiggibeliin: calls $7
+*** FLOP *** [6c Jd 8h]
+gaiggibeliin: checks 
+gusmaa: bets $10
+gaiggibeliin: folds 
+Uncalled bet ($10) returned to gusmaa
+gusmaa collected $19.95 from pot
+gusmaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $21 | Rake $1.05 
+Board [6c Jd 8h]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded on the Flop
+Seat 4: Stacy99 folded before Flop (didn't bet)
+Seat 5: gusmaa (button blind) collected ($19.95)
+Seat 6: MrBarrett82 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196137549349:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:39:20 EET [2019/01/23 17:39:20 ET]
+Table 'Griqua' 6-max Seat #6 is the button
+Seat 1: Tiltkorv ($464.80 in chips) 
+Seat 2: gaiggibeliin ($273.62 in chips) 
+Seat 5: gusmaa ($490.07 in chips) 
+Seat 6: MrBarrett82 ($263.97 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+gusmaa: posts the ante $1
+MrBarrett82: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kh 6s]
+Tiltkorv: folds 
+gaiggibeliin: folds 
+gusmaa: raises $5 to $6
+MrBarrett82: folds 
+Uncalled bet ($5) returned to gusmaa
+gusmaa collected $6 from pot
+gusmaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: gusmaa collected ($6)
+Seat 6: MrBarrett82 (button blind) folded before Flop
+
+
+
+PokerStars Hand #196137565746:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:39:43 EET [2019/01/23 17:39:43 ET]
+Table 'Griqua' 6-max Seat #1 is the button
+Seat 1: Tiltkorv ($463.80 in chips) 
+Seat 2: gaiggibeliin ($272.62 in chips) 
+Seat 5: gusmaa ($494.07 in chips) 
+Seat 6: MrBarrett82 ($261.97 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+gusmaa: posts the ante $1
+MrBarrett82: posts the ante $1
+Tiltkorv: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ah Td]
+gaiggibeliin: calls $1
+gusmaa: folds 
+MrBarrett82: folds 
+Tiltkorv: checks 
+*** FLOP *** [Tc 8h 7c]
+gaiggibeliin: checks 
+Tiltkorv: bets $6
+gaiggibeliin: calls $6
+*** TURN *** [Tc 8h 7c] [Kd]
+gaiggibeliin: checks 
+Tiltkorv: bets $27
+gaiggibeliin: calls $27
+*** RIVER *** [Tc 8h 7c Kd] [Ad]
+gaiggibeliin: checks 
+Tiltkorv: bets $63
+gaiggibeliin: calls $63
+*** SHOW DOWN ***
+Tiltkorv: shows [6s Jd] (high card Ace)
+gaiggibeliin: shows [Ah Td] (two pair, Aces and Tens)
+gaiggibeliin collected $196.75 from pot
+*** SUMMARY ***
+Total pot $198 | Rake $1.25 
+Board [Tc 8h 7c Kd Ad]
+Seat 1: Tiltkorv (button blind) showed [6s Jd] and lost with high card Ace
+Seat 2: gaiggibeliin showed [Ah Td] and won ($196.75) with two pair, Aces and Tens
+Seat 5: gusmaa folded before Flop (didn't bet)
+Seat 6: MrBarrett82 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196137623225:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:41:02 EET [2019/01/23 17:41:02 ET]
+Table 'Griqua' 6-max Seat #2 is the button
+Seat 1: Tiltkorv ($365.80 in chips) 
+Seat 2: gaiggibeliin ($371.37 in chips) 
+Seat 5: gusmaa ($493.07 in chips) 
+Seat 6: MrBarrett82 ($260.97 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+gusmaa: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8h 9s]
+gusmaa: raises $5 to $6
+MrBarrett82: calls $6
+Tiltkorv: folds 
+gaiggibeliin: calls $5
+*** FLOP *** [Kh 9c 6s]
+gusmaa: bets $14
+MrBarrett82: folds 
+gaiggibeliin: folds 
+Uncalled bet ($14) returned to gusmaa
+gusmaa collected $20.90 from pot
+gusmaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $22 | Rake $1.10 
+Board [Kh 9c 6s]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: gaiggibeliin (button blind) folded on the Flop
+Seat 5: gusmaa collected ($20.90)
+Seat 6: MrBarrett82 folded on the Flop
+
+
+
+PokerStars Hand #196137667835:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:42:03 EET [2019/01/23 17:42:03 ET]
+Table 'Griqua' 6-max Seat #5 is the button
+Seat 1: Tiltkorv ($364.80 in chips) 
+Seat 2: gaiggibeliin ($364.37 in chips) 
+Seat 5: gusmaa ($506.97 in chips) 
+Seat 6: MrBarrett82 ($253.97 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+gusmaa: posts the ante $1
+MrBarrett82: posts the ante $1
+gusmaa: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jd 9h]
+MrBarrett82: folds 
+Tiltkorv: folds 
+gaiggibeliin: folds 
+Uncalled bet ($1) returned to gusmaa
+gusmaa collected $4 from pot
+gusmaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: gusmaa (button blind) collected ($4)
+Seat 6: MrBarrett82 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196137675761:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:42:14 EET [2019/01/23 17:42:14 ET]
+Table 'Griqua' 6-max Seat #6 is the button
+Seat 1: Tiltkorv ($363.80 in chips) 
+Seat 2: gaiggibeliin ($363.37 in chips) 
+Seat 5: gusmaa ($509.97 in chips) 
+Seat 6: MrBarrett82 ($252.97 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+gusmaa: posts the ante $1
+MrBarrett82: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8c Kc]
+Tiltkorv: calls $1
+gaiggibeliin: folds 
+gusmaa: raises $7 to $8
+MrBarrett82: folds 
+Tiltkorv: raises $25 to $33
+gusmaa: calls $25
+*** FLOP *** [Jh Qh 9h]
+Tiltkorv: checks 
+gusmaa: checks 
+*** TURN *** [Jh Qh 9h] [Qs]
+Tiltkorv: bets $97
+gusmaa: folds 
+Uncalled bet ($97) returned to Tiltkorv
+Tiltkorv collected $69.75 from pot
+Tiltkorv: doesn't show hand 
+*** SUMMARY ***
+Total pot $71 | Rake $1.25 
+Board [Jh Qh 9h Qs]
+Seat 1: Tiltkorv collected ($69.75)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: gusmaa folded on the Turn
+Seat 6: MrBarrett82 (button blind) folded before Flop
+
+
+
+PokerStars Hand #196137713586:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:43:07 EET [2019/01/23 17:43:07 ET]
+Table 'Griqua' 6-max Seat #1 is the button
+Seat 1: Tiltkorv ($399.55 in chips) 
+Seat 2: gaiggibeliin ($362.37 in chips) 
+Seat 5: gusmaa ($475.97 in chips) 
+Seat 6: MrBarrett82 ($250.97 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+gusmaa: posts the ante $1
+MrBarrett82: posts the ante $1
+Tiltkorv: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7h Qc]
+gaiggibeliin: folds 
+gusmaa: raises $5 to $6
+MrBarrett82: folds 
+Tiltkorv: folds 
+Uncalled bet ($5) returned to gusmaa
+gusmaa collected $6 from pot
+gusmaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Tiltkorv (button blind) folded before Flop
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: gusmaa collected ($6)
+Seat 6: MrBarrett82 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196137728094:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:43:27 EET [2019/01/23 17:43:27 ET]
+Table 'Griqua' 6-max Seat #2 is the button
+Seat 1: Tiltkorv ($397.55 in chips) 
+Seat 2: gaiggibeliin ($361.37 in chips) 
+Seat 5: gusmaa ($479.97 in chips) 
+Seat 6: MrBarrett82 ($249.97 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+gusmaa: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7s 7d]
+gusmaa: raises $5 to $6
+MrBarrett82: folds 
+Tiltkorv: folds 
+gaiggibeliin: calls $5
+*** FLOP *** [8h 6s Qh]
+gusmaa: bets $6
+gaiggibeliin: raises $18.22 to $24.22
+gusmaa: folds 
+Uncalled bet ($18.22) returned to gaiggibeliin
+gaiggibeliin collected $26.75 from pot
+*** SUMMARY ***
+Total pot $28 | Rake $1.25 
+Board [8h 6s Qh]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: gaiggibeliin (button blind) collected ($26.75)
+Seat 5: gusmaa folded on the Flop
+Seat 6: MrBarrett82 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196137753682:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:44:03 EET [2019/01/23 17:44:03 ET]
+Table 'Griqua' 6-max Seat #5 is the button
+Seat 1: Tiltkorv ($396.55 in chips) 
+Seat 2: gaiggibeliin ($375.12 in chips) 
+Seat 5: gusmaa ($466.97 in chips) 
+Seat 6: MrBarrett82 ($248.97 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+gusmaa: posts the ante $1
+MrBarrett82: posts the ante $1
+gusmaa: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9d 7c]
+MrBarrett82: calls $1
+Tiltkorv: folds 
+gaiggibeliin: folds 
+gusmaa: checks 
+*** FLOP *** [Js Kd 7h]
+MrBarrett82: bets $4
+gusmaa: folds 
+Uncalled bet ($4) returned to MrBarrett82
+MrBarrett82 collected $5.70 from pot
+MrBarrett82: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Js Kd 7h]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: gusmaa (button blind) folded on the Flop
+Seat 6: MrBarrett82 collected ($5.70)
+
+
+
+PokerStars Hand #196137784177:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:44:46 EET [2019/01/23 17:44:46 ET]
+Table 'Griqua' 6-max Seat #6 is the button
+Seat 1: Tiltkorv ($395.55 in chips) 
+Seat 2: gaiggibeliin ($374.12 in chips) 
+Seat 5: gusmaa ($464.97 in chips) 
+Seat 6: MrBarrett82 ($252.67 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+gusmaa: posts the ante $1
+MrBarrett82: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8d 8s]
+Tiltkorv: folds 
+gaiggibeliin: calls $1
+gusmaa: calls $1
+MrBarrett82: checks 
+*** FLOP *** [6h 8h 8c]
+gaiggibeliin: checks 
+gusmaa: bets $3
+MrBarrett82: folds 
+gaiggibeliin: calls $3
+*** TURN *** [6h 8h 8c] [6s]
+gaiggibeliin: checks 
+gusmaa: bets $8
+gaiggibeliin: calls $8
+*** RIVER *** [6h 8h 8c 6s] [7c]
+gaiggibeliin: checks 
+gusmaa: checks 
+*** SHOW DOWN ***
+gaiggibeliin: shows [8d 8s] (four of a kind, Eights)
+gusmaa: mucks hand 
+gaiggibeliin collected $27.75 from pot
+*** SUMMARY ***
+Total pot $29 | Rake $1.25 
+Board [6h 8h 8c 6s 7c]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: gaiggibeliin showed [8d 8s] and won ($27.75) with four of a kind, Eights
+Seat 5: gusmaa mucked [Jh 9s]
+Seat 6: MrBarrett82 (button blind) folded on the Flop
+
+
+
+PokerStars Hand #196137847723:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:46:14 EET [2019/01/23 17:46:14 ET]
+Table 'Griqua' 6-max Seat #1 is the button
+Seat 1: Tiltkorv ($394.55 in chips) 
+Seat 2: gaiggibeliin ($388.87 in chips) 
+Seat 5: gusmaa ($451.97 in chips) 
+Seat 6: MrBarrett82 ($250.67 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+gusmaa: posts the ante $1
+MrBarrett82: posts the ante $1
+Tiltkorv: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8c Ac]
+gaiggibeliin: calls $1
+gusmaa: calls $1
+MrBarrett82: calls $1
+Tiltkorv: raises $10 to $11
+gaiggibeliin: calls $10
+gusmaa: calls $10
+MrBarrett82: calls $10
+*** FLOP *** [Qh Th Js]
+gaiggibeliin: checks 
+gusmaa: checks 
+MrBarrett82: checks 
+Tiltkorv: bets $23
+gaiggibeliin: folds 
+gusmaa: raises $77 to $100
+MrBarrett82: folds 
+Tiltkorv: calls $77
+*** TURN *** [Qh Th Js] [8s]
+gusmaa: bets $339.97 and is all-in
+Tiltkorv: calls $282.55 and is all-in
+Uncalled bet ($57.42) returned to gusmaa
+*** FIRST RIVER *** [Qh Th Js 8s] [7h]
+*** SECOND RIVER *** [Qh Th Js 8s] [7d]
+*** FIRST SHOW DOWN ***
+gusmaa: shows [Ah 8h] (a flush, Ace high)
+Tiltkorv: shows [Ks Qs] (a pair of Queens)
+gusmaa collected $405.93 from pot
+*** SECOND SHOW DOWN ***
+gusmaa: shows [Ah 8h] (a pair of Eights)
+Tiltkorv: shows [Ks Qs] (a pair of Queens)
+Tiltkorv collected $405.92 from pot
+*** SUMMARY ***
+Total pot $813.10 | Rake $1.25 
+Hand was run twice
+FIRST Board [Qh Th Js 8s 7h]
+SECOND Board [Qh Th Js 8s 7d]
+Seat 1: Tiltkorv (button blind) showed [Ks Qs] and lost with a pair of Queens, and won ($405.92) with a pair of Queens
+Seat 2: gaiggibeliin folded on the Flop
+Seat 5: gusmaa showed [Ah 8h] and won ($405.93) with a flush, Ace high, and lost with a pair of Eights
+Seat 6: MrBarrett82 folded on the Flop
+
+
+
+PokerStars Hand #196137910902:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:47:43 EET [2019/01/23 17:47:43 ET]
+Table 'Griqua' 6-max Seat #2 is the button
+Seat 1: Tiltkorv ($405.92 in chips) 
+Seat 2: gaiggibeliin ($376.87 in chips) 
+Seat 5: gusmaa ($463.35 in chips) 
+Seat 6: MrBarrett82 ($238.67 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+gusmaa: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kd Kh]
+gusmaa: folds 
+MrBarrett82: calls $1
+Tiltkorv: calls $1
+gaiggibeliin: raises $10 to $11
+MrBarrett82: calls $10
+Tiltkorv: calls $10
+*** FLOP *** [Ac Td Qc]
+MrBarrett82: checks 
+Tiltkorv: checks 
+gaiggibeliin: bets $23.95
+MrBarrett82: folds 
+Tiltkorv: calls $23.95
+*** TURN *** [Ac Td Qc] [8c]
+Tiltkorv: checks 
+gaiggibeliin: checks 
+*** RIVER *** [Ac Td Qc 8c] [7h]
+Tiltkorv: bets $28
+gaiggibeliin: folds 
+Uncalled bet ($28) returned to Tiltkorv
+Tiltkorv collected $83.65 from pot
+Tiltkorv: doesn't show hand 
+*** SUMMARY ***
+Total pot $84.90 | Rake $1.25 
+Board [Ac Td Qc 8c 7h]
+Seat 1: Tiltkorv collected ($83.65)
+Seat 2: gaiggibeliin (button blind) folded on the River
+Seat 5: gusmaa folded before Flop (didn't bet)
+Seat 6: MrBarrett82 folded on the Flop
+
+
+
+PokerStars Hand #196137985573:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:49:30 EET [2019/01/23 17:49:30 ET]
+Table 'Griqua' 6-max Seat #5 is the button
+Seat 1: Tiltkorv ($453.62 in chips) 
+Seat 2: gaiggibeliin ($340.92 in chips) 
+Seat 5: gusmaa ($462.35 in chips) 
+Seat 6: MrBarrett82 ($226.67 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+gusmaa: posts the ante $1
+MrBarrett82: posts the ante $1
+gusmaa: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Td Js]
+MrBarrett82: calls $1
+Tiltkorv: folds 
+gaiggibeliin: calls $1
+gusmaa: checks 
+*** FLOP *** [Kc 8h 8s]
+MrBarrett82: checks 
+gaiggibeliin: checks 
+gusmaa: checks 
+*** TURN *** [Kc 8h 8s] [9c]
+MrBarrett82: checks 
+gaiggibeliin: bets $4.46
+gusmaa: folds 
+MrBarrett82: folds 
+Uncalled bet ($4.46) returned to gaiggibeliin
+gaiggibeliin collected $6.65 from pot
+*** SUMMARY ***
+Total pot $7 | Rake $0.35 
+Board [Kc 8h 8s 9c]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: gaiggibeliin collected ($6.65)
+Seat 5: gusmaa (button blind) folded on the Turn
+Seat 6: MrBarrett82 folded on the Turn
+
+
+
+PokerStars Hand #196138015287:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:50:12 EET [2019/01/23 17:50:12 ET]
+Table 'Griqua' 6-max Seat #6 is the button
+Seat 1: Tiltkorv ($452.62 in chips) 
+Seat 2: gaiggibeliin ($345.57 in chips) 
+Seat 5: gusmaa ($460.35 in chips) 
+Seat 6: MrBarrett82 ($224.67 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+gusmaa: posts the ante $1
+MrBarrett82: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qc 6s]
+Tiltkorv: calls $1
+gaiggibeliin: folds 
+gusmaa: folds 
+MrBarrett82: checks 
+*** FLOP *** [Kc 6c 7h]
+Tiltkorv: bets $3
+MrBarrett82: folds 
+Uncalled bet ($3) returned to Tiltkorv
+Tiltkorv collected $5.70 from pot
+Tiltkorv: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Kc 6c 7h]
+Seat 1: Tiltkorv collected ($5.70)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: gusmaa folded before Flop (didn't bet)
+Seat 6: MrBarrett82 (button blind) folded on the Flop
+
+
+
+PokerStars Hand #196138034760:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:50:40 EET [2019/01/23 17:50:40 ET]
+Table 'Griqua' 6-max Seat #1 is the button
+Seat 1: Tiltkorv ($456.32 in chips) 
+Seat 2: gaiggibeliin ($344.57 in chips) 
+Seat 5: gusmaa ($459.35 in chips) 
+Seat 6: MrBarrett82 ($222.67 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+gusmaa: posts the ante $1
+MrBarrett82: posts the ante $1
+Tiltkorv: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kh Qh]
+gaiggibeliin: calls $1
+gusmaa: folds 
+MrBarrett82: calls $1
+Tiltkorv: checks 
+*** FLOP *** [Ah Ad 6h]
+gaiggibeliin: bets $3.46
+MrBarrett82: folds 
+Tiltkorv: folds 
+Uncalled bet ($3.46) returned to gaiggibeliin
+gaiggibeliin collected $6.65 from pot
+*** SUMMARY ***
+Total pot $7 | Rake $0.35 
+Board [Ah Ad 6h]
+Seat 1: Tiltkorv (button blind) folded on the Flop
+Seat 2: gaiggibeliin collected ($6.65)
+Seat 5: gusmaa folded before Flop (didn't bet)
+Seat 6: MrBarrett82 folded on the Flop
+
+
+
+PokerStars Hand #196138057858:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:51:14 EET [2019/01/23 17:51:14 ET]
+Table 'Griqua' 6-max Seat #2 is the button
+Seat 1: Tiltkorv ($454.32 in chips) 
+Seat 2: gaiggibeliin ($349.22 in chips) 
+Seat 5: gusmaa ($458.35 in chips) 
+Seat 6: MrBarrett82 ($220.67 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+gusmaa: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6h Kd]
+gusmaa: calls $1
+MrBarrett82: folds 
+Tiltkorv: folds 
+gaiggibeliin: checks 
+*** FLOP *** [Js 9c Qc]
+gusmaa: bets $4
+gaiggibeliin: folds 
+Uncalled bet ($4) returned to gusmaa
+gusmaa collected $5.70 from pot
+gusmaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Js 9c Qc]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: gaiggibeliin (button blind) folded on the Flop
+Seat 5: gusmaa collected ($5.70)
+Seat 6: MrBarrett82 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196138078712:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:51:44 EET [2019/01/23 17:51:44 ET]
+Table 'Griqua' 6-max Seat #5 is the button
+Seat 1: Tiltkorv ($453.32 in chips) 
+Seat 2: gaiggibeliin ($347.22 in chips) 
+Seat 5: gusmaa ($462.05 in chips) 
+Seat 6: MrBarrett82 ($219.67 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+gusmaa: posts the ante $1
+MrBarrett82: posts the ante $1
+gusmaa: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9c 7h]
+MrBarrett82: folds 
+Tiltkorv: folds 
+gaiggibeliin: folds 
+Uncalled bet ($1) returned to gusmaa
+gusmaa collected $4 from pot
+gusmaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: gusmaa (button blind) collected ($4)
+Seat 6: MrBarrett82 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196138088000:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:51:58 EET [2019/01/23 17:51:58 ET]
+Table 'Griqua' 6-max Seat #6 is the button
+Seat 1: Tiltkorv ($452.32 in chips) 
+Seat 2: gaiggibeliin ($346.22 in chips) 
+Seat 5: gusmaa ($465.05 in chips) 
+Seat 6: MrBarrett82 ($218.67 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+gusmaa: posts the ante $1
+MrBarrett82: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ad Qs]
+Tiltkorv: folds 
+gaiggibeliin: calls $1
+gusmaa: calls $1
+MrBarrett82: checks 
+*** FLOP *** [Th 7s Ac]
+gaiggibeliin: bets $4.99
+gusmaa: folds 
+MrBarrett82: calls $4.99
+*** TURN *** [Th 7s Ac] [6c]
+gaiggibeliin: checks 
+MrBarrett82: bets $18
+gaiggibeliin: folds 
+Uncalled bet ($18) returned to MrBarrett82
+MrBarrett82 collected $16.13 from pot
+MrBarrett82: doesn't show hand 
+*** SUMMARY ***
+Total pot $16.98 | Rake $0.85 
+Board [Th 7s Ac 6c]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded on the Turn
+Seat 5: gusmaa folded on the Flop
+Seat 6: MrBarrett82 (button blind) collected ($16.13)
+
+
+
+PokerStars Hand #196138125072:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:52:52 EET [2019/01/23 17:52:52 ET]
+Table 'Griqua' 6-max Seat #1 is the button
+Seat 1: Tiltkorv ($451.32 in chips) 
+Seat 2: gaiggibeliin ($339.23 in chips) 
+Seat 5: gusmaa ($463.05 in chips) 
+Seat 6: MrBarrett82 ($227.81 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+gusmaa: posts the ante $1
+MrBarrett82: posts the ante $1
+Tiltkorv: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ts 6h]
+gaiggibeliin: folds 
+gusmaa: raises $5 to $6
+MrBarrett82: calls $6
+Tiltkorv: calls $5
+*** FLOP *** [Qh Th 6c]
+gusmaa: checks 
+MrBarrett82: checks 
+Tiltkorv: checks 
+*** TURN *** [Qh Th 6c] [Ac]
+gusmaa: checks 
+MrBarrett82: checks 
+Tiltkorv: checks 
+*** RIVER *** [Qh Th 6c Ac] [9h]
+gusmaa: checks 
+MrBarrett82: checks 
+Tiltkorv: checks 
+*** SHOW DOWN ***
+gusmaa: shows [Ks Qc] (a pair of Queens)
+MrBarrett82: shows [As Tc] (two pair, Aces and Tens)
+Tiltkorv: mucks hand 
+MrBarrett82 collected $20.90 from pot
+*** SUMMARY ***
+Total pot $22 | Rake $1.10 
+Board [Qh Th 6c Ac 9h]
+Seat 1: Tiltkorv (button blind) mucked [9s 6s]
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: gusmaa showed [Ks Qc] and lost with a pair of Queens
+Seat 6: MrBarrett82 showed [As Tc] and won ($20.90) with two pair, Aces and Tens
+
+
+
+PokerStars Hand #196138173638:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:54:04 EET [2019/01/23 17:54:04 ET]
+Table 'Griqua' 6-max Seat #2 is the button
+Seat 1: Tiltkorv ($444.32 in chips) 
+Seat 2: gaiggibeliin ($338.23 in chips) 
+Seat 5: gusmaa ($456.05 in chips) 
+Seat 6: MrBarrett82 ($241.71 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+gusmaa: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Tc 8c]
+gusmaa: folds 
+MrBarrett82: calls $1
+Tiltkorv: calls $1
+gaiggibeliin: raises $12 to $13
+MrBarrett82: folds 
+Tiltkorv: calls $12
+*** FLOP *** [Ts 8s 7d]
+Tiltkorv: bets $30
+gaiggibeliin: calls $30
+*** TURN *** [Ts 8s 7d] [As]
+Tiltkorv: checks 
+sjohnny200 joins the table at seat #3 
+gaiggibeliin: bets $60.13
+Tiltkorv: folds 
+Uncalled bet ($60.13) returned to gaiggibeliin
+gaiggibeliin collected $89.75 from pot
+*** SUMMARY ***
+Total pot $91 | Rake $1.25 
+Board [Ts 8s 7d As]
+Seat 1: Tiltkorv folded on the Turn
+Seat 2: gaiggibeliin (button blind) collected ($89.75)
+Seat 5: gusmaa folded before Flop (didn't bet)
+Seat 6: MrBarrett82 folded before Flop
+
+
+
+PokerStars Hand #196138235349:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:55:41 EET [2019/01/23 17:55:41 ET]
+Table 'Griqua' 6-max Seat #6 is the button
+Seat 1: Tiltkorv ($400.32 in chips) 
+Seat 2: gaiggibeliin ($383.98 in chips) 
+Seat 3: sjohnny200 ($150 in chips) 
+Seat 6: MrBarrett82 ($239.71 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+sjohnny200: posts the ante $1
+MrBarrett82: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8d 7c]
+Tiltkorv: folds 
+gaiggibeliin: folds 
+sjohnny200: raises $6 to $7
+MrBarrett82: folds 
+Uncalled bet ($6) returned to sjohnny200
+sjohnny200 collected $6 from pot
+sjohnny200: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: sjohnny200 collected ($6)
+Seat 6: MrBarrett82 (button blind) folded before Flop
+
+
+
+PokerStars Hand #196138244977:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:55:59 EET [2019/01/23 17:55:59 ET]
+Table 'Griqua' 6-max Seat #1 is the button
+Seat 1: Tiltkorv ($399.32 in chips) 
+Seat 2: gaiggibeliin ($382.98 in chips) 
+Seat 3: sjohnny200 ($154 in chips) 
+Seat 6: MrBarrett82 ($237.71 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+sjohnny200: posts the ante $1
+MrBarrett82: posts the ante $1
+Tiltkorv: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ah Jd]
+gaiggibeliin: calls $1
+sjohnny200: raises $7 to $8
+MrBarrett82: calls $8
+Tiltkorv: calls $7
+gaiggibeliin: calls $7
+*** FLOP *** [Jc Qs 6s]
+gaiggibeliin: checks 
+sjohnny200: checks 
+MrBarrett82: checks 
+Tiltkorv: checks 
+*** TURN *** [Jc Qs 6s] [Kd]
+gaiggibeliin: checks 
+sjohnny200: checks 
+MrBarrett82: checks 
+Tiltkorv: checks 
+*** RIVER *** [Jc Qs 6s Kd] [Kh]
+gaiggibeliin: checks 
+sjohnny200: checks 
+bumbumpau joins the table at seat #4 
+MrBarrett82: checks 
+Tiltkorv: checks 
+*** SHOW DOWN ***
+gaiggibeliin: shows [Ah Jd] (two pair, Kings and Jacks)
+sjohnny200: mucks hand 
+MrBarrett82: mucks hand 
+Tiltkorv: mucks hand 
+gaiggibeliin collected $34.75 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $1.25 
+Board [Jc Qs 6s Kd Kh]
+Seat 1: Tiltkorv (button blind) mucked [8h 8s]
+Seat 2: gaiggibeliin showed [Ah Jd] and won ($34.75) with two pair, Kings and Jacks
+Seat 3: sjohnny200 mucked [7c 7s]
+Seat 6: MrBarrett82 mucked [9d 8d]
+
+
+
+PokerStars Hand #196138297844:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:57:29 EET [2019/01/23 17:57:29 ET]
+Table 'Griqua' 6-max Seat #2 is the button
+Seat 1: Tiltkorv ($390.32 in chips) 
+Seat 2: gaiggibeliin ($408.73 in chips) 
+Seat 3: sjohnny200 ($145 in chips) 
+Seat 4: bumbumpau ($150 in chips) 
+Seat 6: MrBarrett82 ($228.71 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+sjohnny200: posts the ante $1
+bumbumpau: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [As Js]
+sjohnny200: folds 
+bumbumpau: folds 
+MrBarrett82: folds 
+Tiltkorv: calls $1
+gaiggibeliin: raises $11 to $12
+Tiltkorv: raises $29 to $41
+gaiggibeliin: calls $29
+*** FLOP *** [7c Ah Jd]
+Tiltkorv: bets $42
+gaiggibeliin: calls $42
+*** TURN *** [7c Ah Jd] [Td]
+Tiltkorv: checks 
+gaiggibeliin: bets $87.49
+Tiltkorv: folds 
+Uncalled bet ($87.49) returned to gaiggibeliin
+gaiggibeliin collected $168.25 from pot
+*** SUMMARY ***
+Total pot $171 | Rake $2.75 
+Board [7c Ah Jd Td]
+Seat 1: Tiltkorv folded on the Turn
+Seat 2: gaiggibeliin (button blind) collected ($168.25)
+Seat 3: sjohnny200 folded before Flop (didn't bet)
+Seat 4: bumbumpau folded before Flop (didn't bet)
+Seat 6: MrBarrett82 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196138349835:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/24 0:59:03 EET [2019/01/23 17:59:03 ET]
+Table 'Griqua' 6-max Seat #3 is the button
+Seat 1: Tiltkorv ($306.32 in chips) 
+Seat 2: gaiggibeliin ($492.98 in chips) 
+Seat 3: sjohnny200 ($144 in chips) 
+Seat 4: bumbumpau ($149 in chips) 
+Seat 5: gusmaa ($455.05 in chips) 
+Seat 6: MrBarrett82 ($227.71 in chips) 
+Tiltkorv: posts the ante $1
+gaiggibeliin: posts the ante $1
+sjohnny200: posts the ante $1
+bumbumpau: posts the ante $1
+gusmaa: posts the ante $1
+MrBarrett82: posts the ante $1
+sjohnny200: posts button blind $1
+gusmaa: posts big blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ah 7d]
+bumbumpau: folds 
+gusmaa has timed out
+gusmaa: checks 
+MrBarrett82: folds 
+Tiltkorv: folds 
+gaiggibeliin: folds 
+sjohnny200: checks 
+*** FLOP *** [7c Ad 6c]
+gusmaa: checks 
+sjohnny200: checks 
+*** TURN *** [7c Ad 6c] [Th]
+gusmaa: bets $4
+sjohnny200: folds 
+Uncalled bet ($4) returned to gusmaa
+gusmaa collected $7.60 from pot
+gusmaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [7c Ad 6c Th]
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: sjohnny200 (button blind) folded on the Turn
+Seat 4: bumbumpau folded before Flop (didn't bet)
+Seat 5: gusmaa collected ($7.60)
+Seat 6: MrBarrett82 folded before Flop (didn't bet)
+
+
+
