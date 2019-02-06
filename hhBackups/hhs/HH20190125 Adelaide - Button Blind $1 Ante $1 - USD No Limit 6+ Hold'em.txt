@@ -1,0 +1,373 @@
+﻿PokerStars Hand #196214284409:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 23:02:58 EET [2019/01/25 16:02:58 ET]
+Table 'Adelaide' 6-max Seat #1 is the button
+Seat 1: DEDTAWIWASA ($206.41 in chips) 
+Seat 2: SirWatts ($323.35 in chips) 
+Seat 3: MurfDog8 ($141 in chips) 
+Seat 5: Zihuatanejo3 ($115.64 in chips) 
+Seat 6: gaiggibeliin ($150 in chips) 
+DEDTAWIWASA: posts the ante $1
+SirWatts: posts the ante $1
+MurfDog8: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ks 8c]
+SirWatts: folds 
+MurfDog8: folds 
+Zihuatanejo3: raises $4 to $5
+gaiggibeliin: folds 
+DEDTAWIWASA: folds 
+Uncalled bet ($4) returned to Zihuatanejo3
+Zihuatanejo3 collected $7 from pot
+*** SUMMARY ***
+Total pot $7 | Rake $0 
+Seat 1: DEDTAWIWASA (button blind) folded before Flop
+Seat 2: SirWatts folded before Flop (didn't bet)
+Seat 3: MurfDog8 folded before Flop (didn't bet)
+Seat 5: Zihuatanejo3 collected ($7)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196214297913:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 23:03:15 EET [2019/01/25 16:03:15 ET]
+Table 'Adelaide' 6-max Seat #2 is the button
+Seat 1: DEDTAWIWASA ($204.41 in chips) 
+Seat 2: SirWatts ($322.35 in chips) 
+Seat 3: MurfDog8 ($140 in chips) 
+Seat 5: Zihuatanejo3 ($120.64 in chips) 
+Seat 6: gaiggibeliin ($149 in chips) 
+DEDTAWIWASA: posts the ante $1
+SirWatts: posts the ante $1
+MurfDog8: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+SirWatts: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6h Kd]
+MurfDog8: folds 
+MurfDog8 leaves the table
+Zihuatanejo3: calls $1
+gaiggibeliin: folds 
+DEDTAWIWASA: folds 
+SirWatts: checks 
+*** FLOP *** [Td Tc 8h]
+Zihuatanejo3: bets $4.50
+SirWatts: folds 
+Uncalled bet ($4.50) returned to Zihuatanejo3
+Zihuatanejo3 collected $6.65 from pot
+*** SUMMARY ***
+Total pot $7 | Rake $0.35 
+Board [Td Tc 8h]
+Seat 1: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 2: SirWatts (button blind) folded on the Flop
+Seat 3: MurfDog8 folded before Flop (didn't bet)
+Seat 5: Zihuatanejo3 collected ($6.65)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196214332222:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 23:04:00 EET [2019/01/25 16:04:00 ET]
+Table 'Adelaide' 6-max Seat #5 is the button
+Seat 1: DEDTAWIWASA ($203.41 in chips) 
+Seat 2: SirWatts ($320.35 in chips) 
+Seat 5: Zihuatanejo3 ($125.29 in chips) 
+Seat 6: gaiggibeliin ($148 in chips) 
+DEDTAWIWASA: posts the ante $1
+SirWatts: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Zihuatanejo3: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ah Js]
+gaiggibeliin: calls $1
+DEDTAWIWASA: folds 
+SirWatts: calls $1
+Zihuatanejo3: raises $12 to $13
+gaiggibeliin: folds 
+SirWatts: folds 
+Uncalled bet ($12) returned to Zihuatanejo3
+Zihuatanejo3 collected $7 from pot
+*** SUMMARY ***
+Total pot $7 | Rake $0 
+Seat 1: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 2: SirWatts folded before Flop
+Seat 5: Zihuatanejo3 (button blind) collected ($7)
+Seat 6: gaiggibeliin folded before Flop
+
+
+
+PokerStars Hand #196214366102:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 23:04:44 EET [2019/01/25 16:04:44 ET]
+Table 'Adelaide' 6-max Seat #6 is the button
+Seat 1: DEDTAWIWASA ($202.41 in chips) 
+Seat 2: SirWatts ($318.35 in chips) 
+Seat 5: Zihuatanejo3 ($130.29 in chips) 
+Seat 6: gaiggibeliin ($146 in chips) 
+DEDTAWIWASA: posts the ante $1
+SirWatts: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qc 6s]
+DEDTAWIWASA: folds 
+SirWatts: folds 
+Zihuatanejo3: raises $5 to $6
+gaiggibeliin: calls $5
+*** FLOP *** [9d Kd 7c]
+Zihuatanejo3: checks 
+gaiggibeliin: checks 
+*** TURN *** [9d Kd 7c] [6c]
+Zihuatanejo3: bets $13.50
+gaiggibeliin: folds 
+Uncalled bet ($13.50) returned to Zihuatanejo3
+Zihuatanejo3 collected $15.20 from pot
+*** SUMMARY ***
+Total pot $16 | Rake $0.80 
+Board [9d Kd 7c 6c]
+Seat 1: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 2: SirWatts folded before Flop (didn't bet)
+Seat 5: Zihuatanejo3 collected ($15.20)
+Seat 6: gaiggibeliin (button blind) folded on the Turn
+
+
+
+PokerStars Hand #196214400163:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 23:05:27 EET [2019/01/25 16:05:27 ET]
+Table 'Adelaide' 6-max Seat #1 is the button
+Seat 1: DEDTAWIWASA ($201.41 in chips) 
+Seat 2: SirWatts ($317.35 in chips) 
+Seat 5: Zihuatanejo3 ($138.49 in chips) 
+Seat 6: gaiggibeliin ($139 in chips) 
+DEDTAWIWASA: posts the ante $1
+SirWatts: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7s 9d]
+SirWatts: folds 
+Zihuatanejo3: folds 
+gaiggibeliin: folds 
+Uncalled bet ($1) returned to DEDTAWIWASA
+DEDTAWIWASA collected $4 from pot
+DEDTAWIWASA: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 1: DEDTAWIWASA (button blind) collected ($4)
+Seat 2: SirWatts folded before Flop (didn't bet)
+Seat 5: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196214411196:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 23:05:42 EET [2019/01/25 16:05:42 ET]
+Table 'Adelaide' 6-max Seat #2 is the button
+Seat 1: DEDTAWIWASA ($204.41 in chips) 
+Seat 2: SirWatts ($316.35 in chips) 
+Seat 5: Zihuatanejo3 ($137.49 in chips) 
+Seat 6: gaiggibeliin ($138 in chips) 
+DEDTAWIWASA: posts the ante $1
+SirWatts: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+SirWatts: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6h 9d]
+Zihuatanejo3: calls $1
+gaiggibeliin: folds 
+DEDTAWIWASA: raises $8 to $9
+SirWatts: folds 
+Zihuatanejo3: folds 
+Uncalled bet ($8) returned to DEDTAWIWASA
+DEDTAWIWASA collected $7 from pot
+DEDTAWIWASA: doesn't show hand 
+*** SUMMARY ***
+Total pot $7 | Rake $0 
+Seat 1: DEDTAWIWASA collected ($7)
+Seat 2: SirWatts (button blind) folded before Flop
+Seat 5: Zihuatanejo3 folded before Flop
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196214431230:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 23:06:07 EET [2019/01/25 16:06:07 ET]
+Table 'Adelaide' 6-max Seat #5 is the button
+Seat 1: DEDTAWIWASA ($209.41 in chips) 
+Seat 2: SirWatts ($314.35 in chips) 
+Seat 5: Zihuatanejo3 ($135.49 in chips) 
+Seat 6: gaiggibeliin ($137 in chips) 
+DEDTAWIWASA: posts the ante $1
+SirWatts: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Zihuatanejo3: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9s 9c]
+gaiggibeliin: calls $1
+DEDTAWIWASA: calls $1
+SirWatts: folds 
+Zihuatanejo3: checks 
+*** FLOP *** [9d 7c Kh]
+gaiggibeliin: bets $4.46
+DEDTAWIWASA: calls $4.46
+Zihuatanejo3: calls $4.46
+*** TURN *** [9d 7c Kh] [As]
+gaiggibeliin: bets $12.97
+DEDTAWIWASA: calls $12.97
+Zihuatanejo3: folds 
+*** RIVER *** [9d 7c Kh As] [7d]
+gaiggibeliin: checks 
+DEDTAWIWASA: checks 
+*** SHOW DOWN ***
+gaiggibeliin: shows [9s 9c] (a full house, Nines full of Sevens)
+DEDTAWIWASA: mucks hand 
+gaiggibeliin collected $45.07 from pot
+*** SUMMARY ***
+Total pot $46.32 | Rake $1.25 
+Board [9d 7c Kh As 7d]
+Seat 1: DEDTAWIWASA mucked [Jh Tc]
+Seat 2: SirWatts folded before Flop (didn't bet)
+Seat 5: Zihuatanejo3 (button blind) folded on the Turn
+Seat 6: gaiggibeliin showed [9s 9c] and won ($45.07) with a full house, Nines full of Sevens
+
+
+
+PokerStars Hand #196214510440:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 23:07:42 EET [2019/01/25 16:07:42 ET]
+Table 'Adelaide' 6-max Seat #6 is the button
+Seat 1: DEDTAWIWASA ($189.98 in chips) 
+Seat 2: SirWatts ($313.35 in chips) 
+Seat 5: Zihuatanejo3 ($129.03 in chips) 
+Seat 6: gaiggibeliin ($162.64 in chips) 
+DEDTAWIWASA: posts the ante $1
+SirWatts: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6c 8d]
+DEDTAWIWASA: raises $8 to $9
+SirWatts: folds 
+Zihuatanejo3: folds 
+gaiggibeliin: calls $8
+*** FLOP *** [Jh Qh 8c]
+DEDTAWIWASA: checks 
+gaiggibeliin: checks 
+*** TURN *** [Jh Qh 8c] [7h]
+DEDTAWIWASA: checks 
+gaiggibeliin: checks 
+*** RIVER *** [Jh Qh 8c 7h] [Qd]
+DEDTAWIWASA: checks 
+gaiggibeliin: checks 
+*** SHOW DOWN ***
+DEDTAWIWASA: shows [As 9d] (a pair of Queens)
+gaiggibeliin: shows [6c 8d] (two pair, Queens and Eights)
+gaiggibeliin collected $20.90 from pot
+*** SUMMARY ***
+Total pot $22 | Rake $1.10 
+Board [Jh Qh 8c 7h Qd]
+Seat 1: DEDTAWIWASA showed [As 9d] and lost with a pair of Queens
+Seat 2: SirWatts folded before Flop (didn't bet)
+Seat 5: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 6: gaiggibeliin (button blind) showed [6c 8d] and won ($20.90) with two pair, Queens and Eights
+
+
+
+PokerStars Hand #196214541078:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 23:08:22 EET [2019/01/25 16:08:22 ET]
+Table 'Adelaide' 6-max Seat #1 is the button
+Seat 1: DEDTAWIWASA ($179.98 in chips) 
+Seat 2: SirWatts ($312.35 in chips) 
+Seat 5: Zihuatanejo3 ($128.03 in chips) 
+Seat 6: gaiggibeliin ($173.54 in chips) 
+DEDTAWIWASA: posts the ante $1
+SirWatts: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qd Ad]
+SirWatts: calls $1
+Zihuatanejo3: calls $1
+gaiggibeliin: raises $12 to $13
+DEDTAWIWASA: folds 
+SirWatts: folds 
+Zihuatanejo3: folds 
+Uncalled bet ($12) returned to gaiggibeliin
+gaiggibeliin collected $8 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0 
+Seat 1: DEDTAWIWASA (button blind) folded before Flop
+Seat 2: SirWatts folded before Flop
+Seat 5: Zihuatanejo3 folded before Flop
+Seat 6: gaiggibeliin collected ($8)
+
+
+
+PokerStars Hand #196214568872:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 23:08:58 EET [2019/01/25 16:08:58 ET]
+Table 'Adelaide' 6-max Seat #2 is the button
+Seat 1: DEDTAWIWASA ($177.98 in chips) 
+Seat 2: SirWatts ($310.35 in chips) 
+Seat 5: Zihuatanejo3 ($126.03 in chips) 
+Seat 6: gaiggibeliin ($179.54 in chips) 
+DEDTAWIWASA: posts the ante $1
+SirWatts: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+SirWatts: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ad 9h]
+Zihuatanejo3: folds 
+gaiggibeliin: folds 
+DEDTAWIWASA: raises $8 to $9
+SirWatts: raises $21 to $30
+DEDTAWIWASA: folds 
+Uncalled bet ($21) returned to SirWatts
+SirWatts collected $22 from pot
+SirWatts: doesn't show hand 
+*** SUMMARY ***
+Total pot $22 | Rake $0 
+Seat 1: DEDTAWIWASA folded before Flop
+Seat 2: SirWatts (button blind) collected ($22)
+Seat 5: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196214591024:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 23:09:26 EET [2019/01/25 16:09:26 ET]
+Table 'Adelaide' 6-max Seat #5 is the button
+Seat 1: DEDTAWIWASA ($167.98 in chips) 
+Seat 2: SirWatts ($322.35 in chips) 
+Seat 5: Zihuatanejo3 ($125.03 in chips) 
+Seat 6: gaiggibeliin ($178.54 in chips) 
+DEDTAWIWASA: posts the ante $1
+SirWatts: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Zihuatanejo3: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9d Jc]
+gaiggibeliin: calls $1
+DEDTAWIWASA: folds 
+SirWatts: folds 
+Zihuatanejo3: raises $10 to $11
+gaiggibeliin: calls $10
+*** FLOP *** [Ad 7d Ts]
+gaiggibeliin: checks 
+Zihuatanejo3: bets $13.50
+gaiggibeliin: calls $13.50
+*** TURN *** [Ad 7d Ts] [9h]
+gaiggibeliin: checks 
+Zihuatanejo3: bets $38
+gaiggibeliin has timed out
+gaiggibeliin: folds 
+Uncalled bet ($38) returned to Zihuatanejo3
+Zihuatanejo3 collected $51.75 from pot
+*** SUMMARY ***
+Total pot $53 | Rake $1.25 
+Board [Ad 7d Ts 9h]
+Seat 1: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 2: SirWatts folded before Flop (didn't bet)
+Seat 5: Zihuatanejo3 (button blind) collected ($51.75)
+Seat 6: gaiggibeliin folded on the Turn
+
+
+

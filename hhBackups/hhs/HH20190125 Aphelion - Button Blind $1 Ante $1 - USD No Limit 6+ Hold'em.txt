@@ -1,0 +1,1210 @@
+﻿PokerStars Hand #196215632973:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 23:31:32 EET [2019/01/25 16:31:32 ET]
+Table 'Aphelion' 6-max Seat #2 is the button
+Seat 2: DEDTAWIWASA ($150 in chips) 
+Seat 3: sss457 ($468.57 in chips) 
+Seat 4: EvgeniySad ($471.13 in chips) 
+Seat 5: gaiggibeliin ($151.48 in chips) 
+Seat 6: givmimany- ($193.19 in chips) 
+DEDTAWIWASA: posts the ante $1
+sss457: posts the ante $1
+EvgeniySad: posts the ante $1
+gaiggibeliin: posts the ante $1
+givmimany-: posts the ante $1
+DEDTAWIWASA: posts button blind $1
+gaiggibeliin: posts big blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6c 7h]
+sss457: folds 
+EvgeniySad: calls $1
+gaiggibeliin: checks 
+givmimany-: folds 
+DEDTAWIWASA: checks 
+*** FLOP *** [As Ad 9c]
+EvgeniySad: checks 
+gaiggibeliin: checks 
+DEDTAWIWASA: checks 
+*** TURN *** [As Ad 9c] [Qh]
+EvgeniySad: checks 
+gaiggibeliin: checks 
+DEDTAWIWASA: checks 
+*** RIVER *** [As Ad 9c Qh] [Ks]
+EvgeniySad: checks 
+lalala14388 joins the table at seat #1 
+gaiggibeliin: checks 
+DEDTAWIWASA: checks 
+*** SHOW DOWN ***
+EvgeniySad: shows [7c 6d] (a pair of Aces)
+gaiggibeliin: shows [6c 7h] (a pair of Aces)
+DEDTAWIWASA: shows [Ts 6s] (a pair of Aces - King+Queen+Ten kicker)
+DEDTAWIWASA collected $7.60 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [As Ad 9c Qh Ks]
+Seat 2: DEDTAWIWASA (button blind) showed [Ts 6s] and won ($7.60) with a pair of Aces
+Seat 3: sss457 folded before Flop (didn't bet)
+Seat 4: EvgeniySad showed [7c 6d] and lost with a pair of Aces
+Seat 5: gaiggibeliin showed [6c 7h] and lost with a pair of Aces
+Seat 6: givmimany- folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196215707290:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 23:33:07 EET [2019/01/25 16:33:07 ET]
+Table 'Aphelion' 6-max Seat #4 is the button
+Seat 1: lalala14388 ($150 in chips) 
+Seat 4: EvgeniySad ($469.13 in chips) 
+Seat 5: gaiggibeliin ($149.48 in chips) 
+Seat 6: givmimany- ($192.19 in chips) 
+lalala14388: posts the ante $1
+EvgeniySad: posts the ante $1
+gaiggibeliin: posts the ante $1
+givmimany-: posts the ante $1
+EvgeniySad: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qd 8c]
+gaiggibeliin: folds 
+givmimany-: folds 
+lalala14388: calls $1
+EvgeniySad: checks 
+*** FLOP *** [8s Qh As]
+lalala14388: bets $6
+EvgeniySad: raises $6 to $12
+lalala14388: calls $6
+*** TURN *** [8s Qh As] [Ts]
+lalala14388: checks 
+EvgeniySad: bets $4
+lalala14388: calls $4
+*** RIVER *** [8s Qh As Ts] [7h]
+lalala14388: checks 
+EvgeniySad: bets $6
+lalala14388: calls $6
+*** SHOW DOWN ***
+EvgeniySad: shows [Ah 8h] (two pair, Aces and Eights)
+lalala14388: mucks hand 
+EvgeniySad collected $48.75 from pot
+*** SUMMARY ***
+Total pot $50 | Rake $1.25 
+Board [8s Qh As Ts 7h]
+Seat 1: lalala14388 mucked [Jd Ad]
+Seat 4: EvgeniySad (button blind) showed [Ah 8h] and won ($48.75) with two pair, Aces and Eights
+Seat 5: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: givmimany- folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196215747638:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 23:33:58 EET [2019/01/25 16:33:58 ET]
+Table 'Aphelion' 6-max Seat #5 is the button
+Seat 1: lalala14388 ($126 in chips) 
+Seat 4: EvgeniySad ($493.88 in chips) 
+Seat 5: gaiggibeliin ($148.48 in chips) 
+Seat 6: givmimany- ($191.19 in chips) 
+lalala14388: posts the ante $1
+EvgeniySad: posts the ante $1
+gaiggibeliin: posts the ante $1
+givmimany-: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8s Qc]
+givmimany-: raises $6 to $7
+lalala14388: folds 
+EvgeniySad: calls $7
+gaiggibeliin: calls $6
+*** FLOP *** [6c Js 9d]
+givmimany-: checks 
+EvgeniySad: checks 
+gaiggibeliin: checks 
+*** TURN *** [6c Js 9d] [6d]
+givmimany-: bets $35.63
+EvgeniySad: calls $35.63
+gaiggibeliin: folds 
+*** RIVER *** [6c Js 9d 6d] [Ad]
+givmimany-: bets $57.96
+EvgeniySad: calls $57.96
+*** SHOW DOWN ***
+givmimany-: shows [Qd Th] (a pair of Sixes)
+EvgeniySad: shows [Jc Ks] (two pair, Jacks and Sixes)
+EvgeniySad collected $210.93 from pot
+*** SUMMARY ***
+Total pot $212.18 | Rake $1.25 
+Board [6c Js 9d 6d Ad]
+Seat 1: lalala14388 folded before Flop (didn't bet)
+Seat 4: EvgeniySad showed [Jc Ks] and won ($210.93) with two pair, Jacks and Sixes
+Seat 5: gaiggibeliin (button blind) folded on the Turn
+Seat 6: givmimany- showed [Qd Th] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #196215789521:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 23:34:52 EET [2019/01/25 16:34:52 ET]
+Table 'Aphelion' 6-max Seat #6 is the button
+Seat 1: lalala14388 ($125 in chips) 
+Seat 4: EvgeniySad ($603.22 in chips) 
+Seat 5: gaiggibeliin ($140.48 in chips) 
+Seat 6: givmimany- ($89.60 in chips) 
+lalala14388: posts the ante $1
+EvgeniySad: posts the ante $1
+gaiggibeliin: posts the ante $1
+givmimany-: posts the ante $1
+givmimany-: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qh Jc]
+lalala14388: folds 
+EvgeniySad: folds 
+gaiggibeliin: calls $1
+givmimany-: checks 
+*** FLOP *** [Ah Kc Ad]
+gaiggibeliin: bets $1.88
+givmimany-: calls $1.88
+*** TURN *** [Ah Kc Ad] [Qs]
+gaiggibeliin: checks 
+givmimany-: checks 
+*** RIVER *** [Ah Kc Ad Qs] [9d]
+gaiggibeliin: checks 
+givmimany-: checks 
+*** SHOW DOWN ***
+gaiggibeliin: shows [Qh Jc] (two pair, Aces and Queens)
+givmimany-: shows [Ks 8d] (two pair, Aces and Kings)
+givmimany- collected $9.27 from pot
+*** SUMMARY ***
+Total pot $9.76 | Rake $0.49 
+Board [Ah Kc Ad Qs 9d]
+Seat 1: lalala14388 folded before Flop (didn't bet)
+Seat 4: EvgeniySad folded before Flop (didn't bet)
+Seat 5: gaiggibeliin showed [Qh Jc] and lost with two pair, Aces and Queens
+Seat 6: givmimany- (button blind) showed [Ks 8d] and won ($9.27) with two pair, Aces and Kings
+
+
+
+PokerStars Hand #196215811692:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 23:35:20 EET [2019/01/25 16:35:20 ET]
+Table 'Aphelion' 6-max Seat #1 is the button
+Seat 1: lalala14388 ($124 in chips) 
+Seat 4: EvgeniySad ($602.22 in chips) 
+Seat 5: gaiggibeliin ($136.60 in chips) 
+Seat 6: givmimany- ($94.99 in chips) 
+lalala14388: posts the ante $1
+EvgeniySad: posts the ante $1
+gaiggibeliin: posts the ante $1
+givmimany-: posts the ante $1
+lalala14388: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Td 7c]
+EvgeniySad: calls $1
+gaiggibeliin: folds 
+givmimany-: calls $1
+lalala14388: checks 
+*** FLOP *** [8s Qs Kh]
+EvgeniySad: bets $1
+givmimany-: calls $1
+lalala14388: folds 
+*** TURN *** [8s Qs Kh] [6c]
+EvgeniySad: bets $1
+givmimany-: raises $8.86 to $9.86
+EvgeniySad: raises $8.86 to $18.72
+givmimany-: calls $8.86
+*** RIVER *** [8s Qs Kh 6c] [Js]
+EvgeniySad: checks 
+givmimany-: checks 
+*** SHOW DOWN ***
+EvgeniySad: shows [Kd Ah] (a pair of Kings)
+givmimany-: mucks hand 
+EvgeniySad collected $45.19 from pot
+*** SUMMARY ***
+Total pot $46.44 | Rake $1.25 
+Board [8s Qs Kh 6c Js]
+Seat 1: lalala14388 (button blind) folded on the Flop
+Seat 4: EvgeniySad showed [Kd Ah] and won ($45.19) with a pair of Kings
+Seat 5: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: givmimany- mucked [Kc 9h]
+
+
+
+PokerStars Hand #196215845141:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 23:36:03 EET [2019/01/25 16:36:03 ET]
+Table 'Aphelion' 6-max Seat #4 is the button
+Seat 1: lalala14388 ($122 in chips) 
+Seat 4: EvgeniySad ($625.69 in chips) 
+Seat 5: gaiggibeliin ($135.60 in chips) 
+Seat 6: givmimany- ($73.27 in chips) 
+lalala14388: posts the ante $1
+EvgeniySad: posts the ante $1
+gaiggibeliin: posts the ante $1
+givmimany-: posts the ante $1
+EvgeniySad: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kh Ah]
+gaiggibeliin: calls $1
+givmimany-: folds 
+lalala14388: folds 
+EvgeniySad: checks 
+*** FLOP *** [6d Kc 9c]
+gaiggibeliin: bets $3.82
+EvgeniySad: calls $3.82
+*** TURN *** [6d Kc 9c] [Kd]
+gaiggibeliin: bets $8.68
+EvgeniySad: folds 
+Uncalled bet ($8.68) returned to gaiggibeliin
+gaiggibeliin collected $12.96 from pot
+*** SUMMARY ***
+Total pot $13.64 | Rake $0.68 
+Board [6d Kc 9c Kd]
+Seat 1: lalala14388 folded before Flop (didn't bet)
+Seat 4: EvgeniySad (button blind) folded on the Turn
+Seat 5: gaiggibeliin collected ($12.96)
+Seat 6: givmimany- folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196215886610:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 23:36:56 EET [2019/01/25 16:36:56 ET]
+Table 'Aphelion' 6-max Seat #5 is the button
+Seat 1: lalala14388 ($121 in chips) 
+Seat 4: EvgeniySad ($619.87 in chips) 
+Seat 5: gaiggibeliin ($142.74 in chips) 
+Seat 6: givmimany- ($72.27 in chips) 
+lalala14388: posts the ante $1
+EvgeniySad: posts the ante $1
+gaiggibeliin: posts the ante $1
+givmimany-: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9h 7d]
+givmimany-: calls $1
+lalala14388: calls $1
+EvgeniySad: calls $1
+gaiggibeliin: checks 
+*** FLOP *** [8h Jd Kd]
+givmimany-: checks 
+lalala14388: bets $2
+EvgeniySad: calls $2
+gaiggibeliin: calls $2
+givmimany-: calls $2
+*** TURN *** [8h Jd Kd] [Ts]
+givmimany-: checks 
+lalala14388: checks 
+EvgeniySad: checks 
+gaiggibeliin: bets $11.40
+givmimany-: calls $11.40
+lalala14388: calls $11.40
+EvgeniySad: calls $11.40
+*** RIVER *** [8h Jd Kd Ts] [Ks]
+givmimany-: bets $29
+lalala14388: folds 
+EvgeniySad: calls $29
+gaiggibeliin: folds 
+*** SHOW DOWN ***
+givmimany-: shows [Qc Ah] (a straight, Ten to Ace)
+EvgeniySad: mucks hand 
+givmimany- collected $118.35 from pot
+*** SUMMARY ***
+Total pot $119.60 | Rake $1.25 
+Board [8h Jd Kd Ts Ks]
+Seat 1: lalala14388 folded on the River
+Seat 4: EvgeniySad mucked [Js Qd]
+Seat 5: gaiggibeliin (button blind) folded on the River
+Seat 6: givmimany- showed [Qc Ah] and won ($118.35) with a straight, Ten to Ace
+
+
+
+PokerStars Hand #196215937766:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 23:38:02 EET [2019/01/25 16:38:02 ET]
+Table 'Aphelion' 6-max Seat #6 is the button
+Seat 1: lalala14388 ($145.60 in chips) 
+Seat 2: DEDTAWIWASA ($155.60 in chips) 
+Seat 3: sss457 ($467.57 in chips) 
+Seat 4: EvgeniySad ($575.47 in chips) 
+Seat 5: gaiggibeliin ($127.34 in chips) 
+Seat 6: givmimany- ($146.22 in chips) 
+lalala14388: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+sss457: posts the ante $1
+EvgeniySad: posts the ante $1
+gaiggibeliin: posts the ante $1
+givmimany-: posts the ante $1
+givmimany-: posts button blind $1
+DEDTAWIWASA: posts big blind $1
+sss457: posts big blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ad 8h]
+lalala14388: folds 
+DEDTAWIWASA: checks 
+sss457: checks 
+EvgeniySad: calls $1
+gaiggibeliin: folds 
+givmimany-: checks 
+*** FLOP *** [Qc Qs Ts]
+DEDTAWIWASA: checks 
+sss457: checks 
+EvgeniySad: checks 
+givmimany-: checks 
+*** TURN *** [Qc Qs Ts] [Jd]
+DEDTAWIWASA: checks 
+sss457: checks 
+EvgeniySad: checks 
+givmimany-: checks 
+*** RIVER *** [Qc Qs Ts Jd] [8c]
+DEDTAWIWASA: bets $6.94
+sss457: folds 
+EvgeniySad: folds 
+givmimany-: folds 
+Uncalled bet ($6.94) returned to DEDTAWIWASA
+DEDTAWIWASA collected $9.50 from pot
+DEDTAWIWASA: doesn't show hand 
+*** SUMMARY ***
+Total pot $10 | Rake $0.50 
+Board [Qc Qs Ts Jd 8c]
+Seat 1: lalala14388 folded before Flop (didn't bet)
+Seat 2: DEDTAWIWASA collected ($9.50)
+Seat 3: sss457 folded on the River (didn't bet)
+Seat 4: EvgeniySad folded on the River
+Seat 5: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: givmimany- (button blind) folded on the River
+
+
+
+PokerStars Hand #196215996629:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 23:39:17 EET [2019/01/25 16:39:17 ET]
+Table 'Aphelion' 6-max Seat #1 is the button
+Seat 1: lalala14388 ($144.60 in chips) 
+Seat 2: DEDTAWIWASA ($163.10 in chips) 
+Seat 3: sss457 ($465.57 in chips) 
+Seat 4: EvgeniySad ($573.47 in chips) 
+Seat 5: gaiggibeliin ($126.34 in chips) 
+Seat 6: givmimany- ($144.22 in chips) 
+lalala14388: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+sss457: posts the ante $1
+EvgeniySad: posts the ante $1
+gaiggibeliin: posts the ante $1
+givmimany-: posts the ante $1
+lalala14388: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7c 9s]
+DEDTAWIWASA: folds 
+sss457: folds 
+EvgeniySad: calls $1
+gaiggibeliin: folds 
+givmimany-: calls $1
+lalala14388: raises $3 to $4
+EvgeniySad: calls $3
+givmimany-: calls $3
+*** FLOP *** [Kh 7d 6s]
+EvgeniySad: checks 
+givmimany-: checks 
+lalala14388: bets $17
+EvgeniySad: folds 
+givmimany-: calls $17
+*** TURN *** [Kh 7d 6s] [Jh]
+givmimany-: checks 
+lalala14388: bets $49
+givmimany-: folds 
+Uncalled bet ($49) returned to lalala14388
+lalala14388 collected $49.40 from pot
+lalala14388: doesn't show hand 
+*** SUMMARY ***
+Total pot $52 | Rake $2.60 
+Board [Kh 7d 6s Jh]
+Seat 1: lalala14388 (button blind) collected ($49.40)
+Seat 2: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 3: sss457 folded before Flop (didn't bet)
+Seat 4: EvgeniySad folded on the Flop
+Seat 5: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: givmimany- folded on the Turn
+
+
+
+PokerStars Hand #196216040868:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 23:40:14 EET [2019/01/25 16:40:14 ET]
+Table 'Aphelion' 6-max Seat #2 is the button
+Seat 1: lalala14388 ($172 in chips) 
+Seat 2: DEDTAWIWASA ($162.10 in chips) 
+Seat 3: sss457 ($464.57 in chips) 
+Seat 4: EvgeniySad ($568.47 in chips) 
+Seat 5: gaiggibeliin ($125.34 in chips) 
+Seat 6: givmimany- ($122.22 in chips) 
+lalala14388: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+sss457: posts the ante $1
+EvgeniySad: posts the ante $1
+gaiggibeliin: posts the ante $1
+givmimany-: posts the ante $1
+DEDTAWIWASA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qs 6s]
+sss457: folds 
+EvgeniySad: calls $1
+gaiggibeliin: folds 
+givmimany-: calls $1
+lalala14388: calls $1
+DEDTAWIWASA: checks 
+*** FLOP *** [8s Th 7s]
+EvgeniySad: checks 
+givmimany-: bets $3
+lalala14388: calls $3
+DEDTAWIWASA: raises $16 to $19
+EvgeniySad: folds 
+givmimany-: raises $101.22 to $120.22 and is all-in
+lalala14388: folds 
+DEDTAWIWASA: calls $101.22
+*** TURN *** [8s Th 7s] [Kh]
+*** RIVER *** [8s Th 7s Kh] [Js]
+*** SHOW DOWN ***
+givmimany-: shows [Jd 9c] (a straight, Seven to Jack)
+DEDTAWIWASA: shows [Ts Tc] (three of a kind, Tens)
+givmimany- collected $250.69 from pot
+*** SUMMARY ***
+Total pot $253.44 | Rake $2.75 
+Board [8s Th 7s Kh Js]
+Seat 1: lalala14388 folded on the Flop
+Seat 2: DEDTAWIWASA (button blind) showed [Ts Tc] and lost with three of a kind, Tens
+Seat 3: sss457 folded before Flop (didn't bet)
+Seat 4: EvgeniySad folded on the Flop
+Seat 5: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: givmimany- showed [Jd 9c] and won ($250.69) with a straight, Seven to Jack
+
+
+
+PokerStars Hand #196216083618:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 23:41:09 EET [2019/01/25 16:41:09 ET]
+Table 'Aphelion' 6-max Seat #3 is the button
+Seat 1: lalala14388 ($167 in chips) 
+Seat 2: DEDTAWIWASA ($150 in chips) 
+Seat 3: sss457 ($463.57 in chips) 
+Seat 4: EvgeniySad ($566.47 in chips) 
+Seat 5: gaiggibeliin ($124.34 in chips) 
+Seat 6: givmimany- ($250.69 in chips) 
+lalala14388: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+sss457: posts the ante $1
+EvgeniySad: posts the ante $1
+gaiggibeliin: posts the ante $1
+givmimany-: posts the ante $1
+sss457: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9d 6s]
+EvgeniySad: calls $1
+gaiggibeliin: folds 
+givmimany-: calls $1
+lalala14388: calls $1
+DEDTAWIWASA: calls $1
+sss457: checks 
+*** FLOP *** [8d Kd Ad]
+EvgeniySad: checks 
+givmimany-: checks 
+lalala14388: checks 
+DEDTAWIWASA: checks 
+sss457: checks 
+*** TURN *** [8d Kd Ad] [8h]
+EvgeniySad: checks 
+givmimany-: checks 
+lalala14388: bets $1
+DEDTAWIWASA: folds 
+sss457: folds 
+EvgeniySad: raises $1 to $2
+givmimany-: folds 
+lalala14388: calls $1
+*** RIVER *** [8d Kd Ad 8h] [7h]
+EvgeniySad: checks 
+lalala14388: checks 
+*** SHOW DOWN ***
+EvgeniySad: shows [6d As] (two pair, Aces and Eights)
+lalala14388: shows [8s Ts] (three of a kind, Eights)
+lalala14388 collected $14.25 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0.75 
+Board [8d Kd Ad 8h 7h]
+Seat 1: lalala14388 showed [8s Ts] and won ($14.25) with three of a kind, Eights
+Seat 2: DEDTAWIWASA folded on the Turn
+Seat 3: sss457 (button blind) folded on the Turn
+Seat 4: EvgeniySad showed [6d As] and lost with two pair, Aces and Eights
+Seat 5: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: givmimany- folded on the Turn
+
+
+
+PokerStars Hand #196216141329:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 23:42:23 EET [2019/01/25 16:42:23 ET]
+Table 'Aphelion' 6-max Seat #4 is the button
+Seat 1: lalala14388 ($177.25 in chips) 
+Seat 2: DEDTAWIWASA ($150 in chips) 
+Seat 3: sss457 ($461.57 in chips) 
+Seat 4: EvgeniySad ($562.47 in chips) 
+Seat 5: gaiggibeliin ($123.34 in chips) 
+Seat 6: givmimany- ($248.69 in chips) 
+lalala14388: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+sss457: posts the ante $1
+EvgeniySad: posts the ante $1
+gaiggibeliin: posts the ante $1
+givmimany-: posts the ante $1
+EvgeniySad: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7s 9c]
+gaiggibeliin: folds 
+givmimany-: calls $1
+lalala14388: folds 
+DEDTAWIWASA: folds 
+sss457: raises $9 to $10
+EvgeniySad: calls $9
+givmimany-: calls $9
+*** FLOP *** [Ad Jc Kd]
+givmimany-: checks 
+sss457: bets $17.10
+EvgeniySad: folds 
+givmimany-: calls $17.10
+*** TURN *** [Ad Jc Kd] [Qd]
+givmimany-: checks 
+sss457: checks 
+*** RIVER *** [Ad Jc Kd Qd] [Th]
+givmimany-: bets $220.59 and is all-in
+sss457: folds 
+Uncalled bet ($220.59) returned to givmimany-
+givmimany- collected $67.45 from pot
+givmimany-: doesn't show hand 
+*** SUMMARY ***
+Total pot $70.20 | Rake $2.75 
+Board [Ad Jc Kd Qd Th]
+Seat 1: lalala14388 folded before Flop (didn't bet)
+Seat 2: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 3: sss457 folded on the River
+Seat 4: EvgeniySad (button blind) folded on the Flop
+Seat 5: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: givmimany- collected ($67.45)
+
+
+
+PokerStars Hand #196216201506:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 23:43:40 EET [2019/01/25 16:43:40 ET]
+Table 'Aphelion' 6-max Seat #5 is the button
+Seat 1: lalala14388 ($176.25 in chips) 
+Seat 2: DEDTAWIWASA ($150 in chips) 
+Seat 3: sss457 ($433.47 in chips) 
+Seat 4: EvgeniySad ($551.47 in chips) 
+Seat 5: gaiggibeliin ($122.34 in chips) 
+Seat 6: givmimany- ($288.04 in chips) 
+lalala14388: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+sss457: posts the ante $1
+EvgeniySad: posts the ante $1
+gaiggibeliin: posts the ante $1
+givmimany-: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9c 7s]
+givmimany-: raises $2 to $3
+lalala14388: folds 
+DEDTAWIWASA: folds 
+sss457: calls $3
+EvgeniySad: calls $3
+gaiggibeliin: calls $2
+*** FLOP *** [Ah 8s Jh]
+givmimany-: checks 
+sss457: checks 
+EvgeniySad: checks 
+gaiggibeliin: bets $12.83
+givmimany-: calls $12.83
+sss457: folds 
+EvgeniySad: folds 
+*** TURN *** [Ah 8s Jh] [9h]
+givmimany-: checks 
+gaiggibeliin: checks 
+*** RIVER *** [Ah 8s Jh 9h] [7c]
+givmimany-: checks 
+gaiggibeliin: checks 
+*** SHOW DOWN ***
+givmimany-: shows [Ks Kh] (a pair of Kings)
+gaiggibeliin: shows [9c 7s] (two pair, Nines and Sevens)
+gaiggibeliin collected $41.48 from pot
+*** SUMMARY ***
+Total pot $43.66 | Rake $2.18 
+Board [Ah 8s Jh 9h 7c]
+Seat 1: lalala14388 folded before Flop (didn't bet)
+Seat 2: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 3: sss457 folded on the Flop
+Seat 4: EvgeniySad folded on the Flop
+Seat 5: gaiggibeliin (button blind) showed [9c 7s] and won ($41.48) with two pair, Nines and Sevens
+Seat 6: givmimany- showed [Ks Kh] and lost with a pair of Kings
+
+
+
+PokerStars Hand #196216281180:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 23:45:23 EET [2019/01/25 16:45:23 ET]
+Table 'Aphelion' 6-max Seat #6 is the button
+Seat 1: lalala14388 ($175.25 in chips) 
+Seat 2: DEDTAWIWASA ($150 in chips) 
+Seat 3: sss457 ($429.47 in chips) 
+Seat 4: EvgeniySad ($547.47 in chips) 
+Seat 5: gaiggibeliin ($146.99 in chips) 
+Seat 6: givmimany- ($271.21 in chips) 
+lalala14388: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+sss457: posts the ante $1
+EvgeniySad: posts the ante $1
+gaiggibeliin: posts the ante $1
+givmimany-: posts the ante $1
+givmimany-: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Js 8h]
+lalala14388: folds 
+DEDTAWIWASA: folds 
+sss457: raises $5 to $6
+EvgeniySad: calls $6
+gaiggibeliin: folds 
+givmimany-: calls $5
+*** FLOP *** [Kd Qc Kc]
+sss457: checks 
+EvgeniySad: checks 
+givmimany-: checks 
+*** TURN *** [Kd Qc Kc] [Qd]
+sss457: checks 
+EvgeniySad: checks 
+givmimany-: checks 
+*** RIVER *** [Kd Qc Kc Qd] [6h]
+sss457: bets $11.40
+EvgeniySad: calls $11.40
+givmimany-: calls $11.40
+*** SHOW DOWN ***
+sss457: shows [Ks Kh] (four of a kind, Kings)
+EvgeniySad: mucks hand 
+givmimany-: mucks hand 
+sss457 collected $55.45 from pot
+*** SUMMARY ***
+Total pot $58.20 | Rake $2.75 
+Board [Kd Qc Kc Qd 6h]
+Seat 1: lalala14388 folded before Flop (didn't bet)
+Seat 2: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 3: sss457 showed [Ks Kh] and won ($55.45) with four of a kind, Kings
+Seat 4: EvgeniySad mucked [8c Ah]
+Seat 5: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: givmimany- (button blind) mucked [Qs Td]
+
+
+
+PokerStars Hand #196216321623:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 23:46:14 EET [2019/01/25 16:46:14 ET]
+Table 'Aphelion' 6-max Seat #1 is the button
+Seat 1: lalala14388 ($174.25 in chips) 
+Seat 2: DEDTAWIWASA ($150 in chips) 
+Seat 3: sss457 ($466.52 in chips) 
+Seat 4: EvgeniySad ($529.07 in chips) 
+Seat 5: gaiggibeliin ($145.99 in chips) 
+Seat 6: givmimany- ($252.81 in chips) 
+lalala14388: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+sss457: posts the ante $1
+EvgeniySad: posts the ante $1
+gaiggibeliin: posts the ante $1
+givmimany-: posts the ante $1
+lalala14388: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9h 6d]
+DEDTAWIWASA: folds 
+sss457: calls $1
+EvgeniySad: calls $1
+gaiggibeliin: folds 
+givmimany-: raises $10 to $11
+lalala14388: folds 
+sss457 has timed out
+sss457: folds 
+EvgeniySad: calls $10
+*** FLOP *** [Jc 7c As]
+EvgeniySad: checks 
+givmimany-: bets $17.39
+EvgeniySad: calls $17.39
+*** TURN *** [Jc 7c As] [Ah]
+EvgeniySad: checks 
+givmimany-: bets $16.75
+EvgeniySad: calls $16.75
+*** RIVER *** [Jc 7c As Ah] [9s]
+EvgeniySad: bets $24
+givmimany-: calls $24
+*** SHOW DOWN ***
+EvgeniySad: shows [Kc Qs] (a pair of Aces)
+givmimany-: shows [Ts Td] (two pair, Aces and Tens)
+givmimany- collected $143.53 from pot
+*** SUMMARY ***
+Total pot $146.28 | Rake $2.75 
+Board [Jc 7c As Ah 9s]
+Seat 1: lalala14388 (button blind) folded before Flop
+Seat 2: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 3: sss457 folded before Flop
+Seat 4: EvgeniySad showed [Kc Qs] and lost with a pair of Aces
+Seat 5: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: givmimany- showed [Ts Td] and won ($143.53) with two pair, Aces and Tens
+
+
+
+PokerStars Hand #196216391831:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 23:47:32 EET [2019/01/25 16:47:32 ET]
+Table 'Aphelion' 6-max Seat #2 is the button
+Seat 1: lalala14388 ($172.25 in chips) 
+Seat 2: DEDTAWIWASA ($150 in chips) 
+Seat 3: sss457 ($464.52 in chips) 
+Seat 4: EvgeniySad ($458.93 in chips) 
+Seat 5: gaiggibeliin ($144.99 in chips) 
+Seat 6: givmimany- ($326.20 in chips) 
+lalala14388: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+sss457: posts the ante $1
+EvgeniySad: posts the ante $1
+gaiggibeliin: posts the ante $1
+givmimany-: posts the ante $1
+DEDTAWIWASA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7c 6d]
+sss457: folds 
+EvgeniySad: raises $1 to $2
+gaiggibeliin: folds 
+givmimany-: raises $11 to $13
+lalala14388: folds 
+DEDTAWIWASA: folds 
+EvgeniySad: raises $11 to $24
+givmimany-: calls $11
+*** FLOP *** [8c Ks Kd]
+EvgeniySad: checks 
+givmimany-: checks 
+*** TURN *** [8c Ks Kd] [8d]
+EvgeniySad: checks 
+givmimany-: checks 
+*** RIVER *** [8c Ks Kd 8d] [Ac]
+EvgeniySad: bets $29
+givmimany-: calls $29
+*** SHOW DOWN ***
+EvgeniySad: shows [Tc Ts] (two pair, Kings and Tens)
+givmimany-: shows [Jd As] (two pair, Aces and Kings)
+givmimany- collected $110.25 from pot
+*** SUMMARY ***
+Total pot $113 | Rake $2.75 
+Board [8c Ks Kd 8d Ac]
+Seat 1: lalala14388 folded before Flop (didn't bet)
+Seat 2: DEDTAWIWASA (button blind) folded before Flop
+Seat 3: sss457 folded before Flop (didn't bet)
+Seat 4: EvgeniySad showed [Tc Ts] and lost with two pair, Kings and Tens
+Seat 5: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: givmimany- showed [Jd As] and won ($110.25) with two pair, Aces and Kings
+
+
+
+PokerStars Hand #196216430974:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 23:48:21 EET [2019/01/25 16:48:21 ET]
+Table 'Aphelion' 6-max Seat #3 is the button
+Seat 1: lalala14388 ($171.25 in chips) 
+Seat 2: DEDTAWIWASA ($150 in chips) 
+Seat 3: sss457 ($463.52 in chips) 
+Seat 4: EvgeniySad ($404.93 in chips) 
+Seat 5: gaiggibeliin ($143.99 in chips) 
+Seat 6: givmimany- ($382.45 in chips) 
+lalala14388: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+sss457: posts the ante $1
+EvgeniySad: posts the ante $1
+gaiggibeliin: posts the ante $1
+givmimany-: posts the ante $1
+sss457: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Js Th]
+EvgeniySad: calls $1
+gaiggibeliin: calls $1
+givmimany-: calls $1
+lalala14388: folds 
+DEDTAWIWASA: folds 
+sss457: checks 
+*** FLOP *** [Tc As Ad]
+EvgeniySad: bets $1
+gaiggibeliin: raises $3.80 to $4.80
+givmimany-: folds 
+sss457: folds 
+EvgeniySad: raises $3.80 to $8.60
+gaiggibeliin: folds 
+Uncalled bet ($3.80) returned to EvgeniySad
+EvgeniySad collected $18.62 from pot
+EvgeniySad: doesn't show hand 
+*** SUMMARY ***
+Total pot $19.60 | Rake $0.98 
+Board [Tc As Ad]
+Seat 1: lalala14388 folded before Flop (didn't bet)
+Seat 2: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 3: sss457 (button blind) folded on the Flop
+Seat 4: EvgeniySad collected ($18.62)
+Seat 5: gaiggibeliin folded on the Flop
+Seat 6: givmimany- folded on the Flop
+
+
+
+PokerStars Hand #196216484784:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 23:49:29 EET [2019/01/25 16:49:29 ET]
+Table 'Aphelion' 6-max Seat #4 is the button
+Seat 1: lalala14388 ($170.25 in chips) 
+Seat 2: DEDTAWIWASA ($150 in chips) 
+Seat 3: sss457 ($461.52 in chips) 
+Seat 4: EvgeniySad ($416.75 in chips) 
+Seat 5: gaiggibeliin ($137.19 in chips) 
+Seat 6: givmimany- ($380.45 in chips) 
+lalala14388: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+sss457: posts the ante $1
+EvgeniySad: posts the ante $1
+gaiggibeliin: posts the ante $1
+givmimany-: posts the ante $1
+EvgeniySad: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6d Js]
+gaiggibeliin: folds 
+givmimany-: calls $1
+lalala14388: folds 
+DEDTAWIWASA: raises $9 to $10
+sss457: calls $10
+EvgeniySad: folds 
+givmimany-: calls $9
+*** FLOP *** [8h Qc As]
+givmimany-: checks 
+DEDTAWIWASA: bets $25.66
+sss457: folds 
+givmimany-: calls $25.66
+*** TURN *** [8h Qc As] [9d]
+givmimany-: checks 
+DEDTAWIWASA: checks 
+*** RIVER *** [8h Qc As 9d] [Ah]
+givmimany-: checks 
+DEDTAWIWASA: checks 
+*** SHOW DOWN ***
+givmimany-: shows [Td Qh] (two pair, Aces and Queens)
+DEDTAWIWASA: shows [Jh Ad] (three of a kind, Aces)
+DEDTAWIWASA collected $85.57 from pot
+*** SUMMARY ***
+Total pot $88.32 | Rake $2.75 
+Board [8h Qc As 9d Ah]
+Seat 1: lalala14388 folded before Flop (didn't bet)
+Seat 2: DEDTAWIWASA showed [Jh Ad] and won ($85.57) with three of a kind, Aces
+Seat 3: sss457 folded on the Flop
+Seat 4: EvgeniySad (button blind) folded before Flop
+Seat 5: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: givmimany- showed [Td Qh] and lost with two pair, Aces and Queens
+
+
+
+PokerStars Hand #196216524041:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 23:50:19 EET [2019/01/25 16:50:19 ET]
+Table 'Aphelion' 6-max Seat #5 is the button
+Seat 1: lalala14388 ($169.25 in chips) 
+Seat 2: DEDTAWIWASA ($198.91 in chips) 
+Seat 3: sss457 ($450.52 in chips) 
+Seat 4: EvgeniySad ($414.75 in chips) 
+Seat 5: gaiggibeliin ($136.19 in chips) 
+Seat 6: givmimany- ($343.79 in chips) 
+lalala14388: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+sss457: posts the ante $1
+EvgeniySad: posts the ante $1
+gaiggibeliin: posts the ante $1
+givmimany-: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jc Th]
+givmimany-: folds 
+lalala14388: folds 
+DEDTAWIWASA: folds 
+sss457: calls $1
+EvgeniySad: calls $1
+gaiggibeliin: checks 
+*** FLOP *** [7s Ts Kd]
+sss457: bets $4.28
+EvgeniySad: raises $4.28 to $8.56
+gaiggibeliin: folds 
+sss457: calls $4.28
+*** TURN *** [7s Ts Kd] [6h]
+sss457: checks 
+EvgeniySad: checks 
+*** RIVER *** [7s Ts Kd 6h] [7d]
+sss457: bets $16.37
+EvgeniySad: calls $16.37
+*** SHOW DOWN ***
+sss457: shows [7h 7c] (four of a kind, Sevens)
+EvgeniySad: mucks hand 
+sss457 collected $56.11 from pot
+*** SUMMARY ***
+Total pot $58.86 | Rake $2.75 
+Board [7s Ts Kd 6h 7d]
+Seat 1: lalala14388 folded before Flop (didn't bet)
+Seat 2: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 3: sss457 showed [7h 7c] and won ($56.11) with four of a kind, Sevens
+Seat 4: EvgeniySad mucked [Td 9s]
+Seat 5: gaiggibeliin (button blind) folded on the Flop
+Seat 6: givmimany- folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196216588089:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 23:51:41 EET [2019/01/25 16:51:41 ET]
+Table 'Aphelion' 6-max Seat #6 is the button
+Seat 1: lalala14388 ($168.25 in chips) 
+Seat 2: DEDTAWIWASA ($197.91 in chips) 
+Seat 3: sss457 ($479.70 in chips) 
+Seat 4: EvgeniySad ($387.82 in chips) 
+Seat 5: gaiggibeliin ($134.19 in chips) 
+Seat 6: givmimany- ($342.79 in chips) 
+lalala14388: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+sss457: posts the ante $1
+EvgeniySad: posts the ante $1
+gaiggibeliin: posts the ante $1
+givmimany-: posts the ante $1
+givmimany-: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qs Js]
+lalala14388: folds 
+DEDTAWIWASA: folds 
+sss457: folds 
+EvgeniySad: calls $1
+gaiggibeliin: raises $11 to $12
+givmimany-: calls $11
+EvgeniySad is disconnected 
+EvgeniySad is connected 
+EvgeniySad: calls $11
+*** FLOP *** [9d 6d 6s]
+EvgeniySad: checks 
+gaiggibeliin: checks 
+givmimany-: bets $10.77
+EvgeniySad: raises $10.77 to $21.54
+gaiggibeliin: folds 
+givmimany-: calls $10.77
+*** TURN *** [9d 6d 6s] [8h]
+EvgeniySad: checks 
+givmimany-: checks 
+*** RIVER *** [9d 6d 6s 8h] [Th]
+EvgeniySad: checks 
+givmimany-: bets $50.22
+EvgeniySad: calls $50.22
+*** SHOW DOWN ***
+givmimany-: shows [9c 7d] (a straight, Six to Ten)
+EvgeniySad: mucks hand 
+givmimany- collected $182.77 from pot
+*** SUMMARY ***
+Total pot $185.52 | Rake $2.75 
+Board [9d 6d 6s 8h Th]
+Seat 1: lalala14388 folded before Flop (didn't bet)
+Seat 2: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 3: sss457 folded before Flop (didn't bet)
+Seat 4: EvgeniySad mucked [Ad 9s]
+Seat 5: gaiggibeliin folded on the Flop
+Seat 6: givmimany- (button blind) showed [9c 7d] and won ($182.77) with a straight, Six to Ten
+
+
+
+PokerStars Hand #196216695792:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 23:53:59 EET [2019/01/25 16:53:59 ET]
+Table 'Aphelion' 6-max Seat #1 is the button
+Seat 1: lalala14388 ($167.25 in chips) 
+Seat 2: DEDTAWIWASA ($196.91 in chips) 
+Seat 3: sss457 ($478.70 in chips) 
+Seat 4: EvgeniySad ($303.06 in chips) 
+Seat 5: gaiggibeliin ($121.19 in chips) 
+Seat 6: givmimany- ($440.80 in chips) 
+lalala14388: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+sss457: posts the ante $1
+EvgeniySad: posts the ante $1
+gaiggibeliin: posts the ante $1
+givmimany-: posts the ante $1
+lalala14388: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6d Ts]
+DEDTAWIWASA: folds 
+sss457: raises $4 to $5
+EvgeniySad: calls $5
+gaiggibeliin: folds 
+givmimany-: raises $22 to $27
+lalala14388: folds 
+sss457: folds 
+EvgeniySad: folds 
+Uncalled bet ($22) returned to givmimany-
+givmimany- collected $22 from pot
+givmimany-: doesn't show hand 
+*** SUMMARY ***
+Total pot $22 | Rake $0 
+Seat 1: lalala14388 (button blind) folded before Flop
+Seat 2: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 3: sss457 folded before Flop
+Seat 4: EvgeniySad folded before Flop
+Seat 5: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: givmimany- collected ($22)
+
+
+
+PokerStars Hand #196216723858:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 23:54:36 EET [2019/01/25 16:54:36 ET]
+Table 'Aphelion' 6-max Seat #2 is the button
+Seat 1: lalala14388 ($165.25 in chips) 
+Seat 2: DEDTAWIWASA ($195.91 in chips) 
+Seat 3: sss457 ($472.70 in chips) 
+Seat 4: EvgeniySad ($297.06 in chips) 
+Seat 5: gaiggibeliin ($120.19 in chips) 
+Seat 6: givmimany- ($456.80 in chips) 
+lalala14388: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+sss457: posts the ante $1
+EvgeniySad: posts the ante $1
+gaiggibeliin: posts the ante $1
+givmimany-: posts the ante $1
+DEDTAWIWASA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9c Tc]
+sss457: folds 
+EvgeniySad: calls $1
+gaiggibeliin: raises $9 to $10
+givmimany-: calls $10
+lalala14388: folds 
+DEDTAWIWASA: folds 
+EvgeniySad: calls $9
+*** FLOP *** [Qh Kc Qd]
+EvgeniySad: checks 
+gaiggibeliin: checks 
+givmimany-: checks 
+*** TURN *** [Qh Kc Qd] [Ts]
+EvgeniySad: checks 
+gaiggibeliin: checks 
+givmimany-: checks 
+*** RIVER *** [Qh Kc Qd Ts] [Ks]
+EvgeniySad: checks 
+gaiggibeliin: checks 
+givmimany-: bets $52.73
+EvgeniySad: folds 
+gaiggibeliin: folds 
+Uncalled bet ($52.73) returned to givmimany-
+givmimany- collected $35.15 from pot
+givmimany-: doesn't show hand 
+*** SUMMARY ***
+Total pot $37 | Rake $1.85 
+Board [Qh Kc Qd Ts Ks]
+Seat 1: lalala14388 folded before Flop (didn't bet)
+Seat 2: DEDTAWIWASA (button blind) folded before Flop
+Seat 3: sss457 folded before Flop (didn't bet)
+Seat 4: EvgeniySad folded on the River
+Seat 5: gaiggibeliin folded on the River
+Seat 6: givmimany- collected ($35.15)
+
+
+
+PokerStars Hand #196216769478:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 23:55:43 EET [2019/01/25 16:55:43 ET]
+Table 'Aphelion' 6-max Seat #3 is the button
+Seat 1: lalala14388 ($164.25 in chips) 
+Seat 2: DEDTAWIWASA ($193.91 in chips) 
+Seat 3: sss457 ($471.70 in chips) 
+Seat 4: EvgeniySad ($286.06 in chips) 
+Seat 5: gaiggibeliin ($109.19 in chips) 
+Seat 6: givmimany- ($480.95 in chips) 
+lalala14388: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+sss457: posts the ante $1
+EvgeniySad: posts the ante $1
+gaiggibeliin: posts the ante $1
+givmimany-: posts the ante $1
+sss457: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ah Qd]
+EvgeniySad: calls $1
+gaiggibeliin: calls $1
+givmimany-: calls $1
+lalala14388: calls $1
+DEDTAWIWASA: folds 
+sss457: raises $15 to $16
+EvgeniySad: calls $15
+gaiggibeliin: calls $15
+givmimany-: calls $15
+lalala14388: calls $15
+*** FLOP *** [Js Qs Kd]
+EvgeniySad: checks 
+gaiggibeliin: checks 
+givmimany-: checks 
+lalala14388: checks 
+sss457: checks 
+*** TURN *** [Js Qs Kd] [Kh]
+EvgeniySad: bets $26
+gaiggibeliin: folds 
+givmimany-: raises $82.50 to $108.50
+lalala14388: folds 
+sss457 has timed out
+sss457: folds 
+EvgeniySad: raises $160.56 to $269.06 and is all-in
+givmimany-: calls $160.56
+*** RIVER *** [Js Qs Kd Kh] [8h]
+*** SHOW DOWN ***
+EvgeniySad: shows [7d Qc] (two pair, Kings and Queens)
+givmimany-: shows [9d Td] (a straight, Nine to King)
+givmimany- collected $621.37 from pot
+*** SUMMARY ***
+Total pot $624.12 | Rake $2.75 
+Board [Js Qs Kd Kh 8h]
+Seat 1: lalala14388 folded on the Turn
+Seat 2: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 3: sss457 (button blind) folded on the Turn
+Seat 4: EvgeniySad showed [7d Qc] and lost with two pair, Kings and Queens
+Seat 5: gaiggibeliin folded on the Turn
+Seat 6: givmimany- showed [9d Td] and won ($621.37) with a straight, Nine to King
+
+
+
+PokerStars Hand #196216866124:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 23:58:22 EET [2019/01/25 16:58:22 ET]
+Table 'Aphelion' 6-max Seat #5 is the button
+Seat 1: lalala14388 ($147.25 in chips) 
+Seat 2: DEDTAWIWASA ($192.91 in chips) 
+Seat 3: sss457 ($454.70 in chips) 
+Seat 5: gaiggibeliin ($150 in chips) 
+Seat 6: givmimany- ($816.26 in chips) 
+lalala14388: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+sss457: posts the ante $1
+gaiggibeliin: posts the ante $1
+givmimany-: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9s 6c]
+givmimany-: calls $1
+lalala14388: calls $1
+DEDTAWIWASA: folds 
+sss457: calls $1
+gaiggibeliin: checks 
+*** FLOP *** [Ad Jc Tc]
+givmimany-: bets $5.22
+EvgeniySad leaves the table
+lalala14388: calls $5.22
+sss457: calls $5.22
+gaiggibeliin: folds 
+*** TURN *** [Ad Jc Tc] [7c]
+givmimany-: bets $14.29
+lalala14388: calls $14.29
+sss457: calls $14.29
+*** RIVER *** [Ad Jc Tc 7c] [8d]
+givmimany-: bets $17.49
+lalala14388: calls $17.49
+sss457: folds 
+*** SHOW DOWN ***
+givmimany-: shows [8s 9h] (a straight, Seven to Jack)
+lalala14388: mucks hand 
+givmimany- collected $99.76 from pot
+Zihuatanejo3 joins the table at seat #4 
+*** SUMMARY ***
+Total pot $102.51 | Rake $2.75 
+Board [Ad Jc Tc 7c 8d]
+Seat 1: lalala14388 mucked [Ac Ts]
+Seat 2: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 3: sss457 folded on the River
+Seat 5: gaiggibeliin (button blind) folded on the Flop
+Seat 6: givmimany- showed [8s 9h] and won ($99.76) with a straight, Seven to Jack
+
+
+
+PokerStars Hand #196216915634:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 23:59:43 EET [2019/01/25 16:59:43 ET]
+Table 'Aphelion' 6-max Seat #1 is the button
+Seat 1: lalala14388 ($108.25 in chips) 
+Seat 2: DEDTAWIWASA ($191.91 in chips) 
+Seat 3: sss457 ($433.19 in chips) 
+Seat 4: Zihuatanejo3 ($150 in chips) 
+Seat 5: gaiggibeliin ($148 in chips) 
+lalala14388: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+sss457: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+lalala14388: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9c Ah]
+DEDTAWIWASA: raises $8 to $9
+givmimany- leaves the table
+sss457: folds 
+Zihuatanejo3: raises $140 to $149 and is all-in
+gaiggibeliin: folds 
+lalala14388: folds 
+DEDTAWIWASA: folds 
+Uncalled bet ($140) returned to Zihuatanejo3
+Zihuatanejo3 collected $24 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 1: lalala14388 (button blind) folded before Flop
+Seat 2: DEDTAWIWASA folded before Flop
+Seat 3: sss457 folded before Flop (didn't bet)
+Seat 4: Zihuatanejo3 collected ($24)
+Seat 5: gaiggibeliin folded before Flop (didn't bet)
+
+
+

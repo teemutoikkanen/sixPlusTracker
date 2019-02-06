@@ -1,0 +1,889 @@
+﻿PokerStars Hand #196200111961:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 17:18:13 EET [2019/01/25 10:18:13 ET]
+Table 'Naos' 6-max Seat #2 is the button
+Seat 1: gaiggibeliin ($150 in chips) 
+Seat 2: BomPang ($124.12 in chips) 
+Seat 3: loomyin ($133.13 in chips) 
+Seat 4: dager9 ($357.89 in chips) 
+Seat 5: GuitarGuyP ($150 in chips) 
+Seat 6: sjohnny200 ($150 in chips) 
+gaiggibeliin: posts the ante $1
+BomPang: posts the ante $1
+loomyin: posts the ante $1
+dager9: posts the ante $1
+GuitarGuyP: posts the ante $1
+sjohnny200: posts the ante $1
+BomPang: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Tc 8h]
+loomyin: folds 
+dager9: folds 
+GuitarGuyP: raises $4 to $5
+sjohnny200: folds 
+gaiggibeliin: folds 
+BomPang: calls $4
+*** FLOP *** [9s Qh Qs]
+GuitarGuyP: bets $9
+BomPang: folds 
+Uncalled bet ($9) returned to GuitarGuyP
+GuitarGuyP collected $15.20 from pot
+GuitarGuyP: doesn't show hand 
+*** SUMMARY ***
+Total pot $16 | Rake $0.80 
+Board [9s Qh Qs]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: BomPang (button blind) folded on the Flop
+Seat 3: loomyin folded before Flop (didn't bet)
+Seat 4: dager9 folded before Flop (didn't bet)
+Seat 5: GuitarGuyP collected ($15.20)
+Seat 6: sjohnny200 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196200120877:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 17:18:30 EET [2019/01/25 10:18:30 ET]
+Table 'Naos' 6-max Seat #3 is the button
+Seat 1: gaiggibeliin ($149 in chips) 
+Seat 2: BomPang ($118.12 in chips) 
+Seat 3: loomyin ($132.13 in chips) 
+Seat 4: dager9 ($356.89 in chips) 
+Seat 5: GuitarGuyP ($159.20 in chips) 
+Seat 6: sjohnny200 ($149 in chips) 
+gaiggibeliin: posts the ante $1
+BomPang: posts the ante $1
+loomyin: posts the ante $1
+dager9: posts the ante $1
+GuitarGuyP: posts the ante $1
+sjohnny200: posts the ante $1
+loomyin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ah 9h]
+dager9: raises $2 to $3
+GuitarGuyP: folds 
+sjohnny200: folds 
+gaiggibeliin: calls $3
+BomPang: calls $3
+loomyin: calls $2
+*** FLOP *** [8c Kh Ac]
+dager9: checks 
+gaiggibeliin: checks 
+BomPang: checks 
+loomyin: checks 
+*** TURN *** [8c Kh Ac] [Ad]
+dager9: checks 
+gaiggibeliin: bets $8.89
+BomPang: folds 
+loomyin: folds 
+dager9: folds 
+Uncalled bet ($8.89) returned to gaiggibeliin
+gaiggibeliin collected $17.10 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.90 
+Board [8c Kh Ac Ad]
+Seat 1: gaiggibeliin collected ($17.10)
+Seat 2: BomPang folded on the Turn
+Seat 3: loomyin (button blind) folded on the Turn
+Seat 4: dager9 folded on the Turn
+Seat 5: GuitarGuyP folded before Flop (didn't bet)
+Seat 6: sjohnny200 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196200153124:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 17:19:28 EET [2019/01/25 10:19:28 ET]
+Table 'Naos' 6-max Seat #4 is the button
+Seat 1: gaiggibeliin ($162.10 in chips) 
+Seat 2: BomPang ($114.12 in chips) 
+Seat 3: loomyin ($128.13 in chips) 
+Seat 4: dager9 ($352.89 in chips) 
+Seat 5: GuitarGuyP ($158.20 in chips) 
+Seat 6: sjohnny200 ($148 in chips) 
+gaiggibeliin: posts the ante $1
+BomPang: posts the ante $1
+loomyin: posts the ante $1
+dager9: posts the ante $1
+GuitarGuyP: posts the ante $1
+sjohnny200: posts the ante $1
+dager9: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Js Kd]
+GuitarGuyP: folds 
+sjohnny200: calls $1
+gaiggibeliin: calls $1
+BomPang: calls $1
+loomyin: folds 
+dager9: checks 
+*** FLOP *** [Kc Qd Td]
+sjohnny200: checks 
+gaiggibeliin: bets $6.37
+BomPang: folds 
+dager9: calls $6.37
+sjohnny200: folds 
+*** TURN *** [Kc Qd Td] [9h]
+gaiggibeliin: bets $13
+dager9: calls $13
+*** RIVER *** [Kc Qd Td 9h] [Qs]
+gaiggibeliin: checks 
+dager9: checks 
+*** SHOW DOWN ***
+gaiggibeliin: shows [Js Kd] (a straight, Nine to King)
+dager9: shows [Jd 8d] (a straight, Nine to King)
+gaiggibeliin collected $23.15 from pot
+dager9 collected $23.15 from pot
+*** SUMMARY ***
+Total pot $48.74 | Rake $2.44 
+Board [Kc Qd Td 9h Qs]
+Seat 1: gaiggibeliin showed [Js Kd] and won ($23.15) with a straight, Nine to King
+Seat 2: BomPang folded on the Flop
+Seat 3: loomyin folded before Flop (didn't bet)
+Seat 4: dager9 (button blind) showed [Jd 8d] and won ($23.15) with a straight, Nine to King
+Seat 5: GuitarGuyP folded before Flop (didn't bet)
+Seat 6: sjohnny200 folded on the Flop
+
+
+
+PokerStars Hand #196200195852:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 17:20:45 EET [2019/01/25 10:20:45 ET]
+Table 'Naos' 6-max Seat #5 is the button
+Seat 1: gaiggibeliin ($163.88 in chips) 
+Seat 2: BomPang ($112.12 in chips) 
+Seat 3: loomyin ($127.13 in chips) 
+Seat 4: dager9 ($354.67 in chips) 
+Seat 5: GuitarGuyP ($157.20 in chips) 
+Seat 6: sjohnny200 ($146 in chips) 
+gaiggibeliin: posts the ante $1
+BomPang: posts the ante $1
+loomyin: posts the ante $1
+dager9: posts the ante $1
+GuitarGuyP: posts the ante $1
+sjohnny200: posts the ante $1
+GuitarGuyP: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Td Kc]
+sjohnny200: folds 
+gaiggibeliin: folds 
+BomPang: calls $1
+loomyin: folds 
+dager9: folds 
+dager9 leaves the table
+GuitarGuyP: checks 
+*** FLOP *** [8c Jd 6c]
+BomPang: bets $2.51
+GuitarGuyP: folds 
+Uncalled bet ($2.51) returned to BomPang
+BomPang collected $7.60 from pot
+BomPang: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [8c Jd 6c]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: BomPang collected ($7.60)
+Seat 3: loomyin folded before Flop (didn't bet)
+Seat 4: dager9 folded before Flop (didn't bet)
+Seat 5: GuitarGuyP (button blind) folded on the Flop
+Seat 6: sjohnny200 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196200203533:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 17:20:59 EET [2019/01/25 10:20:59 ET]
+Table 'Naos' 6-max Seat #6 is the button
+Seat 1: gaiggibeliin ($162.88 in chips) 
+Seat 2: BomPang ($117.72 in chips) 
+Seat 3: loomyin ($126.13 in chips) 
+Seat 5: GuitarGuyP ($155.20 in chips) 
+Seat 6: sjohnny200 ($145 in chips) 
+gaiggibeliin: posts the ante $1
+BomPang: posts the ante $1
+loomyin: posts the ante $1
+GuitarGuyP: posts the ante $1
+sjohnny200: posts the ante $1
+sjohnny200: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kd Ad]
+gaiggibeliin: calls $1
+BomPang: calls $1
+loomyin: folds 
+GuitarGuyP: folds 
+sjohnny200: checks 
+*** FLOP *** [9s As 8h]
+sss457 joins the table at seat #4 
+gaiggibeliin: bets $5.09
+BomPang: calls $5.09
+sjohnny200: folds 
+*** TURN *** [9s As 8h] [Ks]
+gaiggibeliin: bets $11.57
+BomPang: calls $11.57
+*** RIVER *** [9s As 8h Ks] [Js]
+gaiggibeliin: checks 
+BomPang: bets $26.17
+gaiggibeliin: folds 
+Uncalled bet ($26.17) returned to BomPang
+BomPang collected $39.25 from pot
+BomPang: doesn't show hand 
+*** SUMMARY ***
+Total pot $41.32 | Rake $2.07 
+Board [9s As 8h Ks Js]
+Seat 1: gaiggibeliin folded on the River
+Seat 2: BomPang collected ($39.25)
+Seat 3: loomyin folded before Flop (didn't bet)
+Seat 5: GuitarGuyP folded before Flop (didn't bet)
+Seat 6: sjohnny200 (button blind) folded on the Flop
+
+
+
+PokerStars Hand #196200241385:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 17:22:07 EET [2019/01/25 10:22:07 ET]
+Table 'Naos' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($144.22 in chips) 
+Seat 2: BomPang ($138.31 in chips) 
+Seat 3: loomyin ($125.13 in chips) 
+Seat 4: sss457 ($150 in chips) 
+Seat 5: GuitarGuyP ($154.20 in chips) 
+Seat 6: sjohnny200 ($143 in chips) 
+gaiggibeliin: posts the ante $1
+BomPang: posts the ante $1
+loomyin: posts the ante $1
+sss457: posts the ante $1
+GuitarGuyP: posts the ante $1
+sjohnny200: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ts 7h]
+BomPang: folds 
+loomyin: folds 
+sss457: folds 
+GuitarGuyP: raises $4 to $5
+sjohnny200: folds 
+gaiggibeliin: calls $4
+*** FLOP *** [Ad Js Qs]
+GuitarGuyP: bets $10
+gaiggibeliin: folds 
+Uncalled bet ($10) returned to GuitarGuyP
+GuitarGuyP collected $15.20 from pot
+GuitarGuyP: doesn't show hand 
+*** SUMMARY ***
+Total pot $16 | Rake $0.80 
+Board [Ad Js Qs]
+Seat 1: gaiggibeliin (button blind) folded on the Flop
+Seat 2: BomPang folded before Flop (didn't bet)
+Seat 3: loomyin folded before Flop (didn't bet)
+Seat 4: sss457 folded before Flop (didn't bet)
+Seat 5: GuitarGuyP collected ($15.20)
+Seat 6: sjohnny200 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196200257810:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 17:22:36 EET [2019/01/25 10:22:36 ET]
+Table 'Naos' 6-max Seat #2 is the button
+Seat 1: gaiggibeliin ($138.22 in chips) 
+Seat 2: BomPang ($137.31 in chips) 
+Seat 3: loomyin ($124.13 in chips) 
+Seat 4: sss457 ($149 in chips) 
+Seat 5: GuitarGuyP ($163.40 in chips) 
+Seat 6: sjohnny200 ($150 in chips) 
+gaiggibeliin: posts the ante $1
+BomPang: posts the ante $1
+loomyin: posts the ante $1
+sss457: posts the ante $1
+GuitarGuyP: posts the ante $1
+sjohnny200: posts the ante $1
+BomPang: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ac As]
+loomyin: folds 
+sss457: folds 
+GuitarGuyP: folds 
+sjohnny200: folds 
+gaiggibeliin: calls $1
+BomPang: checks 
+*** FLOP *** [8c 8h 7c]
+gaiggibeliin: checks 
+BomPang: bets $2.51
+gaiggibeliin: calls $2.51
+*** TURN *** [8c 8h 7c] [Td]
+gaiggibeliin: checks 
+BomPang: checks 
+*** RIVER *** [8c 8h 7c Td] [Th]
+gaiggibeliin: checks 
+BomPang: checks 
+*** SHOW DOWN ***
+gaiggibeliin: shows [Ac As] (two pair, Aces and Tens)
+BomPang: mucks hand 
+gaiggibeliin collected $12.37 from pot
+*** SUMMARY ***
+Total pot $13.02 | Rake $0.65 
+Board [8c 8h 7c Td Th]
+Seat 1: gaiggibeliin showed [Ac As] and won ($12.37) with two pair, Aces and Tens
+Seat 2: BomPang (button blind) mucked [7d Qs]
+Seat 3: loomyin folded before Flop (didn't bet)
+Seat 4: sss457 folded before Flop (didn't bet)
+Seat 5: GuitarGuyP folded before Flop (didn't bet)
+Seat 6: sjohnny200 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196200278824:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 17:23:13 EET [2019/01/25 10:23:13 ET]
+Table 'Naos' 6-max Seat #3 is the button
+Seat 1: gaiggibeliin ($146.08 in chips) 
+Seat 2: BomPang ($132.80 in chips) 
+Seat 3: loomyin ($123.13 in chips) 
+Seat 4: sss457 ($148 in chips) 
+Seat 5: GuitarGuyP ($162.40 in chips) 
+Seat 6: sjohnny200 ($149 in chips) 
+gaiggibeliin: posts the ante $1
+BomPang: posts the ante $1
+loomyin: posts the ante $1
+sss457: posts the ante $1
+GuitarGuyP: posts the ante $1
+sjohnny200: posts the ante $1
+loomyin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9c Th]
+sss457: folds 
+GuitarGuyP: folds 
+sjohnny200: folds 
+gaiggibeliin: calls $1
+BomPang: calls $1
+loomyin: raises $9 to $10
+gaiggibeliin: calls $9
+BomPang: calls $9
+*** FLOP *** [9h 8s Js]
+gaiggibeliin: bets $22.91
+BomPang: folds 
+loomyin: folds 
+Uncalled bet ($22.91) returned to gaiggibeliin
+gaiggibeliin collected $34.20 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $1.80 
+Board [9h 8s Js]
+Seat 1: gaiggibeliin collected ($34.20)
+Seat 2: BomPang folded on the Flop
+Seat 3: loomyin (button blind) folded on the Flop
+Seat 4: sss457 folded before Flop (didn't bet)
+Seat 5: GuitarGuyP folded before Flop (didn't bet)
+Seat 6: sjohnny200 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196200324361:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 17:24:34 EET [2019/01/25 10:24:34 ET]
+Table 'Naos' 6-max Seat #4 is the button
+Seat 1: gaiggibeliin ($169.28 in chips) 
+Seat 2: BomPang ($121.80 in chips) 
+Seat 3: loomyin ($112.13 in chips) 
+Seat 4: sss457 ($147 in chips) 
+Seat 5: GuitarGuyP ($161.40 in chips) 
+Seat 6: sjohnny200 ($148 in chips) 
+gaiggibeliin: posts the ante $1
+BomPang: posts the ante $1
+loomyin: posts the ante $1
+sss457: posts the ante $1
+GuitarGuyP: posts the ante $1
+sjohnny200: posts the ante $1
+sss457: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7s 8h]
+GuitarGuyP: folds 
+sjohnny200: raises $8 to $9
+gaiggibeliin: folds 
+BomPang: calls $9
+loomyin: folds 
+sss457: folds 
+*** FLOP *** [Td Jh Tc]
+sjohnny200: checks 
+BomPang: bets $7.84
+sjohnny200: calls $7.84
+*** TURN *** [Td Jh Tc] [9h]
+sjohnny200: checks 
+BomPang: bets $25.77
+sjohnny200: raises $104.39 to $130.16 and is all-in
+BomPang: calls $78.19 and is all-in
+Uncalled bet ($26.20) returned to sjohnny200
+*** FIRST RIVER *** [Td Jh Tc 9h] [8s]
+*** SECOND RIVER *** [Td Jh Tc 9h] [Jd]
+*** FIRST SHOW DOWN ***
+sjohnny200: shows [Ac As] (two pair, Aces and Tens)
+BomPang: shows [Qs Kc] (a straight, Nine to King)
+BomPang collected $122.93 from pot
+*** SECOND SHOW DOWN ***
+sjohnny200: shows [Ac As] (two pair, Aces and Jacks)
+BomPang: shows [Qs Kc] (a straight, Nine to King)
+BomPang collected $122.92 from pot
+*** SUMMARY ***
+Total pot $248.60 | Rake $2.75 
+Hand was run twice
+FIRST Board [Td Jh Tc 9h 8s]
+SECOND Board [Td Jh Tc 9h Jd]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: BomPang showed [Qs Kc] and won ($122.93) with a straight, Nine to King, and won ($122.92) with a straight, Nine to King
+Seat 3: loomyin folded before Flop (didn't bet)
+Seat 4: sss457 (button blind) folded before Flop
+Seat 5: GuitarGuyP folded before Flop (didn't bet)
+Seat 6: sjohnny200 showed [Ac As] and lost with two pair, Aces and Tens, and lost with two pair, Aces and Jacks
+
+
+
+PokerStars Hand #196200359416:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 17:25:37 EET [2019/01/25 10:25:37 ET]
+Table 'Naos' 6-max Seat #5 is the button
+Seat 1: gaiggibeliin ($168.28 in chips) 
+Seat 2: BomPang ($245.85 in chips) 
+Seat 3: loomyin ($111.13 in chips) 
+Seat 4: sss457 ($145 in chips) 
+Seat 5: GuitarGuyP ($160.40 in chips) 
+Seat 6: sjohnny200 ($26.20 in chips) 
+gaiggibeliin: posts the ante $1
+BomPang: posts the ante $1
+loomyin: posts the ante $1
+sss457: posts the ante $1
+GuitarGuyP: posts the ante $1
+sjohnny200: posts the ante $1
+GuitarGuyP: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8d Jd]
+sjohnny200: raises $24.20 to $25.20 and is all-in
+gaiggibeliin: folds 
+BomPang: folds 
+loomyin: folds 
+sss457: folds 
+GuitarGuyP: folds 
+Uncalled bet ($24.20) returned to sjohnny200
+sjohnny200 collected $8 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0 
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: BomPang folded before Flop (didn't bet)
+Seat 3: loomyin folded before Flop (didn't bet)
+Seat 4: sss457 folded before Flop (didn't bet)
+Seat 5: GuitarGuyP (button blind) folded before Flop
+Seat 6: sjohnny200 collected ($8)
+
+
+
+PokerStars Hand #196200369234:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 17:25:55 EET [2019/01/25 10:25:55 ET]
+Table 'Naos' 6-max Seat #6 is the button
+Seat 1: gaiggibeliin ($167.28 in chips) 
+Seat 2: BomPang ($244.85 in chips) 
+Seat 3: loomyin ($110.13 in chips) 
+Seat 4: sss457 ($144 in chips) 
+Seat 5: GuitarGuyP ($158.40 in chips) 
+Seat 6: sjohnny200 ($32.20 in chips) 
+gaiggibeliin: posts the ante $1
+BomPang: posts the ante $1
+loomyin: posts the ante $1
+sss457: posts the ante $1
+GuitarGuyP: posts the ante $1
+sjohnny200: posts the ante $1
+sjohnny200: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Td Qc]
+gaiggibeliin: calls $1
+BomPang: calls $1
+loomyin: folds 
+sss457: folds 
+GuitarGuyP: folds 
+sjohnny200: checks 
+*** FLOP *** [Ks Tc Kc]
+gaiggibeliin: bets $4.45
+BomPang: folds 
+sjohnny200: folds 
+Uncalled bet ($4.45) returned to gaiggibeliin
+gaiggibeliin collected $8.55 from pot
+*** SUMMARY ***
+Total pot $9 | Rake $0.45 
+Board [Ks Tc Kc]
+Seat 1: gaiggibeliin collected ($8.55)
+Seat 2: BomPang folded on the Flop
+Seat 3: loomyin folded before Flop (didn't bet)
+Seat 4: sss457 folded before Flop (didn't bet)
+Seat 5: GuitarGuyP folded before Flop (didn't bet)
+Seat 6: sjohnny200 (button blind) folded on the Flop
+
+
+
+PokerStars Hand #196200382819:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 17:26:19 EET [2019/01/25 10:26:19 ET]
+Table 'Naos' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($173.83 in chips) 
+Seat 2: BomPang ($242.85 in chips) 
+Seat 3: loomyin ($109.13 in chips) 
+Seat 4: sss457 ($143 in chips) 
+Seat 5: GuitarGuyP ($157.40 in chips) 
+Seat 6: sjohnny200 ($148 in chips) 
+gaiggibeliin: posts the ante $1
+BomPang: posts the ante $1
+loomyin: posts the ante $1
+sss457: posts the ante $1
+GuitarGuyP: posts the ante $1
+sjohnny200: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7h Tc]
+BomPang: folds 
+loomyin: folds 
+sss457: folds 
+GuitarGuyP: folds 
+sjohnny200: raises $8 to $9
+gaiggibeliin: calls $8
+*** FLOP *** [6s Jc Qc]
+sjohnny200: checks 
+gaiggibeliin: checks 
+*** TURN *** [6s Jc Qc] [9d]
+sjohnny200: checks 
+gaiggibeliin: checks 
+*** RIVER *** [6s Jc Qc 9d] [As]
+sjohnny200: bets $12
+gaiggibeliin: folds 
+Uncalled bet ($12) returned to sjohnny200
+sjohnny200 collected $22.80 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $1.20 
+Board [6s Jc Qc 9d As]
+Seat 1: gaiggibeliin (button blind) folded on the River
+Seat 2: BomPang folded before Flop (didn't bet)
+Seat 3: loomyin folded before Flop (didn't bet)
+Seat 4: sss457 folded before Flop (didn't bet)
+Seat 5: GuitarGuyP folded before Flop (didn't bet)
+Seat 6: sjohnny200 collected ($22.80)
+
+
+
+PokerStars Hand #196200426661:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 17:27:37 EET [2019/01/25 10:27:37 ET]
+Table 'Naos' 6-max Seat #2 is the button
+Seat 1: gaiggibeliin ($163.83 in chips) 
+Seat 2: BomPang ($241.85 in chips) 
+Seat 3: loomyin ($108.13 in chips) 
+Seat 4: sss457 ($142 in chips) 
+Seat 5: GuitarGuyP ($156.40 in chips) 
+Seat 6: sjohnny200 ($160.80 in chips) 
+gaiggibeliin: posts the ante $1
+BomPang: posts the ante $1
+loomyin: posts the ante $1
+sss457: posts the ante $1
+GuitarGuyP: posts the ante $1
+sjohnny200: posts the ante $1
+BomPang: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kd Ac]
+loomyin: folds 
+sss457: folds 
+GuitarGuyP: raises $4 to $5
+sjohnny200: calls $5
+gaiggibeliin: raises $25 to $30
+BomPang: folds 
+GuitarGuyP: folds 
+sjohnny200: calls $25
+*** FLOP *** [As 6s Qc]
+sjohnny200: checks 
+gaiggibeliin: bets $22.85
+sjohnny200: raises $106.95 to $129.80 and is all-in
+gaiggibeliin: calls $106.95
+*** FIRST TURN *** [As 6s Qc] [8s]
+*** FIRST RIVER *** [As 6s Qc 8s] [Qs]
+*** SECOND TURN *** [As 6s Qc] [9h]
+*** SECOND RIVER *** [As 6s Qc 9h] [9c]
+*** FIRST SHOW DOWN ***
+sjohnny200: shows [7s 7h] (a flush, Ace high)
+gaiggibeliin: shows [Kd Ac] (two pair, Aces and Queens)
+sjohnny200 collected $164.43 from pot
+*** SECOND SHOW DOWN ***
+sjohnny200: shows [7s 7h] (two pair, Nines and Sevens)
+gaiggibeliin: shows [Kd Ac] (two pair, Aces and Nines)
+gaiggibeliin collected $164.42 from pot
+*** SUMMARY ***
+Total pot $331.60 | Rake $2.75 
+Hand was run twice
+FIRST Board [As 6s Qc 8s Qs]
+SECOND Board [As 6s Qc 9h 9c]
+Seat 1: gaiggibeliin showed [Kd Ac] and lost with two pair, Aces and Queens, and won ($164.42) with two pair, Aces and Nines
+Seat 2: BomPang (button blind) folded before Flop
+Seat 3: loomyin folded before Flop (didn't bet)
+Seat 4: sss457 folded before Flop (didn't bet)
+Seat 5: GuitarGuyP folded before Flop
+Seat 6: sjohnny200 showed [7s 7h] and won ($164.43) with a flush, Ace high, and lost with two pair, Nines and Sevens
+
+
+
+PokerStars Hand #196200457364:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 17:28:32 EET [2019/01/25 10:28:32 ET]
+Table 'Naos' 6-max Seat #3 is the button
+Seat 1: gaiggibeliin ($167.45 in chips) 
+Seat 2: BomPang ($239.85 in chips) 
+Seat 3: loomyin ($107.13 in chips) 
+Seat 4: sss457 ($141 in chips) 
+Seat 5: GuitarGuyP ($150.40 in chips) 
+Seat 6: sjohnny200 ($164.43 in chips) 
+gaiggibeliin: posts the ante $1
+BomPang: posts the ante $1
+loomyin: posts the ante $1
+sss457: posts the ante $1
+GuitarGuyP: posts the ante $1
+sjohnny200: posts the ante $1
+loomyin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qh Kc]
+sss457: calls $1
+GuitarGuyP: folds 
+sjohnny200: folds 
+sjohnny200 leaves the table
+gaiggibeliin: raises $9 to $10
+BomPang: folds 
+loomyin: calls $9
+sss457: calls $9
+*** FLOP *** [7d Jc Ad]
+sss457: checks 
+gaiggibeliin: checks 
+loomyin: bets $14.71
+sss457: raises $31.81 to $46.52
+gaiggibeliin: folds 
+loomyin: folds 
+Uncalled bet ($31.81) returned to sss457
+sss457 collected $62.67 from pot
+Zihuatanejo3 joins the table at seat #6 
+sss457: doesn't show hand 
+*** SUMMARY ***
+Total pot $65.42 | Rake $2.75 
+Board [7d Jc Ad]
+Seat 1: gaiggibeliin folded on the Flop
+Seat 2: BomPang folded before Flop (didn't bet)
+Seat 3: loomyin (button blind) folded on the Flop
+Seat 4: sss457 collected ($62.67)
+Seat 5: GuitarGuyP folded before Flop (didn't bet)
+Seat 6: sjohnny200 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196200504220:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 17:29:56 EET [2019/01/25 10:29:56 ET]
+Table 'Naos' 6-max Seat #4 is the button
+Seat 1: gaiggibeliin ($156.45 in chips) 
+Seat 2: BomPang ($238.85 in chips) 
+Seat 3: loomyin ($81.42 in chips) 
+Seat 4: sss457 ($177.96 in chips) 
+Seat 5: GuitarGuyP ($150 in chips) 
+Seat 6: Zihuatanejo3 ($150 in chips) 
+gaiggibeliin: posts the ante $1
+BomPang: posts the ante $1
+loomyin: posts the ante $1
+sss457: posts the ante $1
+GuitarGuyP: posts the ante $1
+Zihuatanejo3: posts the ante $1
+sss457: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Tc 9d]
+GuitarGuyP: folds 
+Zihuatanejo3: calls $1
+gaiggibeliin: calls $1
+BomPang: calls $1
+loomyin: folds 
+sss457: checks 
+*** FLOP *** [Ac 7s 6d]
+Zihuatanejo3: checks 
+gaiggibeliin: checks 
+BomPang: checks 
+sss457: bets $4.75
+Zihuatanejo3: folds 
+gaiggibeliin: folds 
+BomPang: folds 
+Uncalled bet ($4.75) returned to sss457
+sss457 collected $9.50 from pot
+sss457: doesn't show hand 
+*** SUMMARY ***
+Total pot $10 | Rake $0.50 
+Board [Ac 7s 6d]
+Seat 1: gaiggibeliin folded on the Flop
+Seat 2: BomPang folded on the Flop
+Seat 3: loomyin folded before Flop (didn't bet)
+Seat 4: sss457 (button blind) collected ($9.50)
+Seat 5: GuitarGuyP folded before Flop (didn't bet)
+Seat 6: Zihuatanejo3 folded on the Flop
+
+
+
+PokerStars Hand #196200545663:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 17:31:10 EET [2019/01/25 10:31:10 ET]
+Table 'Naos' 6-max Seat #5 is the button
+Seat 1: gaiggibeliin ($154.45 in chips) 
+Seat 3: loomyin ($80.42 in chips) 
+Seat 4: sss457 ($185.46 in chips) 
+Seat 5: GuitarGuyP ($150 in chips) 
+Seat 6: Zihuatanejo3 ($148 in chips) 
+gaiggibeliin: posts the ante $1
+loomyin: posts the ante $1
+sss457: posts the ante $1
+GuitarGuyP: posts the ante $1
+Zihuatanejo3: posts the ante $1
+GuitarGuyP: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jd Ks]
+Zihuatanejo3: folds 
+BomPang leaves the table
+gaiggibeliin: calls $1
+loomyin: raises $8 to $9
+sss457: folds 
+GuitarGuyP: folds 
+gaiggibeliin: calls $8
+*** FLOP *** [9s Kc 8s]
+gaiggibeliin: checks 
+loomyin: bets $9.80
+gaiggibeliin: calls $9.80
+*** TURN *** [9s Kc 8s] [9h]
+gaiggibeliin: checks 
+loomyin: checks 
+*** RIVER *** [9s Kc 8s 9h] [Ts]
+gaiggibeliin: checks 
+loomyin: checks 
+*** SHOW DOWN ***
+gaiggibeliin: shows [Jd Ks] (two pair, Kings and Nines)
+loomyin: mucks hand 
+gaiggibeliin collected $41.42 from pot
+*** SUMMARY ***
+Total pot $43.60 | Rake $2.18 
+Board [9s Kc 8s 9h Ts]
+Seat 1: gaiggibeliin showed [Jd Ks] and won ($41.42) with two pair, Kings and Nines
+Seat 3: loomyin mucked [8d Td]
+Seat 4: sss457 folded before Flop (didn't bet)
+Seat 5: GuitarGuyP (button blind) folded before Flop
+Seat 6: Zihuatanejo3 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196200578875:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 17:32:09 EET [2019/01/25 10:32:09 ET]
+Table 'Naos' 6-max Seat #6 is the button
+Seat 1: gaiggibeliin ($176.07 in chips) 
+Seat 3: loomyin ($60.62 in chips) 
+Seat 4: sss457 ($184.46 in chips) 
+Seat 5: GuitarGuyP ($150 in chips) 
+Seat 6: Zihuatanejo3 ($147 in chips) 
+gaiggibeliin: posts the ante $1
+loomyin: posts the ante $1
+sss457: posts the ante $1
+GuitarGuyP: posts the ante $1
+Zihuatanejo3: posts the ante $1
+Zihuatanejo3: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7c Qs]
+gaiggibeliin: folds 
+loomyin: folds 
+sss457: raises $8 to $9
+GuitarGuyP: folds 
+Zihuatanejo3: folds 
+Uncalled bet ($8) returned to sss457
+sss457 collected $7 from pot
+sss457: doesn't show hand 
+*** SUMMARY ***
+Total pot $7 | Rake $0 
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: loomyin folded before Flop (didn't bet)
+Seat 4: sss457 collected ($7)
+Seat 5: GuitarGuyP folded before Flop (didn't bet)
+Seat 6: Zihuatanejo3 (button blind) folded before Flop
+
+
+
+PokerStars Hand #196200587827:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 17:32:25 EET [2019/01/25 10:32:25 ET]
+Table 'Naos' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($175.07 in chips) 
+Seat 3: loomyin ($59.62 in chips) 
+Seat 4: sss457 ($189.46 in chips) 
+Seat 5: GuitarGuyP ($150 in chips) 
+Seat 6: Zihuatanejo3 ($145 in chips) 
+gaiggibeliin: posts the ante $1
+loomyin: posts the ante $1
+sss457: posts the ante $1
+GuitarGuyP: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ac 7h]
+loomyin: folds 
+sss457: folds 
+GuitarGuyP: folds 
+Zihuatanejo3: calls $1
+gaiggibeliin: checks 
+*** FLOP *** [As 7d Kd]
+Zihuatanejo3: checks 
+gaiggibeliin: bets $4.46
+Zihuatanejo3: folds 
+Uncalled bet ($4.46) returned to gaiggibeliin
+gaiggibeliin collected $6.65 from pot
+*** SUMMARY ***
+Total pot $7 | Rake $0.35 
+Board [As 7d Kd]
+Seat 1: gaiggibeliin (button blind) collected ($6.65)
+Seat 3: loomyin folded before Flop (didn't bet)
+Seat 4: sss457 folded before Flop (didn't bet)
+Seat 5: GuitarGuyP folded before Flop (didn't bet)
+Seat 6: Zihuatanejo3 folded on the Flop
+
+
+
+PokerStars Hand #196200611789:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 17:33:07 EET [2019/01/25 10:33:07 ET]
+Table 'Naos' 6-max Seat #3 is the button
+Seat 1: gaiggibeliin ($179.72 in chips) 
+Seat 3: loomyin ($58.62 in chips) 
+Seat 4: sss457 ($188.46 in chips) 
+Seat 5: GuitarGuyP ($150 in chips) 
+Seat 6: Zihuatanejo3 ($143 in chips) 
+gaiggibeliin: posts the ante $1
+loomyin: posts the ante $1
+sss457: posts the ante $1
+GuitarGuyP: posts the ante $1
+Zihuatanejo3: posts the ante $1
+loomyin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ah Ks]
+sss457: folds 
+GuitarGuyP: raises $3 to $4
+Zihuatanejo3: folds 
+gaiggibeliin: raises $14 to $18
+loomyin: calls $17
+GuitarGuyP: folds 
+*** FLOP *** [8h 9h Js]
+gaiggibeliin: checks 
+loomyin: checks 
+*** TURN *** [8h 9h Js] [Qh]
+gaiggibeliin: checks 
+loomyin: bets $39.62 and is all-in
+gaiggibeliin: folds 
+Uncalled bet ($39.62) returned to loomyin
+loomyin collected $42.75 from pot
+loomyin: doesn't show hand 
+*** SUMMARY ***
+Total pot $45 | Rake $2.25 
+Board [8h 9h Js Qh]
+Seat 1: gaiggibeliin folded on the Turn
+Seat 3: loomyin (button blind) collected ($42.75)
+Seat 4: sss457 folded before Flop (didn't bet)
+Seat 5: GuitarGuyP folded before Flop
+Seat 6: Zihuatanejo3 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196200646211:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 17:34:08 EET [2019/01/25 10:34:08 ET]
+Table 'Naos' 6-max Seat #4 is the button
+Seat 1: gaiggibeliin ($160.72 in chips) 
+Seat 3: loomyin ($82.37 in chips) 
+Seat 4: sss457 ($187.46 in chips) 
+Seat 5: GuitarGuyP ($150 in chips) 
+Seat 6: Zihuatanejo3 ($142 in chips) 
+gaiggibeliin: posts the ante $1
+loomyin: posts the ante $1
+sss457: posts the ante $1
+GuitarGuyP: posts the ante $1
+Zihuatanejo3: posts the ante $1
+sss457: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Js 9d]
+GuitarGuyP: folds 
+Zihuatanejo3: raises $4 to $5
+gaiggibeliin: folds 
+loomyin: folds 
+sss457: calls $4
+*** FLOP *** [6d Qc Qh]
+Zihuatanejo3: bets $7.50
+sss457: raises $8.50 to $16
+Zihuatanejo3: raises $14 to $30
+sss457: folds 
+Uncalled bet ($14) returned to Zihuatanejo3
+Zihuatanejo3 collected $44.65 from pot
+*** SUMMARY ***
+Total pot $47 | Rake $2.35 
+Board [6d Qc Qh]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: loomyin folded before Flop (didn't bet)
+Seat 4: sss457 (button blind) folded on the Flop
+Seat 5: GuitarGuyP folded before Flop (didn't bet)
+Seat 6: Zihuatanejo3 collected ($44.65)
+
+
+

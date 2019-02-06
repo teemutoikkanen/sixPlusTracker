@@ -1,39 +1,36 @@
-PokerStars Hand #195857761057:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 14:17:32 EET [2019/01/17 7:17:32 ET]
-Table 'Pierretta V' 6-max Seat #1 is the button
-Seat 1: gaiggibeliin ($198 in chips) 
-Seat 2: Noikul ($284.08 in chips) 
-Seat 3: milo0916 ($483.52 in chips) 
-Seat 4: b0caNer0 ($431.25 in chips) 
-Seat 6: bertotraste ($462.75 in chips) 
+PokerStars Hand #196134797969:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/23 23:38:01 EET [2019/01/23 16:38:01 ET]
+Table 'Griqua' 6-max Seat #6 is the button
+Seat 1: Tiltkorv ($141.15 in chips) 
+Seat 2: gaiggibeliin ($156.82 in chips) 
+Seat 3: M1TR4ND1R ($188.65 in chips) 
+Seat 4: Stacy99 ($333.37 in chips) 
+Seat 5: gusmaa ($385.74 in chips) 
+Seat 6: bumbumpau ($149 in chips) 
+Tiltkorv: posts the ante $1
 gaiggibeliin: posts the ante $1
-Noikul: posts the ante $1
-milo0916: posts the ante $1
-b0caNer0: posts the ante $1
-bertotraste: posts the ante $1
-gaiggibeliin: posts button blind $1
+M1TR4ND1R: posts the ante $1
+Stacy99: posts the ante $1
+gusmaa: posts the ante $1
+bumbumpau: posts the ante $1
+bumbumpau: posts button blind $1
 *** HOLE CARDS ***
-Dealt to gaiggibeliin [Qc Qd]
-Noikul: raises $1.50 to $2.50
-milo0916: folds 
-b0caNer0: folds 
-bertotraste: calls $2.50
-gaiggibeliin: raises $14.50 to $17
-Noikul: calls $14.50
-bertotraste: folds 
-*** FLOP *** [8c 9c 6d]
-Noikul: bets $10
-gaiggibeliin: calls $10
-*** TURN *** [8c 9c 6d] [8d]
-Noikul: checks 
-gaiggibeliin: bets $39.36
-Noikul: folds 
-Uncalled bet ($39.36) returned to gaiggibeliin
-gaiggibeliin collected $58.75 from pot
+Dealt to gaiggibeliin [Ac Kd]
+Tiltkorv: folds 
+gaiggibeliin: raises $4 to $5
+M1TR4ND1R: folds 
+Stacy99: raises $4 to $5
+gusmaa: raises $15 to $20
+bumbumpau: folds 
+gaiggibeliin: raises $135.82 to $155.82 and is all-in
+Stacy99: folds 
+gusmaa: folds 
+Uncalled bet ($135.82) returned to gaiggibeliin
+gaiggibeliin collected $52 from pot
 *** SUMMARY ***
-Total pot $61.50 | Rake $2.75 
-Board [8c 9c 6d 8d]
-Seat 1: gaiggibeliin (button blind) collected ($58.75)
-Seat 2: Noikul folded on the Turn
-Seat 3: milo0916 folded before Flop (didn't bet)
-Seat 4: b0caNer0 folded before Flop (didn't bet)
-Seat 6: bertotraste folded before Flop
+Total pot $52 | Rake $0 
+Seat 1: Tiltkorv folded before Flop (didn't bet)
+Seat 2: gaiggibeliin collected ($52)
+Seat 3: M1TR4ND1R folded before Flop (didn't bet)
+Seat 4: Stacy99 folded before Flop
+Seat 5: gusmaa folded before Flop
+Seat 6: bumbumpau (button blind) folded before Flop

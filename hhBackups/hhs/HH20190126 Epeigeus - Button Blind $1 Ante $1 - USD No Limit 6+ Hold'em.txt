@@ -1,0 +1,543 @@
+﻿PokerStars Hand #196236902097:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 14:20:28 EET [2019/01/26 7:20:28 ET]
+Table 'Epeigeus' 6-max Seat #2 is the button
+Seat 1: RobahX ($233.58 in chips) 
+Seat 2: mckenna777 ($457.44 in chips) 
+Seat 3: b0caNer0 ($400.96 in chips) 
+Seat 4: gaiggibeliin ($150 in chips) 
+Seat 5: rocke7 ($221.25 in chips) 
+Seat 6: MrBarrett82 ($117.18 in chips) 
+RobahX: posts the ante $1
+mckenna777: posts the ante $1
+b0caNer0: posts the ante $1
+gaiggibeliin: posts the ante $1
+rocke7: posts the ante $1
+MrBarrett82: posts the ante $1
+mckenna777: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9d Ad]
+b0caNer0: folds 
+gaiggibeliin: calls $1
+rocke7: raises $9 to $10
+MrBarrett82: calls $10
+RobahX: folds 
+mckenna777: calls $9
+gaiggibeliin: calls $9
+*** FLOP *** [Kc Jc 9s]
+gaiggibeliin: checks 
+rocke7: checks 
+MrBarrett82: checks 
+mckenna777: checks 
+*** TURN *** [Kc Jc 9s] [Js]
+gaiggibeliin: checks 
+rocke7: bets $36.13
+MrBarrett82: folds 
+mckenna777: folds 
+gaiggibeliin: folds 
+Uncalled bet ($36.13) returned to rocke7
+rocke7 collected $43.70 from pot
+rocke7: doesn't show hand 
+*** SUMMARY ***
+Total pot $46 | Rake $2.30 
+Board [Kc Jc 9s Js]
+Seat 1: RobahX folded before Flop (didn't bet)
+Seat 2: mckenna777 (button blind) folded on the Turn
+Seat 3: b0caNer0 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded on the Turn
+Seat 5: rocke7 collected ($43.70)
+Seat 6: MrBarrett82 folded on the Turn
+
+
+
+PokerStars Hand #196236942143:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 14:21:53 EET [2019/01/26 7:21:53 ET]
+Table 'Epeigeus' 6-max Seat #3 is the button
+Seat 1: RobahX ($232.58 in chips) 
+Seat 2: mckenna777 ($446.44 in chips) 
+Seat 3: b0caNer0 ($399.96 in chips) 
+Seat 4: gaiggibeliin ($139 in chips) 
+Seat 5: rocke7 ($253.95 in chips) 
+Seat 6: MrBarrett82 ($106.18 in chips) 
+RobahX: posts the ante $1
+mckenna777: posts the ante $1
+b0caNer0: posts the ante $1
+gaiggibeliin: posts the ante $1
+rocke7: posts the ante $1
+MrBarrett82: posts the ante $1
+b0caNer0: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7c Kc]
+gaiggibeliin: folds 
+rocke7: folds 
+MrBarrett82: folds 
+RobahX: raises $8 to $9
+mckenna777: calls $9
+b0caNer0: folds 
+*** FLOP *** [Qs Tc Kh]
+RobahX: bets $11.88
+mckenna777: folds 
+Uncalled bet ($11.88) returned to RobahX
+RobahX collected $23.75 from pot
+RobahX: doesn't show hand 
+*** SUMMARY ***
+Total pot $25 | Rake $1.25 
+Board [Qs Tc Kh]
+Seat 1: RobahX collected ($23.75)
+Seat 2: mckenna777 folded on the Flop
+Seat 3: b0caNer0 (button blind) folded before Flop
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: rocke7 folded before Flop (didn't bet)
+Seat 6: MrBarrett82 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196236961599:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 14:22:34 EET [2019/01/26 7:22:34 ET]
+Table 'Epeigeus' 6-max Seat #4 is the button
+Seat 1: RobahX ($246.33 in chips) 
+Seat 2: mckenna777 ($436.44 in chips) 
+Seat 3: b0caNer0 ($397.96 in chips) 
+Seat 4: gaiggibeliin ($138 in chips) 
+Seat 5: rocke7 ($252.95 in chips) 
+Seat 6: MrBarrett82 ($105.18 in chips) 
+RobahX: posts the ante $1
+mckenna777: posts the ante $1
+b0caNer0: posts the ante $1
+gaiggibeliin: posts the ante $1
+rocke7: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9d Td]
+rocke7: folds 
+MrBarrett82: folds 
+RobahX: folds 
+mckenna777: raises $4 to $5
+b0caNer0: calls $5
+gaiggibeliin: calls $4
+*** FLOP *** [7c Ac 8d]
+mckenna777: checks 
+b0caNer0: bets $12.97
+gaiggibeliin: raises $119.03 to $132 and is all-in
+mckenna777: folds 
+b0caNer0: calls $119.03
+*** FIRST TURN *** [7c Ac 8d] [Jd]
+*** FIRST RIVER *** [7c Ac 8d Jd] [6c]
+*** SECOND TURN *** [7c Ac 8d] [8s]
+*** SECOND RIVER *** [7c Ac 8d 8s] [9c]
+*** FIRST SHOW DOWN ***
+b0caNer0: shows [9h As] (a straight, Ace to Nine)
+gaiggibeliin: shows [9d Td] (a straight, Seven to Jack)
+gaiggibeliin collected $141.13 from pot
+*** SECOND SHOW DOWN ***
+b0caNer0: shows [9h As] (two pair, Aces and Nines)
+gaiggibeliin: shows [9d Td] (two pair, Nines and Eights)
+b0caNer0 collected $141.12 from pot
+*** SUMMARY ***
+Total pot $285 | Rake $2.75 
+Hand was run twice
+FIRST Board [7c Ac 8d Jd 6c]
+SECOND Board [7c Ac 8d 8s 9c]
+Seat 1: RobahX folded before Flop (didn't bet)
+Seat 2: mckenna777 folded on the Flop
+Seat 3: b0caNer0 showed [9h As] and lost with a straight, Ace to Nine, and won ($141.12) with two pair, Aces and Nines
+Seat 4: gaiggibeliin (button blind) showed [9d Td] and won ($141.13) with a straight, Seven to Jack, and lost with two pair, Nines and Eights
+Seat 5: rocke7 folded before Flop (didn't bet)
+Seat 6: MrBarrett82 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196236999411:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 14:23:54 EET [2019/01/26 7:23:54 ET]
+Table 'Epeigeus' 6-max Seat #5 is the button
+Seat 1: RobahX ($245.33 in chips) 
+Seat 2: mckenna777 ($430.44 in chips) 
+Seat 3: b0caNer0 ($401.08 in chips) 
+Seat 4: gaiggibeliin ($141.13 in chips) 
+Seat 5: rocke7 ($251.95 in chips) 
+Seat 6: MrBarrett82 ($104.18 in chips) 
+RobahX: posts the ante $1
+mckenna777: posts the ante $1
+b0caNer0: posts the ante $1
+gaiggibeliin: posts the ante $1
+rocke7: posts the ante $1
+MrBarrett82: posts the ante $1
+rocke7: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ac 9d]
+MrBarrett82: folds 
+RobahX: folds 
+mckenna777: folds 
+b0caNer0: folds 
+gaiggibeliin: calls $1
+rocke7: raises $8 to $9
+gaiggibeliin: folds 
+Uncalled bet ($8) returned to rocke7
+rocke7 collected $8 from pot
+rocke7: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0 
+Seat 1: RobahX folded before Flop (didn't bet)
+Seat 2: mckenna777 folded before Flop (didn't bet)
+Seat 3: b0caNer0 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop
+Seat 5: rocke7 (button blind) collected ($8)
+Seat 6: MrBarrett82 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196237012195:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 14:24:22 EET [2019/01/26 7:24:22 ET]
+Table 'Epeigeus' 6-max Seat #6 is the button
+Seat 1: RobahX ($244.33 in chips) 
+Seat 2: mckenna777 ($429.44 in chips) 
+Seat 3: b0caNer0 ($400.08 in chips) 
+Seat 4: gaiggibeliin ($139.13 in chips) 
+Seat 5: rocke7 ($257.95 in chips) 
+Seat 6: MrBarrett82 ($103.18 in chips) 
+RobahX: posts the ante $1
+mckenna777: posts the ante $1
+b0caNer0: posts the ante $1
+gaiggibeliin: posts the ante $1
+rocke7: posts the ante $1
+MrBarrett82: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ts Tc]
+RobahX: raises $2 to $3
+mckenna777: calls $3
+b0caNer0: folds 
+gaiggibeliin: calls $3
+rocke7: calls $3
+MrBarrett82: folds 
+*** FLOP *** [9c 6c 7s]
+RobahX: checks 
+mckenna777: bets $10
+gaiggibeliin: folds 
+rocke7: calls $10
+RobahX has timed out
+RobahX: folds 
+*** TURN *** [9c 6c 7s] [Jd]
+mckenna777: bets $25
+rocke7: calls $25
+*** RIVER *** [9c 6c 7s Jd] [Ac]
+mckenna777: checks 
+rocke7: checks 
+*** SHOW DOWN ***
+mckenna777: shows [8s Qs] (a straight, Ace to Nine)
+rocke7: mucks hand 
+mckenna777 collected $86.25 from pot
+*** SUMMARY ***
+Total pot $89 | Rake $2.75 
+Board [9c 6c 7s Jd Ac]
+Seat 1: RobahX folded on the Flop
+Seat 2: mckenna777 showed [8s Qs] and won ($86.25) with a straight, Ace to Nine
+Seat 3: b0caNer0 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded on the Flop
+Seat 5: rocke7 mucked [7h 9h]
+Seat 6: MrBarrett82 (button blind) folded before Flop
+
+
+
+PokerStars Hand #196237060494:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 14:26:05 EET [2019/01/26 7:26:05 ET]
+Table 'Epeigeus' 6-max Seat #1 is the button
+Seat 1: RobahX ($240.33 in chips) 
+Seat 2: mckenna777 ($476.69 in chips) 
+Seat 3: b0caNer0 ($399.08 in chips) 
+Seat 4: gaiggibeliin ($135.13 in chips) 
+Seat 5: rocke7 ($218.95 in chips) 
+Seat 6: MrBarrett82 ($101.18 in chips) 
+RobahX: posts the ante $1
+mckenna777: posts the ante $1
+b0caNer0: posts the ante $1
+gaiggibeliin: posts the ante $1
+rocke7: posts the ante $1
+MrBarrett82: posts the ante $1
+RobahX: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Js 8h]
+mckenna777: folds 
+b0caNer0: folds 
+gaiggibeliin: folds 
+rocke7: raises $5 to $6
+MrBarrett82: calls $6
+RobahX: calls $5
+*** FLOP *** [Tc 6d Ks]
+rocke7: checks 
+MrBarrett82: bets $15
+RobahX: raises $23 to $38
+rocke7: folds 
+MrBarrett82: calls $23
+*** TURN *** [Tc 6d Ks] [Qd]
+MrBarrett82: bets $56.18 and is all-in
+RobahX: folds 
+Uncalled bet ($56.18) returned to MrBarrett82
+MrBarrett82 collected $97.25 from pot
+MrBarrett82: doesn't show hand 
+*** SUMMARY ***
+Total pot $100 | Rake $2.75 
+Board [Tc 6d Ks Qd]
+Seat 1: RobahX (button blind) folded on the Turn
+Seat 2: mckenna777 folded before Flop (didn't bet)
+Seat 3: b0caNer0 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: rocke7 folded on the Flop
+Seat 6: MrBarrett82 collected ($97.25)
+
+
+
+PokerStars Hand #196237099500:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 14:27:28 EET [2019/01/26 7:27:28 ET]
+Table 'Epeigeus' 6-max Seat #2 is the button
+Seat 1: RobahX ($195.33 in chips) 
+Seat 2: mckenna777 ($475.69 in chips) 
+Seat 3: b0caNer0 ($398.08 in chips) 
+Seat 4: gaiggibeliin ($150 in chips) 
+Seat 5: rocke7 ($211.95 in chips) 
+Seat 6: MrBarrett82 ($153.43 in chips) 
+RobahX: posts the ante $1
+mckenna777: posts the ante $1
+b0caNer0: posts the ante $1
+gaiggibeliin: posts the ante $1
+rocke7: posts the ante $1
+MrBarrett82: posts the ante $1
+mckenna777: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kd Kh]
+b0caNer0: folds 
+gaiggibeliin: calls $1
+rocke7: calls $1
+MrBarrett82: calls $1
+RobahX: raises $11 to $12
+mckenna777: folds 
+gaiggibeliin: raises $137 to $149 and is all-in
+rocke7: folds 
+MrBarrett82: folds 
+RobahX: folds 
+Uncalled bet ($137) returned to gaiggibeliin
+gaiggibeliin collected $33 from pot
+*** SUMMARY ***
+Total pot $33 | Rake $0 
+Seat 1: RobahX folded before Flop
+Seat 2: mckenna777 (button blind) folded before Flop
+Seat 3: b0caNer0 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin collected ($33)
+Seat 5: rocke7 folded before Flop
+Seat 6: MrBarrett82 folded before Flop
+
+
+
+PokerStars Hand #196237128792:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 14:28:31 EET [2019/01/26 7:28:31 ET]
+Table 'Epeigeus' 6-max Seat #3 is the button
+Seat 1: RobahX ($182.33 in chips) 
+Seat 2: mckenna777 ($473.69 in chips) 
+Seat 3: b0caNer0 ($397.08 in chips) 
+Seat 4: gaiggibeliin ($170 in chips) 
+Seat 5: rocke7 ($209.95 in chips) 
+Seat 6: MrBarrett82 ($151.43 in chips) 
+RobahX: posts the ante $1
+mckenna777: posts the ante $1
+b0caNer0: posts the ante $1
+gaiggibeliin: posts the ante $1
+rocke7: posts the ante $1
+MrBarrett82: posts the ante $1
+b0caNer0: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ac Ks]
+gaiggibeliin: calls $1
+rocke7: folds 
+MrBarrett82: folds 
+RobahX: folds 
+mckenna777: calls $1
+b0caNer0: checks 
+*** FLOP *** [Js Kd Qc]
+gaiggibeliin: bets $5.73
+mckenna777: raises $13.27 to $19
+b0caNer0: folds 
+gaiggibeliin: folds 
+Uncalled bet ($13.27) returned to mckenna777
+mckenna777 collected $19.44 from pot
+*** SUMMARY ***
+Total pot $20.46 | Rake $1.02 
+Board [Js Kd Qc]
+Seat 1: RobahX folded before Flop (didn't bet)
+Seat 2: mckenna777 collected ($19.44)
+Seat 3: b0caNer0 (button blind) folded on the Flop
+Seat 4: gaiggibeliin folded on the Flop
+Seat 5: rocke7 folded before Flop (didn't bet)
+Seat 6: MrBarrett82 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196237145259:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 14:29:06 EET [2019/01/26 7:29:06 ET]
+Table 'Epeigeus' 6-max Seat #4 is the button
+Seat 1: RobahX ($181.33 in chips) 
+Seat 2: mckenna777 ($485.40 in chips) 
+Seat 3: b0caNer0 ($395.08 in chips) 
+Seat 4: gaiggibeliin ($162.27 in chips) 
+Seat 5: rocke7 ($208.95 in chips) 
+Seat 6: MrBarrett82 ($150.43 in chips) 
+RobahX: posts the ante $1
+mckenna777: posts the ante $1
+b0caNer0: posts the ante $1
+gaiggibeliin: posts the ante $1
+rocke7: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8h Kc]
+rocke7: folds 
+MrBarrett82: folds 
+RobahX: folds 
+mckenna777: calls $1
+b0caNer0: folds 
+gaiggibeliin: checks 
+*** FLOP *** [Ts Js Qs]
+mckenna777: bets $4
+gaiggibeliin: folds 
+Uncalled bet ($4) returned to mckenna777
+mckenna777 collected $7.60 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [Ts Js Qs]
+Seat 1: RobahX folded before Flop (didn't bet)
+Seat 2: mckenna777 collected ($7.60)
+Seat 3: b0caNer0 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin (button blind) folded on the Flop
+Seat 5: rocke7 folded before Flop (didn't bet)
+Seat 6: MrBarrett82 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196237170559:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 14:30:00 EET [2019/01/26 7:30:00 ET]
+Table 'Epeigeus' 6-max Seat #5 is the button
+Seat 1: RobahX ($180.33 in chips) 
+Seat 2: mckenna777 ($491 in chips) 
+Seat 3: b0caNer0 ($394.08 in chips) 
+Seat 4: gaiggibeliin ($160.27 in chips) 
+Seat 5: rocke7 ($207.95 in chips) 
+Seat 6: MrBarrett82 ($149.43 in chips) 
+RobahX: posts the ante $1
+mckenna777: posts the ante $1
+b0caNer0: posts the ante $1
+gaiggibeliin: posts the ante $1
+rocke7: posts the ante $1
+MrBarrett82: posts the ante $1
+rocke7: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kc Ts]
+MrBarrett82: folds 
+RobahX: folds 
+mckenna777: raises $5 to $6
+b0caNer0: folds 
+gaiggibeliin: folds 
+rocke7: folds 
+Uncalled bet ($5) returned to mckenna777
+mckenna777 collected $8 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0 
+Seat 1: RobahX folded before Flop (didn't bet)
+Seat 2: mckenna777 collected ($8)
+Seat 3: b0caNer0 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: rocke7 (button blind) folded before Flop
+Seat 6: MrBarrett82 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196237186133:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 14:30:33 EET [2019/01/26 7:30:33 ET]
+Table 'Epeigeus' 6-max Seat #6 is the button
+Seat 1: RobahX ($179.33 in chips) 
+Seat 2: mckenna777 ($497 in chips) 
+Seat 3: b0caNer0 ($393.08 in chips) 
+Seat 4: gaiggibeliin ($159.27 in chips) 
+Seat 5: rocke7 ($205.95 in chips) 
+Seat 6: MrBarrett82 ($148.43 in chips) 
+RobahX: posts the ante $1
+mckenna777: posts the ante $1
+b0caNer0: posts the ante $1
+gaiggibeliin: posts the ante $1
+rocke7: posts the ante $1
+MrBarrett82: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9d Jh]
+RobahX: folds 
+mckenna777: calls $1
+b0caNer0: folds 
+gaiggibeliin: calls $1
+rocke7: raises $8 to $9
+MrBarrett82: calls $8
+mckenna777: calls $8
+gaiggibeliin: calls $8
+*** FLOP *** [Kd Ah 8h]
+mckenna777: checks 
+gaiggibeliin: checks 
+rocke7: checks 
+MrBarrett82: checks 
+*** TURN *** [Kd Ah 8h] [Ac]
+mckenna777: checks 
+gaiggibeliin: checks 
+rocke7: checks 
+MrBarrett82: checks 
+*** RIVER *** [Kd Ah 8h Ac] [9h]
+mckenna777: checks 
+gaiggibeliin: checks 
+rocke7: checks 
+MrBarrett82: checks 
+*** SHOW DOWN ***
+mckenna777: shows [Td Ks] (two pair, Aces and Kings)
+gaiggibeliin: mucks hand 
+rocke7: shows [Qs Kh] (two pair, Aces and Kings - Queen kicker)
+MrBarrett82: mucks hand 
+rocke7 collected $39.90 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $2.10 
+Board [Kd Ah 8h Ac 9h]
+Seat 1: RobahX folded before Flop (didn't bet)
+Seat 2: mckenna777 showed [Td Ks] and lost with two pair, Aces and Kings
+Seat 3: b0caNer0 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin mucked [9d Jh]
+Seat 5: rocke7 showed [Qs Kh] and won ($39.90) with two pair, Aces and Kings
+Seat 6: MrBarrett82 (button blind) mucked [Jc Jd]
+
+
+
+PokerStars Hand #196237232123:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 14:32:11 EET [2019/01/26 7:32:11 ET]
+Table 'Epeigeus' 6-max Seat #1 is the button
+Seat 1: RobahX ($178.33 in chips) 
+Seat 2: mckenna777 ($487 in chips) 
+Seat 3: b0caNer0 ($392.08 in chips) 
+Seat 4: gaiggibeliin ($149.27 in chips) 
+Seat 5: rocke7 ($235.85 in chips) 
+Seat 6: MrBarrett82 ($138.43 in chips) 
+RobahX: posts the ante $1
+mckenna777: posts the ante $1
+b0caNer0: posts the ante $1
+gaiggibeliin: posts the ante $1
+rocke7: posts the ante $1
+MrBarrett82: posts the ante $1
+RobahX: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Td Kd]
+mckenna777: folds 
+b0caNer0: folds 
+gaiggibeliin: raises $9 to $10
+rocke7: calls $10
+MrBarrett82: folds 
+RobahX: calls $9
+*** FLOP *** [Ad 7s Qc]
+gaiggibeliin: checks 
+rocke7: checks 
+RobahX: bets $17.10
+gaiggibeliin: folds 
+rocke7: folds 
+Uncalled bet ($17.10) returned to RobahX
+RobahX collected $34.20 from pot
+RobahX: doesn't show hand 
+*** SUMMARY ***
+Total pot $36 | Rake $1.80 
+Board [Ad 7s Qc]
+Seat 1: RobahX (button blind) collected ($34.20)
+Seat 2: mckenna777 folded before Flop (didn't bet)
+Seat 3: b0caNer0 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded on the Flop
+Seat 5: rocke7 folded on the Flop
+Seat 6: MrBarrett82 folded before Flop (didn't bet)
+
+
+

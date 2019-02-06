@@ -1,0 +1,859 @@
+﻿PokerStars Hand #196140424596:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 1:56:01 EET [2019/01/23 18:56:01 ET]
+Table 'Eulalia' 6-max Seat #2 is the button
+Seat 1: garompon ($84.74 in chips) 
+Seat 2: santisala ($39.34 in chips) 
+Seat 3: picka4u ($105.14 in chips) 
+Seat 4: gaiggibeliin ($75 in chips) 
+Seat 5: pelao preto ($75 in chips) 
+Seat 6: BIGTRIX6 ($61.78 in chips) 
+garompon: posts the ante $0.50
+santisala: posts the ante $0.50
+picka4u: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+pelao preto: posts the ante $0.50
+BIGTRIX6: posts the ante $0.50
+santisala: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Td 7c]
+picka4u: folds 
+gaiggibeliin: folds 
+pelao preto: folds 
+BIGTRIX6: raises $1 to $1.50
+garompon: calls $1.50
+santisala: calls $1
+*** FLOP *** [Jh Tc Qs]
+BIGTRIX6: bets $3.50
+garompon: folds 
+santisala: calls $3.50
+*** TURN *** [Jh Tc Qs] [9d]
+BIGTRIX6: checks 
+santisala: bets $9.50
+BIGTRIX6: folds 
+Uncalled bet ($9.50) returned to santisala
+santisala collected $13.78 from pot
+*** SUMMARY ***
+Total pot $14.50 | Rake $0.72 
+Board [Jh Tc Qs 9d]
+Seat 1: garompon folded on the Flop
+Seat 2: santisala (button blind) collected ($13.78)
+Seat 3: picka4u folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: pelao preto folded before Flop (didn't bet)
+Seat 6: BIGTRIX6 folded on the Turn
+
+
+
+PokerStars Hand #196140443755:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 1:56:43 EET [2019/01/23 18:56:43 ET]
+Table 'Eulalia' 6-max Seat #3 is the button
+Seat 1: garompon ($82.74 in chips) 
+Seat 2: santisala ($47.62 in chips) 
+Seat 3: picka4u ($104.64 in chips) 
+Seat 4: gaiggibeliin ($74.50 in chips) 
+Seat 5: pelao preto ($74.50 in chips) 
+Seat 6: BIGTRIX6 ($56.28 in chips) 
+garompon: posts the ante $0.50
+santisala: posts the ante $0.50
+picka4u: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+pelao preto: posts the ante $0.50
+BIGTRIX6: posts the ante $0.50
+picka4u: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [As Js]
+gaiggibeliin: calls $0.50
+pelao preto: calls $0.50
+BIGTRIX6: folds 
+garompon: raises $3.50 to $4
+santisala: folds 
+picka4u: calls $3.50
+gaiggibeliin: calls $3.50
+pelao preto: calls $3.50
+*** FLOP *** [7s Ac Kc]
+gaiggibeliin: checks 
+pelao preto: checks 
+garompon: bets $9.03
+picka4u: folds 
+gaiggibeliin: folds 
+pelao preto: folds 
+Uncalled bet ($9.03) returned to garompon
+garompon collected $18.05 from pot
+garompon: doesn't show hand 
+*** SUMMARY ***
+Total pot $19 | Rake $0.95 
+Board [7s Ac Kc]
+Seat 1: garompon collected ($18.05)
+Seat 2: santisala folded before Flop (didn't bet)
+Seat 3: picka4u (button blind) folded on the Flop
+Seat 4: gaiggibeliin folded on the Flop
+Seat 5: pelao preto folded on the Flop
+Seat 6: BIGTRIX6 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196140480368:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 1:58:04 EET [2019/01/23 18:58:04 ET]
+Table 'Eulalia' 6-max Seat #4 is the button
+Seat 1: garompon ($96.29 in chips) 
+Seat 2: santisala ($47.12 in chips) 
+Seat 3: picka4u ($100.14 in chips) 
+Seat 4: gaiggibeliin ($70 in chips) 
+Seat 5: pelao preto ($70 in chips) 
+Seat 6: BIGTRIX6 ($55.78 in chips) 
+garompon: posts the ante $0.50
+santisala: posts the ante $0.50
+picka4u: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+pelao preto: posts the ante $0.50
+BIGTRIX6: posts the ante $0.50
+gaiggibeliin: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8c 7s]
+pelao preto: calls $0.50
+BIGTRIX6: calls $0.50
+garompon: folds 
+santisala: calls $0.50
+picka4u: raises $4.50 to $5
+gaiggibeliin: folds 
+pelao preto: calls $4.50
+BIGTRIX6: folds 
+santisala: calls $4.50
+*** FLOP *** [Ts Qh Qd]
+pelao preto: checks 
+santisala: checks 
+picka4u: checks 
+*** TURN *** [Ts Qh Qd] [Th]
+pelao preto: bets $9
+santisala: folds 
+picka4u: raises $9 to $18
+pelao preto: folds 
+Uncalled bet ($9) returned to picka4u
+picka4u collected $35.15 from pot
+picka4u: doesn't show hand 
+*** SUMMARY ***
+Total pot $37 | Rake $1.85 
+Board [Ts Qh Qd Th]
+Seat 1: garompon folded before Flop (didn't bet)
+Seat 2: santisala folded on the Turn
+Seat 3: picka4u collected ($35.15)
+Seat 4: gaiggibeliin (button blind) folded before Flop
+Seat 5: pelao preto folded on the Turn
+Seat 6: BIGTRIX6 folded before Flop
+
+
+
+PokerStars Hand #196140502976:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 1:58:53 EET [2019/01/23 18:58:53 ET]
+Table 'Eulalia' 6-max Seat #5 is the button
+Seat 1: garompon ($95.79 in chips) 
+Seat 2: santisala ($41.62 in chips) 
+Seat 3: picka4u ($120.79 in chips) 
+Seat 4: gaiggibeliin ($69 in chips) 
+Seat 5: pelao preto ($55.50 in chips) 
+Seat 6: BIGTRIX6 ($54.78 in chips) 
+garompon: posts the ante $0.50
+santisala: posts the ante $0.50
+picka4u: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+pelao preto: posts the ante $0.50
+BIGTRIX6: posts the ante $0.50
+pelao preto: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Js 9c]
+BIGTRIX6: raises $1 to $1.50
+garompon: folds 
+santisala: calls $1.50
+picka4u: calls $1.50
+gaiggibeliin: folds 
+pelao preto: calls $1
+*** FLOP *** [Ad 9h Jc]
+BIGTRIX6: checks 
+santisala: checks 
+picka4u: checks 
+pelao preto: bets $1
+BIGTRIX6: calls $1
+santisala: calls $1
+picka4u: calls $1
+*** TURN *** [Ad 9h Jc] [6c]
+BIGTRIX6: checks 
+santisala: checks 
+picka4u: bets $9.50
+pelao preto: folds 
+BIGTRIX6: folds 
+santisala: calls $9.50
+*** RIVER *** [Ad 9h Jc 6c] [Jd]
+santisala: checks 
+picka4u: checks 
+*** SHOW DOWN ***
+santisala: shows [7h Ts] (a pair of Jacks)
+picka4u: shows [6s 9s] (two pair, Jacks and Nines)
+picka4u collected $30.40 from pot
+*** SUMMARY ***
+Total pot $32 | Rake $1.60 
+Board [Ad 9h Jc 6c Jd]
+Seat 1: garompon folded before Flop (didn't bet)
+Seat 2: santisala showed [7h Ts] and lost with a pair of Jacks
+Seat 3: picka4u showed [6s 9s] and won ($30.40) with two pair, Jacks and Nines
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: pelao preto (button blind) folded on the Turn
+Seat 6: BIGTRIX6 folded on the Turn
+
+
+
+PokerStars Hand #196140541575:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:00:16 EET [2019/01/23 19:00:16 ET]
+Table 'Eulalia' 6-max Seat #6 is the button
+Seat 1: garompon ($95.29 in chips) 
+Seat 2: santisala ($29.12 in chips) 
+Seat 3: picka4u ($138.69 in chips) 
+Seat 4: gaiggibeliin ($68.50 in chips) 
+Seat 5: pelao preto ($52.50 in chips) 
+Seat 6: BIGTRIX6 ($51.78 in chips) 
+garompon: posts the ante $0.50
+santisala: posts the ante $0.50
+picka4u: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+pelao preto: posts the ante $0.50
+BIGTRIX6: posts the ante $0.50
+BIGTRIX6: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ac Qc]
+garompon: raises $0.50 to $1
+santisala: raises $0.50 to $1.50
+picka4u: folds 
+gaiggibeliin: raises $7.50 to $9
+pelao preto: folds 
+BIGTRIX6: folds 
+garompon: folds 
+santisala: calls $7.50
+*** FLOP *** [Ks Kd Qd]
+santisala: checks 
+gaiggibeliin: bets $21.38
+santisala: folds 
+Uncalled bet ($21.38) returned to gaiggibeliin
+gaiggibeliin collected $21.38 from pot
+*** SUMMARY ***
+Total pot $22.50 | Rake $1.12 
+Board [Ks Kd Qd]
+Seat 1: garompon folded before Flop
+Seat 2: santisala folded on the Flop
+Seat 3: picka4u folded before Flop (didn't bet)
+Seat 4: gaiggibeliin collected ($21.38)
+Seat 5: pelao preto folded before Flop (didn't bet)
+Seat 6: BIGTRIX6 (button blind) folded before Flop
+
+
+
+PokerStars Hand #196140565196:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:01:02 EET [2019/01/23 19:01:02 ET]
+Table 'Eulalia' 6-max Seat #1 is the button
+Seat 1: garompon ($93.79 in chips) 
+Seat 2: santisala ($19.62 in chips) 
+Seat 3: picka4u ($138.19 in chips) 
+Seat 4: gaiggibeliin ($80.38 in chips) 
+Seat 5: pelao preto ($52 in chips) 
+Seat 6: BIGTRIX6 ($50.78 in chips) 
+garompon: posts the ante $0.50
+santisala: posts the ante $0.50
+picka4u: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+pelao preto: posts the ante $0.50
+BIGTRIX6: posts the ante $0.50
+garompon: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9s 8h]
+santisala: calls $0.50
+picka4u: folds 
+gaiggibeliin: folds 
+pelao preto: calls $0.50
+BIGTRIX6: folds 
+garompon: checks 
+*** FLOP *** [Ts Ad 6s]
+santisala: bets $18.62 and is all-in
+pelao preto: folds 
+garompon: folds 
+Uncalled bet ($18.62) returned to santisala
+santisala collected $4.28 from pot
+santisala: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [Ts Ad 6s]
+Seat 1: garompon (button blind) folded on the Flop
+Seat 2: santisala collected ($4.28)
+Seat 3: picka4u folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: pelao preto folded on the Flop
+Seat 6: BIGTRIX6 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196140597282:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:02:01 EET [2019/01/23 19:02:01 ET]
+Table 'Eulalia' 6-max Seat #2 is the button
+Seat 1: garompon ($92.79 in chips) 
+Seat 2: santisala ($22.90 in chips) 
+Seat 3: picka4u ($137.69 in chips) 
+Seat 4: gaiggibeliin ($79.88 in chips) 
+Seat 5: pelao preto ($51 in chips) 
+Seat 6: BIGTRIX6 ($50.28 in chips) 
+garompon: posts the ante $0.50
+santisala: posts the ante $0.50
+picka4u: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+pelao preto: posts the ante $0.50
+BIGTRIX6: posts the ante $0.50
+santisala: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Tc Qd]
+picka4u: folds 
+gaiggibeliin: folds 
+pelao preto: calls $0.50
+BIGTRIX6: raises $4.50 to $5
+garompon: folds 
+santisala: calls $4.50
+pelao preto: calls $4.50
+*** FLOP *** [Td 6d Kc]
+pelao preto: checks 
+BIGTRIX6: checks 
+santisala: checks 
+*** TURN *** [Td 6d Kc] [Qh]
+pelao preto: bets $7.50
+BIGTRIX6: calls $7.50
+santisala: calls $7.50
+*** RIVER *** [Td 6d Kc Qh] [Kd]
+pelao preto: checks 
+BIGTRIX6: bets $37.28 and is all-in
+santisala: folds 
+pelao preto: calls $37.28
+*** SHOW DOWN ***
+BIGTRIX6: shows [Jd 9d] (a flush, King high)
+pelao preto: shows [9h Kh] (three of a kind, Kings)
+BIGTRIX6 collected $112.56 from pot
+*** SUMMARY ***
+Total pot $115.06 | Rake $2.50 
+Board [Td 6d Kc Qh Kd]
+Seat 1: garompon folded before Flop (didn't bet)
+Seat 2: santisala (button blind) folded on the River
+Seat 3: picka4u folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: pelao preto showed [9h Kh] and lost with three of a kind, Kings
+Seat 6: BIGTRIX6 showed [Jd 9d] and won ($112.56) with a flush, King high
+
+
+
+PokerStars Hand #196140636156:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:03:11 EET [2019/01/23 19:03:11 ET]
+Table 'Eulalia' 6-max Seat #3 is the button
+Seat 1: garompon ($92.29 in chips) 
+Seat 2: santisala ($9.90 in chips) 
+Seat 3: picka4u ($137.19 in chips) 
+Seat 4: gaiggibeliin ($79.38 in chips) 
+Seat 6: BIGTRIX6 ($112.56 in chips) 
+garompon: posts the ante $0.50
+santisala: posts the ante $0.50
+picka4u: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+BIGTRIX6: posts the ante $0.50
+picka4u: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8c Td]
+gaiggibeliin: folds 
+BIGTRIX6: raises $2.50 to $3
+pelao preto leaves the table
+garompon: folds 
+santisala: folds 
+picka4u: calls $2.50
+*** FLOP *** [6c Jh Kh]
+BIGTRIX6: checks 
+picka4u: bets $4.04
+BIGTRIX6: calls $4.04
+*** TURN *** [6c Jh Kh] [Ks]
+BIGTRIX6: checks 
+picka4u: bets $7.88
+BIGTRIX6: folds 
+Uncalled bet ($7.88) returned to picka4u
+picka4u collected $15.75 from pot
+picka4u: doesn't show hand 
+*** SUMMARY ***
+Total pot $16.58 | Rake $0.83 
+Board [6c Jh Kh Ks]
+Seat 1: garompon folded before Flop (didn't bet)
+Seat 2: santisala folded before Flop (didn't bet)
+Seat 3: picka4u (button blind) collected ($15.75)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: BIGTRIX6 folded on the Turn
+
+
+
+PokerStars Hand #196140661871:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:03:57 EET [2019/01/23 19:03:57 ET]
+Table 'Eulalia' 6-max Seat #4 is the button
+Seat 1: garompon ($91.79 in chips) 
+Seat 2: santisala ($9.40 in chips) 
+Seat 3: picka4u ($145.40 in chips) 
+Seat 4: gaiggibeliin ($78.88 in chips) 
+Seat 6: BIGTRIX6 ($105.02 in chips) 
+garompon: posts the ante $0.50
+santisala: posts the ante $0.50
+picka4u: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+BIGTRIX6: posts the ante $0.50
+gaiggibeliin: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8s 6c]
+BIGTRIX6: folds 
+garompon: raises $2 to $2.50
+santisala: raises $2 to $4.50
+picka4u: folds 
+gaiggibeliin: folds 
+garompon: calls $2
+*** FLOP *** [8c 6d 7s]
+garompon: bets $3.50
+santisala: raises $0.90 to $4.40 and is all-in
+garompon: calls $0.90
+*** TURN *** [8c 6d 7s] [7h]
+*** RIVER *** [8c 6d 7s 7h] [7d]
+*** SHOW DOWN ***
+garompon: shows [Kh Jc] (three of a kind, Sevens)
+santisala: shows [9d 9c] (a full house, Sevens full of Nines)
+santisala collected $19.76 from pot
+*** SUMMARY ***
+Total pot $20.80 | Rake $1.04 
+Board [8c 6d 7s 7h 7d]
+Seat 1: garompon showed [Kh Jc] and lost with three of a kind, Sevens
+Seat 2: santisala showed [9d 9c] and won ($19.76) with a full house, Sevens full of Nines
+Seat 3: picka4u folded before Flop (didn't bet)
+Seat 4: gaiggibeliin (button blind) folded before Flop
+Seat 6: BIGTRIX6 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196140679842:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:04:29 EET [2019/01/23 19:04:29 ET]
+Table 'Eulalia' 6-max Seat #6 is the button
+Seat 1: garompon ($82.39 in chips) 
+Seat 2: santisala ($19.76 in chips) 
+Seat 3: picka4u ($144.90 in chips) 
+Seat 4: gaiggibeliin ($77.88 in chips) 
+Seat 6: BIGTRIX6 ($104.52 in chips) 
+garompon: posts the ante $0.50
+santisala: posts the ante $0.50
+picka4u: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+BIGTRIX6: posts the ante $0.50
+BIGTRIX6: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8c Jd]
+garompon: raises $1.50 to $2
+santisala: raises $7 to $9
+picka4u: folds 
+gaiggibeliin: folds 
+BIGTRIX6: calls $8.50
+garompon: calls $7
+*** FLOP *** [Qh 9c Kd]
+garompon: checks 
+santisala: bets $10.26 and is all-in
+BIGTRIX6: calls $10.26
+garompon: folds 
+*** TURN *** [Qh 9c Kd] [6d]
+*** RIVER *** [Qh 9c Kd 6d] [Tc]
+*** SHOW DOWN ***
+santisala: shows [Qs Kc] (two pair, Kings and Queens)
+BIGTRIX6: shows [9h Td] (two pair, Tens and Nines)
+santisala collected $47.52 from pot
+*** SUMMARY ***
+Total pot $50.02 | Rake $2.50 
+Board [Qh 9c Kd 6d Tc]
+Seat 1: garompon folded on the Flop
+Seat 2: santisala showed [Qs Kc] and won ($47.52) with two pair, Kings and Queens
+Seat 3: picka4u folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: BIGTRIX6 (button blind) showed [9h Td] and lost with two pair, Tens and Nines
+
+
+
+PokerStars Hand #196140701411:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:05:09 EET [2019/01/23 19:05:09 ET]
+Table 'Eulalia' 6-max Seat #1 is the button
+Seat 1: garompon ($75 in chips) 
+Seat 2: santisala ($47.52 in chips) 
+Seat 3: picka4u ($144.40 in chips) 
+Seat 4: gaiggibeliin ($77.38 in chips) 
+Seat 6: BIGTRIX6 ($84.76 in chips) 
+garompon: posts the ante $0.50
+santisala: posts the ante $0.50
+picka4u: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+BIGTRIX6: posts the ante $0.50
+garompon: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qs 6d]
+santisala: folds 
+picka4u: folds 
+gaiggibeliin: folds 
+BIGTRIX6: raises $1 to $1.50
+bosteeks joins the table at seat #5 
+garompon: calls $1
+*** FLOP *** [8h 6h Ts]
+BIGTRIX6: checks 
+garompon: bets $3.65
+BIGTRIX6: calls $3.65
+*** TURN *** [8h 6h Ts] [9s]
+BIGTRIX6: checks 
+garompon: bets $8.51
+BIGTRIX6: raises $14.59 to $23.10
+garompon: calls $14.59
+*** RIVER *** [8h 6h Ts 9s] [Ah]
+BIGTRIX6: bets $56.01 and is all-in
+garompon: folds 
+Uncalled bet ($56.01) returned to BIGTRIX6
+BIGTRIX6 collected $56.50 from pot
+*** SUMMARY ***
+Total pot $59 | Rake $2.50 
+Board [8h 6h Ts 9s Ah]
+Seat 1: garompon (button blind) folded on the River
+Seat 2: santisala folded before Flop (didn't bet)
+Seat 3: picka4u folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: BIGTRIX6 collected ($56.50)
+
+
+
+PokerStars Hand #196140740332:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:06:20 EET [2019/01/23 19:06:20 ET]
+Table 'Eulalia' 6-max Seat #2 is the button
+Seat 1: garompon ($75 in chips) 
+Seat 2: santisala ($47.02 in chips) 
+Seat 3: picka4u ($143.90 in chips) 
+Seat 4: gaiggibeliin ($76.88 in chips) 
+Seat 5: bosteeks ($75 in chips) 
+Seat 6: BIGTRIX6 ($112.51 in chips) 
+garompon: posts the ante $0.50
+santisala: posts the ante $0.50
+picka4u: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+bosteeks: posts the ante $0.50
+BIGTRIX6: posts the ante $0.50
+santisala: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kd As]
+picka4u: folds 
+gaiggibeliin: calls $0.50
+bosteeks: calls $0.50
+BIGTRIX6: calls $0.50
+garompon: calls $0.50
+santisala: raises $5.50 to $6
+gaiggibeliin: raises $70.38 to $76.38 and is all-in
+bosteeks: folds 
+BIGTRIX6: folds 
+garompon: folds 
+santisala: calls $40.52 and is all-in
+Uncalled bet ($29.86) returned to gaiggibeliin
+*** FLOP *** [6d 7s Ac]
+*** TURN *** [6d 7s Ac] [Qs]
+*** RIVER *** [6d 7s Ac Qs] [Ah]
+*** SHOW DOWN ***
+gaiggibeliin: shows [Kd As] (three of a kind, Aces)
+santisala: shows [6h 6c] (a full house, Sixes full of Aces)
+santisala collected $95.04 from pot
+*** SUMMARY ***
+Total pot $97.54 | Rake $2.50 
+Board [6d 7s Ac Qs Ah]
+Seat 1: garompon folded before Flop
+Seat 2: santisala (button blind) showed [6h 6c] and won ($95.04) with a full house, Sixes full of Aces
+Seat 3: picka4u folded before Flop (didn't bet)
+Seat 4: gaiggibeliin showed [Kd As] and lost with three of a kind, Aces
+Seat 5: bosteeks folded before Flop
+Seat 6: BIGTRIX6 folded before Flop
+
+
+
+PokerStars Hand #196140764127:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:07:04 EET [2019/01/23 19:07:04 ET]
+Table 'Eulalia' 6-max Seat #3 is the button
+Seat 1: garompon ($75 in chips) 
+Seat 2: santisala ($95.04 in chips) 
+Seat 3: picka4u ($143.40 in chips) 
+Seat 4: gaiggibeliin ($75 in chips) 
+Seat 5: bosteeks ($74 in chips) 
+Seat 6: BIGTRIX6 ($111.51 in chips) 
+garompon: posts the ante $0.50
+santisala: posts the ante $0.50
+picka4u: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+bosteeks: posts the ante $0.50
+BIGTRIX6: posts the ante $0.50
+picka4u: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qc Ks]
+gaiggibeliin: calls $0.50
+bosteeks: calls $0.50
+BIGTRIX6: calls $0.50
+garompon: calls $0.50
+santisala: raises $2.50 to $3
+picka4u: calls $2.50
+gaiggibeliin: folds 
+bosteeks: raises $70.50 to $73.50 and is all-in
+BIGTRIX6: folds 
+garompon: folds 
+santisala: calls $70.50
+picka4u: folds 
+*** FLOP *** [7c Jd Jc]
+*** TURN *** [7c Jd Jc] [7s]
+*** RIVER *** [7c Jd Jc 7s] [8c]
+*** SHOW DOWN ***
+bosteeks: shows [As Kd] (two pair, Jacks and Sevens)
+santisala: shows [Ah 8h] (two pair, Jacks and Eights)
+santisala collected $152 from pot
+*** SUMMARY ***
+Total pot $154.50 | Rake $2.50 
+Board [7c Jd Jc 7s 8c]
+Seat 1: garompon folded before Flop
+Seat 2: santisala showed [Ah 8h] and won ($152) with two pair, Jacks and Eights
+Seat 3: picka4u (button blind) folded before Flop
+Seat 4: gaiggibeliin folded before Flop
+Seat 5: bosteeks showed [As Kd] and lost with two pair, Jacks and Sevens
+Seat 6: BIGTRIX6 folded before Flop
+
+
+
+PokerStars Hand #196140792814:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:07:58 EET [2019/01/23 19:07:58 ET]
+Table 'Eulalia' 6-max Seat #4 is the button
+Seat 1: garompon ($75 in chips) 
+Seat 2: santisala ($173.04 in chips) 
+Seat 3: picka4u ($139.90 in chips) 
+Seat 4: gaiggibeliin ($74 in chips) 
+Seat 6: BIGTRIX6 ($110.51 in chips) 
+garompon: posts the ante $0.50
+santisala: posts the ante $0.50
+picka4u: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+BIGTRIX6: posts the ante $0.50
+gaiggibeliin: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qc Qd]
+BIGTRIX6: folds 
+garompon: folds 
+santisala: raises $3.50 to $4
+picka4u: folds 
+gaiggibeliin: raises $69.50 to $73.50 and is all-in
+santisala: calls $69.50
+*** FLOP *** [Kd Ks Tc]
+*** TURN *** [Kd Ks Tc] [7d]
+*** RIVER *** [Kd Ks Tc 7d] [Jc]
+*** SHOW DOWN ***
+santisala: shows [Ad 9d] (a pair of Kings)
+gaiggibeliin: shows [Qc Qd] (two pair, Kings and Queens)
+gaiggibeliin collected $147 from pot
+*** SUMMARY ***
+Total pot $149.50 | Rake $2.50 
+Board [Kd Ks Tc 7d Jc]
+Seat 1: garompon folded before Flop (didn't bet)
+Seat 2: santisala showed [Ad 9d] and lost with a pair of Kings
+Seat 3: picka4u folded before Flop (didn't bet)
+Seat 4: gaiggibeliin (button blind) showed [Qc Qd] and won ($147) with two pair, Kings and Queens
+Seat 6: BIGTRIX6 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196140809404:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:08:29 EET [2019/01/23 19:08:29 ET]
+Table 'Eulalia' 6-max Seat #6 is the button
+Seat 1: garompon ($75 in chips) 
+Seat 2: santisala ($99.04 in chips) 
+Seat 3: picka4u ($139.40 in chips) 
+Seat 4: gaiggibeliin ($147 in chips) 
+Seat 6: BIGTRIX6 ($110.01 in chips) 
+garompon: posts the ante $0.50
+santisala: posts the ante $0.50
+picka4u: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+BIGTRIX6: posts the ante $0.50
+BIGTRIX6: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ac Qh]
+garompon: folds 
+santisala: raises $1 to $1.50
+picka4u: folds 
+gaiggibeliin: raises $6 to $7.50
+BIGTRIX6: calls $7
+santisala: calls $6
+*** FLOP *** [Qs Ts Kc]
+santisala: checks 
+gaiggibeliin: checks 
+BIGTRIX6: checks 
+*** TURN *** [Qs Ts Kc] [8c]
+santisala: bets $13.50
+gaiggibeliin: folds 
+BIGTRIX6: folds 
+Uncalled bet ($13.50) returned to santisala
+santisala collected $23.75 from pot
+*** SUMMARY ***
+Total pot $25 | Rake $1.25 
+Board [Qs Ts Kc 8c]
+Seat 1: garompon folded before Flop (didn't bet)
+Seat 2: santisala collected ($23.75)
+Seat 3: picka4u folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded on the Turn
+Seat 6: BIGTRIX6 (button blind) folded on the Turn
+
+
+
+PokerStars Hand #196140856245:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:09:58 EET [2019/01/23 19:09:58 ET]
+Table 'Eulalia' 6-max Seat #1 is the button
+Seat 1: garompon ($75 in chips) 
+Seat 2: santisala ($114.79 in chips) 
+Seat 3: picka4u ($138.90 in chips) 
+Seat 4: gaiggibeliin ($139 in chips) 
+Seat 6: BIGTRIX6 ($102.01 in chips) 
+garompon: posts the ante $0.50
+santisala: posts the ante $0.50
+picka4u: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+BIGTRIX6: posts the ante $0.50
+garompon: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Td 8s]
+santisala: calls $0.50
+picka4u: folds 
+gaiggibeliin: folds 
+BIGTRIX6: raises $1 to $1.50
+garompon: calls $1
+santisala: calls $1
+*** FLOP *** [7s 6c 7d]
+santisala: checks 
+BIGTRIX6: checks 
+garompon: bets $3.33
+santisala: folds 
+BIGTRIX6: folds 
+Uncalled bet ($3.33) returned to garompon
+garompon collected $6.65 from pot
+garompon: doesn't show hand 
+*** SUMMARY ***
+Total pot $7 | Rake $0.35 
+Board [7s 6c 7d]
+Seat 1: garompon (button blind) collected ($6.65)
+Seat 2: santisala folded on the Flop
+Seat 3: picka4u folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: BIGTRIX6 folded on the Flop
+
+
+
+PokerStars Hand #196140882525:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:10:47 EET [2019/01/23 19:10:47 ET]
+Table 'Eulalia' 6-max Seat #2 is the button
+Seat 1: garompon ($79.65 in chips) 
+Seat 2: santisala ($112.79 in chips) 
+Seat 3: picka4u ($138.40 in chips) 
+Seat 4: gaiggibeliin ($138.50 in chips) 
+Seat 6: BIGTRIX6 ($100.01 in chips) 
+garompon: posts the ante $0.50
+santisala: posts the ante $0.50
+picka4u: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+BIGTRIX6: posts the ante $0.50
+santisala: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ah 9h]
+picka4u: folds 
+gaiggibeliin: calls $0.50
+BIGTRIX6: folds 
+garompon: raises $0.50 to $1
+santisala: calls $0.50
+gaiggibeliin: calls $0.50
+*** FLOP *** [9s Th As]
+gaiggibeliin: checks 
+garompon: checks 
+santisala: bets $2.50
+gaiggibeliin: raises $12.50 to $15
+garompon: folds 
+santisala: folds 
+Uncalled bet ($12.50) returned to gaiggibeliin
+gaiggibeliin collected $9.98 from pot
+*** SUMMARY ***
+Total pot $10.50 | Rake $0.52 
+Board [9s Th As]
+Seat 1: garompon folded on the Flop
+Seat 2: santisala (button blind) folded on the Flop
+Seat 3: picka4u folded before Flop (didn't bet)
+Seat 4: gaiggibeliin collected ($9.98)
+Seat 6: BIGTRIX6 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196140918035:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:11:55 EET [2019/01/23 19:11:55 ET]
+Table 'Eulalia' 6-max Seat #3 is the button
+Seat 1: garompon ($78.15 in chips) 
+Seat 2: santisala ($108.79 in chips) 
+Seat 3: picka4u ($137.90 in chips) 
+Seat 4: gaiggibeliin ($144.48 in chips) 
+Seat 5: bosteeks ($75 in chips) 
+Seat 6: BIGTRIX6 ($99.51 in chips) 
+garompon: posts the ante $0.50
+santisala: posts the ante $0.50
+picka4u: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+bosteeks: posts the ante $0.50
+BIGTRIX6: posts the ante $0.50
+picka4u: posts button blind $0.50
+bosteeks: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7h Ts]
+gaiggibeliin: folds 
+bosteeks: raises $1 to $1.50
+BIGTRIX6: calls $1.50
+garompon: folds 
+santisala: calls $1.50
+picka4u: calls $1
+*** FLOP *** [Qc 7c 8d]
+bosteeks: bets $4.50
+BIGTRIX6: folds 
+santisala: folds 
+picka4u: folds 
+Uncalled bet ($4.50) returned to bosteeks
+bosteeks collected $8.55 from pot
+bosteeks: doesn't show hand 
+*** SUMMARY ***
+Total pot $9 | Rake $0.45 
+Board [Qc 7c 8d]
+Seat 1: garompon folded before Flop (didn't bet)
+Seat 2: santisala folded on the Flop
+Seat 3: picka4u (button blind) folded on the Flop
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: bosteeks collected ($8.55)
+Seat 6: BIGTRIX6 folded on the Flop
+
+
+
+PokerStars Hand #196140937161:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:12:31 EET [2019/01/23 19:12:31 ET]
+Table 'Eulalia' 6-max Seat #4 is the button
+Seat 1: garompon ($77.65 in chips) 
+Seat 2: santisala ($106.79 in chips) 
+Seat 3: picka4u ($135.90 in chips) 
+Seat 4: gaiggibeliin ($143.98 in chips) 
+Seat 5: bosteeks ($81.55 in chips) 
+Seat 6: BIGTRIX6 ($97.51 in chips) 
+garompon: posts the ante $0.50
+santisala: posts the ante $0.50
+picka4u: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+bosteeks: posts the ante $0.50
+BIGTRIX6: posts the ante $0.50
+gaiggibeliin: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qh 6c]
+bosteeks: folds 
+BIGTRIX6: raises $0.50 to $1
+garompon: folds 
+santisala: raises $5.50 to $6.50
+picka4u: raises $128.90 to $135.40 and is all-in
+gaiggibeliin: folds 
+BIGTRIX6: folds 
+santisala: calls $99.79 and is all-in
+Uncalled bet ($29.11) returned to picka4u
+*** FLOP *** [As Ks 9c]
+*** TURN *** [As Ks 9c] [8c]
+*** RIVER *** [As Ks 9c 8c] [7c]
+*** SHOW DOWN ***
+santisala: shows [Qs Qd] (a pair of Queens)
+picka4u: shows [Ad Ah] (three of a kind, Aces)
+picka4u collected $214.58 from pot
+*** SUMMARY ***
+Total pot $217.08 | Rake $2.50 
+Board [As Ks 9c 8c 7c]
+Seat 1: garompon folded before Flop (didn't bet)
+Seat 2: santisala showed [Qs Qd] and lost with a pair of Queens
+Seat 3: picka4u showed [Ad Ah] and won ($214.58) with three of a kind, Aces
+Seat 4: gaiggibeliin (button blind) folded before Flop
+Seat 5: bosteeks folded before Flop (didn't bet)
+Seat 6: BIGTRIX6 folded before Flop
+
+
+

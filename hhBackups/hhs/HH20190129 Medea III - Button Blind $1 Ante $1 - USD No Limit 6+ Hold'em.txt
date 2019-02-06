@@ -1,0 +1,966 @@
+﻿PokerStars Hand #196379457085:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:45:17 EET [2019/01/29 13:45:17 ET]
+Table 'Medea III' 6-max Seat #3 is the button
+Seat 1: gaiggibeliin ($150 in chips) 
+Seat 3: Bakarisation ($150 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+Bakarisation: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jc 6c]
+gaiggibeliin: folds 
+Uncalled bet ($1) returned to Bakarisation
+Bakarisation collected $2 from pot
+Bakarisation: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: Bakarisation (button blind) collected ($2)
+
+
+
+PokerStars Hand #196379465943:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:45:29 EET [2019/01/29 13:45:29 ET]
+Table 'Medea III' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($149 in chips) 
+Seat 3: Bakarisation ($151 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Td 7d]
+Bakarisation: calls $1
+gaiggibeliin: raises $6 to $7
+Bakarisation: folds 
+Uncalled bet ($6) returned to gaiggibeliin
+gaiggibeliin collected $4 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 1: gaiggibeliin (button blind) collected ($4)
+Seat 3: Bakarisation folded before Flop
+
+
+
+PokerStars Hand #196379475546:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:45:41 EET [2019/01/29 13:45:41 ET]
+Table 'Medea III' 6-max Seat #3 is the button
+Seat 1: gaiggibeliin ($151 in chips) 
+Seat 3: Bakarisation ($149 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+Bakarisation: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8d 6s]
+gaiggibeliin: folds 
+Uncalled bet ($1) returned to Bakarisation
+Bakarisation collected $2 from pot
+Bakarisation: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: Bakarisation (button blind) collected ($2)
+
+
+
+PokerStars Hand #196379480632:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:45:48 EET [2019/01/29 13:45:48 ET]
+Table 'Medea III' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($150 in chips) 
+Seat 3: Bakarisation ($150 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kd Jh]
+Bakarisation: calls $1
+gaiggibeliin: raises $6 to $7
+Bakarisation: folds 
+Uncalled bet ($6) returned to gaiggibeliin
+gaiggibeliin collected $4 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 1: gaiggibeliin (button blind) collected ($4)
+Seat 3: Bakarisation folded before Flop
+
+
+
+PokerStars Hand #196379488091:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:45:58 EET [2019/01/29 13:45:58 ET]
+Table 'Medea III' 6-max Seat #3 is the button
+Seat 1: gaiggibeliin ($152 in chips) 
+Seat 3: Bakarisation ($148 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+Bakarisation: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7c Tc]
+gaiggibeliin: calls $1
+Bakarisation: raises $4 to $5
+gaiggibeliin: calls $4
+*** FLOP *** [Kc Ah Ad]
+gaiggibeliin: checks 
+Bakarisation: bets $3.53
+gaiggibeliin: folds 
+Uncalled bet ($3.53) returned to Bakarisation
+Bakarisation collected $11.40 from pot
+Bakarisation: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0.60 
+Board [Kc Ah Ad]
+Seat 1: gaiggibeliin folded on the Flop
+Seat 3: Bakarisation (button blind) collected ($11.40)
+
+
+
+PokerStars Hand #196379515390:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:46:34 EET [2019/01/29 13:46:34 ET]
+Table 'Medea III' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($146 in chips) 
+Seat 3: Bakarisation ($153.40 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Td Ks]
+Bakarisation: calls $1
+gaiggibeliin: raises $6 to $7
+Bakarisation: folds 
+Uncalled bet ($6) returned to gaiggibeliin
+gaiggibeliin collected $4 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 1: gaiggibeliin (button blind) collected ($4)
+Seat 3: Bakarisation folded before Flop
+
+
+
+PokerStars Hand #196379521327:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:46:41 EET [2019/01/29 13:46:41 ET]
+Table 'Medea III' 6-max Seat #3 is the button
+Seat 1: gaiggibeliin ($148 in chips) 
+Seat 3: Bakarisation ($151.40 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+Bakarisation: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6c 7d]
+gaiggibeliin: calls $1
+Bakarisation: checks 
+*** FLOP *** [Kh 9c Ac]
+gaiggibeliin: checks 
+Bakarisation: checks 
+*** TURN *** [Kh 9c Ac] [Ts]
+gaiggibeliin: checks 
+Washilinba joins the table at seat #4 
+Bakarisation: checks 
+*** RIVER *** [Kh 9c Ac Ts] [Jh]
+gaiggibeliin: checks 
+Bakarisation: checks 
+*** SHOW DOWN ***
+gaiggibeliin: shows [6c 7d] (high card Ace)
+Bakarisation: shows [6s 6h] (a pair of Sixes)
+Bakarisation collected $3.80 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [Kh 9c Ac Ts Jh]
+Seat 1: gaiggibeliin showed [6c 7d] and lost with high card Ace
+Seat 3: Bakarisation (button blind) showed [6s 6h] and won ($3.80) with a pair of Sixes
+
+
+
+PokerStars Hand #196379569273:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:47:45 EET [2019/01/29 13:47:45 ET]
+Table 'Medea III' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($146 in chips) 
+Seat 3: Bakarisation ($153.20 in chips) 
+Seat 4: Washilinba ($150 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+Washilinba: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Js Ah]
+Bakarisation: calls $1
+Washilinba: calls $1
+gaiggibeliin: raises $9 to $10
+Bakarisation: folds 
+Washilinba: calls $9
+*** FLOP *** [Jh Kd 7s]
+Washilinba: checks 
+gaiggibeliin: bets $11.86
+Washilinba: calls $11.86
+*** TURN *** [Jh Kd 7s] [Kh]
+Washilinba: checks 
+gaiggibeliin: checks 
+*** RIVER *** [Jh Kd 7s Kh] [As]
+Washilinba: bets $32
+gaiggibeliin: folds 
+Uncalled bet ($32) returned to Washilinba
+Washilinba collected $46.47 from pot
+Washilinba: doesn't show hand 
+*** SUMMARY ***
+Total pot $47.72 | Rake $1.25 
+Board [Jh Kd 7s Kh As]
+Seat 1: gaiggibeliin (button blind) folded on the River
+Seat 3: Bakarisation folded before Flop
+Seat 4: Washilinba collected ($46.47)
+
+
+
+PokerStars Hand #196379608310:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:48:36 EET [2019/01/29 13:48:36 ET]
+Table 'Medea III' 6-max Seat #3 is the button
+Seat 1: gaiggibeliin ($123.14 in chips) 
+Seat 3: Bakarisation ($151.20 in chips) 
+Seat 4: Washilinba ($173.61 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+Washilinba: posts the ante $1
+Bakarisation: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6h 8s]
+Washilinba: calls $1
+gaiggibeliin: folds 
+Bakarisation: raises $5 to $6
+Washilinba: calls $5
+*** FLOP *** [9d Ad Qc]
+Washilinba: checks 
+Bakarisation: checks 
+*** TURN *** [9d Ad Qc] [8d]
+Washilinba: bets $7
+Bakarisation: folds 
+Uncalled bet ($7) returned to Washilinba
+Washilinba collected $14.25 from pot
+Washilinba: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0.75 
+Board [9d Ad Qc 8d]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: Bakarisation (button blind) folded on the Turn
+Seat 4: Washilinba collected ($14.25)
+
+
+
+PokerStars Hand #196379627730:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:49:02 EET [2019/01/29 13:49:02 ET]
+Table 'Medea III' 6-max Seat #4 is the button
+Seat 1: gaiggibeliin ($122.14 in chips) 
+Seat 3: Bakarisation ($144.20 in chips) 
+Seat 4: Washilinba ($180.86 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+Washilinba: posts the ante $1
+Washilinba: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6h Jd]
+gaiggibeliin: folds 
+Bakarisation: calls $1
+Washilinba: checks 
+*** FLOP *** [Qd Kc 9s]
+Bakarisation: checks 
+Washilinba: checks 
+*** TURN *** [Qd Kc 9s] [6d]
+Bakarisation: bets $3.23
+Washilinba: folds 
+Uncalled bet ($3.23) returned to Bakarisation
+Bakarisation collected $4.75 from pot
+Bakarisation: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [Qd Kc 9s 6d]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: Bakarisation collected ($4.75)
+Seat 4: Washilinba (button blind) folded on the Turn
+
+
+
+PokerStars Hand #196379638993:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:49:17 EET [2019/01/29 13:49:17 ET]
+Table 'Medea III' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($121.14 in chips) 
+Seat 3: Bakarisation ($146.95 in chips) 
+Seat 4: Washilinba ($178.86 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+Washilinba: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9s Th]
+Bakarisation: folds 
+Washilinba: raises $5 to $6
+gaiggibeliin: calls $5
+*** FLOP *** [Ts 6h 7s]
+Washilinba: checks 
+gaiggibeliin: bets $9
+Washilinba: calls $9
+*** TURN *** [Ts 6h 7s] [6c]
+Washilinba: bets $16
+gaiggibeliin: calls $16
+*** RIVER *** [Ts 6h 7s 6c] [Kc]
+Washilinba: bets $146.86 and is all-in
+gaiggibeliin: folds 
+Uncalled bet ($146.86) returned to Washilinba
+Washilinba collected $63.75 from pot
+Washilinba: doesn't show hand 
+*** SUMMARY ***
+Total pot $65 | Rake $1.25 
+Board [Ts 6h 7s 6c Kc]
+Seat 1: gaiggibeliin (button blind) folded on the River
+Seat 3: Bakarisation folded before Flop (didn't bet)
+Seat 4: Washilinba collected ($63.75)
+
+
+
+PokerStars Hand #196379670633:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:49:59 EET [2019/01/29 13:49:59 ET]
+Table 'Medea III' 6-max Seat #3 is the button
+Seat 1: gaiggibeliin ($150 in chips) 
+Seat 3: Bakarisation ($145.95 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+Bakarisation: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ts Js]
+gaiggibeliin: raises $6 to $7
+Bakarisation: folds 
+Uncalled bet ($6) returned to gaiggibeliin
+gaiggibeliin collected $4 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 1: gaiggibeliin collected ($4)
+Seat 3: Bakarisation (button blind) folded before Flop
+
+
+
+PokerStars Hand #196379676766:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:50:07 EET [2019/01/29 13:50:07 ET]
+Table 'Medea III' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($152 in chips) 
+Seat 3: Bakarisation ($143.95 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8h 8c]
+Bakarisation: calls $1
+gaiggibeliin: raises $6 to $7
+Bakarisation: folds 
+Uncalled bet ($6) returned to gaiggibeliin
+gaiggibeliin collected $4 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 1: gaiggibeliin (button blind) collected ($4)
+Seat 3: Bakarisation folded before Flop
+
+
+
+PokerStars Hand #196379689594:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:50:25 EET [2019/01/29 13:50:25 ET]
+Table 'Medea III' 6-max Seat #3 is the button
+Seat 1: gaiggibeliin ($154 in chips) 
+Seat 3: Bakarisation ($141.95 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+Bakarisation: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Tc 9d]
+gaiggibeliin: calls $1
+Bakarisation: checks 
+*** FLOP *** [8d 9s Ks]
+gaiggibeliin: checks 
+Washilinba leaves the table
+Bakarisation: bets $1.18
+gaiggibeliin: calls $1.18
+*** TURN *** [8d 9s Ks] [7c]
+gaiggibeliin: checks 
+jacktripkill joins the table at seat #2 
+Bakarisation: checks 
+*** RIVER *** [8d 9s Ks 7c] [8h]
+gaiggibeliin: checks 
+Zihuatanejo3 joins the table at seat #6 
+Bakarisation: checks 
+*** SHOW DOWN ***
+gaiggibeliin: shows [Tc 9d] (two pair, Nines and Eights)
+Bakarisation: mucks hand 
+gaiggibeliin collected $6.04 from pot
+*** SUMMARY ***
+Total pot $6.36 | Rake $0.32 
+Board [8d 9s Ks 7c 8h]
+Seat 1: gaiggibeliin showed [Tc 9d] and won ($6.04) with two pair, Nines and Eights
+Seat 3: Bakarisation (button blind) mucked [7d Ts]
+
+
+
+PokerStars Hand #196379813501:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:53:09 EET [2019/01/29 13:53:09 ET]
+Table 'Medea III' 6-max Seat #3 is the button
+Seat 1: gaiggibeliin ($156.86 in chips) 
+Seat 2: jacktripkill ($152.89 in chips) 
+Seat 3: Bakarisation ($150 in chips) 
+Seat 4: RealRegal77 ($197.76 in chips) 
+Seat 6: Zihuatanejo3 ($133.69 in chips) 
+gaiggibeliin: posts the ante $1
+jacktripkill: posts the ante $1
+Bakarisation: posts the ante $1
+RealRegal77: posts the ante $1
+Zihuatanejo3: posts the ante $1
+Bakarisation: posts button blind $1
+gaiggibeliin: posts big blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8d As]
+RealRegal77: folds 
+Zihuatanejo3: calls $1
+gaiggibeliin: checks 
+jacktripkill: raises $9 to $10
+Bakarisation: folds 
+Zihuatanejo3: folds 
+gaiggibeliin: folds 
+Uncalled bet ($9) returned to jacktripkill
+jacktripkill collected $9 from pot
+jacktripkill: doesn't show hand 
+*** SUMMARY ***
+Total pot $9 | Rake $0 
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: jacktripkill collected ($9)
+Seat 3: Bakarisation (button blind) folded before Flop
+Seat 4: RealRegal77 folded before Flop (didn't bet)
+Seat 6: Zihuatanejo3 folded before Flop
+
+
+
+PokerStars Hand #196379839567:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:53:44 EET [2019/01/29 13:53:44 ET]
+Table 'Medea III' 6-max Seat #4 is the button
+Seat 1: gaiggibeliin ($154.86 in chips) 
+Seat 2: jacktripkill ($159.89 in chips) 
+Seat 3: Bakarisation ($148 in chips) 
+Seat 4: RealRegal77 ($196.76 in chips) 
+Seat 6: Zihuatanejo3 ($131.69 in chips) 
+gaiggibeliin: posts the ante $1
+jacktripkill: posts the ante $1
+Bakarisation: posts the ante $1
+RealRegal77: posts the ante $1
+Zihuatanejo3: posts the ante $1
+RealRegal77: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9c Qd]
+Zihuatanejo3: folds 
+gaiggibeliin: folds 
+jacktripkill: calls $1
+Bakarisation: raises $5 to $6
+RealRegal77: raises $18 to $24
+jacktripkill: folds 
+Bakarisation: raises $123 to $147 and is all-in
+RealRegal77: calls $123
+*** FLOP *** [Ad Qh Kd]
+*** TURN *** [Ad Qh Kd] [Th]
+*** RIVER *** [Ad Qh Kd Th] [Qc]
+*** SHOW DOWN ***
+Bakarisation: shows [Ks Kh] (a full house, Kings full of Queens)
+RealRegal77: shows [As Ac] (a full house, Aces full of Queens)
+RealRegal77 collected $297.25 from pot
+*** SUMMARY ***
+Total pot $300 | Rake $2.75 
+Board [Ad Qh Kd Th Qc]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: jacktripkill folded before Flop
+Seat 3: Bakarisation showed [Ks Kh] and lost with a full house, Kings full of Queens
+Seat 4: RealRegal77 (button blind) showed [As Ac] and won ($297.25) with a full house, Aces full of Queens
+Seat 6: Zihuatanejo3 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196379879422:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:54:36 EET [2019/01/29 13:54:36 ET]
+Table 'Medea III' 6-max Seat #6 is the button
+Seat 1: gaiggibeliin ($153.86 in chips) 
+Seat 2: jacktripkill ($157.89 in chips) 
+Seat 3: Bakarisation ($150 in chips) 
+Seat 4: RealRegal77 ($346.01 in chips) 
+Seat 6: Zihuatanejo3 ($130.69 in chips) 
+gaiggibeliin: posts the ante $1
+jacktripkill: posts the ante $1
+Bakarisation: posts the ante $1
+RealRegal77: posts the ante $1
+Zihuatanejo3: posts the ante $1
+Zihuatanejo3: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7c 6h]
+gaiggibeliin: folds 
+jacktripkill: calls $1
+Bakarisation: raises $4 to $5
+RealRegal77: calls $5
+Zihuatanejo3: folds 
+jacktripkill: calls $4
+*** FLOP *** [8h 7s Jh]
+jacktripkill: checks 
+Bakarisation: checks 
+RealRegal77: checks 
+*** TURN *** [8h 7s Jh] [Qc]
+jacktripkill: checks 
+Bakarisation: checks 
+RealRegal77: bets $9.98
+jacktripkill: calls $9.98
+Bakarisation: folds 
+*** RIVER *** [8h 7s Jh Qc] [8s]
+jacktripkill: checks 
+RealRegal77: checks 
+*** SHOW DOWN ***
+jacktripkill: shows [Kh 7h] (two pair, Eights and Sevens)
+RealRegal77: shows [Th Jc] (two pair, Jacks and Eights)
+RealRegal77 collected $38.91 from pot
+*** SUMMARY ***
+Total pot $40.96 | Rake $2.05 
+Board [8h 7s Jh Qc 8s]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: jacktripkill showed [Kh 7h] and lost with two pair, Eights and Sevens
+Seat 3: Bakarisation folded on the Turn
+Seat 4: RealRegal77 showed [Th Jc] and won ($38.91) with two pair, Jacks and Eights
+Seat 6: Zihuatanejo3 (button blind) folded before Flop
+
+
+
+PokerStars Hand #196379915728:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:55:28 EET [2019/01/29 13:55:28 ET]
+Table 'Medea III' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($152.86 in chips) 
+Seat 2: jacktripkill ($141.91 in chips) 
+Seat 3: Bakarisation ($144 in chips) 
+Seat 4: RealRegal77 ($368.94 in chips) 
+Seat 6: Zihuatanejo3 ($128.69 in chips) 
+gaiggibeliin: posts the ante $1
+jacktripkill: posts the ante $1
+Bakarisation: posts the ante $1
+RealRegal77: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Td Tc]
+jacktripkill: raises $7 to $8
+Bakarisation: folds 
+RealRegal77: folds 
+Zihuatanejo3: folds 
+gaiggibeliin: calls $7
+*** FLOP *** [7c Kc 9h]
+jacktripkill: bets $9.98
+gaiggibeliin: folds 
+Uncalled bet ($9.98) returned to jacktripkill
+jacktripkill collected $19.95 from pot
+jacktripkill: doesn't show hand 
+*** SUMMARY ***
+Total pot $21 | Rake $1.05 
+Board [7c Kc 9h]
+Seat 1: gaiggibeliin (button blind) folded on the Flop
+Seat 2: jacktripkill collected ($19.95)
+Seat 3: Bakarisation folded before Flop (didn't bet)
+Seat 4: RealRegal77 folded before Flop (didn't bet)
+Seat 6: Zihuatanejo3 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196379934278:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:55:59 EET [2019/01/29 13:55:59 ET]
+Table 'Medea III' 6-max Seat #2 is the button
+Seat 1: gaiggibeliin ($143.86 in chips) 
+Seat 2: jacktripkill ($152.86 in chips) 
+Seat 3: Bakarisation ($143 in chips) 
+Seat 4: RealRegal77 ($367.94 in chips) 
+Seat 6: Zihuatanejo3 ($127.69 in chips) 
+gaiggibeliin: posts the ante $1
+jacktripkill: posts the ante $1
+Bakarisation: posts the ante $1
+RealRegal77: posts the ante $1
+Zihuatanejo3: posts the ante $1
+jacktripkill: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ac Jc]
+Bakarisation: raises $4 to $5
+RealRegal77: calls $5
+Zihuatanejo3: calls $5
+gaiggibeliin: calls $5
+jacktripkill: calls $4
+*** FLOP *** [Qc Jh 9h]
+Bakarisation: checks 
+RealRegal77: bets $14.25
+Zihuatanejo3: folds 
+gaiggibeliin: folds 
+jacktripkill: calls $14.25
+Bakarisation: folds 
+*** TURN *** [Qc Jh 9h] [6s]
+RealRegal77: bets $27.88
+jacktripkill: calls $27.88
+*** RIVER *** [Qc Jh 9h 6s] [9s]
+RealRegal77: checks 
+jacktripkill: bets $104.73 and is all-in
+RealRegal77: calls $104.73
+*** SHOW DOWN ***
+jacktripkill: shows [Js 7s] (two pair, Jacks and Nines)
+RealRegal77: shows [Kc Ts] (a straight, Nine to King)
+RealRegal77 collected $320.97 from pot
+*** SUMMARY ***
+Total pot $323.72 | Rake $2.75 
+Board [Qc Jh 9h 6s 9s]
+Seat 1: gaiggibeliin folded on the Flop
+Seat 2: jacktripkill (button blind) showed [Js 7s] and lost with two pair, Jacks and Nines
+Seat 3: Bakarisation folded on the Flop
+Seat 4: RealRegal77 showed [Kc Ts] and won ($320.97) with a straight, Nine to King
+Seat 6: Zihuatanejo3 folded on the Flop
+
+
+
+PokerStars Hand #196379987324:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:57:27 EET [2019/01/29 13:57:27 ET]
+Table 'Medea III' 6-max Seat #3 is the button
+Seat 1: gaiggibeliin ($137.86 in chips) 
+Seat 3: Bakarisation ($137 in chips) 
+Seat 4: RealRegal77 ($536.05 in chips) 
+Seat 6: Zihuatanejo3 ($121.69 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+RealRegal77: posts the ante $1
+Zihuatanejo3: posts the ante $1
+Bakarisation: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qd 6s]
+RealRegal77: calls $1
+Zihuatanejo3: folds 
+gaiggibeliin: folds 
+jacktripkill leaves the table
+Bakarisation: checks 
+*** FLOP *** [Kc 6d 9c]
+RealRegal77: bets $1
+Bakarisation: calls $1
+*** TURN *** [Kc 6d 9c] [As]
+RealRegal77: checks 
+Bakarisation: checks 
+*** RIVER *** [Kc 6d 9c As] [Jd]
+RealRegal77: bets $7.60
+Bakarisation: folds 
+Uncalled bet ($7.60) returned to RealRegal77
+RealRegal77 collected $7.60 from pot
+RealRegal77: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [Kc 6d 9c As Jd]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: Bakarisation (button blind) folded on the River
+Seat 4: RealRegal77 collected ($7.60)
+Seat 6: Zihuatanejo3 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196380015457:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:58:14 EET [2019/01/29 13:58:14 ET]
+Table 'Medea III' 6-max Seat #4 is the button
+Seat 1: gaiggibeliin ($136.86 in chips) 
+Seat 3: Bakarisation ($134 in chips) 
+Seat 4: RealRegal77 ($540.65 in chips) 
+Seat 6: Zihuatanejo3 ($120.69 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+RealRegal77: posts the ante $1
+Zihuatanejo3: posts the ante $1
+RealRegal77: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jc Ah]
+Zihuatanejo3: calls $1
+gaiggibeliin: calls $1
+Bakarisation: folds 
+RealRegal77: checks 
+*** FLOP *** [Jd Kd Td]
+Zihuatanejo3: checks 
+gaiggibeliin: checks 
+RealRegal77: bets $3.33
+Zihuatanejo3: folds 
+gaiggibeliin: folds 
+Uncalled bet ($3.33) returned to RealRegal77
+RealRegal77 collected $6.65 from pot
+RealRegal77: doesn't show hand 
+*** SUMMARY ***
+Total pot $7 | Rake $0.35 
+Board [Jd Kd Td]
+Seat 1: gaiggibeliin folded on the Flop
+Seat 3: Bakarisation folded before Flop (didn't bet)
+Seat 4: RealRegal77 (button blind) collected ($6.65)
+Seat 6: Zihuatanejo3 folded on the Flop
+
+
+
+PokerStars Hand #196380040342:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:58:55 EET [2019/01/29 13:58:55 ET]
+Table 'Medea III' 6-max Seat #6 is the button
+Seat 1: gaiggibeliin ($134.86 in chips) 
+Seat 3: Bakarisation ($133 in chips) 
+Seat 4: RealRegal77 ($545.30 in chips) 
+Seat 6: Zihuatanejo3 ($118.69 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+RealRegal77: posts the ante $1
+Zihuatanejo3: posts the ante $1
+Zihuatanejo3: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6h Kh]
+gaiggibeliin: folds 
+Bakarisation: calls $1
+RealRegal77: calls $1
+Zihuatanejo3: checks 
+*** FLOP *** [8h Tc 7s]
+Bakarisation: checks 
+RealRegal77: checks 
+Zihuatanejo3: bets $4.50
+Bakarisation: folds 
+RealRegal77: folds 
+Uncalled bet ($4.50) returned to Zihuatanejo3
+Zihuatanejo3 collected $6.65 from pot
+*** SUMMARY ***
+Total pot $7 | Rake $0.35 
+Board [8h Tc 7s]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: Bakarisation folded on the Flop
+Seat 4: RealRegal77 folded on the Flop
+Seat 6: Zihuatanejo3 (button blind) collected ($6.65)
+
+
+
+PokerStars Hand #196380068669:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:59:42 EET [2019/01/29 13:59:42 ET]
+Table 'Medea III' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($133.86 in chips) 
+Seat 3: Bakarisation ($131 in chips) 
+Seat 4: RealRegal77 ($543.30 in chips) 
+Seat 6: Zihuatanejo3 ($123.34 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+RealRegal77: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kc 8h]
+Bakarisation: folds 
+RealRegal77: folds 
+Zihuatanejo3: raises $4 to $5
+gaiggibeliin: calls $4
+*** FLOP *** [Ts 9c Qh]
+Zihuatanejo3: checks 
+gaiggibeliin: checks 
+*** TURN *** [Ts 9c Qh] [6h]
+Zihuatanejo3: bets $7.50
+gaiggibeliin: folds 
+Uncalled bet ($7.50) returned to Zihuatanejo3
+Zihuatanejo3 collected $13.30 from pot
+*** SUMMARY ***
+Total pot $14 | Rake $0.70 
+Board [Ts 9c Qh 6h]
+Seat 1: gaiggibeliin (button blind) folded on the Turn
+Seat 3: Bakarisation folded before Flop (didn't bet)
+Seat 4: RealRegal77 folded before Flop (didn't bet)
+Seat 6: Zihuatanejo3 collected ($13.30)
+
+
+
+PokerStars Hand #196380107629:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 21:00:44 EET [2019/01/29 14:00:44 ET]
+Table 'Medea III' 6-max Seat #3 is the button
+Seat 1: gaiggibeliin ($127.86 in chips) 
+Seat 3: Bakarisation ($150 in chips) 
+Seat 4: RealRegal77 ($542.30 in chips) 
+Seat 6: Zihuatanejo3 ($130.64 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+RealRegal77: posts the ante $1
+Zihuatanejo3: posts the ante $1
+Bakarisation: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7c Qd]
+RealRegal77: calls $1
+Zihuatanejo3: folds 
+gaiggibeliin: folds 
+Bakarisation: checks 
+*** FLOP *** [Kd 6c 9h]
+RealRegal77: checks 
+Bakarisation: checks 
+*** TURN *** [Kd 6c 9h] [7h]
+RealRegal77: checks 
+Bakarisation: checks 
+*** RIVER *** [Kd 6c 9h 7h] [Th]
+RealRegal77: checks 
+Bakarisation: bets $2.96
+RealRegal77: folds 
+Uncalled bet ($2.96) returned to Bakarisation
+Bakarisation collected $5.70 from pot
+Bakarisation: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Kd 6c 9h 7h Th]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: Bakarisation (button blind) collected ($5.70)
+Seat 4: RealRegal77 folded on the River
+Seat 6: Zihuatanejo3 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196380160712:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 21:02:00 EET [2019/01/29 14:02:00 ET]
+Table 'Medea III' 6-max Seat #4 is the button
+Seat 1: gaiggibeliin ($126.86 in chips) 
+Seat 3: Bakarisation ($153.70 in chips) 
+Seat 4: RealRegal77 ($540.30 in chips) 
+Seat 6: Zihuatanejo3 ($129.64 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+RealRegal77: posts the ante $1
+Zihuatanejo3: posts the ante $1
+RealRegal77: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9h Qc]
+Zihuatanejo3: folds 
+gaiggibeliin: folds 
+Bakarisation: calls $1
+RealRegal77: checks 
+*** FLOP *** [9c 7c As]
+Bakarisation: bets $1.77
+RealRegal77: folds 
+Uncalled bet ($1.77) returned to Bakarisation
+Bakarisation collected $5.70 from pot
+Bakarisation: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [9c 7c As]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: Bakarisation collected ($5.70)
+Seat 4: RealRegal77 (button blind) folded on the Flop
+Seat 6: Zihuatanejo3 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196380170350:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 21:02:13 EET [2019/01/29 14:02:13 ET]
+Table 'Medea III' 6-max Seat #6 is the button
+Seat 1: gaiggibeliin ($125.86 in chips) 
+Seat 3: Bakarisation ($157.40 in chips) 
+Seat 6: Zihuatanejo3 ($128.64 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+Zihuatanejo3: posts the ante $1
+Zihuatanejo3: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7s 8d]
+RealRegal77 leaves the table
+gaiggibeliin: folds 
+Bakarisation: calls $1
+Zihuatanejo3: checks 
+*** FLOP *** [Ts Jc Ac]
+Bakarisation: bets $3.23
+Zihuatanejo3: folds 
+Uncalled bet ($3.23) returned to Bakarisation
+Bakarisation collected $4.75 from pot
+Bakarisation: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [Ts Jc Ac]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: Bakarisation collected ($4.75)
+Seat 6: Zihuatanejo3 (button blind) folded on the Flop
+
+
+
+PokerStars Hand #196380191595:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 21:02:41 EET [2019/01/29 14:02:41 ET]
+Table 'Medea III' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($124.86 in chips) 
+Seat 3: Bakarisation ($160.15 in chips) 
+Seat 6: Zihuatanejo3 ($126.64 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Js 7h]
+Bakarisation: folds 
+Zihuatanejo3: raises $4 to $5
+gaiggibeliin: calls $4
+*** FLOP *** [Kc 6s 9s]
+Zihuatanejo3: checks 
+gaiggibeliin: checks 
+*** TURN *** [Kc 6s 9s] [Ac]
+Zihuatanejo3: bets $6.50
+gaiggibeliin: folds 
+Uncalled bet ($6.50) returned to Zihuatanejo3
+Zihuatanejo3 collected $12.35 from pot
+*** SUMMARY ***
+Total pot $13 | Rake $0.65 
+Board [Kc 6s 9s Ac]
+Seat 1: gaiggibeliin (button blind) folded on the Turn
+Seat 3: Bakarisation folded before Flop (didn't bet)
+Seat 6: Zihuatanejo3 collected ($12.35)
+
+
+
+PokerStars Hand #196380212948:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 21:03:09 EET [2019/01/29 14:03:09 ET]
+Table 'Medea III' 6-max Seat #3 is the button
+Seat 1: gaiggibeliin ($118.86 in chips) 
+Seat 3: Bakarisation ($159.15 in chips) 
+Seat 6: Zihuatanejo3 ($132.99 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+Zihuatanejo3: posts the ante $1
+Bakarisation: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Js 8c]
+Zihuatanejo3: raises $3 to $4
+gaiggibeliin: folds 
+Bakarisation: raises $10 to $14
+Zihuatanejo3: calls $10
+*** FLOP *** [6s Jd 6h]
+Zihuatanejo3: checks 
+Bakarisation: checks 
+*** TURN *** [6s Jd 6h] [Th]
+Zihuatanejo3: checks 
+Bakarisation: checks 
+*** RIVER *** [6s Jd 6h Th] [Qd]
+Zihuatanejo3: checks 
+Bakarisation: bets $15.47
+Zihuatanejo3: folds 
+Uncalled bet ($15.47) returned to Bakarisation
+Bakarisation collected $29.75 from pot
+Bakarisation: doesn't show hand 
+*** SUMMARY ***
+Total pot $31 | Rake $1.25 
+Board [6s Jd 6h Th Qd]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: Bakarisation (button blind) collected ($29.75)
+Seat 6: Zihuatanejo3 folded on the River
+
+
+
+PokerStars Hand #196380268541:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 21:04:22 EET [2019/01/29 14:04:22 ET]
+Table 'Medea III' 6-max Seat #6 is the button
+Seat 1: gaiggibeliin ($117.86 in chips) 
+Seat 3: Bakarisation ($173.90 in chips) 
+Seat 6: Zihuatanejo3 ($117.99 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+Zihuatanejo3: posts the ante $1
+Zihuatanejo3: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6s 7h]
+gaiggibeliin: folds 
+Bakarisation: raises $6 to $7
+Zihuatanejo3: calls $6
+*** FLOP *** [7d Jd Qd]
+Bakarisation: bets $5.01
+Zihuatanejo3: calls $5.01
+*** TURN *** [7d Jd Qd] [6h]
+Bakarisation: bets $16
+Zihuatanejo3: folds 
+Uncalled bet ($16) returned to Bakarisation
+Bakarisation collected $25.77 from pot
+Bakarisation: doesn't show hand 
+*** SUMMARY ***
+Total pot $27.02 | Rake $1.25 
+Board [7d Jd Qd 6h]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: Bakarisation collected ($25.77)
+Seat 6: Zihuatanejo3 (button blind) folded on the Turn
+
+
+
+PokerStars Hand #196380311958:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 21:05:19 EET [2019/01/29 14:05:19 ET]
+Table 'Medea III' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($116.86 in chips) 
+Seat 3: Bakarisation ($186.66 in chips) 
+Seat 6: Zihuatanejo3 ($104.98 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jh Th]
+Bakarisation: calls $1
+Zihuatanejo3: calls $1
+gaiggibeliin: raises $9 to $10
+Bakarisation: folds 
+Zihuatanejo3: folds 
+Uncalled bet ($9) returned to gaiggibeliin
+gaiggibeliin collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: gaiggibeliin (button blind) collected ($6)
+Seat 3: Bakarisation folded before Flop
+Seat 6: Zihuatanejo3 folded before Flop
+
+
+

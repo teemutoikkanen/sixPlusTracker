@@ -1,0 +1,4984 @@
+﻿PokerStars Hand #196377600571:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:03:48 EET [2019/01/29 13:03:48 ET]
+Table 'Terpsichore' 6-max Seat #3 is the button
+Seat 1: liyaoeli1893 ($190.83 in chips) 
+Seat 2: Ingramhao ($155.20 in chips) 
+Seat 3: Gen DisColor ($236.89 in chips) 
+Seat 4: qgou1 ($491.30 in chips) 
+Seat 6: gaiggibeliin ($150 in chips) 
+liyaoeli1893: posts the ante $1
+Ingramhao: posts the ante $1
+Gen DisColor: posts the ante $1
+qgou1: posts the ante $1
+gaiggibeliin: posts the ante $1
+Gen DisColor: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6d Th]
+qgou1: raises $7 to $8
+gaiggibeliin: folds 
+liyaoeli1893: folds 
+Ingramhao: folds 
+Gen DisColor: calls $7
+*** FLOP *** [Tc Kc Jh]
+qgou1: bets $20
+Gen DisColor: folds 
+Uncalled bet ($20) returned to qgou1
+qgou1 collected $19.95 from pot
+qgou1: doesn't show hand 
+*** SUMMARY ***
+Total pot $21 | Rake $1.05 
+Board [Tc Kc Jh]
+Seat 1: liyaoeli1893 folded before Flop (didn't bet)
+Seat 2: Ingramhao folded before Flop (didn't bet)
+Seat 3: Gen DisColor (button blind) folded on the Flop
+Seat 4: qgou1 collected ($19.95)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196377614236:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:04:07 EET [2019/01/29 13:04:07 ET]
+Table 'Terpsichore' 6-max Seat #4 is the button
+Seat 1: liyaoeli1893 ($189.83 in chips) 
+Seat 2: Ingramhao ($154.20 in chips) 
+Seat 3: Gen DisColor ($227.89 in chips) 
+Seat 4: qgou1 ($502.25 in chips) 
+Seat 6: gaiggibeliin ($149 in chips) 
+liyaoeli1893: posts the ante $1
+Ingramhao: posts the ante $1
+Gen DisColor: posts the ante $1
+qgou1: posts the ante $1
+gaiggibeliin: posts the ante $1
+qgou1: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Td Kh]
+gaiggibeliin: folds 
+liyaoeli1893: folds 
+Ingramhao: folds 
+Gen DisColor: folds 
+Uncalled bet ($1) returned to qgou1
+qgou1 collected $5 from pot
+qgou1: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 1: liyaoeli1893 folded before Flop (didn't bet)
+Seat 2: Ingramhao folded before Flop (didn't bet)
+Seat 3: Gen DisColor folded before Flop (didn't bet)
+Seat 4: qgou1 (button blind) collected ($5)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196377623651:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:04:20 EET [2019/01/29 13:04:20 ET]
+Table 'Terpsichore' 6-max Seat #6 is the button
+Seat 1: liyaoeli1893 ($188.83 in chips) 
+Seat 2: Ingramhao ($153.20 in chips) 
+Seat 3: Gen DisColor ($226.89 in chips) 
+Seat 4: qgou1 ($506.25 in chips) 
+Seat 6: gaiggibeliin ($148 in chips) 
+liyaoeli1893: posts the ante $1
+Ingramhao: posts the ante $1
+Gen DisColor: posts the ante $1
+qgou1: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ts Tc]
+liyaoeli1893: folds 
+Ingramhao: folds 
+Gen DisColor: raises $3 to $4
+qgou1: calls $4
+gaiggibeliin: calls $3
+*** FLOP *** [6c 9c Qs]
+Gen DisColor: checks 
+qgou1: bets $16
+youngfellaa was removed from the table for failing to post
+youngfellaa leaves the table
+gaiggibeliin: folds 
+Gen DisColor: folds 
+Uncalled bet ($16) returned to qgou1
+qgou1 collected $16.15 from pot
+Mrdoubleten joins the table at seat #5 
+qgou1: doesn't show hand 
+*** SUMMARY ***
+Total pot $17 | Rake $0.85 
+Board [6c 9c Qs]
+Seat 1: liyaoeli1893 folded before Flop (didn't bet)
+Seat 2: Ingramhao folded before Flop (didn't bet)
+Seat 3: Gen DisColor folded on the Flop
+Seat 4: qgou1 collected ($16.15)
+Seat 6: gaiggibeliin (button blind) folded on the Flop
+
+
+
+PokerStars Hand #196377652819:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:04:59 EET [2019/01/29 13:04:59 ET]
+Table 'Terpsichore' 6-max Seat #1 is the button
+Seat 1: liyaoeli1893 ($187.83 in chips) 
+Seat 2: Ingramhao ($152.20 in chips) 
+Seat 3: Gen DisColor ($221.89 in chips) 
+Seat 4: qgou1 ($517.40 in chips) 
+Seat 5: Mrdoubleten ($150 in chips) 
+Seat 6: gaiggibeliin ($143 in chips) 
+liyaoeli1893: posts the ante $1
+Ingramhao: posts the ante $1
+Gen DisColor: posts the ante $1
+qgou1: posts the ante $1
+Mrdoubleten: posts the ante $1
+gaiggibeliin: posts the ante $1
+liyaoeli1893: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Tc Ah]
+Ingramhao: folds 
+Gen DisColor: folds 
+qgou1: calls $1
+Mrdoubleten: calls $1
+gaiggibeliin: calls $1
+liyaoeli1893: checks 
+*** FLOP *** [9s Js 8c]
+qgou1: bets $9
+Mrdoubleten: calls $9
+gaiggibeliin: folds 
+liyaoeli1893: folds 
+*** TURN *** [9s Js 8c] [9c]
+qgou1: bets $27
+Mrdoubleten: folds 
+Uncalled bet ($27) returned to qgou1
+Gen DisColor leaves the table
+qgou1 collected $26.60 from pot
+qgou1: doesn't show hand 
+*** SUMMARY ***
+Total pot $28 | Rake $1.40 
+Board [9s Js 8c 9c]
+Seat 1: liyaoeli1893 (button blind) folded on the Flop
+Seat 2: Ingramhao folded before Flop (didn't bet)
+Seat 3: Gen DisColor folded before Flop (didn't bet)
+Seat 4: qgou1 collected ($26.60)
+Seat 5: Mrdoubleten folded on the Turn
+Seat 6: gaiggibeliin folded on the Flop
+
+
+
+PokerStars Hand #196377681700:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:05:38 EET [2019/01/29 13:05:38 ET]
+Table 'Terpsichore' 6-max Seat #2 is the button
+Seat 1: liyaoeli1893 ($185.83 in chips) 
+Seat 2: Ingramhao ($151.20 in chips) 
+Seat 4: qgou1 ($533 in chips) 
+Seat 5: Mrdoubleten ($139 in chips) 
+Seat 6: gaiggibeliin ($141 in chips) 
+liyaoeli1893: posts the ante $1
+Ingramhao: posts the ante $1
+qgou1: posts the ante $1
+Mrdoubleten: posts the ante $1
+gaiggibeliin: posts the ante $1
+Ingramhao: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jh Qd]
+qgou1: calls $1
+Mrdoubleten: calls $1
+gaiggibeliin: calls $1
+liyaoeli1893: raises $10 to $11
+Ingramhao: folds 
+qgou1: calls $10
+Mrdoubleten: calls $10
+gaiggibeliin: calls $10
+*** FLOP *** [Ts Qs Td]
+qgou1: checks 
+Mrdoubleten: checks 
+gaiggibeliin: checks 
+liyaoeli1893: checks 
+*** TURN *** [Ts Qs Td] [Js]
+qgou1: checks 
+Mrdoubleten: checks 
+gaiggibeliin: checks 
+liyaoeli1893: checks 
+*** RIVER *** [Ts Qs Td Js] [Ks]
+Zihuatanejo3 joins the table at seat #3 
+qgou1: checks 
+Mrdoubleten: checks 
+gaiggibeliin: checks 
+liyaoeli1893: checks 
+*** SHOW DOWN ***
+qgou1: shows [Th Kh] (a full house, Tens full of Kings)
+Mrdoubleten: mucks hand 
+gaiggibeliin: mucks hand 
+liyaoeli1893: mucks hand 
+qgou1 collected $47.50 from pot
+*** SUMMARY ***
+Total pot $50 | Rake $2.50 
+Board [Ts Qs Td Js Ks]
+Seat 1: liyaoeli1893 mucked [Qc Kc]
+Seat 2: Ingramhao (button blind) folded before Flop
+Seat 4: qgou1 showed [Th Kh] and won ($47.50) with a full house, Tens full of Kings
+Seat 5: Mrdoubleten mucked [6c Tc]
+Seat 6: gaiggibeliin mucked [Jh Qd]
+
+
+
+PokerStars Hand #196377736874:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:06:53 EET [2019/01/29 13:06:53 ET]
+Table 'Terpsichore' 6-max Seat #4 is the button
+Seat 1: liyaoeli1893 ($173.83 in chips) 
+Seat 2: Ingramhao ($149.20 in chips) 
+Seat 3: Zihuatanejo3 ($150 in chips) 
+Seat 4: qgou1 ($568.50 in chips) 
+Seat 5: Mrdoubleten ($138 in chips) 
+Seat 6: gaiggibeliin ($129 in chips) 
+liyaoeli1893: posts the ante $1
+Ingramhao: posts the ante $1
+Zihuatanejo3: posts the ante $1
+qgou1: posts the ante $1
+Mrdoubleten: posts the ante $1
+gaiggibeliin: posts the ante $1
+qgou1: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jh Qh]
+Mrdoubleten: folds 
+gaiggibeliin: calls $1
+liyaoeli1893: folds 
+Ingramhao: folds 
+Zihuatanejo3: folds 
+qgou1: checks 
+*** FLOP *** [8h 7c 6c]
+gaiggibeliin: checks 
+qgou1: checks 
+*** TURN *** [8h 7c 6c] [Th]
+gaiggibeliin: bets $5.70
+qgou1: folds 
+Uncalled bet ($5.70) returned to gaiggibeliin
+gaiggibeliin collected $7.60 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [8h 7c 6c Th]
+Seat 1: liyaoeli1893 folded before Flop (didn't bet)
+Seat 2: Ingramhao folded before Flop (didn't bet)
+Seat 3: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 4: qgou1 (button blind) folded on the Turn
+Seat 5: Mrdoubleten folded before Flop (didn't bet)
+Seat 6: gaiggibeliin collected ($7.60)
+
+
+
+PokerStars Hand #196377767345:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:07:34 EET [2019/01/29 13:07:34 ET]
+Table 'Terpsichore' 6-max Seat #5 is the button
+Seat 1: liyaoeli1893 ($172.83 in chips) 
+Seat 2: Ingramhao ($148.20 in chips) 
+Seat 3: Zihuatanejo3 ($149 in chips) 
+Seat 4: qgou1 ($566.50 in chips) 
+Seat 5: Mrdoubleten ($150 in chips) 
+Seat 6: gaiggibeliin ($134.60 in chips) 
+liyaoeli1893: posts the ante $1
+Ingramhao: posts the ante $1
+Zihuatanejo3: posts the ante $1
+qgou1: posts the ante $1
+Mrdoubleten: posts the ante $1
+gaiggibeliin: posts the ante $1
+Mrdoubleten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qc Jc]
+gaiggibeliin: calls $1
+liyaoeli1893: raises $9 to $10
+Ingramhao: folds 
+Zihuatanejo3: folds 
+qgou1: folds 
+Mrdoubleten: calls $9
+gaiggibeliin: calls $9
+*** FLOP *** [Kc Qs 9d]
+gaiggibeliin: checks 
+liyaoeli1893: bets $18
+Mrdoubleten: calls $18
+gaiggibeliin: calls $18
+*** TURN *** [Kc Qs 9d] [9s]
+gaiggibeliin: bets $28.79
+liyaoeli1893: calls $28.79
+Mrdoubleten: folds 
+*** RIVER *** [Kc Qs 9d 9s] [9c]
+gaiggibeliin: checks 
+liyaoeli1893: bets $115.04 and is all-in
+gaiggibeliin: folds 
+Uncalled bet ($115.04) returned to liyaoeli1893
+liyaoeli1893 collected $144.83 from pot
+liyaoeli1893: doesn't show hand 
+*** SUMMARY ***
+Total pot $147.58 | Rake $2.75 
+Board [Kc Qs 9d 9s 9c]
+Seat 1: liyaoeli1893 collected ($144.83)
+Seat 2: Ingramhao folded before Flop (didn't bet)
+Seat 3: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 4: qgou1 folded before Flop (didn't bet)
+Seat 5: Mrdoubleten (button blind) folded on the Turn
+Seat 6: gaiggibeliin folded on the River
+
+
+
+PokerStars Hand #196377820392:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:08:45 EET [2019/01/29 13:08:45 ET]
+Table 'Terpsichore' 6-max Seat #6 is the button
+Seat 1: liyaoeli1893 ($259.87 in chips) 
+Seat 3: Zihuatanejo3 ($148 in chips) 
+Seat 4: qgou1 ($565.50 in chips) 
+Seat 5: Mrdoubleten ($121 in chips) 
+Seat 6: gaiggibeliin ($150 in chips) 
+liyaoeli1893: posts the ante $1
+Zihuatanejo3: posts the ante $1
+qgou1: posts the ante $1
+Mrdoubleten: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7c 6c]
+liyaoeli1893: raises $2 to $3
+Zihuatanejo3: folds 
+qgou1: calls $3
+Mrdoubleten: calls $3
+gaiggibeliin: calls $2
+*** FLOP *** [Qd 7h Kh]
+liyaoeli1893: checks 
+qgou1: checks 
+Mrdoubleten: checks 
+gaiggibeliin: checks 
+*** TURN *** [Qd 7h Kh] [Qc]
+liyaoeli1893: checks 
+qgou1: checks 
+Mrdoubleten: checks 
+gaiggibeliin: checks 
+*** RIVER *** [Qd 7h Kh Qc] [Qs]
+liyaoeli1893: checks 
+qgou1: checks 
+Mrdoubleten: checks 
+gaiggibeliin: checks 
+*** SHOW DOWN ***
+liyaoeli1893: shows [9d 9s] (a full house, Queens full of Nines)
+qgou1: mucks hand 
+Mrdoubleten: mucks hand 
+gaiggibeliin: mucks hand 
+liyaoeli1893 collected $16.15 from pot
+*** SUMMARY ***
+Total pot $17 | Rake $0.85 
+Board [Qd 7h Kh Qc Qs]
+Seat 1: liyaoeli1893 showed [9d 9s] and won ($16.15) with a full house, Queens full of Nines
+Seat 3: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 4: qgou1 mucked [Jc As]
+Seat 5: Mrdoubleten mucked [8d Td]
+Seat 6: gaiggibeliin (button blind) mucked [7c 6c]
+
+
+
+PokerStars Hand #196377877644:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:10:02 EET [2019/01/29 13:10:02 ET]
+Table 'Terpsichore' 6-max Seat #1 is the button
+Seat 1: liyaoeli1893 ($272.02 in chips) 
+Seat 3: Zihuatanejo3 ($147 in chips) 
+Seat 4: qgou1 ($561.50 in chips) 
+Seat 5: Mrdoubleten ($146 in chips) 
+Seat 6: gaiggibeliin ($146 in chips) 
+liyaoeli1893: posts the ante $1
+Zihuatanejo3: posts the ante $1
+qgou1: posts the ante $1
+Mrdoubleten: posts the ante $1
+gaiggibeliin: posts the ante $1
+liyaoeli1893: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ac Qc]
+Zihuatanejo3: folds 
+qgou1: calls $1
+Mrdoubleten: folds 
+gaiggibeliin: raises $9 to $10
+liyaoeli1893: raises $261.02 to $271.02 and is all-in
+qgou1: folds 
+gaiggibeliin: folds 
+Uncalled bet ($261.02) returned to liyaoeli1893
+liyaoeli1893 collected $26 from pot
+liyaoeli1893: doesn't show hand 
+*** SUMMARY ***
+Total pot $26 | Rake $0 
+Seat 1: liyaoeli1893 (button blind) collected ($26)
+Seat 3: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 4: qgou1 folded before Flop
+Seat 5: Mrdoubleten folded before Flop (didn't bet)
+Seat 6: gaiggibeliin folded before Flop
+
+
+
+PokerStars Hand #196377918422:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:10:57 EET [2019/01/29 13:10:57 ET]
+Table 'Terpsichore' 6-max Seat #3 is the button
+Seat 1: liyaoeli1893 ($287.02 in chips) 
+Seat 3: Zihuatanejo3 ($146 in chips) 
+Seat 4: qgou1 ($559.50 in chips) 
+Seat 5: Mrdoubleten ($145 in chips) 
+Seat 6: gaiggibeliin ($135 in chips) 
+liyaoeli1893: posts the ante $1
+Zihuatanejo3: posts the ante $1
+qgou1: posts the ante $1
+Mrdoubleten: posts the ante $1
+gaiggibeliin: posts the ante $1
+Zihuatanejo3: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Tc Qs]
+qgou1: folds 
+Mrdoubleten: folds 
+gaiggibeliin: folds 
+liyaoeli1893: folds 
+Uncalled bet ($1) returned to Zihuatanejo3
+Zihuatanejo3 collected $5 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 1: liyaoeli1893 folded before Flop (didn't bet)
+Seat 3: Zihuatanejo3 (button blind) collected ($5)
+Seat 4: qgou1 folded before Flop (didn't bet)
+Seat 5: Mrdoubleten folded before Flop (didn't bet)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196377927089:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:11:08 EET [2019/01/29 13:11:08 ET]
+Table 'Terpsichore' 6-max Seat #4 is the button
+Seat 1: liyaoeli1893 ($286.02 in chips) 
+Seat 3: Zihuatanejo3 ($150 in chips) 
+Seat 4: qgou1 ($558.50 in chips) 
+Seat 5: Mrdoubleten ($144 in chips) 
+Seat 6: gaiggibeliin ($134 in chips) 
+liyaoeli1893: posts the ante $1
+Zihuatanejo3: posts the ante $1
+qgou1: posts the ante $1
+Mrdoubleten: posts the ante $1
+gaiggibeliin: posts the ante $1
+qgou1: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qs Ts]
+Mrdoubleten: raises $2 to $3
+gaiggibeliin: calls $3
+Ingramhao leaves the table
+liyaoeli1893: calls $3
+Zihuatanejo3: folds 
+qgou1: calls $2
+*** FLOP *** [Ad Qc Kc]
+Mrdoubleten: checks 
+gaiggibeliin: checks 
+liyaoeli1893: bets $8.08
+qgou1: folds 
+Mrdoubleten: calls $8.08
+gaiggibeliin: calls $8.08
+*** TURN *** [Ad Qc Kc] [Jd]
+Mrdoubleten: checks 
+gaiggibeliin: bets $30
+liyaoeli1893: calls $30
+Mrdoubleten: calls $30
+*** RIVER *** [Ad Qc Kc Jd] [8d]
+Mrdoubleten: checks 
+gaiggibeliin: checks 
+liyaoeli1893: checks 
+*** SHOW DOWN ***
+Mrdoubleten: shows [6d Kd] (a flush, Ace high)
+gaiggibeliin: mucks hand 
+liyaoeli1893: mucks hand 
+Mrdoubleten collected $128.49 from pot
+*** SUMMARY ***
+Total pot $131.24 | Rake $2.75 
+Board [Ad Qc Kc Jd 8d]
+Seat 1: liyaoeli1893 mucked [Jc Ah]
+Seat 3: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 4: qgou1 (button blind) folded on the Flop
+Seat 5: Mrdoubleten showed [6d Kd] and won ($128.49) with a flush, Ace high
+Seat 6: gaiggibeliin mucked [Qs Ts]
+
+
+
+PokerStars Hand #196377996143:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:12:41 EET [2019/01/29 13:12:41 ET]
+Table 'Terpsichore' 6-max Seat #5 is the button
+Seat 1: liyaoeli1893 ($243.94 in chips) 
+Seat 3: Zihuatanejo3 ($149 in chips) 
+Seat 4: qgou1 ($554.50 in chips) 
+Seat 5: Mrdoubleten ($230.41 in chips) 
+Seat 6: gaiggibeliin ($150 in chips) 
+liyaoeli1893: posts the ante $1
+Zihuatanejo3: posts the ante $1
+qgou1: posts the ante $1
+Mrdoubleten: posts the ante $1
+gaiggibeliin: posts the ante $1
+Mrdoubleten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [As Qd]
+gaiggibeliin: calls $1
+liyaoeli1893: calls $1
+Zihuatanejo3: folds 
+qgou1: calls $1
+Mrdoubleten: checks 
+*** FLOP *** [Ad 9s Js]
+gaiggibeliin: bets $6
+liyaoeli1893: calls $6
+qgou1: folds 
+Mrdoubleten: folds 
+*** TURN *** [Ad 9s Js] [Kh]
+gaiggibeliin: checks 
+liyaoeli1893: checks 
+*** RIVER *** [Ad 9s Js Kh] [9c]
+gaiggibeliin: checks 
+liyaoeli1893: bets $9
+gaiggibeliin: calls $9
+*** SHOW DOWN ***
+liyaoeli1893: shows [Td Ac] (two pair, Aces and Nines)
+gaiggibeliin: shows [As Qd] (two pair, Aces and Nines)
+gaiggibeliin collected $18.53 from pot
+liyaoeli1893 collected $18.52 from pot
+*** SUMMARY ***
+Total pot $39 | Rake $1.95 
+Board [Ad 9s Js Kh 9c]
+Seat 1: liyaoeli1893 showed [Td Ac] and won ($18.52) with two pair, Aces and Nines
+Seat 3: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 4: qgou1 folded on the Flop
+Seat 5: Mrdoubleten (button blind) folded on the Flop
+Seat 6: gaiggibeliin showed [As Qd] and won ($18.53) with two pair, Aces and Nines
+
+
+
+PokerStars Hand #196378043309:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:13:44 EET [2019/01/29 13:13:44 ET]
+Table 'Terpsichore' 6-max Seat #6 is the button
+Seat 1: liyaoeli1893 ($245.46 in chips) 
+Seat 3: Zihuatanejo3 ($148 in chips) 
+Seat 4: qgou1 ($552.50 in chips) 
+Seat 5: Mrdoubleten ($228.41 in chips) 
+Seat 6: gaiggibeliin ($151.53 in chips) 
+liyaoeli1893: posts the ante $1
+Zihuatanejo3: posts the ante $1
+qgou1: posts the ante $1
+Mrdoubleten: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6s Ah]
+liyaoeli1893: folds 
+Zihuatanejo3: raises $3 to $4
+qgou1: calls $4
+Mrdoubleten: calls $4
+gaiggibeliin: folds 
+*** FLOP *** [Kh Qc Kd]
+conanlqn joins the table at seat #2 
+Zihuatanejo3: checks 
+qgou1: checks 
+Mrdoubleten: checks 
+*** TURN *** [Kh Qc Kd] [8s]
+Zihuatanejo3: checks 
+qgou1: checks 
+Mrdoubleten: bets $8.55
+Zihuatanejo3: folds 
+qgou1: folds 
+Uncalled bet ($8.55) returned to Mrdoubleten
+Mrdoubleten collected $17.10 from pot
+Mrdoubleten: doesn't show hand 
+*** SUMMARY ***
+Total pot $18 | Rake $0.90 
+Board [Kh Qc Kd 8s]
+Seat 1: liyaoeli1893 folded before Flop (didn't bet)
+Seat 3: Zihuatanejo3 folded on the Turn
+Seat 4: qgou1 folded on the Turn
+Seat 5: Mrdoubleten collected ($17.10)
+Seat 6: gaiggibeliin (button blind) folded before Flop
+
+
+
+PokerStars Hand #196378090528:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:14:47 EET [2019/01/29 13:14:47 ET]
+Table 'Terpsichore' 6-max Seat #1 is the button
+Seat 1: liyaoeli1893 ($244.46 in chips) 
+Seat 2: conanlqn ($150 in chips) 
+Seat 3: Zihuatanejo3 ($143 in chips) 
+Seat 4: qgou1 ($547.50 in chips) 
+Seat 5: Mrdoubleten ($240.51 in chips) 
+Seat 6: gaiggibeliin ($149.53 in chips) 
+liyaoeli1893: posts the ante $1
+conanlqn: posts the ante $1
+Zihuatanejo3: posts the ante $1
+qgou1: posts the ante $1
+Mrdoubleten: posts the ante $1
+gaiggibeliin: posts the ante $1
+liyaoeli1893: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qd 9s]
+conanlqn: folds 
+Zihuatanejo3: calls $1
+qgou1: calls $1
+Mrdoubleten: calls $1
+gaiggibeliin: folds 
+liyaoeli1893: checks 
+*** FLOP *** [Qh Jd 9h]
+Zihuatanejo3: checks 
+qgou1: checks 
+Mrdoubleten: checks 
+liyaoeli1893: checks 
+*** TURN *** [Qh Jd 9h] [Jc]
+Zihuatanejo3: bets $7.50
+qgou1: folds 
+Mrdoubleten: calls $7.50
+liyaoeli1893: folds 
+*** RIVER *** [Qh Jd 9h Jc] [Ah]
+Zihuatanejo3: checks 
+Mrdoubleten: checks 
+*** SHOW DOWN ***
+Zihuatanejo3: shows [Th As] (two pair, Aces and Jacks)
+Mrdoubleten: shows [Ad Jh] (a full house, Jacks full of Aces)
+Mrdoubleten collected $23.75 from pot
+*** SUMMARY ***
+Total pot $25 | Rake $1.25 
+Board [Qh Jd 9h Jc Ah]
+Seat 1: liyaoeli1893 (button blind) folded on the Turn
+Seat 2: conanlqn folded before Flop (didn't bet)
+Seat 3: Zihuatanejo3 showed [Th As] and lost with two pair, Aces and Jacks
+Seat 4: qgou1 folded on the Turn
+Seat 5: Mrdoubleten showed [Ad Jh] and won ($23.75) with a full house, Jacks full of Aces
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196378127472:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:15:37 EET [2019/01/29 13:15:37 ET]
+Table 'Terpsichore' 6-max Seat #2 is the button
+Seat 1: liyaoeli1893 ($242.46 in chips) 
+Seat 2: conanlqn ($149 in chips) 
+Seat 3: Zihuatanejo3 ($133.50 in chips) 
+Seat 4: qgou1 ($545.50 in chips) 
+Seat 5: Mrdoubleten ($254.76 in chips) 
+Seat 6: gaiggibeliin ($148.53 in chips) 
+liyaoeli1893: posts the ante $1
+conanlqn: posts the ante $1
+Zihuatanejo3: posts the ante $1
+qgou1: posts the ante $1
+Mrdoubleten: posts the ante $1
+gaiggibeliin: posts the ante $1
+conanlqn: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qh Tc]
+Zihuatanejo3: folds 
+qgou1: calls $1
+Mrdoubleten: raises $9 to $10
+gaiggibeliin: folds 
+liyaoeli1893: folds 
+conanlqn: folds 
+qgou1: calls $9
+*** FLOP *** [Ah Kh Td]
+qgou1: checks 
+Mrdoubleten: checks 
+*** TURN *** [Ah Kh Td] [8h]
+qgou1: checks 
+Mrdoubleten: checks 
+*** RIVER *** [Ah Kh Td 8h] [Qs]
+qgou1: checks 
+Mrdoubleten: checks 
+*** SHOW DOWN ***
+qgou1: shows [As Th] (two pair, Aces and Tens)
+Mrdoubleten: shows [Ac Kd] (two pair, Aces and Kings)
+Mrdoubleten collected $25.65 from pot
+*** SUMMARY ***
+Total pot $27 | Rake $1.35 
+Board [Ah Kh Td 8h Qs]
+Seat 1: liyaoeli1893 folded before Flop (didn't bet)
+Seat 2: conanlqn (button blind) folded before Flop
+Seat 3: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 4: qgou1 showed [As Th] and lost with two pair, Aces and Tens
+Seat 5: Mrdoubleten showed [Ac Kd] and won ($25.65) with two pair, Aces and Kings
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196378155604:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:16:14 EET [2019/01/29 13:16:14 ET]
+Table 'Terpsichore' 6-max Seat #3 is the button
+Seat 1: liyaoeli1893 ($241.46 in chips) 
+Seat 2: conanlqn ($147 in chips) 
+Seat 3: Zihuatanejo3 ($132.50 in chips) 
+Seat 4: qgou1 ($534.50 in chips) 
+Seat 5: Mrdoubleten ($269.41 in chips) 
+Seat 6: gaiggibeliin ($147.53 in chips) 
+liyaoeli1893: posts the ante $1
+conanlqn: posts the ante $1
+Zihuatanejo3: posts the ante $1
+qgou1: posts the ante $1
+Mrdoubleten: posts the ante $1
+gaiggibeliin: posts the ante $1
+Zihuatanejo3: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Js Qc]
+qgou1: calls $1
+Mrdoubleten: folds 
+gaiggibeliin: calls $1
+liyaoeli1893: folds 
+conanlqn: folds 
+Zihuatanejo3: checks 
+*** FLOP *** [6s 7h Ks]
+qgou1: bets $9
+gaiggibeliin: folds 
+Zihuatanejo3: raises $24 to $33
+qgou1: raises $24 to $57
+Zihuatanejo3: raises $73.50 to $130.50 and is all-in
+qgou1: calls $73.50
+*** TURN *** [6s 7h Ks] [Jd]
+*** RIVER *** [6s 7h Ks Jd] [Ad]
+*** SHOW DOWN ***
+qgou1: shows [6d Kd] (two pair, Kings and Sixes)
+Zihuatanejo3: shows [8c 9h] (a straight, Ace to Nine)
+Zihuatanejo3 collected $267.25 from pot
+*** SUMMARY ***
+Total pot $270 | Rake $2.75 
+Board [6s 7h Ks Jd Ad]
+Seat 1: liyaoeli1893 folded before Flop (didn't bet)
+Seat 2: conanlqn folded before Flop (didn't bet)
+Seat 3: Zihuatanejo3 (button blind) showed [8c 9h] and won ($267.25) with a straight, Ace to Nine
+Seat 4: qgou1 showed [6d Kd] and lost with two pair, Kings and Sixes
+Seat 5: Mrdoubleten folded before Flop (didn't bet)
+Seat 6: gaiggibeliin folded on the Flop
+
+
+
+PokerStars Hand #196378186789:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:16:55 EET [2019/01/29 13:16:55 ET]
+Table 'Terpsichore' 6-max Seat #4 is the button
+Seat 1: liyaoeli1893 ($240.46 in chips) 
+Seat 2: conanlqn ($146 in chips) 
+Seat 3: Zihuatanejo3 ($267.25 in chips) 
+Seat 4: qgou1 ($402 in chips) 
+Seat 5: Mrdoubleten ($268.41 in chips) 
+Seat 6: gaiggibeliin ($145.53 in chips) 
+liyaoeli1893: posts the ante $1
+conanlqn: posts the ante $1
+Zihuatanejo3: posts the ante $1
+qgou1: posts the ante $1
+Mrdoubleten: posts the ante $1
+gaiggibeliin: posts the ante $1
+qgou1: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qh 9d]
+Mrdoubleten: calls $1
+gaiggibeliin: folds 
+liyaoeli1893: raises $9 to $10
+conanlqn: folds 
+Zihuatanejo3: folds 
+qgou1: calls $9
+Mrdoubleten: calls $9
+*** FLOP *** [8s Js 6h]
+Mrdoubleten: checks 
+liyaoeli1893: bets $21
+qgou1 has timed out
+qgou1: folds 
+Mrdoubleten: calls $21
+*** TURN *** [8s Js 6h] [Qs]
+Mrdoubleten: checks 
+liyaoeli1893: checks 
+*** RIVER *** [8s Js 6h Qs] [Ts]
+Mrdoubleten: checks 
+liyaoeli1893: bets $29
+Mrdoubleten: folds 
+Uncalled bet ($29) returned to liyaoeli1893
+liyaoeli1893 collected $75.25 from pot
+liyaoeli1893: doesn't show hand 
+*** SUMMARY ***
+Total pot $78 | Rake $2.75 
+Board [8s Js 6h Qs Ts]
+Seat 1: liyaoeli1893 collected ($75.25)
+Seat 2: conanlqn folded before Flop (didn't bet)
+Seat 3: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 4: qgou1 (button blind) folded on the Flop
+Seat 5: Mrdoubleten folded on the River
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196378244469:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:18:13 EET [2019/01/29 13:18:13 ET]
+Table 'Terpsichore' 6-max Seat #5 is the button
+Seat 1: liyaoeli1893 ($283.71 in chips) 
+Seat 2: conanlqn ($145 in chips) 
+Seat 3: Zihuatanejo3 ($266.25 in chips) 
+Seat 4: qgou1 ($391 in chips) 
+Seat 5: Mrdoubleten ($236.41 in chips) 
+Seat 6: gaiggibeliin ($144.53 in chips) 
+liyaoeli1893: posts the ante $1
+conanlqn: posts the ante $1
+Zihuatanejo3: posts the ante $1
+qgou1: posts the ante $1
+Mrdoubleten: posts the ante $1
+gaiggibeliin: posts the ante $1
+Mrdoubleten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qs 6d]
+gaiggibeliin: folds 
+liyaoeli1893: folds 
+conanlqn: folds 
+Zihuatanejo3: raises $3 to $4
+qgou1: calls $4
+Mrdoubleten: calls $3
+*** FLOP *** [8d 8s Th]
+Zihuatanejo3: checks 
+qgou1: checks 
+Mrdoubleten: bets $8.55
+Zihuatanejo3: folds 
+qgou1: folds 
+Uncalled bet ($8.55) returned to Mrdoubleten
+Mrdoubleten collected $17.10 from pot
+Mrdoubleten: doesn't show hand 
+*** SUMMARY ***
+Total pot $18 | Rake $0.90 
+Board [8d 8s Th]
+Seat 1: liyaoeli1893 folded before Flop (didn't bet)
+Seat 2: conanlqn folded before Flop (didn't bet)
+Seat 3: Zihuatanejo3 folded on the Flop
+Seat 4: qgou1 folded on the Flop
+Seat 5: Mrdoubleten (button blind) collected ($17.10)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196378273909:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:18:53 EET [2019/01/29 13:18:53 ET]
+Table 'Terpsichore' 6-max Seat #6 is the button
+Seat 1: liyaoeli1893 ($282.71 in chips) 
+Seat 2: conanlqn ($144 in chips) 
+Seat 3: Zihuatanejo3 ($261.25 in chips) 
+Seat 4: qgou1 ($386 in chips) 
+Seat 5: Mrdoubleten ($248.51 in chips) 
+Seat 6: gaiggibeliin ($143.53 in chips) 
+liyaoeli1893: posts the ante $1
+conanlqn: posts the ante $1
+Zihuatanejo3: posts the ante $1
+qgou1: posts the ante $1
+Mrdoubleten: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8c Kc]
+liyaoeli1893: calls $1
+conanlqn: folds 
+Zihuatanejo3: calls $1
+qgou1: calls $1
+Mrdoubleten: folds 
+gaiggibeliin: checks 
+*** FLOP *** [Jd Qh Qc]
+liyaoeli1893: checks 
+Zihuatanejo3: checks 
+qgou1: checks 
+gaiggibeliin: checks 
+*** TURN *** [Jd Qh Qc] [Ts]
+liyaoeli1893: checks 
+Zihuatanejo3: checks 
+qgou1: checks 
+gaiggibeliin: checks 
+*** RIVER *** [Jd Qh Qc Ts] [7h]
+liyaoeli1893: checks 
+Zihuatanejo3: checks 
+qgou1: checks 
+gaiggibeliin: checks 
+*** SHOW DOWN ***
+liyaoeli1893: shows [9h 9d] (two pair, Queens and Nines)
+Zihuatanejo3: mucks hand 
+qgou1: mucks hand 
+gaiggibeliin: mucks hand 
+liyaoeli1893 collected $9.50 from pot
+*** SUMMARY ***
+Total pot $10 | Rake $0.50 
+Board [Jd Qh Qc Ts 7h]
+Seat 1: liyaoeli1893 showed [9h 9d] and won ($9.50) with two pair, Queens and Nines
+Seat 2: conanlqn folded before Flop (didn't bet)
+Seat 3: Zihuatanejo3 mucked [8s 8d]
+Seat 4: qgou1 mucked [Ks 7s]
+Seat 5: Mrdoubleten folded before Flop (didn't bet)
+Seat 6: gaiggibeliin (button blind) mucked [8c Kc]
+
+
+
+PokerStars Hand #196378326366:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:20:03 EET [2019/01/29 13:20:03 ET]
+Table 'Terpsichore' 6-max Seat #1 is the button
+Seat 1: liyaoeli1893 ($290.21 in chips) 
+Seat 2: conanlqn ($143 in chips) 
+Seat 3: Zihuatanejo3 ($259.25 in chips) 
+Seat 4: qgou1 ($384 in chips) 
+Seat 5: Mrdoubleten ($247.51 in chips) 
+Seat 6: gaiggibeliin ($141.53 in chips) 
+liyaoeli1893: posts the ante $1
+conanlqn: posts the ante $1
+Zihuatanejo3: posts the ante $1
+qgou1: posts the ante $1
+Mrdoubleten: posts the ante $1
+gaiggibeliin: posts the ante $1
+liyaoeli1893: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8c 6c]
+conanlqn: calls $1
+Zihuatanejo3: calls $1
+qgou1: calls $1
+Mrdoubleten: calls $1
+gaiggibeliin: calls $1
+liyaoeli1893: checks 
+*** FLOP *** [Tc Ad Qc]
+conanlqn: bets $5.70
+Zihuatanejo3: folds 
+qgou1: calls $5.70
+Mrdoubleten: calls $5.70
+Zihuatanejo3 leaves the table
+gaiggibeliin: calls $5.70
+liyaoeli1893: folds 
+*** TURN *** [Tc Ad Qc] [7c]
+conanlqn: checks 
+qgou1: checks 
+Mrdoubleten: checks 
+gaiggibeliin: bets $21
+conanlqn: calls $21
+qgou1: calls $21
+Mrdoubleten: folds 
+*** RIVER *** [Tc Ad Qc 7c] [Td]
+conanlqn: checks 
+qgou1: checks 
+gaiggibeliin: bets $38
+conanlqn: folds 
+qgou1: folds 
+Uncalled bet ($38) returned to gaiggibeliin
+gaiggibeliin collected $95.05 from pot
+*** SUMMARY ***
+Total pot $97.80 | Rake $2.75 
+Board [Tc Ad Qc 7c Td]
+Seat 1: liyaoeli1893 (button blind) folded on the Flop
+Seat 2: conanlqn folded on the River
+Seat 3: Zihuatanejo3 folded on the Flop
+Seat 4: qgou1 folded on the River
+Seat 5: Mrdoubleten folded on the Turn
+Seat 6: gaiggibeliin collected ($95.05)
+
+
+
+PokerStars Hand #196378428316:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:22:20 EET [2019/01/29 13:22:20 ET]
+Table 'Terpsichore' 6-max Seat #2 is the button
+Seat 1: liyaoeli1893 ($288.21 in chips) 
+Seat 2: conanlqn ($114.30 in chips) 
+Seat 4: qgou1 ($355.30 in chips) 
+Seat 5: Mrdoubleten ($239.81 in chips) 
+Seat 6: gaiggibeliin ($207.88 in chips) 
+liyaoeli1893: posts the ante $1
+conanlqn: posts the ante $1
+qgou1: posts the ante $1
+Mrdoubleten: posts the ante $1
+gaiggibeliin: posts the ante $1
+conanlqn: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6c Ks]
+SirWatts joins the table at seat #3 
+qgou1: calls $1
+Mrdoubleten: raises $8 to $9
+gaiggibeliin: folds 
+liyaoeli1893: calls $9
+conanlqn: calls $8
+qgou1: calls $8
+*** FLOP *** [Qh 9s Js]
+qgou1: checks 
+Mrdoubleten: checks 
+liyaoeli1893: bets $22
+conanlqn: calls $22
+qgou1: folds 
+Mrdoubleten: folds 
+*** TURN *** [Qh 9s Js] [Tc]
+liyaoeli1893: checks 
+conanlqn: checks 
+*** RIVER *** [Qh 9s Js Tc] [Jh]
+liyaoeli1893: checks 
+conanlqn: bets $30
+liyaoeli1893: calls $30
+*** SHOW DOWN ***
+conanlqn: shows [Jc Qc] (a full house, Jacks full of Queens)
+liyaoeli1893: mucks hand 
+conanlqn collected $142.25 from pot
+*** SUMMARY ***
+Total pot $145 | Rake $2.75 
+Board [Qh 9s Js Tc Jh]
+Seat 1: liyaoeli1893 mucked [Th 8h]
+Seat 2: conanlqn (button blind) showed [Jc Qc] and won ($142.25) with a full house, Jacks full of Queens
+Seat 4: qgou1 folded on the Flop
+Seat 5: Mrdoubleten folded on the Flop
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196378464299:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:23:09 EET [2019/01/29 13:23:09 ET]
+Table 'Terpsichore' 6-max Seat #4 is the button
+Seat 1: liyaoeli1893 ($226.21 in chips) 
+Seat 2: conanlqn ($194.55 in chips) 
+Seat 3: SirWatts ($100 in chips) 
+Seat 4: qgou1 ($345.30 in chips) 
+Seat 5: Mrdoubleten ($229.81 in chips) 
+Seat 6: gaiggibeliin ($206.88 in chips) 
+liyaoeli1893: posts the ante $1
+conanlqn: posts the ante $1
+SirWatts: posts the ante $1
+qgou1: posts the ante $1
+Mrdoubleten: posts the ante $1
+gaiggibeliin: posts the ante $1
+qgou1: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [As Tc]
+Mrdoubleten: folds 
+gaiggibeliin: folds 
+liyaoeli1893: folds 
+conanlqn: calls $1
+SirWatts: folds 
+qgou1: checks 
+*** FLOP *** [Ad Jc Jh]
+conanlqn: checks 
+qgou1: bets $8
+conanlqn: folds 
+Uncalled bet ($8) returned to qgou1
+qgou1 collected $7.60 from pot
+qgou1: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [Ad Jc Jh]
+Seat 1: liyaoeli1893 folded before Flop (didn't bet)
+Seat 2: conanlqn folded on the Flop
+Seat 3: SirWatts folded before Flop (didn't bet)
+Seat 4: qgou1 (button blind) collected ($7.60)
+Seat 5: Mrdoubleten folded before Flop (didn't bet)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196378483256:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:23:34 EET [2019/01/29 13:23:34 ET]
+Table 'Terpsichore' 6-max Seat #5 is the button
+Seat 1: liyaoeli1893 ($225.21 in chips) 
+Seat 2: conanlqn ($192.55 in chips) 
+Seat 3: SirWatts ($99 in chips) 
+Seat 4: qgou1 ($350.90 in chips) 
+Seat 5: Mrdoubleten ($228.81 in chips) 
+Seat 6: gaiggibeliin ($205.88 in chips) 
+liyaoeli1893: posts the ante $1
+conanlqn: posts the ante $1
+SirWatts: posts the ante $1
+qgou1: posts the ante $1
+Mrdoubleten: posts the ante $1
+gaiggibeliin: posts the ante $1
+Mrdoubleten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ks Qc]
+gaiggibeliin: calls $1
+liyaoeli1893: folds 
+conanlqn: calls $1
+SirWatts: calls $1
+qgou1: calls $1
+Mrdoubleten: checks 
+*** FLOP *** [Kh 9h 6h]
+gaiggibeliin: checks 
+conanlqn: checks 
+SirWatts: checks 
+qgou1: checks 
+Mrdoubleten: checks 
+*** TURN *** [Kh 9h 6h] [Qs]
+gaiggibeliin: checks 
+conanlqn: checks 
+SirWatts: checks 
+qgou1: checks 
+Mrdoubleten: checks 
+*** RIVER *** [Kh 9h 6h Qs] [Jc]
+gaiggibeliin: checks 
+conanlqn: bets $5.23
+SirWatts: folds 
+qgou1: folds 
+Mrdoubleten: calls $5.23
+gaiggibeliin: folds 
+*** SHOW DOWN ***
+conanlqn: shows [Td Ac] (a straight, Ten to Ace)
+Mrdoubleten: mucks hand 
+conanlqn collected $20.39 from pot
+*** SUMMARY ***
+Total pot $21.46 | Rake $1.07 
+Board [Kh 9h 6h Qs Jc]
+Seat 1: liyaoeli1893 folded before Flop (didn't bet)
+Seat 2: conanlqn showed [Td Ac] and won ($20.39) with a straight, Ten to Ace
+Seat 3: SirWatts folded on the River
+Seat 4: qgou1 folded on the River
+Seat 5: Mrdoubleten (button blind) mucked [Kd Tc]
+Seat 6: gaiggibeliin folded on the River
+
+
+
+PokerStars Hand #196378562447:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:25:18 EET [2019/01/29 13:25:18 ET]
+Table 'Terpsichore' 6-max Seat #6 is the button
+Seat 1: liyaoeli1893 ($224.21 in chips) 
+Seat 2: conanlqn ($205.71 in chips) 
+Seat 3: SirWatts ($97 in chips) 
+Seat 4: qgou1 ($348.90 in chips) 
+Seat 5: Mrdoubleten ($221.58 in chips) 
+Seat 6: gaiggibeliin ($203.88 in chips) 
+liyaoeli1893: posts the ante $1
+conanlqn: posts the ante $1
+SirWatts: posts the ante $1
+qgou1: posts the ante $1
+Mrdoubleten: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9d 7d]
+liyaoeli1893: calls $1
+conanlqn: raises $9 to $10
+SirWatts: folds 
+qgou1: folds 
+Mrdoubleten: folds 
+gaiggibeliin: calls $9
+liyaoeli1893: calls $9
+*** FLOP *** [7s As 8s]
+liyaoeli1893: checks 
+conanlqn: checks 
+gaiggibeliin: checks 
+*** TURN *** [7s As 8s] [Kh]
+liyaoeli1893: checks 
+conanlqn: bets $17.10
+gaiggibeliin: folds 
+liyaoeli1893: folds 
+Uncalled bet ($17.10) returned to conanlqn
+conanlqn collected $34.20 from pot
+conanlqn: doesn't show hand 
+*** SUMMARY ***
+Total pot $36 | Rake $1.80 
+Board [7s As 8s Kh]
+Seat 1: liyaoeli1893 folded on the Turn
+Seat 2: conanlqn collected ($34.20)
+Seat 3: SirWatts folded before Flop (didn't bet)
+Seat 4: qgou1 folded before Flop (didn't bet)
+Seat 5: Mrdoubleten folded before Flop (didn't bet)
+Seat 6: gaiggibeliin (button blind) folded on the Turn
+
+
+
+PokerStars Hand #196378603334:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:26:13 EET [2019/01/29 13:26:13 ET]
+Table 'Terpsichore' 6-max Seat #1 is the button
+Seat 1: liyaoeli1893 ($213.21 in chips) 
+Seat 2: conanlqn ($228.91 in chips) 
+Seat 3: SirWatts ($96 in chips) 
+Seat 4: qgou1 ($347.90 in chips) 
+Seat 5: Mrdoubleten ($220.58 in chips) 
+Seat 6: gaiggibeliin ($192.88 in chips) 
+liyaoeli1893: posts the ante $1
+conanlqn: posts the ante $1
+SirWatts: posts the ante $1
+qgou1: posts the ante $1
+Mrdoubleten: posts the ante $1
+gaiggibeliin: posts the ante $1
+liyaoeli1893: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jh 9c]
+conanlqn: folds 
+SirWatts: calls $1
+qgou1: calls $1
+Mrdoubleten: raises $10 to $11
+gaiggibeliin: folds 
+liyaoeli1893: folds 
+SirWatts: calls $10
+qgou1: calls $10
+*** FLOP *** [Qh Td Qd]
+SirWatts: checks 
+qgou1: checks 
+Mrdoubleten: checks 
+*** TURN *** [Qh Td Qd] [Tc]
+SirWatts: checks 
+qgou1: checks 
+Mrdoubleten: checks 
+*** RIVER *** [Qh Td Qd Tc] [6h]
+SirWatts: bets $29
+qgou1: folds 
+Mrdoubleten: raises $29 to $58
+SirWatts: folds 
+Uncalled bet ($29) returned to Mrdoubleten
+Mrdoubleten collected $95.25 from pot
+Mrdoubleten: doesn't show hand 
+*** SUMMARY ***
+Total pot $98 | Rake $2.75 
+Board [Qh Td Qd Tc 6h]
+Seat 1: liyaoeli1893 (button blind) folded before Flop
+Seat 2: conanlqn folded before Flop (didn't bet)
+Seat 3: SirWatts folded on the River
+Seat 4: qgou1 folded on the River
+Seat 5: Mrdoubleten collected ($95.25)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196378666476:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:27:39 EET [2019/01/29 13:27:39 ET]
+Table 'Terpsichore' 6-max Seat #2 is the button
+Seat 1: liyaoeli1893 ($211.21 in chips) 
+Seat 2: conanlqn ($227.91 in chips) 
+Seat 3: SirWatts ($55 in chips) 
+Seat 4: qgou1 ($335.90 in chips) 
+Seat 5: Mrdoubleten ($274.83 in chips) 
+Seat 6: gaiggibeliin ($191.88 in chips) 
+liyaoeli1893: posts the ante $1
+conanlqn: posts the ante $1
+SirWatts: posts the ante $1
+qgou1: posts the ante $1
+Mrdoubleten: posts the ante $1
+gaiggibeliin: posts the ante $1
+conanlqn: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kh 9d]
+SirWatts: folds 
+qgou1: calls $1
+Mrdoubleten: calls $1
+gaiggibeliin: folds 
+liyaoeli1893: calls $1
+conanlqn: raises $10 to $11
+qgou1: calls $10
+Mrdoubleten: calls $10
+liyaoeli1893: calls $10
+*** FLOP *** [7c Jd 6d]
+qgou1: checks 
+Mrdoubleten: checks 
+liyaoeli1893: checks 
+conanlqn: checks 
+*** TURN *** [7c Jd 6d] [Ah]
+qgou1: checks 
+Mrdoubleten: checks 
+liyaoeli1893: checks 
+conanlqn: checks 
+*** RIVER *** [7c Jd 6d Ah] [9h]
+qgou1: bets $47
+Mrdoubleten: folds 
+liyaoeli1893: calls $47
+conanlqn: folds 
+*** SHOW DOWN ***
+qgou1: shows [Qc 8c] (a straight, Ace to Nine)
+liyaoeli1893: shows [Js 8s] (a straight, Ace to Nine)
+qgou1 collected $70.63 from pot
+liyaoeli1893 collected $70.62 from pot
+*** SUMMARY ***
+Total pot $144 | Rake $2.75 
+Board [7c Jd 6d Ah 9h]
+Seat 1: liyaoeli1893 showed [Js 8s] and won ($70.62) with a straight, Ace to Nine
+Seat 2: conanlqn (button blind) folded on the River
+Seat 3: SirWatts folded before Flop (didn't bet)
+Seat 4: qgou1 showed [Qc 8c] and won ($70.63) with a straight, Ace to Nine
+Seat 5: Mrdoubleten folded on the River
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196378730059:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:29:04 EET [2019/01/29 13:29:04 ET]
+Table 'Terpsichore' 6-max Seat #3 is the button
+Seat 1: liyaoeli1893 ($222.83 in chips) 
+Seat 2: conanlqn ($215.91 in chips) 
+Seat 3: SirWatts ($54 in chips) 
+Seat 4: qgou1 ($347.53 in chips) 
+Seat 5: Mrdoubleten ($262.83 in chips) 
+Seat 6: gaiggibeliin ($190.88 in chips) 
+liyaoeli1893: posts the ante $1
+conanlqn: posts the ante $1
+SirWatts: posts the ante $1
+qgou1: posts the ante $1
+Mrdoubleten: posts the ante $1
+gaiggibeliin: posts the ante $1
+SirWatts: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8d 7h]
+qgou1: calls $1
+Mrdoubleten: folds 
+gaiggibeliin: folds 
+liyaoeli1893: folds 
+conanlqn: folds 
+SirWatts: checks 
+*** FLOP *** [Ks Tc Ac]
+qgou1: checks 
+SirWatts: checks 
+*** TURN *** [Ks Tc Ac] [Js]
+qgou1: checks 
+SirWatts: checks 
+*** RIVER *** [Ks Tc Ac Js] [8h]
+qgou1: checks 
+SirWatts: checks 
+*** SHOW DOWN ***
+qgou1: shows [Ts 9c] (a pair of Tens)
+SirWatts: shows [8c Td] (two pair, Tens and Eights)
+SirWatts collected $7.60 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [Ks Tc Ac Js 8h]
+Seat 1: liyaoeli1893 folded before Flop (didn't bet)
+Seat 2: conanlqn folded before Flop (didn't bet)
+Seat 3: SirWatts (button blind) showed [8c Td] and won ($7.60) with two pair, Tens and Eights
+Seat 4: qgou1 showed [Ts 9c] and lost with a pair of Tens
+Seat 5: Mrdoubleten folded before Flop (didn't bet)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196378761601:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:29:47 EET [2019/01/29 13:29:47 ET]
+Table 'Terpsichore' 6-max Seat #4 is the button
+Seat 1: liyaoeli1893 ($221.83 in chips) 
+Seat 2: conanlqn ($214.91 in chips) 
+Seat 3: SirWatts ($59.60 in chips) 
+Seat 4: qgou1 ($345.53 in chips) 
+Seat 5: Mrdoubleten ($261.83 in chips) 
+Seat 6: gaiggibeliin ($189.88 in chips) 
+liyaoeli1893: posts the ante $1
+conanlqn: posts the ante $1
+SirWatts: posts the ante $1
+qgou1: posts the ante $1
+Mrdoubleten: posts the ante $1
+gaiggibeliin: posts the ante $1
+qgou1: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qd 9s]
+Mrdoubleten: raises $2 to $3
+gaiggibeliin: folds 
+liyaoeli1893: folds 
+conanlqn: calls $3
+SirWatts: folds 
+qgou1: calls $2
+*** FLOP *** [7d 8d Qs]
+Mrdoubleten: checks 
+conanlqn: checks 
+qgou1: bets $7
+Mrdoubleten: folds 
+conanlqn: folds 
+Uncalled bet ($7) returned to qgou1
+qgou1 collected $14.25 from pot
+qgou1: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0.75 
+Board [7d 8d Qs]
+Seat 1: liyaoeli1893 folded before Flop (didn't bet)
+Seat 2: conanlqn folded on the Flop
+Seat 3: SirWatts folded before Flop (didn't bet)
+Seat 4: qgou1 (button blind) collected ($14.25)
+Seat 5: Mrdoubleten folded on the Flop
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196378788459:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:30:23 EET [2019/01/29 13:30:23 ET]
+Table 'Terpsichore' 6-max Seat #5 is the button
+Seat 1: liyaoeli1893 ($220.83 in chips) 
+Seat 2: conanlqn ($210.91 in chips) 
+Seat 3: SirWatts ($58.60 in chips) 
+Seat 4: qgou1 ($355.78 in chips) 
+Seat 5: Mrdoubleten ($257.83 in chips) 
+Seat 6: gaiggibeliin ($188.88 in chips) 
+liyaoeli1893: posts the ante $1
+conanlqn: posts the ante $1
+SirWatts: posts the ante $1
+qgou1: posts the ante $1
+Mrdoubleten: posts the ante $1
+gaiggibeliin: posts the ante $1
+Mrdoubleten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Td 7s]
+gaiggibeliin: folds 
+liyaoeli1893: calls $1
+conanlqn: raises $9 to $10
+SirWatts: folds 
+qgou1: folds 
+Mrdoubleten: calls $9
+liyaoeli1893: calls $9
+*** FLOP *** [8h 9c 6s]
+liyaoeli1893: bets $17.10
+conanlqn: folds 
+Mrdoubleten: calls $17.10
+*** TURN *** [8h 9c 6s] [6h]
+liyaoeli1893: bets $33.73
+Mrdoubleten: folds 
+Uncalled bet ($33.73) returned to liyaoeli1893
+liyaoeli1893 collected $67.45 from pot
+liyaoeli1893: doesn't show hand 
+*** SUMMARY ***
+Total pot $70.20 | Rake $2.75 
+Board [8h 9c 6s 6h]
+Seat 1: liyaoeli1893 collected ($67.45)
+Seat 2: conanlqn folded on the Flop
+Seat 3: SirWatts folded before Flop (didn't bet)
+Seat 4: qgou1 folded before Flop (didn't bet)
+Seat 5: Mrdoubleten (button blind) folded on the Turn
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196378823082:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:31:11 EET [2019/01/29 13:31:11 ET]
+Table 'Terpsichore' 6-max Seat #6 is the button
+Seat 1: liyaoeli1893 ($260.18 in chips) 
+Seat 2: conanlqn ($199.91 in chips) 
+Seat 3: SirWatts ($57.60 in chips) 
+Seat 4: qgou1 ($354.78 in chips) 
+Seat 5: Mrdoubleten ($229.73 in chips) 
+Seat 6: gaiggibeliin ($187.88 in chips) 
+liyaoeli1893: posts the ante $1
+conanlqn: posts the ante $1
+SirWatts: posts the ante $1
+qgou1: posts the ante $1
+Mrdoubleten: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8c 6d]
+liyaoeli1893: folds 
+conanlqn: folds 
+SirWatts: folds 
+qgou1: calls $1
+Mrdoubleten: folds 
+gaiggibeliin: checks 
+*** FLOP *** [Kc Jh 9s]
+qgou1: bets $8
+gaiggibeliin: folds 
+Uncalled bet ($8) returned to qgou1
+qgou1 collected $7.60 from pot
+qgou1: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [Kc Jh 9s]
+Seat 1: liyaoeli1893 folded before Flop (didn't bet)
+Seat 2: conanlqn folded before Flop (didn't bet)
+Seat 3: SirWatts folded before Flop (didn't bet)
+Seat 4: qgou1 collected ($7.60)
+Seat 5: Mrdoubleten folded before Flop (didn't bet)
+Seat 6: gaiggibeliin (button blind) folded on the Flop
+
+
+
+PokerStars Hand #196378847107:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:31:43 EET [2019/01/29 13:31:43 ET]
+Table 'Terpsichore' 6-max Seat #1 is the button
+Seat 1: liyaoeli1893 ($259.18 in chips) 
+Seat 2: conanlqn ($198.91 in chips) 
+Seat 3: SirWatts ($56.60 in chips) 
+Seat 4: qgou1 ($360.38 in chips) 
+Seat 5: Mrdoubleten ($228.73 in chips) 
+Seat 6: gaiggibeliin ($185.88 in chips) 
+liyaoeli1893: posts the ante $1
+conanlqn: posts the ante $1
+SirWatts: posts the ante $1
+qgou1: posts the ante $1
+Mrdoubleten: posts the ante $1
+gaiggibeliin: posts the ante $1
+liyaoeli1893: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6s 9d]
+conanlqn: folds 
+SirWatts: folds 
+qgou1: raises $8 to $9
+Mrdoubleten: folds 
+gaiggibeliin: folds 
+liyaoeli1893: calls $8
+*** FLOP *** [Js 9s 9h]
+qgou1: checks 
+liyaoeli1893: checks 
+*** TURN *** [Js 9s 9h] [8c]
+qgou1: checks 
+liyaoeli1893: checks 
+*** RIVER *** [Js 9s 9h 8c] [Jd]
+qgou1: checks 
+liyaoeli1893: checks 
+*** SHOW DOWN ***
+qgou1: shows [Td Th] (two pair, Jacks and Tens)
+liyaoeli1893: mucks hand 
+qgou1 collected $22.80 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $1.20 
+Board [Js 9s 9h 8c Jd]
+Seat 1: liyaoeli1893 (button blind) mucked [Kc Tc]
+Seat 2: conanlqn folded before Flop (didn't bet)
+Seat 3: SirWatts folded before Flop (didn't bet)
+Seat 4: qgou1 showed [Td Th] and won ($22.80) with two pair, Jacks and Tens
+Seat 5: Mrdoubleten folded before Flop (didn't bet)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196378878473:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:32:25 EET [2019/01/29 13:32:25 ET]
+Table 'Terpsichore' 6-max Seat #2 is the button
+Seat 1: liyaoeli1893 ($249.18 in chips) 
+Seat 2: conanlqn ($197.91 in chips) 
+Seat 3: SirWatts ($55.60 in chips) 
+Seat 4: qgou1 ($373.18 in chips) 
+Seat 5: Mrdoubleten ($227.73 in chips) 
+Seat 6: gaiggibeliin ($184.88 in chips) 
+liyaoeli1893: posts the ante $1
+conanlqn: posts the ante $1
+SirWatts: posts the ante $1
+qgou1: posts the ante $1
+Mrdoubleten: posts the ante $1
+gaiggibeliin: posts the ante $1
+conanlqn: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9c Tc]
+SirWatts: folds 
+qgou1: calls $1
+Mrdoubleten: raises $2 to $3
+gaiggibeliin: calls $3
+liyaoeli1893: folds 
+conanlqn: calls $2
+qgou1: calls $2
+*** FLOP *** [7h Js 8s]
+qgou1: checks 
+Mrdoubleten: bets $8.55
+gaiggibeliin: raises $25.65 to $34.20
+conanlqn: folds 
+qgou1: folds 
+Mrdoubleten: calls $25.65
+*** TURN *** [7h Js 8s] [Ks]
+Mrdoubleten: checks 
+gaiggibeliin: checks 
+*** RIVER *** [7h Js 8s Ks] [7s]
+Mrdoubleten: checks 
+gaiggibeliin: checks 
+*** SHOW DOWN ***
+Mrdoubleten: shows [Jh Ah] (two pair, Jacks and Sevens)
+gaiggibeliin: shows [9c Tc] (a straight, Seven to Jack)
+gaiggibeliin collected $83.65 from pot
+*** SUMMARY ***
+Total pot $86.40 | Rake $2.75 
+Board [7h Js 8s Ks 7s]
+Seat 1: liyaoeli1893 folded before Flop (didn't bet)
+Seat 2: conanlqn (button blind) folded on the Flop
+Seat 3: SirWatts folded before Flop (didn't bet)
+Seat 4: qgou1 folded on the Flop
+Seat 5: Mrdoubleten showed [Jh Ah] and lost with two pair, Jacks and Sevens
+Seat 6: gaiggibeliin showed [9c Tc] and won ($83.65) with a straight, Seven to Jack
+
+
+
+PokerStars Hand #196378947654:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:33:59 EET [2019/01/29 13:33:59 ET]
+Table 'Terpsichore' 6-max Seat #3 is the button
+Seat 1: liyaoeli1893 ($248.18 in chips) 
+Seat 2: conanlqn ($193.91 in chips) 
+Seat 3: SirWatts ($54.60 in chips) 
+Seat 4: qgou1 ($369.18 in chips) 
+Seat 5: Mrdoubleten ($189.53 in chips) 
+Seat 6: gaiggibeliin ($230.33 in chips) 
+liyaoeli1893: posts the ante $1
+conanlqn: posts the ante $1
+SirWatts: posts the ante $1
+qgou1: posts the ante $1
+Mrdoubleten: posts the ante $1
+gaiggibeliin: posts the ante $1
+SirWatts: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jh Qs]
+qgou1: calls $1
+Mrdoubleten: raises $9 to $10
+gaiggibeliin: calls $10
+liyaoeli1893: folds 
+conanlqn: folds 
+SirWatts: folds 
+qgou1: calls $9
+*** FLOP *** [Ah 9c Qh]
+qgou1: checks 
+Mrdoubleten: checks 
+gaiggibeliin: checks 
+*** TURN *** [Ah 9c Qh] [Kh]
+qgou1: checks 
+Mrdoubleten: checks 
+gaiggibeliin: bets $26.36
+qgou1: folds 
+Mrdoubleten: folds 
+Uncalled bet ($26.36) returned to gaiggibeliin
+gaiggibeliin collected $35.15 from pot
+*** SUMMARY ***
+Total pot $37 | Rake $1.85 
+Board [Ah 9c Qh Kh]
+Seat 1: liyaoeli1893 folded before Flop (didn't bet)
+Seat 2: conanlqn folded before Flop (didn't bet)
+Seat 3: SirWatts (button blind) folded before Flop
+Seat 4: qgou1 folded on the Turn
+Seat 5: Mrdoubleten folded on the Turn
+Seat 6: gaiggibeliin collected ($35.15)
+
+
+
+PokerStars Hand #196378998877:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:35:09 EET [2019/01/29 13:35:09 ET]
+Table 'Terpsichore' 6-max Seat #4 is the button
+Seat 1: liyaoeli1893 ($247.18 in chips) 
+Seat 2: conanlqn ($192.91 in chips) 
+Seat 3: SirWatts ($52.60 in chips) 
+Seat 4: qgou1 ($358.18 in chips) 
+Seat 5: Mrdoubleten ($178.53 in chips) 
+Seat 6: gaiggibeliin ($254.48 in chips) 
+liyaoeli1893: posts the ante $1
+conanlqn: posts the ante $1
+SirWatts: posts the ante $1
+qgou1: posts the ante $1
+Mrdoubleten: posts the ante $1
+gaiggibeliin: posts the ante $1
+qgou1: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9c As]
+Mrdoubleten: raises $2 to $3
+gaiggibeliin: folds 
+liyaoeli1893: folds 
+conanlqn: folds 
+SirWatts: folds 
+qgou1: calls $2
+*** FLOP *** [Ks 9h Ts]
+Mrdoubleten: checks 
+qgou1: checks 
+*** TURN *** [Ks 9h Ts] [9s]
+Mrdoubleten: checks 
+qgou1: checks 
+*** RIVER *** [Ks 9h Ts 9s] [7d]
+Mrdoubleten: checks 
+qgou1: checks 
+*** SHOW DOWN ***
+Mrdoubleten: shows [Qc Qs] (two pair, Queens and Nines)
+qgou1: mucks hand 
+Mrdoubleten collected $11.40 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.60 
+Board [Ks 9h Ts 9s 7d]
+Seat 1: liyaoeli1893 folded before Flop (didn't bet)
+Seat 2: conanlqn folded before Flop (didn't bet)
+Seat 3: SirWatts folded before Flop (didn't bet)
+Seat 4: qgou1 (button blind) mucked [Jd Th]
+Seat 5: Mrdoubleten showed [Qc Qs] and won ($11.40) with two pair, Queens and Nines
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196379019571:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:35:37 EET [2019/01/29 13:35:37 ET]
+Table 'Terpsichore' 6-max Seat #5 is the button
+Seat 1: liyaoeli1893 ($246.18 in chips) 
+Seat 2: conanlqn ($191.91 in chips) 
+Seat 3: SirWatts ($51.60 in chips) 
+Seat 4: qgou1 ($354.18 in chips) 
+Seat 5: Mrdoubleten ($185.93 in chips) 
+Seat 6: gaiggibeliin ($253.48 in chips) 
+liyaoeli1893: posts the ante $1
+conanlqn: posts the ante $1
+SirWatts: posts the ante $1
+qgou1: posts the ante $1
+Mrdoubleten: posts the ante $1
+gaiggibeliin: posts the ante $1
+Mrdoubleten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8s Qd]
+gaiggibeliin: folds 
+liyaoeli1893: calls $1
+conanlqn: raises $11 to $12
+SirWatts: folds 
+qgou1: raises $341.18 to $353.18 and is all-in
+Mrdoubleten: folds 
+liyaoeli1893: folds 
+conanlqn: folds 
+Uncalled bet ($341.18) returned to qgou1
+qgou1 collected $32 from pot
+qgou1: doesn't show hand 
+*** SUMMARY ***
+Total pot $32 | Rake $0 
+Seat 1: liyaoeli1893 folded before Flop
+Seat 2: conanlqn folded before Flop
+Seat 3: SirWatts folded before Flop (didn't bet)
+Seat 4: qgou1 collected ($32)
+Seat 5: Mrdoubleten (button blind) folded before Flop
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196379050915:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:36:19 EET [2019/01/29 13:36:19 ET]
+Table 'Terpsichore' 6-max Seat #6 is the button
+Seat 1: liyaoeli1893 ($244.18 in chips) 
+Seat 2: conanlqn ($178.91 in chips) 
+Seat 3: SirWatts ($50.60 in chips) 
+Seat 4: qgou1 ($373.18 in chips) 
+Seat 5: Mrdoubleten ($183.93 in chips) 
+Seat 6: gaiggibeliin ($252.48 in chips) 
+liyaoeli1893: posts the ante $1
+conanlqn: posts the ante $1
+SirWatts: posts the ante $1
+qgou1: posts the ante $1
+Mrdoubleten: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6c Kc]
+liyaoeli1893: raises $2 to $3
+conanlqn: raises $12 to $15
+SirWatts: folds 
+qgou1: calls $15
+Mrdoubleten: folds 
+gaiggibeliin: folds 
+liyaoeli1893: calls $12
+*** FLOP *** [Ac 9h 7s]
+liyaoeli1893: checks 
+conanlqn: bets $24.70
+qgou1: calls $24.70
+liyaoeli1893: folds 
+*** TURN *** [Ac 9h 7s] [7d]
+conanlqn: checks 
+qgou1: checks 
+*** RIVER *** [Ac 9h 7s 7d] [Ks]
+conanlqn: checks 
+qgou1: checks 
+*** SHOW DOWN ***
+conanlqn: shows [Ts Js] (a pair of Sevens)
+qgou1: shows [Qs 9s] (two pair, Nines and Sevens)
+qgou1 collected $98.65 from pot
+*** SUMMARY ***
+Total pot $101.40 | Rake $2.75 
+Board [Ac 9h 7s 7d Ks]
+Seat 1: liyaoeli1893 folded on the Flop
+Seat 2: conanlqn showed [Ts Js] and lost with a pair of Sevens
+Seat 3: SirWatts folded before Flop (didn't bet)
+Seat 4: qgou1 showed [Qs 9s] and won ($98.65) with two pair, Nines and Sevens
+Seat 5: Mrdoubleten folded before Flop (didn't bet)
+Seat 6: gaiggibeliin (button blind) folded before Flop
+
+
+
+PokerStars Hand #196379114245:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:37:44 EET [2019/01/29 13:37:44 ET]
+Table 'Terpsichore' 6-max Seat #1 is the button
+Seat 1: liyaoeli1893 ($228.18 in chips) 
+Seat 2: conanlqn ($138.21 in chips) 
+Seat 3: SirWatts ($49.60 in chips) 
+Seat 4: qgou1 ($431.13 in chips) 
+Seat 5: Mrdoubleten ($182.93 in chips) 
+Seat 6: gaiggibeliin ($250.48 in chips) 
+liyaoeli1893: posts the ante $1
+conanlqn: posts the ante $1
+SirWatts: posts the ante $1
+qgou1: posts the ante $1
+Mrdoubleten: posts the ante $1
+gaiggibeliin: posts the ante $1
+liyaoeli1893: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8d 9s]
+conanlqn: calls $1
+SirWatts: folds 
+qgou1: calls $1
+Mrdoubleten: folds 
+gaiggibeliin: calls $1
+liyaoeli1893: checks 
+*** FLOP *** [8c 7d 6s]
+conanlqn: checks 
+qgou1: checks 
+gaiggibeliin: bets $7
+liyaoeli1893: raises $23.50 to $30.50
+conanlqn: folds 
+qgou1: folds 
+gaiggibeliin: folds 
+Uncalled bet ($23.50) returned to liyaoeli1893
+liyaoeli1893 collected $22.80 from pot
+liyaoeli1893: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $1.20 
+Board [8c 7d 6s]
+Seat 1: liyaoeli1893 (button blind) collected ($22.80)
+Seat 2: conanlqn folded on the Flop
+Seat 3: SirWatts folded before Flop (didn't bet)
+Seat 4: qgou1 folded on the Flop
+Seat 5: Mrdoubleten folded before Flop (didn't bet)
+Seat 6: gaiggibeliin folded on the Flop
+
+
+
+PokerStars Hand #196379159912:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:38:46 EET [2019/01/29 13:38:46 ET]
+Table 'Terpsichore' 6-max Seat #2 is the button
+Seat 1: liyaoeli1893 ($241.98 in chips) 
+Seat 2: conanlqn ($136.21 in chips) 
+Seat 3: SirWatts ($48.60 in chips) 
+Seat 4: qgou1 ($429.13 in chips) 
+Seat 5: Mrdoubleten ($181.93 in chips) 
+Seat 6: gaiggibeliin ($241.48 in chips) 
+liyaoeli1893: posts the ante $1
+conanlqn: posts the ante $1
+SirWatts: posts the ante $1
+qgou1: posts the ante $1
+Mrdoubleten: posts the ante $1
+gaiggibeliin: posts the ante $1
+conanlqn: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9c As]
+SirWatts: folds 
+qgou1: folds 
+Mrdoubleten: folds 
+gaiggibeliin: folds 
+liyaoeli1893: folds 
+Uncalled bet ($1) returned to conanlqn
+conanlqn collected $6 from pot
+conanlqn: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: liyaoeli1893 folded before Flop (didn't bet)
+Seat 2: conanlqn (button blind) collected ($6)
+Seat 3: SirWatts folded before Flop (didn't bet)
+Seat 4: qgou1 folded before Flop (didn't bet)
+Seat 5: Mrdoubleten folded before Flop (didn't bet)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196379168985:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:38:58 EET [2019/01/29 13:38:58 ET]
+Table 'Terpsichore' 6-max Seat #3 is the button
+Seat 1: liyaoeli1893 ($240.98 in chips) 
+Seat 2: conanlqn ($141.21 in chips) 
+Seat 3: SirWatts ($47.60 in chips) 
+Seat 4: qgou1 ($428.13 in chips) 
+Seat 5: Mrdoubleten ($180.93 in chips) 
+Seat 6: gaiggibeliin ($240.48 in chips) 
+liyaoeli1893: posts the ante $1
+conanlqn: posts the ante $1
+SirWatts: posts the ante $1
+qgou1: posts the ante $1
+Mrdoubleten: posts the ante $1
+gaiggibeliin: posts the ante $1
+SirWatts: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ks Kc]
+qgou1: calls $1
+Mrdoubleten: raises $9 to $10
+gaiggibeliin: raises $28 to $38
+liyaoeli1893: folds 
+conanlqn: folds 
+SirWatts: folds 
+qgou1: folds 
+Mrdoubleten: calls $28
+*** FLOP *** [8s 7s Kh]
+Mrdoubleten: checks 
+gaiggibeliin: bets $33
+Mrdoubleten: folds 
+Uncalled bet ($33) returned to gaiggibeliin
+gaiggibeliin collected $81.25 from pot
+*** SUMMARY ***
+Total pot $84 | Rake $2.75 
+Board [8s 7s Kh]
+Seat 1: liyaoeli1893 folded before Flop (didn't bet)
+Seat 2: conanlqn folded before Flop (didn't bet)
+Seat 3: SirWatts (button blind) folded before Flop
+Seat 4: qgou1 folded before Flop
+Seat 5: Mrdoubleten folded on the Flop
+Seat 6: gaiggibeliin collected ($81.25)
+
+
+
+PokerStars Hand #196379210090:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:39:53 EET [2019/01/29 13:39:53 ET]
+Table 'Terpsichore' 6-max Seat #4 is the button
+Seat 1: liyaoeli1893 ($239.98 in chips) 
+Seat 2: conanlqn ($140.21 in chips) 
+Seat 3: SirWatts ($45.60 in chips) 
+Seat 4: qgou1 ($426.13 in chips) 
+Seat 5: Mrdoubleten ($141.93 in chips) 
+Seat 6: gaiggibeliin ($282.73 in chips) 
+liyaoeli1893: posts the ante $1
+conanlqn: posts the ante $1
+SirWatts: posts the ante $1
+qgou1: posts the ante $1
+Mrdoubleten: posts the ante $1
+gaiggibeliin: posts the ante $1
+qgou1: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kh 6s]
+Mrdoubleten: calls $1
+gaiggibeliin: folds 
+liyaoeli1893: folds 
+conanlqn: raises $9 to $10
+SirWatts: raises $34.60 to $44.60 and is all-in
+qgou1: folds 
+Mrdoubleten: folds 
+conanlqn: calls $34.60
+*** FLOP *** [9s Th 6d]
+*** TURN *** [9s Th 6d] [Jd]
+*** RIVER *** [9s Th 6d Jd] [Ah]
+*** SHOW DOWN ***
+conanlqn: shows [Ts Js] (two pair, Jacks and Tens)
+SirWatts: shows [Qc Ad] (a pair of Aces)
+conanlqn collected $94.45 from pot
+*** SUMMARY ***
+Total pot $97.20 | Rake $2.75 
+Board [9s Th 6d Jd Ah]
+Seat 1: liyaoeli1893 folded before Flop (didn't bet)
+Seat 2: conanlqn showed [Ts Js] and won ($94.45) with two pair, Jacks and Tens
+Seat 3: SirWatts showed [Qc Ad] and lost with a pair of Aces
+Seat 4: qgou1 (button blind) folded before Flop
+Seat 5: Mrdoubleten folded before Flop
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196379236566:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:40:24 EET [2019/01/29 13:40:24 ET]
+Table 'Terpsichore' 6-max Seat #5 is the button
+Seat 1: liyaoeli1893 ($238.98 in chips) 
+Seat 2: conanlqn ($189.06 in chips) 
+Seat 3: SirWatts ($100 in chips) 
+Seat 4: qgou1 ($424.13 in chips) 
+Seat 5: Mrdoubleten ($139.93 in chips) 
+Seat 6: gaiggibeliin ($281.73 in chips) 
+liyaoeli1893: posts the ante $1
+conanlqn: posts the ante $1
+SirWatts: posts the ante $1
+qgou1: posts the ante $1
+Mrdoubleten: posts the ante $1
+gaiggibeliin: posts the ante $1
+Mrdoubleten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ad Ks]
+gaiggibeliin: calls $1
+liyaoeli1893: raises $9 to $10
+conanlqn: folds 
+SirWatts: folds 
+qgou1: calls $10
+Mrdoubleten: calls $9
+gaiggibeliin: raises $270.73 to $280.73 and is all-in
+liyaoeli1893: folds 
+qgou1: folds 
+Mrdoubleten: folds 
+Uncalled bet ($270.73) returned to gaiggibeliin
+gaiggibeliin collected $46 from pot
+*** SUMMARY ***
+Total pot $46 | Rake $0 
+Seat 1: liyaoeli1893 folded before Flop
+Seat 2: conanlqn folded before Flop (didn't bet)
+Seat 3: SirWatts folded before Flop (didn't bet)
+Seat 4: qgou1 folded before Flop
+Seat 5: Mrdoubleten (button blind) folded before Flop
+Seat 6: gaiggibeliin collected ($46)
+
+
+
+PokerStars Hand #196379255886:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:40:49 EET [2019/01/29 13:40:49 ET]
+Table 'Terpsichore' 6-max Seat #6 is the button
+Seat 1: liyaoeli1893 ($227.98 in chips) 
+Seat 2: conanlqn ($188.06 in chips) 
+Seat 3: SirWatts ($99 in chips) 
+Seat 4: qgou1 ($413.13 in chips) 
+Seat 5: Mrdoubleten ($128.93 in chips) 
+Seat 6: gaiggibeliin ($316.73 in chips) 
+liyaoeli1893: posts the ante $1
+conanlqn: posts the ante $1
+SirWatts: posts the ante $1
+qgou1: posts the ante $1
+Mrdoubleten: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ad Qs]
+liyaoeli1893: folds 
+conanlqn: raises $8 to $9
+SirWatts: folds 
+qgou1: calls $9
+Mrdoubleten: folds 
+Mrdoubleten leaves the table
+gaiggibeliin: calls $8
+*** FLOP *** [7h 8c Jd]
+conanlqn: bets $15
+qgou1: calls $15
+gaiggibeliin: folds 
+*** TURN *** [7h 8c Jd] [9c]
+conanlqn: checks 
+qgou1: bets $30
+conanlqn: calls $30
+*** RIVER *** [7h 8c Jd 9c] [7d]
+conanlqn: checks 
+qgou1: checks 
+*** SHOW DOWN ***
+conanlqn: shows [Th 9s] (a straight, Seven to Jack)
+qgou1: mucks hand 
+conanlqn collected $120.25 from pot
+DEDTAWIWASA joins the table at seat #5 
+*** SUMMARY ***
+Total pot $123 | Rake $2.75 
+Board [7h 8c Jd 9c 7d]
+Seat 1: liyaoeli1893 folded before Flop (didn't bet)
+Seat 2: conanlqn showed [Th 9s] and won ($120.25) with a straight, Seven to Jack
+Seat 3: SirWatts folded before Flop (didn't bet)
+Seat 4: qgou1 mucked [Ac Jc]
+Seat 5: Mrdoubleten folded before Flop (didn't bet)
+Seat 6: gaiggibeliin (button blind) folded on the Flop
+
+
+
+PokerStars Hand #196379316665:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:42:10 EET [2019/01/29 13:42:10 ET]
+Table 'Terpsichore' 6-max Seat #1 is the button
+Seat 1: liyaoeli1893 ($226.98 in chips) 
+Seat 2: conanlqn ($253.31 in chips) 
+Seat 3: SirWatts ($98 in chips) 
+Seat 4: qgou1 ($358.13 in chips) 
+Seat 5: DEDTAWIWASA ($150 in chips) 
+Seat 6: gaiggibeliin ($306.73 in chips) 
+liyaoeli1893: posts the ante $1
+conanlqn: posts the ante $1
+SirWatts: posts the ante $1
+qgou1: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+gaiggibeliin: posts the ante $1
+liyaoeli1893: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8c Jh]
+conanlqn: folds 
+SirWatts: calls $1
+qgou1: raises $9 to $10
+DEDTAWIWASA: folds 
+gaiggibeliin: folds 
+liyaoeli1893: folds 
+SirWatts: calls $9
+*** FLOP *** [6s 7s 6d]
+SirWatts: checks 
+qgou1: bets $13
+SirWatts: calls $13
+*** TURN *** [6s 7s 6d] [9c]
+SirWatts: checks 
+qgou1: checks 
+*** RIVER *** [6s 7s 6d 9c] [8d]
+SirWatts: checks 
+qgou1: checks 
+*** SHOW DOWN ***
+SirWatts: shows [Ad 7d] (a straight, Ace to Nine)
+qgou1: mucks hand 
+SirWatts collected $50.35 from pot
+*** SUMMARY ***
+Total pot $53 | Rake $2.65 
+Board [6s 7s 6d 9c 8d]
+Seat 1: liyaoeli1893 (button blind) folded before Flop
+Seat 2: conanlqn folded before Flop (didn't bet)
+Seat 3: SirWatts showed [Ad 7d] and won ($50.35) with a straight, Ace to Nine
+Seat 4: qgou1 mucked [Js Jc]
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196379362731:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:43:11 EET [2019/01/29 13:43:11 ET]
+Table 'Terpsichore' 6-max Seat #2 is the button
+Seat 1: liyaoeli1893 ($224.98 in chips) 
+Seat 2: conanlqn ($252.31 in chips) 
+Seat 3: SirWatts ($124.35 in chips) 
+Seat 4: qgou1 ($334.13 in chips) 
+Seat 5: DEDTAWIWASA ($150 in chips) 
+Seat 6: gaiggibeliin ($305.73 in chips) 
+liyaoeli1893: posts the ante $1
+conanlqn: posts the ante $1
+SirWatts: posts the ante $1
+qgou1: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+gaiggibeliin: posts the ante $1
+conanlqn: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9d Qs]
+SirWatts: folds 
+qgou1: calls $1
+DEDTAWIWASA: folds 
+gaiggibeliin: folds 
+liyaoeli1893: folds 
+conanlqn: raises $8 to $9
+qgou1: calls $8
+*** FLOP *** [Qc 8c 6s]
+qgou1: checks 
+conanlqn: bets $12
+qgou1: calls $12
+*** TURN *** [Qc 8c 6s] [9s]
+qgou1: checks 
+conanlqn: checks 
+*** RIVER *** [Qc 8c 6s 9s] [Ts]
+qgou1: checks 
+conanlqn: bets $23
+qgou1: calls $23
+*** SHOW DOWN ***
+conanlqn: shows [7s 8s] (a straight flush, Six to Ten)
+qgou1: mucks hand 
+conanlqn collected $91.25 from pot
+*** SUMMARY ***
+Total pot $94 | Rake $2.75 
+Board [Qc 8c 6s 9s Ts]
+Seat 1: liyaoeli1893 folded before Flop (didn't bet)
+Seat 2: conanlqn (button blind) showed [7s 8s] and won ($91.25) with a straight flush, Six to Ten
+Seat 3: SirWatts folded before Flop (didn't bet)
+Seat 4: qgou1 mucked [7c Ah]
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196379416241:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:44:22 EET [2019/01/29 13:44:22 ET]
+Table 'Terpsichore' 6-max Seat #3 is the button
+Seat 1: liyaoeli1893 ($223.98 in chips) 
+Seat 2: conanlqn ($298.56 in chips) 
+Seat 3: SirWatts ($123.35 in chips) 
+Seat 4: qgou1 ($289.13 in chips) 
+Seat 5: DEDTAWIWASA ($150 in chips) 
+Seat 6: gaiggibeliin ($304.73 in chips) 
+liyaoeli1893: posts the ante $1
+conanlqn: posts the ante $1
+SirWatts: posts the ante $1
+qgou1: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+gaiggibeliin: posts the ante $1
+SirWatts: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kc 6s]
+qgou1: calls $1
+DEDTAWIWASA: folds 
+gaiggibeliin: folds 
+liyaoeli1893: raises $9 to $10
+conanlqn: folds 
+SirWatts: folds 
+qgou1: calls $9
+*** FLOP *** [6d Jd Ks]
+qgou1: checks 
+liyaoeli1893: bets $14
+qgou1: folds 
+Uncalled bet ($14) returned to liyaoeli1893
+liyaoeli1893 collected $25.65 from pot
+liyaoeli1893: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $1.35 
+Board [6d Jd Ks]
+Seat 1: liyaoeli1893 collected ($25.65)
+Seat 2: conanlqn folded before Flop (didn't bet)
+Seat 3: SirWatts (button blind) folded before Flop
+Seat 4: qgou1 folded on the Flop
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196379437140:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:44:50 EET [2019/01/29 13:44:50 ET]
+Table 'Terpsichore' 6-max Seat #4 is the button
+Seat 1: liyaoeli1893 ($238.63 in chips) 
+Seat 2: conanlqn ($297.56 in chips) 
+Seat 3: SirWatts ($121.35 in chips) 
+Seat 4: qgou1 ($278.13 in chips) 
+Seat 5: DEDTAWIWASA ($150 in chips) 
+Seat 6: gaiggibeliin ($303.73 in chips) 
+liyaoeli1893: posts the ante $1
+conanlqn: posts the ante $1
+SirWatts: posts the ante $1
+qgou1: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+gaiggibeliin: posts the ante $1
+qgou1: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7c Kh]
+DEDTAWIWASA: folds 
+gaiggibeliin: folds 
+liyaoeli1893: folds 
+conanlqn: raises $8 to $9
+SirWatts: folds 
+qgou1: calls $8
+*** FLOP *** [7s Ac Kc]
+conanlqn: checks 
+qgou1: bets $12
+conanlqn: folds 
+Uncalled bet ($12) returned to qgou1
+qgou1 collected $22.80 from pot
+qgou1: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $1.20 
+Board [7s Ac Kc]
+Seat 1: liyaoeli1893 folded before Flop (didn't bet)
+Seat 2: conanlqn folded on the Flop
+Seat 3: SirWatts folded before Flop (didn't bet)
+Seat 4: qgou1 (button blind) collected ($22.80)
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196391042490:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 1:02:34 EET [2019/01/29 18:02:34 ET]
+Table 'Terpsichore' 6-max Seat #6 is the button
+Seat 1: danipesis ($150 in chips) 
+Seat 3: FigoTheRock ($623.74 in chips) 
+Seat 4: gaiggibeliin ($150 in chips) 
+Seat 5: DEDTAWIWASA ($741.61 in chips) 
+Seat 6: Xerophyten ($241.85 in chips) 
+danipesis: posts the ante $1
+FigoTheRock: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+Xerophyten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Th Kc]
+danipesis: calls $1
+FigoTheRock: calls $1
+gaiggibeliin: calls $1
+DEDTAWIWASA: folds 
+Xerophyten: raises $11 to $12
+danipesis: calls $11
+FigoTheRock: calls $11
+gaiggibeliin: calls $11
+*** FLOP *** [7s Jd 7h]
+danipesis: checks 
+FigoTheRock: checks 
+gaiggibeliin: checks 
+Xerophyten: checks 
+*** TURN *** [7s Jd 7h] [Js]
+danipesis: checks 
+FigoTheRock: checks 
+gaiggibeliin: checks 
+Xerophyten: checks 
+*** RIVER *** [7s Jd 7h Js] [6h]
+danipesis: checks 
+FigoTheRock: checks 
+gaiggibeliin: checks 
+Xerophyten: checks 
+*** SHOW DOWN ***
+danipesis: shows [Tc Ts] (two pair, Jacks and Tens)
+FigoTheRock: mucks hand 
+gaiggibeliin: mucks hand 
+Xerophyten: mucks hand 
+danipesis collected $50.35 from pot
+*** SUMMARY ***
+Total pot $53 | Rake $2.65 
+Board [7s Jd 7h Js 6h]
+Seat 1: danipesis showed [Tc Ts] and won ($50.35) with two pair, Jacks and Tens
+Seat 3: FigoTheRock mucked [9s Td]
+Seat 4: gaiggibeliin mucked [Th Kc]
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 6: Xerophyten (button blind) mucked [Qc Ac]
+
+
+
+PokerStars Hand #196391120419:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 1:04:34 EET [2019/01/29 18:04:34 ET]
+Table 'Terpsichore' 6-max Seat #1 is the button
+Seat 1: danipesis ($187.35 in chips) 
+Seat 3: FigoTheRock ($610.74 in chips) 
+Seat 4: gaiggibeliin ($137 in chips) 
+Seat 5: DEDTAWIWASA ($740.61 in chips) 
+Seat 6: Xerophyten ($228.85 in chips) 
+danipesis: posts the ante $1
+FigoTheRock: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+danipesis: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ts Kh]
+FigoTheRock: folds 
+gaiggibeliin: calls $1
+DEDTAWIWASA: folds 
+Xerophyten: folds 
+danipesis: checks 
+*** FLOP *** [As 9c 8d]
+gaiggibeliin: checks 
+danipesis: bets $4
+IWINALWAYS leaves the table
+gaiggibeliin: folds 
+Uncalled bet ($4) returned to danipesis
+danipesis collected $6.65 from pot
+danipesis: doesn't show hand 
+*** SUMMARY ***
+Total pot $7 | Rake $0.35 
+Board [As 9c 8d]
+Seat 1: danipesis (button blind) collected ($6.65)
+Seat 3: FigoTheRock folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded on the Flop
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196391168083:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 1:05:42 EET [2019/01/29 18:05:42 ET]
+Table 'Terpsichore' 6-max Seat #3 is the button
+Seat 1: danipesis ($192 in chips) 
+Seat 3: FigoTheRock ($609.74 in chips) 
+Seat 4: gaiggibeliin ($135 in chips) 
+Seat 5: DEDTAWIWASA ($739.61 in chips) 
+Seat 6: Xerophyten ($227.85 in chips) 
+danipesis: posts the ante $1
+FigoTheRock: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+FigoTheRock: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ah Qs]
+gaiggibeliin: raises $7 to $8
+DEDTAWIWASA: folds 
+Xerophyten: folds 
+danipesis: folds 
+FigoTheRock: calls $7
+*** FLOP *** [7h 8d Ts]
+gaiggibeliin: checks 
+FigoTheRock: bets $13
+gaiggibeliin: folds 
+Uncalled bet ($13) returned to FigoTheRock
+FigoTheRock collected $19.95 from pot
+FigoTheRock: doesn't show hand 
+*** SUMMARY ***
+Total pot $21 | Rake $1.05 
+Board [7h 8d Ts]
+Seat 1: danipesis folded before Flop (didn't bet)
+Seat 3: FigoTheRock (button blind) collected ($19.95)
+Seat 4: gaiggibeliin folded on the Flop
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196391184882:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 1:06:08 EET [2019/01/29 18:06:08 ET]
+Table 'Terpsichore' 6-max Seat #4 is the button
+Seat 1: danipesis ($191 in chips) 
+Seat 3: FigoTheRock ($620.69 in chips) 
+Seat 4: gaiggibeliin ($126 in chips) 
+Seat 5: DEDTAWIWASA ($738.61 in chips) 
+Seat 6: Xerophyten ($226.85 in chips) 
+danipesis: posts the ante $1
+FigoTheRock: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qc Js]
+DEDTAWIWASA: folds 
+Xerophyten: folds 
+danipesis: folds 
+FigoTheRock: calls $1
+gaiggibeliin: checks 
+*** FLOP *** [Td 9d Qd]
+FigoTheRock: checks 
+gaiggibeliin: checks 
+*** TURN *** [Td 9d Qd] [Ah]
+FigoTheRock: checks 
+gaiggibeliin: checks 
+*** RIVER *** [Td 9d Qd Ah] [Ks]
+FigoTheRock: checks 
+gaiggibeliin: bets $4
+FigoTheRock: folds 
+Uncalled bet ($4) returned to gaiggibeliin
+gaiggibeliin collected $6.65 from pot
+*** SUMMARY ***
+Total pot $7 | Rake $0.35 
+Board [Td 9d Qd Ah Ks]
+Seat 1: danipesis folded before Flop (didn't bet)
+Seat 3: FigoTheRock folded on the River
+Seat 4: gaiggibeliin (button blind) collected ($6.65)
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196391237143:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 1:07:28 EET [2019/01/29 18:07:28 ET]
+Table 'Terpsichore' 6-max Seat #5 is the button
+Seat 1: danipesis ($190 in chips) 
+Seat 3: FigoTheRock ($618.69 in chips) 
+Seat 4: gaiggibeliin ($130.65 in chips) 
+Seat 5: DEDTAWIWASA ($737.61 in chips) 
+Seat 6: Xerophyten ($225.85 in chips) 
+danipesis: posts the ante $1
+FigoTheRock: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+DEDTAWIWASA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9d Th]
+Xerophyten: folds 
+danipesis: folds 
+FigoTheRock: folds 
+gaiggibeliin: calls $1
+DEDTAWIWASA: raises $9 to $10
+gaiggibeliin: calls $9
+*** FLOP *** [7s Jd Qs]
+gaiggibeliin: checks 
+DEDTAWIWASA: checks 
+*** TURN *** [7s Jd Qs] [Qd]
+gaiggibeliin: bets $17.81
+DEDTAWIWASA: calls $17.81
+*** RIVER *** [7s Jd Qs Qd] [Td]
+gaiggibeliin: bets $57
+DEDTAWIWASA: raises $57 to $114
+gaiggibeliin: folds 
+Uncalled bet ($57) returned to DEDTAWIWASA
+DEDTAWIWASA collected $171.87 from pot
+DEDTAWIWASA: doesn't show hand 
+*** SUMMARY ***
+Total pot $174.62 | Rake $2.75 
+Board [7s Jd Qs Qd Td]
+Seat 1: danipesis folded before Flop (didn't bet)
+Seat 3: FigoTheRock folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded on the River
+Seat 5: DEDTAWIWASA (button blind) collected ($171.87)
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196391302298:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 1:09:10 EET [2019/01/29 18:09:10 ET]
+Table 'Terpsichore' 6-max Seat #6 is the button
+Seat 1: danipesis ($189 in chips) 
+Seat 3: FigoTheRock ($617.69 in chips) 
+Seat 4: gaiggibeliin ($150 in chips) 
+Seat 5: DEDTAWIWASA ($823.67 in chips) 
+Seat 6: Xerophyten ($224.85 in chips) 
+danipesis: posts the ante $1
+FigoTheRock: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+Xerophyten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kh 6h]
+danipesis: calls $1
+FigoTheRock: folds 
+gaiggibeliin: folds 
+DEDTAWIWASA: folds 
+Xerophyten: raises $6 to $7
+danipesis: calls $6
+*** FLOP *** [Ac 9h 9d]
+danipesis: checks 
+Xerophyten: bets $9.03
+danipesis: folds 
+Uncalled bet ($9.03) returned to Xerophyten
+Xerophyten collected $18.05 from pot
+*** SUMMARY ***
+Total pot $19 | Rake $0.95 
+Board [Ac 9h 9d]
+Seat 1: danipesis folded on the Flop
+Seat 3: FigoTheRock folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 6: Xerophyten (button blind) collected ($18.05)
+
+
+
+PokerStars Hand #196391328595:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 1:09:51 EET [2019/01/29 18:09:51 ET]
+Table 'Terpsichore' 6-max Seat #1 is the button
+Seat 1: danipesis ($181 in chips) 
+Seat 3: FigoTheRock ($616.69 in chips) 
+Seat 4: gaiggibeliin ($149 in chips) 
+Seat 5: DEDTAWIWASA ($822.67 in chips) 
+Seat 6: Xerophyten ($234.90 in chips) 
+danipesis: posts the ante $1
+FigoTheRock: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+danipesis: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qs 7c]
+FigoTheRock: raises $6 to $7
+gaiggibeliin: folds 
+DEDTAWIWASA: calls $7
+Xerophyten: calls $7
+danipesis: calls $6
+*** FLOP *** [Qd Js Ks]
+FigoTheRock: checks 
+DEDTAWIWASA: checks 
+Xerophyten: checks 
+danipesis: checks 
+*** TURN *** [Qd Js Ks] [Kd]
+FigoTheRock: checks 
+DEDTAWIWASA: checks 
+Xerophyten: bets $15.68
+danipesis: folds 
+FigoTheRock: folds 
+DEDTAWIWASA: folds 
+Uncalled bet ($15.68) returned to Xerophyten
+Xerophyten collected $31.35 from pot
+*** SUMMARY ***
+Total pot $33 | Rake $1.65 
+Board [Qd Js Ks Kd]
+Seat 1: danipesis (button blind) folded on the Turn
+Seat 3: FigoTheRock folded on the Turn
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: DEDTAWIWASA folded on the Turn
+Seat 6: Xerophyten collected ($31.35)
+
+
+
+PokerStars Hand #196391371337:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 1:10:59 EET [2019/01/29 18:10:59 ET]
+Table 'Terpsichore' 6-max Seat #3 is the button
+Seat 1: danipesis ($173 in chips) 
+Seat 3: FigoTheRock ($608.69 in chips) 
+Seat 4: gaiggibeliin ($148 in chips) 
+Seat 5: DEDTAWIWASA ($814.67 in chips) 
+Seat 6: Xerophyten ($258.25 in chips) 
+danipesis: posts the ante $1
+FigoTheRock: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+FigoTheRock: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6h Tc]
+gaiggibeliin: folds 
+DEDTAWIWASA: calls $1
+Xerophyten: folds 
+danipesis: folds 
+FigoTheRock: checks 
+*** FLOP *** [Td Js Kh]
+DEDTAWIWASA: bets $5
+FigoTheRock: calls $5
+*** TURN *** [Td Js Kh] [Kd]
+DEDTAWIWASA: checks 
+FigoTheRock: bets $10
+DEDTAWIWASA: folds 
+Uncalled bet ($10) returned to FigoTheRock
+FigoTheRock collected $16.15 from pot
+FigoTheRock: doesn't show hand 
+*** SUMMARY ***
+Total pot $17 | Rake $0.85 
+Board [Td Js Kh Kd]
+Seat 1: danipesis folded before Flop (didn't bet)
+Seat 3: FigoTheRock (button blind) collected ($16.15)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: DEDTAWIWASA folded on the Turn
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196391390644:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 1:11:29 EET [2019/01/29 18:11:29 ET]
+Table 'Terpsichore' 6-max Seat #4 is the button
+Seat 1: danipesis ($172 in chips) 
+Seat 3: FigoTheRock ($617.84 in chips) 
+Seat 4: gaiggibeliin ($147 in chips) 
+Seat 5: DEDTAWIWASA ($807.67 in chips) 
+Seat 6: Xerophyten ($257.25 in chips) 
+danipesis: posts the ante $1
+FigoTheRock: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6s 7h]
+DEDTAWIWASA: folds 
+Xerophyten: calls $1
+danipesis: folds 
+FigoTheRock: calls $1
+gaiggibeliin: checks 
+*** FLOP *** [Ad 8s Qs]
+Xerophyten: checks 
+FigoTheRock: checks 
+gaiggibeliin: checks 
+*** TURN *** [Ad 8s Qs] [8h]
+Xerophyten: bets $3.80
+FigoTheRock: folds 
+gaiggibeliin: folds 
+Uncalled bet ($3.80) returned to Xerophyten
+Xerophyten collected $7.60 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [Ad 8s Qs 8h]
+Seat 1: danipesis folded before Flop (didn't bet)
+Seat 3: FigoTheRock folded on the Turn
+Seat 4: gaiggibeliin (button blind) folded on the Turn
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 6: Xerophyten collected ($7.60)
+
+
+
+PokerStars Hand #196391434312:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 1:12:37 EET [2019/01/29 18:12:37 ET]
+Table 'Terpsichore' 6-max Seat #5 is the button
+Seat 1: danipesis ($171 in chips) 
+Seat 3: FigoTheRock ($615.84 in chips) 
+Seat 4: gaiggibeliin ($145 in chips) 
+Seat 5: DEDTAWIWASA ($806.67 in chips) 
+Seat 6: Xerophyten ($262.85 in chips) 
+danipesis: posts the ante $1
+FigoTheRock: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+DEDTAWIWASA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kh 6c]
+Xerophyten: folds 
+danipesis: folds 
+FigoTheRock: raises $7 to $8
+gaiggibeliin: folds 
+DEDTAWIWASA: raises $28 to $36
+FigoTheRock: folds 
+Uncalled bet ($28) returned to DEDTAWIWASA
+DEDTAWIWASA collected $21 from pot
+DEDTAWIWASA: doesn't show hand 
+*** SUMMARY ***
+Total pot $21 | Rake $0 
+Seat 1: danipesis folded before Flop (didn't bet)
+Seat 3: FigoTheRock folded before Flop
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: DEDTAWIWASA (button blind) collected ($21)
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196391464246:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 1:13:25 EET [2019/01/29 18:13:25 ET]
+Table 'Terpsichore' 6-max Seat #6 is the button
+Seat 1: danipesis ($170 in chips) 
+Seat 3: FigoTheRock ($606.84 in chips) 
+Seat 4: gaiggibeliin ($150 in chips) 
+Seat 5: DEDTAWIWASA ($818.67 in chips) 
+Seat 6: Xerophyten ($261.85 in chips) 
+danipesis: posts the ante $1
+FigoTheRock: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+Xerophyten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Td Ts]
+danipesis: folds 
+FigoTheRock: calls $1
+gaiggibeliin: calls $1
+DEDTAWIWASA: raises $13 to $14
+Xerophyten: folds 
+FigoTheRock: folds 
+gaiggibeliin: calls $13
+*** FLOP *** [7d 9h Ah]
+gaiggibeliin: checks 
+DEDTAWIWASA: checks 
+*** TURN *** [7d 9h Ah] [7c]
+gaiggibeliin: checks 
+DEDTAWIWASA: bets $20
+gaiggibeliin: folds 
+Uncalled bet ($20) returned to DEDTAWIWASA
+DEDTAWIWASA collected $33.25 from pot
+DEDTAWIWASA: doesn't show hand 
+*** SUMMARY ***
+Total pot $35 | Rake $1.75 
+Board [7d 9h Ah 7c]
+Seat 1: danipesis folded before Flop (didn't bet)
+Seat 3: FigoTheRock folded before Flop
+Seat 4: gaiggibeliin folded on the Turn
+Seat 5: DEDTAWIWASA collected ($33.25)
+Seat 6: Xerophyten (button blind) folded before Flop
+
+
+
+PokerStars Hand #196391492232:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 1:14:09 EET [2019/01/29 18:14:09 ET]
+Table 'Terpsichore' 6-max Seat #1 is the button
+Seat 1: danipesis ($169 in chips) 
+Seat 3: FigoTheRock ($604.84 in chips) 
+Seat 4: gaiggibeliin ($135 in chips) 
+Seat 5: DEDTAWIWASA ($836.92 in chips) 
+Seat 6: Xerophyten ($259.85 in chips) 
+danipesis: posts the ante $1
+FigoTheRock: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+danipesis: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kh 9s]
+FigoTheRock: raises $6 to $7
+gaiggibeliin: folds 
+DEDTAWIWASA: folds 
+Xerophyten: folds 
+danipesis: calls $6
+*** FLOP *** [Js 6c 7s]
+FigoTheRock: checks 
+danipesis: bets $9
+FigoTheRock: folds 
+Uncalled bet ($9) returned to danipesis
+danipesis collected $18.05 from pot
+danipesis: doesn't show hand 
+*** SUMMARY ***
+Total pot $19 | Rake $0.95 
+Board [Js 6c 7s]
+Seat 1: danipesis (button blind) collected ($18.05)
+Seat 3: FigoTheRock folded on the Flop
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196391510064:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 1:14:38 EET [2019/01/29 18:14:38 ET]
+Table 'Terpsichore' 6-max Seat #3 is the button
+Seat 1: danipesis ($179.05 in chips) 
+Seat 3: FigoTheRock ($596.84 in chips) 
+Seat 4: gaiggibeliin ($134 in chips) 
+Seat 5: DEDTAWIWASA ($835.92 in chips) 
+Seat 6: Xerophyten ($258.85 in chips) 
+danipesis: posts the ante $1
+FigoTheRock: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+FigoTheRock: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9h Ks]
+gaiggibeliin: folds 
+DEDTAWIWASA: folds 
+Zihuatanejo3 joins the table at seat #2 
+Xerophyten: calls $1
+danipesis: calls $1
+FigoTheRock: checks 
+*** FLOP *** [Kh Kd Ah]
+Xerophyten: checks 
+danipesis: checks 
+FigoTheRock: checks 
+*** TURN *** [Kh Kd Ah] [7s]
+Xerophyten: bets $3.80
+danipesis: calls $3.80
+FigoTheRock: folds 
+*** RIVER *** [Kh Kd Ah 7s] [Ts]
+Xerophyten: checks 
+danipesis: checks 
+*** SHOW DOWN ***
+Xerophyten: shows [7h 8h] (two pair, Kings and Sevens)
+danipesis: shows [8c Ad] (two pair, Aces and Kings)
+danipesis collected $14.82 from pot
+*** SUMMARY ***
+Total pot $15.60 | Rake $0.78 
+Board [Kh Kd Ah 7s Ts]
+Seat 1: danipesis showed [8c Ad] and won ($14.82) with two pair, Aces and Kings
+Seat 3: FigoTheRock (button blind) folded on the Turn
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 6: Xerophyten showed [7h 8h] and lost with two pair, Kings and Sevens
+
+
+
+PokerStars Hand #196391553989:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 1:15:48 EET [2019/01/29 18:15:48 ET]
+Table 'Terpsichore' 6-max Seat #4 is the button
+Seat 1: danipesis ($188.07 in chips) 
+Seat 2: Zihuatanejo3 ($150 in chips) 
+Seat 3: FigoTheRock ($594.84 in chips) 
+Seat 4: gaiggibeliin ($133 in chips) 
+Seat 5: DEDTAWIWASA ($834.92 in chips) 
+Seat 6: Xerophyten ($253.05 in chips) 
+danipesis: posts the ante $1
+Zihuatanejo3: posts the ante $1
+FigoTheRock: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7d Kh]
+DEDTAWIWASA: calls $1
+Xerophyten: folds 
+danipesis: folds 
+Zihuatanejo3: calls $1
+FigoTheRock: calls $1
+gaiggibeliin: checks 
+*** FLOP *** [9s Ad Tc]
+DEDTAWIWASA: bets $6.94
+Zihuatanejo3: folds 
+FigoTheRock: folds 
+gaiggibeliin: folds 
+Uncalled bet ($6.94) returned to DEDTAWIWASA
+DEDTAWIWASA collected $9.50 from pot
+DEDTAWIWASA: doesn't show hand 
+*** SUMMARY ***
+Total pot $10 | Rake $0.50 
+Board [9s Ad Tc]
+Seat 1: danipesis folded before Flop (didn't bet)
+Seat 2: Zihuatanejo3 folded on the Flop
+Seat 3: FigoTheRock folded on the Flop
+Seat 4: gaiggibeliin (button blind) folded on the Flop
+Seat 5: DEDTAWIWASA collected ($9.50)
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196391579889:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 1:16:29 EET [2019/01/29 18:16:29 ET]
+Table 'Terpsichore' 6-max Seat #5 is the button
+Seat 1: danipesis ($187.07 in chips) 
+Seat 2: Zihuatanejo3 ($148 in chips) 
+Seat 3: FigoTheRock ($592.84 in chips) 
+Seat 4: gaiggibeliin ($148 in chips) 
+Seat 5: DEDTAWIWASA ($842.42 in chips) 
+Seat 6: Xerophyten ($252.05 in chips) 
+danipesis: posts the ante $1
+Zihuatanejo3: posts the ante $1
+FigoTheRock: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+DEDTAWIWASA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qh 7h]
+Xerophyten: folds 
+danipesis: folds 
+Zihuatanejo3: folds 
+FigoTheRock: folds 
+gaiggibeliin: calls $1
+DEDTAWIWASA: checks 
+*** FLOP *** [Kh Ah Kc]
+gaiggibeliin: bets $2.51
+DEDTAWIWASA: folds 
+Uncalled bet ($2.51) returned to gaiggibeliin
+gaiggibeliin collected $7.60 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [Kh Ah Kc]
+Seat 1: danipesis folded before Flop (didn't bet)
+Seat 2: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 3: FigoTheRock folded before Flop (didn't bet)
+Seat 4: gaiggibeliin collected ($7.60)
+Seat 5: DEDTAWIWASA (button blind) folded on the Flop
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196391597882:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 1:16:58 EET [2019/01/29 18:16:58 ET]
+Table 'Terpsichore' 6-max Seat #6 is the button
+Seat 1: danipesis ($186.07 in chips) 
+Seat 2: Zihuatanejo3 ($147 in chips) 
+Seat 3: FigoTheRock ($591.84 in chips) 
+Seat 4: gaiggibeliin ($153.60 in chips) 
+Seat 5: DEDTAWIWASA ($840.42 in chips) 
+Seat 6: Xerophyten ($251.05 in chips) 
+danipesis: posts the ante $1
+Zihuatanejo3: posts the ante $1
+FigoTheRock: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+Xerophyten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kh Qc]
+danipesis: calls $1
+Zihuatanejo3: folds 
+FigoTheRock: folds 
+gaiggibeliin: raises $9 to $10
+DEDTAWIWASA: folds 
+Xerophyten: calls $9
+danipesis: calls $9
+*** FLOP *** [7h 8h 7c]
+danipesis: checks 
+gaiggibeliin: checks 
+Xerophyten: bets $17.10
+danipesis: folds 
+gaiggibeliin: folds 
+Uncalled bet ($17.10) returned to Xerophyten
+Xerophyten collected $34.20 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $1.80 
+Board [7h 8h 7c]
+Seat 1: danipesis folded on the Flop
+Seat 2: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 3: FigoTheRock folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded on the Flop
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 6: Xerophyten (button blind) collected ($34.20)
+
+
+
+PokerStars Hand #196391628338:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 1:17:47 EET [2019/01/29 18:17:47 ET]
+Table 'Terpsichore' 6-max Seat #1 is the button
+Seat 1: danipesis ($175.07 in chips) 
+Seat 2: Zihuatanejo3 ($146 in chips) 
+Seat 3: FigoTheRock ($590.84 in chips) 
+Seat 4: gaiggibeliin ($142.60 in chips) 
+Seat 5: DEDTAWIWASA ($839.42 in chips) 
+Seat 6: Xerophyten ($274.25 in chips) 
+danipesis: posts the ante $1
+Zihuatanejo3: posts the ante $1
+FigoTheRock: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+danipesis: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qd 8h]
+Zihuatanejo3: folds 
+FigoTheRock: folds 
+gaiggibeliin: folds 
+DEDTAWIWASA: raises $7 to $8
+Xerophyten: folds 
+danipesis: calls $7
+*** FLOP *** [6d 7h 8s]
+DEDTAWIWASA: checks 
+danipesis: bets $13
+DEDTAWIWASA: calls $13
+*** TURN *** [6d 7h 8s] [Ac]
+DEDTAWIWASA: checks 
+danipesis: checks 
+*** RIVER *** [6d 7h 8s Ac] [7d]
+DEDTAWIWASA: checks 
+danipesis: bets $28
+DEDTAWIWASA: calls $28
+*** SHOW DOWN ***
+danipesis: shows [9d Kd] (a straight, Ace to Nine)
+DEDTAWIWASA: shows [9h Qh] (a straight, Ace to Nine)
+DEDTAWIWASA collected $50.63 from pot
+danipesis collected $50.62 from pot
+*** SUMMARY ***
+Total pot $104 | Rake $2.75 
+Board [6d 7h 8s Ac 7d]
+Seat 1: danipesis (button blind) showed [9d Kd] and won ($50.62) with a straight, Ace to Nine
+Seat 2: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 3: FigoTheRock folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: DEDTAWIWASA showed [9h Qh] and won ($50.63) with a straight, Ace to Nine
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196391660227:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 1:18:39 EET [2019/01/29 18:18:39 ET]
+Table 'Terpsichore' 6-max Seat #2 is the button
+Seat 1: danipesis ($175.69 in chips) 
+Seat 2: Zihuatanejo3 ($145 in chips) 
+Seat 3: FigoTheRock ($589.84 in chips) 
+Seat 4: gaiggibeliin ($141.60 in chips) 
+Seat 5: DEDTAWIWASA ($840.05 in chips) 
+Seat 6: Xerophyten ($273.25 in chips) 
+danipesis: posts the ante $1
+Zihuatanejo3: posts the ante $1
+FigoTheRock: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+Zihuatanejo3: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Td 8s]
+FigoTheRock: raises $6 to $7
+gaiggibeliin: folds 
+DEDTAWIWASA: raises $26 to $33
+Xerophyten: folds 
+danipesis: folds 
+Zihuatanejo3: folds 
+FigoTheRock: calls $26
+*** FLOP *** [Qc 6d Jh]
+FigoTheRock: checks 
+DEDTAWIWASA: checks 
+*** TURN *** [Qc 6d Jh] [6s]
+FigoTheRock: checks 
+DEDTAWIWASA: bets $50
+FigoTheRock: folds 
+Uncalled bet ($50) returned to DEDTAWIWASA
+DEDTAWIWASA collected $70.25 from pot
+DEDTAWIWASA: doesn't show hand 
+*** SUMMARY ***
+Total pot $73 | Rake $2.75 
+Board [Qc 6d Jh 6s]
+Seat 1: danipesis folded before Flop (didn't bet)
+Seat 2: Zihuatanejo3 (button blind) folded before Flop
+Seat 3: FigoTheRock folded on the Turn
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: DEDTAWIWASA collected ($70.25)
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196391697870:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 1:19:40 EET [2019/01/29 18:19:40 ET]
+Table 'Terpsichore' 6-max Seat #3 is the button
+Seat 1: danipesis ($174.69 in chips) 
+Seat 2: Zihuatanejo3 ($143 in chips) 
+Seat 3: FigoTheRock ($555.84 in chips) 
+Seat 4: gaiggibeliin ($140.60 in chips) 
+Seat 5: DEDTAWIWASA ($876.30 in chips) 
+Seat 6: Xerophyten ($272.25 in chips) 
+danipesis: posts the ante $1
+Zihuatanejo3: posts the ante $1
+FigoTheRock: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+FigoTheRock: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qs Qd]
+gaiggibeliin: calls $1
+DEDTAWIWASA: folds 
+Xerophyten: folds 
+danipesis: folds 
+Zihuatanejo3: folds 
+FigoTheRock: checks 
+*** FLOP *** [Ks 7s Ah]
+gaiggibeliin: bets $3.95
+FigoTheRock: calls $3.95
+*** TURN *** [Ks 7s Ah] [9d]
+gaiggibeliin: checks 
+FigoTheRock: bets $11
+gaiggibeliin: folds 
+Uncalled bet ($11) returned to FigoTheRock
+FigoTheRock collected $15.10 from pot
+FigoTheRock: doesn't show hand 
+*** SUMMARY ***
+Total pot $15.90 | Rake $0.80 
+Board [Ks 7s Ah 9d]
+Seat 1: danipesis folded before Flop (didn't bet)
+Seat 2: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 3: FigoTheRock (button blind) collected ($15.10)
+Seat 4: gaiggibeliin folded on the Turn
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196394732760:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 2:55:55 EET [2019/01/29 19:55:55 ET]
+Table 'Terpsichore' 6-max Seat #1 is the button
+Seat 1: sss457 ($384.39 in chips) 
+Seat 2: anzy30 ($366.73 in chips) 
+Seat 3: mighty28 ($646.91 in chips) 
+Seat 4: gaiggibeliin ($150 in chips) 
+Seat 5: maya686 ($25.25 in chips) 
+Seat 6: Xerophyten ($147 in chips) 
+sss457: posts the ante $1
+anzy30: posts the ante $1
+mighty28: posts the ante $1
+gaiggibeliin: posts the ante $1
+maya686: posts the ante $1
+Xerophyten: posts the ante $1
+sss457: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qs 8c]
+anzy30: calls $1
+mighty28: raises $7 to $8
+gaiggibeliin: folds 
+maya686: raises $16.25 to $24.25 and is all-in
+Xerophyten: folds 
+sss457: folds 
+anzy30: folds 
+mighty28: calls $16.25
+*** FLOP *** [Qh Ts Kc]
+*** TURN *** [Qh Ts Kc] [8h]
+*** RIVER *** [Qh Ts Kc 8h] [6d]
+*** SHOW DOWN ***
+mighty28: shows [9d Jd] (a straight, Nine to King)
+maya686: shows [Kh Ac] (a pair of Kings)
+mighty28 collected $53.75 from pot
+*** SUMMARY ***
+Total pot $56.50 | Rake $2.75 
+Board [Qh Ts Kc 8h 6d]
+Seat 1: sss457 (button blind) folded before Flop
+Seat 2: anzy30 folded before Flop
+Seat 3: mighty28 showed [9d Jd] and won ($53.75) with a straight, Nine to King
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: maya686 showed [Kh Ac] and lost with a pair of Kings
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196394741826:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 2:56:19 EET [2019/01/29 19:56:19 ET]
+Table 'Terpsichore' 6-max Seat #2 is the button
+Seat 1: sss457 ($382.39 in chips) 
+Seat 2: anzy30 ($364.73 in chips) 
+Seat 3: mighty28 ($675.41 in chips) 
+Seat 4: gaiggibeliin ($149 in chips) 
+Seat 6: Xerophyten ($146 in chips) 
+sss457: posts the ante $1
+anzy30: posts the ante $1
+mighty28: posts the ante $1
+gaiggibeliin: posts the ante $1
+Xerophyten: posts the ante $1
+anzy30: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Tc Qc]
+mighty28: raises $2 to $3
+gaiggibeliin: calls $3
+Xerophyten: folds 
+sss457: folds 
+anzy30: folds 
+*** FLOP *** [8h 9s 6d]
+mighty28: bets $7.41
+gaiggibeliin: calls $7.41
+*** TURN *** [8h 9s 6d] [Ks]
+mighty28: bets $25.48
+gaiggibeliin: calls $25.48
+*** RIVER *** [8h 9s 6d Ks] [7s]
+mighty28: checks 
+gaiggibeliin: bets $40
+mighty28: folds 
+Uncalled bet ($40) returned to gaiggibeliin
+gaiggibeliin collected $75.03 from pot
+*** SUMMARY ***
+Total pot $77.78 | Rake $2.75 
+Board [8h 9s 6d Ks 7s]
+Seat 1: sss457 folded before Flop (didn't bet)
+Seat 2: anzy30 (button blind) folded before Flop
+Seat 3: mighty28 folded on the River
+Seat 4: gaiggibeliin collected ($75.03)
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196394777090:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 2:57:54 EET [2019/01/29 19:57:54 ET]
+Table 'Terpsichore' 6-max Seat #3 is the button
+Seat 1: sss457 ($381.39 in chips) 
+Seat 2: anzy30 ($362.73 in chips) 
+Seat 3: mighty28 ($638.52 in chips) 
+Seat 4: gaiggibeliin ($187.14 in chips) 
+Seat 6: Xerophyten ($145 in chips) 
+sss457: posts the ante $1
+anzy30: posts the ante $1
+mighty28: posts the ante $1
+gaiggibeliin: posts the ante $1
+Xerophyten: posts the ante $1
+mighty28: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8h Th]
+gaiggibeliin: calls $1
+Xerophyten: calls $1
+sss457: calls $1
+anzy30: calls $1
+mighty28: raises $16 to $17
+gaiggibeliin: folds 
+Xerophyten: folds 
+sss457: folds 
+anzy30: folds 
+Uncalled bet ($16) returned to mighty28
+mighty28 collected $10 from pot
+mighty28: shows [Ad]
+*** SUMMARY ***
+Total pot $10 | Rake $0 
+Seat 1: sss457 folded before Flop
+Seat 2: anzy30 folded before Flop
+Seat 3: mighty28 (button blind) collected ($10)
+Seat 4: gaiggibeliin folded before Flop
+Seat 6: Xerophyten folded before Flop
+
+
+
+PokerStars Hand #196394870805:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:01:59 EET [2019/01/29 20:01:59 ET]
+Table 'Terpsichore' 6-max Seat #1 is the button
+Seat 1: sss457 ($484.14 in chips) 
+Seat 2: anzy30 ($520.98 in chips) 
+Seat 3: mighty28 ($519.52 in chips) 
+Seat 4: gaiggibeliin ($185.14 in chips) 
+sss457: posts the ante $1
+anzy30: posts the ante $1
+mighty28: posts the ante $1
+gaiggibeliin: posts the ante $1
+sss457: posts button blind $1
+gaiggibeliin: posts big blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kd 8h]
+anzy30: folds 
+mighty28: folds 
+gaiggibeliin: checks 
+sss457: raises $6 to $7
+gaiggibeliin: folds 
+Uncalled bet ($6) returned to sss457
+sss457 collected $6 from pot
+sss457: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: sss457 (button blind) collected ($6)
+Seat 2: anzy30 folded before Flop (didn't bet)
+Seat 3: mighty28 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196394879891:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:02:20 EET [2019/01/29 20:02:20 ET]
+Table 'Terpsichore' 6-max Seat #2 is the button
+Seat 1: sss457 ($488.14 in chips) 
+Seat 2: anzy30 ($519.98 in chips) 
+Seat 3: mighty28 ($518.52 in chips) 
+Seat 4: gaiggibeliin ($183.14 in chips) 
+sss457: posts the ante $1
+anzy30: posts the ante $1
+mighty28: posts the ante $1
+gaiggibeliin: posts the ante $1
+anzy30: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7d Ts]
+mighty28: folds 
+gaiggibeliin: folds 
+sss457: calls $1
+anzy30: checks 
+*** FLOP *** [Ks Ad Jd]
+sss457: checks 
+anzy30: checks 
+*** TURN *** [Ks Ad Jd] [Kd]
+sss457: checks 
+anzy30: checks 
+*** RIVER *** [Ks Ad Jd Kd] [Td]
+sss457: checks 
+anzy30: bets $3
+sss457: folds 
+Uncalled bet ($3) returned to anzy30
+anzy30 collected $5.70 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Ks Ad Jd Kd Td]
+Seat 1: sss457 folded on the River
+Seat 2: anzy30 (button blind) collected ($5.70)
+Seat 3: mighty28 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196394907273:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:03:25 EET [2019/01/29 20:03:25 ET]
+Table 'Terpsichore' 6-max Seat #3 is the button
+Seat 1: sss457 ($486.14 in chips) 
+Seat 2: anzy30 ($523.68 in chips) 
+Seat 3: mighty28 ($517.52 in chips) 
+Seat 4: gaiggibeliin ($182.14 in chips) 
+sss457: posts the ante $1
+anzy30: posts the ante $1
+mighty28: posts the ante $1
+gaiggibeliin: posts the ante $1
+mighty28: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8c 8s]
+gaiggibeliin: calls $1
+sss457: calls $1
+anzy30: calls $1
+mighty28: raises $13 to $14
+gaiggibeliin: calls $13
+sss457: folds 
+anzy30: calls $13
+*** FLOP *** [6c Ah 7d]
+gaiggibeliin: checks 
+anzy30: bets $29
+mighty28: raises $47 to $76
+gaiggibeliin: folds 
+anzy30: folds 
+Uncalled bet ($47) returned to mighty28
+mighty28 collected $103.75 from pot
+*** SUMMARY ***
+Total pot $105 | Rake $1.25 
+Board [6c Ah 7d]
+Seat 1: sss457 folded before Flop
+Seat 2: anzy30 folded on the Flop
+Seat 3: mighty28 (button blind) collected ($103.75)
+Seat 4: gaiggibeliin folded on the Flop
+
+
+
+PokerStars Hand #196394939518:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:04:41 EET [2019/01/29 20:04:41 ET]
+Table 'Terpsichore' 6-max Seat #4 is the button
+Seat 1: sss457 ($484.14 in chips) 
+Seat 2: anzy30 ($479.68 in chips) 
+Seat 3: mighty28 ($577.27 in chips) 
+Seat 4: gaiggibeliin ($167.14 in chips) 
+sss457: posts the ante $1
+anzy30: posts the ante $1
+mighty28: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Tc 6s]
+wwwBTHEREcom joins the table at seat #5 
+sss457: calls $1
+anzy30: folds 
+mighty28: raises $8 to $9
+wwwBTHEREcom leaves the table
+gaiggibeliin: folds 
+sss457: folds 
+Uncalled bet ($8) returned to mighty28
+mighty28 collected $7 from pot
+*** SUMMARY ***
+Total pot $7 | Rake $0 
+Seat 1: sss457 folded before Flop
+Seat 2: anzy30 folded before Flop (didn't bet)
+Seat 3: mighty28 collected ($7)
+Seat 4: gaiggibeliin (button blind) folded before Flop
+
+
+
+PokerStars Hand #196394956656:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:05:22 EET [2019/01/29 20:05:22 ET]
+Table 'Terpsichore' 6-max Seat #1 is the button
+Seat 1: sss457 ($482.14 in chips) 
+Seat 2: anzy30 ($478.68 in chips) 
+Seat 3: mighty28 ($582.27 in chips) 
+Seat 4: gaiggibeliin ($165.14 in chips) 
+sss457: posts the ante $1
+anzy30: posts the ante $1
+mighty28: posts the ante $1
+gaiggibeliin: posts the ante $1
+sss457: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8c Jd]
+anzy30: calls $1
+mighty28: raises $8 to $9
+gaiggibeliin: folds 
+sss457: folds 
+anzy30: calls $8
+*** FLOP *** [8d Ts 9d]
+anzy30: checks 
+mighty28: bets $14.20
+anzy30: calls $14.20
+*** TURN *** [8d Ts 9d] [Tc]
+anzy30: checks 
+mighty28: checks 
+*** RIVER *** [8d Ts 9d Tc] [Qh]
+anzy30: bets $65
+mighty28: calls $65
+*** SHOW DOWN ***
+anzy30: shows [Td 9h] (a full house, Tens full of Nines)
+mighty28: mucks hand 
+anzy30 collected $180.15 from pot
+*** SUMMARY ***
+Total pot $181.40 | Rake $1.25 
+Board [8d Ts 9d Tc Qh]
+Seat 1: sss457 (button blind) folded before Flop
+Seat 2: anzy30 showed [Td 9h] and won ($180.15) with a full house, Tens full of Nines
+Seat 3: mighty28 mucked [Js Kh]
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196394980439:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:06:04 EET [2019/01/29 20:06:04 ET]
+Table 'Terpsichore' 6-max Seat #2 is the button
+Seat 1: sss457 ($480.14 in chips) 
+Seat 2: anzy30 ($569.63 in chips) 
+Seat 3: mighty28 ($493.07 in chips) 
+Seat 4: gaiggibeliin ($164.14 in chips) 
+sss457: posts the ante $1
+anzy30: posts the ante $1
+mighty28: posts the ante $1
+gaiggibeliin: posts the ante $1
+anzy30: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Td Qd]
+mighty28: folds 
+gaiggibeliin: calls $1
+sss457: folds 
+anzy30: checks 
+*** FLOP *** [Jc Ts 9d]
+gaiggibeliin: checks 
+anzy30: bets $16
+gaiggibeliin: folds 
+Uncalled bet ($16) returned to anzy30
+anzy30 collected $5.70 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Jc Ts 9d]
+Seat 1: sss457 folded before Flop (didn't bet)
+Seat 2: anzy30 (button blind) collected ($5.70)
+Seat 3: mighty28 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded on the Flop
+
+
+
+PokerStars Hand #196395028135:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:07:59 EET [2019/01/29 20:07:59 ET]
+Table 'Terpsichore' 6-max Seat #2 is the button
+Seat 1: sss457 ($476.14 in chips) 
+Seat 2: anzy30 ($615.28 in chips) 
+Seat 3: mighty28 ($452.32 in chips) 
+Seat 4: gaiggibeliin ($162.14 in chips) 
+Seat 6: MyOnlyMemory ($150 in chips) 
+sss457: posts the ante $1
+anzy30: posts the ante $1
+mighty28: posts the ante $1
+gaiggibeliin: posts the ante $1
+MyOnlyMemory: posts the ante $1
+anzy30: posts button blind $1
+gaiggibeliin: posts big blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jh Qd]
+mighty28: folds 
+gaiggibeliin: checks 
+MyOnlyMemory: calls $1
+sss457: calls $1
+anzy30: checks 
+*** FLOP *** [7s 8s Jc]
+gaiggibeliin: checks 
+MyOnlyMemory: checks 
+sss457: checks 
+anzy30: checks 
+*** TURN *** [7s 8s Jc] [6c]
+gaiggibeliin: checks 
+MyOnlyMemory: checks 
+sss457: checks 
+anzy30: checks 
+*** RIVER *** [7s 8s Jc 6c] [Jd]
+gaiggibeliin: checks 
+MyOnlyMemory: bets $2.57
+sss457: folds 
+anzy30: folds 
+gaiggibeliin: raises $7.12 to $9.69
+MyOnlyMemory: calls $7.12
+*** SHOW DOWN ***
+gaiggibeliin: shows [Jh Qd] (three of a kind, Jacks)
+MyOnlyMemory: mucks hand 
+gaiggibeliin collected $26.96 from pot
+*** SUMMARY ***
+Total pot $28.38 | Rake $1.42 
+Board [7s 8s Jc 6c Jd]
+Seat 1: sss457 folded on the River
+Seat 2: anzy30 (button blind) folded on the River
+Seat 3: mighty28 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin showed [Jh Qd] and won ($26.96) with three of a kind, Jacks
+Seat 6: MyOnlyMemory mucked [Ts 8d]
+
+
+
+PokerStars Hand #196395062414:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:09:22 EET [2019/01/29 20:09:22 ET]
+Table 'Terpsichore' 6-max Seat #3 is the button
+Seat 1: sss457 ($474.14 in chips) 
+Seat 2: anzy30 ($613.28 in chips) 
+Seat 3: mighty28 ($451.32 in chips) 
+Seat 4: gaiggibeliin ($177.41 in chips) 
+Seat 6: MyOnlyMemory ($150 in chips) 
+sss457: posts the ante $1
+anzy30: posts the ante $1
+mighty28: posts the ante $1
+gaiggibeliin: posts the ante $1
+MyOnlyMemory: posts the ante $1
+mighty28: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8c Kc]
+gaiggibeliin: folds 
+MyOnlyMemory: folds 
+sss457: folds 
+anzy30: raises $7 to $8
+mighty28: calls $7
+*** FLOP *** [6d 7c Ks]
+anzy30: bets $17
+mighty28: raises $30 to $47
+anzy30: folds 
+Uncalled bet ($30) returned to mighty28
+mighty28 collected $52.25 from pot
+*** SUMMARY ***
+Total pot $55 | Rake $2.75 
+Board [6d 7c Ks]
+Seat 1: sss457 folded before Flop (didn't bet)
+Seat 2: anzy30 folded on the Flop
+Seat 3: mighty28 (button blind) collected ($52.25)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: MyOnlyMemory folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196395133088:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:12:14 EET [2019/01/29 20:12:14 ET]
+Table 'Terpsichore' 6-max Seat #5 is the button
+Seat 1: sss457 ($456.75 in chips) 
+Seat 2: anzy30 ($581.28 in chips) 
+Seat 3: mighty28 ($474.92 in chips) 
+Seat 4: gaiggibeliin ($176.41 in chips) 
+Seat 5: Xerophyten ($158.25 in chips) 
+sss457: posts the ante $1
+anzy30: posts the ante $1
+mighty28: posts the ante $1
+gaiggibeliin: posts the ante $1
+Xerophyten: posts the ante $1
+Xerophyten: posts button blind $1
+gaiggibeliin: posts big blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ah 7c]
+sss457: folds 
+anzy30: folds 
+mighty28: raises $5 to $6
+gaiggibeliin: folds 
+Xerophyten: calls $5
+*** FLOP *** [Jc 7s Kc]
+mighty28: bets $16.25
+Xerophyten: folds 
+Uncalled bet ($16.25) returned to mighty28
+mighty28 collected $17.10 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.90 
+Board [Jc 7s Kc]
+Seat 1: sss457 folded before Flop (didn't bet)
+Seat 2: anzy30 folded before Flop (didn't bet)
+Seat 3: mighty28 collected ($17.10)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: Xerophyten (button blind) folded on the Flop
+
+
+
+PokerStars Hand #196395147864:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:12:50 EET [2019/01/29 20:12:50 ET]
+Table 'Terpsichore' 6-max Seat #1 is the button
+Seat 1: sss457 ($455.75 in chips) 
+Seat 2: anzy30 ($580.28 in chips) 
+Seat 3: mighty28 ($485.02 in chips) 
+Seat 4: gaiggibeliin ($174.41 in chips) 
+Seat 5: Xerophyten ($151.25 in chips) 
+sss457: posts the ante $1
+anzy30: posts the ante $1
+mighty28: posts the ante $1
+gaiggibeliin: posts the ante $1
+Xerophyten: posts the ante $1
+sss457: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [As Ks]
+anzy30: calls $1
+mighty28: raises $7 to $8
+gaiggibeliin: raises $23 to $31
+Xerophyten: folds 
+sss457: folds 
+anzy30: folds 
+mighty28: calls $23
+*** FLOP *** [7s 6d Qs]
+mighty28: checks 
+gaiggibeliin: bets $37
+mighty28: calls $37
+*** TURN *** [7s 6d Qs] [8s]
+mighty28: checks 
+gaiggibeliin: checks 
+*** RIVER *** [7s 6d Qs 8s] [7h]
+mighty28: checks 
+gaiggibeliin: bets $105.41 and is all-in
+mighty28: folds 
+Uncalled bet ($105.41) returned to gaiggibeliin
+gaiggibeliin collected $140.25 from pot
+*** SUMMARY ***
+Total pot $143 | Rake $2.75 
+Board [7s 6d Qs 8s 7h]
+Seat 1: sss457 (button blind) folded before Flop
+Seat 2: anzy30 folded before Flop
+Seat 3: mighty28 folded on the River
+Seat 4: gaiggibeliin collected ($140.25)
+Seat 5: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196395180507:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:14:10 EET [2019/01/29 20:14:10 ET]
+Table 'Terpsichore' 6-max Seat #2 is the button
+Seat 1: sss457 ($453.75 in chips) 
+Seat 2: anzy30 ($578.28 in chips) 
+Seat 3: mighty28 ($416.02 in chips) 
+Seat 4: gaiggibeliin ($245.66 in chips) 
+Seat 5: Xerophyten ($150.25 in chips) 
+sss457: posts the ante $1
+anzy30: posts the ante $1
+mighty28: posts the ante $1
+gaiggibeliin: posts the ante $1
+Xerophyten: posts the ante $1
+anzy30: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qs Kh]
+mighty28: folds 
+gaiggibeliin: calls $1
+Xerophyten: folds 
+sss457: calls $1
+anzy30: checks 
+*** FLOP *** [Jh Th Jc]
+gaiggibeliin: bets $5.09
+sss457: calls $5.09
+anzy30: calls $5.09
+*** TURN *** [Jh Th Jc] [Qc]
+gaiggibeliin: checks 
+sss457: checks 
+anzy30: checks 
+*** RIVER *** [Jh Th Jc Qc] [7d]
+gaiggibeliin: checks 
+sss457: bets $17.69
+anzy30: folds 
+gaiggibeliin: folds 
+Uncalled bet ($17.69) returned to sss457
+sss457 collected $22.11 from pot
+sss457: doesn't show hand 
+*** SUMMARY ***
+Total pot $23.27 | Rake $1.16 
+Board [Jh Th Jc Qc 7d]
+Seat 1: sss457 collected ($22.11)
+Seat 2: anzy30 (button blind) folded on the River
+Seat 3: mighty28 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded on the River
+Seat 5: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196395207915:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:15:17 EET [2019/01/29 20:15:17 ET]
+Table 'Terpsichore' 6-max Seat #3 is the button
+Seat 1: sss457 ($468.77 in chips) 
+Seat 2: anzy30 ($571.19 in chips) 
+Seat 3: mighty28 ($415.02 in chips) 
+Seat 4: gaiggibeliin ($238.57 in chips) 
+Seat 5: Xerophyten ($149.25 in chips) 
+sss457: posts the ante $1
+anzy30: posts the ante $1
+mighty28: posts the ante $1
+gaiggibeliin: posts the ante $1
+Xerophyten: posts the ante $1
+mighty28: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Th 7d]
+gaiggibeliin: folds 
+Xerophyten: raises $4 to $5
+sss457: folds 
+anzy30: calls $5
+mighty28: folds 
+*** FLOP *** [Tc Ad 9d]
+Xerophyten: bets $7.60
+anzy30: calls $7.60
+*** TURN *** [Tc Ad 9d] [Qc]
+Xerophyten: checks 
+anzy30: checks 
+*** RIVER *** [Tc Ad 9d Qc] [Jh]
+Xerophyten: checks 
+anzy30: bets $51
+Xerophyten: folds 
+Uncalled bet ($51) returned to anzy30
+anzy30 collected $29.64 from pot
+*** SUMMARY ***
+Total pot $31.20 | Rake $1.56 
+Board [Tc Ad 9d Qc Jh]
+Seat 1: sss457 folded before Flop (didn't bet)
+Seat 2: anzy30 collected ($29.64)
+Seat 3: mighty28 (button blind) folded before Flop
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: Xerophyten folded on the River
+
+
+
+PokerStars Hand #196395230577:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:16:13 EET [2019/01/29 20:16:13 ET]
+Table 'Terpsichore' 6-max Seat #4 is the button
+Seat 1: sss457 ($467.77 in chips) 
+Seat 2: anzy30 ($587.23 in chips) 
+Seat 3: mighty28 ($413.02 in chips) 
+Seat 4: gaiggibeliin ($237.57 in chips) 
+Seat 5: Xerophyten ($135.65 in chips) 
+sss457: posts the ante $1
+anzy30: posts the ante $1
+mighty28: posts the ante $1
+gaiggibeliin: posts the ante $1
+Xerophyten: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qs Ts]
+Xerophyten: folds 
+sss457: folds 
+anzy30: calls $1
+mighty28: raises $5 to $6
+gaiggibeliin: calls $5
+anzy30: calls $5
+*** FLOP *** [7s Tc 7h]
+anzy30: checks 
+mighty28: bets $14.20
+gaiggibeliin: calls $14.20
+anzy30: calls $14.20
+*** TURN *** [7s Tc 7h] [Qc]
+anzy30: checks 
+mighty28: bets $40.85
+gaiggibeliin: calls $40.85
+anzy30: calls $40.85
+*** RIVER *** [7s Tc 7h Qc] [Kd]
+anzy30: bets $125
+mighty28: folds 
+gaiggibeliin: folds 
+Uncalled bet ($125) returned to anzy30
+anzy30 collected $185.40 from pot
+*** SUMMARY ***
+Total pot $188.15 | Rake $2.75 
+Board [7s Tc 7h Qc Kd]
+Seat 1: sss457 folded before Flop (didn't bet)
+Seat 2: anzy30 collected ($185.40)
+Seat 3: mighty28 folded on the River
+Seat 4: gaiggibeliin (button blind) folded on the River
+Seat 5: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196395270150:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:17:51 EET [2019/01/29 20:17:51 ET]
+Table 'Terpsichore' 6-max Seat #5 is the button
+Seat 1: sss457 ($466.77 in chips) 
+Seat 2: anzy30 ($710.58 in chips) 
+Seat 3: mighty28 ($350.97 in chips) 
+Seat 4: gaiggibeliin ($175.52 in chips) 
+Seat 5: Xerophyten ($134.65 in chips) 
+sss457: posts the ante $1
+anzy30: posts the ante $1
+mighty28: posts the ante $1
+gaiggibeliin: posts the ante $1
+Xerophyten: posts the ante $1
+Xerophyten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jd 6c]
+sss457: folds 
+anzy30: folds 
+mighty28: folds 
+gaiggibeliin: folds 
+Uncalled bet ($1) returned to Xerophyten
+Xerophyten collected $5 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 1: sss457 folded before Flop (didn't bet)
+Seat 2: anzy30 folded before Flop (didn't bet)
+Seat 3: mighty28 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: Xerophyten (button blind) collected ($5)
+
+
+
+PokerStars Hand #196395274762:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:18:02 EET [2019/01/29 20:18:02 ET]
+Table 'Terpsichore' 6-max Seat #1 is the button
+Seat 1: sss457 ($465.77 in chips) 
+Seat 2: anzy30 ($709.58 in chips) 
+Seat 3: mighty28 ($349.97 in chips) 
+Seat 4: gaiggibeliin ($174.52 in chips) 
+Seat 5: Xerophyten ($138.65 in chips) 
+sss457: posts the ante $1
+anzy30: posts the ante $1
+mighty28: posts the ante $1
+gaiggibeliin: posts the ante $1
+Xerophyten: posts the ante $1
+sss457: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qh Jd]
+anzy30 said, "stop folding jesus"
+anzy30: raises $5 to $6
+mighty28: calls $6
+gaiggibeliin: folds 
+Xerophyten: folds 
+sss457: calls $5
+*** FLOP *** [Qd 6h 9h]
+anzy30: checks 
+mighty28: checks 
+sss457: checks 
+*** TURN *** [Qd 6h 9h] [Js]
+anzy30: checks 
+mighty28: checks 
+sss457: bets $17.48
+anzy30: folds 
+mighty28 said, "what did you just do"
+mighty28: folds 
+Uncalled bet ($17.48) returned to sss457
+sss457 collected $21.85 from pot
+sss457: doesn't show hand 
+*** SUMMARY ***
+Total pot $23 | Rake $1.15 
+Board [Qd 6h 9h Js]
+Seat 1: sss457 (button blind) collected ($21.85)
+Seat 2: anzy30 folded on the Turn
+Seat 3: mighty28 folded on the Turn
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196395296803:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:18:57 EET [2019/01/29 20:18:57 ET]
+Table 'Terpsichore' 6-max Seat #2 is the button
+Seat 1: sss457 ($480.62 in chips) 
+Seat 2: anzy30 ($702.58 in chips) 
+Seat 3: mighty28 ($342.97 in chips) 
+Seat 4: gaiggibeliin ($173.52 in chips) 
+Seat 5: Xerophyten ($137.65 in chips) 
+sss457: posts the ante $1
+anzy30: posts the ante $1
+mighty28: posts the ante $1
+gaiggibeliin: posts the ante $1
+Xerophyten: posts the ante $1
+anzy30: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9s Ad]
+mighty28: folds 
+gaiggibeliin: folds 
+Xerophyten: calls $1
+sss457: calls $1
+anzy30: raises $11 to $12
+Xerophyten: folds 
+mighty28 said, "fold baby"
+sss457: folds 
+Uncalled bet ($11) returned to anzy30
+anzy30 collected $8 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0 
+Seat 1: sss457 folded before Flop
+Seat 2: anzy30 (button blind) collected ($8)
+Seat 3: mighty28 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: Xerophyten folded before Flop
+
+
+
+PokerStars Hand #196395308659:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:19:26 EET [2019/01/29 20:19:26 ET]
+Table 'Terpsichore' 6-max Seat #3 is the button
+Seat 1: sss457 ($478.62 in chips) 
+Seat 2: anzy30 ($708.58 in chips) 
+Seat 3: mighty28 ($341.97 in chips) 
+Seat 4: gaiggibeliin ($172.52 in chips) 
+Seat 5: Xerophyten ($135.65 in chips) 
+sss457: posts the ante $1
+anzy30: posts the ante $1
+mighty28: posts the ante $1
+gaiggibeliin: posts the ante $1
+Xerophyten: posts the ante $1
+mighty28: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kh 6d]
+gaiggibeliin: folds 
+Xerophyten: calls $1
+sss457: calls $1
+anzy30: calls $1
+mighty28: checks 
+*** FLOP *** [Jd As Ac]
+anzy30 said, "i'm lady so i can do that"
+Xerophyten: checks 
+sss457: checks 
+anzy30 said, "you guys cannot do that"
+anzy30: checks 
+mighty28: checks 
+*** TURN *** [Jd As Ac] [Qh]
+Xerophyten: bets $4.28
+sss457: calls $4.28
+anzy30: folds 
+mighty28: folds 
+*** RIVER *** [Jd As Ac Qh] [Jc]
+Xerophyten: bets $12
+sss457: folds 
+Uncalled bet ($12) returned to Xerophyten
+Xerophyten collected $16.68 from pot
+*** SUMMARY ***
+Total pot $17.56 | Rake $0.88 
+Board [Jd As Ac Qh Jc]
+Seat 1: sss457 folded on the River
+Seat 2: anzy30 folded on the Turn
+Seat 3: mighty28 (button blind) folded on the Turn
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: Xerophyten collected ($16.68)
+
+
+
+PokerStars Hand #196395330899:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:20:21 EET [2019/01/29 20:20:21 ET]
+Table 'Terpsichore' 6-max Seat #4 is the button
+Seat 1: sss457 ($472.34 in chips) 
+Seat 2: anzy30 ($706.58 in chips) 
+Seat 3: mighty28 ($339.97 in chips) 
+Seat 4: gaiggibeliin ($171.52 in chips) 
+Seat 5: Xerophyten ($146.05 in chips) 
+sss457: posts the ante $1
+anzy30: posts the ante $1
+mighty28: posts the ante $1
+gaiggibeliin: posts the ante $1
+Xerophyten: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9h Qd]
+blakerAA joins the table at seat #6 
+mighty28 said, "true - you are the *****"
+Xerophyten: folds 
+sss457: folds 
+anzy30: raises $7 to $8
+mighty28: calls $8
+anzy30 said, "behave yourself"
+gaiggibeliin: calls $7
+*** FLOP *** [Ad Jh Ac]
+anzy30: checks 
+mighty28: checks 
+gaiggibeliin: checks 
+*** TURN *** [Ad Jh Ac] [Jd]
+anzy30: bets $6
+mighty28: calls $6
+gaiggibeliin: folds 
+*** RIVER *** [Ad Jh Ac Jd] [7s]
+anzy30: bets $59
+mighty28: folds 
+Uncalled bet ($59) returned to anzy30
+anzy30 collected $38.95 from pot
+*** SUMMARY ***
+Total pot $41 | Rake $2.05 
+Board [Ad Jh Ac Jd 7s]
+Seat 1: sss457 folded before Flop (didn't bet)
+Seat 2: anzy30 collected ($38.95)
+Seat 3: mighty28 folded on the River
+Seat 4: gaiggibeliin (button blind) folded on the Turn
+Seat 5: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196395353926:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:21:19 EET [2019/01/29 20:21:19 ET]
+Table 'Terpsichore' 6-max Seat #5 is the button
+Seat 1: sss457 ($471.34 in chips) 
+Seat 2: anzy30 ($730.53 in chips) 
+Seat 3: mighty28 ($324.97 in chips) 
+Seat 4: gaiggibeliin ($162.52 in chips) 
+Seat 5: Xerophyten ($145.05 in chips) 
+Seat 6: blakerAA ($150 in chips) 
+sss457: posts the ante $1
+anzy30: posts the ante $1
+mighty28: posts the ante $1
+gaiggibeliin: posts the ante $1
+Xerophyten: posts the ante $1
+blakerAA: posts the ante $1
+Xerophyten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9d 7s]
+blakerAA: folds 
+sss457: folds 
+anzy30: calls $1
+mighty28 said, "I am..."
+mighty28: folds 
+gaiggibeliin: calls $1
+anzy30 said, "what was the ******]"
+Xerophyten: checks 
+*** FLOP *** [Ah Jh Ks]
+anzy30: checks 
+gaiggibeliin: checks 
+Xerophyten: checks 
+*** TURN *** [Ah Jh Ks] [Jd]
+anzy30: checks 
+gaiggibeliin: checks 
+Xerophyten: checks 
+*** RIVER *** [Ah Jh Ks Jd] [Ts]
+anzy30: checks 
+gaiggibeliin: checks 
+Xerophyten: checks 
+*** SHOW DOWN ***
+anzy30: shows [8h 8s] (two pair, Jacks and Eights)
+gaiggibeliin: mucks hand 
+Xerophyten: shows [8c Td] (two pair, Jacks and Tens)
+Xerophyten collected $8.55 from pot
+*** SUMMARY ***
+Total pot $9 | Rake $0.45 
+Board [Ah Jh Ks Jd Ts]
+Seat 1: sss457 folded before Flop (didn't bet)
+Seat 2: anzy30 showed [8h 8s] and lost with two pair, Jacks and Eights
+Seat 3: mighty28 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin mucked [9d 7s]
+Seat 5: Xerophyten (button blind) showed [8c Td] and won ($8.55) with two pair, Jacks and Tens
+Seat 6: blakerAA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196395392924:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:22:56 EET [2019/01/29 20:22:56 ET]
+Table 'Terpsichore' 6-max Seat #6 is the button
+Seat 1: sss457 ($470.34 in chips) 
+Seat 2: anzy30 ($728.53 in chips) 
+Seat 3: mighty28 ($323.97 in chips) 
+Seat 4: gaiggibeliin ($160.52 in chips) 
+Seat 5: Xerophyten ($151.60 in chips) 
+Seat 6: blakerAA ($149 in chips) 
+sss457: posts the ante $1
+anzy30: posts the ante $1
+mighty28: posts the ante $1
+gaiggibeliin: posts the ante $1
+Xerophyten: posts the ante $1
+blakerAA: posts the ante $1
+blakerAA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6d Tc]
+sss457: calls $1
+anzy30: folds 
+mighty28: folds 
+gaiggibeliin: folds 
+Xerophyten: raises $8 to $9
+blakerAA: folds 
+sss457: raises $25 to $34
+Xerophyten: calls $25
+*** FLOP *** [Jc 7d 7h]
+sss457: bets $435.34 and is all-in
+Xerophyten: folds 
+Uncalled bet ($435.34) returned to sss457
+sss457 collected $72.25 from pot
+sss457: doesn't show hand 
+*** SUMMARY ***
+Total pot $75 | Rake $2.75 
+Board [Jc 7d 7h]
+Seat 1: sss457 collected ($72.25)
+Seat 2: anzy30 folded before Flop (didn't bet)
+Seat 3: mighty28 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: Xerophyten folded on the Flop
+Seat 6: blakerAA (button blind) folded before Flop
+
+
+
+PokerStars Hand #196395410435:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:23:40 EET [2019/01/29 20:23:40 ET]
+Table 'Terpsichore' 6-max Seat #1 is the button
+Seat 1: sss457 ($507.59 in chips) 
+Seat 2: anzy30 ($727.53 in chips) 
+Seat 3: mighty28 ($322.97 in chips) 
+Seat 4: gaiggibeliin ($159.52 in chips) 
+Seat 5: Xerophyten ($116.60 in chips) 
+Seat 6: blakerAA ($147 in chips) 
+sss457: posts the ante $1
+anzy30: posts the ante $1
+mighty28: posts the ante $1
+gaiggibeliin: posts the ante $1
+Xerophyten: posts the ante $1
+blakerAA: posts the ante $1
+sss457: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6s 6c]
+anzy30: calls $1
+mighty28: raises $7 to $8
+gaiggibeliin: calls $8
+Xerophyten: calls $8
+blakerAA: folds 
+sss457: calls $7
+anzy30: folds 
+*** FLOP *** [Js Ad Qd]
+mighty28: bets $16
+gaiggibeliin: folds 
+Xerophyten: raises $91.60 to $107.60 and is all-in
+sss457: folds 
+mighty28: folds 
+Uncalled bet ($91.60) returned to Xerophyten
+Xerophyten collected $68.25 from pot
+*** SUMMARY ***
+Total pot $71 | Rake $2.75 
+Board [Js Ad Qd]
+Seat 1: sss457 (button blind) folded on the Flop
+Seat 2: anzy30 folded before Flop
+Seat 3: mighty28 folded on the Flop
+Seat 4: gaiggibeliin folded on the Flop
+Seat 5: Xerophyten collected ($68.25)
+Seat 6: blakerAA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196395426333:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:24:20 EET [2019/01/29 20:24:20 ET]
+Table 'Terpsichore' 6-max Seat #2 is the button
+Seat 1: sss457 ($498.59 in chips) 
+Seat 2: anzy30 ($725.53 in chips) 
+Seat 3: mighty28 ($297.97 in chips) 
+Seat 4: gaiggibeliin ($150.52 in chips) 
+Seat 5: Xerophyten ($159.85 in chips) 
+Seat 6: blakerAA ($146 in chips) 
+sss457: posts the ante $1
+anzy30: posts the ante $1
+mighty28: posts the ante $1
+gaiggibeliin: posts the ante $1
+Xerophyten: posts the ante $1
+blakerAA: posts the ante $1
+anzy30: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8s Td]
+mighty28: calls $1
+gaiggibeliin: folds 
+Xerophyten: calls $1
+blakerAA: calls $1
+sss457: folds 
+anzy30: checks 
+*** FLOP *** [6h 7d Th]
+mighty28: checks 
+Xerophyten: checks 
+blakerAA: bets $9
+anzy30: folds 
+mighty28: folds 
+Xerophyten: folds 
+Uncalled bet ($9) returned to blakerAA
+blakerAA collected $9.50 from pot
+blakerAA: doesn't show hand 
+*** SUMMARY ***
+Total pot $10 | Rake $0.50 
+Board [6h 7d Th]
+Seat 1: sss457 folded before Flop (didn't bet)
+Seat 2: anzy30 (button blind) folded on the Flop
+Seat 3: mighty28 folded on the Flop
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: Xerophyten folded on the Flop
+Seat 6: blakerAA collected ($9.50)
+
+
+
+PokerStars Hand #196395445399:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:25:08 EET [2019/01/29 20:25:08 ET]
+Table 'Terpsichore' 6-max Seat #3 is the button
+Seat 1: sss457 ($497.59 in chips) 
+Seat 2: anzy30 ($723.53 in chips) 
+Seat 3: mighty28 ($295.97 in chips) 
+Seat 4: gaiggibeliin ($149.52 in chips) 
+Seat 5: Xerophyten ($157.85 in chips) 
+Seat 6: blakerAA ($153.50 in chips) 
+sss457: posts the ante $1
+anzy30: posts the ante $1
+mighty28: posts the ante $1
+gaiggibeliin: posts the ante $1
+Xerophyten: posts the ante $1
+blakerAA: posts the ante $1
+mighty28: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7s 7h]
+gaiggibeliin: calls $1
+Xerophyten: calls $1
+blakerAA: folds 
+sss457: calls $1
+anzy30: folds 
+mighty28: checks 
+*** FLOP *** [Ad 6s Jh]
+gaiggibeliin: checks 
+Xerophyten: bets $4
+sss457: calls $4
+mighty28: folds 
+gaiggibeliin: folds 
+*** TURN *** [Ad 6s Jh] [9s]
+Xerophyten: checks 
+sss457: checks 
+*** RIVER *** [Ad 6s Jh 9s] [Jd]
+Xerophyten: bets $151.85 and is all-in
+sss457: folds 
+Uncalled bet ($151.85) returned to Xerophyten
+Xerophyten collected $17.10 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.90 
+Board [Ad 6s Jh 9s Jd]
+Seat 1: sss457 folded on the River
+Seat 2: anzy30 folded before Flop (didn't bet)
+Seat 3: mighty28 (button blind) folded on the Flop
+Seat 4: gaiggibeliin folded on the Flop
+Seat 5: Xerophyten collected ($17.10)
+Seat 6: blakerAA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196395473172:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:26:19 EET [2019/01/29 20:26:19 ET]
+Table 'Terpsichore' 6-max Seat #4 is the button
+Seat 1: sss457 ($491.59 in chips) 
+Seat 2: anzy30 ($722.53 in chips) 
+Seat 3: mighty28 ($293.97 in chips) 
+Seat 4: gaiggibeliin ($147.52 in chips) 
+Seat 5: Xerophyten ($168.95 in chips) 
+Seat 6: blakerAA ($152.50 in chips) 
+sss457: posts the ante $1
+anzy30: posts the ante $1
+mighty28: posts the ante $1
+gaiggibeliin: posts the ante $1
+Xerophyten: posts the ante $1
+blakerAA: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ac Ts]
+Xerophyten: calls $1
+blakerAA: raises $9 to $10
+sss457: folds 
+anzy30: folds 
+mighty28: folds 
+gaiggibeliin: folds 
+Xerophyten: calls $9
+*** FLOP *** [Ks Jc 9d]
+Xerophyten: checks 
+blakerAA: bets $17
+Xerophyten: folds 
+Uncalled bet ($17) returned to blakerAA
+blakerAA collected $25.65 from pot
+blakerAA: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $1.35 
+Board [Ks Jc 9d]
+Seat 1: sss457 folded before Flop (didn't bet)
+Seat 2: anzy30 folded before Flop (didn't bet)
+Seat 3: mighty28 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin (button blind) folded before Flop
+Seat 5: Xerophyten folded on the Flop
+Seat 6: blakerAA collected ($25.65)
+
+
+
+PokerStars Hand #196395486981:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:26:54 EET [2019/01/29 20:26:54 ET]
+Table 'Terpsichore' 6-max Seat #5 is the button
+Seat 1: sss457 ($490.59 in chips) 
+Seat 2: anzy30 ($721.53 in chips) 
+Seat 3: mighty28 ($292.97 in chips) 
+Seat 4: gaiggibeliin ($145.52 in chips) 
+Seat 5: Xerophyten ($157.95 in chips) 
+Seat 6: blakerAA ($167.15 in chips) 
+sss457: posts the ante $1
+anzy30: posts the ante $1
+mighty28: posts the ante $1
+gaiggibeliin: posts the ante $1
+Xerophyten: posts the ante $1
+blakerAA: posts the ante $1
+Xerophyten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8h Td]
+blakerAA: folds 
+sss457: calls $1
+anzy30: calls $1
+mighty28: folds 
+gaiggibeliin: calls $1
+Xerophyten: checks 
+*** FLOP *** [7h 8d 8s]
+sss457: checks 
+anzy30: checks 
+gaiggibeliin: bets $6
+Xerophyten: folds 
+sss457: calls $6
+anzy30: folds 
+*** TURN *** [7h 8d 8s] [7c]
+sss457: checks 
+gaiggibeliin: bets $12
+sss457: folds 
+Uncalled bet ($12) returned to gaiggibeliin
+gaiggibeliin collected $20.90 from pot
+*** SUMMARY ***
+Total pot $22 | Rake $1.10 
+Board [7h 8d 8s 7c]
+Seat 1: sss457 folded on the Turn
+Seat 2: anzy30 folded on the Flop
+Seat 3: mighty28 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin collected ($20.90)
+Seat 5: Xerophyten (button blind) folded on the Flop
+Seat 6: blakerAA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196395515101:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:28:06 EET [2019/01/29 20:28:06 ET]
+Table 'Terpsichore' 6-max Seat #6 is the button
+Seat 1: sss457 ($482.59 in chips) 
+Seat 2: anzy30 ($719.53 in chips) 
+Seat 3: mighty28 ($291.97 in chips) 
+Seat 4: gaiggibeliin ($158.42 in chips) 
+Seat 5: Xerophyten ($155.95 in chips) 
+Seat 6: blakerAA ($166.15 in chips) 
+sss457: posts the ante $1
+anzy30: posts the ante $1
+mighty28: posts the ante $1
+gaiggibeliin: posts the ante $1
+Xerophyten: posts the ante $1
+blakerAA: posts the ante $1
+blakerAA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [As 7h]
+sss457: calls $1
+anzy30: calls $1
+mighty28: calls $1
+gaiggibeliin: folds 
+Xerophyten: folds 
+blakerAA: checks 
+*** FLOP *** [Ks Kd Tc]
+sss457: checks 
+anzy30: checks 
+mighty28: bets $4
+blakerAA: folds 
+sss457: folds 
+anzy30: calls $4
+*** TURN *** [Ks Kd Tc] [Ts]
+anzy30: checks 
+mighty28: bets $9
+anzy30: folds 
+Uncalled bet ($9) returned to mighty28
+mighty28 collected $17.10 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.90 
+Board [Ks Kd Tc Ts]
+Seat 1: sss457 folded on the Flop
+Seat 2: anzy30 folded on the Turn
+Seat 3: mighty28 collected ($17.10)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: Xerophyten folded before Flop (didn't bet)
+Seat 6: blakerAA (button blind) folded on the Flop
+
+
+
+PokerStars Hand #196395539219:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:29:07 EET [2019/01/29 20:29:07 ET]
+Table 'Terpsichore' 6-max Seat #1 is the button
+Seat 1: sss457 ($480.59 in chips) 
+Seat 2: anzy30 ($713.53 in chips) 
+Seat 3: mighty28 ($303.07 in chips) 
+Seat 4: gaiggibeliin ($157.42 in chips) 
+Seat 5: Xerophyten ($154.95 in chips) 
+Seat 6: blakerAA ($164.15 in chips) 
+sss457: posts the ante $1
+anzy30: posts the ante $1
+mighty28: posts the ante $1
+gaiggibeliin: posts the ante $1
+Xerophyten: posts the ante $1
+blakerAA: posts the ante $1
+sss457: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9h 7h]
+anzy30: folds 
+mighty28: raises $4 to $5
+gaiggibeliin: calls $5
+Xerophyten: raises $148.95 to $153.95 and is all-in
+blakerAA: folds 
+sss457: folds 
+mighty28: folds 
+gaiggibeliin: folds 
+Uncalled bet ($148.95) returned to Xerophyten
+Xerophyten collected $22 from pot
+*** SUMMARY ***
+Total pot $22 | Rake $0 
+Seat 1: sss457 (button blind) folded before Flop
+Seat 2: anzy30 folded before Flop (didn't bet)
+Seat 3: mighty28 folded before Flop
+Seat 4: gaiggibeliin folded before Flop
+Seat 5: Xerophyten collected ($22)
+Seat 6: blakerAA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196395549821:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:29:34 EET [2019/01/29 20:29:34 ET]
+Table 'Terpsichore' 6-max Seat #2 is the button
+Seat 1: sss457 ($478.59 in chips) 
+Seat 2: anzy30 ($712.53 in chips) 
+Seat 3: mighty28 ($297.07 in chips) 
+Seat 4: gaiggibeliin ($151.42 in chips) 
+Seat 5: Xerophyten ($170.95 in chips) 
+Seat 6: blakerAA ($163.15 in chips) 
+sss457: posts the ante $1
+anzy30: posts the ante $1
+mighty28: posts the ante $1
+gaiggibeliin: posts the ante $1
+Xerophyten: posts the ante $1
+blakerAA: posts the ante $1
+anzy30: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9c Kc]
+mighty28: folds 
+gaiggibeliin: folds 
+Xerophyten: raises $4 to $5
+blakerAA: calls $5
+sss457: folds 
+anzy30: calls $4
+*** FLOP *** [8c Qs Ad]
+Xerophyten: bets $9.98
+blakerAA: folds 
+anzy30: raises $13.02 to $23
+Xerophyten: folds 
+Uncalled bet ($13.02) returned to anzy30
+anzy30 collected $38.91 from pot
+*** SUMMARY ***
+Total pot $40.96 | Rake $2.05 
+Board [8c Qs Ad]
+Seat 1: sss457 folded before Flop (didn't bet)
+Seat 2: anzy30 (button blind) collected ($38.91)
+Seat 3: mighty28 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: Xerophyten folded on the Flop
+Seat 6: blakerAA folded on the Flop
+
+
+
+PokerStars Hand #196395571136:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:30:29 EET [2019/01/29 20:30:29 ET]
+Table 'Terpsichore' 6-max Seat #3 is the button
+Seat 1: sss457 ($477.59 in chips) 
+Seat 2: anzy30 ($735.46 in chips) 
+Seat 3: mighty28 ($296.07 in chips) 
+Seat 4: gaiggibeliin ($150.42 in chips) 
+Seat 5: Xerophyten ($154.97 in chips) 
+Seat 6: blakerAA ($157.15 in chips) 
+sss457: posts the ante $1
+anzy30: posts the ante $1
+mighty28: posts the ante $1
+gaiggibeliin: posts the ante $1
+Xerophyten: posts the ante $1
+blakerAA: posts the ante $1
+mighty28: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jd 8c]
+gaiggibeliin: folds 
+Xerophyten: folds 
+blakerAA: folds 
+sss457: raises $8 to $9
+anzy30: calls $9
+mighty28: folds 
+*** FLOP *** [Ac 7c 6d]
+sss457: bets $23.75
+anzy30: folds 
+Uncalled bet ($23.75) returned to sss457
+sss457 collected $23.75 from pot
+sss457: doesn't show hand 
+*** SUMMARY ***
+Total pot $25 | Rake $1.25 
+Board [Ac 7c 6d]
+Seat 1: sss457 collected ($23.75)
+Seat 2: anzy30 folded on the Flop
+Seat 3: mighty28 (button blind) folded before Flop
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: Xerophyten folded before Flop (didn't bet)
+Seat 6: blakerAA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196395579552:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:30:50 EET [2019/01/29 20:30:50 ET]
+Table 'Terpsichore' 6-max Seat #4 is the button
+Seat 1: sss457 ($491.34 in chips) 
+Seat 2: anzy30 ($725.46 in chips) 
+Seat 3: mighty28 ($294.07 in chips) 
+Seat 4: gaiggibeliin ($149.42 in chips) 
+Seat 5: Xerophyten ($153.97 in chips) 
+Seat 6: blakerAA ($156.15 in chips) 
+sss457: posts the ante $1
+anzy30: posts the ante $1
+mighty28: posts the ante $1
+gaiggibeliin: posts the ante $1
+Xerophyten: posts the ante $1
+blakerAA: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jc Qc]
+Xerophyten: calls $1
+blakerAA: folds 
+sss457: calls $1
+anzy30: folds 
+mighty28: folds 
+gaiggibeliin: raises $12 to $13
+Xerophyten: folds 
+sss457: calls $12
+*** FLOP *** [9d 7h 9c]
+sss457: checks 
+gaiggibeliin: bets $16.30
+sss457: calls $16.30
+*** TURN *** [9d 7h 9c] [Th]
+sss457: checks 
+gaiggibeliin: checks 
+*** RIVER *** [9d 7h 9c Th] [Kc]
+sss457: checks 
+gaiggibeliin: bets $34
+sss457: folds 
+Uncalled bet ($34) returned to gaiggibeliin
+gaiggibeliin collected $62.85 from pot
+*** SUMMARY ***
+Total pot $65.60 | Rake $2.75 
+Board [9d 7h 9c Th Kc]
+Seat 1: sss457 folded on the River
+Seat 2: anzy30 folded before Flop (didn't bet)
+Seat 3: mighty28 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin (button blind) collected ($62.85)
+Seat 5: Xerophyten folded before Flop
+Seat 6: blakerAA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196395632441:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:33:05 EET [2019/01/29 20:33:05 ET]
+Table 'Terpsichore' 6-max Seat #5 is the button
+Seat 1: sss457 ($461.04 in chips) 
+Seat 2: anzy30 ($724.46 in chips) 
+Seat 3: mighty28 ($293.07 in chips) 
+Seat 4: gaiggibeliin ($181.97 in chips) 
+Seat 5: Xerophyten ($151.97 in chips) 
+Seat 6: blakerAA ($155.15 in chips) 
+sss457: posts the ante $1
+anzy30: posts the ante $1
+mighty28: posts the ante $1
+gaiggibeliin: posts the ante $1
+Xerophyten: posts the ante $1
+blakerAA: posts the ante $1
+Xerophyten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6h 9s]
+blakerAA: folds 
+sss457: folds 
+anzy30: calls $1
+mighty28: folds 
+gaiggibeliin: folds 
+Xerophyten: checks 
+*** FLOP *** [Js Td Ks]
+anzy30: checks 
+Xerophyten: checks 
+*** TURN *** [Js Td Ks] [7d]
+anzy30: bets $6
+Xerophyten: folds 
+Uncalled bet ($6) returned to anzy30
+anzy30 collected $7.60 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [Js Td Ks 7d]
+Seat 1: sss457 folded before Flop (didn't bet)
+Seat 2: anzy30 collected ($7.60)
+Seat 3: mighty28 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: Xerophyten (button blind) folded on the Turn
+Seat 6: blakerAA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196395643659:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:33:34 EET [2019/01/29 20:33:34 ET]
+Table 'Terpsichore' 6-max Seat #6 is the button
+Seat 1: sss457 ($460.04 in chips) 
+Seat 2: anzy30 ($730.06 in chips) 
+Seat 3: mighty28 ($292.07 in chips) 
+Seat 4: gaiggibeliin ($180.97 in chips) 
+Seat 5: Xerophyten ($149.97 in chips) 
+Seat 6: blakerAA ($154.15 in chips) 
+sss457: posts the ante $1
+anzy30: posts the ante $1
+mighty28: posts the ante $1
+gaiggibeliin: posts the ante $1
+Xerophyten: posts the ante $1
+blakerAA: posts the ante $1
+blakerAA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jh Ah]
+sss457: folds 
+anzy30: folds 
+mighty28: raises $3 to $4
+gaiggibeliin: raises $16 to $20
+Xerophyten: folds 
+blakerAA: folds 
+mighty28: folds 
+Uncalled bet ($16) returned to gaiggibeliin
+gaiggibeliin collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 1: sss457 folded before Flop (didn't bet)
+Seat 2: anzy30 folded before Flop (didn't bet)
+Seat 3: mighty28 folded before Flop
+Seat 4: gaiggibeliin collected ($15)
+Seat 5: Xerophyten folded before Flop (didn't bet)
+Seat 6: blakerAA (button blind) folded before Flop
+
+
+
+PokerStars Hand #196395651325:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:33:53 EET [2019/01/29 20:33:53 ET]
+Table 'Terpsichore' 6-max Seat #1 is the button
+Seat 1: sss457 ($459.04 in chips) 
+Seat 2: anzy30 ($729.06 in chips) 
+Seat 3: mighty28 ($287.07 in chips) 
+Seat 4: gaiggibeliin ($190.97 in chips) 
+Seat 5: Xerophyten ($148.97 in chips) 
+Seat 6: blakerAA ($152.15 in chips) 
+sss457: posts the ante $1
+anzy30: posts the ante $1
+mighty28: posts the ante $1
+gaiggibeliin: posts the ante $1
+Xerophyten: posts the ante $1
+blakerAA: posts the ante $1
+sss457: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7c 7d]
+anzy30: calls $1
+mighty28: raises $3 to $4
+gaiggibeliin: calls $4
+Xerophyten: calls $4
+blakerAA: folds 
+sss457: folds 
+anzy30: calls $3
+*** FLOP *** [7h 8d Kc]
+anzy30: checks 
+mighty28: bets $13
+gaiggibeliin: raises $32.06 to $45.06
+Xerophyten: folds 
+anzy30: folds 
+mighty28: folds 
+Uncalled bet ($32.06) returned to gaiggibeliin
+gaiggibeliin collected $46.55 from pot
+*** SUMMARY ***
+Total pot $49 | Rake $2.45 
+Board [7h 8d Kc]
+Seat 1: sss457 (button blind) folded before Flop
+Seat 2: anzy30 folded on the Flop
+Seat 3: mighty28 folded on the Flop
+Seat 4: gaiggibeliin collected ($46.55)
+Seat 5: Xerophyten folded on the Flop
+Seat 6: blakerAA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196395678577:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:34:45 EET [2019/01/29 20:34:45 ET]
+Table 'Terpsichore' 6-max Seat #2 is the button
+Seat 1: sss457 ($457.04 in chips) 
+Seat 2: anzy30 ($724.06 in chips) 
+Seat 3: mighty28 ($269.07 in chips) 
+Seat 4: gaiggibeliin ($219.52 in chips) 
+Seat 5: Xerophyten ($143.97 in chips) 
+Seat 6: blakerAA ($151.15 in chips) 
+sss457: posts the ante $1
+anzy30: posts the ante $1
+mighty28: posts the ante $1
+gaiggibeliin: posts the ante $1
+Xerophyten: posts the ante $1
+blakerAA: posts the ante $1
+anzy30: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7s Qc]
+mighty28: folds 
+gaiggibeliin: folds 
+Xerophyten: calls $1
+blakerAA: folds 
+sss457: calls $1
+anzy30: checks 
+*** FLOP *** [7c Jh Qd]
+Xerophyten: checks 
+sss457: checks 
+anzy30: bets $7
+Xerophyten: folds 
+sss457: calls $7
+*** TURN *** [7c Jh Qd] [9s]
+sss457: checks 
+anzy30: checks 
+*** RIVER *** [7c Jh Qd 9s] [Qh]
+sss457: checks 
+anzy30: bets $60
+sss457: folds 
+Uncalled bet ($60) returned to anzy30
+anzy30 collected $21.85 from pot
+*** SUMMARY ***
+Total pot $23 | Rake $1.15 
+Board [7c Jh Qd 9s Qh]
+Seat 1: sss457 folded on the River
+Seat 2: anzy30 (button blind) collected ($21.85)
+Seat 3: mighty28 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: Xerophyten folded on the Flop
+Seat 6: blakerAA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196395698918:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:35:37 EET [2019/01/29 20:35:37 ET]
+Table 'Terpsichore' 6-max Seat #3 is the button
+Seat 1: sss457 ($448.04 in chips) 
+Seat 2: anzy30 ($736.91 in chips) 
+Seat 3: mighty28 ($268.07 in chips) 
+Seat 4: gaiggibeliin ($218.52 in chips) 
+Seat 5: Xerophyten ($141.97 in chips) 
+Seat 6: blakerAA ($150.15 in chips) 
+sss457: posts the ante $1
+anzy30: posts the ante $1
+mighty28: posts the ante $1
+gaiggibeliin: posts the ante $1
+Xerophyten: posts the ante $1
+blakerAA: posts the ante $1
+mighty28: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ac As]
+gaiggibeliin: calls $1
+Xerophyten: folds 
+blakerAA: raises $9 to $10
+sss457: folds 
+anzy30: folds 
+mighty28: folds 
+gaiggibeliin: raises $207.52 to $217.52 and is all-in
+blakerAA: calls $139.15 and is all-in
+Uncalled bet ($68.37) returned to gaiggibeliin
+*** FLOP *** [Ad Ts Jc]
+*** TURN *** [Ad Ts Jc] [8s]
+*** RIVER *** [Ad Ts Jc 8s] [6d]
+*** SHOW DOWN ***
+gaiggibeliin: shows [Ac As] (three of a kind, Aces)
+blakerAA: shows [Js Jh] (three of a kind, Jacks)
+gaiggibeliin collected $302.55 from pot
+*** SUMMARY ***
+Total pot $305.30 | Rake $2.75 
+Board [Ad Ts Jc 8s 6d]
+Seat 1: sss457 folded before Flop (didn't bet)
+Seat 2: anzy30 folded before Flop (didn't bet)
+Seat 3: mighty28 (button blind) folded before Flop
+Seat 4: gaiggibeliin showed [Ac As] and won ($302.55) with three of a kind, Aces
+Seat 5: Xerophyten folded before Flop (didn't bet)
+Seat 6: blakerAA showed [Js Jh] and lost with three of a kind, Jacks
+
+
+
+PokerStars Hand #196395719044:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:36:29 EET [2019/01/29 20:36:29 ET]
+Table 'Terpsichore' 6-max Seat #4 is the button
+Seat 1: sss457 ($447.04 in chips) 
+Seat 2: anzy30 ($735.91 in chips) 
+Seat 3: mighty28 ($266.07 in chips) 
+Seat 4: gaiggibeliin ($370.92 in chips) 
+Seat 5: Xerophyten ($140.97 in chips) 
+sss457: posts the ante $1
+anzy30: posts the ante $1
+mighty28: posts the ante $1
+gaiggibeliin: posts the ante $1
+Xerophyten: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kd 6h]
+Xerophyten: raises $4 to $5
+blakerAA leaves the table
+sss457: folds 
+anzy30: folds 
+mighty28: folds 
+gaiggibeliin: folds 
+Uncalled bet ($4) returned to Xerophyten
+Xerophyten collected $7 from pot
+*** SUMMARY ***
+Total pot $7 | Rake $0 
+Seat 1: sss457 folded before Flop (didn't bet)
+Seat 2: anzy30 folded before Flop (didn't bet)
+Seat 3: mighty28 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin (button blind) folded before Flop
+Seat 5: Xerophyten collected ($7)
+
+
+
+PokerStars Hand #196395726586:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:36:48 EET [2019/01/29 20:36:48 ET]
+Table 'Terpsichore' 6-max Seat #5 is the button
+Seat 1: sss457 ($446.04 in chips) 
+Seat 2: anzy30 ($734.91 in chips) 
+Seat 3: mighty28 ($265.07 in chips) 
+Seat 4: gaiggibeliin ($368.92 in chips) 
+Seat 5: Xerophyten ($145.97 in chips) 
+sss457: posts the ante $1
+anzy30: posts the ante $1
+mighty28: posts the ante $1
+gaiggibeliin: posts the ante $1
+Xerophyten: posts the ante $1
+Xerophyten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8d Ah]
+jacktripkill joins the table at seat #6 
+sss457: folds 
+anzy30: folds 
+mighty28: raises $5 to $6
+gaiggibeliin: folds 
+Xerophyten: folds 
+Uncalled bet ($5) returned to mighty28
+mighty28 collected $7 from pot
+*** SUMMARY ***
+Total pot $7 | Rake $0 
+Seat 1: sss457 folded before Flop (didn't bet)
+Seat 2: anzy30 folded before Flop (didn't bet)
+Seat 3: mighty28 collected ($7)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: Xerophyten (button blind) folded before Flop
+
+
+
+PokerStars Hand #196395733527:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:37:06 EET [2019/01/29 20:37:06 ET]
+Table 'Terpsichore' 6-max Seat #1 is the button
+Seat 1: sss457 ($445.04 in chips) 
+Seat 2: anzy30 ($733.91 in chips) 
+Seat 3: mighty28 ($270.07 in chips) 
+Seat 4: gaiggibeliin ($367.92 in chips) 
+Seat 5: Xerophyten ($143.97 in chips) 
+Seat 6: jacktripkill ($150 in chips) 
+sss457: posts the ante $1
+anzy30: posts the ante $1
+mighty28: posts the ante $1
+gaiggibeliin: posts the ante $1
+Xerophyten: posts the ante $1
+jacktripkill: posts the ante $1
+sss457: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Th 9s]
+anzy30: folds 
+mighty28: raises $4 to $5
+gaiggibeliin: calls $5
+Xerophyten: folds 
+jacktripkill: calls $5
+sss457: calls $4
+*** FLOP *** [Ad 7c Jd]
+mighty28: checks 
+gaiggibeliin: checks 
+jacktripkill: checks 
+sss457: checks 
+*** TURN *** [Ad 7c Jd] [Qh]
+mighty28: checks 
+gaiggibeliin: bets $22
+jacktripkill: calls $22
+sss457: folds 
+mighty28: folds 
+*** RIVER *** [Ad 7c Jd Qh] [Ah]
+gaiggibeliin: bets $50.44
+jacktripkill: folds 
+Uncalled bet ($50.44) returned to gaiggibeliin
+gaiggibeliin collected $67.25 from pot
+*** SUMMARY ***
+Total pot $70 | Rake $2.75 
+Board [Ad 7c Jd Qh Ah]
+Seat 1: sss457 (button blind) folded on the Turn
+Seat 2: anzy30 folded before Flop (didn't bet)
+Seat 3: mighty28 folded on the Turn
+Seat 4: gaiggibeliin collected ($67.25)
+Seat 5: Xerophyten folded before Flop (didn't bet)
+Seat 6: jacktripkill folded on the River
+
+
+
+PokerStars Hand #196395761712:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:38:19 EET [2019/01/29 20:38:19 ET]
+Table 'Terpsichore' 6-max Seat #2 is the button
+Seat 1: sss457 ($439.04 in chips) 
+Seat 2: anzy30 ($732.91 in chips) 
+Seat 3: mighty28 ($264.07 in chips) 
+Seat 4: gaiggibeliin ($407.17 in chips) 
+Seat 5: Xerophyten ($142.97 in chips) 
+Seat 6: jacktripkill ($122 in chips) 
+sss457: posts the ante $1
+anzy30: posts the ante $1
+mighty28: posts the ante $1
+gaiggibeliin: posts the ante $1
+Xerophyten: posts the ante $1
+jacktripkill: posts the ante $1
+anzy30: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qs Js]
+mighty28: folds 
+gaiggibeliin: calls $1
+Xerophyten: calls $1
+jacktripkill: raises $10 to $11
+sss457: folds 
+anzy30: folds 
+gaiggibeliin: calls $10
+Xerophyten: calls $10
+*** FLOP *** [6h Kc 6s]
+gaiggibeliin: checks 
+Xerophyten: checks 
+jacktripkill: bets $19
+gaiggibeliin: folds 
+Xerophyten: folds 
+Uncalled bet ($19) returned to jacktripkill
+jacktripkill collected $38 from pot
+jacktripkill: doesn't show hand 
+*** SUMMARY ***
+Total pot $40 | Rake $2 
+Board [6h Kc 6s]
+Seat 1: sss457 folded before Flop (didn't bet)
+Seat 2: anzy30 (button blind) folded before Flop
+Seat 3: mighty28 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded on the Flop
+Seat 5: Xerophyten folded on the Flop
+Seat 6: jacktripkill collected ($38)
+
+
+
+PokerStars Hand #196395785617:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:39:21 EET [2019/01/29 20:39:21 ET]
+Table 'Terpsichore' 6-max Seat #3 is the button
+Seat 1: sss457 ($438.04 in chips) 
+Seat 2: anzy30 ($730.91 in chips) 
+Seat 3: mighty28 ($263.07 in chips) 
+Seat 4: gaiggibeliin ($395.17 in chips) 
+Seat 5: Xerophyten ($130.97 in chips) 
+Seat 6: jacktripkill ($148 in chips) 
+sss457: posts the ante $1
+anzy30: posts the ante $1
+mighty28: posts the ante $1
+gaiggibeliin: posts the ante $1
+Xerophyten: posts the ante $1
+jacktripkill: posts the ante $1
+mighty28: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7h Jd]
+gaiggibeliin: folds 
+Xerophyten: raises $4 to $5
+jacktripkill: calls $5
+sss457: calls $5
+anzy30: folds 
+mighty28: raises $33 to $38
+Xerophyten: raises $91.97 to $129.97 and is all-in
+jacktripkill: folds 
+sss457: folds 
+mighty28: calls $91.97
+*** FIRST FLOP *** [Jh 8h 9h]
+*** FIRST TURN *** [Jh 8h 9h] [Th]
+*** FIRST RIVER *** [Jh 8h 9h Th] [8c]
+*** SECOND FLOP *** [Jc 8d 7s]
+*** SECOND TURN *** [Jc 8d 7s] [As]
+*** SECOND RIVER *** [Jc 8d 7s As] [7c]
+*** FIRST SHOW DOWN ***
+Xerophyten: shows [Qc Qd] (a straight, Eight to Queen)
+mighty28: shows [Ah Ac] (a flush, Ace high)
+mighty28 collected $136.60 from pot
+*** SECOND SHOW DOWN ***
+Xerophyten: shows [Qc Qd] (two pair, Queens and Sevens)
+mighty28: shows [Ah Ac] (a full house, Aces full of Sevens)
+mighty28 collected $136.59 from pot
+*** SUMMARY ***
+Total pot $275.94 | Rake $2.75 
+Hand was run twice
+FIRST Board [Jh 8h 9h Th 8c]
+SECOND Board [Jc 8d 7s As 7c]
+Seat 1: sss457 folded before Flop
+Seat 2: anzy30 folded before Flop (didn't bet)
+Seat 3: mighty28 (button blind) showed [Ah Ac] and won ($136.60) with a flush, Ace high, and won ($136.59) with a full house, Aces full of Sevens
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: Xerophyten showed [Qc Qd] and lost with a straight, Eight to Queen, and lost with two pair, Queens and Sevens
+Seat 6: jacktripkill folded before Flop
+
+
+
+PokerStars Hand #196395802218:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:40:05 EET [2019/01/29 20:40:05 ET]
+Table 'Terpsichore' 6-max Seat #4 is the button
+Seat 1: sss457 ($432.04 in chips) 
+Seat 2: anzy30 ($729.91 in chips) 
+Seat 4: gaiggibeliin ($394.17 in chips) 
+Seat 6: jacktripkill ($142 in chips) 
+sss457: posts the ante $1
+anzy30: posts the ante $1
+gaiggibeliin: posts the ante $1
+jacktripkill: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9d 7h]
+jacktripkill: calls $1
+Xerophyten leaves the table
+sss457: folds 
+anzy30: folds 
+gaiggibeliin: checks 
+*** FLOP *** [6s Js 7d]
+jacktripkill: checks 
+gaiggibeliin: bets $3.82
+jacktripkill: folds 
+Uncalled bet ($3.82) returned to gaiggibeliin
+gaiggibeliin collected $5.70 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [6s Js 7d]
+Seat 1: sss457 folded before Flop (didn't bet)
+Seat 2: anzy30 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin (button blind) collected ($5.70)
+Seat 6: jacktripkill folded on the Flop
+
+
+
+PokerStars Hand #196395818799:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:40:49 EET [2019/01/29 20:40:49 ET]
+Table 'Terpsichore' 6-max Seat #6 is the button
+Seat 1: sss457 ($431.04 in chips) 
+Seat 2: anzy30 ($728.91 in chips) 
+Seat 4: gaiggibeliin ($397.87 in chips) 
+Seat 6: jacktripkill ($140 in chips) 
+sss457: posts the ante $1
+anzy30: posts the ante $1
+gaiggibeliin: posts the ante $1
+jacktripkill: posts the ante $1
+jacktripkill: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ah Kd]
+sss457: folds 
+anzy30: calls $1
+gaiggibeliin: raises $9 to $10
+jacktripkill: calls $9
+anzy30: calls $9
+*** FLOP *** [8c Qd 8d]
+anzy30: checks 
+gaiggibeliin: checks 
+jacktripkill: checks 
+*** TURN *** [8c Qd 8d] [As]
+anzy30: checks 
+gaiggibeliin: bets $17.03
+jacktripkill: raises $17.03 to $34.06
+anzy30: folds 
+gaiggibeliin: calls $17.03
+*** RIVER *** [8c Qd 8d As] [Kc]
+gaiggibeliin: checks 
+jacktripkill: checks 
+*** SHOW DOWN ***
+gaiggibeliin: shows [Ah Kd] (two pair, Aces and Kings)
+jacktripkill: shows [Kh 8h] (a full house, Eights full of Kings)
+jacktripkill collected $100.87 from pot
+*** SUMMARY ***
+Total pot $102.12 | Rake $1.25 
+Board [8c Qd 8d As Kc]
+Seat 1: sss457 folded before Flop (didn't bet)
+Seat 2: anzy30 folded on the Turn
+Seat 4: gaiggibeliin showed [Ah Kd] and lost with two pair, Aces and Kings
+Seat 6: jacktripkill (button blind) showed [Kh 8h] and won ($100.87) with a full house, Eights full of Kings
+
+
+
+PokerStars Hand #196395846426:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:42:01 EET [2019/01/29 20:42:01 ET]
+Table 'Terpsichore' 6-max Seat #1 is the button
+Seat 1: sss457 ($430.04 in chips) 
+Seat 2: anzy30 ($717.91 in chips) 
+Seat 3: mighty28 ($405.29 in chips) 
+Seat 4: gaiggibeliin ($352.81 in chips) 
+Seat 6: jacktripkill ($195.81 in chips) 
+sss457: posts the ante $1
+anzy30: posts the ante $1
+mighty28: posts the ante $1
+gaiggibeliin: posts the ante $1
+jacktripkill: posts the ante $1
+sss457: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9h 7h]
+anzy30: calls $1
+mighty28: folds 
+gaiggibeliin: calls $1
+jacktripkill: calls $1
+sss457: checks 
+*** FLOP *** [8s 9c Ks]
+anzy30: checks 
+gaiggibeliin: checks 
+jacktripkill: checks 
+sss457: checks 
+*** TURN *** [8s 9c Ks] [Td]
+anzy30: checks 
+gaiggibeliin: checks 
+jacktripkill: bets $4.28
+sss457: folds 
+anzy30: folds 
+gaiggibeliin: folds 
+Uncalled bet ($4.28) returned to jacktripkill
+jacktripkill collected $8.55 from pot
+jacktripkill: doesn't show hand 
+*** SUMMARY ***
+Total pot $9 | Rake $0.45 
+Board [8s 9c Ks Td]
+Seat 1: sss457 (button blind) folded on the Turn
+Seat 2: anzy30 folded on the Turn
+Seat 3: mighty28 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded on the Turn
+Seat 6: jacktripkill collected ($8.55)
+
+
+
+PokerStars Hand #196395872582:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:43:11 EET [2019/01/29 20:43:11 ET]
+Table 'Terpsichore' 6-max Seat #2 is the button
+Seat 1: sss457 ($428.04 in chips) 
+Seat 2: anzy30 ($715.91 in chips) 
+Seat 3: mighty28 ($404.29 in chips) 
+Seat 4: gaiggibeliin ($350.81 in chips) 
+Seat 6: jacktripkill ($202.36 in chips) 
+sss457: posts the ante $1
+anzy30: posts the ante $1
+mighty28: posts the ante $1
+gaiggibeliin: posts the ante $1
+jacktripkill: posts the ante $1
+anzy30: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Js Qc]
+mighty28: folds 
+gaiggibeliin: calls $1
+jacktripkill: calls $1
+sss457: folds 
+anzy30: raises $8 to $9
+gaiggibeliin: calls $8
+jacktripkill: folds 
+*** FLOP *** [6s 9s Ts]
+gaiggibeliin: checks 
+anzy30: bets $11
+gaiggibeliin: raises $25 to $36
+anzy30: calls $25
+*** TURN *** [6s 9s Ts] [9h]
+gaiggibeliin: bets $67
+anzy30: calls $67
+*** RIVER *** [6s 9s Ts 9h] [8d]
+gaiggibeliin: bets $74.99
+anzy30: calls $74.99
+*** SHOW DOWN ***
+gaiggibeliin: shows [Js Qc] (a straight, Eight to Queen)
+anzy30: mucks hand 
+gaiggibeliin collected $377.23 from pot
+*** SUMMARY ***
+Total pot $379.98 | Rake $2.75 
+Board [6s 9s Ts 9h 8d]
+Seat 1: sss457 folded before Flop (didn't bet)
+Seat 2: anzy30 (button blind) mucked [Jc Tc]
+Seat 3: mighty28 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin showed [Js Qc] and won ($377.23) with a straight, Eight to Queen
+Seat 6: jacktripkill folded before Flop
+
+
+

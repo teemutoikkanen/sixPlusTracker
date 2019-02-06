@@ -1,0 +1,467 @@
+﻿PokerStars Hand #196236577178:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 14:08:36 EET [2019/01/26 7:08:36 ET]
+Table 'Despina' 6-max Seat #2 is the button
+Seat 2: liyaoeli1893 ($423.21 in chips) 
+Seat 3: bertotraste ($290.40 in chips) 
+Seat 4: gaiggibeliin ($300 in chips) 
+Seat 5: b0caNer0 ($250.80 in chips) 
+Seat 6: T142884 ($265.60 in chips) 
+liyaoeli1893: posts the ante $2
+bertotraste: posts the ante $2
+gaiggibeliin: posts the ante $2
+b0caNer0: posts the ante $2
+T142884: posts the ante $2
+liyaoeli1893: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qs Jh]
+bertotraste: calls $2
+gaiggibeliin: calls $2
+b0caNer0: folds 
+T142884: raises $18 to $20
+liyaoeli1893: calls $18
+bertotraste: folds 
+gaiggibeliin: calls $18
+*** FLOP *** [8c Qc 6h]
+gaiggibeliin: checks 
+T142884: checks 
+liyaoeli1893: checks 
+*** TURN *** [8c Qc 6h] [9c]
+gaiggibeliin: checks 
+T142884: checks 
+liyaoeli1893: checks 
+*** RIVER *** [8c Qc 6h 9c] [Ad]
+gaiggibeliin: checks 
+T142884: checks 
+liyaoeli1893: bets $34.25
+gaiggibeliin: folds 
+T142884: raises $209.35 to $243.60 and is all-in
+liyaoeli1893: calls $209.35
+*** SHOW DOWN ***
+T142884: shows [9d 9h] (three of a kind, Nines)
+liyaoeli1893: shows [7s 6s] (a straight, Ace to Nine)
+liyaoeli1893 collected $555.70 from pot
+*** SUMMARY ***
+Total pot $559.20 | Rake $3.50 
+Board [8c Qc 6h 9c Ad]
+Seat 2: liyaoeli1893 (button blind) showed [7s 6s] and won ($555.70) with a straight, Ace to Nine
+Seat 3: bertotraste folded before Flop
+Seat 4: gaiggibeliin folded on the River
+Seat 5: b0caNer0 folded before Flop (didn't bet)
+Seat 6: T142884 showed [9d 9h] and lost with three of a kind, Nines
+
+
+
+PokerStars Hand #196236631978:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 14:10:38 EET [2019/01/26 7:10:38 ET]
+Table 'Despina' 6-max Seat #3 is the button
+Seat 2: liyaoeli1893 ($713.31 in chips) 
+Seat 3: bertotraste ($286.40 in chips) 
+Seat 4: gaiggibeliin ($278 in chips) 
+Seat 5: b0caNer0 ($248.80 in chips) 
+liyaoeli1893: posts the ante $2
+bertotraste: posts the ante $2
+gaiggibeliin: posts the ante $2
+b0caNer0: posts the ante $2
+bertotraste: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7h 8s]
+T142884 leaves the table
+gaiggibeliin: calls $2
+b0caNer0: folds 
+liyaoeli1893: raises $4 to $6
+bertotraste: folds 
+gaiggibeliin: calls $4
+*** FLOP *** [7s Kh 9d]
+gaiggibeliin: checks 
+liyaoeli1893: bets $16
+gaiggibeliin: folds 
+Uncalled bet ($16) returned to liyaoeli1893
+liyaoeli1893 collected $20.90 from pot
+liyaoeli1893: doesn't show hand 
+*** SUMMARY ***
+Total pot $22 | Rake $1.10 
+Board [7s Kh 9d]
+Seat 2: liyaoeli1893 collected ($20.90)
+Seat 3: bertotraste (button blind) folded before Flop
+Seat 4: gaiggibeliin folded on the Flop
+Seat 5: b0caNer0 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196236650719:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 14:11:19 EET [2019/01/26 7:11:19 ET]
+Table 'Despina' 6-max Seat #4 is the button
+Seat 2: liyaoeli1893 ($726.21 in chips) 
+Seat 3: bertotraste ($282.40 in chips) 
+Seat 4: gaiggibeliin ($270 in chips) 
+Seat 5: b0caNer0 ($246.80 in chips) 
+liyaoeli1893: posts the ante $2
+bertotraste: posts the ante $2
+gaiggibeliin: posts the ante $2
+b0caNer0: posts the ante $2
+gaiggibeliin: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qs Jc]
+b0caNer0: folds 
+liyaoeli1893: raises $4 to $6
+bertotraste: raises $18 to $24
+gaiggibeliin: folds 
+liyaoeli1893: calls $18
+*** FLOP *** [Ts Kc 9d]
+liyaoeli1893: checks 
+bertotraste: checks 
+*** TURN *** [Ts Kc 9d] [Ks]
+liyaoeli1893: checks 
+bertotraste: checks 
+*** RIVER *** [Ts Kc 9d Ks] [8h]
+liyaoeli1893: checks 
+bertotraste: checks 
+*** SHOW DOWN ***
+liyaoeli1893: shows [7h 7d] (two pair, Kings and Sevens)
+bertotraste: shows [Tc 8c] (two pair, Kings and Tens)
+bertotraste collected $56.50 from pot
+*** SUMMARY ***
+Total pot $58 | Rake $1.50 
+Board [Ts Kc 9d Ks 8h]
+Seat 2: liyaoeli1893 showed [7h 7d] and lost with two pair, Kings and Sevens
+Seat 3: bertotraste showed [Tc 8c] and won ($56.50) with two pair, Kings and Tens
+Seat 4: gaiggibeliin (button blind) folded before Flop
+Seat 5: b0caNer0 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196236677571:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 14:12:18 EET [2019/01/26 7:12:18 ET]
+Table 'Despina' 6-max Seat #5 is the button
+Seat 2: liyaoeli1893 ($700.21 in chips) 
+Seat 3: bertotraste ($312.90 in chips) 
+Seat 4: gaiggibeliin ($266 in chips) 
+Seat 5: b0caNer0 ($244.80 in chips) 
+liyaoeli1893: posts the ante $2
+bertotraste: posts the ante $2
+gaiggibeliin: posts the ante $2
+b0caNer0: posts the ante $2
+b0caNer0: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kc As]
+liyaoeli1893: folds 
+liyaoeli1893 leaves the table
+bertotraste: calls $2
+teo96 joins the table at seat #6 
+gaiggibeliin: raises $18 to $20
+b0caNer0: folds 
+bertotraste: folds 
+Uncalled bet ($18) returned to gaiggibeliin
+gaiggibeliin collected $14 from pot
+*** SUMMARY ***
+Total pot $14 | Rake $0 
+Seat 2: liyaoeli1893 folded before Flop (didn't bet)
+Seat 3: bertotraste folded before Flop
+Seat 4: gaiggibeliin collected ($14)
+Seat 5: b0caNer0 (button blind) folded before Flop
+
+
+
+PokerStars Hand #196236690451:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 14:12:46 EET [2019/01/26 7:12:46 ET]
+Table 'Despina' 6-max Seat #3 is the button
+Seat 3: bertotraste ($308.90 in chips) 
+Seat 4: gaiggibeliin ($276 in chips) 
+Seat 5: b0caNer0 ($240.80 in chips) 
+Seat 6: teo96 ($300 in chips) 
+bertotraste: posts the ante $2
+gaiggibeliin: posts the ante $2
+b0caNer0: posts the ante $2
+teo96: posts the ante $2
+bertotraste: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Tc Kh]
+gaiggibeliin: calls $2
+b0caNer0: calls $2
+teo96: folds 
+bertotraste: checks 
+*** FLOP *** [Ad Jd Ac]
+gaiggibeliin: bets $6
+b0caNer0: folds 
+bertotraste: folds 
+Uncalled bet ($6) returned to gaiggibeliin
+gaiggibeliin collected $13.30 from pot
+*** SUMMARY ***
+Total pot $14 | Rake $0.70 
+Board [Ad Jd Ac]
+Seat 3: bertotraste (button blind) folded on the Flop
+Seat 4: gaiggibeliin collected ($13.30)
+Seat 5: b0caNer0 folded on the Flop
+Seat 6: teo96 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196236707836:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 14:13:25 EET [2019/01/26 7:13:25 ET]
+Table 'Despina' 6-max Seat #4 is the button
+Seat 3: bertotraste ($304.90 in chips) 
+Seat 4: gaiggibeliin ($285.30 in chips) 
+Seat 5: b0caNer0 ($236.80 in chips) 
+Seat 6: teo96 ($298 in chips) 
+bertotraste: posts the ante $2
+gaiggibeliin: posts the ante $2
+b0caNer0: posts the ante $2
+teo96: posts the ante $2
+gaiggibeliin: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ks Js]
+b0caNer0: raises $8 to $10
+teo96: folds 
+bertotraste: folds 
+gaiggibeliin: calls $8
+*** FLOP *** [9d Jc Qc]
+b0caNer0: checks 
+gaiggibeliin: bets $17.82
+b0caNer0: folds 
+Uncalled bet ($17.82) returned to gaiggibeliin
+gaiggibeliin collected $26.60 from pot
+*** SUMMARY ***
+Total pot $28 | Rake $1.40 
+Board [9d Jc Qc]
+Seat 3: bertotraste folded before Flop (didn't bet)
+Seat 4: gaiggibeliin (button blind) collected ($26.60)
+Seat 5: b0caNer0 folded on the Flop
+Seat 6: teo96 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196236726895:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 14:14:06 EET [2019/01/26 7:14:06 ET]
+Table 'Despina' 6-max Seat #5 is the button
+Seat 3: bertotraste ($302.90 in chips) 
+Seat 4: gaiggibeliin ($299.90 in chips) 
+Seat 5: b0caNer0 ($224.80 in chips) 
+Seat 6: teo96 ($296 in chips) 
+bertotraste: posts the ante $2
+gaiggibeliin: posts the ante $2
+b0caNer0: posts the ante $2
+teo96: posts the ante $2
+b0caNer0: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6d As]
+teo96: folds 
+bertotraste: raises $10 to $12
+gaiggibeliin: folds 
+b0caNer0: calls $10
+*** FLOP *** [Qh 6h Qs]
+bertotraste: bets $18
+b0caNer0: calls $18
+*** TURN *** [Qh 6h Qs] [7s]
+bertotraste: bets $46
+b0caNer0: raises $146.80 to $192.80 and is all-in
+bertotraste: folds 
+Uncalled bet ($146.80) returned to b0caNer0
+b0caNer0 collected $158.50 from pot
+b0caNer0: doesn't show hand 
+*** SUMMARY ***
+Total pot $160 | Rake $1.50 
+Board [Qh 6h Qs 7s]
+Seat 3: bertotraste folded on the Turn
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: b0caNer0 (button blind) collected ($158.50)
+Seat 6: teo96 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196236756689:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 14:15:12 EET [2019/01/26 7:15:12 ET]
+Table 'Despina' 6-max Seat #6 is the button
+Seat 3: bertotraste ($224.90 in chips) 
+Seat 4: gaiggibeliin ($297.90 in chips) 
+Seat 5: b0caNer0 ($305.30 in chips) 
+Seat 6: teo96 ($294 in chips) 
+bertotraste: posts the ante $2
+gaiggibeliin: posts the ante $2
+b0caNer0: posts the ante $2
+teo96: posts the ante $2
+teo96: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jh Ac]
+bertotraste: calls $2
+gaiggibeliin: raises $16 to $18
+b0caNer0: folds 
+teo96: folds 
+bertotraste: folds 
+Uncalled bet ($16) returned to gaiggibeliin
+gaiggibeliin collected $14 from pot
+*** SUMMARY ***
+Total pot $14 | Rake $0 
+Seat 3: bertotraste folded before Flop
+Seat 4: gaiggibeliin collected ($14)
+Seat 5: b0caNer0 folded before Flop (didn't bet)
+Seat 6: teo96 (button blind) folded before Flop
+
+
+
+PokerStars Hand #196236770578:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 14:15:42 EET [2019/01/26 7:15:42 ET]
+Table 'Despina' 6-max Seat #3 is the button
+Seat 3: bertotraste ($220.90 in chips) 
+Seat 4: gaiggibeliin ($307.90 in chips) 
+Seat 5: b0caNer0 ($303.30 in chips) 
+Seat 6: teo96 ($290 in chips) 
+bertotraste: posts the ante $2
+gaiggibeliin: posts the ante $2
+b0caNer0: posts the ante $2
+teo96: posts the ante $2
+bertotraste: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kh 8c]
+gaiggibeliin: folds 
+b0caNer0: raises $8 to $10
+teo96: folds 
+bertotraste: folds 
+Uncalled bet ($8) returned to b0caNer0
+b0caNer0 collected $12 from pot
+b0caNer0: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 3: bertotraste (button blind) folded before Flop
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: b0caNer0 collected ($12)
+Seat 6: teo96 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196236776125:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 14:15:54 EET [2019/01/26 7:15:54 ET]
+Table 'Despina' 6-max Seat #4 is the button
+Seat 3: bertotraste ($216.90 in chips) 
+Seat 4: gaiggibeliin ($305.90 in chips) 
+Seat 5: b0caNer0 ($311.30 in chips) 
+Seat 6: teo96 ($288 in chips) 
+bertotraste: posts the ante $2
+gaiggibeliin: posts the ante $2
+b0caNer0: posts the ante $2
+teo96: posts the ante $2
+gaiggibeliin: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Js 6s]
+b0caNer0: raises $8 to $10
+teo96: folds 
+bertotraste: calls $10
+gaiggibeliin: calls $8
+*** FLOP *** [Kd Th Qd]
+b0caNer0: checks 
+bertotraste: checks 
+gaiggibeliin: bets $27.38
+b0caNer0: raises $90.62 to $118
+bertotraste: folds 
+gaiggibeliin: folds 
+Uncalled bet ($90.62) returned to b0caNer0
+b0caNer0 collected $91.26 from pot
+b0caNer0: doesn't show hand 
+*** SUMMARY ***
+Total pot $92.76 | Rake $1.50 
+Board [Kd Th Qd]
+Seat 3: bertotraste folded on the Flop
+Seat 4: gaiggibeliin (button blind) folded on the Flop
+Seat 5: b0caNer0 collected ($91.26)
+Seat 6: teo96 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196236817079:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 14:17:24 EET [2019/01/26 7:17:24 ET]
+Table 'Despina' 6-max Seat #5 is the button
+Seat 3: bertotraste ($204.90 in chips) 
+Seat 4: gaiggibeliin ($266.52 in chips) 
+Seat 5: b0caNer0 ($363.18 in chips) 
+Seat 6: teo96 ($286 in chips) 
+bertotraste: posts the ante $2
+gaiggibeliin: posts the ante $2
+b0caNer0: posts the ante $2
+teo96: posts the ante $2
+b0caNer0: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6h 9h]
+teo96: folds 
+bertotraste: folds 
+gaiggibeliin: calls $2
+b0caNer0: raises $12 to $14
+gaiggibeliin: calls $12
+*** FLOP *** [9s 7c Qs]
+gaiggibeliin: checks 
+b0caNer0: checks 
+*** TURN *** [9s 7c Qs] [Js]
+gaiggibeliin: checks 
+b0caNer0: checks 
+*** RIVER *** [9s 7c Qs Js] [Ks]
+gaiggibeliin: bets $22
+b0caNer0: folds 
+Uncalled bet ($22) returned to gaiggibeliin
+gaiggibeliin collected $34.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $1.50 
+Board [9s 7c Qs Js Ks]
+Seat 3: bertotraste folded before Flop (didn't bet)
+Seat 4: gaiggibeliin collected ($34.50)
+Seat 5: b0caNer0 (button blind) folded on the River
+Seat 6: teo96 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196236841228:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 14:18:16 EET [2019/01/26 7:18:16 ET]
+Table 'Despina' 6-max Seat #6 is the button
+Seat 3: bertotraste ($202.90 in chips) 
+Seat 4: gaiggibeliin ($300 in chips) 
+Seat 5: b0caNer0 ($347.18 in chips) 
+Seat 6: teo96 ($284 in chips) 
+bertotraste: posts the ante $2
+gaiggibeliin: posts the ante $2
+b0caNer0: posts the ante $2
+teo96: posts the ante $2
+teo96: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7d 6c]
+bertotraste: folds 
+gaiggibeliin: folds 
+b0caNer0: calls $2
+teo96: raises $12 to $14
+b0caNer0: calls $12
+*** FLOP *** [8d 7c Tc]
+b0caNer0: checks 
+teo96: bets $17.25
+b0caNer0: calls $17.25
+*** TURN *** [8d 7c Tc] [8c]
+b0caNer0: checks 
+teo96: checks 
+*** RIVER *** [8d 7c Tc 8c] [Qs]
+b0caNer0: bets $31.05
+teo96: folds 
+Uncalled bet ($31.05) returned to b0caNer0
+b0caNer0 collected $69 from pot
+b0caNer0: doesn't show hand 
+*** SUMMARY ***
+Total pot $70.50 | Rake $1.50 
+Board [8d 7c Tc 8c Qs]
+Seat 3: bertotraste folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: b0caNer0 collected ($69)
+Seat 6: teo96 (button blind) folded on the River
+
+
+
+PokerStars Hand #196236880360:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 14:19:40 EET [2019/01/26 7:19:40 ET]
+Table 'Despina' 6-max Seat #3 is the button
+Seat 3: bertotraste ($200.90 in chips) 
+Seat 4: gaiggibeliin ($298 in chips) 
+Seat 5: b0caNer0 ($382.93 in chips) 
+Seat 6: teo96 ($250.75 in chips) 
+bertotraste: posts the ante $2
+gaiggibeliin: posts the ante $2
+b0caNer0: posts the ante $2
+teo96: posts the ante $2
+bertotraste: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ad 9h]
+gaiggibeliin: folds 
+b0caNer0: folds 
+teo96: raises $4 to $6
+bertotraste: folds 
+Uncalled bet ($4) returned to teo96
+teo96 collected $12 from pot
+teo96: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 3: bertotraste (button blind) folded before Flop
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: b0caNer0 folded before Flop (didn't bet)
+Seat 6: teo96 collected ($12)
+
+
+

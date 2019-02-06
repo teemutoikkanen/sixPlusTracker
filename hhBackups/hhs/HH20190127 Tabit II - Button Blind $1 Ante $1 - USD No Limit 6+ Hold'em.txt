@@ -1,0 +1,1308 @@
+﻿PokerStars Hand #196309157824:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/28 0:47:33 EET [2019/01/27 17:47:33 ET]
+Table 'Tabit II' 6-max Seat #5 is the button
+Seat 1: N`ice$kiv ($150 in chips) 
+Seat 5: gaiggibeliin ($150 in chips) 
+N`ice$kiv: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ks Th]
+N`ice$kiv: raises $4 to $5
+gaiggibeliin: calls $4
+*** FLOP *** [Ad 7c Tc]
+N`ice$kiv: checks 
+gaiggibeliin: bets $7.64
+N`ice$kiv: calls $7.64
+*** TURN *** [Ad 7c Tc] [Td]
+N`ice$kiv: checks 
+gaiggibeliin: bets $19.52
+N`ice$kiv: calls $19.52
+*** RIVER *** [Ad 7c Tc Td] [Kh]
+N`ice$kiv: checks 
+gaiggibeliin: bets $43.60
+N`ice$kiv: calls $43.60
+*** SHOW DOWN ***
+gaiggibeliin: shows [Ks Th] (a full house, Tens full of Kings)
+N`ice$kiv: mucks hand 
+gaiggibeliin collected $152.27 from pot
+*** SUMMARY ***
+Total pot $153.52 | Rake $1.25 
+Board [Ad 7c Tc Td Kh]
+Seat 1: N`ice$kiv mucked [As Kd]
+Seat 5: gaiggibeliin (button blind) showed [Ks Th] and won ($152.27) with a full house, Tens full of Kings
+
+
+
+PokerStars Hand #196309223946:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/28 0:49:01 EET [2019/01/27 17:49:01 ET]
+Table 'Tabit II' 6-max Seat #1 is the button
+Seat 1: N`ice$kiv ($150 in chips) 
+Seat 5: gaiggibeliin ($225.51 in chips) 
+N`ice$kiv: posts the ante $1
+gaiggibeliin: posts the ante $1
+N`ice$kiv: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8c 6d]
+gaiggibeliin: folds 
+Uncalled bet ($1) returned to N`ice$kiv
+N`ice$kiv collected $2 from pot
+N`ice$kiv: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: N`ice$kiv (button blind) collected ($2)
+Seat 5: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196309228394:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/28 0:49:07 EET [2019/01/27 17:49:07 ET]
+Table 'Tabit II' 6-max Seat #5 is the button
+Seat 1: N`ice$kiv ($151 in chips) 
+Seat 5: gaiggibeliin ($224.51 in chips) 
+N`ice$kiv: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ad Kd]
+N`ice$kiv: raises $4 to $5
+gaiggibeliin: raises $15 to $20
+N`ice$kiv: folds 
+Uncalled bet ($15) returned to gaiggibeliin
+gaiggibeliin collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: N`ice$kiv folded before Flop
+Seat 5: gaiggibeliin (button blind) collected ($12)
+
+
+
+PokerStars Hand #196309243018:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/28 0:49:26 EET [2019/01/27 17:49:26 ET]
+Table 'Tabit II' 6-max Seat #1 is the button
+Seat 1: N`ice$kiv ($150 in chips) 
+Seat 5: gaiggibeliin ($230.51 in chips) 
+N`ice$kiv: posts the ante $1
+gaiggibeliin: posts the ante $1
+N`ice$kiv: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7c Qs]
+gaiggibeliin: folds 
+Uncalled bet ($1) returned to N`ice$kiv
+N`ice$kiv collected $2 from pot
+N`ice$kiv: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: N`ice$kiv (button blind) collected ($2)
+Seat 5: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196309247019:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/28 0:49:32 EET [2019/01/27 17:49:32 ET]
+Table 'Tabit II' 6-max Seat #5 is the button
+Seat 1: N`ice$kiv ($151 in chips) 
+Seat 5: gaiggibeliin ($229.51 in chips) 
+N`ice$kiv: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qh 6c]
+N`ice$kiv: raises $4 to $5
+gaiggibeliin: folds 
+Uncalled bet ($4) returned to N`ice$kiv
+N`ice$kiv collected $4 from pot
+N`ice$kiv: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 1: N`ice$kiv collected ($4)
+Seat 5: gaiggibeliin (button blind) folded before Flop
+
+
+
+PokerStars Hand #196309254526:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/28 0:49:42 EET [2019/01/27 17:49:42 ET]
+Table 'Tabit II' 6-max Seat #1 is the button
+Seat 1: N`ice$kiv ($153 in chips) 
+Seat 5: gaiggibeliin ($227.51 in chips) 
+N`ice$kiv: posts the ante $1
+gaiggibeliin: posts the ante $1
+N`ice$kiv: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7c Qc]
+gaiggibeliin: calls $1
+N`ice$kiv: checks 
+*** FLOP *** [Ks Jh 8s]
+gaiggibeliin: checks 
+N`ice$kiv: checks 
+*** TURN *** [Ks Jh 8s] [9d]
+gaiggibeliin: checks 
+N`ice$kiv: checks 
+*** RIVER *** [Ks Jh 8s 9d] [6c]
+gaiggibeliin: bets $1.98
+N`ice$kiv: folds 
+Uncalled bet ($1.98) returned to gaiggibeliin
+gaiggibeliin collected $3.80 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [Ks Jh 8s 9d 6c]
+Seat 1: N`ice$kiv (button blind) folded on the River
+Seat 5: gaiggibeliin collected ($3.80)
+
+
+
+PokerStars Hand #196309289199:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/28 0:50:29 EET [2019/01/27 17:50:29 ET]
+Table 'Tabit II' 6-max Seat #5 is the button
+Seat 1: N`ice$kiv ($151 in chips) 
+Seat 5: gaiggibeliin ($229.31 in chips) 
+N`ice$kiv: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9d Jh]
+N`ice$kiv: folds 
+Uncalled bet ($1) returned to gaiggibeliin
+gaiggibeliin collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: N`ice$kiv folded before Flop (didn't bet)
+Seat 5: gaiggibeliin (button blind) collected ($2)
+
+
+
+PokerStars Hand #196309292789:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/28 0:50:33 EET [2019/01/27 17:50:33 ET]
+Table 'Tabit II' 6-max Seat #1 is the button
+Seat 1: N`ice$kiv ($150 in chips) 
+Seat 5: gaiggibeliin ($230.31 in chips) 
+N`ice$kiv: posts the ante $1
+gaiggibeliin: posts the ante $1
+N`ice$kiv: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jd 6h]
+gaiggibeliin: folds 
+Uncalled bet ($1) returned to N`ice$kiv
+N`ice$kiv collected $2 from pot
+N`ice$kiv: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: N`ice$kiv (button blind) collected ($2)
+Seat 5: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196309298427:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/28 0:50:41 EET [2019/01/27 17:50:41 ET]
+Table 'Tabit II' 6-max Seat #5 is the button
+Seat 1: N`ice$kiv ($151 in chips) 
+Seat 5: gaiggibeliin ($229.31 in chips) 
+N`ice$kiv: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ac Qd]
+N`ice$kiv: folds 
+Uncalled bet ($1) returned to gaiggibeliin
+gaiggibeliin collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: N`ice$kiv folded before Flop (didn't bet)
+Seat 5: gaiggibeliin (button blind) collected ($2)
+
+
+
+PokerStars Hand #196309302051:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/28 0:50:46 EET [2019/01/27 17:50:46 ET]
+Table 'Tabit II' 6-max Seat #1 is the button
+Seat 1: N`ice$kiv ($150 in chips) 
+Seat 5: gaiggibeliin ($230.31 in chips) 
+N`ice$kiv: posts the ante $1
+gaiggibeliin: posts the ante $1
+N`ice$kiv: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6c Th]
+gaiggibeliin: folds 
+Uncalled bet ($1) returned to N`ice$kiv
+N`ice$kiv collected $2 from pot
+N`ice$kiv: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: N`ice$kiv (button blind) collected ($2)
+Seat 5: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196309306953:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/28 0:50:53 EET [2019/01/27 17:50:53 ET]
+Table 'Tabit II' 6-max Seat #5 is the button
+Seat 1: N`ice$kiv ($151 in chips) 
+Seat 5: gaiggibeliin ($229.31 in chips) 
+N`ice$kiv: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9d Tc]
+N`ice$kiv: folds 
+Uncalled bet ($1) returned to gaiggibeliin
+gaiggibeliin collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: N`ice$kiv folded before Flop (didn't bet)
+Seat 5: gaiggibeliin (button blind) collected ($2)
+
+
+
+PokerStars Hand #196309310264:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/28 0:50:57 EET [2019/01/27 17:50:57 ET]
+Table 'Tabit II' 6-max Seat #1 is the button
+Seat 1: N`ice$kiv ($150 in chips) 
+Seat 5: gaiggibeliin ($230.31 in chips) 
+N`ice$kiv: posts the ante $1
+gaiggibeliin: posts the ante $1
+N`ice$kiv: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7h 8d]
+nastya2129 joins the table at seat #3 
+gaiggibeliin: calls $1
+N`ice$kiv: raises $4 to $5
+gaiggibeliin: calls $4
+*** FLOP *** [9c Ah 9s]
+gaiggibeliin: checks 
+N`ice$kiv: bets $6
+gaiggibeliin: raises $15.68 to $21.68
+N`ice$kiv: folds 
+Uncalled bet ($15.68) returned to gaiggibeliin
+gaiggibeliin collected $22.80 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $1.20 
+Board [9c Ah 9s]
+Seat 1: N`ice$kiv (button blind) folded on the Flop
+Seat 5: gaiggibeliin collected ($22.80)
+
+
+
+PokerStars Hand #196309342608:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/28 0:51:41 EET [2019/01/27 17:51:41 ET]
+Table 'Tabit II' 6-max Seat #5 is the button
+Seat 1: N`ice$kiv ($150 in chips) 
+Seat 3: nastya2129 ($150 in chips) 
+Seat 5: gaiggibeliin ($241.11 in chips) 
+N`ice$kiv: posts the ante $1
+nastya2129: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Tc Qh]
+N`ice$kiv: raises $5 to $6
+nastya2129: folds 
+gaiggibeliin: calls $5
+*** FLOP *** [8h Ts Qd]
+N`ice$kiv: checks 
+gaiggibeliin: bets $9.55
+N`ice$kiv: calls $9.55
+*** TURN *** [8h Ts Qd] [Qc]
+N`ice$kiv: checks 
+gaiggibeliin: bets $22.01
+N`ice$kiv: folds 
+Uncalled bet ($22.01) returned to gaiggibeliin
+gaiggibeliin collected $32.85 from pot
+*** SUMMARY ***
+Total pot $34.10 | Rake $1.25 
+Board [8h Ts Qd Qc]
+Seat 1: N`ice$kiv folded on the Turn
+Seat 3: nastya2129 folded before Flop (didn't bet)
+Seat 5: gaiggibeliin (button blind) collected ($32.85)
+
+
+
+PokerStars Hand #196309381252:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/28 0:52:34 EET [2019/01/27 17:52:34 ET]
+Table 'Tabit II' 6-max Seat #1 is the button
+Seat 1: N`ice$kiv ($150 in chips) 
+Seat 3: nastya2129 ($149 in chips) 
+Seat 5: gaiggibeliin ($257.41 in chips) 
+N`ice$kiv: posts the ante $1
+nastya2129: posts the ante $1
+gaiggibeliin: posts the ante $1
+N`ice$kiv: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6c 7c]
+nastya2129: folds 
+gaiggibeliin: raises $6 to $7
+N`ice$kiv: folds 
+Uncalled bet ($6) returned to gaiggibeliin
+gaiggibeliin collected $5 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 1: N`ice$kiv (button blind) folded before Flop
+Seat 3: nastya2129 folded before Flop (didn't bet)
+Seat 5: gaiggibeliin collected ($5)
+
+
+
+PokerStars Hand #196309393725:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/28 0:52:51 EET [2019/01/27 17:52:51 ET]
+Table 'Tabit II' 6-max Seat #3 is the button
+Seat 1: N`ice$kiv ($150 in chips) 
+Seat 3: nastya2129 ($148 in chips) 
+Seat 5: gaiggibeliin ($260.41 in chips) 
+N`ice$kiv: posts the ante $1
+nastya2129: posts the ante $1
+gaiggibeliin: posts the ante $1
+nastya2129: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7h 9h]
+gaiggibeliin: raises $5 to $6
+N`ice$kiv: calls $6
+nastya2129: calls $5
+*** FLOP *** [Td As 6c]
+gaiggibeliin: checks 
+N`ice$kiv: checks 
+nastya2129: bets $10
+gaiggibeliin: folds 
+N`ice$kiv: folds 
+Uncalled bet ($10) returned to nastya2129
+MrBarrett82 joins the table at seat #4 
+nastya2129 collected $19.95 from pot
+nastya2129: doesn't show hand 
+*** SUMMARY ***
+Total pot $21 | Rake $1.05 
+Board [Td As 6c]
+Seat 1: N`ice$kiv folded on the Flop
+Seat 3: nastya2129 (button blind) collected ($19.95)
+Seat 5: gaiggibeliin folded on the Flop
+
+
+
+PokerStars Hand #196309423981:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/28 0:53:32 EET [2019/01/27 17:53:32 ET]
+Table 'Tabit II' 6-max Seat #5 is the button
+Seat 1: N`ice$kiv ($150 in chips) 
+Seat 3: nastya2129 ($160.95 in chips) 
+Seat 4: MrBarrett82 ($150 in chips) 
+Seat 5: gaiggibeliin ($253.41 in chips) 
+N`ice$kiv: posts the ante $1
+nastya2129: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jc 7s]
+N`ice$kiv: folds 
+nastya2129: calls $1
+MrBarrett82: folds 
+gaiggibeliin: checks 
+*** FLOP *** [As Th Kh]
+nastya2129: checks 
+gaiggibeliin: checks 
+*** TURN *** [As Th Kh] [Ah]
+nastya2129: checks 
+gaiggibeliin: checks 
+*** RIVER *** [As Th Kh Ah] [9h]
+nastya2129: checks 
+gaiggibeliin: checks 
+*** SHOW DOWN ***
+nastya2129: shows [Td 9d] (two pair, Aces and Tens)
+gaiggibeliin: mucks hand 
+nastya2129 collected $5.70 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [As Th Kh Ah 9h]
+Seat 1: N`ice$kiv folded before Flop (didn't bet)
+Seat 3: nastya2129 showed [Td 9d] and won ($5.70) with two pair, Aces and Tens
+Seat 4: MrBarrett82 folded before Flop (didn't bet)
+Seat 5: gaiggibeliin (button blind) mucked [Jc 7s]
+
+
+
+PokerStars Hand #196309447096:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/28 0:54:03 EET [2019/01/27 17:54:03 ET]
+Table 'Tabit II' 6-max Seat #1 is the button
+Seat 1: N`ice$kiv ($150 in chips) 
+Seat 3: nastya2129 ($164.65 in chips) 
+Seat 4: MrBarrett82 ($149 in chips) 
+Seat 5: gaiggibeliin ($251.41 in chips) 
+N`ice$kiv: posts the ante $1
+nastya2129: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+N`ice$kiv: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kh 6s]
+nastya2129: raises $6 to $7
+MrBarrett82: folds 
+gaiggibeliin: folds 
+N`ice$kiv: calls $6
+*** FLOP *** [8d Td Ad]
+nastya2129: checks 
+N`ice$kiv: checks 
+*** TURN *** [8d Td Ad] [9h]
+nastya2129: checks 
+N`ice$kiv: bets $13.17
+nastya2129: calls $13.17
+*** RIVER *** [8d Td Ad 9h] [7h]
+nastya2129: checks 
+N`ice$kiv: bets $18
+nastya2129: folds 
+Uncalled bet ($18) returned to N`ice$kiv
+N`ice$kiv collected $43.09 from pot
+N`ice$kiv: doesn't show hand 
+*** SUMMARY ***
+Total pot $44.34 | Rake $1.25 
+Board [8d Td Ad 9h 7h]
+Seat 1: N`ice$kiv (button blind) collected ($43.09)
+Seat 3: nastya2129 folded on the River
+Seat 4: MrBarrett82 folded before Flop (didn't bet)
+Seat 5: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196309472892:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/28 0:54:39 EET [2019/01/27 17:54:39 ET]
+Table 'Tabit II' 6-max Seat #3 is the button
+Seat 1: N`ice$kiv ($171.92 in chips) 
+Seat 3: nastya2129 ($143.48 in chips) 
+Seat 4: MrBarrett82 ($148 in chips) 
+Seat 5: gaiggibeliin ($250.41 in chips) 
+N`ice$kiv: posts the ante $1
+nastya2129: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+nastya2129: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8c Jh]
+MrBarrett82: calls $1
+gaiggibeliin: folds 
+N`ice$kiv: calls $1
+nastya2129: checks 
+*** FLOP *** [Qd Td Kh]
+MrBarrett82: bets $4
+N`ice$kiv: calls $4
+nastya2129: folds 
+*** TURN *** [Qd Td Kh] [8s]
+MrBarrett82: checks 
+N`ice$kiv: checks 
+*** RIVER *** [Qd Td Kh 8s] [7h]
+MrBarrett82: checks 
+N`ice$kiv: checks 
+*** SHOW DOWN ***
+MrBarrett82: shows [6d Ad] (high card Ace)
+N`ice$kiv: shows [Jd Ts] (a pair of Tens)
+N`ice$kiv collected $14.25 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0.75 
+Board [Qd Td Kh 8s 7h]
+Seat 1: N`ice$kiv showed [Jd Ts] and won ($14.25) with a pair of Tens
+Seat 3: nastya2129 (button blind) folded on the Flop
+Seat 4: MrBarrett82 showed [6d Ad] and lost with high card Ace
+Seat 5: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196309499762:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/28 0:55:18 EET [2019/01/27 17:55:18 ET]
+Table 'Tabit II' 6-max Seat #4 is the button
+Seat 1: N`ice$kiv ($180.17 in chips) 
+Seat 3: nastya2129 ($141.48 in chips) 
+Seat 4: MrBarrett82 ($142 in chips) 
+Seat 5: gaiggibeliin ($249.41 in chips) 
+N`ice$kiv: posts the ante $1
+nastya2129: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9h 7c]
+gaiggibeliin: folds 
+N`ice$kiv: folds 
+nastya2129: calls $1
+MrBarrett82: raises $8 to $9
+nastya2129: calls $8
+*** FLOP *** [Ad 8s Qs]
+nastya2129: bets $10
+MrBarrett82: calls $10
+*** TURN *** [Ad 8s Qs] [Qh]
+nastya2129: checks 
+uWi$hIamDeaD joins the table at seat #2 
+uWi$hIamDeaD leaves the table
+MrBarrett82: checks 
+*** RIVER *** [Ad 8s Qs Qh] [6c]
+nastya2129: checks 
+MrBarrett82: bets $27
+nastya2129: folds 
+Uncalled bet ($27) returned to MrBarrett82
+MrBarrett82 collected $40.75 from pot
+MrBarrett82: doesn't show hand 
+*** SUMMARY ***
+Total pot $42 | Rake $1.25 
+Board [Ad 8s Qs Qh 6c]
+Seat 1: N`ice$kiv folded before Flop (didn't bet)
+Seat 3: nastya2129 folded on the River
+Seat 4: MrBarrett82 (button blind) collected ($40.75)
+Seat 5: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196309539684:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/28 0:56:33 EET [2019/01/27 17:56:33 ET]
+Table 'Tabit II' 6-max Seat #5 is the button
+Seat 1: N`ice$kiv ($179.17 in chips) 
+Seat 3: nastya2129 ($121.48 in chips) 
+Seat 4: MrBarrett82 ($162.75 in chips) 
+Seat 5: gaiggibeliin ($248.41 in chips) 
+N`ice$kiv: posts the ante $1
+nastya2129: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kc 8c]
+N`ice$kiv: folds 
+nastya2129: calls $1
+am091 joins the table at seat #2 
+MrBarrett82: raises $9 to $10
+gaiggibeliin: folds 
+nastya2129: calls $9
+*** FLOP *** [Qh Ts Kh]
+nastya2129: checks 
+MrBarrett82: bets $17
+nastya2129: folds 
+Uncalled bet ($17) returned to MrBarrett82
+MrBarrett82 collected $23.75 from pot
+MrBarrett82: doesn't show hand 
+*** SUMMARY ***
+Total pot $25 | Rake $1.25 
+Board [Qh Ts Kh]
+Seat 1: N`ice$kiv folded before Flop (didn't bet)
+Seat 3: nastya2129 folded on the Flop
+Seat 4: MrBarrett82 collected ($23.75)
+Seat 5: gaiggibeliin (button blind) folded before Flop
+
+
+
+PokerStars Hand #196309577379:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/28 0:57:25 EET [2019/01/27 17:57:25 ET]
+Table 'Tabit II' 6-max Seat #1 is the button
+Seat 1: N`ice$kiv ($178.17 in chips) 
+Seat 2: am091 ($150 in chips) 
+Seat 3: nastya2129 ($110.48 in chips) 
+Seat 4: MrBarrett82 ($175.50 in chips) 
+Seat 5: gaiggibeliin ($246.41 in chips) 
+N`ice$kiv: posts the ante $1
+am091: posts the ante $1
+nastya2129: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+N`ice$kiv: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7c 6h]
+am091: calls $1
+nastya2129: calls $1
+MrBarrett82: folds 
+gaiggibeliin: calls $1
+N`ice$kiv: checks 
+*** FLOP *** [9s 8s Ah]
+am091: checks 
+nastya2129: checks 
+gaiggibeliin: bets $6.41
+N`ice$kiv: calls $6.41
+am091: calls $6.41
+nastya2129: folds 
+*** TURN *** [9s 8s Ah] [Kd]
+am091: checks 
+gaiggibeliin: bets $26.82
+N`ice$kiv: folds 
+am091: calls $26.82
+*** RIVER *** [9s 8s Ah Kd] [Ad]
+am091: checks 
+DEDTAWIWASA joins the table at seat #6 
+gaiggibeliin: bets $39
+am091: folds 
+Uncalled bet ($39) returned to gaiggibeliin
+gaiggibeliin collected $79.12 from pot
+*** SUMMARY ***
+Total pot $81.87 | Rake $2.75 
+Board [9s 8s Ah Kd Ad]
+Seat 1: N`ice$kiv (button blind) folded on the Turn
+Seat 2: am091 folded on the River
+Seat 3: nastya2129 folded on the Flop
+Seat 4: MrBarrett82 folded before Flop (didn't bet)
+Seat 5: gaiggibeliin collected ($79.12)
+
+
+
+PokerStars Hand #196309613515:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/28 0:58:32 EET [2019/01/27 17:58:32 ET]
+Table 'Tabit II' 6-max Seat #2 is the button
+Seat 1: N`ice$kiv ($169.76 in chips) 
+Seat 2: am091 ($114.77 in chips) 
+Seat 3: nastya2129 ($108.48 in chips) 
+Seat 4: MrBarrett82 ($174.50 in chips) 
+Seat 5: gaiggibeliin ($290.30 in chips) 
+Seat 6: DEDTAWIWASA ($150 in chips) 
+N`ice$kiv: posts the ante $1
+am091: posts the ante $1
+nastya2129: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+am091: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6h 7s]
+nastya2129: folds 
+MrBarrett82: folds 
+gaiggibeliin: folds 
+DEDTAWIWASA: raises $8 to $9
+N`ice$kiv: calls $9
+am091: folds 
+*** FLOP *** [6s Jh 8h]
+DEDTAWIWASA: checks 
+N`ice$kiv: checks 
+*** TURN *** [6s Jh 8h] [8d]
+DEDTAWIWASA: bets $17.34
+N`ice$kiv: calls $17.34
+*** RIVER *** [6s Jh 8h 8d] [9d]
+DEDTAWIWASA: checks 
+N`ice$kiv: checks 
+*** SHOW DOWN ***
+DEDTAWIWASA: shows [Ks Jd] (two pair, Jacks and Eights)
+N`ice$kiv: mucks hand 
+DEDTAWIWASA collected $56.93 from pot
+*** SUMMARY ***
+Total pot $59.68 | Rake $2.75 
+Board [6s Jh 8h 8d 9d]
+Seat 1: N`ice$kiv mucked [Td Th]
+Seat 2: am091 (button blind) folded before Flop
+Seat 3: nastya2129 folded before Flop (didn't bet)
+Seat 4: MrBarrett82 folded before Flop (didn't bet)
+Seat 5: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: DEDTAWIWASA showed [Ks Jd] and won ($56.93) with two pair, Jacks and Eights
+
+
+
+PokerStars Hand #196309637485:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/28 0:59:17 EET [2019/01/27 17:59:17 ET]
+Table 'Tabit II' 6-max Seat #3 is the button
+Seat 1: N`ice$kiv ($150 in chips) 
+Seat 2: am091 ($112.77 in chips) 
+Seat 3: nastya2129 ($107.48 in chips) 
+Seat 4: MrBarrett82 ($173.50 in chips) 
+Seat 5: gaiggibeliin ($289.30 in chips) 
+Seat 6: DEDTAWIWASA ($179.59 in chips) 
+N`ice$kiv: posts the ante $1
+am091: posts the ante $1
+nastya2129: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+nastya2129: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6s As]
+MrBarrett82: calls $1
+gaiggibeliin: calls $1
+DEDTAWIWASA: folds 
+N`ice$kiv: folds 
+am091: calls $1
+nastya2129: checks 
+*** FLOP *** [Js Tc Qs]
+MrBarrett82: checks 
+gaiggibeliin: bets $6.37
+am091: folds 
+nastya2129: folds 
+MrBarrett82: folds 
+Uncalled bet ($6.37) returned to gaiggibeliin
+gaiggibeliin collected $9.50 from pot
+*** SUMMARY ***
+Total pot $10 | Rake $0.50 
+Board [Js Tc Qs]
+Seat 1: N`ice$kiv folded before Flop (didn't bet)
+Seat 2: am091 folded on the Flop
+Seat 3: nastya2129 (button blind) folded on the Flop
+Seat 4: MrBarrett82 folded on the Flop
+Seat 5: gaiggibeliin collected ($9.50)
+Seat 6: DEDTAWIWASA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196309652083:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/28 0:59:44 EET [2019/01/27 17:59:44 ET]
+Table 'Tabit II' 6-max Seat #4 is the button
+Seat 1: N`ice$kiv ($150 in chips) 
+Seat 2: am091 ($110.77 in chips) 
+Seat 3: nastya2129 ($105.48 in chips) 
+Seat 4: MrBarrett82 ($171.50 in chips) 
+Seat 5: gaiggibeliin ($296.80 in chips) 
+Seat 6: DEDTAWIWASA ($178.59 in chips) 
+N`ice$kiv: posts the ante $1
+am091: posts the ante $1
+nastya2129: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6h Th]
+gaiggibeliin: folds 
+DEDTAWIWASA: folds 
+N`ice$kiv: folds 
+am091: raises $2 to $3
+nastya2129: folds 
+MrBarrett82: calls $2
+*** FLOP *** [9s Kd 9c]
+am091: bets $6
+MrBarrett82: calls $6
+*** TURN *** [9s Kd 9c] [7d]
+am091: checks 
+MrBarrett82: checks 
+*** RIVER *** [9s Kd 9c 7d] [Ad]
+am091: bets $11
+MrBarrett82: calls $11
+*** SHOW DOWN ***
+am091: shows [Ah Qc] (two pair, Aces and Nines)
+MrBarrett82: mucks hand 
+am091 collected $43.70 from pot
+*** SUMMARY ***
+Total pot $46 | Rake $2.30 
+Board [9s Kd 9c 7d Ad]
+Seat 1: N`ice$kiv folded before Flop (didn't bet)
+Seat 2: am091 showed [Ah Qc] and won ($43.70) with two pair, Aces and Nines
+Seat 3: nastya2129 folded before Flop (didn't bet)
+Seat 4: MrBarrett82 (button blind) mucked [6c Kh]
+Seat 5: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: DEDTAWIWASA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196309688371:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/28 1:00:50 EET [2019/01/27 18:00:50 ET]
+Table 'Tabit II' 6-max Seat #5 is the button
+Seat 1: N`ice$kiv ($150 in chips) 
+Seat 2: am091 ($133.47 in chips) 
+Seat 3: nastya2129 ($104.48 in chips) 
+Seat 4: MrBarrett82 ($150.50 in chips) 
+Seat 5: gaiggibeliin ($295.80 in chips) 
+Seat 6: DEDTAWIWASA ($177.59 in chips) 
+N`ice$kiv: posts the ante $1
+am091: posts the ante $1
+nastya2129: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Js Jd]
+DEDTAWIWASA: folds 
+N`ice$kiv: folds 
+am091: calls $1
+nastya2129: raises $9 to $10
+MrBarrett82: folds 
+gaiggibeliin: calls $9
+am091: calls $9
+*** FLOP *** [Qd 9d As]
+am091: checks 
+nastya2129: bets $34
+gaiggibeliin: folds 
+am091: folds 
+Uncalled bet ($34) returned to nastya2129
+nastya2129 collected $34.20 from pot
+nastya2129: doesn't show hand 
+*** SUMMARY ***
+Total pot $36 | Rake $1.80 
+Board [Qd 9d As]
+Seat 1: N`ice$kiv folded before Flop (didn't bet)
+Seat 2: am091 folded on the Flop
+Seat 3: nastya2129 collected ($34.20)
+Seat 4: MrBarrett82 folded before Flop (didn't bet)
+Seat 5: gaiggibeliin (button blind) folded on the Flop
+Seat 6: DEDTAWIWASA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196309713608:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/28 1:01:31 EET [2019/01/27 18:01:31 ET]
+Table 'Tabit II' 6-max Seat #6 is the button
+Seat 1: N`ice$kiv ($150 in chips) 
+Seat 2: am091 ($122.47 in chips) 
+Seat 3: nastya2129 ($127.68 in chips) 
+Seat 4: MrBarrett82 ($149.50 in chips) 
+Seat 5: gaiggibeliin ($284.80 in chips) 
+Seat 6: DEDTAWIWASA ($176.59 in chips) 
+N`ice$kiv: posts the ante $1
+am091: posts the ante $1
+nastya2129: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+DEDTAWIWASA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7d As]
+N`ice$kiv: folds 
+am091: raises $2 to $3
+nastya2129: calls $3
+MrBarrett82: raises $145.50 to $148.50 and is all-in
+gaiggibeliin: folds 
+DEDTAWIWASA: folds 
+am091: folds 
+nastya2129: folds 
+Uncalled bet ($145.50) returned to MrBarrett82
+MrBarrett82 collected $16 from pot
+MrBarrett82: doesn't show hand 
+*** SUMMARY ***
+Total pot $16 | Rake $0 
+Seat 1: N`ice$kiv folded before Flop (didn't bet)
+Seat 2: am091 folded before Flop
+Seat 3: nastya2129 folded before Flop
+Seat 4: MrBarrett82 collected ($16)
+Seat 5: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: DEDTAWIWASA (button blind) folded before Flop
+
+
+
+PokerStars Hand #196309736179:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/28 1:02:05 EET [2019/01/27 18:02:05 ET]
+Table 'Tabit II' 6-max Seat #1 is the button
+Seat 1: N`ice$kiv ($150 in chips) 
+Seat 2: am091 ($118.47 in chips) 
+Seat 3: nastya2129 ($123.68 in chips) 
+Seat 4: MrBarrett82 ($161.50 in chips) 
+Seat 5: gaiggibeliin ($283.80 in chips) 
+Seat 6: DEDTAWIWASA ($174.59 in chips) 
+N`ice$kiv: posts the ante $1
+am091: posts the ante $1
+nastya2129: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+N`ice$kiv: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6h Kc]
+am091: folds 
+nastya2129: raises $2 to $3
+MrBarrett82: raises $12 to $15
+gaiggibeliin: folds 
+DEDTAWIWASA: folds 
+N`ice$kiv: folds 
+nastya2129: calls $12
+*** FLOP *** [Qs Tc Kh]
+nastya2129: checks 
+MrBarrett82: checks 
+*** TURN *** [Qs Tc Kh] [7d]
+nastya2129: bets $18
+MrBarrett82: calls $18
+*** RIVER *** [Qs Tc Kh 7d] [Jh]
+nastya2129: checks 
+MrBarrett82: bets $28
+nastya2129: folds 
+Uncalled bet ($28) returned to MrBarrett82
+MrBarrett82 collected $70.25 from pot
+MrBarrett82: doesn't show hand 
+*** SUMMARY ***
+Total pot $73 | Rake $2.75 
+Board [Qs Tc Kh 7d Jh]
+Seat 1: N`ice$kiv (button blind) folded before Flop
+Seat 2: am091 folded before Flop (didn't bet)
+Seat 3: nastya2129 folded on the River
+Seat 4: MrBarrett82 collected ($70.25)
+Seat 5: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: DEDTAWIWASA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196309790123:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/28 1:03:21 EET [2019/01/27 18:03:21 ET]
+Table 'Tabit II' 6-max Seat #2 is the button
+Seat 1: N`ice$kiv ($150 in chips) 
+Seat 2: am091 ($117.47 in chips) 
+Seat 3: nastya2129 ($89.68 in chips) 
+Seat 4: MrBarrett82 ($197.75 in chips) 
+Seat 5: gaiggibeliin ($282.80 in chips) 
+Seat 6: DEDTAWIWASA ($173.59 in chips) 
+N`ice$kiv: posts the ante $1
+am091: posts the ante $1
+nastya2129: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+am091: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jh 9s]
+nastya2129: calls $1
+MrBarrett82: folds 
+gaiggibeliin: folds 
+DEDTAWIWASA: folds 
+N`ice$kiv: raises $9 to $10
+am091: calls $9
+nastya2129: calls $9
+*** FLOP *** [Td 6h Kh]
+nastya2129: checks 
+N`ice$kiv: bets $26.33
+am091: raises $43.67 to $70
+nastya2129: folds 
+N`ice$kiv: raises $69 to $139 and is all-in
+am091: calls $36.47 and is all-in
+Uncalled bet ($32.53) returned to N`ice$kiv
+*** TURN *** [Td 6h Kh] [Ac]
+*** RIVER *** [Td 6h Kh Ac] [6c]
+*** SHOW DOWN ***
+N`ice$kiv: shows [9h 8h] (a pair of Sixes)
+am091: shows [Ad Kd] (two pair, Aces and Kings)
+am091 collected $246.19 from pot
+*** SUMMARY ***
+Total pot $248.94 | Rake $2.75 
+Board [Td 6h Kh Ac 6c]
+Seat 1: N`ice$kiv showed [9h 8h] and lost with a pair of Sixes
+Seat 2: am091 (button blind) showed [Ad Kd] and won ($246.19) with two pair, Aces and Kings
+Seat 3: nastya2129 folded on the Flop
+Seat 4: MrBarrett82 folded before Flop (didn't bet)
+Seat 5: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: DEDTAWIWASA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196309820182:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/28 1:04:03 EET [2019/01/27 18:04:03 ET]
+Table 'Tabit II' 6-max Seat #3 is the button
+Seat 1: N`ice$kiv ($150 in chips) 
+Seat 2: am091 ($246.19 in chips) 
+Seat 3: nastya2129 ($78.68 in chips) 
+Seat 4: MrBarrett82 ($196.75 in chips) 
+Seat 5: gaiggibeliin ($281.80 in chips) 
+Seat 6: DEDTAWIWASA ($172.59 in chips) 
+N`ice$kiv: posts the ante $1
+am091: posts the ante $1
+nastya2129: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+nastya2129: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8s Ks]
+MrBarrett82: folds 
+gaiggibeliin: folds 
+DEDTAWIWASA: calls $1
+N`ice$kiv: calls $1
+am091: folds 
+nastya2129: raises $9 to $10
+DEDTAWIWASA: calls $9
+N`ice$kiv: folds 
+*** FLOP *** [Ac 7s 9d]
+DEDTAWIWASA: checks 
+nastya2129: checks 
+*** TURN *** [Ac 7s 9d] [9s]
+DEDTAWIWASA: checks 
+nastya2129: checks 
+*** RIVER *** [Ac 7s 9d 9s] [6s]
+DEDTAWIWASA: bets $20
+nastya2129: folds 
+Uncalled bet ($20) returned to DEDTAWIWASA
+DEDTAWIWASA collected $25.65 from pot
+DEDTAWIWASA: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $1.35 
+Board [Ac 7s 9d 9s 6s]
+Seat 1: N`ice$kiv folded before Flop
+Seat 2: am091 folded before Flop (didn't bet)
+Seat 3: nastya2129 (button blind) folded on the River
+Seat 4: MrBarrett82 folded before Flop (didn't bet)
+Seat 5: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: DEDTAWIWASA collected ($25.65)
+
+
+
+PokerStars Hand #196309849269:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/28 1:04:44 EET [2019/01/27 18:04:44 ET]
+Table 'Tabit II' 6-max Seat #4 is the button
+Seat 1: N`ice$kiv ($150 in chips) 
+Seat 2: am091 ($245.19 in chips) 
+Seat 3: nastya2129 ($67.68 in chips) 
+Seat 4: MrBarrett82 ($195.75 in chips) 
+Seat 5: gaiggibeliin ($280.80 in chips) 
+Seat 6: DEDTAWIWASA ($187.24 in chips) 
+N`ice$kiv: posts the ante $1
+am091: posts the ante $1
+nastya2129: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qs 9s]
+gaiggibeliin: calls $1
+DEDTAWIWASA: folds 
+N`ice$kiv: folds 
+am091: raises $2 to $3
+nastya2129: calls $3
+MrBarrett82: calls $2
+gaiggibeliin: calls $2
+*** FLOP *** [8s As Js]
+gaiggibeliin: checks 
+am091: checks 
+nastya2129: checks 
+MrBarrett82: checks 
+*** TURN *** [8s As Js] [7h]
+gaiggibeliin: bets $11.46
+am091: folds 
+nastya2129: folds 
+MrBarrett82: folds 
+Uncalled bet ($11.46) returned to gaiggibeliin
+gaiggibeliin collected $17.10 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.90 
+Board [8s As Js 7h]
+Seat 1: N`ice$kiv folded before Flop (didn't bet)
+Seat 2: am091 folded on the Turn
+Seat 3: nastya2129 folded on the Turn
+Seat 4: MrBarrett82 (button blind) folded on the Turn
+Seat 5: gaiggibeliin collected ($17.10)
+Seat 6: DEDTAWIWASA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196309926469:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/28 1:06:32 EET [2019/01/27 18:06:32 ET]
+Table 'Tabit II' 6-max Seat #5 is the button
+Seat 1: N`ice$kiv ($150 in chips) 
+Seat 2: am091 ($241.19 in chips) 
+Seat 3: nastya2129 ($63.68 in chips) 
+Seat 4: MrBarrett82 ($191.75 in chips) 
+Seat 5: gaiggibeliin ($293.90 in chips) 
+Seat 6: DEDTAWIWASA ($186.24 in chips) 
+N`ice$kiv: posts the ante $1
+am091: posts the ante $1
+nastya2129: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ac Ad]
+DEDTAWIWASA: folds 
+N`ice$kiv: folds 
+am091: calls $1
+nastya2129: folds 
+MrBarrett82: folds 
+gaiggibeliin: raises $9 to $10
+am091: calls $9
+*** FLOP *** [Js Tc 6h]
+am091: checks 
+gaiggibeliin: bets $16.55
+am091: folds 
+Uncalled bet ($16.55) returned to gaiggibeliin
+gaiggibeliin collected $24.70 from pot
+*** SUMMARY ***
+Total pot $26 | Rake $1.30 
+Board [Js Tc 6h]
+Seat 1: N`ice$kiv folded before Flop (didn't bet)
+Seat 2: am091 folded on the Flop
+Seat 3: nastya2129 folded before Flop (didn't bet)
+Seat 4: MrBarrett82 folded before Flop (didn't bet)
+Seat 5: gaiggibeliin (button blind) collected ($24.70)
+Seat 6: DEDTAWIWASA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196309963705:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/28 1:07:24 EET [2019/01/27 18:07:24 ET]
+Table 'Tabit II' 6-max Seat #6 is the button
+Seat 1: N`ice$kiv ($150 in chips) 
+Seat 2: am091 ($230.19 in chips) 
+Seat 3: nastya2129 ($62.68 in chips) 
+Seat 4: MrBarrett82 ($190.75 in chips) 
+Seat 5: gaiggibeliin ($307.60 in chips) 
+Seat 6: DEDTAWIWASA ($185.24 in chips) 
+N`ice$kiv: posts the ante $1
+am091: posts the ante $1
+nastya2129: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+DEDTAWIWASA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7h 6h]
+N`ice$kiv: folds 
+am091: folds 
+nastya2129: raises $2 to $3
+MrBarrett82: folds 
+gaiggibeliin: folds 
+DEDTAWIWASA: calls $2
+*** FLOP *** [Qs 6c 6d]
+nastya2129: checks 
+DEDTAWIWASA: bets $8
+nastya2129: folds 
+Uncalled bet ($8) returned to DEDTAWIWASA
+DEDTAWIWASA collected $11.40 from pot
+DEDTAWIWASA: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0.60 
+Board [Qs 6c 6d]
+Seat 1: N`ice$kiv folded before Flop (didn't bet)
+Seat 2: am091 folded before Flop (didn't bet)
+Seat 3: nastya2129 folded on the Flop
+Seat 4: MrBarrett82 folded before Flop (didn't bet)
+Seat 5: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: DEDTAWIWASA (button blind) collected ($11.40)
+
+
+
+PokerStars Hand #196309993155:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/28 1:08:06 EET [2019/01/27 18:08:06 ET]
+Table 'Tabit II' 6-max Seat #1 is the button
+Seat 1: N`ice$kiv ($150 in chips) 
+Seat 2: am091 ($229.19 in chips) 
+Seat 3: nastya2129 ($58.68 in chips) 
+Seat 4: MrBarrett82 ($189.75 in chips) 
+Seat 5: gaiggibeliin ($306.60 in chips) 
+Seat 6: DEDTAWIWASA ($192.64 in chips) 
+N`ice$kiv: posts the ante $1
+am091: posts the ante $1
+nastya2129: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+N`ice$kiv: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qc Kh]
+am091: folds 
+nastya2129: calls $1
+MrBarrett82: calls $1
+gaiggibeliin: raises $11 to $12
+DEDTAWIWASA: folds 
+N`ice$kiv: folds 
+nastya2129: folds 
+MrBarrett82: calls $11
+*** FLOP *** [8h 6h 7d]
+MrBarrett82: bets $23
+gaiggibeliin: folds 
+Uncalled bet ($23) returned to MrBarrett82
+MrBarrett82 collected $30.40 from pot
+MrBarrett82: doesn't show hand 
+*** SUMMARY ***
+Total pot $32 | Rake $1.60 
+Board [8h 6h 7d]
+Seat 1: N`ice$kiv (button blind) folded before Flop
+Seat 2: am091 folded before Flop (didn't bet)
+Seat 3: nastya2129 folded before Flop
+Seat 4: MrBarrett82 collected ($30.40)
+Seat 5: gaiggibeliin folded on the Flop
+Seat 6: DEDTAWIWASA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196310037276:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/28 1:09:10 EET [2019/01/27 18:09:10 ET]
+Table 'Tabit II' 6-max Seat #2 is the button
+Seat 1: N`ice$kiv ($150 in chips) 
+Seat 2: am091 ($228.19 in chips) 
+Seat 3: nastya2129 ($56.68 in chips) 
+Seat 4: MrBarrett82 ($207.15 in chips) 
+Seat 5: gaiggibeliin ($293.60 in chips) 
+Seat 6: DEDTAWIWASA ($191.64 in chips) 
+N`ice$kiv: posts the ante $1
+am091: posts the ante $1
+nastya2129: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+am091: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qh As]
+nastya2129: calls $1
+MrBarrett82: folds 
+gaiggibeliin: raises $11 to $12
+DEDTAWIWASA: calls $12
+N`ice$kiv: folds 
+am091: folds 
+nastya2129: calls $11
+*** FLOP *** [Jc 6h Kc]
+nastya2129: checks 
+gaiggibeliin: checks 
+DEDTAWIWASA: bets $29.82
+nastya2129: folds 
+gaiggibeliin: folds 
+Uncalled bet ($29.82) returned to DEDTAWIWASA
+DEDTAWIWASA collected $40.85 from pot
+DEDTAWIWASA: doesn't show hand 
+*** SUMMARY ***
+Total pot $43 | Rake $2.15 
+Board [Jc 6h Kc]
+Seat 1: N`ice$kiv folded before Flop (didn't bet)
+Seat 2: am091 (button blind) folded before Flop
+Seat 3: nastya2129 folded on the Flop
+Seat 4: MrBarrett82 folded before Flop (didn't bet)
+Seat 5: gaiggibeliin folded on the Flop
+Seat 6: DEDTAWIWASA collected ($40.85)
+
+
+
+PokerStars Hand #196310063749:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/28 1:09:48 EET [2019/01/27 18:09:48 ET]
+Table 'Tabit II' 6-max Seat #3 is the button
+Seat 1: N`ice$kiv ($150 in chips) 
+Seat 2: am091 ($226.19 in chips) 
+Seat 3: nastya2129 ($43.68 in chips) 
+Seat 4: MrBarrett82 ($206.15 in chips) 
+Seat 5: gaiggibeliin ($280.60 in chips) 
+Seat 6: DEDTAWIWASA ($219.49 in chips) 
+N`ice$kiv: posts the ante $1
+am091: posts the ante $1
+nastya2129: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+nastya2129: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Tc 9s]
+MrBarrett82: calls $1
+gaiggibeliin: calls $1
+DEDTAWIWASA: folds 
+N`ice$kiv: folds 
+am091: calls $1
+nastya2129: checks 
+*** FLOP *** [Qs 6h 8c]
+MrBarrett82: checks 
+gaiggibeliin: bets $6.37
+am091: folds 
+nastya2129: calls $6.37
+MrBarrett82: calls $6.37
+*** TURN *** [Qs 6h 8c] [8s]
+MrBarrett82: checks 
+gaiggibeliin: bets $9.12
+nastya2129: calls $9.12
+MrBarrett82: folds 
+*** RIVER *** [Qs 6h 8c 8s] [Th]
+gaiggibeliin: checks 
+nastya2129: checks 
+*** SHOW DOWN ***
+gaiggibeliin: shows [Tc 9s] (two pair, Tens and Eights)
+nastya2129: shows [Ts Qh] (two pair, Queens and Tens)
+nastya2129 collected $44.98 from pot
+*** SUMMARY ***
+Total pot $47.35 | Rake $2.37 
+Board [Qs 6h 8c 8s Th]
+Seat 1: N`ice$kiv folded before Flop (didn't bet)
+Seat 2: am091 folded on the Flop
+Seat 3: nastya2129 (button blind) showed [Ts Qh] and won ($44.98) with two pair, Queens and Tens
+Seat 4: MrBarrett82 folded on the Turn
+Seat 5: gaiggibeliin showed [Tc 9s] and lost with two pair, Tens and Eights
+Seat 6: DEDTAWIWASA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196310114998:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/28 1:11:01 EET [2019/01/27 18:11:01 ET]
+Table 'Tabit II' 6-max Seat #4 is the button
+Seat 1: N`ice$kiv ($150 in chips) 
+Seat 2: am091 ($224.19 in chips) 
+Seat 3: nastya2129 ($71.17 in chips) 
+Seat 4: MrBarrett82 ($197.78 in chips) 
+Seat 5: gaiggibeliin ($263.11 in chips) 
+Seat 6: DEDTAWIWASA ($218.49 in chips) 
+N`ice$kiv: posts the ante $1
+am091: posts the ante $1
+nastya2129: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kh Ts]
+gaiggibeliin: folds 
+DEDTAWIWASA: folds 
+N`ice$kiv: folds 
+am091: raises $2 to $3
+nastya2129: calls $3
+MrBarrett82: calls $2
+*** FLOP *** [8h Th Jc]
+am091: checks 
+nastya2129: checks 
+MrBarrett82: checks 
+*** TURN *** [8h Th Jc] [6s]
+am091: checks 
+nastya2129: checks 
+MrBarrett82: checks 
+*** RIVER *** [8h Th Jc 6s] [Js]
+am091: checks 
+nastya2129: checks 
+MrBarrett82: checks 
+*** SHOW DOWN ***
+am091: shows [Ks As] (a pair of Jacks)
+nastya2129: shows [7c 7h] (two pair, Jacks and Sevens)
+MrBarrett82: shows [Qs 8s] (two pair, Jacks and Eights)
+MrBarrett82 collected $14.25 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0.75 
+Board [8h Th Jc 6s Js]
+Seat 1: N`ice$kiv folded before Flop (didn't bet)
+Seat 2: am091 showed [Ks As] and lost with a pair of Jacks
+Seat 3: nastya2129 showed [7c 7h] and lost with two pair, Jacks and Sevens
+Seat 4: MrBarrett82 (button blind) showed [Qs 8s] and won ($14.25) with two pair, Jacks and Eights
+Seat 5: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: DEDTAWIWASA folded before Flop (didn't bet)
+
+
+

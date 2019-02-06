@@ -1,0 +1,471 @@
+﻿PokerStars Hand #196222056666:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 2:05:01 EET [2019/01/25 19:05:01 ET]
+Table 'Amneris' 6-max Seat #3 is the button
+Seat 2: sss457 ($303.10 in chips) 
+Seat 3: madjic1 ($283.64 in chips) 
+Seat 5: gaiggibeliin ($300 in chips) 
+Seat 6: uhnovich168 ($448.30 in chips) 
+sss457: posts the ante $2
+madjic1: posts the ante $2
+gaiggibeliin: posts the ante $2
+uhnovich168: posts the ante $2
+madjic1: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Tc Kd]
+gaiggibeliin: folds 
+uhnovich168: calls $2
+sss457: folds 
+madjic1: checks 
+*** FLOP *** [Ac Ad 6s]
+uhnovich168: bets $2
+madjic1: calls $2
+*** TURN *** [Ac Ad 6s] [Td]
+uhnovich168: bets $2
+madjic1: calls $2
+*** RIVER *** [Ac Ad 6s Td] [Jh]
+uhnovich168: checks 
+madjic1: checks 
+*** SHOW DOWN ***
+uhnovich168: shows [As 6d] (a full house, Aces full of Sixes)
+madjic1: mucks hand 
+uhnovich168 collected $19 from pot
+*** SUMMARY ***
+Total pot $20 | Rake $1 
+Board [Ac Ad 6s Td Jh]
+Seat 2: sss457 folded before Flop (didn't bet)
+Seat 3: madjic1 (button blind) mucked [6h 8s]
+Seat 5: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: uhnovich168 showed [As 6d] and won ($19) with a full house, Aces full of Sixes
+
+
+
+PokerStars Hand #196222108341:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 2:06:29 EET [2019/01/25 19:06:29 ET]
+Table 'Amneris' 6-max Seat #5 is the button
+Seat 2: sss457 ($301.10 in chips) 
+Seat 5: gaiggibeliin ($298 in chips) 
+Seat 6: uhnovich168 ($459.30 in chips) 
+sss457: posts the ante $2
+gaiggibeliin: posts the ante $2
+uhnovich168: posts the ante $2
+gaiggibeliin: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Th Kc]
+uhnovich168: folds 
+sss457: folds 
+Uncalled bet ($2) returned to gaiggibeliin
+gaiggibeliin collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: sss457 folded before Flop (didn't bet)
+Seat 5: gaiggibeliin (button blind) collected ($6)
+Seat 6: uhnovich168 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196222112418:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 2:06:36 EET [2019/01/25 19:06:36 ET]
+Table 'Amneris' 6-max Seat #6 is the button
+Seat 2: sss457 ($299.10 in chips) 
+Seat 3: madjic1 ($275.64 in chips) 
+Seat 5: gaiggibeliin ($302 in chips) 
+Seat 6: uhnovich168 ($457.30 in chips) 
+sss457: posts the ante $2
+madjic1: posts the ante $2
+gaiggibeliin: posts the ante $2
+uhnovich168: posts the ante $2
+uhnovich168: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kc Ts]
+sss457: raises $12 to $14
+madjic1: folds 
+gaiggibeliin: folds 
+uhnovich168: folds 
+Uncalled bet ($12) returned to sss457
+sss457 collected $12 from pot
+sss457: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 2: sss457 collected ($12)
+Seat 3: madjic1 folded before Flop (didn't bet)
+Seat 5: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: uhnovich168 (button blind) folded before Flop
+
+
+
+PokerStars Hand #196222131044:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 2:07:08 EET [2019/01/25 19:07:08 ET]
+Table 'Amneris' 6-max Seat #2 is the button
+Seat 2: sss457 ($307.10 in chips) 
+Seat 3: madjic1 ($273.64 in chips) 
+Seat 5: gaiggibeliin ($300 in chips) 
+Seat 6: uhnovich168 ($453.30 in chips) 
+sss457: posts the ante $2
+madjic1: posts the ante $2
+gaiggibeliin: posts the ante $2
+uhnovich168: posts the ante $2
+sss457: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Td Js]
+madjic1: folds 
+gaiggibeliin: raises $12 to $14
+uhnovich168: folds 
+sss457: calls $12
+*** FLOP *** [9d 9c As]
+gaiggibeliin: bets $11.39
+sss457: calls $11.39
+*** TURN *** [9d 9c As] [8c]
+gaiggibeliin: bets $40
+sss457: calls $40
+*** RIVER *** [9d 9c As 8c] [9h]
+gaiggibeliin: checks 
+sss457: bets $137.28
+gaiggibeliin: folds 
+Uncalled bet ($137.28) returned to sss457
+sss457 collected $137.28 from pot
+sss457: doesn't show hand 
+*** SUMMARY ***
+Total pot $138.78 | Rake $1.50 
+Board [9d 9c As 8c 9h]
+Seat 2: sss457 (button blind) collected ($137.28)
+Seat 3: madjic1 folded before Flop (didn't bet)
+Seat 5: gaiggibeliin folded on the River
+Seat 6: uhnovich168 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196222177266:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 2:08:27 EET [2019/01/25 19:08:27 ET]
+Table 'Amneris' 6-max Seat #3 is the button
+Seat 2: sss457 ($376.99 in chips) 
+Seat 3: madjic1 ($271.64 in chips) 
+Seat 5: gaiggibeliin ($232.61 in chips) 
+Seat 6: uhnovich168 ($451.30 in chips) 
+sss457: posts the ante $2
+madjic1: posts the ante $2
+gaiggibeliin: posts the ante $2
+uhnovich168: posts the ante $2
+madjic1: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7s Js]
+gaiggibeliin: folds 
+uhnovich168: calls $2
+sss457: calls $2
+madjic1: checks 
+*** FLOP *** [Qs Qd Kh]
+uhnovich168: checks 
+sss457: bets $6.65
+madjic1: folds 
+uhnovich168: folds 
+Uncalled bet ($6.65) returned to sss457
+sss457 collected $13.30 from pot
+sss457: doesn't show hand 
+*** SUMMARY ***
+Total pot $14 | Rake $0.70 
+Board [Qs Qd Kh]
+Seat 2: sss457 collected ($13.30)
+Seat 3: madjic1 (button blind) folded on the Flop
+Seat 5: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: uhnovich168 folded on the Flop
+
+
+
+PokerStars Hand #196222210292:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 2:09:25 EET [2019/01/25 19:09:25 ET]
+Table 'Amneris' 6-max Seat #5 is the button
+Seat 2: sss457 ($386.29 in chips) 
+Seat 5: gaiggibeliin ($230.61 in chips) 
+Seat 6: uhnovich168 ($447.30 in chips) 
+sss457: posts the ante $2
+gaiggibeliin: posts the ante $2
+uhnovich168: posts the ante $2
+gaiggibeliin: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qd 7c]
+madjic1 leaves the table
+uhnovich168: folds 
+sss457: folds 
+Uncalled bet ($2) returned to gaiggibeliin
+gaiggibeliin collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: sss457 folded before Flop (didn't bet)
+Seat 5: gaiggibeliin (button blind) collected ($6)
+Seat 6: uhnovich168 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196222216964:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 2:09:36 EET [2019/01/25 19:09:36 ET]
+Table 'Amneris' 6-max Seat #6 is the button
+Seat 2: sss457 ($384.29 in chips) 
+Seat 5: gaiggibeliin ($234.61 in chips) 
+Seat 6: uhnovich168 ($445.30 in chips) 
+sss457: posts the ante $2
+gaiggibeliin: posts the ante $2
+uhnovich168: posts the ante $2
+uhnovich168: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [As Jd]
+sss457: folds 
+gaiggibeliin: raises $10 to $12
+uhnovich168: folds 
+Uncalled bet ($10) returned to gaiggibeliin
+gaiggibeliin collected $10 from pot
+*** SUMMARY ***
+Total pot $10 | Rake $0 
+Seat 2: sss457 folded before Flop (didn't bet)
+Seat 5: gaiggibeliin collected ($10)
+Seat 6: uhnovich168 (button blind) folded before Flop
+
+
+
+PokerStars Hand #196222229793:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 2:09:58 EET [2019/01/25 19:09:58 ET]
+Table 'Amneris' 6-max Seat #2 is the button
+Seat 2: sss457 ($382.29 in chips) 
+Seat 5: gaiggibeliin ($240.61 in chips) 
+Seat 6: uhnovich168 ($441.30 in chips) 
+sss457: posts the ante $2
+gaiggibeliin: posts the ante $2
+uhnovich168: posts the ante $2
+sss457: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ts 6c]
+gaiggibeliin: folds 
+uhnovich168: folds 
+Uncalled bet ($2) returned to sss457
+uhnovich168 leaves the table
+sss457 collected $6 from pot
+sss457: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: sss457 (button blind) collected ($6)
+Seat 5: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: uhnovich168 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196222239861:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 2:10:16 EET [2019/01/25 19:10:16 ET]
+Table 'Amneris' 6-max Seat #5 is the button
+Seat 2: sss457 ($386.29 in chips) 
+Seat 5: gaiggibeliin ($238.61 in chips) 
+sss457: posts the ante $2
+gaiggibeliin: posts the ante $2
+gaiggibeliin: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kd 9c]
+sss457: folds 
+Uncalled bet ($2) returned to gaiggibeliin
+gaiggibeliin collected $4 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 2: sss457 folded before Flop (didn't bet)
+Seat 5: gaiggibeliin (button blind) collected ($4)
+
+
+
+PokerStars Hand #196222244480:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 2:10:24 EET [2019/01/25 19:10:24 ET]
+Table 'Amneris' 6-max Seat #2 is the button
+Seat 2: sss457 ($384.29 in chips) 
+Seat 5: gaiggibeliin ($240.61 in chips) 
+sss457: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [As 8s]
+gaiggibeliin: calls $2
+sss457: raises $8 to $10
+gaiggibeliin: calls $8
+*** FLOP *** [9d Ts 6c]
+gaiggibeliin: checks 
+sss457: checks 
+*** TURN *** [9d Ts 6c] [Jc]
+gaiggibeliin: bets $15.28
+sss457: folds 
+Uncalled bet ($15.28) returned to gaiggibeliin
+gaiggibeliin collected $22.80 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $1.20 
+Board [9d Ts 6c Jc]
+Seat 2: sss457 (button blind) folded on the Turn
+Seat 5: gaiggibeliin collected ($22.80)
+
+
+
+PokerStars Hand #196222274706:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 2:11:17 EET [2019/01/25 19:11:17 ET]
+Table 'Amneris' 6-max Seat #5 is the button
+Seat 2: sss457 ($372.29 in chips) 
+Seat 5: gaiggibeliin ($251.41 in chips) 
+sss457: posts the ante $2
+gaiggibeliin: posts the ante $2
+gaiggibeliin: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7c Jh]
+sss457: folds 
+Uncalled bet ($2) returned to gaiggibeliin
+gaiggibeliin collected $4 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 2: sss457 folded before Flop (didn't bet)
+Seat 5: gaiggibeliin (button blind) collected ($4)
+
+
+
+PokerStars Hand #196222279176:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 2:11:25 EET [2019/01/25 19:11:25 ET]
+Table 'Amneris' 6-max Seat #2 is the button
+Seat 2: sss457 ($370.29 in chips) 
+Seat 5: gaiggibeliin ($253.41 in chips) 
+sss457: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Td Qh]
+gaiggibeliin: calls $2
+sss457: checks 
+*** FLOP *** [Jc 7c Tc]
+gaiggibeliin: checks 
+sss457: bets $3.80
+gaiggibeliin: folds 
+Uncalled bet ($3.80) returned to sss457
+sss457 collected $7.60 from pot
+sss457: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [Jc 7c Tc]
+Seat 2: sss457 (button blind) collected ($7.60)
+Seat 5: gaiggibeliin folded on the Flop
+
+
+
+PokerStars Hand #196222303779:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 2:12:09 EET [2019/01/25 19:12:09 ET]
+Table 'Amneris' 6-max Seat #5 is the button
+Seat 2: sss457 ($373.89 in chips) 
+Seat 5: gaiggibeliin ($249.41 in chips) 
+sss457: posts the ante $2
+gaiggibeliin: posts the ante $2
+gaiggibeliin: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Td Ac]
+sss457: raises $8 to $10
+gaiggibeliin: calls $8
+*** FLOP *** [8s Ts 6c]
+sss457: checks 
+gaiggibeliin: checks 
+*** TURN *** [8s Ts 6c] [6s]
+sss457: checks 
+gaiggibeliin: bets $15.28
+sss457: folds 
+Uncalled bet ($15.28) returned to gaiggibeliin
+gaiggibeliin collected $22.80 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $1.20 
+Board [8s Ts 6c 6s]
+Seat 2: sss457 folded on the Turn
+Seat 5: gaiggibeliin (button blind) collected ($22.80)
+
+
+
+PokerStars Hand #196222332778:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 2:13:00 EET [2019/01/25 19:13:00 ET]
+Table 'Amneris' 6-max Seat #2 is the button
+Seat 2: sss457 ($361.89 in chips) 
+Seat 5: gaiggibeliin ($260.21 in chips) 
+sss457: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7c Th]
+gaiggibeliin: folds 
+Uncalled bet ($2) returned to sss457
+sss457 collected $4 from pot
+sss457: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 2: sss457 (button blind) collected ($4)
+Seat 5: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196222335518:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 2:13:05 EET [2019/01/25 19:13:05 ET]
+Table 'Amneris' 6-max Seat #5 is the button
+Seat 2: sss457 ($363.89 in chips) 
+Seat 5: gaiggibeliin ($258.21 in chips) 
+sss457: posts the ante $2
+gaiggibeliin: posts the ante $2
+gaiggibeliin: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jh 8s]
+sss457: folds 
+Uncalled bet ($2) returned to gaiggibeliin
+gaiggibeliin collected $4 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 2: sss457 folded before Flop (didn't bet)
+Seat 5: gaiggibeliin (button blind) collected ($4)
+
+
+
+PokerStars Hand #196222338291:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 2:13:10 EET [2019/01/25 19:13:10 ET]
+Table 'Amneris' 6-max Seat #2 is the button
+Seat 2: sss457 ($361.89 in chips) 
+Seat 5: gaiggibeliin ($260.21 in chips) 
+sss457: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6h Ad]
+gaiggibeliin: calls $2
+sss457: raises $8 to $10
+gaiggibeliin: folds 
+Uncalled bet ($8) returned to sss457
+sss457 collected $8 from pot
+sss457: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0 
+Seat 2: sss457 (button blind) collected ($8)
+Seat 5: gaiggibeliin folded before Flop
+
+
+
+PokerStars Hand #196222346131:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 2:13:23 EET [2019/01/25 19:13:23 ET]
+Table 'Amneris' 6-max Seat #5 is the button
+Seat 2: sss457 ($365.89 in chips) 
+Seat 5: gaiggibeliin ($256.21 in chips) 
+sss457: posts the ante $2
+gaiggibeliin: posts the ante $2
+gaiggibeliin: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kd 7h]
+sss457: folds 
+Uncalled bet ($2) returned to gaiggibeliin
+gaiggibeliin collected $4 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 2: sss457 folded before Flop (didn't bet)
+Seat 5: gaiggibeliin (button blind) collected ($4)
+
+
+
+PokerStars Hand #196222349229:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 2:13:29 EET [2019/01/25 19:13:29 ET]
+Table 'Amneris' 6-max Seat #2 is the button
+Seat 2: sss457 ($363.89 in chips) 
+Seat 5: gaiggibeliin ($258.21 in chips) 
+sss457: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ts 8c]
+gaiggibeliin: calls $2
+sss457: checks 
+*** FLOP *** [6d Th 9s]
+gaiggibeliin: checks 
+sss457: bets $3.80
+gaiggibeliin: calls $3.80
+*** TURN *** [6d Th 9s] [As]
+gaiggibeliin: checks 
+sss457: checks 
+*** RIVER *** [6d Th 9s As] [Td]
+gaiggibeliin: bets $9.93
+sss457: folds 
+Uncalled bet ($9.93) returned to gaiggibeliin
+gaiggibeliin collected $14.82 from pot
+*** SUMMARY ***
+Total pot $15.60 | Rake $0.78 
+Board [6d Th 9s As Td]
+Seat 2: sss457 (button blind) folded on the River
+Seat 5: gaiggibeliin collected ($14.82)
+
+
+

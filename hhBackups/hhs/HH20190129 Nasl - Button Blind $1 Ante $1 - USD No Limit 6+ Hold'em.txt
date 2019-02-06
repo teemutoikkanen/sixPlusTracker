@@ -1,0 +1,43 @@
+﻿PokerStars Hand #196395993637:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:48:34 EET [2019/01/29 20:48:34 ET]
+Table 'Nasl' 6-max Seat #6 is the button
+Seat 4: Xerophyten ($150 in chips) 
+Seat 6: gaiggibeliin ($150 in chips) 
+Xerophyten: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Tc 8d]
+Xerophyten: folds 
+Uncalled bet ($1) returned to gaiggibeliin
+gaiggibeliin collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 4: Xerophyten folded before Flop (didn't bet)
+Seat 6: gaiggibeliin (button blind) collected ($2)
+
+
+
+PokerStars Hand #196395997736:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:48:45 EET [2019/01/29 20:48:45 ET]
+Table 'Nasl' 6-max Seat #4 is the button
+Seat 4: Xerophyten ($149 in chips) 
+Seat 6: gaiggibeliin ($151 in chips) 
+Xerophyten: posts the ante $1
+gaiggibeliin: posts the ante $1
+Xerophyten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ah Js]
+gaiggibeliin: calls $1
+Xerophyten: checks 
+*** FLOP *** [9d Kh Ad]
+gaiggibeliin: bets $2.55
+Xerophyten: folds 
+Uncalled bet ($2.55) returned to gaiggibeliin
+gaiggibeliin collected $3.80 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [9d Kh Ad]
+Seat 4: Xerophyten (button blind) folded on the Flop
+Seat 6: gaiggibeliin collected ($3.80)
+
+
+

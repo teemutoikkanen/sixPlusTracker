@@ -1,0 +1,845 @@
+﻿PokerStars Hand #196309522557:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/28 0:56:01 EET [2019/01/27 17:56:01 ET]
+Table 'Erna' 6-max Seat #6 is the button
+Seat 1: anzy30 ($174.64 in chips) 
+Seat 2: gaiggibeliin ($150 in chips) 
+Seat 3: N`ice$kiv ($499.48 in chips) 
+Seat 5: zi_allen ($58.20 in chips) 
+Seat 6: Asp1309 ($741.93 in chips) 
+anzy30: posts the ante $1
+gaiggibeliin: posts the ante $1
+N`ice$kiv: posts the ante $1
+zi_allen: posts the ante $1
+Asp1309: posts the ante $1
+Asp1309: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jh Qs]
+anzy30: raises $1.20 to $2.20
+gaiggibeliin: calls $2.20
+N`ice$kiv: folds 
+zi_allen: raises $12.60 to $14.80
+Asp1309: folds 
+anzy30: calls $12.60
+gaiggibeliin: calls $12.60
+*** FLOP *** [Ad Th Ts]
+anzy30: checks 
+gaiggibeliin: checks 
+zi_allen: bets $17
+anzy30: calls $17
+gaiggibeliin: folds 
+*** TURN *** [Ad Th Ts] [8h]
+anzy30: checks 
+zi_allen: checks 
+*** RIVER *** [Ad Th Ts 8h] [Qc]
+anzy30: bets $141.84 and is all-in
+zi_allen: folds 
+Uncalled bet ($141.84) returned to anzy30
+anzy30 collected $81.65 from pot
+*** SUMMARY ***
+Total pot $84.40 | Rake $2.75 
+Board [Ad Th Ts 8h Qc]
+Seat 1: anzy30 collected ($81.65)
+Seat 2: gaiggibeliin folded on the Flop
+Seat 3: N`ice$kiv folded before Flop (didn't bet)
+Seat 5: zi_allen folded on the River
+Seat 6: Asp1309 (button blind) folded before Flop
+
+
+
+PokerStars Hand #196309564009:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/28 0:57:00 EET [2019/01/27 17:57:00 ET]
+Table 'Erna' 6-max Seat #1 is the button
+Seat 1: anzy30 ($223.49 in chips) 
+Seat 2: gaiggibeliin ($134.20 in chips) 
+Seat 3: N`ice$kiv ($498.48 in chips) 
+Seat 5: zi_allen ($25.40 in chips) 
+Seat 6: Asp1309 ($739.93 in chips) 
+anzy30: posts the ante $1
+gaiggibeliin: posts the ante $1
+N`ice$kiv: posts the ante $1
+zi_allen: posts the ante $1
+Asp1309: posts the ante $1
+anzy30: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6d Jc]
+gaiggibeliin: folds 
+N`ice$kiv: folds 
+zi_allen: folds 
+Asp1309: raises $2 to $3
+anzy30: calls $2
+*** FLOP *** [As 7c Js]
+Asp1309: bets $5
+anzy30: folds 
+Uncalled bet ($5) returned to Asp1309
+Asp1309 collected $10.45 from pot
+*** SUMMARY ***
+Total pot $11 | Rake $0.55 
+Board [As 7c Js]
+Seat 1: anzy30 (button blind) folded on the Flop
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: N`ice$kiv folded before Flop (didn't bet)
+Seat 5: zi_allen folded before Flop (didn't bet)
+Seat 6: Asp1309 collected ($10.45)
+
+
+
+PokerStars Hand #196309575122:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/28 0:57:20 EET [2019/01/27 17:57:20 ET]
+Table 'Erna' 6-max Seat #2 is the button
+Seat 1: anzy30 ($219.49 in chips) 
+Seat 2: gaiggibeliin ($133.20 in chips) 
+Seat 3: N`ice$kiv ($497.48 in chips) 
+Seat 5: zi_allen ($24.40 in chips) 
+Seat 6: Asp1309 ($746.38 in chips) 
+anzy30: posts the ante $1
+gaiggibeliin: posts the ante $1
+N`ice$kiv: posts the ante $1
+zi_allen: posts the ante $1
+Asp1309: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qh Tc]
+N`ice$kiv: folds 
+zi_allen: folds 
+Asp1309: folds 
+anzy30: folds 
+Uncalled bet ($1) returned to gaiggibeliin
+gaiggibeliin collected $5 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 1: anzy30 folded before Flop (didn't bet)
+Seat 2: gaiggibeliin (button blind) collected ($5)
+Seat 3: N`ice$kiv folded before Flop (didn't bet)
+Seat 5: zi_allen folded before Flop (didn't bet)
+Seat 6: Asp1309 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196309581316:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/28 0:57:32 EET [2019/01/27 17:57:32 ET]
+Table 'Erna' 6-max Seat #3 is the button
+Seat 1: anzy30 ($218.49 in chips) 
+Seat 2: gaiggibeliin ($137.20 in chips) 
+Seat 3: N`ice$kiv ($496.48 in chips) 
+Seat 5: zi_allen ($23.40 in chips) 
+Seat 6: Asp1309 ($745.38 in chips) 
+anzy30: posts the ante $1
+gaiggibeliin: posts the ante $1
+N`ice$kiv: posts the ante $1
+zi_allen: posts the ante $1
+Asp1309: posts the ante $1
+N`ice$kiv: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jh As]
+zi_allen: folds 
+Asp1309: raises $2 to $3
+anzy30: calls $3
+gaiggibeliin: calls $3
+N`ice$kiv: calls $2
+*** FLOP *** [6c 8c 7s]
+Asp1309: checks 
+anzy30: checks 
+gaiggibeliin: checks 
+N`ice$kiv: bets $12.44
+Asp1309: folds 
+anzy30: calls $12.44
+gaiggibeliin: folds 
+*** TURN *** [6c 8c 7s] [7h]
+anzy30: checks 
+N`ice$kiv: checks 
+*** RIVER *** [6c 8c 7s 7h] [8s]
+anzy30: bets $17
+N`ice$kiv: folds 
+Uncalled bet ($17) returned to anzy30
+anzy30 collected $39.79 from pot
+*** SUMMARY ***
+Total pot $41.88 | Rake $2.09 
+Board [6c 8c 7s 7h 8s]
+Seat 1: anzy30 collected ($39.79)
+Seat 2: gaiggibeliin folded on the Flop
+Seat 3: N`ice$kiv (button blind) folded on the River
+Seat 5: zi_allen folded before Flop (didn't bet)
+Seat 6: Asp1309 folded on the Flop
+
+
+
+PokerStars Hand #196309619577:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/28 0:58:43 EET [2019/01/27 17:58:43 ET]
+Table 'Erna' 6-max Seat #5 is the button
+Seat 1: anzy30 ($241.84 in chips) 
+Seat 2: gaiggibeliin ($133.20 in chips) 
+Seat 3: N`ice$kiv ($480.04 in chips) 
+Seat 4: DEDTAWIWASA ($155 in chips) 
+Seat 5: zi_allen ($22.40 in chips) 
+Seat 6: Asp1309 ($741.38 in chips) 
+anzy30: posts the ante $1
+gaiggibeliin: posts the ante $1
+N`ice$kiv: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+zi_allen: posts the ante $1
+Asp1309: posts the ante $1
+zi_allen: posts button blind $1
+DEDTAWIWASA: posts big blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qs Kh]
+Asp1309: folds 
+anzy30: folds 
+gaiggibeliin: raises $9 to $10
+N`ice$kiv: folds 
+DEDTAWIWASA: folds 
+zi_allen: folds 
+Uncalled bet ($9) returned to gaiggibeliin
+gaiggibeliin collected $9 from pot
+*** SUMMARY ***
+Total pot $9 | Rake $0 
+Seat 1: anzy30 folded before Flop (didn't bet)
+Seat 2: gaiggibeliin collected ($9)
+Seat 3: N`ice$kiv folded before Flop (didn't bet)
+Seat 4: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 5: zi_allen (button blind) folded before Flop
+Seat 6: Asp1309 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196309630591:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/28 0:59:04 EET [2019/01/27 17:59:04 ET]
+Table 'Erna' 6-max Seat #6 is the button
+Seat 1: anzy30 ($240.84 in chips) 
+Seat 2: gaiggibeliin ($140.20 in chips) 
+Seat 3: N`ice$kiv ($479.04 in chips) 
+Seat 4: DEDTAWIWASA ($153 in chips) 
+Seat 5: zi_allen ($20.40 in chips) 
+Seat 6: Asp1309 ($740.38 in chips) 
+anzy30: posts the ante $1
+gaiggibeliin: posts the ante $1
+N`ice$kiv: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+zi_allen: posts the ante $1
+Asp1309: posts the ante $1
+Asp1309: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qd 8d]
+anzy30: raises $1.20 to $2.20
+gaiggibeliin: folds 
+N`ice$kiv: folds 
+DEDTAWIWASA: folds 
+zi_allen: raises $17.20 to $19.40 and is all-in
+Asp1309: calls $18.40
+anzy30: raises $220.44 to $239.84 and is all-in
+Asp1309: folds 
+Uncalled bet ($220.44) returned to anzy30
+*** FLOP *** [7c 6h Qh]
+*** TURN *** [7c 6h Qh] [8c]
+*** RIVER *** [7c 6h Qh 8c] [6s]
+*** SHOW DOWN ***
+anzy30: shows [Ks Kd] (two pair, Kings and Sixes)
+zi_allen: shows [7h Ah] (two pair, Sevens and Sixes)
+anzy30 collected $61.45 from pot
+*** SUMMARY ***
+Total pot $64.20 | Rake $2.75 
+Board [7c 6h Qh 8c 6s]
+Seat 1: anzy30 showed [Ks Kd] and won ($61.45) with two pair, Kings and Sixes
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: N`ice$kiv folded before Flop (didn't bet)
+Seat 4: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 5: zi_allen showed [7h Ah] and lost with two pair, Sevens and Sixes
+Seat 6: Asp1309 (button blind) folded before Flop
+
+
+
+PokerStars Hand #196309651516:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/28 0:59:44 EET [2019/01/27 17:59:44 ET]
+Table 'Erna' 6-max Seat #1 is the button
+Seat 1: anzy30 ($281.89 in chips) 
+Seat 2: gaiggibeliin ($149 in chips) 
+Seat 3: N`ice$kiv ($478.04 in chips) 
+Seat 4: DEDTAWIWASA ($152 in chips) 
+Seat 6: Asp1309 ($719.98 in chips) 
+anzy30: posts the ante $1
+gaiggibeliin: posts the ante $1
+N`ice$kiv: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Asp1309: posts the ante $1
+anzy30: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8s Qs]
+zi_allen leaves the table
+gaiggibeliin: folds 
+N`ice$kiv: folds 
+DEDTAWIWASA: calls $1
+Asp1309: raises $4 to $5
+anzy30: calls $4
+DEDTAWIWASA: calls $4
+*** FLOP *** [Kh Ts 9h]
+DEDTAWIWASA: checks 
+Asp1309: checks 
+anzy30: checks 
+*** TURN *** [Kh Ts 9h] [Qd]
+DEDTAWIWASA: bets $13
+Asp1309: folds 
+anzy30: folds 
+Uncalled bet ($13) returned to DEDTAWIWASA
+DEDTAWIWASA collected $19 from pot
+BomPang joins the table at seat #5 
+DEDTAWIWASA: doesn't show hand 
+*** SUMMARY ***
+Total pot $20 | Rake $1 
+Board [Kh Ts 9h Qd]
+Seat 1: anzy30 (button blind) folded on the Turn
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: N`ice$kiv folded before Flop (didn't bet)
+Seat 4: DEDTAWIWASA collected ($19)
+Seat 6: Asp1309 folded on the Turn
+
+
+
+PokerStars Hand #196309681238:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/28 1:00:37 EET [2019/01/27 18:00:37 ET]
+Table 'Erna' 6-max Seat #2 is the button
+Seat 1: anzy30 ($275.89 in chips) 
+Seat 2: gaiggibeliin ($148 in chips) 
+Seat 3: N`ice$kiv ($477.04 in chips) 
+Seat 4: DEDTAWIWASA ($165 in chips) 
+Seat 5: BomPang ($100 in chips) 
+Seat 6: Asp1309 ($713.98 in chips) 
+anzy30: posts the ante $1
+gaiggibeliin: posts the ante $1
+N`ice$kiv: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+BomPang: posts the ante $1
+Asp1309: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jd Js]
+N`ice$kiv: folds 
+DEDTAWIWASA: folds 
+BomPang: folds 
+Asp1309: raises $2 to $3
+anzy30: folds 
+gaiggibeliin: calls $2
+*** FLOP *** [7c As 8c]
+Asp1309: bets $6
+gaiggibeliin: folds 
+Uncalled bet ($6) returned to Asp1309
+Asp1309 collected $11.40 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.60 
+Board [7c As 8c]
+Seat 1: anzy30 folded before Flop (didn't bet)
+Seat 2: gaiggibeliin (button blind) folded on the Flop
+Seat 3: N`ice$kiv folded before Flop (didn't bet)
+Seat 4: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 5: BomPang folded before Flop (didn't bet)
+Seat 6: Asp1309 collected ($11.40)
+
+
+
+PokerStars Hand #196309710381:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/28 1:01:26 EET [2019/01/27 18:01:26 ET]
+Table 'Erna' 6-max Seat #3 is the button
+Seat 1: anzy30 ($274.89 in chips) 
+Seat 2: gaiggibeliin ($144 in chips) 
+Seat 3: N`ice$kiv ($476.04 in chips) 
+Seat 4: DEDTAWIWASA ($164 in chips) 
+Seat 5: BomPang ($99 in chips) 
+Seat 6: Asp1309 ($721.38 in chips) 
+anzy30: posts the ante $1
+gaiggibeliin: posts the ante $1
+N`ice$kiv: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+BomPang: posts the ante $1
+Asp1309: posts the ante $1
+N`ice$kiv: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9h Ks]
+DEDTAWIWASA: folds 
+BomPang: calls $1
+Asp1309: calls $1
+anzy30: raises $1.20 to $2.20
+gaiggibeliin: calls $2.20
+N`ice$kiv: calls $1.20
+BomPang: raises $15.80 to $18
+Asp1309: folds 
+anzy30: folds 
+gaiggibeliin: folds 
+N`ice$kiv: folds 
+Uncalled bet ($15.80) returned to BomPang
+BomPang collected $15.80 from pot
+BomPang: doesn't show hand 
+*** SUMMARY ***
+Total pot $15.80 | Rake $0 
+Seat 1: anzy30 folded before Flop
+Seat 2: gaiggibeliin folded before Flop
+Seat 3: N`ice$kiv (button blind) folded before Flop
+Seat 4: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 5: BomPang collected ($15.80)
+Seat 6: Asp1309 folded before Flop
+
+
+
+PokerStars Hand #196309742493:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/28 1:02:14 EET [2019/01/27 18:02:14 ET]
+Table 'Erna' 6-max Seat #4 is the button
+Seat 1: anzy30 ($271.69 in chips) 
+Seat 2: gaiggibeliin ($140.80 in chips) 
+Seat 3: N`ice$kiv ($472.84 in chips) 
+Seat 4: DEDTAWIWASA ($163 in chips) 
+Seat 5: BomPang ($111.60 in chips) 
+Seat 6: Asp1309 ($719.38 in chips) 
+anzy30: posts the ante $1
+gaiggibeliin: posts the ante $1
+N`ice$kiv: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+BomPang: posts the ante $1
+Asp1309: posts the ante $1
+DEDTAWIWASA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qd Ah]
+BomPang: calls $1
+Asp1309: folds 
+anzy30: folds 
+gaiggibeliin: raises $9 to $10
+N`ice$kiv: calls $10
+DEDTAWIWASA: folds 
+BomPang: calls $9
+*** FLOP *** [Qc Th 9c]
+BomPang: checks 
+gaiggibeliin: checks 
+N`ice$kiv: checks 
+*** TURN *** [Qc Th 9c] [7d]
+BomPang: bets $23.43
+gaiggibeliin: folds 
+N`ice$kiv: calls $23.43
+*** RIVER *** [Qc Th 9c 7d] [9d]
+BomPang: bets $77.17 and is all-in
+N`ice$kiv: folds 
+Uncalled bet ($77.17) returned to BomPang
+BomPang collected $81.11 from pot
+BomPang: doesn't show hand 
+*** SUMMARY ***
+Total pot $83.86 | Rake $2.75 
+Board [Qc Th 9c 7d 9d]
+Seat 1: anzy30 folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded on the Turn
+Seat 3: N`ice$kiv folded on the River
+Seat 4: DEDTAWIWASA (button blind) folded before Flop
+Seat 5: BomPang collected ($81.11)
+Seat 6: Asp1309 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196309795492:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/28 1:03:28 EET [2019/01/27 18:03:28 ET]
+Table 'Erna' 6-max Seat #5 is the button
+Seat 1: anzy30 ($270.69 in chips) 
+Seat 2: gaiggibeliin ($129.80 in chips) 
+Seat 3: N`ice$kiv ($438.41 in chips) 
+Seat 4: DEDTAWIWASA ($161 in chips) 
+Seat 5: BomPang ($158.28 in chips) 
+Seat 6: Asp1309 ($718.38 in chips) 
+anzy30: posts the ante $1
+gaiggibeliin: posts the ante $1
+N`ice$kiv: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+BomPang: posts the ante $1
+Asp1309: posts the ante $1
+BomPang: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9d Jh]
+Asp1309: raises $2 to $3
+anzy30: calls $3
+gaiggibeliin: calls $3
+N`ice$kiv: folds 
+DEDTAWIWASA: folds 
+BomPang: raises $18 to $21
+Asp1309: calls $18
+anzy30: calls $18
+gaiggibeliin: calls $18
+*** FLOP *** [7d 6h 9c]
+Asp1309: checks 
+anzy30: checks 
+gaiggibeliin: checks 
+BomPang: checks 
+*** TURN *** [7d 6h 9c] [6s]
+Asp1309: checks 
+anzy30: checks 
+gaiggibeliin: checks 
+BomPang: checks 
+*** RIVER *** [7d 6h 9c 6s] [Qh]
+Asp1309: checks 
+anzy30: checks 
+gaiggibeliin: checks 
+BomPang: checks 
+*** SHOW DOWN ***
+Asp1309: shows [As Jd] (a pair of Sixes)
+anzy30: shows [8d 8c] (two pair, Eights and Sixes)
+gaiggibeliin: shows [9d Jh] (two pair, Nines and Sixes)
+BomPang: shows [Kh Qs] (two pair, Queens and Sixes)
+BomPang collected $87.25 from pot
+*** SUMMARY ***
+Total pot $90 | Rake $2.75 
+Board [7d 6h 9c 6s Qh]
+Seat 1: anzy30 showed [8d 8c] and lost with two pair, Eights and Sixes
+Seat 2: gaiggibeliin showed [9d Jh] and lost with two pair, Nines and Sixes
+Seat 3: N`ice$kiv folded before Flop (didn't bet)
+Seat 4: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 5: BomPang (button blind) showed [Kh Qs] and won ($87.25) with two pair, Queens and Sixes
+Seat 6: Asp1309 showed [As Jd] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #196309861307:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/28 1:05:01 EET [2019/01/27 18:05:01 ET]
+Table 'Erna' 6-max Seat #6 is the button
+Seat 1: anzy30 ($248.69 in chips) 
+Seat 2: gaiggibeliin ($107.80 in chips) 
+Seat 3: N`ice$kiv ($437.41 in chips) 
+Seat 4: DEDTAWIWASA ($160 in chips) 
+Seat 5: BomPang ($223.53 in chips) 
+Seat 6: Asp1309 ($696.38 in chips) 
+anzy30: posts the ante $1
+gaiggibeliin: posts the ante $1
+N`ice$kiv: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+BomPang: posts the ante $1
+Asp1309: posts the ante $1
+Asp1309: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kc Jc]
+anzy30: folds 
+gaiggibeliin: calls $1
+N`ice$kiv: raises $9 to $10
+DEDTAWIWASA: folds 
+BomPang: calls $10
+Asp1309: calls $9
+gaiggibeliin: calls $9
+*** FLOP *** [Th 9c 9s]
+gaiggibeliin: checks 
+N`ice$kiv: checks 
+BomPang: bets $14.42
+Asp1309: calls $14.42
+gaiggibeliin: folds 
+N`ice$kiv: folds 
+*** TURN *** [Th 9c 9s] [Jd]
+BomPang: bets $36.05
+Asp1309: folds 
+Uncalled bet ($36.05) returned to BomPang
+BomPang collected $72.09 from pot
+BomPang: doesn't show hand 
+*** SUMMARY ***
+Total pot $74.84 | Rake $2.75 
+Board [Th 9c 9s Jd]
+Seat 1: anzy30 folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded on the Flop
+Seat 3: N`ice$kiv folded on the Flop
+Seat 4: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 5: BomPang collected ($72.09)
+Seat 6: Asp1309 (button blind) folded on the Turn
+
+
+
+PokerStars Hand #196309920796:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/28 1:06:24 EET [2019/01/27 18:06:24 ET]
+Table 'Erna' 6-max Seat #1 is the button
+Seat 1: anzy30 ($247.69 in chips) 
+Seat 2: gaiggibeliin ($150 in chips) 
+Seat 3: N`ice$kiv ($426.41 in chips) 
+Seat 4: DEDTAWIWASA ($159 in chips) 
+Seat 5: BomPang ($270.20 in chips) 
+Seat 6: Asp1309 ($670.96 in chips) 
+anzy30: posts the ante $1
+gaiggibeliin: posts the ante $1
+N`ice$kiv: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+BomPang: posts the ante $1
+Asp1309: posts the ante $1
+anzy30: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9s 7h]
+gaiggibeliin: folds 
+N`ice$kiv: calls $1
+DEDTAWIWASA: folds 
+BomPang: calls $1
+Asp1309: folds 
+anzy30: checks 
+*** FLOP *** [Qh Kh Ks]
+N`ice$kiv: bets $6.58
+BomPang: folds 
+anzy30: folds 
+Uncalled bet ($6.58) returned to N`ice$kiv
+N`ice$kiv collected $8.55 from pot
+N`ice$kiv: doesn't show hand 
+*** SUMMARY ***
+Total pot $9 | Rake $0.45 
+Board [Qh Kh Ks]
+Seat 1: anzy30 (button blind) folded on the Flop
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: N`ice$kiv collected ($8.55)
+Seat 4: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 5: BomPang folded on the Flop
+Seat 6: Asp1309 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196309942296:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/28 1:06:54 EET [2019/01/27 18:06:54 ET]
+Table 'Erna' 6-max Seat #2 is the button
+Seat 1: anzy30 ($245.69 in chips) 
+Seat 2: gaiggibeliin ($149 in chips) 
+Seat 3: N`ice$kiv ($432.96 in chips) 
+Seat 4: DEDTAWIWASA ($158 in chips) 
+Seat 5: BomPang ($268.20 in chips) 
+Seat 6: Asp1309 ($669.96 in chips) 
+anzy30: posts the ante $1
+gaiggibeliin: posts the ante $1
+N`ice$kiv: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+BomPang: posts the ante $1
+Asp1309: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qd Ac]
+N`ice$kiv: calls $1
+DEDTAWIWASA: folds 
+BomPang: folds 
+Asp1309: folds 
+anzy30: calls $1
+gaiggibeliin: raises $11 to $12
+N`ice$kiv: calls $11
+anzy30: calls $11
+*** FLOP *** [9c 7s 6c]
+N`ice$kiv: checks 
+anzy30: checks 
+gaiggibeliin: checks 
+*** TURN *** [9c 7s 6c] [7h]
+N`ice$kiv: checks 
+anzy30: checks 
+gaiggibeliin: checks 
+*** RIVER *** [9c 7s 6c 7h] [Jh]
+N`ice$kiv: checks 
+anzy30: bets $27
+gaiggibeliin: folds 
+N`ice$kiv: calls $27
+*** SHOW DOWN ***
+anzy30: shows [Qc Ad] (a pair of Sevens)
+N`ice$kiv: shows [As Jd] (two pair, Jacks and Sevens)
+N`ice$kiv collected $93.25 from pot
+*** SUMMARY ***
+Total pot $96 | Rake $2.75 
+Board [9c 7s 6c 7h Jh]
+Seat 1: anzy30 showed [Qc Ad] and lost with a pair of Sevens
+Seat 2: gaiggibeliin (button blind) folded on the River
+Seat 3: N`ice$kiv showed [As Jd] and won ($93.25) with two pair, Jacks and Sevens
+Seat 4: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 5: BomPang folded before Flop (didn't bet)
+Seat 6: Asp1309 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196309988354:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/28 1:08:00 EET [2019/01/27 18:08:00 ET]
+Table 'Erna' 6-max Seat #3 is the button
+Seat 1: anzy30 ($205.69 in chips) 
+Seat 2: gaiggibeliin ($136 in chips) 
+Seat 3: N`ice$kiv ($486.21 in chips) 
+Seat 4: DEDTAWIWASA ($157 in chips) 
+Seat 5: BomPang ($267.20 in chips) 
+Seat 6: Asp1309 ($668.96 in chips) 
+anzy30: posts the ante $1
+gaiggibeliin: posts the ante $1
+N`ice$kiv: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+BomPang: posts the ante $1
+Asp1309: posts the ante $1
+N`ice$kiv: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7h 7c]
+DEDTAWIWASA: calls $1
+BomPang: calls $1
+Asp1309: calls $1
+anzy30: folds 
+gaiggibeliin: calls $1
+N`ice$kiv: checks 
+*** FLOP *** [Qh Ac Kh]
+DEDTAWIWASA: checks 
+BomPang: checks 
+Asp1309: checks 
+gaiggibeliin: checks 
+N`ice$kiv: checks 
+*** TURN *** [Qh Ac Kh] [9s]
+DEDTAWIWASA: checks 
+BomPang: checks 
+Asp1309: checks 
+gaiggibeliin: checks 
+N`ice$kiv: checks 
+*** RIVER *** [Qh Ac Kh 9s] [As]
+DEDTAWIWASA: checks 
+BomPang: checks 
+Asp1309: checks 
+gaiggibeliin: checks 
+N`ice$kiv: checks 
+*** SHOW DOWN ***
+DEDTAWIWASA: shows [7d 9d] (two pair, Aces and Nines)
+BomPang: shows [Ts Qd] (two pair, Aces and Queens)
+Asp1309: mucks hand 
+gaiggibeliin: mucks hand 
+N`ice$kiv: shows [Qc 7s] (two pair, Aces and Queens)
+BomPang collected $5.23 from pot
+N`ice$kiv collected $5.22 from pot
+*** SUMMARY ***
+Total pot $11 | Rake $0.55 
+Board [Qh Ac Kh 9s As]
+Seat 1: anzy30 folded before Flop (didn't bet)
+Seat 2: gaiggibeliin mucked [7h 7c]
+Seat 3: N`ice$kiv (button blind) showed [Qc 7s] and won ($5.22) with two pair, Aces and Queens
+Seat 4: DEDTAWIWASA showed [7d 9d] and lost with two pair, Aces and Nines
+Seat 5: BomPang showed [Ts Qd] and won ($5.23) with two pair, Aces and Queens
+Seat 6: Asp1309 mucked [8s 6h]
+
+
+
+PokerStars Hand #196310045137:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/28 1:09:21 EET [2019/01/27 18:09:21 ET]
+Table 'Erna' 6-max Seat #4 is the button
+Seat 1: anzy30 ($204.69 in chips) 
+Seat 2: gaiggibeliin ($134 in chips) 
+Seat 3: N`ice$kiv ($489.43 in chips) 
+Seat 4: DEDTAWIWASA ($155 in chips) 
+Seat 5: BomPang ($270.43 in chips) 
+Seat 6: Asp1309 ($666.96 in chips) 
+anzy30: posts the ante $1
+gaiggibeliin: posts the ante $1
+N`ice$kiv: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+BomPang: posts the ante $1
+Asp1309: posts the ante $1
+DEDTAWIWASA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ks 8c]
+BomPang: calls $1
+Asp1309: calls $1
+anzy30: folds 
+gaiggibeliin: folds 
+N`ice$kiv: raises $10 to $11
+DEDTAWIWASA: folds 
+BomPang: calls $10
+Asp1309: calls $10
+*** FLOP *** [As Ac Tc]
+BomPang: checks 
+Asp1309: checks 
+N`ice$kiv: bets $27
+BomPang: folds 
+Asp1309: calls $27
+*** TURN *** [As Ac Tc] [9s]
+Asp1309: checks 
+N`ice$kiv: checks 
+*** RIVER *** [As Ac Tc 9s] [7c]
+Asp1309: checks 
+N`ice$kiv: checks 
+*** SHOW DOWN ***
+Asp1309: shows [7h Ah] (a full house, Aces full of Sevens)
+N`ice$kiv: mucks hand 
+Asp1309 collected $91.25 from pot
+*** SUMMARY ***
+Total pot $94 | Rake $2.75 
+Board [As Ac Tc 9s 7c]
+Seat 1: anzy30 folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: N`ice$kiv mucked [Kd Qc]
+Seat 4: DEDTAWIWASA (button blind) folded before Flop
+Seat 5: BomPang folded on the Flop
+Seat 6: Asp1309 showed [7h Ah] and won ($91.25) with a full house, Aces full of Sevens
+
+
+
+PokerStars Hand #196310077628:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/28 1:10:08 EET [2019/01/27 18:10:08 ET]
+Table 'Erna' 6-max Seat #5 is the button
+Seat 1: anzy30 ($203.69 in chips) 
+Seat 2: gaiggibeliin ($150 in chips) 
+Seat 3: N`ice$kiv ($450.43 in chips) 
+Seat 4: DEDTAWIWASA ($153 in chips) 
+Seat 5: BomPang ($258.43 in chips) 
+Seat 6: Asp1309 ($719.21 in chips) 
+anzy30: posts the ante $1
+gaiggibeliin: posts the ante $1
+N`ice$kiv: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+BomPang: posts the ante $1
+Asp1309: posts the ante $1
+BomPang: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jc 6c]
+Asp1309: calls $1
+anzy30: raises $3.50 to $4.50
+gaiggibeliin: folds 
+N`ice$kiv: calls $4.50
+DEDTAWIWASA: folds 
+BomPang: calls $3.50
+Asp1309: calls $3.50
+*** FLOP *** [Js Ac Jd]
+Asp1309: checks 
+anzy30: bets $8
+N`ice$kiv: calls $8
+BomPang: folds 
+Asp1309: folds 
+*** TURN *** [Js Ac Jd] [9h]
+anzy30: checks 
+N`ice$kiv: checks 
+*** RIVER *** [Js Ac Jd 9h] [Qs]
+anzy30: checks 
+N`ice$kiv: bets $19
+anzy30: folds 
+Uncalled bet ($19) returned to N`ice$kiv
+N`ice$kiv collected $38 from pot
+N`ice$kiv: doesn't show hand 
+*** SUMMARY ***
+Total pot $40 | Rake $2 
+Board [Js Ac Jd 9h Qs]
+Seat 1: anzy30 folded on the River
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: N`ice$kiv collected ($38)
+Seat 4: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 5: BomPang (button blind) folded on the Flop
+Seat 6: Asp1309 folded on the Flop
+
+
+
+PokerStars Hand #196310119022:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/28 1:11:07 EET [2019/01/27 18:11:07 ET]
+Table 'Erna' 6-max Seat #6 is the button
+Seat 1: anzy30 ($190.19 in chips) 
+Seat 2: gaiggibeliin ($149 in chips) 
+Seat 3: N`ice$kiv ($474.93 in chips) 
+Seat 4: DEDTAWIWASA ($152 in chips) 
+Seat 5: BomPang ($252.93 in chips) 
+Seat 6: Asp1309 ($713.71 in chips) 
+anzy30: posts the ante $1
+gaiggibeliin: posts the ante $1
+N`ice$kiv: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+BomPang: posts the ante $1
+Asp1309: posts the ante $1
+Asp1309: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9c 8s]
+anzy30: calls $1
+gaiggibeliin: calls $1
+N`ice$kiv: calls $1
+DEDTAWIWASA: folds 
+BomPang: calls $1
+Asp1309: checks 
+*** FLOP *** [Jc 6d 8h]
+anzy30: checks 
+gaiggibeliin: checks 
+N`ice$kiv: bets $8.05
+BomPang: folds 
+Asp1309: calls $8.05
+anzy30: calls $8.05
+gaiggibeliin: folds 
+*** TURN *** [Jc 6d 8h] [Ah]
+anzy30: checks 
+N`ice$kiv: checks 
+Asp1309: checks 
+*** RIVER *** [Jc 6d 8h Ah] [6h]
+anzy30: bets $53
+N`ice$kiv: calls $53
+Asp1309: folds 
+*** SHOW DOWN ***
+anzy30: shows [Td 7d] (a pair of Sixes)
+N`ice$kiv: shows [Jh Th] (a flush, Ace high)
+N`ice$kiv collected $138.40 from pot
+*** SUMMARY ***
+Total pot $141.15 | Rake $2.75 
+Board [Jc 6d 8h Ah 6h]
+Seat 1: anzy30 showed [Td 7d] and lost with a pair of Sixes
+Seat 2: gaiggibeliin folded on the Flop
+Seat 3: N`ice$kiv showed [Jh Th] and won ($138.40) with a flush, Ace high
+Seat 4: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 5: BomPang folded on the Flop
+Seat 6: Asp1309 (button blind) folded on the River
+
+
+

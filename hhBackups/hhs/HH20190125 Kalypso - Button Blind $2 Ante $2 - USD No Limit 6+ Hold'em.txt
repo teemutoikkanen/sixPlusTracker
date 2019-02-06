@@ -1,0 +1,1161 @@
+﻿PokerStars Hand #196215691694:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/25 23:32:47 EET [2019/01/25 16:32:47 ET]
+Table 'Kalypso' 6-max Seat #3 is the button
+Seat 3: gaiggibeliin ($200 in chips) 
+Seat 5: Apathy123 ($200 in chips) 
+gaiggibeliin: posts the ante $2
+Apathy123: posts the ante $2
+gaiggibeliin: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Th 6s]
+Apathy123: calls $2
+gaiggibeliin: checks 
+*** FLOP *** [Kh 8h Ac]
+SirWatts joins the table at seat #6 
+Apathy123: checks 
+SirWatts leaves the table
+gaiggibeliin: bets $5.09
+Apathy123: calls $5.09
+*** TURN *** [Kh 8h Ac] [Js]
+Apathy123: checks 
+gaiggibeliin: bets $12.95
+Apathy123: folds 
+Uncalled bet ($12.95) returned to gaiggibeliin
+gaiggibeliin collected $17.27 from pot
+*** SUMMARY ***
+Total pot $18.18 | Rake $0.91 
+Board [Kh 8h Ac Js]
+Seat 3: gaiggibeliin (button blind) collected ($17.27)
+Seat 5: Apathy123 folded on the Turn
+
+
+
+PokerStars Hand #196215735080:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/25 23:33:42 EET [2019/01/25 16:33:42 ET]
+Table 'Kalypso' 6-max Seat #5 is the button
+Seat 3: gaiggibeliin ($208.18 in chips) 
+Seat 5: Apathy123 ($190.91 in chips) 
+gaiggibeliin: posts the ante $2
+Apathy123: posts the ante $2
+Apathy123: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ah 7h]
+gaiggibeliin: calls $2
+Apathy123: raises $8 to $10
+gaiggibeliin: calls $8
+*** FLOP *** [8c 7s Tc]
+gaiggibeliin: checks 
+Apathy123: checks 
+*** TURN *** [8c 7s Tc] [Kc]
+gaiggibeliin: checks 
+Apathy123: checks 
+*** RIVER *** [8c 7s Tc Kc] [Kh]
+gaiggibeliin: checks 
+Apathy123: checks 
+*** SHOW DOWN ***
+gaiggibeliin: shows [Ah 7h] (two pair, Kings and Sevens)
+Apathy123: mucks hand 
+gaiggibeliin collected $22.80 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $1.20 
+Board [8c 7s Tc Kc Kh]
+Seat 3: gaiggibeliin showed [Ah 7h] and won ($22.80) with two pair, Kings and Sevens
+Seat 5: Apathy123 (button blind) mucked [Qh As]
+
+
+
+PokerStars Hand #196215786375:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/25 23:34:48 EET [2019/01/25 16:34:48 ET]
+Table 'Kalypso' 6-max Seat #3 is the button
+Seat 3: gaiggibeliin ($218.98 in chips) 
+Seat 5: Apathy123 ($178.91 in chips) 
+gaiggibeliin: posts the ante $2
+Apathy123: posts the ante $2
+gaiggibeliin: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Th 6c]
+Apathy123: calls $2
+gaiggibeliin: checks 
+*** FLOP *** [Ah Jd Ks]
+Apathy123: checks 
+gaiggibeliin: checks 
+*** TURN *** [Ah Jd Ks] [Jh]
+Apathy123: bets $2
+gaiggibeliin: folds 
+Uncalled bet ($2) returned to Apathy123
+Apathy123 collected $7.60 from pot
+Apathy123: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [Ah Jd Ks Jh]
+Seat 3: gaiggibeliin (button blind) folded on the Turn
+Seat 5: Apathy123 collected ($7.60)
+
+
+
+PokerStars Hand #196215801434:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/25 23:35:07 EET [2019/01/25 16:35:07 ET]
+Table 'Kalypso' 6-max Seat #5 is the button
+Seat 3: gaiggibeliin ($214.98 in chips) 
+Seat 5: Apathy123 ($182.51 in chips) 
+gaiggibeliin: posts the ante $2
+Apathy123: posts the ante $2
+Apathy123: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ad 7d]
+gaiggibeliin: calls $2
+Apathy123: raises $8 to $10
+gaiggibeliin: calls $8
+*** FLOP *** [Kc As 6d]
+gaiggibeliin: checks 
+Apathy123: checks 
+*** TURN *** [Kc As 6d] [9h]
+gaiggibeliin: bets $15.28
+Apathy123: folds 
+Uncalled bet ($15.28) returned to gaiggibeliin
+Oxota joins the table at seat #4 
+gaiggibeliin collected $22.80 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $1.20 
+Board [Kc As 6d 9h]
+Seat 3: gaiggibeliin collected ($22.80)
+Seat 5: Apathy123 (button blind) folded on the Turn
+
+
+
+PokerStars Hand #196215835099:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/25 23:35:50 EET [2019/01/25 16:35:50 ET]
+Table 'Kalypso' 6-max Seat #3 is the button
+Seat 3: gaiggibeliin ($225.78 in chips) 
+Seat 4: Oxota ($200 in chips) 
+Seat 5: Apathy123 ($170.51 in chips) 
+gaiggibeliin: posts the ante $2
+Oxota: posts the ante $2
+Apathy123: posts the ante $2
+gaiggibeliin: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ks Kh]
+Oxota: calls $2
+Apathy123: calls $2
+gaiggibeliin: raises $16 to $18
+Oxota: folds 
+Apathy123: calls $16
+*** FLOP *** [8s 7c Qc]
+Apathy123: checks 
+gaiggibeliin: checks 
+*** TURN *** [8s 7c Qc] [Ah]
+Apathy123: bets $26
+gaiggibeliin: folds 
+Uncalled bet ($26) returned to Apathy123
+Apathy123 collected $42.50 from pot
+Apathy123: doesn't show hand 
+*** SUMMARY ***
+Total pot $44 | Rake $1.50 
+Board [8s 7c Qc Ah]
+Seat 3: gaiggibeliin (button blind) folded on the Turn
+Seat 4: Oxota folded before Flop
+Seat 5: Apathy123 collected ($42.50)
+
+
+
+PokerStars Hand #196215866868:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/25 23:36:31 EET [2019/01/25 16:36:31 ET]
+Table 'Kalypso' 6-max Seat #4 is the button
+Seat 3: gaiggibeliin ($205.78 in chips) 
+Seat 4: Oxota ($196 in chips) 
+Seat 5: Apathy123 ($193.01 in chips) 
+gaiggibeliin: posts the ante $2
+Oxota: posts the ante $2
+Apathy123: posts the ante $2
+Oxota: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ah 9d]
+Apathy123: folds 
+gaiggibeliin: calls $2
+Oxota: checks 
+*** FLOP *** [Kc 9s Js]
+gaiggibeliin: checks 
+Oxota: bets $7
+gaiggibeliin: folds 
+Uncalled bet ($7) returned to Oxota
+Oxota collected $9.50 from pot
+Oxota: doesn't show hand 
+*** SUMMARY ***
+Total pot $10 | Rake $0.50 
+Board [Kc 9s Js]
+Seat 3: gaiggibeliin folded on the Flop
+Seat 4: Oxota (button blind) collected ($9.50)
+Seat 5: Apathy123 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196215898593:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/25 23:37:11 EET [2019/01/25 16:37:11 ET]
+Table 'Kalypso' 6-max Seat #5 is the button
+Seat 3: gaiggibeliin ($201.78 in chips) 
+Seat 4: Oxota ($201.50 in chips) 
+Seat 5: Apathy123 ($191.01 in chips) 
+gaiggibeliin: posts the ante $2
+Oxota: posts the ante $2
+Apathy123: posts the ante $2
+Apathy123: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qs 6h]
+gaiggibeliin: folds 
+Oxota: raises $10 to $12
+Apathy123: calls $10
+*** FLOP *** [8c 9s 7c]
+Oxota: checks 
+Apathy123: bets $14
+Oxota: calls $14
+*** TURN *** [8c 9s 7c] [Td]
+Oxota: checks 
+Apathy123: bets $36
+Oxota: calls $36
+*** RIVER *** [8c 9s 7c Td] [9d]
+Oxota: bets $137.50 and is all-in
+Apathy123: calls $127.01 and is all-in
+Uncalled bet ($10.49) returned to Oxota
+*** SHOW DOWN ***
+Oxota: shows [Ac Kc] (a pair of Nines)
+Apathy123: shows [Jh Th] (a straight, Seven to Jack)
+Apathy123 collected $382.52 from pot
+*** SUMMARY ***
+Total pot $384.02 | Rake $1.50 
+Board [8c 9s 7c Td 9d]
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: Oxota showed [Ac Kc] and lost with a pair of Nines
+Seat 5: Apathy123 (button blind) showed [Jh Th] and won ($382.52) with a straight, Seven to Jack
+
+
+
+PokerStars Hand #196216002153:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/25 23:39:24 EET [2019/01/25 16:39:24 ET]
+Table 'Kalypso' 6-max Seat #3 is the button
+Seat 3: gaiggibeliin ($300 in chips) 
+Seat 4: Oxota ($10.49 in chips) 
+Seat 5: Apathy123 ($382.52 in chips) 
+gaiggibeliin: posts the ante $2
+Oxota: posts the ante $2
+Apathy123: posts the ante $2
+gaiggibeliin: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7c Ts]
+Oxota: raises $6.49 to $8.49 and is all-in
+Apathy123: raises $24.98 to $33.47
+gaiggibeliin: folds 
+Uncalled bet ($24.98) returned to Apathy123
+*** FIRST FLOP *** [Th Kc Ks]
+*** FIRST TURN *** [Th Kc Ks] [6c]
+*** FIRST RIVER *** [Th Kc Ks 6c] [8d]
+*** SECOND FLOP *** [8s Jc 9s]
+*** SECOND TURN *** [8s Jc 9s] [8c]
+*** SECOND RIVER *** [8s Jc 9s 8c] [Ad]
+*** FIRST SHOW DOWN ***
+Oxota: shows [9d Kh] (three of a kind, Kings)
+Apathy123: shows [Ac Js] (a pair of Kings)
+Oxota collected $11.87 from pot
+*** SECOND SHOW DOWN ***
+Oxota: shows [9d Kh] (two pair, Nines and Eights)
+Apathy123: shows [Ac Js] (two pair, Aces and Jacks)
+Apathy123 collected $11.86 from pot
+*** SUMMARY ***
+Total pot $24.98 | Rake $1.25 
+Hand was run twice
+FIRST Board [Th Kc Ks 6c 8d]
+SECOND Board [8s Jc 9s 8c Ad]
+Seat 3: gaiggibeliin (button blind) folded before Flop
+Seat 4: Oxota showed [9d Kh] and won ($11.87) with three of a kind, Kings, and lost with two pair, Nines and Eights
+Seat 5: Apathy123 showed [Ac Js] and lost with a pair of Kings, and won ($11.86) with two pair, Aces and Jacks
+
+
+
+PokerStars Hand #196216024319:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/25 23:39:53 EET [2019/01/25 16:39:53 ET]
+Table 'Kalypso' 6-max Seat #4 is the button
+Seat 3: gaiggibeliin ($296 in chips) 
+Seat 4: Oxota ($11.87 in chips) 
+Seat 5: Apathy123 ($383.89 in chips) 
+gaiggibeliin: posts the ante $2
+Oxota: posts the ante $2
+Apathy123: posts the ante $2
+Oxota: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6s 6d]
+Apathy123: calls $2
+gaiggibeliin: calls $2
+Oxota: checks 
+*** FLOP *** [Tc Qc Kd]
+Apathy123: checks 
+gaiggibeliin: checks 
+Oxota: checks 
+*** TURN *** [Tc Qc Kd] [Jd]
+Apathy123: bets $12
+gaiggibeliin: folds 
+Oxota: folds 
+Uncalled bet ($12) returned to Apathy123
+Apathy123 collected $11.40 from pot
+Apathy123: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0.60 
+Board [Tc Qc Kd Jd]
+Seat 3: gaiggibeliin folded on the Turn
+Seat 4: Oxota (button blind) folded on the Turn
+Seat 5: Apathy123 collected ($11.40)
+
+
+
+PokerStars Hand #196216056493:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/25 23:40:34 EET [2019/01/25 16:40:34 ET]
+Table 'Kalypso' 6-max Seat #5 is the button
+Seat 3: gaiggibeliin ($292 in chips) 
+Seat 4: Oxota ($7.87 in chips) 
+Seat 5: Apathy123 ($391.29 in chips) 
+gaiggibeliin: posts the ante $2
+Oxota: posts the ante $2
+Apathy123: posts the ante $2
+Apathy123: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qd 8h]
+gaiggibeliin: folds 
+Oxota: raises $3.87 to $5.87 and is all-in
+Apathy123: calls $3.87
+*** FIRST FLOP *** [Ah Kd Kh]
+*** FIRST TURN *** [Ah Kd Kh] [Th]
+*** FIRST RIVER *** [Ah Kd Kh Th] [Jh]
+*** SECOND FLOP *** [8c Jc Ad]
+*** SECOND TURN *** [8c Jc Ad] [Jd]
+*** SECOND RIVER *** [8c Jc Ad Jd] [7d]
+*** FIRST SHOW DOWN ***
+Oxota: shows [7c Ts] (two pair, Kings and Tens)
+Apathy123: shows [Js Td] (two pair, Kings and Jacks)
+Apathy123 collected $8.43 from pot
+*** SECOND SHOW DOWN ***
+Oxota: shows [7c Ts] (two pair, Jacks and Sevens)
+Apathy123: shows [Js Td] (three of a kind, Jacks)
+Apathy123 collected $8.42 from pot
+*** SUMMARY ***
+Total pot $17.74 | Rake $0.89 
+Hand was run twice
+FIRST Board [Ah Kd Kh Th Jh]
+SECOND Board [8c Jc Ad Jd 7d]
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: Oxota showed [7c Ts] and lost with two pair, Kings and Tens, and lost with two pair, Jacks and Sevens
+Seat 5: Apathy123 (button blind) showed [Js Td] and won ($8.43) with two pair, Kings and Jacks, and won ($8.42) with three of a kind, Jacks
+
+
+
+PokerStars Hand #196216081029:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/25 23:41:05 EET [2019/01/25 16:41:05 ET]
+Table 'Kalypso' 6-max Seat #3 is the button
+Seat 3: gaiggibeliin ($290 in chips) 
+Seat 4: Oxota ($200 in chips) 
+Seat 5: Apathy123 ($400.27 in chips) 
+gaiggibeliin: posts the ante $2
+Oxota: posts the ante $2
+Apathy123: posts the ante $2
+gaiggibeliin: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qd Ac]
+Oxota: folds 
+Apathy123: calls $2
+sss457 joins the table at seat #6 
+gaiggibeliin: raises $14 to $16
+Apathy123: calls $14
+*** FLOP *** [Tc Th 9d]
+Apathy123: checks 
+gaiggibeliin: checks 
+*** TURN *** [Tc Th 9d] [7s]
+Apathy123: bets $24
+gaiggibeliin: folds 
+Uncalled bet ($24) returned to Apathy123
+Apathy123 collected $36.50 from pot
+Apathy123: doesn't show hand 
+*** SUMMARY ***
+Total pot $38 | Rake $1.50 
+Board [Tc Th 9d 7s]
+Seat 3: gaiggibeliin (button blind) folded on the Turn
+Seat 4: Oxota folded before Flop (didn't bet)
+Seat 5: Apathy123 collected ($36.50)
+
+
+
+PokerStars Hand #196216128965:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/25 23:42:07 EET [2019/01/25 16:42:07 ET]
+Table 'Kalypso' 6-max Seat #4 is the button
+Seat 3: gaiggibeliin ($272 in chips) 
+Seat 4: Oxota ($198 in chips) 
+Seat 5: Apathy123 ($418.77 in chips) 
+Seat 6: sss457 ($300 in chips) 
+gaiggibeliin: posts the ante $2
+Oxota: posts the ante $2
+Apathy123: posts the ante $2
+sss457: posts the ante $2
+Oxota: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Td 9c]
+Apathy123: calls $2
+sss457: folds 
+gaiggibeliin: calls $2
+Oxota: raises $14 to $16
+Apathy123: folds 
+gaiggibeliin: calls $14
+*** FLOP *** [Ad Qh 9d]
+gaiggibeliin: checks 
+Oxota: checks 
+*** TURN *** [Ad Qh 9d] [6d]
+gaiggibeliin: bets $27.14
+Oxota: calls $27.14
+*** RIVER *** [Ad Qh 9d 6d] [Jc]
+gaiggibeliin: bets $71.09
+Oxota: calls $71.09
+*** SHOW DOWN ***
+gaiggibeliin: shows [Td 9c] (a pair of Nines)
+Oxota: shows [Ah 9s] (two pair, Aces and Nines)
+Oxota collected $236.96 from pot
+*** SUMMARY ***
+Total pot $238.46 | Rake $1.50 
+Board [Ad Qh 9d 6d Jc]
+Seat 3: gaiggibeliin showed [Td 9c] and lost with a pair of Nines
+Seat 4: Oxota (button blind) showed [Ah 9s] and won ($236.96) with two pair, Aces and Nines
+Seat 5: Apathy123 folded before Flop
+Seat 6: sss457 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196220030460:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 1:10:55 EET [2019/01/25 18:10:55 ET]
+Table 'Kalypso' 6-max Seat #4 is the button
+Seat 1: gaiggibeliin ($300 in chips) 
+Seat 2: oortje63 ($401.79 in chips) 
+Seat 3: madjic1 ($391.80 in chips) 
+Seat 4: fizik1982 ($135.22 in chips) 
+Seat 5: Tenebrus321 ($443.96 in chips) 
+Seat 6: sss457 ($274.39 in chips) 
+gaiggibeliin: posts the ante $2
+oortje63: posts the ante $2
+madjic1: posts the ante $2
+fizik1982: posts the ante $2
+Tenebrus321: posts the ante $2
+sss457: posts the ante $2
+fizik1982: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kd 6c]
+Tenebrus321: raises $8 to $10
+sss457: folds 
+gaiggibeliin: folds 
+oortje63: folds 
+madjic1: folds 
+fizik1982: raises $32 to $42
+Tenebrus321: folds 
+Uncalled bet ($32) returned to fizik1982
+fizik1982 collected $32 from pot
+fizik1982: doesn't show hand 
+*** SUMMARY ***
+Total pot $32 | Rake $0 
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: oortje63 folded before Flop (didn't bet)
+Seat 3: madjic1 folded before Flop (didn't bet)
+Seat 4: fizik1982 (button blind) collected ($32)
+Seat 5: Tenebrus321 folded before Flop
+Seat 6: sss457 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196220049007:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 1:11:22 EET [2019/01/25 18:11:22 ET]
+Table 'Kalypso' 6-max Seat #5 is the button
+Seat 1: gaiggibeliin ($298 in chips) 
+Seat 2: oortje63 ($399.79 in chips) 
+Seat 3: madjic1 ($389.80 in chips) 
+Seat 4: fizik1982 ($155.22 in chips) 
+Seat 5: Tenebrus321 ($431.96 in chips) 
+Seat 6: sss457 ($272.39 in chips) 
+gaiggibeliin: posts the ante $2
+oortje63: posts the ante $2
+madjic1: posts the ante $2
+fizik1982: posts the ante $2
+Tenebrus321: posts the ante $2
+sss457: posts the ante $2
+Tenebrus321: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jd 7c]
+sss457: folds 
+gaiggibeliin: folds 
+oortje63: raises $4 to $6
+madjic1: folds 
+fizik1982: calls $6
+Tenebrus321: raises $22 to $28
+oortje63: calls $22
+fizik1982: folds 
+*** FLOP *** [9d 6d Jh]
+oortje63: checks 
+Tenebrus321: checks 
+*** TURN *** [9d 6d Jh] [Qd]
+oortje63: checks 
+Tenebrus321: checks 
+*** RIVER *** [9d 6d Jh Qd] [8d]
+oortje63: checks 
+Tenebrus321: checks 
+*** SHOW DOWN ***
+oortje63: shows [Ks Ac] (high card Ace)
+Tenebrus321: shows [Tc Ts] (a straight, Eight to Queen)
+Tenebrus321 collected $70.50 from pot
+*** SUMMARY ***
+Total pot $74 | Rake $3.50 
+Board [9d 6d Jh Qd 8d]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: oortje63 showed [Ks Ac] and lost with high card Ace
+Seat 3: madjic1 folded before Flop (didn't bet)
+Seat 4: fizik1982 folded before Flop
+Seat 5: Tenebrus321 (button blind) showed [Tc Ts] and won ($70.50) with a straight, Eight to Queen
+Seat 6: sss457 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196220081006:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 1:12:09 EET [2019/01/25 18:12:09 ET]
+Table 'Kalypso' 6-max Seat #6 is the button
+Seat 1: gaiggibeliin ($296 in chips) 
+Seat 2: oortje63 ($369.79 in chips) 
+Seat 3: madjic1 ($387.80 in chips) 
+Seat 4: fizik1982 ($147.22 in chips) 
+Seat 5: Tenebrus321 ($472.46 in chips) 
+Seat 6: sss457 ($270.39 in chips) 
+gaiggibeliin: posts the ante $2
+oortje63: posts the ante $2
+madjic1: posts the ante $2
+fizik1982: posts the ante $2
+Tenebrus321: posts the ante $2
+sss457: posts the ante $2
+sss457: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jc 8s]
+gaiggibeliin: folds 
+oortje63: raises $6 to $8
+madjic1: folds 
+fizik1982: raises $30 to $38
+Tenebrus321: folds 
+sss457: raises $230.39 to $268.39 and is all-in
+oortje63: raises $99.40 to $367.79 and is all-in
+fizik1982: calls $107.22 and is all-in
+Uncalled bet ($99.40) returned to oortje63
+*** FLOP *** [8h Jd Kd]
+*** TURN *** [8h Jd Kd] [Jh]
+*** RIVER *** [8h Jd Kd Jh] [Ks]
+*** SHOW DOWN ***
+oortje63: shows [Ac Ad] (two pair, Aces and Kings)
+sss457: shows [Ah As] (two pair, Aces and Kings)
+oortje63 collected $123.17 from side pot
+sss457 collected $123.17 from side pot
+fizik1982: shows [8d 8c] (a full house, Eights full of Kings)
+fizik1982 collected $444.16 from main pot
+*** SUMMARY ***
+Total pot $694 Main pot $444.16. Side pot $246.34. | Rake $3.50 
+Board [8h Jd Kd Jh Ks]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: oortje63 showed [Ac Ad] and won ($123.17) with two pair, Aces and Kings
+Seat 3: madjic1 folded before Flop (didn't bet)
+Seat 4: fizik1982 showed [8d 8c] and won ($444.16) with a full house, Eights full of Kings
+Seat 5: Tenebrus321 folded before Flop (didn't bet)
+Seat 6: sss457 (button blind) showed [Ah As] and won ($123.17) with two pair, Aces and Kings
+
+
+
+PokerStars Hand #196220104344:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 1:12:44 EET [2019/01/25 18:12:44 ET]
+Table 'Kalypso' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($294 in chips) 
+Seat 2: oortje63 ($222.57 in chips) 
+Seat 3: madjic1 ($385.80 in chips) 
+Seat 4: fizik1982 ($444.16 in chips) 
+Seat 5: Tenebrus321 ($470.46 in chips) 
+Seat 6: sss457 ($200 in chips) 
+gaiggibeliin: posts the ante $2
+oortje63: posts the ante $2
+madjic1: posts the ante $2
+fizik1982: posts the ante $2
+Tenebrus321: posts the ante $2
+sss457: posts the ante $2
+gaiggibeliin: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6h Tc]
+oortje63: raises $4 to $6
+madjic1: calls $6
+fizik1982: calls $6
+Tenebrus321: folds 
+sss457: calls $6
+gaiggibeliin: calls $4
+*** FLOP *** [7d Td Ts]
+oortje63: checks 
+madjic1: checks 
+fizik1982: checks 
+sss457: checks 
+gaiggibeliin: bets $26.73
+oortje63: folds 
+madjic1: folds 
+fizik1982: calls $26.73
+sss457: folds 
+*** TURN *** [7d Td Ts] [Kc]
+fizik1982: checks 
+gaiggibeliin: bets $66
+fizik1982: folds 
+Uncalled bet ($66) returned to gaiggibeliin
+gaiggibeliin collected $91.96 from pot
+*** SUMMARY ***
+Total pot $95.46 | Rake $3.50 
+Board [7d Td Ts Kc]
+Seat 1: gaiggibeliin (button blind) collected ($91.96)
+Seat 2: oortje63 folded on the Flop
+Seat 3: madjic1 folded on the Flop
+Seat 4: fizik1982 folded on the Turn
+Seat 5: Tenebrus321 folded before Flop (didn't bet)
+Seat 6: sss457 folded on the Flop
+
+
+
+PokerStars Hand #196220193791:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 1:14:56 EET [2019/01/25 18:14:56 ET]
+Table 'Kalypso' 6-max Seat #2 is the button
+Seat 1: gaiggibeliin ($351.23 in chips) 
+Seat 2: oortje63 ($214.57 in chips) 
+Seat 3: madjic1 ($377.80 in chips) 
+Seat 4: fizik1982 ($409.43 in chips) 
+Seat 5: Tenebrus321 ($468.46 in chips) 
+Seat 6: sss457 ($200 in chips) 
+gaiggibeliin: posts the ante $2
+oortje63: posts the ante $2
+madjic1: posts the ante $2
+fizik1982: posts the ante $2
+Tenebrus321: posts the ante $2
+sss457: posts the ante $2
+oortje63: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Th 9s]
+madjic1: folds 
+fizik1982: folds 
+Tenebrus321: folds 
+sss457: raises $6 to $8
+gaiggibeliin: calls $8
+oortje63: calls $6
+*** FLOP *** [8c Jd 8s]
+sss457: checks 
+gaiggibeliin: bets $20
+oortje63: folds 
+sss457: calls $20
+*** TURN *** [8c Jd 8s] [Qd]
+sss457: checks 
+gaiggibeliin: bets $37.70
+sss457: folds 
+Uncalled bet ($37.70) returned to gaiggibeliin
+gaiggibeliin collected $72.50 from pot
+*** SUMMARY ***
+Total pot $76 | Rake $3.50 
+Board [8c Jd 8s Qd]
+Seat 1: gaiggibeliin collected ($72.50)
+Seat 2: oortje63 (button blind) folded on the Flop
+Seat 3: madjic1 folded before Flop (didn't bet)
+Seat 4: fizik1982 folded before Flop (didn't bet)
+Seat 5: Tenebrus321 folded before Flop (didn't bet)
+Seat 6: sss457 folded on the Turn
+
+
+
+PokerStars Hand #196220263795:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 1:16:41 EET [2019/01/25 18:16:41 ET]
+Table 'Kalypso' 6-max Seat #3 is the button
+Seat 1: gaiggibeliin ($393.73 in chips) 
+Seat 2: oortje63 ($204.57 in chips) 
+Seat 3: madjic1 ($375.80 in chips) 
+Seat 4: fizik1982 ($407.43 in chips) 
+Seat 5: Tenebrus321 ($466.46 in chips) 
+Seat 6: sss457 ($200 in chips) 
+gaiggibeliin: posts the ante $2
+oortje63: posts the ante $2
+madjic1: posts the ante $2
+fizik1982: posts the ante $2
+Tenebrus321: posts the ante $2
+sss457: posts the ante $2
+madjic1: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kh 8s]
+fizik1982: calls $2
+Tenebrus321: folds 
+sss457: calls $2
+gaiggibeliin: folds 
+oortje63: calls $2
+madjic1: raises $20 to $22
+fizik1982: folds 
+sss457: folds 
+oortje63: folds 
+Uncalled bet ($20) returned to madjic1
+madjic1 collected $20 from pot
+madjic1: doesn't show hand 
+*** SUMMARY ***
+Total pot $20 | Rake $0 
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: oortje63 folded before Flop
+Seat 3: madjic1 (button blind) collected ($20)
+Seat 4: fizik1982 folded before Flop
+Seat 5: Tenebrus321 folded before Flop (didn't bet)
+Seat 6: sss457 folded before Flop
+
+
+
+PokerStars Hand #196220286183:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 1:17:14 EET [2019/01/25 18:17:14 ET]
+Table 'Kalypso' 6-max Seat #4 is the button
+Seat 1: gaiggibeliin ($391.73 in chips) 
+Seat 2: oortje63 ($200.57 in chips) 
+Seat 3: madjic1 ($391.80 in chips) 
+Seat 4: fizik1982 ($403.43 in chips) 
+Seat 5: Tenebrus321 ($464.46 in chips) 
+Seat 6: sss457 ($200 in chips) 
+gaiggibeliin: posts the ante $2
+oortje63: posts the ante $2
+madjic1: posts the ante $2
+fizik1982: posts the ante $2
+Tenebrus321: posts the ante $2
+sss457: posts the ante $2
+fizik1982: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9s 8s]
+Tenebrus321: folds 
+sss457: folds 
+gaiggibeliin: calls $2
+oortje63: folds 
+madjic1: calls $2
+fizik1982: checks 
+*** FLOP *** [6s Th Td]
+gaiggibeliin: bets $8.89
+madjic1: calls $8.89
+fizik1982: folds 
+*** TURN *** [6s Th Td] [Kd]
+gaiggibeliin: bets $22.77
+madjic1: folds 
+Uncalled bet ($22.77) returned to gaiggibeliin
+gaiggibeliin collected $33.99 from pot
+*** SUMMARY ***
+Total pot $35.78 | Rake $1.79 
+Board [6s Th Td Kd]
+Seat 1: gaiggibeliin collected ($33.99)
+Seat 2: oortje63 folded before Flop (didn't bet)
+Seat 3: madjic1 folded on the Turn
+Seat 4: fizik1982 (button blind) folded on the Flop
+Seat 5: Tenebrus321 folded before Flop (didn't bet)
+Seat 6: sss457 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196220331516:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 1:18:22 EET [2019/01/25 18:18:22 ET]
+Table 'Kalypso' 6-max Seat #5 is the button
+Seat 1: gaiggibeliin ($412.83 in chips) 
+Seat 2: oortje63 ($198.57 in chips) 
+Seat 3: madjic1 ($378.91 in chips) 
+Seat 4: fizik1982 ($399.43 in chips) 
+Seat 5: Tenebrus321 ($462.46 in chips) 
+Seat 6: sss457 ($200 in chips) 
+gaiggibeliin: posts the ante $2
+oortje63: posts the ante $2
+madjic1: posts the ante $2
+fizik1982: posts the ante $2
+Tenebrus321: posts the ante $2
+sss457: posts the ante $2
+Tenebrus321: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6s 6h]
+sss457: folds 
+gaiggibeliin: calls $2
+oortje63: raises $4 to $6
+madjic1: folds 
+fizik1982: calls $6
+Tenebrus321: calls $4
+gaiggibeliin: calls $4
+*** FLOP *** [As Ts 7d]
+gaiggibeliin: checks 
+oortje63: bets $17.10
+fizik1982: folds 
+Tenebrus321: folds 
+gaiggibeliin: folds 
+Uncalled bet ($17.10) returned to oortje63
+oortje63 collected $34.20 from pot
+oortje63: doesn't show hand 
+*** SUMMARY ***
+Total pot $36 | Rake $1.80 
+Board [As Ts 7d]
+Seat 1: gaiggibeliin folded on the Flop
+Seat 2: oortje63 collected ($34.20)
+Seat 3: madjic1 folded before Flop (didn't bet)
+Seat 4: fizik1982 folded on the Flop
+Seat 5: Tenebrus321 (button blind) folded on the Flop
+Seat 6: sss457 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196220363602:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 1:19:10 EET [2019/01/25 18:19:10 ET]
+Table 'Kalypso' 6-max Seat #6 is the button
+Seat 1: gaiggibeliin ($404.83 in chips) 
+Seat 2: oortje63 ($224.77 in chips) 
+Seat 3: madjic1 ($376.91 in chips) 
+Seat 4: fizik1982 ($391.43 in chips) 
+Seat 5: Tenebrus321 ($454.46 in chips) 
+Seat 6: sss457 ($200 in chips) 
+gaiggibeliin: posts the ante $2
+oortje63: posts the ante $2
+madjic1: posts the ante $2
+fizik1982: posts the ante $2
+Tenebrus321: posts the ante $2
+sss457: posts the ante $2
+sss457: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ts 7s]
+gaiggibeliin: folds 
+oortje63: raises $16 to $18
+madjic1: folds 
+fizik1982: folds 
+Tenebrus321: folds 
+sss457: folds 
+Uncalled bet ($16) returned to oortje63
+oortje63 collected $16 from pot
+oortje63: doesn't show hand 
+*** SUMMARY ***
+Total pot $16 | Rake $0 
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: oortje63 collected ($16)
+Seat 3: madjic1 folded before Flop (didn't bet)
+Seat 4: fizik1982 folded before Flop (didn't bet)
+Seat 5: Tenebrus321 folded before Flop (didn't bet)
+Seat 6: sss457 (button blind) folded before Flop
+
+
+
+PokerStars Hand #196220385258:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 1:19:43 EET [2019/01/25 18:19:43 ET]
+Table 'Kalypso' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($402.83 in chips) 
+Seat 2: oortje63 ($236.77 in chips) 
+Seat 3: madjic1 ($374.91 in chips) 
+Seat 4: fizik1982 ($389.43 in chips) 
+Seat 5: Tenebrus321 ($452.46 in chips) 
+Seat 6: sss457 ($200 in chips) 
+gaiggibeliin: posts the ante $2
+oortje63: posts the ante $2
+madjic1: posts the ante $2
+fizik1982: posts the ante $2
+Tenebrus321: posts the ante $2
+sss457: posts the ante $2
+gaiggibeliin: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ad 7d]
+oortje63: folds 
+madjic1: calls $2
+fizik1982 has timed out
+fizik1982: folds 
+Tenebrus321: calls $2
+sss457: calls $2
+gaiggibeliin: checks 
+*** FLOP *** [Tc 7h Qs]
+madjic1: bets $9.50
+Tenebrus321: calls $9.50
+sss457: calls $9.50
+gaiggibeliin: folds 
+*** TURN *** [Tc 7h Qs] [9d]
+madjic1: bets $47
+Tenebrus321: calls $47
+sss457: folds 
+*** RIVER *** [Tc 7h Qs 9d] [Td]
+madjic1: checks 
+Tenebrus321: checks 
+*** SHOW DOWN ***
+madjic1: shows [Jh As] (a pair of Tens)
+Tenebrus321: shows [Jd Kc] (a straight, Nine to King)
+Tenebrus321 collected $139 from pot
+*** SUMMARY ***
+Total pot $142.50 | Rake $3.50 
+Board [Tc 7h Qs 9d Td]
+Seat 1: gaiggibeliin (button blind) folded on the Flop
+Seat 2: oortje63 folded before Flop (didn't bet)
+Seat 3: madjic1 showed [Jh As] and lost with a pair of Tens
+Seat 4: fizik1982 folded before Flop (didn't bet)
+Seat 5: Tenebrus321 showed [Jd Kc] and won ($139) with a straight, Nine to King
+Seat 6: sss457 folded on the Turn
+
+
+
+PokerStars Hand #196220468080:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 1:21:48 EET [2019/01/25 18:21:48 ET]
+Table 'Kalypso' 6-max Seat #2 is the button
+Seat 1: gaiggibeliin ($398.83 in chips) 
+Seat 2: oortje63 ($234.77 in chips) 
+Seat 3: madjic1 ($314.41 in chips) 
+Seat 5: Tenebrus321 ($530.96 in chips) 
+Seat 6: sss457 ($200 in chips) 
+gaiggibeliin: posts the ante $2
+oortje63: posts the ante $2
+madjic1: posts the ante $2
+Tenebrus321: posts the ante $2
+sss457: posts the ante $2
+oortje63: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qd Kc]
+madjic1: folds 
+Tenebrus321: folds 
+sss457: folds 
+gaiggibeliin: calls $2
+oortje63: raises $14 to $16
+gaiggibeliin: calls $14
+*** FLOP *** [Ac 9d Jh]
+gaiggibeliin: checks 
+oortje63: bets $19.95
+gaiggibeliin: calls $19.95
+*** TURN *** [Ac 9d Jh] [Kd]
+gaiggibeliin: checks 
+oortje63: checks 
+*** RIVER *** [Ac 9d Jh Kd] [Kh]
+fizik1982 is disconnected 
+gaiggibeliin: bets $58.80
+oortje63: folds 
+Uncalled bet ($58.80) returned to gaiggibeliin
+gaiggibeliin collected $78.40 from pot
+*** SUMMARY ***
+Total pot $81.90 | Rake $3.50 
+Board [Ac 9d Jh Kd Kh]
+Seat 1: gaiggibeliin collected ($78.40)
+Seat 2: oortje63 (button blind) folded on the River
+Seat 3: madjic1 folded before Flop (didn't bet)
+Seat 5: Tenebrus321 folded before Flop (didn't bet)
+Seat 6: sss457 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196220513079:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 1:22:57 EET [2019/01/25 18:22:57 ET]
+Table 'Kalypso' 6-max Seat #3 is the button
+Seat 1: gaiggibeliin ($439.28 in chips) 
+Seat 2: oortje63 ($196.82 in chips) 
+Seat 3: madjic1 ($312.41 in chips) 
+Seat 5: Tenebrus321 ($528.96 in chips) 
+Seat 6: sss457 ($200 in chips) 
+gaiggibeliin: posts the ante $2
+oortje63: posts the ante $2
+madjic1: posts the ante $2
+Tenebrus321: posts the ante $2
+sss457: posts the ante $2
+madjic1: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8s Qd]
+Tenebrus321: folds 
+sss457: folds 
+gaiggibeliin: folds 
+oortje63: folds 
+Uncalled bet ($2) returned to madjic1
+madjic1 collected $10 from pot
+madjic1: doesn't show hand 
+*** SUMMARY ***
+Total pot $10 | Rake $0 
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: oortje63 folded before Flop (didn't bet)
+Seat 3: madjic1 (button blind) collected ($10)
+Seat 5: Tenebrus321 folded before Flop (didn't bet)
+Seat 6: sss457 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196220520114:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 1:23:08 EET [2019/01/25 18:23:08 ET]
+Table 'Kalypso' 6-max Seat #5 is the button
+Seat 1: gaiggibeliin ($437.28 in chips) 
+Seat 2: oortje63 ($194.82 in chips) 
+Seat 3: madjic1 ($320.41 in chips) 
+Seat 5: Tenebrus321 ($526.96 in chips) 
+Seat 6: sss457 ($200 in chips) 
+gaiggibeliin: posts the ante $2
+oortje63: posts the ante $2
+madjic1: posts the ante $2
+Tenebrus321: posts the ante $2
+sss457: posts the ante $2
+Tenebrus321: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8s Ks]
+sss457: calls $2
+gaiggibeliin: folds 
+oortje63: raises $4 to $6
+madjic1: calls $6
+Tenebrus321: folds 
+sss457: raises $192 to $198 and is all-in
+oortje63: folds 
+madjic1: folds 
+Uncalled bet ($192) returned to sss457
+sss457 collected $30 from pot
+sss457: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $0 
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: oortje63 folded before Flop
+Seat 3: madjic1 folded before Flop
+Seat 5: Tenebrus321 (button blind) folded before Flop
+Seat 6: sss457 collected ($30)
+
+
+
+PokerStars Hand #196220545382:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 1:23:46 EET [2019/01/25 18:23:46 ET]
+Table 'Kalypso' 6-max Seat #6 is the button
+Seat 1: gaiggibeliin ($435.28 in chips) 
+Seat 2: oortje63 ($186.82 in chips) 
+Seat 3: madjic1 ($312.41 in chips) 
+Seat 5: Tenebrus321 ($522.96 in chips) 
+Seat 6: sss457 ($222 in chips) 
+gaiggibeliin: posts the ante $2
+oortje63: posts the ante $2
+madjic1: posts the ante $2
+Tenebrus321: posts the ante $2
+sss457: posts the ante $2
+sss457: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ts 8s]
+gaiggibeliin: calls $2
+oortje63: raises $4 to $6
+madjic1: folds 
+Tenebrus321: folds 
+sss457: folds 
+gaiggibeliin: calls $4
+*** FLOP *** [Td Ah Kh]
+gaiggibeliin: checks 
+oortje63: checks 
+*** TURN *** [Td Ah Kh] [As]
+gaiggibeliin: checks 
+oortje63: checks 
+*** RIVER *** [Td Ah Kh As] [Jh]
+gaiggibeliin: checks 
+oortje63: checks 
+*** SHOW DOWN ***
+gaiggibeliin: shows [Ts 8s] (two pair, Aces and Tens)
+oortje63: mucks hand 
+gaiggibeliin collected $22.80 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $1.20 
+Board [Td Ah Kh As Jh]
+Seat 1: gaiggibeliin showed [Ts 8s] and won ($22.80) with two pair, Aces and Tens
+Seat 2: oortje63 mucked [9h 9s]
+Seat 3: madjic1 folded before Flop (didn't bet)
+Seat 5: Tenebrus321 folded before Flop (didn't bet)
+Seat 6: sss457 (button blind) folded before Flop
+
+
+
+PokerStars Hand #196220576058:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 1:24:33 EET [2019/01/25 18:24:33 ET]
+Table 'Kalypso' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($450.08 in chips) 
+Seat 2: oortje63 ($178.82 in chips) 
+Seat 3: madjic1 ($310.41 in chips) 
+Seat 5: Tenebrus321 ($520.96 in chips) 
+Seat 6: sss457 ($218 in chips) 
+gaiggibeliin: posts the ante $2
+oortje63: posts the ante $2
+madjic1: posts the ante $2
+Tenebrus321: posts the ante $2
+sss457: posts the ante $2
+gaiggibeliin: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7h 7c]
+oortje63: raises $4 to $6
+madjic1: folds 
+Tenebrus321: calls $6
+sss457: calls $6
+gaiggibeliin: calls $4
+*** FLOP *** [Jh Jc Kh]
+oortje63: checks 
+Tenebrus321: checks 
+sss457: checks 
+gaiggibeliin: checks 
+*** TURN *** [Jh Jc Kh] [7s]
+oortje63: checks 
+Tenebrus321: checks 
+sss457: checks 
+gaiggibeliin: bets $20
+oortje63: calls $20
+Tenebrus321: folds 
+sss457: folds 
+*** RIVER *** [Jh Jc Kh 7s] [8h]
+oortje63: checks 
+gaiggibeliin: checks 
+*** SHOW DOWN ***
+oortje63: shows [Kd As] (two pair, Kings and Jacks)
+gaiggibeliin: shows [7h 7c] (a full house, Sevens full of Jacks)
+gaiggibeliin collected $70.50 from pot
+*** SUMMARY ***
+Total pot $74 | Rake $3.50 
+Board [Jh Jc Kh 7s 8h]
+Seat 1: gaiggibeliin (button blind) showed [7h 7c] and won ($70.50) with a full house, Sevens full of Jacks
+Seat 2: oortje63 showed [Kd As] and lost with two pair, Kings and Jacks
+Seat 3: madjic1 folded before Flop (didn't bet)
+Seat 5: Tenebrus321 folded on the Turn
+Seat 6: sss457 folded on the Turn
+
+
+
+PokerStars Hand #196220654499:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 1:26:32 EET [2019/01/25 18:26:32 ET]
+Table 'Kalypso' 6-max Seat #2 is the button
+Seat 1: gaiggibeliin ($492.58 in chips) 
+Seat 2: oortje63 ($150.82 in chips) 
+Seat 3: madjic1 ($308.41 in chips) 
+Seat 5: Tenebrus321 ($512.96 in chips) 
+Seat 6: sss457 ($210 in chips) 
+gaiggibeliin: posts the ante $2
+oortje63: posts the ante $2
+madjic1: posts the ante $2
+Tenebrus321: posts the ante $2
+sss457: posts the ante $2
+oortje63: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kd Td]
+madjic1: calls $2
+Tenebrus321: folds 
+sss457: calls $2
+gaiggibeliin: calls $2
+oortje63: checks 
+*** FLOP *** [6h 7h Qd]
+madjic1: bets $14.83
+sss457: folds 
+gaiggibeliin: folds 
+oortje63: calls $14.83
+*** TURN *** [6h 7h Qd] [Jc]
+madjic1: checks 
+oortje63: checks 
+*** RIVER *** [6h 7h Qd Jc] [6d]
+madjic1: bets $59.19
+oortje63: folds 
+Uncalled bet ($59.19) returned to madjic1
+madjic1 collected $45.28 from pot
+madjic1: doesn't show hand 
+*** SUMMARY ***
+Total pot $47.66 | Rake $2.38 
+Board [6h 7h Qd Jc 6d]
+Seat 1: gaiggibeliin folded on the Flop
+Seat 2: oortje63 (button blind) folded on the River
+Seat 3: madjic1 collected ($45.28)
+Seat 5: Tenebrus321 folded before Flop (didn't bet)
+Seat 6: sss457 folded on the Flop
+
+
+
+PokerStars Hand #196220729309:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 1:28:27 EET [2019/01/25 18:28:27 ET]
+Table 'Kalypso' 6-max Seat #3 is the button
+Seat 1: gaiggibeliin ($488.58 in chips) 
+Seat 2: oortje63 ($131.99 in chips) 
+Seat 3: madjic1 ($334.86 in chips) 
+Seat 5: Tenebrus321 ($510.96 in chips) 
+Seat 6: sss457 ($206 in chips) 
+gaiggibeliin: posts the ante $2
+oortje63: posts the ante $2
+madjic1: posts the ante $2
+Tenebrus321: posts the ante $2
+sss457: posts the ante $2
+madjic1: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9c Ks]
+Tenebrus321: folds 
+sss457: folds 
+gaiggibeliin: folds 
+oortje63: raises $4 to $6
+madjic1: calls $4
+*** FLOP *** [Jc 8d Kc]
+oortje63: checks 
+madjic1: checks 
+*** TURN *** [Jc 8d Kc] [Ad]
+oortje63: checks 
+madjic1: checks 
+*** RIVER *** [Jc 8d Kc Ad] [Ac]
+oortje63: bets $10.45
+madjic1: folds 
+Uncalled bet ($10.45) returned to oortje63
+oortje63 collected $20.90 from pot
+oortje63: doesn't show hand 
+*** SUMMARY ***
+Total pot $22 | Rake $1.10 
+Board [Jc 8d Kc Ad Ac]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: oortje63 collected ($20.90)
+Seat 3: madjic1 (button blind) folded on the River
+Seat 5: Tenebrus321 folded before Flop (didn't bet)
+Seat 6: sss457 folded before Flop (didn't bet)
+
+
+

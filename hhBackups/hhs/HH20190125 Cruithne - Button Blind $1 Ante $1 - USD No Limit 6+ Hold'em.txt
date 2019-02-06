@@ -1,0 +1,458 @@
+﻿PokerStars Hand #196197865747:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 16:05:35 EET [2019/01/25 9:05:35 ET]
+Table 'Cruithne' 6-max Seat #4 is the button
+Seat 1: sjohnny200 ($260.65 in chips) 
+Seat 2: Zihuatanejo3 ($229.87 in chips) 
+Seat 4: Lukey1905 ($118.50 in chips) 
+Seat 5: checkdark191 ($204.20 in chips) 
+Seat 6: gaiggibeliin ($150 in chips) 
+sjohnny200: posts the ante $1
+Zihuatanejo3: posts the ante $1
+Lukey1905: posts the ante $1
+checkdark191: posts the ante $1
+gaiggibeliin: posts the ante $1
+Lukey1905: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Th Ah]
+checkdark191: raises $4 to $5
+gaiggibeliin: calls $5
+sjohnny200: raises $19 to $24
+Zihuatanejo3: folds 
+Lukey1905: folds 
+checkdark191: calls $19
+gaiggibeliin: calls $19
+*** FLOP *** [9s Ad Kd]
+checkdark191: checks 
+gaiggibeliin: checks 
+sjohnny200: bets $25.59
+checkdark191: folds 
+gaiggibeliin: calls $25.59
+*** TURN *** [9s Ad Kd] [Jd]
+gaiggibeliin: checks 
+sjohnny200: bets $210.06 and is all-in
+gaiggibeliin: folds 
+Uncalled bet ($210.06) returned to sjohnny200
+sjohnny200 collected $126.43 from pot
+*** SUMMARY ***
+Total pot $129.18 | Rake $2.75 
+Board [9s Ad Kd Jd]
+Seat 1: sjohnny200 collected ($126.43)
+Seat 2: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 4: Lukey1905 (button blind) folded before Flop
+Seat 5: checkdark191 folded on the Flop
+Seat 6: gaiggibeliin folded on the Turn
+
+
+
+PokerStars Hand #196197894154:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 16:06:32 EET [2019/01/25 9:06:32 ET]
+Table 'Cruithne' 6-max Seat #5 is the button
+Seat 1: sjohnny200 ($336.49 in chips) 
+Seat 2: Zihuatanejo3 ($228.87 in chips) 
+Seat 3: fizik1982 ($108.20 in chips) 
+Seat 4: Lukey1905 ($116.50 in chips) 
+Seat 5: checkdark191 ($179.20 in chips) 
+Seat 6: gaiggibeliin ($150 in chips) 
+sjohnny200: posts the ante $1
+Zihuatanejo3: posts the ante $1
+fizik1982: posts the ante $1
+Lukey1905: posts the ante $1
+checkdark191: posts the ante $1
+gaiggibeliin: posts the ante $1
+checkdark191: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jd 6s]
+gaiggibeliin: folds 
+sjohnny200: raises $8 to $9
+Zihuatanejo3: folds 
+fizik1982: folds 
+Lukey1905: folds 
+checkdark191: calls $8
+*** FLOP *** [Th Js Ad]
+sjohnny200: bets $15.20
+checkdark191: folds 
+Uncalled bet ($15.20) returned to sjohnny200
+sjohnny200 collected $22.80 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $1.20 
+Board [Th Js Ad]
+Seat 1: sjohnny200 collected ($22.80)
+Seat 2: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 3: fizik1982 folded before Flop (didn't bet)
+Seat 4: Lukey1905 folded before Flop (didn't bet)
+Seat 5: checkdark191 (button blind) folded on the Flop
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196197911540:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 16:07:08 EET [2019/01/25 9:07:08 ET]
+Table 'Cruithne' 6-max Seat #6 is the button
+Seat 1: sjohnny200 ($349.29 in chips) 
+Seat 2: Zihuatanejo3 ($227.87 in chips) 
+Seat 3: fizik1982 ($107.20 in chips) 
+Seat 4: Lukey1905 ($115.50 in chips) 
+Seat 5: checkdark191 ($169.20 in chips) 
+Seat 6: gaiggibeliin ($149 in chips) 
+sjohnny200: posts the ante $1
+Zihuatanejo3: posts the ante $1
+fizik1982: posts the ante $1
+Lukey1905: posts the ante $1
+checkdark191: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qs Th]
+sjohnny200: raises $8 to $9
+Zihuatanejo3: folds 
+fizik1982: calls $9
+Lukey1905: folds 
+checkdark191: raises $41 to $50
+gaiggibeliin: folds 
+sjohnny200: raises $298.29 to $348.29 and is all-in
+fizik1982: folds 
+checkdark191: calls $118.20 and is all-in
+Uncalled bet ($180.09) returned to sjohnny200
+*** FLOP *** [Ks 8c 6h]
+*** TURN *** [Ks 8c 6h] [Qh]
+*** RIVER *** [Ks 8c 6h Qh] [8h]
+*** SHOW DOWN ***
+sjohnny200: shows [Jc Jh] (two pair, Jacks and Eights)
+checkdark191: shows [Ah Kd] (two pair, Kings and Eights)
+checkdark191 collected $349.65 from pot
+*** SUMMARY ***
+Total pot $352.40 | Rake $2.75 
+Board [Ks 8c 6h Qh 8h]
+Seat 1: sjohnny200 showed [Jc Jh] and lost with two pair, Jacks and Eights
+Seat 2: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 3: fizik1982 folded before Flop
+Seat 4: Lukey1905 folded before Flop (didn't bet)
+Seat 5: checkdark191 showed [Ah Kd] and won ($349.65) with two pair, Kings and Eights
+Seat 6: gaiggibeliin (button blind) folded before Flop
+
+
+
+PokerStars Hand #196197928039:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 16:07:42 EET [2019/01/25 9:07:42 ET]
+Table 'Cruithne' 6-max Seat #1 is the button
+Seat 1: sjohnny200 ($180.09 in chips) 
+Seat 2: Zihuatanejo3 ($226.87 in chips) 
+Seat 3: fizik1982 ($97.20 in chips) 
+Seat 4: Lukey1905 ($114.50 in chips) 
+Seat 5: checkdark191 ($349.65 in chips) 
+Seat 6: gaiggibeliin ($147 in chips) 
+sjohnny200: posts the ante $1
+Zihuatanejo3: posts the ante $1
+fizik1982: posts the ante $1
+Lukey1905: posts the ante $1
+checkdark191: posts the ante $1
+gaiggibeliin: posts the ante $1
+sjohnny200: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6d 8h]
+Zihuatanejo3: calls $1
+fizik1982: calls $1
+Lukey1905: raises $8 to $9
+checkdark191: calls $9
+gaiggibeliin: folds 
+sjohnny200: calls $8
+Zihuatanejo3: folds 
+fizik1982: calls $8
+*** FLOP *** [Ts Kh 7d]
+fizik1982: checks 
+Zihuatanejo3 leaves the table
+Lukey1905: checks 
+checkdark191: bets $23
+sjohnny200: folds 
+fizik1982: calls $23
+Lukey1905: folds 
+*** TURN *** [Ts Kh 7d] [9c]
+fizik1982: checks 
+checkdark191: checks 
+*** RIVER *** [Ts Kh 7d 9c] [Kd]
+fizik1982: bets $64.20 and is all-in
+checkdark191: calls $64.20
+*** SHOW DOWN ***
+fizik1982: shows [Qc Tc] (two pair, Kings and Tens)
+checkdark191: shows [Ah Kc] (three of a kind, Kings)
+checkdark191 collected $214.65 from pot
+*** SUMMARY ***
+Total pot $217.40 | Rake $2.75 
+Board [Ts Kh 7d 9c Kd]
+Seat 1: sjohnny200 (button blind) folded on the Flop
+Seat 2: Zihuatanejo3 folded before Flop
+Seat 3: fizik1982 showed [Qc Tc] and lost with two pair, Kings and Tens
+Seat 4: Lukey1905 folded on the Flop
+Seat 5: checkdark191 showed [Ah Kc] and won ($214.65) with three of a kind, Kings
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196197962733:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 16:08:52 EET [2019/01/25 9:08:52 ET]
+Table 'Cruithne' 6-max Seat #4 is the button
+Seat 1: sjohnny200 ($170.09 in chips) 
+Seat 4: Lukey1905 ($104.50 in chips) 
+Seat 5: checkdark191 ($467.10 in chips) 
+Seat 6: gaiggibeliin ($146 in chips) 
+sjohnny200: posts the ante $1
+Lukey1905: posts the ante $1
+checkdark191: posts the ante $1
+gaiggibeliin: posts the ante $1
+Lukey1905: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ks Kd]
+checkdark191: folds 
+fizik1982 leaves the table
+gaiggibeliin: calls $1
+sjohnny200: raises $7 to $8
+Lukey1905: calls $7
+gaiggibeliin: raises $137 to $145 and is all-in
+sjohnny200: raises $24.09 to $169.09 and is all-in
+Lukey1905: folds 
+Uncalled bet ($24.09) returned to sjohnny200
+*** FLOP *** [Ac Td 9c]
+*** TURN *** [Ac Td 9c] [7c]
+*** RIVER *** [Ac Td 9c 7c] [7h]
+*** SHOW DOWN ***
+gaiggibeliin: shows [Ks Kd] (two pair, Kings and Sevens)
+sjohnny200: shows [Jh Jc] (two pair, Jacks and Sevens)
+gaiggibeliin collected $300.75 from pot
+*** SUMMARY ***
+Total pot $302 | Rake $1.25 
+Board [Ac Td 9c 7c 7h]
+Seat 1: sjohnny200 showed [Jh Jc] and lost with two pair, Jacks and Sevens
+Seat 4: Lukey1905 (button blind) folded before Flop
+Seat 5: checkdark191 folded before Flop (didn't bet)
+Seat 6: gaiggibeliin showed [Ks Kd] and won ($300.75) with two pair, Kings and Sevens
+
+
+
+PokerStars Hand #196197985237:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 16:09:39 EET [2019/01/25 9:09:39 ET]
+Table 'Cruithne' 6-max Seat #5 is the button
+Seat 1: sjohnny200 ($24.09 in chips) 
+Seat 4: Lukey1905 ($135.50 in chips) 
+Seat 5: checkdark191 ($466.10 in chips) 
+Seat 6: gaiggibeliin ($300.75 in chips) 
+sjohnny200: posts the ante $1
+Lukey1905: posts the ante $1
+checkdark191: posts the ante $1
+gaiggibeliin: posts the ante $1
+checkdark191: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6c Kd]
+gaiggibeliin: folds 
+sjohnny200: raises $6 to $7
+Lukey1905: calls $7
+checkdark191: calls $6
+*** FLOP *** [Qh Js Ad]
+sjohnny200: bets $16.09 and is all-in
+Lukey1905: calls $16.09
+checkdark191: folds 
+*** TURN *** [Qh Js Ad] [6d]
+*** RIVER *** [Qh Js Ad 6d] [Jh]
+*** SHOW DOWN ***
+sjohnny200: shows [9c Th] (a pair of Jacks)
+Lukey1905: shows [Kh Qc] (two pair, Queens and Jacks)
+Lukey1905 collected $55.93 from pot
+*** SUMMARY ***
+Total pot $57.18 | Rake $1.25 
+Board [Qh Js Ad 6d Jh]
+Seat 1: sjohnny200 showed [9c Th] and lost with a pair of Jacks
+Seat 4: Lukey1905 showed [Kh Qc] and won ($55.93) with two pair, Queens and Jacks
+Seat 5: checkdark191 (button blind) folded on the Flop
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196198020688:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 16:10:51 EET [2019/01/25 9:10:51 ET]
+Table 'Cruithne' 6-max Seat #6 is the button
+Seat 1: sjohnny200 ($125.91 in chips) 
+Seat 4: Lukey1905 ($167.34 in chips) 
+Seat 5: checkdark191 ($458.10 in chips) 
+Seat 6: gaiggibeliin ($299.75 in chips) 
+sjohnny200: posts the ante $1
+Lukey1905: posts the ante $1
+checkdark191: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7s Ac]
+sjohnny200: raises $6 to $7
+Lukey1905: folds 
+checkdark191: folds 
+gaiggibeliin: folds 
+Uncalled bet ($6) returned to sjohnny200
+sjohnny200 collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: sjohnny200 collected ($6)
+Seat 4: Lukey1905 folded before Flop (didn't bet)
+Seat 5: checkdark191 folded before Flop (didn't bet)
+Seat 6: gaiggibeliin (button blind) folded before Flop
+
+
+
+PokerStars Hand #196198028878:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 16:11:08 EET [2019/01/25 9:11:08 ET]
+Table 'Cruithne' 6-max Seat #1 is the button
+Seat 1: sjohnny200 ($129.91 in chips) 
+Seat 4: Lukey1905 ($166.34 in chips) 
+Seat 5: checkdark191 ($457.10 in chips) 
+Seat 6: gaiggibeliin ($297.75 in chips) 
+sjohnny200: posts the ante $1
+Lukey1905: posts the ante $1
+checkdark191: posts the ante $1
+gaiggibeliin: posts the ante $1
+sjohnny200: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8c 7h]
+Lukey1905: calls $1
+checkdark191: calls $1
+gaiggibeliin: folds 
+sjohnny200: raises $7 to $8
+Lukey1905: calls $7
+checkdark191: calls $7
+*** FLOP *** [Qh 6c Kc]
+Lukey1905: checks 
+checkdark191: checks 
+sjohnny200: checks 
+*** TURN *** [Qh 6c Kc] [Tc]
+Lukey1905: checks 
+checkdark191: checks 
+sjohnny200: bets $20.06
+Lukey1905: folds 
+checkdark191: folds 
+Uncalled bet ($20.06) returned to sjohnny200
+sjohnny200 collected $26.75 from pot
+*** SUMMARY ***
+Total pot $28 | Rake $1.25 
+Board [Qh 6c Kc Tc]
+Seat 1: sjohnny200 (button blind) collected ($26.75)
+Seat 4: Lukey1905 folded on the Turn
+Seat 5: checkdark191 folded on the Turn
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196198060959:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 16:12:14 EET [2019/01/25 9:12:14 ET]
+Table 'Cruithne' 6-max Seat #4 is the button
+Seat 1: sjohnny200 ($147.66 in chips) 
+Seat 4: Lukey1905 ($157.34 in chips) 
+Seat 5: checkdark191 ($448.10 in chips) 
+Seat 6: gaiggibeliin ($296.75 in chips) 
+sjohnny200: posts the ante $1
+Lukey1905: posts the ante $1
+checkdark191: posts the ante $1
+gaiggibeliin: posts the ante $1
+Lukey1905: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ks 9s]
+checkdark191: folds 
+gaiggibeliin: calls $1
+sjohnny200: raises $7 to $8
+Lukey1905: calls $7
+gaiggibeliin: calls $7
+*** FLOP *** [9c 6s 9h]
+gaiggibeliin: checks 
+checkdark191 leaves the table
+sjohnny200: checks 
+Lukey1905: bets $13
+gaiggibeliin: raises $25 to $38
+sjohnny200: folds 
+Lukey1905: calls $25
+*** TURN *** [9c 6s 9h] [Kc]
+gaiggibeliin: bets $30
+Lukey1905: raises $56.34 to $86.34
+gaiggibeliin: raises $163.41 to $249.75 and is all-in
+Lukey1905: calls $24 and is all-in
+Uncalled bet ($139.41) returned to gaiggibeliin
+*** RIVER *** [9c 6s 9h Kc] [Td]
+*** SHOW DOWN ***
+gaiggibeliin: shows [Ks 9s] (a full house, Nines full of Kings)
+Lukey1905: shows [Qc Jh] (a straight, Nine to King)
+gaiggibeliin collected $323.43 from pot
+*** SUMMARY ***
+Total pot $324.68 | Rake $1.25 
+Board [9c 6s 9h Kc Td]
+Seat 1: sjohnny200 folded on the Flop
+Seat 4: Lukey1905 (button blind) showed [Qc Jh] and lost with a straight, Nine to King
+Seat 5: checkdark191 folded before Flop (didn't bet)
+Seat 6: gaiggibeliin showed [Ks 9s] and won ($323.43) with a full house, Nines full of Kings
+
+
+
+PokerStars Hand #196198129310:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 16:14:32 EET [2019/01/25 9:14:32 ET]
+Table 'Cruithne' 6-max Seat #6 is the button
+Seat 1: sjohnny200 ($150 in chips) 
+Seat 6: gaiggibeliin ($462.84 in chips) 
+sjohnny200: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Td As]
+sjohnny200: raises $2 to $3
+Lukey1905 leaves the table
+gaiggibeliin: calls $2
+*** FLOP *** [Kd 9d Js]
+sjohnny200: checks 
+gaiggibeliin: checks 
+*** TURN *** [Kd 9d Js] [Kh]
+sjohnny200: bets $5.07
+gaiggibeliin: folds 
+Uncalled bet ($5.07) returned to sjohnny200
+sjohnny200 collected $7.60 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [Kd 9d Js Kh]
+Seat 1: sjohnny200 collected ($7.60)
+Seat 6: gaiggibeliin (button blind) folded on the Turn
+
+
+
+PokerStars Hand #196198147409:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 16:15:09 EET [2019/01/25 9:15:09 ET]
+Table 'Cruithne' 6-max Seat #1 is the button
+Seat 1: sjohnny200 ($153.60 in chips) 
+Seat 6: gaiggibeliin ($458.84 in chips) 
+sjohnny200: posts the ante $1
+gaiggibeliin: posts the ante $1
+sjohnny200: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kd Qc]
+gaiggibeliin: calls $1
+sjohnny200: raises $4 to $5
+gaiggibeliin: raises $17 to $22
+sjohnny200: calls $17
+*** FLOP *** [Qh 7d 9h]
+gaiggibeliin: checks 
+sjohnny200: bets $33
+gaiggibeliin: raises $402.84 to $435.84 and is all-in
+sjohnny200: calls $97.60 and is all-in
+Uncalled bet ($305.24) returned to gaiggibeliin
+*** TURN *** [Qh 7d 9h] [9c]
+*** RIVER *** [Qh 7d 9h 9c] [Jd]
+*** SHOW DOWN ***
+gaiggibeliin: shows [Kd Qc] (two pair, Queens and Nines)
+sjohnny200: shows [7c 9d] (a full house, Nines full of Sevens)
+sjohnny200 collected $305.95 from pot
+*** SUMMARY ***
+Total pot $307.20 | Rake $1.25 
+Board [Qh 7d 9h 9c Jd]
+Seat 1: sjohnny200 (button blind) showed [7c 9d] and won ($305.95) with a full house, Nines full of Sevens
+Seat 6: gaiggibeliin showed [Kd Qc] and lost with two pair, Queens and Nines
+
+
+
+PokerStars Hand #196198173301:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 16:16:01 EET [2019/01/25 9:16:01 ET]
+Table 'Cruithne' 6-max Seat #6 is the button
+Seat 1: sjohnny200 ($305.95 in chips) 
+Seat 6: gaiggibeliin ($305.24 in chips) 
+sjohnny200: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7h Td]
+sjohnny200: folds 
+Uncalled bet ($1) returned to gaiggibeliin
+gaiggibeliin collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: sjohnny200 folded before Flop (didn't bet)
+Seat 6: gaiggibeliin (button blind) collected ($2)
+
+
+

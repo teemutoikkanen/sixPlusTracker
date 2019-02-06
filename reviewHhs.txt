@@ -1,0 +1,145 @@
+#review later
+
+
+
+
+
+PokerStars Hand #196671873962:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/02/05 20:13:15 EET [2019/02/05 13:13:15 ET]
+Table 'Tezcatlipoca II' 6-max Seat #4 is the button
+Seat 1: McMarta ($182 in chips) 
+Seat 2: Zapahzamazki ($342.91 in chips) 
+Seat 3: gaiggibeliin ($183.28 in chips) 
+Seat 4: AngeL_fH ($334.62 in chips) 
+Seat 6: Kisthename ($208.43 in chips) 
+McMarta: posts the ante $1
+Zapahzamazki: posts the ante $1
+gaiggibeliin: posts the ante $1
+AngeL_fH: posts the ante $1
+Kisthename: posts the ante $1
+AngeL_fH: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qs Ad]
+Kisthename: folds 
+McMarta: calls $1
+Zapahzamazki: folds 
+gaiggibeliin: raises $9 to $10
+AngeL_fH: folds 
+McMarta: calls $9
+*** FLOP *** [Ah 6d Js]
+McMarta: checks 
+gaiggibeliin: bets $12.84
+McMarta: raises $17.16 to $30
+eSeemann joins the table at seat #5 
+gaiggibeliin: calls $17.16
+*** TURN *** [Ah 6d Js] [Qd]
+McMarta: bets $141 and is all-in
+gaiggibeliin: folds 
+Uncalled bet ($141) returned to McMarta
+McMarta collected $83.25 from pot
+McMarta: doesn't show hand 
+*** SUMMARY ***
+Total pot $86 | Rake $2.75 
+Board [Ah 6d Js Qd]
+Seat 1: McMarta collected ($83.25)
+Seat 2: Zapahzamazki folded before Flop (didn't bet)
+Seat 3: gaiggibeliin folded on the Turn
+Seat 4: AngeL_fH (button blind) folded before Flop
+Seat 6: Kisthename folded before Flop (didn't bet)
+
+PokerStars Hand #196692104815:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/02/06 5:11:35 EET [2019/02/05 22:11:35 ET]
+Table 'Augeias' 6-max Seat #2 is the button
+Seat 1: picka4u ($131.33 in chips) 
+Seat 2: Extermintor ($149 in chips) 
+Seat 3: d3jndz3r ($144.75 in chips) 
+Seat 4: sss457 ($98 in chips) 
+Seat 5: FuzzF@ce ($276.21 in chips) 
+Seat 6: gaiggibeliin ($314.41 in chips) 
+picka4u: posts the ante $1
+Extermintor: posts the ante $1
+d3jndz3r: posts the ante $1
+sss457: posts the ante $1
+FuzzF@ce: posts the ante $1
+gaiggibeliin: posts the ante $1
+Extermintor: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qc Tc]
+d3jndz3r: folds 
+sss457: folds 
+FuzzF@ce: folds 
+gaiggibeliin: raises $8 to $9
+picka4u: folds 
+Extermintor: calls $8
+*** FLOP *** [7h Ts Jd]
+gaiggibeliin: checks 
+Extermintor: checks 
+*** TURN *** [7h Ts Jd] [9s]
+gaiggibeliin: checks 
+Extermintor: bets $11
+gaiggibeliin: calls $11
+*** RIVER *** [7h Ts Jd 9s] [Td]
+gaiggibeliin: checks 
+Extermintor: bets $29
+gaiggibeliin: folds 
+Uncalled bet ($29) returned to Extermintor
+Extermintor collected $43.70 from pot
+Extermintor: doesn't show hand 
+*** SUMMARY ***
+Total pot $46 | Rake $2.30 
+Board [7h Ts Jd 9s Td]
+Seat 1: picka4u folded before Flop (didn't bet)
+Seat 2: Extermintor (button blind) collected ($43.70)
+Seat 3: d3jndz3r folded before Flop (didn't bet)
+Seat 4: sss457 folded before Flop (didn't bet)
+Seat 5: FuzzF@ce folded before Flop (didn't bet)
+Seat 6: gaiggibeliin folded on the River
+
+PokerStars Hand #196693134507:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/02/06 6:16:10 EET [2019/02/05 23:16:10 ET]
+Table 'Pels' 6-max Seat #5 is the button
+Seat 2: teo96 ($343.30 in chips) 
+Seat 3: sss457 ($200 in chips) 
+Seat 5: gaiggibeliin ($294.80 in chips) 
+teo96: posts the ante $2
+sss457: posts the ante $2
+gaiggibeliin: posts the ante $2
+gaiggibeliin: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9c Tc]
+teo96: folds 
+sss457: raises $10 to $12
+gaiggibeliin: calls $10
+*** FLOP *** [8c Kc As]
+sss457: bets $18.81
+gaiggibeliin: calls $18.81
+*** TURN *** [8c Kc As] [6s]
+sss457: bets $52.90
+HesBluffingx joins the table at seat #1 
+gaiggibeliin: calls $52.90
+*** RIVER *** [8c Kc As 6s] [6d]
+sss457: checks 
+gaiggibeliin: bets $2
+sss457: folds 
+Uncalled bet ($2) returned to gaiggibeliin
+gaiggibeliin collected $171.92 from pot
+*** SUMMARY ***
+Total pot $173.42 | Rake $1.50 
+Board [8c Kc As 6s 6d]
+Seat 2: teo96 folded before Flop (didn't bet)
+Seat 3: sss457 folded on the River
+Seat 5: gaiggibeliin (button blind) collected ($171.92)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,411 @@
+﻿PokerStars Hand #196216427842:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/25 23:48:17 EET [2019/01/25 16:48:17 ET]
+Table 'Marfik' 6-max Seat #1 is the button
+Seat 1: Oxota ($226.50 in chips) 
+Seat 4: gaiggibeliin ($300 in chips) 
+Seat 6: Apathy123 ($171 in chips) 
+Oxota: posts the ante $2
+gaiggibeliin: posts the ante $2
+Apathy123: posts the ante $2
+Oxota: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7d 8d]
+gaiggibeliin: calls $2
+Apathy123: calls $2
+Oxota: raises $12 to $14
+gaiggibeliin: calls $12
+Apathy123: folds 
+*** FLOP *** [Jh Ts Ah]
+gaiggibeliin: checks 
+Oxota: checks 
+*** TURN *** [Jh Ts Ah] [Js]
+gaiggibeliin: checks 
+Oxota: bets $22
+gaiggibeliin: folds 
+Uncalled bet ($22) returned to Oxota
+Oxota collected $34.50 from pot
+Oxota: doesn't show hand 
+*** SUMMARY ***
+Total pot $36 | Rake $1.50 
+Board [Jh Ts Ah Js]
+Seat 1: Oxota (button blind) collected ($34.50)
+Seat 4: gaiggibeliin folded on the Turn
+Seat 6: Apathy123 folded before Flop
+
+
+
+PokerStars Hand #196216487565:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/25 23:49:33 EET [2019/01/25 16:49:33 ET]
+Table 'Marfik' 6-max Seat #4 is the button
+Seat 1: Oxota ($245 in chips) 
+Seat 4: gaiggibeliin ($284 in chips) 
+Seat 6: Apathy123 ($167 in chips) 
+Oxota: posts the ante $2
+gaiggibeliin: posts the ante $2
+Apathy123: posts the ante $2
+gaiggibeliin: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9h Kh]
+Apathy123: folds 
+Oxota: calls $2
+gaiggibeliin: checks 
+*** FLOP *** [7d Qd 8s]
+Oxota: checks 
+gaiggibeliin: checks 
+*** TURN *** [7d Qd 8s] [8d]
+Oxota: checks 
+gaiggibeliin: checks 
+*** RIVER *** [7d Qd 8s 8d] [6h]
+Oxota: checks 
+gaiggibeliin: checks 
+*** SHOW DOWN ***
+Oxota: shows [Ah Kc] (a pair of Eights)
+gaiggibeliin: mucks hand 
+Oxota collected $9.50 from pot
+*** SUMMARY ***
+Total pot $10 | Rake $0.50 
+Board [7d Qd 8s 8d 6h]
+Seat 1: Oxota showed [Ah Kc] and won ($9.50) with a pair of Eights
+Seat 4: gaiggibeliin (button blind) mucked [9h Kh]
+Seat 6: Apathy123 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196216516722:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/25 23:50:10 EET [2019/01/25 16:50:10 ET]
+Table 'Marfik' 6-max Seat #6 is the button
+Seat 1: Oxota ($250.50 in chips) 
+Seat 4: gaiggibeliin ($280 in chips) 
+Seat 6: Apathy123 ($165 in chips) 
+Oxota: posts the ante $2
+gaiggibeliin: posts the ante $2
+Apathy123: posts the ante $2
+Apathy123: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qs Tc]
+Oxota: calls $2
+gaiggibeliin: calls $2
+Apathy123: raises $12 to $14
+Oxota: raises $234.50 to $248.50 and is all-in
+gaiggibeliin: folds 
+Apathy123: folds 
+Uncalled bet ($234.50) returned to Oxota
+Oxota collected $36 from pot
+Oxota: doesn't show hand 
+*** SUMMARY ***
+Total pot $36 | Rake $0 
+Seat 1: Oxota collected ($36)
+Seat 4: gaiggibeliin folded before Flop
+Seat 6: Apathy123 (button blind) folded before Flop
+
+
+
+PokerStars Hand #196216539550:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/25 23:50:39 EET [2019/01/25 16:50:39 ET]
+Table 'Marfik' 6-max Seat #1 is the button
+Seat 1: Oxota ($270.50 in chips) 
+Seat 4: gaiggibeliin ($276 in chips) 
+Seat 6: Apathy123 ($149 in chips) 
+Oxota: posts the ante $2
+gaiggibeliin: posts the ante $2
+Apathy123: posts the ante $2
+Oxota: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8d Kc]
+gaiggibeliin: folds 
+Apathy123: calls $2
+Oxota: raises $10 to $12
+Apathy123: calls $10
+*** FLOP *** [9c 8s 7c]
+Apathy123: checks 
+Oxota: checks 
+*** TURN *** [9c 8s 7c] [Js]
+Apathy123: checks 
+Oxota: checks 
+*** RIVER *** [9c 8s 7c Js] [Jc]
+Apathy123: bets $8.55
+Oxota: calls $8.55
+*** SHOW DOWN ***
+Apathy123: shows [9h Tc] (a straight, Seven to Jack)
+Oxota: mucks hand 
+Apathy123 collected $45.60 from pot
+*** SUMMARY ***
+Total pot $47.10 | Rake $1.50 
+Board [9c 8s 7c Js Jc]
+Seat 1: Oxota (button blind) mucked [Jh Ah]
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: Apathy123 showed [9h Tc] and won ($45.60) with a straight, Seven to Jack
+
+
+
+PokerStars Hand #196216585856:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/25 23:51:38 EET [2019/01/25 16:51:38 ET]
+Table 'Marfik' 6-max Seat #4 is the button
+Seat 1: Oxota ($247.95 in chips) 
+Seat 4: gaiggibeliin ($274 in chips) 
+Seat 6: Apathy123 ($172.05 in chips) 
+Oxota: posts the ante $2
+gaiggibeliin: posts the ante $2
+Apathy123: posts the ante $2
+gaiggibeliin: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jh Kc]
+Apathy123: folds 
+Oxota: calls $2
+gaiggibeliin: raises $14 to $16
+Oxota: folds 
+Uncalled bet ($14) returned to gaiggibeliin
+gaiggibeliin collected $10 from pot
+*** SUMMARY ***
+Total pot $10 | Rake $0 
+Seat 1: Oxota folded before Flop
+Seat 4: gaiggibeliin (button blind) collected ($10)
+Seat 6: Apathy123 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196216605897:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/25 23:52:04 EET [2019/01/25 16:52:04 ET]
+Table 'Marfik' 6-max Seat #6 is the button
+Seat 1: Oxota ($243.95 in chips) 
+Seat 4: gaiggibeliin ($280 in chips) 
+Seat 6: Apathy123 ($170.05 in chips) 
+Oxota: posts the ante $2
+gaiggibeliin: posts the ante $2
+Apathy123: posts the ante $2
+Apathy123: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [As 7s]
+Oxota: calls $2
+gaiggibeliin: calls $2
+Apathy123: checks 
+*** FLOP *** [9d 9c Qc]
+Oxota: checks 
+gaiggibeliin: checks 
+Apathy123: checks 
+*** TURN *** [9d 9c Qc] [Ac]
+Oxota: checks 
+gaiggibeliin: checks 
+Apathy123: checks 
+*** RIVER *** [9d 9c Qc Ac] [8d]
+Oxota: checks 
+gaiggibeliin: checks 
+Apathy123: checks 
+*** SHOW DOWN ***
+Oxota: shows [Td 7d] (a pair of Nines)
+gaiggibeliin: shows [As 7s] (two pair, Aces and Nines)
+Apathy123: mucks hand 
+gaiggibeliin collected $11.40 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.60 
+Board [9d 9c Qc Ac 8d]
+Seat 1: Oxota showed [Td 7d] and lost with a pair of Nines
+Seat 4: gaiggibeliin showed [As 7s] and won ($11.40) with two pair, Aces and Nines
+Seat 6: Apathy123 (button blind) mucked [8h 7h]
+
+
+
+PokerStars Hand #196216671250:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/25 23:53:28 EET [2019/01/25 16:53:28 ET]
+Table 'Marfik' 6-max Seat #1 is the button
+Seat 1: Oxota ($239.95 in chips) 
+Seat 4: gaiggibeliin ($287.40 in chips) 
+Seat 6: Apathy123 ($166.05 in chips) 
+Oxota: posts the ante $2
+gaiggibeliin: posts the ante $2
+Apathy123: posts the ante $2
+Oxota: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7d 6d]
+gaiggibeliin: calls $2
+Apathy123: folds 
+Oxota: checks 
+*** FLOP *** [Ts 9s Qd]
+gaiggibeliin: checks 
+Oxota: checks 
+*** TURN *** [Ts 9s Qd] [Jh]
+gaiggibeliin: checks 
+Oxota: checks 
+*** RIVER *** [Ts 9s Qd Jh] [Kc]
+gaiggibeliin: checks 
+Oxota: bets $6
+gaiggibeliin: folds 
+Uncalled bet ($6) returned to Oxota
+Oxota collected $9.50 from pot
+Oxota: doesn't show hand 
+*** SUMMARY ***
+Total pot $10 | Rake $0.50 
+Board [Ts 9s Qd Jh Kc]
+Seat 1: Oxota (button blind) collected ($9.50)
+Seat 4: gaiggibeliin folded on the River
+Seat 6: Apathy123 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196216695404:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/25 23:53:59 EET [2019/01/25 16:53:59 ET]
+Table 'Marfik' 6-max Seat #4 is the button
+Seat 1: Oxota ($245.45 in chips) 
+Seat 4: gaiggibeliin ($283.40 in chips) 
+Seat 6: Apathy123 ($164.05 in chips) 
+Oxota: posts the ante $2
+gaiggibeliin: posts the ante $2
+Apathy123: posts the ante $2
+gaiggibeliin: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kd Js]
+Apathy123: calls $2
+Oxota: raises $12 to $14
+gaiggibeliin: calls $12
+Apathy123: calls $12
+*** FLOP *** [Tc Jh Jd]
+Apathy123: checks 
+Oxota: checks 
+gaiggibeliin: bets $24.18
+Apathy123: folds 
+Oxota: folds 
+Uncalled bet ($24.18) returned to gaiggibeliin
+gaiggibeliin collected $46.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $1.50 
+Board [Tc Jh Jd]
+Seat 1: Oxota folded on the Flop
+Seat 4: gaiggibeliin (button blind) collected ($46.50)
+Seat 6: Apathy123 folded on the Flop
+
+
+
+PokerStars Hand #196216738428:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/25 23:54:55 EET [2019/01/25 16:54:55 ET]
+Table 'Marfik' 6-max Seat #6 is the button
+Seat 1: Oxota ($229.45 in chips) 
+Seat 4: gaiggibeliin ($313.90 in chips) 
+Seat 6: Apathy123 ($148.05 in chips) 
+Oxota: posts the ante $2
+gaiggibeliin: posts the ante $2
+Apathy123: posts the ante $2
+Apathy123: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jd Kd]
+Oxota: folds 
+gaiggibeliin: calls $2
+Apathy123: checks 
+*** FLOP *** [9d 7s Tc]
+gaiggibeliin: checks 
+Apathy123: checks 
+*** TURN *** [9d 7s Tc] [7h]
+gaiggibeliin: checks 
+Apathy123: checks 
+*** RIVER *** [9d 7s Tc 7h] [9s]
+gaiggibeliin: checks 
+Apathy123: checks 
+*** SHOW DOWN ***
+gaiggibeliin: shows [Jd Kd] (two pair, Nines and Sevens)
+Apathy123: mucks hand 
+gaiggibeliin collected $9.50 from pot
+*** SUMMARY ***
+Total pot $10 | Rake $0.50 
+Board [9d 7s Tc 7h 9s]
+Seat 1: Oxota folded before Flop (didn't bet)
+Seat 4: gaiggibeliin showed [Jd Kd] and won ($9.50) with two pair, Nines and Sevens
+Seat 6: Apathy123 (button blind) mucked [Qs 6h]
+
+
+
+PokerStars Hand #196216779652:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/25 23:56:00 EET [2019/01/25 16:56:00 ET]
+Table 'Marfik' 6-max Seat #1 is the button
+Seat 1: Oxota ($227.45 in chips) 
+Seat 4: gaiggibeliin ($319.40 in chips) 
+Seat 6: Apathy123 ($144.05 in chips) 
+Oxota: posts the ante $2
+gaiggibeliin: posts the ante $2
+Apathy123: posts the ante $2
+Oxota: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jd Qc]
+gaiggibeliin: calls $2
+Apathy123: calls $2
+Oxota: raises $12 to $14
+gaiggibeliin: calls $12
+Apathy123: folds 
+*** FLOP *** [8d Qh 7h]
+gaiggibeliin: checks 
+Oxota: checks 
+*** TURN *** [8d Qh 7h] [Kd]
+gaiggibeliin: checks 
+Oxota: checks 
+*** RIVER *** [8d Qh 7h Kd] [9s]
+gaiggibeliin: checks 
+Oxota: checks 
+*** SHOW DOWN ***
+gaiggibeliin: shows [Jd Qc] (a pair of Queens)
+Oxota: mucks hand 
+gaiggibeliin collected $34.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $1.50 
+Board [8d Qh 7h Kd 9s]
+Seat 1: Oxota (button blind) mucked [Jc Js]
+Seat 4: gaiggibeliin showed [Jd Qc] and won ($34.50) with a pair of Queens
+Seat 6: Apathy123 folded before Flop
+
+
+
+PokerStars Hand #196216836022:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/25 23:57:33 EET [2019/01/25 16:57:33 ET]
+Table 'Marfik' 6-max Seat #4 is the button
+Seat 1: Oxota ($211.45 in chips) 
+Seat 4: gaiggibeliin ($337.90 in chips) 
+Seat 6: Apathy123 ($140.05 in chips) 
+Oxota: posts the ante $2
+gaiggibeliin: posts the ante $2
+Apathy123: posts the ante $2
+gaiggibeliin: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9d Ad]
+Apathy123: calls $2
+Oxota: calls $2
+gaiggibeliin: checks 
+*** FLOP *** [Ah 8h Js]
+Apathy123: bets $4
+Oxota: calls $4
+gaiggibeliin: calls $4
+*** TURN *** [Ah 8h Js] [8s]
+Apathy123: checks 
+Oxota: checks 
+gaiggibeliin: bets $11.86
+Apathy123: folds 
+Oxota: folds 
+Uncalled bet ($11.86) returned to gaiggibeliin
+gaiggibeliin collected $22.80 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $1.20 
+Board [Ah 8h Js 8s]
+Seat 1: Oxota folded on the Turn
+Seat 4: gaiggibeliin (button blind) collected ($22.80)
+Seat 6: Apathy123 folded on the Turn
+
+
+
+PokerStars Hand #196216881106:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/25 23:58:46 EET [2019/01/25 16:58:46 ET]
+Table 'Marfik' 6-max Seat #6 is the button
+Seat 1: Oxota ($203.45 in chips) 
+Seat 4: gaiggibeliin ($352.70 in chips) 
+Seat 6: Apathy123 ($132.05 in chips) 
+Oxota: posts the ante $2
+gaiggibeliin: posts the ante $2
+Apathy123: posts the ante $2
+Apathy123: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kc Qd]
+Oxota: calls $2
+gaiggibeliin: raises $14 to $16
+Apathy123: folds 
+Oxota: calls $14
+*** FLOP *** [9h 6c 8c]
+Oxota: checks 
+gaiggibeliin: checks 
+*** TURN *** [9h 6c 8c] [9s]
+Oxota: bets $30
+gaiggibeliin: folds 
+Uncalled bet ($30) returned to Oxota
+Oxota collected $38.50 from pot
+Oxota: doesn't show hand 
+*** SUMMARY ***
+Total pot $40 | Rake $1.50 
+Board [9h 6c 8c 9s]
+Seat 1: Oxota collected ($38.50)
+Seat 4: gaiggibeliin folded on the Turn
+Seat 6: Apathy123 (button blind) folded before Flop
+
+
+

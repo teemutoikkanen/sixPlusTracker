@@ -1,0 +1,329 @@
+﻿PokerStars Hand #196224399267:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:21:35 EET [2019/01/25 20:21:35 ET]
+Table 'Auriga' 6-max Seat #6 is the button
+Seat 4: gaiggibeliin ($150 in chips) 
+Seat 6: Xerophyten ($150 in chips) 
+gaiggibeliin: posts the ante $1
+Xerophyten: posts the ante $1
+Xerophyten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8c Tc]
+gaiggibeliin: calls $1
+Xerophyten: checks 
+*** FLOP *** [Qd Kd Ac]
+gaiggibeliin: checks 
+Xerophyten: checks 
+*** TURN *** [Qd Kd Ac] [7d]
+gaiggibeliin: checks 
+Xerophyten: checks 
+*** RIVER *** [Qd Kd Ac 7d] [9d]
+gaiggibeliin: checks 
+Xerophyten: checks 
+*** SHOW DOWN ***
+gaiggibeliin: shows [8c Tc] (high card Ace)
+Xerophyten: shows [8s 6d] (a flush, King high)
+Xerophyten collected $3.80 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [Qd Kd Ac 7d 9d]
+Seat 4: gaiggibeliin showed [8c Tc] and lost with high card Ace
+Seat 6: Xerophyten (button blind) showed [8s 6d] and won ($3.80) with a flush, King high
+
+
+
+PokerStars Hand #196224422759:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:22:27 EET [2019/01/25 20:22:27 ET]
+Table 'Auriga' 6-max Seat #4 is the button
+Seat 4: gaiggibeliin ($148 in chips) 
+Seat 6: Xerophyten ($151.80 in chips) 
+gaiggibeliin: posts the ante $1
+Xerophyten: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kc 8h]
+Xerophyten: raises $4 to $5
+gaiggibeliin: folds 
+Uncalled bet ($4) returned to Xerophyten
+Xerophyten collected $4 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 4: gaiggibeliin (button blind) folded before Flop
+Seat 6: Xerophyten collected ($4)
+
+
+
+PokerStars Hand #196224431438:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:22:47 EET [2019/01/25 20:22:47 ET]
+Table 'Auriga' 6-max Seat #6 is the button
+Seat 4: gaiggibeliin ($146 in chips) 
+Seat 6: Xerophyten ($153.80 in chips) 
+gaiggibeliin: posts the ante $1
+Xerophyten: posts the ante $1
+Xerophyten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6s Ad]
+gaiggibeliin: folds 
+Uncalled bet ($1) returned to Xerophyten
+Xerophyten collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: Xerophyten (button blind) collected ($2)
+
+
+
+PokerStars Hand #196224435741:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:22:57 EET [2019/01/25 20:22:57 ET]
+Table 'Auriga' 6-max Seat #4 is the button
+Seat 4: gaiggibeliin ($145 in chips) 
+Seat 6: Xerophyten ($154.80 in chips) 
+gaiggibeliin: posts the ante $1
+Xerophyten: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8c Kh]
+Xerophyten: calls $1
+gaiggibeliin: checks 
+*** FLOP *** [6d Jh 8h]
+Xerophyten: checks 
+gaiggibeliin: checks 
+*** TURN *** [6d Jh 8h] [Qs]
+Xerophyten: bets $1.90
+gaiggibeliin: folds 
+Uncalled bet ($1.90) returned to Xerophyten
+Xerophyten collected $3.80 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [6d Jh 8h Qs]
+Seat 4: gaiggibeliin (button blind) folded on the Turn
+Seat 6: Xerophyten collected ($3.80)
+
+
+
+PokerStars Hand #196224449923:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:23:29 EET [2019/01/25 20:23:29 ET]
+Table 'Auriga' 6-max Seat #6 is the button
+Seat 4: gaiggibeliin ($143 in chips) 
+Seat 6: Xerophyten ($156.60 in chips) 
+gaiggibeliin: posts the ante $1
+Xerophyten: posts the ante $1
+Xerophyten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7s 7h]
+gaiggibeliin: calls $1
+Xerophyten: checks 
+*** FLOP *** [Tc 6c Qh]
+gaiggibeliin: checks 
+Xerophyten: bets $1.90
+gaiggibeliin: folds 
+Uncalled bet ($1.90) returned to Xerophyten
+Xerophyten collected $3.80 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [Tc 6c Qh]
+Seat 4: gaiggibeliin folded on the Flop
+Seat 6: Xerophyten (button blind) collected ($3.80)
+
+
+
+PokerStars Hand #196224465571:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:24:04 EET [2019/01/25 20:24:04 ET]
+Table 'Auriga' 6-max Seat #4 is the button
+Seat 4: gaiggibeliin ($141 in chips) 
+Seat 6: Xerophyten ($158.40 in chips) 
+gaiggibeliin: posts the ante $1
+Xerophyten: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7c Ts]
+Xerophyten: folds 
+Uncalled bet ($1) returned to gaiggibeliin
+gaiggibeliin collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 4: gaiggibeliin (button blind) collected ($2)
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196224467822:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:24:09 EET [2019/01/25 20:24:09 ET]
+Table 'Auriga' 6-max Seat #6 is the button
+Seat 4: gaiggibeliin ($142 in chips) 
+Seat 6: Xerophyten ($157.40 in chips) 
+gaiggibeliin: posts the ante $1
+Xerophyten: posts the ante $1
+Xerophyten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8s Ts]
+gaiggibeliin: raises $6 to $7
+Xerophyten: calls $6
+*** FLOP *** [Qs 7h 8h]
+gaiggibeliin: checks 
+Xerophyten: checks 
+*** TURN *** [Qs 7h 8h] [7c]
+gaiggibeliin: checks 
+Xerophyten: bets $7.60
+gaiggibeliin: calls $7.60
+*** RIVER *** [Qs 7h 8h 7c] [Kc]
+gaiggibeliin: checks 
+Xerophyten: checks 
+*** SHOW DOWN ***
+gaiggibeliin: shows [8s Ts] (two pair, Eights and Sevens)
+Xerophyten: shows [Kh Jc] (two pair, Kings and Sevens)
+Xerophyten collected $29.95 from pot
+*** SUMMARY ***
+Total pot $31.20 | Rake $1.25 
+Board [Qs 7h 8h 7c Kc]
+Seat 4: gaiggibeliin showed [8s Ts] and lost with two pair, Eights and Sevens
+Seat 6: Xerophyten (button blind) showed [Kh Jc] and won ($29.95) with two pair, Kings and Sevens
+
+
+
+PokerStars Hand #196224500845:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:25:24 EET [2019/01/25 20:25:24 ET]
+Table 'Auriga' 6-max Seat #4 is the button
+Seat 4: gaiggibeliin ($126.40 in chips) 
+Seat 6: Xerophyten ($171.75 in chips) 
+gaiggibeliin: posts the ante $1
+Xerophyten: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kh Ad]
+Xerophyten: calls $1
+gaiggibeliin: raises $6 to $7
+Xerophyten: calls $6
+*** FLOP *** [6c Ks 7d]
+Xerophyten: checks 
+gaiggibeliin: bets $10.18
+Xerophyten: raises $153.57 to $163.75 and is all-in
+gaiggibeliin: folds 
+Uncalled bet ($153.57) returned to Xerophyten
+Xerophyten collected $35.11 from pot
+Xerophyten: doesn't show hand 
+*** SUMMARY ***
+Total pot $36.36 | Rake $1.25 
+Board [6c Ks 7d]
+Seat 4: gaiggibeliin (button blind) folded on the Flop
+Seat 6: Xerophyten collected ($35.11)
+
+
+
+PokerStars Hand #196224515825:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:25:58 EET [2019/01/25 20:25:58 ET]
+Table 'Auriga' 6-max Seat #6 is the button
+Seat 4: gaiggibeliin ($108.22 in chips) 
+Seat 6: Xerophyten ($188.68 in chips) 
+gaiggibeliin: posts the ante $1
+Xerophyten: posts the ante $1
+Xerophyten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qh Th]
+gaiggibeliin: raises $6 to $7
+Xerophyten: calls $6
+*** FLOP *** [9h 6d Js]
+gaiggibeliin: checks 
+Xerophyten: checks 
+*** TURN *** [9h 6d Js] [8c]
+gaiggibeliin: checks 
+Xerophyten: bets $7.60
+gaiggibeliin: raises $20.37 to $27.97
+Xerophyten: folds 
+Uncalled bet ($20.37) returned to gaiggibeliin
+gaiggibeliin collected $29.95 from pot
+*** SUMMARY ***
+Total pot $31.20 | Rake $1.25 
+Board [9h 6d Js 8c]
+Seat 4: gaiggibeliin collected ($29.95)
+Seat 6: Xerophyten (button blind) folded on the Turn
+
+
+
+PokerStars Hand #196224546722:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:27:07 EET [2019/01/25 20:27:07 ET]
+Table 'Auriga' 6-max Seat #4 is the button
+Seat 4: gaiggibeliin ($122.57 in chips) 
+Seat 6: Xerophyten ($173.08 in chips) 
+gaiggibeliin: posts the ante $1
+Xerophyten: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kc 6s]
+Xerophyten: folds 
+Uncalled bet ($1) returned to gaiggibeliin
+gaiggibeliin collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 4: gaiggibeliin (button blind) collected ($2)
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196224549079:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:27:13 EET [2019/01/25 20:27:13 ET]
+Table 'Auriga' 6-max Seat #6 is the button
+Seat 4: gaiggibeliin ($123.57 in chips) 
+Seat 6: Xerophyten ($172.08 in chips) 
+gaiggibeliin: posts the ante $1
+Xerophyten: posts the ante $1
+Xerophyten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ks Kh]
+gaiggibeliin: raises $6 to $7
+Xerophyten: calls $6
+*** FLOP *** [7h 8s 9c]
+gaiggibeliin: checks 
+Xerophyten: checks 
+*** TURN *** [7h 8s 9c] [Jc]
+gaiggibeliin: checks 
+Xerophyten: checks 
+*** RIVER *** [7h 8s 9c Jc] [8h]
+gaiggibeliin: bets $9
+Xerophyten: folds 
+Uncalled bet ($9) returned to gaiggibeliin
+gaiggibeliin collected $15.20 from pot
+*** SUMMARY ***
+Total pot $16 | Rake $0.80 
+Board [7h 8s 9c Jc 8h]
+Seat 4: gaiggibeliin collected ($15.20)
+Seat 6: Xerophyten (button blind) folded on the River
+
+
+
+PokerStars Hand #196224584999:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:28:13 EET [2019/01/25 20:28:13 ET]
+Table 'Auriga' 6-max Seat #4 is the button
+Seat 4: gaiggibeliin ($130.77 in chips) 
+Seat 6: Xerophyten ($164.08 in chips) 
+gaiggibeliin: posts the ante $1
+Xerophyten: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ks Tc]
+Xerophyten: folds 
+Uncalled bet ($1) returned to gaiggibeliin
+gaiggibeliin collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 4: gaiggibeliin (button blind) collected ($2)
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196224587329:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:28:18 EET [2019/01/25 20:28:18 ET]
+Table 'Auriga' 6-max Seat #6 is the button
+Seat 4: gaiggibeliin ($150 in chips) 
+Seat 6: Xerophyten ($163.08 in chips) 
+gaiggibeliin: posts the ante $1
+Xerophyten: posts the ante $1
+Xerophyten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8d Jc]
+gaiggibeliin: calls $1
+Xerophyten: raises $5 to $6
+gaiggibeliin: calls $5
+*** FLOP *** [Ks 6d 6h]
+gaiggibeliin: checks 
+Xerophyten: checks 
+*** TURN *** [Ks 6d 6h] [9s]
+gaiggibeliin: checks 
+Xerophyten: bets $6.65
+gaiggibeliin: folds 
+Uncalled bet ($6.65) returned to Xerophyten
+Xerophyten collected $13.30 from pot
+*** SUMMARY ***
+Total pot $14 | Rake $0.70 
+Board [Ks 6d 6h 9s]
+Seat 4: gaiggibeliin folded on the Turn
+Seat 6: Xerophyten (button blind) collected ($13.30)
+
+
+

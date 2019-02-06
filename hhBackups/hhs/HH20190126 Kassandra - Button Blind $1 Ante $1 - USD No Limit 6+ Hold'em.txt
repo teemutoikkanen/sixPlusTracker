@@ -1,0 +1,841 @@
+﻿PokerStars Hand #196236553917:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 14:07:45 EET [2019/01/26 7:07:45 ET]
+Table 'Kassandra' 6-max Seat #5 is the button
+Seat 4: gaiggibeliin ($150 in chips) 
+Seat 5: _Frib0urg_ ($150 in chips) 
+gaiggibeliin: posts the ante $1
+_Frib0urg_: posts the ante $1
+_Frib0urg_: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qs Ks]
+gaiggibeliin: raises $6 to $7
+_Frib0urg_: calls $6
+*** FLOP *** [7c 9s 6s]
+gaiggibeliin: checks 
+_Frib0urg_: bets $12.01
+gaiggibeliin: calls $12.01
+*** TURN *** [7c 9s 6s] [Qd]
+gaiggibeliin: checks 
+_Frib0urg_: bets $28
+gaiggibeliin: calls $28
+*** RIVER *** [7c 9s 6s Qd] [8s]
+gaiggibeliin: bets $101.99 and is all-in
+_Frib0urg_: folds 
+Uncalled bet ($101.99) returned to gaiggibeliin
+gaiggibeliin collected $94.77 from pot
+*** SUMMARY ***
+Total pot $96.02 | Rake $1.25 
+Board [7c 9s 6s Qd 8s]
+Seat 4: gaiggibeliin collected ($94.77)
+Seat 5: _Frib0urg_ (button blind) folded on the River
+
+
+
+PokerStars Hand #196236585500:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 14:08:55 EET [2019/01/26 7:08:55 ET]
+Table 'Kassandra' 6-max Seat #4 is the button
+Seat 4: gaiggibeliin ($196.76 in chips) 
+Seat 5: _Frib0urg_ ($101.99 in chips) 
+gaiggibeliin: posts the ante $1
+_Frib0urg_: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9s 8h]
+gschmordin joins the table at seat #3 
+_Frib0urg_: raises $99.99 to $100.99 and is all-in
+gaiggibeliin: folds 
+Uncalled bet ($99.99) returned to _Frib0urg_
+_Frib0urg_ collected $4 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 4: gaiggibeliin (button blind) folded before Flop
+Seat 5: _Frib0urg_ collected ($4)
+
+
+
+PokerStars Hand #196236591953:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 14:09:09 EET [2019/01/26 7:09:09 ET]
+Table 'Kassandra' 6-max Seat #5 is the button
+Seat 3: gschmordin ($150 in chips) 
+Seat 4: gaiggibeliin ($194.76 in chips) 
+Seat 5: _Frib0urg_ ($103.99 in chips) 
+gschmordin: posts the ante $1
+gaiggibeliin: posts the ante $1
+_Frib0urg_: posts the ante $1
+_Frib0urg_: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7d 9d]
+gschmordin: calls $1
+gaiggibeliin: calls $1
+_Frib0urg_: raises $6 to $7
+gschmordin: folds 
+gaiggibeliin: calls $6
+*** FLOP *** [8h 6h Jh]
+gaiggibeliin: checks 
+_Frib0urg_: checks 
+*** TURN *** [8h 6h Jh] [8s]
+gaiggibeliin: bets $12
+_Frib0urg_: raises $20.55 to $32.55
+gaiggibeliin: folds 
+Uncalled bet ($20.55) returned to _Frib0urg_
+_Frib0urg_ collected $40.75 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $1.25 
+Board [8h 6h Jh 8s]
+Seat 3: gschmordin folded before Flop
+Seat 4: gaiggibeliin folded on the Turn
+Seat 5: _Frib0urg_ (button blind) collected ($40.75)
+
+
+
+PokerStars Hand #196236622571:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 14:10:17 EET [2019/01/26 7:10:17 ET]
+Table 'Kassandra' 6-max Seat #3 is the button
+Seat 3: gschmordin ($148 in chips) 
+Seat 4: gaiggibeliin ($174.76 in chips) 
+Seat 5: _Frib0urg_ ($124.74 in chips) 
+gschmordin: posts the ante $1
+gaiggibeliin: posts the ante $1
+_Frib0urg_: posts the ante $1
+gschmordin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9h Qd]
+gaiggibeliin: folds 
+_Frib0urg_: raises $5 to $6
+gschmordin: calls $5
+*** FLOP *** [Td Ts Js]
+_Frib0urg_: checks 
+gschmordin: bets $5.70
+_Frib0urg_: folds 
+Uncalled bet ($5.70) returned to gschmordin
+gschmordin collected $14.25 from pot
+gschmordin: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0.75 
+Board [Td Ts Js]
+Seat 3: gschmordin (button blind) collected ($14.25)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: _Frib0urg_ folded on the Flop
+
+
+
+PokerStars Hand #196236632424:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 14:10:39 EET [2019/01/26 7:10:39 ET]
+Table 'Kassandra' 6-max Seat #4 is the button
+Seat 3: gschmordin ($155.25 in chips) 
+Seat 4: gaiggibeliin ($173.76 in chips) 
+Seat 5: _Frib0urg_ ($117.74 in chips) 
+gschmordin: posts the ante $1
+gaiggibeliin: posts the ante $1
+_Frib0urg_: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ks Qd]
+_Frib0urg_: folds 
+gschmordin: folds 
+Uncalled bet ($1) returned to gaiggibeliin
+gaiggibeliin collected $3 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0 
+Seat 3: gschmordin folded before Flop (didn't bet)
+Seat 4: gaiggibeliin (button blind) collected ($3)
+Seat 5: _Frib0urg_ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196236635861:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 14:10:46 EET [2019/01/26 7:10:46 ET]
+Table 'Kassandra' 6-max Seat #5 is the button
+Seat 3: gschmordin ($154.25 in chips) 
+Seat 4: gaiggibeliin ($175.76 in chips) 
+Seat 5: _Frib0urg_ ($116.74 in chips) 
+gschmordin: posts the ante $1
+gaiggibeliin: posts the ante $1
+_Frib0urg_: posts the ante $1
+_Frib0urg_: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8h Ks]
+gschmordin: folds 
+gaiggibeliin: folds 
+Uncalled bet ($1) returned to _Frib0urg_
+_Frib0urg_ collected $3 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0 
+Seat 3: gschmordin folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: _Frib0urg_ (button blind) collected ($3)
+
+
+
+PokerStars Hand #196236640750:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 14:10:57 EET [2019/01/26 7:10:57 ET]
+Table 'Kassandra' 6-max Seat #3 is the button
+Seat 3: gschmordin ($153.25 in chips) 
+Seat 4: gaiggibeliin ($174.76 in chips) 
+Seat 5: _Frib0urg_ ($118.74 in chips) 
+gschmordin: posts the ante $1
+gaiggibeliin: posts the ante $1
+_Frib0urg_: posts the ante $1
+gschmordin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jd 9d]
+gaiggibeliin: calls $1
+_Frib0urg_: raises $6 to $7
+gschmordin: calls $6
+gaiggibeliin: calls $6
+*** FLOP *** [7s Ks 7c]
+gaiggibeliin: checks 
+_Frib0urg_: bets $14
+gschmordin: calls $14
+gaiggibeliin: folds 
+*** TURN *** [7s Ks 7c] [7d]
+_Frib0urg_: checks 
+gschmordin: checks 
+*** RIVER *** [7s Ks 7c 7d] [8s]
+_Frib0urg_: checks 
+gschmordin: checks 
+*** SHOW DOWN ***
+_Frib0urg_: shows [Qc Js] (three of a kind, Sevens)
+gschmordin: shows [Kh 8h] (a full house, Sevens full of Kings)
+gschmordin collected $50.75 from pot
+*** SUMMARY ***
+Total pot $52 | Rake $1.25 
+Board [7s Ks 7c 7d 8s]
+Seat 3: gschmordin (button blind) showed [Kh 8h] and won ($50.75) with a full house, Sevens full of Kings
+Seat 4: gaiggibeliin folded on the Flop
+Seat 5: _Frib0urg_ showed [Qc Js] and lost with three of a kind, Sevens
+
+
+
+PokerStars Hand #196236659966:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 14:11:40 EET [2019/01/26 7:11:40 ET]
+Table 'Kassandra' 6-max Seat #4 is the button
+Seat 3: gschmordin ($182 in chips) 
+Seat 4: gaiggibeliin ($166.76 in chips) 
+Seat 5: _Frib0urg_ ($150 in chips) 
+gschmordin: posts the ante $1
+gaiggibeliin: posts the ante $1
+_Frib0urg_: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kh Th]
+_Frib0urg_: folds 
+gschmordin: raises $5 to $6
+gaiggibeliin: calls $5
+*** FLOP *** [6c Jh Ac]
+gschmordin: bets $5.70
+gaiggibeliin: raises $14.30 to $20
+gschmordin: folds 
+Uncalled bet ($14.30) returned to gaiggibeliin
+gaiggibeliin collected $25.15 from pot
+*** SUMMARY ***
+Total pot $26.40 | Rake $1.25 
+Board [6c Jh Ac]
+Seat 3: gschmordin folded on the Flop
+Seat 4: gaiggibeliin (button blind) collected ($25.15)
+Seat 5: _Frib0urg_ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196236676093:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 14:12:15 EET [2019/01/26 7:12:15 ET]
+Table 'Kassandra' 6-max Seat #5 is the button
+Seat 3: gschmordin ($169.30 in chips) 
+Seat 4: gaiggibeliin ($179.21 in chips) 
+Seat 5: _Frib0urg_ ($149 in chips) 
+gschmordin: posts the ante $1
+gaiggibeliin: posts the ante $1
+_Frib0urg_: posts the ante $1
+_Frib0urg_: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8h Jh]
+gschmordin: raises $5 to $6
+gaiggibeliin: folds 
+_Frib0urg_: calls $5
+*** FLOP *** [6h Th Qh]
+gschmordin: bets $4.42
+_Frib0urg_: folds 
+Uncalled bet ($4.42) returned to gschmordin
+gschmordin collected $14.25 from pot
+gschmordin: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0.75 
+Board [6h Th Qh]
+Seat 3: gschmordin collected ($14.25)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: _Frib0urg_ (button blind) folded on the Flop
+
+
+
+PokerStars Hand #196236709826:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 14:13:29 EET [2019/01/26 7:13:29 ET]
+Table 'Kassandra' 6-max Seat #3 is the button
+Seat 3: gschmordin ($176.55 in chips) 
+Seat 4: gaiggibeliin ($178.21 in chips) 
+Seat 5: _Frib0urg_ ($142 in chips) 
+gschmordin: posts the ante $1
+gaiggibeliin: posts the ante $1
+_Frib0urg_: posts the ante $1
+gschmordin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kd Kc]
+gaiggibeliin: calls $1
+kolyan292 joins the table at seat #6 
+_Frib0urg_: raises $6 to $7
+gschmordin: calls $6
+gaiggibeliin: raises $24 to $31
+_Frib0urg_: folds 
+gschmordin: folds 
+Uncalled bet ($24) returned to gaiggibeliin
+gaiggibeliin collected $24 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 3: gschmordin (button blind) folded before Flop
+Seat 4: gaiggibeliin collected ($24)
+Seat 5: _Frib0urg_ folded before Flop
+
+
+
+PokerStars Hand #196236733920:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 14:14:22 EET [2019/01/26 7:14:22 ET]
+Table 'Kassandra' 6-max Seat #4 is the button
+Seat 3: gschmordin ($168.55 in chips) 
+Seat 4: gaiggibeliin ($194.21 in chips) 
+Seat 5: _Frib0urg_ ($134 in chips) 
+Seat 6: kolyan292 ($150 in chips) 
+gschmordin: posts the ante $1
+gaiggibeliin: posts the ante $1
+_Frib0urg_: posts the ante $1
+kolyan292: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ah 7s]
+_Frib0urg_: raises $6 to $7
+kolyan292: folds 
+gschmordin: calls $7
+gaiggibeliin: calls $6
+*** FLOP *** [Kd As 9d]
+_Frib0urg_: bets $18.76
+gschmordin: folds 
+gaiggibeliin: folds 
+Uncalled bet ($18.76) returned to _Frib0urg_
+_Frib0urg_ collected $23.75 from pot
+*** SUMMARY ***
+Total pot $25 | Rake $1.25 
+Board [Kd As 9d]
+Seat 3: gschmordin folded on the Flop
+Seat 4: gaiggibeliin (button blind) folded on the Flop
+Seat 5: _Frib0urg_ collected ($23.75)
+Seat 6: kolyan292 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196236746999:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 14:14:50 EET [2019/01/26 7:14:50 ET]
+Table 'Kassandra' 6-max Seat #5 is the button
+Seat 3: gschmordin ($160.55 in chips) 
+Seat 4: gaiggibeliin ($186.21 in chips) 
+Seat 5: _Frib0urg_ ($149.75 in chips) 
+Seat 6: kolyan292 ($149 in chips) 
+gschmordin: posts the ante $1
+gaiggibeliin: posts the ante $1
+_Frib0urg_: posts the ante $1
+kolyan292: posts the ante $1
+_Frib0urg_: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kd Ts]
+kolyan292: calls $1
+gschmordin: raises $7 to $8
+gaiggibeliin: folds 
+_Frib0urg_: folds 
+kolyan292: calls $7
+*** FLOP *** [7s 6h Ah]
+kolyan292: checks 
+gschmordin: bets $7.98
+kolyan292: calls $7.98
+*** TURN *** [7s 6h Ah] [Jd]
+kolyan292: checks 
+gschmordin: bets $20
+kolyan292: folds 
+Uncalled bet ($20) returned to gschmordin
+gschmordin collected $35.71 from pot
+gschmordin: doesn't show hand 
+*** SUMMARY ***
+Total pot $36.96 | Rake $1.25 
+Board [7s 6h Ah Jd]
+Seat 3: gschmordin collected ($35.71)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: _Frib0urg_ (button blind) folded before Flop
+Seat 6: kolyan292 folded on the Turn
+
+
+
+PokerStars Hand #196236771734:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 14:15:44 EET [2019/01/26 7:15:44 ET]
+Table 'Kassandra' 6-max Seat #6 is the button
+Seat 3: gschmordin ($179.28 in chips) 
+Seat 4: gaiggibeliin ($185.21 in chips) 
+Seat 5: _Frib0urg_ ($147.75 in chips) 
+Seat 6: kolyan292 ($132.02 in chips) 
+gschmordin: posts the ante $1
+gaiggibeliin: posts the ante $1
+_Frib0urg_: posts the ante $1
+kolyan292: posts the ante $1
+kolyan292: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6d 7s]
+gschmordin: folds 
+gaiggibeliin: folds 
+_Frib0urg_: raises $6 to $7
+kolyan292: calls $6
+*** FLOP *** [Qs 8h 8c]
+_Frib0urg_ has timed out
+_Frib0urg_: checks 
+kolyan292: checks 
+*** TURN *** [Qs 8h 8c] [Jc]
+_Frib0urg_ has timed out
+_Frib0urg_: checks 
+kolyan292: checks 
+*** RIVER *** [Qs 8h 8c Jc] [Td]
+_Frib0urg_: bets $13.51
+kolyan292: calls $13.51
+*** SHOW DOWN ***
+_Frib0urg_: shows [8d Ad] (three of a kind, Eights)
+kolyan292: mucks hand 
+_Frib0urg_ collected $43.77 from pot
+*** SUMMARY ***
+Total pot $45.02 | Rake $1.25 
+Board [Qs 8h 8c Jc Td]
+Seat 3: gschmordin folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: _Frib0urg_ showed [8d Ad] and won ($43.77) with three of a kind, Eights
+Seat 6: kolyan292 (button blind) mucked [6s Ts]
+
+
+
+PokerStars Hand #196236811366:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 14:17:11 EET [2019/01/26 7:17:11 ET]
+Table 'Kassandra' 6-max Seat #3 is the button
+Seat 3: gschmordin ($178.28 in chips) 
+Seat 4: gaiggibeliin ($184.21 in chips) 
+Seat 5: _Frib0urg_ ($170.01 in chips) 
+Seat 6: kolyan292 ($110.51 in chips) 
+gschmordin: posts the ante $1
+gaiggibeliin: posts the ante $1
+_Frib0urg_: posts the ante $1
+kolyan292: posts the ante $1
+gschmordin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qd 9c]
+gaiggibeliin: folds 
+_Frib0urg_: folds 
+kolyan292: calls $1
+gschmordin: raises $6 to $7
+kolyan292: calls $6
+*** FLOP *** [Ks 6d 8c]
+kolyan292: checks 
+gschmordin: bets $6.84
+kolyan292: calls $6.84
+*** TURN *** [Ks 6d 8c] [Ts]
+kolyan292: checks 
+gschmordin: bets $20.08
+_Frib0urg_ leaves the table
+kolyan292: calls $20.08
+*** RIVER *** [Ks 6d 8c Ts] [7s]
+kolyan292: checks 
+gschmordin: checks 
+*** SHOW DOWN ***
+kolyan292: shows [Th 7h] (two pair, Tens and Sevens)
+gschmordin: mucks hand 
+kolyan292 collected $70.59 from pot
+*** SUMMARY ***
+Total pot $71.84 | Rake $1.25 
+Board [Ks 6d 8c Ts 7s]
+Seat 3: gschmordin (button blind) mucked [Kh Ad]
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: _Frib0urg_ folded before Flop (didn't bet)
+Seat 6: kolyan292 showed [Th 7h] and won ($70.59) with two pair, Tens and Sevens
+
+
+
+PokerStars Hand #196236838160:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 14:18:09 EET [2019/01/26 7:18:09 ET]
+Table 'Kassandra' 6-max Seat #4 is the button
+Seat 3: gschmordin ($143.36 in chips) 
+Seat 4: gaiggibeliin ($183.21 in chips) 
+Seat 6: kolyan292 ($146.18 in chips) 
+gschmordin: posts the ante $1
+gaiggibeliin: posts the ante $1
+kolyan292: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6c Jd]
+kolyan292: calls $1
+gschmordin: raises $6 to $7
+gaiggibeliin: folds 
+kolyan292: folds 
+Uncalled bet ($6) returned to gschmordin
+gschmordin collected $6 from pot
+gschmordin: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 3: gschmordin collected ($6)
+Seat 4: gaiggibeliin (button blind) folded before Flop
+Seat 6: kolyan292 folded before Flop
+
+
+
+PokerStars Hand #196236848347:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 14:18:31 EET [2019/01/26 7:18:31 ET]
+Table 'Kassandra' 6-max Seat #6 is the button
+Seat 3: gschmordin ($150 in chips) 
+Seat 4: gaiggibeliin ($181.21 in chips) 
+Seat 6: kolyan292 ($144.18 in chips) 
+gschmordin: posts the ante $1
+gaiggibeliin: posts the ante $1
+kolyan292: posts the ante $1
+kolyan292: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8c 6c]
+gschmordin: raises $5 to $6
+gaiggibeliin: folds 
+kolyan292: calls $5
+*** FLOP *** [Qh 6h 7h]
+gschmordin: checks 
+kolyan292: checks 
+*** TURN *** [Qh 6h 7h] [6s]
+gschmordin: bets $9.41
+kolyan292: calls $9.41
+*** RIVER *** [Qh 6h 7h 6s] [Kh]
+gschmordin: checks 
+kolyan292: bets $17
+gschmordin: raises $116.59 to $133.59 and is all-in
+kolyan292: folds 
+Uncalled bet ($116.59) returned to gschmordin
+gschmordin collected $66.57 from pot
+gschmordin: doesn't show hand 
+*** SUMMARY ***
+Total pot $67.82 | Rake $1.25 
+Board [Qh 6h 7h 6s Kh]
+Seat 3: gschmordin collected ($66.57)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: kolyan292 (button blind) folded on the River
+
+
+
+PokerStars Hand #196236877305:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 14:19:34 EET [2019/01/26 7:19:34 ET]
+Table 'Kassandra' 6-max Seat #3 is the button
+Seat 3: gschmordin ($183.16 in chips) 
+Seat 4: gaiggibeliin ($180.21 in chips) 
+Seat 6: kolyan292 ($110.77 in chips) 
+gschmordin: posts the ante $1
+gaiggibeliin: posts the ante $1
+kolyan292: posts the ante $1
+gschmordin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8c Jh]
+gaiggibeliin: folds 
+kolyan292: calls $1
+gschmordin: raises $5 to $6
+kolyan292: calls $5
+*** FLOP *** [9d 7c 9h]
+kolyan292: checks 
+gschmordin: bets $5.70
+kolyan292: calls $5.70
+*** TURN *** [9d 7c 9h] [Qc]
+kolyan292: checks 
+gschmordin: checks 
+*** RIVER *** [9d 7c 9h Qc] [6s]
+kolyan292: checks 
+gschmordin: checks 
+*** SHOW DOWN ***
+kolyan292: shows [Tc 7d] (two pair, Nines and Sevens)
+gschmordin: shows [Qd Kc] (two pair, Queens and Nines)
+gschmordin collected $25.15 from pot
+*** SUMMARY ***
+Total pot $26.40 | Rake $1.25 
+Board [9d 7c 9h Qc 6s]
+Seat 3: gschmordin (button blind) showed [Qd Kc] and won ($25.15) with two pair, Queens and Nines
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: kolyan292 showed [Tc 7d] and lost with two pair, Nines and Sevens
+
+
+
+PokerStars Hand #196236901661:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 14:20:27 EET [2019/01/26 7:20:27 ET]
+Table 'Kassandra' 6-max Seat #4 is the button
+Seat 3: gschmordin ($195.61 in chips) 
+Seat 4: gaiggibeliin ($179.21 in chips) 
+Seat 6: kolyan292 ($98.07 in chips) 
+gschmordin: posts the ante $1
+gaiggibeliin: posts the ante $1
+kolyan292: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kd Ts]
+kolyan292: calls $1
+gschmordin: folds 
+gaiggibeliin: checks 
+*** FLOP *** [9d Jd 7h]
+kolyan292: checks 
+gaiggibeliin: bets $3.56
+kolyan292: folds 
+Uncalled bet ($3.56) returned to gaiggibeliin
+gaiggibeliin collected $4.75 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [9d Jd 7h]
+Seat 3: gschmordin folded before Flop (didn't bet)
+Seat 4: gaiggibeliin (button blind) collected ($4.75)
+Seat 6: kolyan292 folded on the Flop
+
+
+
+PokerStars Hand #196236914501:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 14:20:54 EET [2019/01/26 7:20:54 ET]
+Table 'Kassandra' 6-max Seat #6 is the button
+Seat 3: gschmordin ($194.61 in chips) 
+Seat 4: gaiggibeliin ($181.96 in chips) 
+Seat 6: kolyan292 ($96.07 in chips) 
+gschmordin: posts the ante $1
+gaiggibeliin: posts the ante $1
+kolyan292: posts the ante $1
+kolyan292: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7h 6h]
+gschmordin: raises $5 to $6
+gaiggibeliin: calls $6
+kolyan292: folds 
+*** FLOP *** [Qc Qd 8c]
+kolyan292 leaves the table
+gschmordin: checks 
+gaiggibeliin: checks 
+*** TURN *** [Qc Qd 8c] [6s]
+gschmordin: checks 
+gaiggibeliin: checks 
+*** RIVER *** [Qc Qd 8c 6s] [Kh]
+gschmordin: checks 
+gaiggibeliin: checks 
+*** SHOW DOWN ***
+gschmordin: shows [Kc Td] (two pair, Kings and Queens)
+gaiggibeliin: mucks hand 
+gschmordin collected $15.20 from pot
+*** SUMMARY ***
+Total pot $16 | Rake $0.80 
+Board [Qc Qd 8c 6s Kh]
+Seat 3: gschmordin showed [Kc Td] and won ($15.20) with two pair, Kings and Queens
+Seat 4: gaiggibeliin mucked [7h 6h]
+Seat 6: kolyan292 (button blind) folded before Flop
+
+
+
+PokerStars Hand #196236932514:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 14:21:33 EET [2019/01/26 7:21:33 ET]
+Table 'Kassandra' 6-max Seat #3 is the button
+Seat 3: gschmordin ($202.81 in chips) 
+Seat 4: gaiggibeliin ($174.96 in chips) 
+gschmordin: posts the ante $1
+gaiggibeliin: posts the ante $1
+gschmordin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ks Ts]
+gaiggibeliin: raises $6 to $7
+gschmordin: calls $6
+*** FLOP *** [6c 7d Td]
+gaiggibeliin: checks 
+gschmordin: checks 
+*** TURN *** [6c 7d Td] [Tc]
+gaiggibeliin: bets $10.18
+gschmordin: calls $10.18
+*** RIVER *** [6c 7d Td Tc] [8d]
+gaiggibeliin: checks 
+gschmordin: checks 
+*** SHOW DOWN ***
+gaiggibeliin: shows [Ks Ts] (three of a kind, Tens)
+gschmordin: mucks hand 
+gaiggibeliin collected $35.11 from pot
+*** SUMMARY ***
+Total pot $36.36 | Rake $1.25 
+Board [6c 7d Td Tc 8d]
+Seat 3: gschmordin (button blind) mucked [Ad 7s]
+Seat 4: gaiggibeliin showed [Ks Ts] and won ($35.11) with three of a kind, Tens
+
+
+
+PokerStars Hand #196236947405:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 14:22:04 EET [2019/01/26 7:22:04 ET]
+Table 'Kassandra' 6-max Seat #4 is the button
+Seat 3: gschmordin ($184.63 in chips) 
+Seat 4: gaiggibeliin ($191.89 in chips) 
+gschmordin: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qd Kd]
+gschmordin: raises $4 to $5
+gaiggibeliin: calls $4
+*** FLOP *** [9h As Js]
+gschmordin: bets $5
+gaiggibeliin: calls $5
+*** TURN *** [9h As Js] [Qh]
+gschmordin: bets $14
+gaiggibeliin: folds 
+Uncalled bet ($14) returned to gschmordin
+gschmordin collected $20.90 from pot
+gschmordin: doesn't show hand 
+*** SUMMARY ***
+Total pot $22 | Rake $1.10 
+Board [9h As Js Qh]
+Seat 3: gschmordin collected ($20.90)
+Seat 4: gaiggibeliin (button blind) folded on the Turn
+
+
+
+PokerStars Hand #196236976263:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 14:23:06 EET [2019/01/26 7:23:06 ET]
+Table 'Kassandra' 6-max Seat #3 is the button
+Seat 3: gschmordin ($194.53 in chips) 
+Seat 4: gaiggibeliin ($180.89 in chips) 
+gschmordin: posts the ante $1
+gaiggibeliin: posts the ante $1
+gschmordin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7h 9s]
+gaiggibeliin: folds 
+Uncalled bet ($1) returned to gschmordin
+gschmordin collected $2 from pot
+gschmordin: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 3: gschmordin (button blind) collected ($2)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196236979051:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 14:23:12 EET [2019/01/26 7:23:12 ET]
+Table 'Kassandra' 6-max Seat #4 is the button
+Seat 3: gschmordin ($195.53 in chips) 
+Seat 4: gaiggibeliin ($179.89 in chips) 
+gschmordin: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [As 6s]
+gschmordin: calls $1
+gaiggibeliin: checks 
+*** FLOP *** [8h Tc Qd]
+gschmordin: checks 
+gaiggibeliin: checks 
+*** TURN *** [8h Tc Qd] [7d]
+gschmordin: checks 
+gaiggibeliin: checks 
+*** RIVER *** [8h Tc Qd 7d] [8c]
+gschmordin: checks 
+gaiggibeliin: checks 
+*** SHOW DOWN ***
+gschmordin: shows [6c Kc] (a pair of Eights)
+gaiggibeliin: shows [As 6s] (a pair of Eights - Ace kicker)
+gaiggibeliin collected $3.80 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [8h Tc Qd 7d 8c]
+Seat 3: gschmordin showed [6c Kc] and lost with a pair of Eights
+Seat 4: gaiggibeliin (button blind) showed [As 6s] and won ($3.80) with a pair of Eights
+
+
+
+PokerStars Hand #196237014874:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 14:24:28 EET [2019/01/26 7:24:28 ET]
+Table 'Kassandra' 6-max Seat #3 is the button
+Seat 3: gschmordin ($193.53 in chips) 
+Seat 4: gaiggibeliin ($181.69 in chips) 
+gschmordin: posts the ante $1
+gaiggibeliin: posts the ante $1
+gschmordin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Td 6d]
+gaiggibeliin: folds 
+Uncalled bet ($1) returned to gschmordin
+gschmordin collected $2 from pot
+gschmordin: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 3: gschmordin (button blind) collected ($2)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196237017317:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 14:24:33 EET [2019/01/26 7:24:33 ET]
+Table 'Kassandra' 6-max Seat #4 is the button
+Seat 3: gschmordin ($194.53 in chips) 
+Seat 4: gaiggibeliin ($180.69 in chips) 
+gschmordin: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8d Jc]
+gschmordin: folds 
+Uncalled bet ($1) returned to gaiggibeliin
+gaiggibeliin collected $2 from pot
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 3: gschmordin folded before Flop (didn't bet)
+Seat 4: gaiggibeliin (button blind) collected ($2)
+
+
+
+PokerStars Hand #196237020071:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 14:24:39 EET [2019/01/26 7:24:39 ET]
+Table 'Kassandra' 6-max Seat #3 is the button
+Seat 3: gschmordin ($193.53 in chips) 
+Seat 4: gaiggibeliin ($181.69 in chips) 
+gschmordin: posts the ante $1
+gaiggibeliin: posts the ante $1
+gschmordin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qc 9s]
+gaiggibeliin: calls $1
+gschmordin: checks 
+*** FLOP *** [Jc Kc Jh]
+gaiggibeliin: bets $1.98
+gschmordin: folds 
+Uncalled bet ($1.98) returned to gaiggibeliin
+gaiggibeliin collected $3.80 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [Jc Kc Jh]
+Seat 3: gschmordin (button blind) folded on the Flop
+Seat 4: gaiggibeliin collected ($3.80)
+
+
+
+PokerStars Hand #196237033288:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 14:25:07 EET [2019/01/26 7:25:07 ET]
+Table 'Kassandra' 6-max Seat #4 is the button
+Seat 3: gschmordin ($191.53 in chips) 
+Seat 4: gaiggibeliin ($183.49 in chips) 
+gschmordin: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6c 6s]
+gschmordin: raises $4 to $5
+gaiggibeliin: calls $4
+*** FLOP *** [Kh 7d 8c]
+gschmordin: checks 
+gaiggibeliin: checks 
+*** TURN *** [Kh 7d 8c] [Th]
+gschmordin: checks 
+gaiggibeliin: checks 
+*** RIVER *** [Kh 7d 8c Th] [Jc]
+gschmordin: checks 
+gaiggibeliin: bets $7.64
+gschmordin: calls $7.64
+*** SHOW DOWN ***
+gaiggibeliin: shows [6c 6s] (a pair of Sixes)
+gschmordin: shows [9s 9c] (a straight, Seven to Jack)
+gschmordin collected $26.03 from pot
+*** SUMMARY ***
+Total pot $27.28 | Rake $1.25 
+Board [Kh 7d 8c Th Jc]
+Seat 3: gschmordin showed [9s 9c] and won ($26.03) with a straight, Seven to Jack
+Seat 4: gaiggibeliin (button blind) showed [6c 6s] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #196237055687:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 14:25:54 EET [2019/01/26 7:25:54 ET]
+Table 'Kassandra' 6-max Seat #3 is the button
+Seat 3: gschmordin ($203.92 in chips) 
+Seat 4: gaiggibeliin ($169.85 in chips) 
+gschmordin: posts the ante $1
+gaiggibeliin: posts the ante $1
+gschmordin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kc 6c]
+gaiggibeliin: folds 
+Uncalled bet ($1) returned to gschmordin
+gschmordin collected $2 from pot
+gschmordin: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 3: gschmordin (button blind) collected ($2)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+
+
+

@@ -1,0 +1,2450 @@
+﻿PokerStars Hand #196394592180:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 2:50:28 EET [2019/01/29 19:50:28 ET]
+Table 'Ilioneus' 6-max Seat #4 is the button
+Seat 2: gaiggibeliin ($100 in chips) 
+Seat 4: AMANTENEGRO ($131.01 in chips) 
+Seat 6: Xerophyten ($298.74 in chips) 
+gaiggibeliin: posts the ante $1
+AMANTENEGRO: posts the ante $1
+Xerophyten: posts the ante $1
+AMANTENEGRO: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7s Th]
+Xerophyten: raises $4 to $5
+gaiggibeliin: folds 
+AMANTENEGRO: calls $4
+*** FLOP *** [6s Qs Kh]
+Xerophyten: checks 
+AMANTENEGRO: checks 
+*** TURN *** [6s Qs Kh] [7d]
+Xerophyten: checks 
+AMANTENEGRO: checks 
+*** RIVER *** [6s Qs Kh 7d] [9d]
+Xerophyten: checks 
+AMANTENEGRO: checks 
+*** SHOW DOWN ***
+Xerophyten: shows [Ad 6c] (a pair of Sixes)
+AMANTENEGRO: shows [8d 8s] (a pair of Eights)
+AMANTENEGRO collected $12.35 from pot
+*** SUMMARY ***
+Total pot $13 | Rake $0.65 
+Board [6s Qs Kh 7d 9d]
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: AMANTENEGRO (button blind) showed [8d 8s] and won ($12.35) with a pair of Eights
+Seat 6: Xerophyten showed [Ad 6c] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #196394602240:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 2:50:51 EET [2019/01/29 19:50:51 ET]
+Table 'Ilioneus' 6-max Seat #6 is the button
+Seat 2: gaiggibeliin ($150 in chips) 
+Seat 4: AMANTENEGRO ($137.36 in chips) 
+Seat 6: Xerophyten ($292.74 in chips) 
+gaiggibeliin: posts the ante $1
+AMANTENEGRO: posts the ante $1
+Xerophyten: posts the ante $1
+Xerophyten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kh 8s]
+gaiggibeliin: folds 
+AMANTENEGRO: raises $5 to $6
+Xerophyten: calls $5
+*** FLOP *** [Qc Jd Ts]
+AMANTENEGRO: bets $10.69
+Xerophyten: calls $10.69
+*** TURN *** [Qc Jd Ts] [Jh]
+AMANTENEGRO: checks 
+Xerophyten: checks 
+*** RIVER *** [Qc Jd Ts Jh] [9d]
+AMANTENEGRO: checks 
+Xerophyten: bets $17.57
+AMANTENEGRO: folds 
+Uncalled bet ($17.57) returned to Xerophyten
+Xerophyten collected $35.13 from pot
+*** SUMMARY ***
+Total pot $36.38 | Rake $1.25 
+Board [Qc Jd Ts Jh 9d]
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: AMANTENEGRO folded on the River
+Seat 6: Xerophyten (button blind) collected ($35.13)
+
+
+
+PokerStars Hand #196394618262:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 2:51:27 EET [2019/01/29 19:51:27 ET]
+Table 'Ilioneus' 6-max Seat #2 is the button
+Seat 2: gaiggibeliin ($149 in chips) 
+Seat 4: AMANTENEGRO ($119.67 in chips) 
+Seat 6: Xerophyten ($310.18 in chips) 
+gaiggibeliin: posts the ante $1
+AMANTENEGRO: posts the ante $1
+Xerophyten: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ks 7d]
+AMANTENEGRO: raises $2 to $3
+Xerophyten: folds 
+gaiggibeliin: calls $2
+*** FLOP *** [Qc Ah Qh]
+AMANTENEGRO: checks 
+gaiggibeliin: checks 
+*** TURN *** [Qc Ah Qh] [Ad]
+AMANTENEGRO: bets $6.41
+gaiggibeliin: calls $6.41
+*** RIVER *** [Qc Ah Qh Ad] [Tc]
+AMANTENEGRO: checks 
+gaiggibeliin: checks 
+*** SHOW DOWN ***
+AMANTENEGRO: shows [7h 7s] (two pair, Aces and Queens)
+gaiggibeliin: shows [Ks 7d] (two pair, Aces and Queens - King kicker)
+gaiggibeliin collected $20.73 from pot
+*** SUMMARY ***
+Total pot $21.82 | Rake $1.09 
+Board [Qc Ah Qh Ad Tc]
+Seat 2: gaiggibeliin (button blind) showed [Ks 7d] and won ($20.73) with two pair, Aces and Queens
+Seat 4: AMANTENEGRO showed [7h 7s] and lost with two pair, Aces and Queens
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196394638930:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 2:52:14 EET [2019/01/29 19:52:14 ET]
+Table 'Ilioneus' 6-max Seat #4 is the button
+Seat 2: gaiggibeliin ($159.32 in chips) 
+Seat 4: AMANTENEGRO ($109.26 in chips) 
+Seat 6: Xerophyten ($309.18 in chips) 
+gaiggibeliin: posts the ante $1
+AMANTENEGRO: posts the ante $1
+Xerophyten: posts the ante $1
+AMANTENEGRO: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6h 9h]
+AMANTENEGRO said, "well"
+Xerophyten: raises $4 to $5
+gaiggibeliin: calls $5
+AMANTENEGRO: folds 
+*** FLOP *** [Qh Js 9c]
+Xerophyten: bets $6.65
+gaiggibeliin: folds 
+Uncalled bet ($6.65) returned to Xerophyten
+Xerophyten collected $13.30 from pot
+*** SUMMARY ***
+Total pot $14 | Rake $0.70 
+Board [Qh Js 9c]
+Seat 2: gaiggibeliin folded on the Flop
+Seat 4: AMANTENEGRO (button blind) folded before Flop
+Seat 6: Xerophyten collected ($13.30)
+
+
+
+PokerStars Hand #196394655465:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 2:52:51 EET [2019/01/29 19:52:51 ET]
+Table 'Ilioneus' 6-max Seat #6 is the button
+Seat 2: gaiggibeliin ($153.32 in chips) 
+Seat 4: AMANTENEGRO ($107.26 in chips) 
+Seat 6: Xerophyten ($316.48 in chips) 
+gaiggibeliin: posts the ante $1
+AMANTENEGRO: posts the ante $1
+Xerophyten: posts the ante $1
+Xerophyten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9h 8h]
+gaiggibeliin: folds 
+AMANTENEGRO: raises $5 to $6
+Xerophyten: calls $5
+*** FLOP *** [Qc Qs 8d]
+AMANTENEGRO: checks 
+Xerophyten: bets $9
+AMANTENEGRO: raises $9 to $18
+Xerophyten: folds 
+Uncalled bet ($9) returned to AMANTENEGRO
+AMANTENEGRO collected $31.75 from pot
+AMANTENEGRO: doesn't show hand 
+*** SUMMARY ***
+Total pot $33 | Rake $1.25 
+Board [Qc Qs 8d]
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: AMANTENEGRO collected ($31.75)
+Seat 6: Xerophyten (button blind) folded on the Flop
+
+
+
+PokerStars Hand #196394665269:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 2:53:14 EET [2019/01/29 19:53:14 ET]
+Table 'Ilioneus' 6-max Seat #2 is the button
+Seat 2: gaiggibeliin ($152.32 in chips) 
+Seat 4: AMANTENEGRO ($123.01 in chips) 
+Seat 6: Xerophyten ($300.48 in chips) 
+gaiggibeliin: posts the ante $1
+AMANTENEGRO: posts the ante $1
+Xerophyten: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ad 9h]
+AMANTENEGRO: folds 
+Xerophyten: calls $1
+gaiggibeliin: checks 
+*** FLOP *** [Ks Qc Ac]
+Xerophyten: bets $2.38
+gaiggibeliin: calls $2.38
+*** TURN *** [Ks Qc Ac] [8s]
+Xerophyten: bets $4.64
+gaiggibeliin: calls $4.64
+*** RIVER *** [Ks Qc Ac 8s] [Th]
+Xerophyten: checks 
+gaiggibeliin: bets $15
+Xerophyten: folds 
+Uncalled bet ($15) returned to gaiggibeliin
+gaiggibeliin collected $18.09 from pot
+*** SUMMARY ***
+Total pot $19.04 | Rake $0.95 
+Board [Ks Qc Ac 8s Th]
+Seat 2: gaiggibeliin (button blind) collected ($18.09)
+Seat 4: AMANTENEGRO folded before Flop (didn't bet)
+Seat 6: Xerophyten folded on the River
+
+
+
+PokerStars Hand #196394693657:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 2:54:19 EET [2019/01/29 19:54:19 ET]
+Table 'Ilioneus' 6-max Seat #4 is the button
+Seat 2: gaiggibeliin ($161.39 in chips) 
+Seat 4: AMANTENEGRO ($122.01 in chips) 
+Seat 6: Xerophyten ($291.46 in chips) 
+gaiggibeliin: posts the ante $1
+AMANTENEGRO: posts the ante $1
+Xerophyten: posts the ante $1
+AMANTENEGRO: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ks 8c]
+Xerophyten: raises $4 to $5
+gaiggibeliin: folds 
+AMANTENEGRO: raises $116.01 to $121.01 and is all-in
+Xerophyten: calls $116.01
+*** FIRST FLOP *** [Qd Jd Kh]
+*** FIRST TURN *** [Qd Jd Kh] [6c]
+*** FIRST RIVER *** [Qd Jd Kh 6c] [6h]
+*** SECOND FLOP *** [Jh Qs 8s]
+*** SECOND TURN *** [Jh Qs 8s] [7c]
+*** SECOND RIVER *** [Jh Qs 8s 7c] [7d]
+*** FIRST SHOW DOWN ***
+Xerophyten: shows [Kd Ah] (two pair, Kings and Sixes)
+AMANTENEGRO: shows [Td Th] (two pair, Tens and Sixes)
+Xerophyten collected $121.89 from pot
+*** SECOND SHOW DOWN ***
+Xerophyten: shows [Kd Ah] (a pair of Sevens)
+AMANTENEGRO: shows [Td Th] (two pair, Tens and Sevens)
+AMANTENEGRO collected $121.88 from pot
+*** SUMMARY ***
+Total pot $245.02 | Rake $1.25 
+Hand was run twice
+FIRST Board [Qd Jd Kh 6c 6h]
+SECOND Board [Jh Qs 8s 7c 7d]
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: AMANTENEGRO (button blind) showed [Td Th] and lost with two pair, Tens and Sixes, and won ($121.88) with two pair, Tens and Sevens
+Seat 6: Xerophyten showed [Kd Ah] and won ($121.89) with two pair, Kings and Sixes, and lost with a pair of Sevens
+
+
+
+PokerStars Hand #196394702070:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 2:54:38 EET [2019/01/29 19:54:38 ET]
+Table 'Ilioneus' 6-max Seat #6 is the button
+Seat 2: gaiggibeliin ($160.39 in chips) 
+Seat 4: AMANTENEGRO ($121.88 in chips) 
+Seat 6: Xerophyten ($291.34 in chips) 
+gaiggibeliin: posts the ante $1
+AMANTENEGRO: posts the ante $1
+Xerophyten: posts the ante $1
+Xerophyten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ah 8d]
+gaiggibeliin: folds 
+AMANTENEGRO: raises $5 to $6
+Xerophyten: folds 
+Uncalled bet ($5) returned to AMANTENEGRO
+AMANTENEGRO collected $5 from pot
+AMANTENEGRO: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: AMANTENEGRO collected ($5)
+Seat 6: Xerophyten (button blind) folded before Flop
+
+
+
+PokerStars Hand #196394705955:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 2:54:47 EET [2019/01/29 19:54:47 ET]
+Table 'Ilioneus' 6-max Seat #2 is the button
+Seat 2: gaiggibeliin ($159.39 in chips) 
+Seat 4: AMANTENEGRO ($124.88 in chips) 
+Seat 6: Xerophyten ($289.34 in chips) 
+gaiggibeliin: posts the ante $1
+AMANTENEGRO: posts the ante $1
+Xerophyten: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qc 9c]
+AMANTENEGRO: raises $5 to $6
+Xerophyten: calls $6
+gaiggibeliin: calls $5
+*** FLOP *** [8d 6s Jh]
+AMANTENEGRO: checks 
+Xerophyten: checks 
+gaiggibeliin: checks 
+*** TURN *** [8d 6s Jh] [Jd]
+AMANTENEGRO: checks 
+Xerophyten: bets $9.98
+gaiggibeliin: folds 
+pokeantti joins the table at seat #1 
+AMANTENEGRO: folds 
+Uncalled bet ($9.98) returned to Xerophyten
+Xerophyten collected $19.95 from pot
+*** SUMMARY ***
+Total pot $21 | Rake $1.05 
+Board [8d 6s Jh Jd]
+Seat 2: gaiggibeliin (button blind) folded on the Turn
+Seat 4: AMANTENEGRO folded on the Turn
+Seat 6: Xerophyten collected ($19.95)
+
+
+
+PokerStars Hand #196394727301:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 2:55:40 EET [2019/01/29 19:55:40 ET]
+Table 'Ilioneus' 6-max Seat #4 is the button
+Seat 1: pokeantti ($150 in chips) 
+Seat 2: gaiggibeliin ($152.39 in chips) 
+Seat 4: AMANTENEGRO ($117.88 in chips) 
+Seat 6: Xerophyten ($302.29 in chips) 
+pokeantti: posts the ante $1
+gaiggibeliin: posts the ante $1
+AMANTENEGRO: posts the ante $1
+Xerophyten: posts the ante $1
+AMANTENEGRO: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ts Th]
+Xerophyten: folds 
+pokeantti: raises $6 to $7
+gaiggibeliin: calls $7
+AMANTENEGRO: folds 
+*** FLOP *** [Qd Kd Qs]
+pokeantti: checks 
+gaiggibeliin: checks 
+*** TURN *** [Qd Kd Qs] [8d]
+pokeantti: bets $18.05
+gaiggibeliin: folds 
+Uncalled bet ($18.05) returned to pokeantti
+pokeantti collected $18.05 from pot
+pokeantti: doesn't show hand 
+*** SUMMARY ***
+Total pot $19 | Rake $0.95 
+Board [Qd Kd Qs 8d]
+Seat 1: pokeantti collected ($18.05)
+Seat 2: gaiggibeliin folded on the Turn
+Seat 4: AMANTENEGRO (button blind) folded before Flop
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196394739692:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 2:56:14 EET [2019/01/29 19:56:14 ET]
+Table 'Ilioneus' 6-max Seat #6 is the button
+Seat 1: pokeantti ($160.05 in chips) 
+Seat 2: gaiggibeliin ($144.39 in chips) 
+Seat 4: AMANTENEGRO ($115.88 in chips) 
+Seat 6: Xerophyten ($301.29 in chips) 
+pokeantti: posts the ante $1
+gaiggibeliin: posts the ante $1
+AMANTENEGRO: posts the ante $1
+Xerophyten: posts the ante $1
+Xerophyten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8h 6c]
+pokeantti: raises $6 to $7
+gaiggibeliin: folds 
+AMANTENEGRO: folds 
+Xerophyten: folds 
+Uncalled bet ($6) returned to pokeantti
+pokeantti collected $6 from pot
+pokeantti: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: pokeantti collected ($6)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: AMANTENEGRO folded before Flop (didn't bet)
+Seat 6: Xerophyten (button blind) folded before Flop
+
+
+
+PokerStars Hand #196394744764:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 2:56:27 EET [2019/01/29 19:56:27 ET]
+Table 'Ilioneus' 6-max Seat #1 is the button
+Seat 1: pokeantti ($164.05 in chips) 
+Seat 2: gaiggibeliin ($143.39 in chips) 
+Seat 4: AMANTENEGRO ($114.88 in chips) 
+Seat 6: Xerophyten ($299.29 in chips) 
+pokeantti: posts the ante $1
+gaiggibeliin: posts the ante $1
+AMANTENEGRO: posts the ante $1
+Xerophyten: posts the ante $1
+pokeantti: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7d Kc]
+gaiggibeliin: folds 
+AMANTENEGRO: folds 
+Xerophyten: calls $1
+pokeantti: checks 
+*** FLOP *** [8s Ks Kd]
+Xerophyten: bets $297.29 and is all-in
+pokeantti: folds 
+Uncalled bet ($297.29) returned to Xerophyten
+Xerophyten collected $5.70 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [8s Ks Kd]
+Seat 1: pokeantti (button blind) folded on the Flop
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: AMANTENEGRO folded before Flop (didn't bet)
+Seat 6: Xerophyten collected ($5.70)
+
+
+
+PokerStars Hand #196394754695:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 2:56:55 EET [2019/01/29 19:56:55 ET]
+Table 'Ilioneus' 6-max Seat #2 is the button
+Seat 1: pokeantti ($162.05 in chips) 
+Seat 2: gaiggibeliin ($142.39 in chips) 
+Seat 4: AMANTENEGRO ($113.88 in chips) 
+Seat 6: Xerophyten ($302.99 in chips) 
+pokeantti: posts the ante $1
+gaiggibeliin: posts the ante $1
+AMANTENEGRO: posts the ante $1
+Xerophyten: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ts Js]
+crueloz1907 joins the table at seat #5 
+AMANTENEGRO: raises $6 to $7
+Xerophyten: calls $7
+pokeantti: folds 
+gaiggibeliin: calls $6
+*** FLOP *** [Td Ah Tc]
+AMANTENEGRO: bets $11.88
+Xerophyten: folds 
+gaiggibeliin: calls $11.88
+*** TURN *** [Td Ah Tc] [Th]
+AMANTENEGRO: checks 
+gaiggibeliin: checks 
+*** RIVER *** [Td Ah Tc Th] [8h]
+AMANTENEGRO: checks 
+gaiggibeliin: bets $89
+AMANTENEGRO: folds 
+Uncalled bet ($89) returned to gaiggibeliin
+gaiggibeliin collected $47.51 from pot
+*** SUMMARY ***
+Total pot $48.76 | Rake $1.25 
+Board [Td Ah Tc Th 8h]
+Seat 1: pokeantti folded before Flop (didn't bet)
+Seat 2: gaiggibeliin (button blind) collected ($47.51)
+Seat 4: AMANTENEGRO folded on the River
+Seat 6: Xerophyten folded on the Flop
+
+
+
+PokerStars Hand #196394791745:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 2:58:34 EET [2019/01/29 19:58:34 ET]
+Table 'Ilioneus' 6-max Seat #4 is the button
+Seat 1: pokeantti ($161.05 in chips) 
+Seat 2: gaiggibeliin ($170.02 in chips) 
+Seat 4: AMANTENEGRO ($94 in chips) 
+Seat 5: crueloz1907 ($150 in chips) 
+Seat 6: Xerophyten ($294.99 in chips) 
+pokeantti: posts the ante $1
+gaiggibeliin: posts the ante $1
+AMANTENEGRO: posts the ante $1
+crueloz1907: posts the ante $1
+Xerophyten: posts the ante $1
+AMANTENEGRO: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ts Ah]
+crueloz1907: calls $1
+Xerophyten: folds 
+pokeantti: raises $8 to $9
+gaiggibeliin: folds 
+AMANTENEGRO: folds 
+crueloz1907: calls $8
+*** FLOP *** [8s 7c 9s]
+crueloz1907: bets $20
+pokeantti: calls $20
+*** TURN *** [8s 7c 9s] [7h]
+crueloz1907: bets $10
+pokeantti: calls $10
+*** RIVER *** [8s 7c 9s 7h] [9c]
+crueloz1907: checks 
+pokeantti: checks 
+*** SHOW DOWN ***
+crueloz1907: shows [Tc 9h] (a full house, Nines full of Sevens)
+pokeantti: mucks hand 
+crueloz1907 collected $81.25 from pot
+*** SUMMARY ***
+Total pot $84 | Rake $2.75 
+Board [8s 7c 9s 7h 9c]
+Seat 1: pokeantti mucked [Ac As]
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: AMANTENEGRO (button blind) folded before Flop
+Seat 5: crueloz1907 showed [Tc 9h] and won ($81.25) with a full house, Nines full of Sevens
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196394852235:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:01:14 EET [2019/01/29 20:01:14 ET]
+Table 'Ilioneus' 6-max Seat #4 is the button
+Seat 1: pokeantti ($124.05 in chips) 
+Seat 2: gaiggibeliin ($169.02 in chips) 
+Seat 4: AMANTENEGRO ($82 in chips) 
+Seat 5: crueloz1907 ($214.75 in chips) 
+Seat 6: Xerophyten ($274.99 in chips) 
+pokeantti: posts the ante $1
+gaiggibeliin: posts the ante $1
+AMANTENEGRO: posts the ante $1
+crueloz1907: posts the ante $1
+Xerophyten: posts the ante $1
+AMANTENEGRO: posts button blind $1
+gaiggibeliin: posts big blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Js Td]
+crueloz1907: raises $1 to $2
+Xerophyten: calls $2
+pokeantti: calls $2
+gaiggibeliin: calls $1
+AMANTENEGRO: calls $1
+*** FLOP *** [Tc 7h Qh]
+crueloz1907: bets $3
+Xerophyten: calls $3
+pokeantti: calls $3
+gaiggibeliin: calls $3
+Selenya joins the table at seat #3 
+AMANTENEGRO: folds 
+*** TURN *** [Tc 7h Qh] [Th]
+crueloz1907: bets $8
+Xerophyten: calls $8
+pokeantti: calls $8
+gaiggibeliin: calls $8
+*** RIVER *** [Tc 7h Qh Th] [Ah]
+crueloz1907: checks 
+Xerophyten: checks 
+pokeantti: checks 
+gaiggibeliin: checks 
+*** SHOW DOWN ***
+crueloz1907: shows [Ad 6h] (a flush, Ace high)
+Xerophyten: mucks hand 
+pokeantti: shows [9h 9d] (a flush, Ace high - Nine higher)
+gaiggibeliin: mucks hand 
+pokeantti collected $56.25 from pot
+*** SUMMARY ***
+Total pot $59 | Rake $2.75 
+Board [Tc 7h Qh Th Ah]
+Seat 1: pokeantti showed [9h 9d] and won ($56.25) with a flush, Ace high
+Seat 2: gaiggibeliin mucked [Js Td]
+Seat 4: AMANTENEGRO (button blind) folded on the Flop
+Seat 5: crueloz1907 showed [Ad 6h] and lost with a flush, Ace high
+Seat 6: Xerophyten mucked [7s Ts]
+
+
+
+PokerStars Hand #196394902020:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:03:13 EET [2019/01/29 20:03:13 ET]
+Table 'Ilioneus' 6-max Seat #5 is the button
+Seat 1: pokeantti ($166.30 in chips) 
+Seat 2: gaiggibeliin ($155.02 in chips) 
+Seat 3: Selenya ($150 in chips) 
+Seat 4: AMANTENEGRO ($79 in chips) 
+Seat 5: crueloz1907 ($200.75 in chips) 
+Seat 6: Xerophyten ($260.99 in chips) 
+pokeantti: posts the ante $1
+gaiggibeliin: posts the ante $1
+Selenya: posts the ante $1
+AMANTENEGRO: posts the ante $1
+crueloz1907: posts the ante $1
+Xerophyten: posts the ante $1
+crueloz1907: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Tc Jd]
+Xerophyten: calls $1
+pokeantti: folds 
+gaiggibeliin: calls $1
+Selenya: raises $10 to $11
+AMANTENEGRO: folds 
+crueloz1907: calls $10
+Xerophyten: calls $10
+gaiggibeliin: calls $10
+*** FLOP *** [9d As 6c]
+Xerophyten: checks 
+gaiggibeliin: checks 
+Selenya: bets $32
+crueloz1907: calls $32
+Xerophyten: folds 
+gaiggibeliin: folds 
+*** TURN *** [9d As 6c] [8c]
+Selenya: bets $106 and is all-in
+crueloz1907: calls $106
+*** RIVER *** [9d As 6c 8c] [7h]
+*** SHOW DOWN ***
+Selenya: shows [Ah Kc] (a straight, Ace to Nine)
+crueloz1907: shows [Ts 9h] (a straight, Six to Ten)
+crueloz1907 collected $323.25 from pot
+*** SUMMARY ***
+Total pot $326 | Rake $2.75 
+Board [9d As 6c 8c 7h]
+Seat 1: pokeantti folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded on the Flop
+Seat 3: Selenya showed [Ah Kc] and lost with a straight, Ace to Nine
+Seat 4: AMANTENEGRO folded before Flop (didn't bet)
+Seat 5: crueloz1907 (button blind) showed [Ts 9h] and won ($323.25) with a straight, Six to Ten
+Seat 6: Xerophyten folded on the Flop
+
+
+
+PokerStars Hand #196394932898:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:04:25 EET [2019/01/29 20:04:25 ET]
+Table 'Ilioneus' 6-max Seat #6 is the button
+Seat 1: pokeantti ($165.30 in chips) 
+Seat 2: gaiggibeliin ($143.02 in chips) 
+Seat 3: Selenya ($100 in chips) 
+Seat 4: AMANTENEGRO ($78 in chips) 
+Seat 5: crueloz1907 ($374 in chips) 
+Seat 6: Xerophyten ($248.99 in chips) 
+pokeantti: posts the ante $1
+gaiggibeliin: posts the ante $1
+Selenya: posts the ante $1
+AMANTENEGRO: posts the ante $1
+crueloz1907: posts the ante $1
+Xerophyten: posts the ante $1
+Xerophyten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7c 6s]
+pokeantti: folds 
+gaiggibeliin: folds 
+Selenya: folds 
+AMANTENEGRO: raises $8 to $9
+crueloz1907: folds 
+Xerophyten: folds 
+Uncalled bet ($8) returned to AMANTENEGRO
+AMANTENEGRO collected $8 from pot
+AMANTENEGRO: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0 
+Seat 1: pokeantti folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: Selenya folded before Flop (didn't bet)
+Seat 4: AMANTENEGRO collected ($8)
+Seat 5: crueloz1907 folded before Flop (didn't bet)
+Seat 6: Xerophyten (button blind) folded before Flop
+
+
+
+PokerStars Hand #196394940483:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:04:43 EET [2019/01/29 20:04:43 ET]
+Table 'Ilioneus' 6-max Seat #1 is the button
+Seat 1: pokeantti ($164.30 in chips) 
+Seat 2: gaiggibeliin ($142.02 in chips) 
+Seat 3: Selenya ($99 in chips) 
+Seat 4: AMANTENEGRO ($84 in chips) 
+Seat 5: crueloz1907 ($373 in chips) 
+Seat 6: Xerophyten ($246.99 in chips) 
+pokeantti: posts the ante $1
+gaiggibeliin: posts the ante $1
+Selenya: posts the ante $1
+AMANTENEGRO: posts the ante $1
+crueloz1907: posts the ante $1
+Xerophyten: posts the ante $1
+pokeantti: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6d Jh]
+gaiggibeliin: folds 
+Selenya: raises $8 to $9
+AMANTENEGRO: folds 
+crueloz1907: raises $363 to $372 and is all-in
+Xerophyten: folds 
+pokeantti: folds 
+Selenya: calls $89 and is all-in
+Uncalled bet ($274) returned to crueloz1907
+*** FLOP *** [Ah Tc 8h]
+*** TURN *** [Ah Tc 8h] [9d]
+*** RIVER *** [Ah Tc 8h 9d] [9s]
+*** SHOW DOWN ***
+Selenya: shows [Qs Js] (a straight, Eight to Queen)
+crueloz1907: shows [As Qh] (two pair, Aces and Nines)
+Selenya collected $200.25 from pot
+*** SUMMARY ***
+Total pot $203 | Rake $2.75 
+Board [Ah Tc 8h 9d 9s]
+Seat 1: pokeantti (button blind) folded before Flop
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: Selenya showed [Qs Js] and won ($200.25) with a straight, Eight to Queen
+Seat 4: AMANTENEGRO folded before Flop (didn't bet)
+Seat 5: crueloz1907 showed [As Qh] and lost with two pair, Aces and Nines
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196394953998:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:05:15 EET [2019/01/29 20:05:15 ET]
+Table 'Ilioneus' 6-max Seat #2 is the button
+Seat 1: pokeantti ($162.30 in chips) 
+Seat 2: gaiggibeliin ($141.02 in chips) 
+Seat 3: Selenya ($200.25 in chips) 
+Seat 4: AMANTENEGRO ($83 in chips) 
+Seat 5: crueloz1907 ($274 in chips) 
+Seat 6: Xerophyten ($245.99 in chips) 
+pokeantti: posts the ante $1
+gaiggibeliin: posts the ante $1
+Selenya: posts the ante $1
+AMANTENEGRO: posts the ante $1
+crueloz1907: posts the ante $1
+Xerophyten: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8c 6d]
+Selenya: folds 
+AMANTENEGRO: calls $1
+crueloz1907: calls $1
+Xerophyten: folds 
+pokeantti: raises $10 to $11
+gaiggibeliin: folds 
+AMANTENEGRO: folds 
+crueloz1907: folds 
+Uncalled bet ($10) returned to pokeantti
+pokeantti collected $10 from pot
+pokeantti: doesn't show hand 
+*** SUMMARY ***
+Total pot $10 | Rake $0 
+Seat 1: pokeantti collected ($10)
+Seat 2: gaiggibeliin (button blind) folded before Flop
+Seat 3: Selenya folded before Flop (didn't bet)
+Seat 4: AMANTENEGRO folded before Flop
+Seat 5: crueloz1907 folded before Flop
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196394966044:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:05:44 EET [2019/01/29 20:05:44 ET]
+Table 'Ilioneus' 6-max Seat #3 is the button
+Seat 1: pokeantti ($170.30 in chips) 
+Seat 2: gaiggibeliin ($139.02 in chips) 
+Seat 3: Selenya ($199.25 in chips) 
+Seat 4: AMANTENEGRO ($81 in chips) 
+Seat 5: crueloz1907 ($272 in chips) 
+Seat 6: Xerophyten ($244.99 in chips) 
+pokeantti: posts the ante $1
+gaiggibeliin: posts the ante $1
+Selenya: posts the ante $1
+AMANTENEGRO: posts the ante $1
+crueloz1907: posts the ante $1
+Xerophyten: posts the ante $1
+Selenya: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6c Ah]
+AMANTENEGRO: folds 
+crueloz1907: raises $8 to $9
+Xerophyten: folds 
+pokeantti: folds 
+gaiggibeliin: folds 
+Selenya: folds 
+Uncalled bet ($8) returned to crueloz1907
+crueloz1907 collected $8 from pot
+crueloz1907: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0 
+Seat 1: pokeantti folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: Selenya (button blind) folded before Flop
+Seat 4: AMANTENEGRO folded before Flop (didn't bet)
+Seat 5: crueloz1907 collected ($8)
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196394971935:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:05:58 EET [2019/01/29 20:05:58 ET]
+Table 'Ilioneus' 6-max Seat #4 is the button
+Seat 1: pokeantti ($169.30 in chips) 
+Seat 2: gaiggibeliin ($138.02 in chips) 
+Seat 3: Selenya ($197.25 in chips) 
+Seat 4: AMANTENEGRO ($80 in chips) 
+Seat 5: crueloz1907 ($278 in chips) 
+Seat 6: Xerophyten ($243.99 in chips) 
+pokeantti: posts the ante $1
+gaiggibeliin: posts the ante $1
+Selenya: posts the ante $1
+AMANTENEGRO: posts the ante $1
+crueloz1907: posts the ante $1
+Xerophyten: posts the ante $1
+AMANTENEGRO: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ah 8s]
+crueloz1907: calls $1
+Xerophyten: calls $1
+pokeantti: raises $10 to $11
+gaiggibeliin: folds 
+Selenya: folds 
+AMANTENEGRO: folds 
+crueloz1907: calls $10
+Xerophyten: folds 
+*** FLOP *** [8c 8h 6d]
+crueloz1907: bets $10
+pokeantti: raises $10 to $20
+crueloz1907: calls $10
+*** TURN *** [8c 8h 6d] [Js]
+crueloz1907: checks 
+pokeantti: bets $67.25
+crueloz1907: calls $67.25
+*** RIVER *** [8c 8h 6d Js] [Qs]
+crueloz1907: checks 
+pokeantti: bets $70.05 and is all-in
+crueloz1907: folds 
+Uncalled bet ($70.05) returned to pokeantti
+pokeantti collected $201.75 from pot
+pokeantti: doesn't show hand 
+*** SUMMARY ***
+Total pot $204.50 | Rake $2.75 
+Board [8c 8h 6d Js Qs]
+Seat 1: pokeantti collected ($201.75)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: Selenya folded before Flop (didn't bet)
+Seat 4: AMANTENEGRO (button blind) folded before Flop
+Seat 5: crueloz1907 folded on the River
+Seat 6: Xerophyten folded before Flop
+
+
+
+PokerStars Hand #196395018366:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:07:36 EET [2019/01/29 20:07:36 ET]
+Table 'Ilioneus' 6-max Seat #6 is the button
+Seat 1: pokeantti ($292.20 in chips) 
+Seat 2: gaiggibeliin ($137.02 in chips) 
+Seat 3: Selenya ($195.25 in chips) 
+Seat 4: AMANTENEGRO ($150 in chips) 
+Seat 5: crueloz1907 ($168.75 in chips) 
+Seat 6: Xerophyten ($231.99 in chips) 
+pokeantti: posts the ante $1
+gaiggibeliin: posts the ante $1
+Selenya: posts the ante $1
+AMANTENEGRO: posts the ante $1
+crueloz1907: posts the ante $1
+Xerophyten: posts the ante $1
+Xerophyten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Th 9c]
+pokeantti: folds 
+gaiggibeliin: calls $1
+Selenya: folds 
+AMANTENEGRO: raises $9 to $10
+crueloz1907: raises $157.75 to $167.75 and is all-in
+Xerophyten: raises $63.24 to $230.99 and is all-in
+gaiggibeliin: folds 
+AMANTENEGRO: calls $139 and is all-in
+Uncalled bet ($63.24) returned to Xerophyten
+*** FLOP *** [6d Td Kh]
+*** TURN *** [6d Td Kh] [9h]
+*** RIVER *** [6d Td Kh 9h] [8h]
+*** SHOW DOWN ***
+crueloz1907: shows [Ac Qd] (high card Ace)
+Xerophyten: shows [Kd Kc] (three of a kind, Kings)
+Xerophyten collected $37.50 from side pot
+AMANTENEGRO: shows [Ad Qh] (high card Ace)
+Xerophyten collected $451.25 from main pot
+*** SUMMARY ***
+Total pot $491.50 Main pot $451.25. Side pot $37.50. | Rake $2.75 
+Board [6d Td Kh 9h 8h]
+Seat 1: pokeantti folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded before Flop
+Seat 3: Selenya folded before Flop (didn't bet)
+Seat 4: AMANTENEGRO showed [Ad Qh] and lost with high card Ace
+Seat 5: crueloz1907 showed [Ac Qd] and lost with high card Ace
+Seat 6: Xerophyten (button blind) showed [Kd Kc] and won ($488.75) with three of a kind, Kings
+
+
+
+PokerStars Hand #196395030658:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:08:05 EET [2019/01/29 20:08:05 ET]
+Table 'Ilioneus' 6-max Seat #1 is the button
+Seat 1: pokeantti ($291.20 in chips) 
+Seat 2: gaiggibeliin ($148 in chips) 
+Seat 3: Selenya ($194.25 in chips) 
+Seat 4: AMANTENEGRO ($150 in chips) 
+Seat 6: Xerophyten ($551.99 in chips) 
+pokeantti: posts the ante $1
+gaiggibeliin: posts the ante $1
+Selenya: posts the ante $1
+AMANTENEGRO: posts the ante $1
+Xerophyten: posts the ante $1
+pokeantti: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qd Ad]
+gaiggibeliin: calls $1
+crueloz1907 leaves the table
+Selenya: folds 
+AMANTENEGRO: folds 
+Xerophyten: raises $4 to $5
+pokeantti: calls $4
+gaiggibeliin: raises $142 to $147 and is all-in
+Xerophyten: folds 
+pokeantti: folds 
+Uncalled bet ($142) returned to gaiggibeliin
+gaiggibeliin collected $20 from pot
+*** SUMMARY ***
+Total pot $20 | Rake $0 
+Seat 1: pokeantti (button blind) folded before Flop
+Seat 2: gaiggibeliin collected ($20)
+Seat 3: Selenya folded before Flop (didn't bet)
+Seat 4: AMANTENEGRO folded before Flop (didn't bet)
+Seat 6: Xerophyten folded before Flop
+
+
+
+PokerStars Hand #196395042906:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:08:34 EET [2019/01/29 20:08:34 ET]
+Table 'Ilioneus' 6-max Seat #2 is the button
+Seat 1: pokeantti ($285.20 in chips) 
+Seat 2: gaiggibeliin ($162 in chips) 
+Seat 3: Selenya ($193.25 in chips) 
+Seat 4: AMANTENEGRO ($149 in chips) 
+Seat 6: Xerophyten ($545.99 in chips) 
+pokeantti: posts the ante $1
+gaiggibeliin: posts the ante $1
+Selenya: posts the ante $1
+AMANTENEGRO: posts the ante $1
+Xerophyten: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6d Qh]
+Selenya: folds 
+AMANTENEGRO: folds 
+Xerophyten: calls $1
+pokeantti: calls $1
+gaiggibeliin: checks 
+*** FLOP *** [Tc 7d 6s]
+Xerophyten: checks 
+pokeantti: bets $7.60
+gaiggibeliin: folds 
+Xerophyten: folds 
+Uncalled bet ($7.60) returned to pokeantti
+pokeantti collected $7.60 from pot
+pokeantti: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [Tc 7d 6s]
+Seat 1: pokeantti collected ($7.60)
+Seat 2: gaiggibeliin (button blind) folded on the Flop
+Seat 3: Selenya folded before Flop (didn't bet)
+Seat 4: AMANTENEGRO folded before Flop (didn't bet)
+Seat 6: Xerophyten folded on the Flop
+
+
+
+PokerStars Hand #196395060925:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:09:18 EET [2019/01/29 20:09:18 ET]
+Table 'Ilioneus' 6-max Seat #3 is the button
+Seat 1: pokeantti ($290.80 in chips) 
+Seat 2: gaiggibeliin ($160 in chips) 
+Seat 3: Selenya ($192.25 in chips) 
+Seat 4: AMANTENEGRO ($148 in chips) 
+Seat 6: Xerophyten ($543.99 in chips) 
+pokeantti: posts the ante $1
+gaiggibeliin: posts the ante $1
+Selenya: posts the ante $1
+AMANTENEGRO: posts the ante $1
+Xerophyten: posts the ante $1
+Selenya: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qd As]
+AMANTENEGRO: raises $7 to $8
+Xerophyten: folds 
+pokeantti: folds 
+gaiggibeliin: raises $151 to $159 and is all-in
+Selenya: folds 
+AMANTENEGRO: calls $139 and is all-in
+Uncalled bet ($12) returned to gaiggibeliin
+*** FIRST FLOP *** [8h Qc Jh]
+*** FIRST TURN *** [8h Qc Jh] [Td]
+*** FIRST RIVER *** [8h Qc Jh Td] [8s]
+*** SECOND FLOP *** [Js Jc Qs]
+*** SECOND TURN *** [Js Jc Qs] [Ts]
+*** SECOND RIVER *** [Js Jc Qs Ts] [6d]
+*** FIRST SHOW DOWN ***
+AMANTENEGRO: shows [Kh Ad] (a straight, Ten to Ace)
+gaiggibeliin: shows [Qd As] (two pair, Queens and Eights)
+AMANTENEGRO collected $148.63 from pot
+*** SECOND SHOW DOWN ***
+AMANTENEGRO: shows [Kh Ad] (a straight, Ten to Ace)
+gaiggibeliin: shows [Qd As] (two pair, Queens and Jacks)
+AMANTENEGRO collected $148.62 from pot
+*** SUMMARY ***
+Total pot $300 | Rake $2.75 
+Hand was run twice
+FIRST Board [8h Qc Jh Td 8s]
+SECOND Board [Js Jc Qs Ts 6d]
+Seat 1: pokeantti folded before Flop (didn't bet)
+Seat 2: gaiggibeliin showed [Qd As] and lost with two pair, Queens and Eights, and lost with two pair, Queens and Jacks
+Seat 3: Selenya (button blind) folded before Flop
+Seat 4: AMANTENEGRO showed [Kh Ad] and won ($148.63) with a straight, Ten to Ace, and won ($148.62) with a straight, Ten to Ace
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196395125069:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:11:54 EET [2019/01/29 20:11:54 ET]
+Table 'Ilioneus' 6-max Seat #3 is the button
+Seat 1: pokeantti ($343.35 in chips) 
+Seat 2: gaiggibeliin ($150 in chips) 
+Seat 3: Selenya ($175.65 in chips) 
+Seat 4: AMANTENEGRO ($221.33 in chips) 
+Seat 6: Xerophyten ($576.21 in chips) 
+pokeantti: posts the ante $1
+gaiggibeliin: posts the ante $1
+Selenya: posts the ante $1
+AMANTENEGRO: posts the ante $1
+Xerophyten: posts the ante $1
+Selenya: posts button blind $1
+gaiggibeliin: posts big blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Td 8s]
+AMANTENEGRO: folds 
+Xerophyten: folds 
+pokeantti: raises $8 to $9
+gaiggibeliin: calls $8
+Selenya: folds 
+*** FLOP *** [Jd Tc Ad]
+pokeantti: checks 
+gaiggibeliin: checks 
+*** TURN *** [Jd Tc Ad] [6c]
+pokeantti: bets $22.80
+gaiggibeliin: folds 
+Uncalled bet ($22.80) returned to pokeantti
+pokeantti collected $22.80 from pot
+pokeantti: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $1.20 
+Board [Jd Tc Ad 6c]
+Seat 1: pokeantti collected ($22.80)
+Seat 2: gaiggibeliin folded on the Turn
+Seat 3: Selenya (button blind) folded before Flop
+Seat 4: AMANTENEGRO folded before Flop (didn't bet)
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196395140908:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:12:33 EET [2019/01/29 20:12:33 ET]
+Table 'Ilioneus' 6-max Seat #4 is the button
+Seat 1: pokeantti ($356.15 in chips) 
+Seat 2: gaiggibeliin ($140 in chips) 
+Seat 3: Selenya ($173.65 in chips) 
+Seat 4: AMANTENEGRO ($220.33 in chips) 
+Seat 6: Xerophyten ($575.21 in chips) 
+pokeantti: posts the ante $1
+gaiggibeliin: posts the ante $1
+Selenya: posts the ante $1
+AMANTENEGRO: posts the ante $1
+Xerophyten: posts the ante $1
+AMANTENEGRO: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jd Ks]
+Xerophyten: folds 
+pokeantti: raises $1.35 to $2.35
+gaiggibeliin: calls $2.35
+Selenya: folds 
+AMANTENEGRO: calls $1.35
+*** FLOP *** [9s Td Qh]
+pokeantti: bets $7.21
+gaiggibeliin: raises $15.79 to $23
+AMANTENEGRO: folds 
+pokeantti: raises $329.80 to $352.80 and is all-in
+gaiggibeliin: calls $113.65 and is all-in
+Uncalled bet ($216.15) returned to pokeantti
+*** TURN *** [9s Td Qh] [9d]
+*** RIVER *** [9s Td Qh 9d] [8c]
+*** SHOW DOWN ***
+pokeantti: shows [Kd Jh] (a straight, Nine to King)
+gaiggibeliin: shows [Jd Ks] (a straight, Nine to King)
+pokeantti collected $141.30 from pot
+gaiggibeliin collected $141.30 from pot
+*** SUMMARY ***
+Total pot $285.35 | Rake $2.75 
+Board [9s Td Qh 9d 8c]
+Seat 1: pokeantti showed [Kd Jh] and won ($141.30) with a straight, Nine to King
+Seat 2: gaiggibeliin showed [Jd Ks] and won ($141.30) with a straight, Nine to King
+Seat 3: Selenya folded before Flop (didn't bet)
+Seat 4: AMANTENEGRO (button blind) folded on the Flop
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196395163908:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:13:29 EET [2019/01/29 20:13:29 ET]
+Table 'Ilioneus' 6-max Seat #6 is the button
+Seat 1: pokeantti ($357.45 in chips) 
+Seat 2: gaiggibeliin ($141.30 in chips) 
+Seat 3: Selenya ($172.65 in chips) 
+Seat 4: AMANTENEGRO ($216.98 in chips) 
+Seat 6: Xerophyten ($574.21 in chips) 
+pokeantti: posts the ante $1
+gaiggibeliin: posts the ante $1
+Selenya: posts the ante $1
+AMANTENEGRO: posts the ante $1
+Xerophyten: posts the ante $1
+Xerophyten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ks Ad]
+pokeantti: raises $7 to $8
+gaiggibeliin: raises $22 to $30
+Selenya: folds 
+AMANTENEGRO: folds 
+Xerophyten: folds 
+pokeantti: calls $22
+*** FLOP *** [7c Tc 9h]
+pokeantti: checks 
+gaiggibeliin: checks 
+*** TURN *** [7c Tc 9h] [8d]
+pokeantti: bets $326.45 and is all-in
+gaiggibeliin: folds 
+Uncalled bet ($326.45) returned to pokeantti
+pokeantti collected $63.25 from pot
+pokeantti: doesn't show hand 
+*** SUMMARY ***
+Total pot $66 | Rake $2.75 
+Board [7c Tc 9h 8d]
+Seat 1: pokeantti collected ($63.25)
+Seat 2: gaiggibeliin folded on the Turn
+Seat 3: Selenya folded before Flop (didn't bet)
+Seat 4: AMANTENEGRO folded before Flop (didn't bet)
+Seat 6: Xerophyten (button blind) folded before Flop
+
+
+
+PokerStars Hand #196395178993:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:14:06 EET [2019/01/29 20:14:06 ET]
+Table 'Ilioneus' 6-max Seat #1 is the button
+Seat 1: pokeantti ($389.70 in chips) 
+Seat 2: gaiggibeliin ($110.30 in chips) 
+Seat 3: Selenya ($171.65 in chips) 
+Seat 4: AMANTENEGRO ($215.98 in chips) 
+Seat 6: Xerophyten ($572.21 in chips) 
+pokeantti: posts the ante $1
+gaiggibeliin: posts the ante $1
+Selenya: posts the ante $1
+AMANTENEGRO: posts the ante $1
+Xerophyten: posts the ante $1
+pokeantti: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jc 9c]
+gaiggibeliin: calls $1
+Selenya: folds 
+AMANTENEGRO: raises $213.98 to $214.98 and is all-in
+Xerophyten: folds 
+pokeantti: folds 
+gaiggibeliin: folds 
+Uncalled bet ($213.98) returned to AMANTENEGRO
+AMANTENEGRO collected $8 from pot
+AMANTENEGRO: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0 
+Seat 1: pokeantti (button blind) folded before Flop
+Seat 2: gaiggibeliin folded before Flop
+Seat 3: Selenya folded before Flop (didn't bet)
+Seat 4: AMANTENEGRO collected ($8)
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196395183998:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:14:18 EET [2019/01/29 20:14:18 ET]
+Table 'Ilioneus' 6-max Seat #2 is the button
+Seat 1: pokeantti ($387.70 in chips) 
+Seat 2: gaiggibeliin ($108.30 in chips) 
+Seat 3: Selenya ($170.65 in chips) 
+Seat 4: AMANTENEGRO ($221.98 in chips) 
+Seat 6: Xerophyten ($571.21 in chips) 
+pokeantti: posts the ante $1
+gaiggibeliin: posts the ante $1
+Selenya: posts the ante $1
+AMANTENEGRO: posts the ante $1
+Xerophyten: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Th 8d]
+Selenya: folds 
+AMANTENEGRO: raises $7 to $8
+Xerophyten: calls $8
+pokeantti: calls $8
+gaiggibeliin: calls $7
+*** FLOP *** [6h 6s 6d]
+AMANTENEGRO: bets $17.58
+Xerophyten: folds 
+pokeantti: raises $17.58 to $35.16
+gaiggibeliin: folds 
+AMANTENEGRO said, "okey 30 minutes of hitting all"
+AMANTENEGRO: folds 
+Uncalled bet ($17.58) returned to pokeantti
+pokeantti collected $69.41 from pot
+pokeantti: doesn't show hand 
+*** SUMMARY ***
+Total pot $72.16 | Rake $2.75 
+Board [6h 6s 6d]
+Seat 1: pokeantti collected ($69.41)
+Seat 2: gaiggibeliin (button blind) folded on the Flop
+Seat 3: Selenya folded before Flop (didn't bet)
+Seat 4: AMANTENEGRO folded on the Flop
+Seat 6: Xerophyten folded on the Flop
+
+
+
+PokerStars Hand #196395207542:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:15:16 EET [2019/01/29 20:15:16 ET]
+Table 'Ilioneus' 6-max Seat #3 is the button
+Seat 1: pokeantti ($430.53 in chips) 
+Seat 2: gaiggibeliin ($150 in chips) 
+Seat 3: Selenya ($169.65 in chips) 
+Seat 4: AMANTENEGRO ($195.40 in chips) 
+Seat 6: Xerophyten ($562.21 in chips) 
+pokeantti: posts the ante $1
+gaiggibeliin: posts the ante $1
+Selenya: posts the ante $1
+AMANTENEGRO: posts the ante $1
+Xerophyten: posts the ante $1
+Selenya: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8d Qd]
+AMANTENEGRO: folds 
+Xerophyten: folds 
+pokeantti: folds 
+gaiggibeliin: calls $1
+Selenya: checks 
+*** FLOP *** [Qc 7h Td]
+gaiggibeliin: bets $4.46
+Selenya: folds 
+Uncalled bet ($4.46) returned to gaiggibeliin
+gaiggibeliin collected $6.65 from pot
+*** SUMMARY ***
+Total pot $7 | Rake $0.35 
+Board [Qc 7h Td]
+Seat 1: pokeantti folded before Flop (didn't bet)
+Seat 2: gaiggibeliin collected ($6.65)
+Seat 3: Selenya (button blind) folded on the Flop
+Seat 4: AMANTENEGRO folded before Flop (didn't bet)
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196395219173:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:15:45 EET [2019/01/29 20:15:45 ET]
+Table 'Ilioneus' 6-max Seat #4 is the button
+Seat 1: pokeantti ($429.53 in chips) 
+Seat 2: gaiggibeliin ($154.65 in chips) 
+Seat 3: Selenya ($167.65 in chips) 
+Seat 4: AMANTENEGRO ($194.40 in chips) 
+Seat 6: Xerophyten ($561.21 in chips) 
+pokeantti: posts the ante $1
+gaiggibeliin: posts the ante $1
+Selenya: posts the ante $1
+AMANTENEGRO: posts the ante $1
+Xerophyten: posts the ante $1
+AMANTENEGRO: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8h 8d]
+Xerophyten: calls $1
+pokeantti: raises $8 to $9
+gaiggibeliin: calls $9
+Selenya: folds 
+AMANTENEGRO: calls $8
+Xerophyten: calls $8
+*** FLOP *** [Jc 6d Qc]
+Xerophyten: checks 
+pokeantti: bets $38.95
+gaiggibeliin: folds 
+AMANTENEGRO: folds 
+Xerophyten: folds 
+Uncalled bet ($38.95) returned to pokeantti
+pokeantti collected $38.95 from pot
+pokeantti: doesn't show hand 
+*** SUMMARY ***
+Total pot $41 | Rake $2.05 
+Board [Jc 6d Qc]
+Seat 1: pokeantti collected ($38.95)
+Seat 2: gaiggibeliin folded on the Flop
+Seat 3: Selenya folded before Flop (didn't bet)
+Seat 4: AMANTENEGRO (button blind) folded on the Flop
+Seat 6: Xerophyten folded on the Flop
+
+
+
+PokerStars Hand #196395251855:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:17:05 EET [2019/01/29 20:17:05 ET]
+Table 'Ilioneus' 6-max Seat #6 is the button
+Seat 1: pokeantti ($458.48 in chips) 
+Seat 2: gaiggibeliin ($144.65 in chips) 
+Seat 3: Selenya ($166.65 in chips) 
+Seat 4: AMANTENEGRO ($184.40 in chips) 
+Seat 6: Xerophyten ($551.21 in chips) 
+pokeantti: posts the ante $1
+gaiggibeliin: posts the ante $1
+Selenya: posts the ante $1
+AMANTENEGRO: posts the ante $1
+Xerophyten: posts the ante $1
+Xerophyten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kd Ks]
+pokeantti: raises $1 to $2
+gaiggibeliin: raises $10 to $12
+Selenya: folds 
+AMANTENEGRO: folds 
+Xerophyten: folds 
+pokeantti: calls $10
+*** FLOP *** [9h 8s 8h]
+pokeantti: checks 
+gaiggibeliin: bets $16
+pokeantti: calls $16
+*** TURN *** [9h 8s 8h] [9s]
+pokeantti: checks 
+gaiggibeliin: checks 
+*** RIVER *** [9h 8s 8h 9s] [Qc]
+pokeantti: bets $59.25
+gaiggibeliin: folds 
+Uncalled bet ($59.25) returned to pokeantti
+pokeantti collected $59.25 from pot
+pokeantti: doesn't show hand 
+*** SUMMARY ***
+Total pot $62 | Rake $2.75 
+Board [9h 8s 8h 9s Qc]
+Seat 1: pokeantti collected ($59.25)
+Seat 2: gaiggibeliin folded on the River
+Seat 3: Selenya folded before Flop (didn't bet)
+Seat 4: AMANTENEGRO folded before Flop (didn't bet)
+Seat 6: Xerophyten (button blind) folded before Flop
+
+
+
+PokerStars Hand #196395285238:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:18:28 EET [2019/01/29 20:18:28 ET]
+Table 'Ilioneus' 6-max Seat #1 is the button
+Seat 1: pokeantti ($488.73 in chips) 
+Seat 2: gaiggibeliin ($115.65 in chips) 
+Seat 3: Selenya ($165.65 in chips) 
+Seat 4: AMANTENEGRO ($183.40 in chips) 
+Seat 6: Xerophyten ($549.21 in chips) 
+pokeantti: posts the ante $1
+gaiggibeliin: posts the ante $1
+Selenya: posts the ante $1
+AMANTENEGRO: posts the ante $1
+Xerophyten: posts the ante $1
+pokeantti: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jc 6s]
+gaiggibeliin: folds 
+Selenya: folds 
+AMANTENEGRO: raises $7 to $8
+Xerophyten: folds 
+pokeantti: calls $7
+*** FLOP *** [8c 7c Qd]
+AMANTENEGRO: checks 
+pokeantti: checks 
+*** TURN *** [8c 7c Qd] [Qc]
+AMANTENEGRO: bets $13.30
+pokeantti: calls $13.30
+*** RIVER *** [8c 7c Qd Qc] [7d]
+AMANTENEGRO: checks 
+pokeantti: checks 
+*** SHOW DOWN ***
+AMANTENEGRO: shows [Qh Jh] (a full house, Queens full of Sevens)
+pokeantti: mucks hand 
+AMANTENEGRO collected $45.22 from pot
+*** SUMMARY ***
+Total pot $47.60 | Rake $2.38 
+Board [8c 7c Qd Qc 7d]
+Seat 1: pokeantti (button blind) mucked [9c 9h]
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: Selenya folded before Flop (didn't bet)
+Seat 4: AMANTENEGRO showed [Qh Jh] and won ($45.22) with a full house, Queens full of Sevens
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196395296997:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:18:57 EET [2019/01/29 20:18:57 ET]
+Table 'Ilioneus' 6-max Seat #2 is the button
+Seat 1: pokeantti ($466.43 in chips) 
+Seat 2: gaiggibeliin ($114.65 in chips) 
+Seat 3: Selenya ($164.65 in chips) 
+Seat 4: AMANTENEGRO ($206.32 in chips) 
+Seat 6: Xerophyten ($548.21 in chips) 
+pokeantti: posts the ante $1
+gaiggibeliin: posts the ante $1
+Selenya: posts the ante $1
+AMANTENEGRO: posts the ante $1
+Xerophyten: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9d Ac]
+Selenya: folds 
+AMANTENEGRO: folds 
+Xerophyten: folds 
+pokeantti: raises $7 to $8
+gaiggibeliin: calls $7
+*** FLOP *** [Ks Ad 6h]
+pokeantti: bets $19.95
+gaiggibeliin: calls $19.95
+*** TURN *** [Ks Ad 6h] [7s]
+pokeantti: checks 
+gaiggibeliin: bets $24
+pokeantti: calls $24
+*** RIVER *** [Ks Ad 6h 7s] [Qc]
+pokeantti: bets $106.15
+gaiggibeliin: folds 
+Uncalled bet ($106.15) returned to pokeantti
+pokeantti collected $106.15 from pot
+pokeantti: doesn't show hand 
+*** SUMMARY ***
+Total pot $108.90 | Rake $2.75 
+Board [Ks Ad 6h 7s Qc]
+Seat 1: pokeantti collected ($106.15)
+Seat 2: gaiggibeliin (button blind) folded on the River
+Seat 3: Selenya folded before Flop (didn't bet)
+Seat 4: AMANTENEGRO folded before Flop (didn't bet)
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196395318613:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:19:51 EET [2019/01/29 20:19:51 ET]
+Table 'Ilioneus' 6-max Seat #3 is the button
+Seat 1: pokeantti ($519.63 in chips) 
+Seat 2: gaiggibeliin ($150 in chips) 
+Seat 3: Selenya ($163.65 in chips) 
+Seat 4: AMANTENEGRO ($205.32 in chips) 
+Seat 6: Xerophyten ($547.21 in chips) 
+pokeantti: posts the ante $1
+gaiggibeliin: posts the ante $1
+Selenya: posts the ante $1
+AMANTENEGRO: posts the ante $1
+Xerophyten: posts the ante $1
+Selenya: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6s Tc]
+AMANTENEGRO: folds 
+Xerophyten: raises $4 to $5
+pokeantti: calls $5
+gaiggibeliin: folds 
+Selenya: folds 
+*** FLOP *** [8h Qs Th]
+Xerophyten: checks 
+pokeantti: bets $15.20
+Xerophyten: folds 
+Uncalled bet ($15.20) returned to pokeantti
+pokeantti collected $15.20 from pot
+pokeantti: doesn't show hand 
+*** SUMMARY ***
+Total pot $16 | Rake $0.80 
+Board [8h Qs Th]
+Seat 1: pokeantti collected ($15.20)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: Selenya (button blind) folded before Flop
+Seat 4: AMANTENEGRO folded before Flop (didn't bet)
+Seat 6: Xerophyten folded on the Flop
+
+
+
+PokerStars Hand #196395330810:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:20:21 EET [2019/01/29 20:20:21 ET]
+Table 'Ilioneus' 6-max Seat #4 is the button
+Seat 1: pokeantti ($528.83 in chips) 
+Seat 2: gaiggibeliin ($149 in chips) 
+Seat 3: Selenya ($161.65 in chips) 
+Seat 4: AMANTENEGRO ($204.32 in chips) 
+Seat 6: Xerophyten ($541.21 in chips) 
+pokeantti: posts the ante $1
+gaiggibeliin: posts the ante $1
+Selenya: posts the ante $1
+AMANTENEGRO: posts the ante $1
+Xerophyten: posts the ante $1
+AMANTENEGRO: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7d 8s]
+Xerophyten: folds 
+pokeantti: raises $7 to $8
+gaiggibeliin: calls $8
+Selenya: folds 
+AMANTENEGRO: folds 
+*** FLOP *** [9c Qc Kd]
+pokeantti: checks 
+gaiggibeliin: checks 
+*** TURN *** [9c Qc Kd] [9h]
+pokeantti: bets $20.90
+gaiggibeliin: folds 
+Uncalled bet ($20.90) returned to pokeantti
+pokeantti collected $20.90 from pot
+pokeantti: doesn't show hand 
+*** SUMMARY ***
+Total pot $22 | Rake $1.10 
+Board [9c Qc Kd 9h]
+Seat 1: pokeantti collected ($20.90)
+Seat 2: gaiggibeliin folded on the Turn
+Seat 3: Selenya folded before Flop (didn't bet)
+Seat 4: AMANTENEGRO (button blind) folded before Flop
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196395341957:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:20:49 EET [2019/01/29 20:20:49 ET]
+Table 'Ilioneus' 6-max Seat #6 is the button
+Seat 1: pokeantti ($540.73 in chips) 
+Seat 2: gaiggibeliin ($140 in chips) 
+Seat 3: Selenya ($160.65 in chips) 
+Seat 4: AMANTENEGRO ($202.32 in chips) 
+Seat 6: Xerophyten ($540.21 in chips) 
+pokeantti: posts the ante $1
+gaiggibeliin: posts the ante $1
+Selenya: posts the ante $1
+AMANTENEGRO: posts the ante $1
+Xerophyten: posts the ante $1
+Xerophyten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qs Ks]
+pokeantti: raises $7 to $8
+gaiggibeliin: calls $8
+Selenya: folds 
+AMANTENEGRO: calls $8
+Xerophyten: calls $7
+*** FLOP *** [Qh Td 6s]
+pokeantti: bets $35.15
+gaiggibeliin: folds 
+AMANTENEGRO: folds 
+Xerophyten: calls $35.15
+*** TURN *** [Qh Td 6s] [7d]
+pokeantti: checks 
+Xerophyten: checks 
+*** RIVER *** [Qh Td 6s 7d] [Ts]
+pokeantti: bets $65.87
+Xerophyten: folds 
+Uncalled bet ($65.87) returned to pokeantti
+pokeantti collected $104.55 from pot
+pokeantti: doesn't show hand 
+*** SUMMARY ***
+Total pot $107.30 | Rake $2.75 
+Board [Qh Td 6s 7d Ts]
+Seat 1: pokeantti collected ($104.55)
+Seat 2: gaiggibeliin folded on the Flop
+Seat 3: Selenya folded before Flop (didn't bet)
+Seat 4: AMANTENEGRO folded on the Flop
+Seat 6: Xerophyten (button blind) folded on the River
+
+
+
+PokerStars Hand #196395372961:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:22:06 EET [2019/01/29 20:22:06 ET]
+Table 'Ilioneus' 6-max Seat #1 is the button
+Seat 1: pokeantti ($601.13 in chips) 
+Seat 2: gaiggibeliin ($131 in chips) 
+Seat 3: Selenya ($159.65 in chips) 
+Seat 4: AMANTENEGRO ($193.32 in chips) 
+Seat 6: Xerophyten ($496.06 in chips) 
+pokeantti: posts the ante $1
+gaiggibeliin: posts the ante $1
+Selenya: posts the ante $1
+AMANTENEGRO: posts the ante $1
+Xerophyten: posts the ante $1
+pokeantti: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Th Qh]
+gaiggibeliin: calls $1
+Selenya: folds 
+AMANTENEGRO: raises $2 to $3
+Xerophyten: folds 
+pokeantti: raises $12 to $15
+gaiggibeliin: calls $14
+AMANTENEGRO: calls $12
+*** FLOP *** [Qs 6h Ad]
+gaiggibeliin: checks 
+AMANTENEGRO: checks 
+BruceLeeXj joins the table at seat #5 
+pokeantti: bets $29.93
+gaiggibeliin: folds 
+AMANTENEGRO: folds 
+Uncalled bet ($29.93) returned to pokeantti
+pokeantti collected $47.50 from pot
+pokeantti: doesn't show hand 
+*** SUMMARY ***
+Total pot $50 | Rake $2.50 
+Board [Qs 6h Ad]
+Seat 1: pokeantti (button blind) collected ($47.50)
+Seat 2: gaiggibeliin folded on the Flop
+Seat 3: Selenya folded before Flop (didn't bet)
+Seat 4: AMANTENEGRO folded on the Flop
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196395398182:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:23:09 EET [2019/01/29 20:23:09 ET]
+Table 'Ilioneus' 6-max Seat #2 is the button
+Seat 1: pokeantti ($632.63 in chips) 
+Seat 2: gaiggibeliin ($115 in chips) 
+Seat 3: Selenya ($158.65 in chips) 
+Seat 4: AMANTENEGRO ($177.32 in chips) 
+Seat 5: BruceLeeXj ($150 in chips) 
+Seat 6: Xerophyten ($495.06 in chips) 
+pokeantti: posts the ante $1
+gaiggibeliin: posts the ante $1
+Selenya: posts the ante $1
+AMANTENEGRO: posts the ante $1
+BruceLeeXj: posts the ante $1
+Xerophyten: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7d Jd]
+Selenya: raises $8 to $9
+AMANTENEGRO: folds 
+AMANTENEGRO said, "weird any 2"
+BruceLeeXj: calls $9
+Xerophyten: folds 
+pokeantti: folds 
+gaiggibeliin: calls $8
+*** FLOP *** [9h Th Jc]
+Selenya: bets $25.30
+BruceLeeXj: raises $114.70 to $140 and is all-in
+gaiggibeliin: folds 
+Selenya: calls $114.70
+*** TURN *** [9h Th Jc] [Qc]
+*** RIVER *** [9h Th Jc Qc] [As]
+*** SHOW DOWN ***
+Selenya: shows [9c Tc] (two pair, Tens and Nines)
+BruceLeeXj: shows [Qs Td] (two pair, Queens and Tens)
+BruceLeeXj collected $310.25 from pot
+*** SUMMARY ***
+Total pot $313 | Rake $2.75 
+Board [9h Th Jc Qc As]
+Seat 1: pokeantti folded before Flop (didn't bet)
+Seat 2: gaiggibeliin (button blind) folded on the Flop
+Seat 3: Selenya showed [9c Tc] and lost with two pair, Tens and Nines
+Seat 4: AMANTENEGRO folded before Flop (didn't bet)
+Seat 5: BruceLeeXj showed [Qs Td] and won ($310.25) with two pair, Queens and Tens
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196395413890:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:23:49 EET [2019/01/29 20:23:49 ET]
+Table 'Ilioneus' 6-max Seat #3 is the button
+Seat 1: pokeantti ($631.63 in chips) 
+Seat 2: gaiggibeliin ($105 in chips) 
+Seat 3: Selenya ($8.65 in chips) 
+Seat 4: AMANTENEGRO ($176.32 in chips) 
+Seat 5: BruceLeeXj ($310.25 in chips) 
+Seat 6: Xerophyten ($494.06 in chips) 
+pokeantti: posts the ante $1
+gaiggibeliin: posts the ante $1
+Selenya: posts the ante $1
+AMANTENEGRO: posts the ante $1
+BruceLeeXj: posts the ante $1
+Xerophyten: posts the ante $1
+Selenya: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jc Kd]
+AMANTENEGRO: calls $1
+BruceLeeXj: folds 
+Xerophyten: calls $1
+pokeantti: folds 
+gaiggibeliin: calls $1
+Selenya: raises $6.65 to $7.65 and is all-in
+AMANTENEGRO: calls $6.65
+Xerophyten: calls $6.65
+gaiggibeliin: calls $6.65
+*** FLOP *** [As 7d Qh]
+AMANTENEGRO: checks 
+Xerophyten: bets $485.41 and is all-in
+gaiggibeliin: folds 
+AMANTENEGRO: folds 
+Uncalled bet ($485.41) returned to Xerophyten
+*** FIRST TURN *** [As 7d Qh] [Kh]
+*** FIRST RIVER *** [As 7d Qh Kh] [Qc]
+*** SECOND TURN *** [As 7d Qh] [8c]
+*** SECOND RIVER *** [As 7d Qh 8c] [7h]
+*** FIRST SHOW DOWN ***
+Xerophyten: shows [7s 7c] (a full house, Sevens full of Queens)
+Selenya: shows [Ac Th] (two pair, Aces and Queens)
+Xerophyten collected $17.39 from pot
+*** SECOND SHOW DOWN ***
+Xerophyten: shows [7s 7c] (four of a kind, Sevens)
+Selenya: shows [Ac Th] (two pair, Aces and Sevens)
+Xerophyten collected $17.38 from pot
+*** SUMMARY ***
+Total pot $36.60 | Rake $1.83 
+Hand was run twice
+FIRST Board [As 7d Qh Kh Qc]
+SECOND Board [As 7d Qh 8c 7h]
+Seat 1: pokeantti folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded on the Flop
+Seat 3: Selenya (button blind) showed [Ac Th] and lost with two pair, Aces and Queens, and lost with two pair, Aces and Sevens
+Seat 4: AMANTENEGRO folded on the Flop
+Seat 5: BruceLeeXj folded before Flop (didn't bet)
+Seat 6: Xerophyten showed [7s 7c] and won ($17.39) with a full house, Sevens full of Queens, and won ($17.38) with four of a kind, Sevens
+
+
+
+PokerStars Hand #196395433755:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:24:39 EET [2019/01/29 20:24:39 ET]
+Table 'Ilioneus' 6-max Seat #4 is the button
+Seat 1: pokeantti ($630.63 in chips) 
+Seat 2: gaiggibeliin ($150 in chips) 
+Seat 3: Selenya ($141.35 in chips) 
+Seat 4: AMANTENEGRO ($167.67 in chips) 
+Seat 5: BruceLeeXj ($309.25 in chips) 
+Seat 6: Xerophyten ($520.18 in chips) 
+pokeantti: posts the ante $1
+gaiggibeliin: posts the ante $1
+Selenya: posts the ante $1
+AMANTENEGRO: posts the ante $1
+BruceLeeXj: posts the ante $1
+Xerophyten: posts the ante $1
+AMANTENEGRO: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Th Td]
+BruceLeeXj: folds 
+Xerophyten: raises $4 to $5
+pokeantti: calls $5
+gaiggibeliin: calls $5
+Selenya: calls $5
+AMANTENEGRO: calls $4
+*** FLOP *** [Jc 6d Ad]
+Xerophyten: checks 
+pokeantti: bets $29.45
+gaiggibeliin: folds 
+Selenya: folds 
+AMANTENEGRO: folds 
+Xerophyten: folds 
+Uncalled bet ($29.45) returned to pokeantti
+pokeantti collected $29.45 from pot
+pokeantti: doesn't show hand 
+*** SUMMARY ***
+Total pot $31 | Rake $1.55 
+Board [Jc 6d Ad]
+Seat 1: pokeantti collected ($29.45)
+Seat 2: gaiggibeliin folded on the Flop
+Seat 3: Selenya folded on the Flop
+Seat 4: AMANTENEGRO (button blind) folded on the Flop
+Seat 5: BruceLeeXj folded before Flop (didn't bet)
+Seat 6: Xerophyten folded on the Flop
+
+
+
+PokerStars Hand #196395456337:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:25:36 EET [2019/01/29 20:25:36 ET]
+Table 'Ilioneus' 6-max Seat #5 is the button
+Seat 1: pokeantti ($654.08 in chips) 
+Seat 2: gaiggibeliin ($144 in chips) 
+Seat 3: Selenya ($150 in chips) 
+Seat 4: AMANTENEGRO ($161.67 in chips) 
+Seat 5: BruceLeeXj ($308.25 in chips) 
+Seat 6: Xerophyten ($514.18 in chips) 
+pokeantti: posts the ante $1
+gaiggibeliin: posts the ante $1
+Selenya: posts the ante $1
+AMANTENEGRO: posts the ante $1
+BruceLeeXj: posts the ante $1
+Xerophyten: posts the ante $1
+BruceLeeXj: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9c Kh]
+Xerophyten: folds 
+pokeantti: calls $1
+gaiggibeliin: folds 
+Selenya: folds 
+AMANTENEGRO: raises $9 to $10
+BruceLeeXj: calls $9
+pokeantti: calls $9
+*** FLOP *** [7c Ah Ks]
+pokeantti: checks 
+AMANTENEGRO: checks 
+BruceLeeXj: bets $19
+pokeantti: calls $19
+AMANTENEGRO: folds 
+*** TURN *** [7c Ah Ks] [Tc]
+pokeantti: checks 
+BruceLeeXj: bets $58
+pokeantti: calls $58
+*** RIVER *** [7c Ah Ks Tc] [8d]
+pokeantti: checks 
+BruceLeeXj: checks 
+*** SHOW DOWN ***
+pokeantti: shows [Kc 6c] (a pair of Kings)
+BruceLeeXj: shows [Qh Ac] (a pair of Aces)
+BruceLeeXj collected $187.25 from pot
+*** SUMMARY ***
+Total pot $190 | Rake $2.75 
+Board [7c Ah Ks Tc 8d]
+Seat 1: pokeantti showed [Kc 6c] and lost with a pair of Kings
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: Selenya folded before Flop (didn't bet)
+Seat 4: AMANTENEGRO folded on the Flop
+Seat 5: BruceLeeXj (button blind) showed [Qh Ac] and won ($187.25) with a pair of Aces
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196395478866:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:26:33 EET [2019/01/29 20:26:33 ET]
+Table 'Ilioneus' 6-max Seat #6 is the button
+Seat 1: pokeantti ($566.08 in chips) 
+Seat 2: gaiggibeliin ($143 in chips) 
+Seat 3: Selenya ($149 in chips) 
+Seat 4: AMANTENEGRO ($150.67 in chips) 
+Seat 5: BruceLeeXj ($407.50 in chips) 
+Seat 6: Xerophyten ($513.18 in chips) 
+pokeantti: posts the ante $1
+gaiggibeliin: posts the ante $1
+Selenya: posts the ante $1
+AMANTENEGRO: posts the ante $1
+BruceLeeXj: posts the ante $1
+Xerophyten: posts the ante $1
+Xerophyten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7c Td]
+pokeantti: raises $8 to $9
+gaiggibeliin: folds 
+Selenya: folds 
+AMANTENEGRO: raises $140.67 to $149.67 and is all-in
+BruceLeeXj: folds 
+Xerophyten: folds 
+pokeantti: calls $140.67
+*** FLOP *** [Jc 8d Js]
+*** TURN *** [Jc 8d Js] [Jh]
+*** RIVER *** [Jc 8d Js Jh] [Qs]
+*** SHOW DOWN ***
+pokeantti: shows [Ac 9s] (three of a kind, Jacks)
+AMANTENEGRO: shows [Tc Ah] (three of a kind, Jacks)
+pokeantti collected $151.80 from pot
+AMANTENEGRO collected $151.79 from pot
+*** SUMMARY ***
+Total pot $306.34 | Rake $2.75 
+Board [Jc 8d Js Jh Qs]
+Seat 1: pokeantti showed [Ac 9s] and won ($151.80) with three of a kind, Jacks
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: Selenya folded before Flop (didn't bet)
+Seat 4: AMANTENEGRO showed [Tc Ah] and won ($151.79) with three of a kind, Jacks
+Seat 5: BruceLeeXj folded before Flop (didn't bet)
+Seat 6: Xerophyten (button blind) folded before Flop
+
+
+
+PokerStars Hand #196395489551:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:27:01 EET [2019/01/29 20:27:01 ET]
+Table 'Ilioneus' 6-max Seat #1 is the button
+Seat 1: pokeantti ($567.21 in chips) 
+Seat 2: gaiggibeliin ($142 in chips) 
+Seat 3: Selenya ($148 in chips) 
+Seat 4: AMANTENEGRO ($151.79 in chips) 
+Seat 5: BruceLeeXj ($406.50 in chips) 
+Seat 6: Xerophyten ($511.18 in chips) 
+pokeantti: posts the ante $1
+gaiggibeliin: posts the ante $1
+Selenya: posts the ante $1
+AMANTENEGRO: posts the ante $1
+BruceLeeXj: posts the ante $1
+Xerophyten: posts the ante $1
+pokeantti: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [As 6h]
+AMANTENEGRO said, "je"
+gaiggibeliin: folds 
+Selenya: raises $146 to $147 and is all-in
+AMANTENEGRO said, "starts dont know how to help u xD"
+AMANTENEGRO: folds 
+BruceLeeXj: folds 
+Xerophyten: folds 
+pokeantti: folds 
+Uncalled bet ($146) returned to Selenya
+Selenya collected $8 from pot
+Selenya: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0 
+Seat 1: pokeantti (button blind) folded before Flop
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: Selenya collected ($8)
+Seat 4: AMANTENEGRO folded before Flop (didn't bet)
+Seat 5: BruceLeeXj folded before Flop (didn't bet)
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196395497936:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:27:22 EET [2019/01/29 20:27:22 ET]
+Table 'Ilioneus' 6-max Seat #2 is the button
+Seat 1: pokeantti ($565.21 in chips) 
+Seat 2: gaiggibeliin ($141 in chips) 
+Seat 3: Selenya ($154 in chips) 
+Seat 4: AMANTENEGRO ($150.79 in chips) 
+Seat 5: BruceLeeXj ($405.50 in chips) 
+Seat 6: Xerophyten ($510.18 in chips) 
+pokeantti: posts the ante $1
+gaiggibeliin: posts the ante $1
+Selenya: posts the ante $1
+AMANTENEGRO: posts the ante $1
+BruceLeeXj: posts the ante $1
+Xerophyten: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ks Js]
+AMANTENEGRO said, "stars xD"
+Selenya: calls $1
+AMANTENEGRO: calls $1
+BruceLeeXj: calls $1
+Xerophyten: calls $1
+pokeantti: folds 
+pokeantti leaves the table
+AMANTENEGRO said, "Note for stars and see ya...."
+gaiggibeliin: checks 
+*** FLOP *** [Kd Th 9s]
+Selenya: checks 
+AMANTENEGRO said, "stars atleast put some effort on that please"
+AMANTENEGRO: checks 
+BruceLeeXj: checks 
+Xerophyten: checks 
+gaiggibeliin: bets $7
+Selenya: folds 
+AMANTENEGRO: calls $7
+BruceLeeXj: folds 
+Xerophyten: folds 
+*** TURN *** [Kd Th 9s] [Jh]
+AMANTENEGRO: checks 
+gaiggibeliin: checks 
+*** RIVER *** [Kd Th 9s Jh] [Ac]
+AMANTENEGRO: bets $7.84
+gaiggibeliin: folds 
+Uncalled bet ($7.84) returned to AMANTENEGRO
+AMANTENEGRO collected $23.75 from pot
+AMANTENEGRO: doesn't show hand 
+*** SUMMARY ***
+Total pot $25 | Rake $1.25 
+Board [Kd Th 9s Jh Ac]
+Seat 1: pokeantti folded before Flop (didn't bet)
+Seat 2: gaiggibeliin (button blind) folded on the River
+Seat 3: Selenya folded on the Flop
+Seat 4: AMANTENEGRO collected ($23.75)
+Seat 5: BruceLeeXj folded on the Flop
+Seat 6: Xerophyten folded on the Flop
+
+
+
+PokerStars Hand #196395538224:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:29:05 EET [2019/01/29 20:29:05 ET]
+Table 'Ilioneus' 6-max Seat #3 is the button
+Seat 2: gaiggibeliin ($132 in chips) 
+Seat 3: Selenya ($152 in chips) 
+Seat 4: AMANTENEGRO ($165.54 in chips) 
+Seat 5: BruceLeeXj ($403.50 in chips) 
+Seat 6: Xerophyten ($508.18 in chips) 
+gaiggibeliin: posts the ante $1
+Selenya: posts the ante $1
+AMANTENEGRO: posts the ante $1
+BruceLeeXj: posts the ante $1
+Xerophyten: posts the ante $1
+Selenya: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jd 7c]
+AMANTENEGRO: calls $1
+BruceLeeXj: calls $1
+Xerophyten: folds 
+gaiggibeliin: folds 
+Selenya: checks 
+*** FLOP *** [8d 6d 6c]
+AMANTENEGRO: checks 
+BruceLeeXj: checks 
+Selenya: bets $5.70
+AMANTENEGRO: folds 
+BruceLeeXj: folds 
+Uncalled bet ($5.70) returned to Selenya
+Selenya collected $7.60 from pot
+Selenya: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [8d 6d 6c]
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: Selenya (button blind) collected ($7.60)
+Seat 4: AMANTENEGRO folded on the Flop
+Seat 5: BruceLeeXj folded on the Flop
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196395552844:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:29:42 EET [2019/01/29 20:29:42 ET]
+Table 'Ilioneus' 6-max Seat #4 is the button
+Seat 2: gaiggibeliin ($131 in chips) 
+Seat 3: Selenya ($157.60 in chips) 
+Seat 4: AMANTENEGRO ($163.54 in chips) 
+Seat 5: BruceLeeXj ($401.50 in chips) 
+Seat 6: Xerophyten ($507.18 in chips) 
+gaiggibeliin: posts the ante $1
+Selenya: posts the ante $1
+AMANTENEGRO: posts the ante $1
+BruceLeeXj: posts the ante $1
+Xerophyten: posts the ante $1
+AMANTENEGRO: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7c 8d]
+BruceLeeXj: raises $3 to $4
+Xerophyten: raises $11 to $15
+gaiggibeliin: folds 
+Selenya: folds 
+AMANTENEGRO: folds 
+BruceLeeXj: calls $11
+*** FLOP *** [8s 6d Ac]
+BruceLeeXj: checks 
+Xerophyten: bets $17
+BruceLeeXj: raises $42 to $59
+Xerophyten: folds 
+Uncalled bet ($42) returned to BruceLeeXj
+BruceLeeXj collected $67.25 from pot
+BruceLeeXj: doesn't show hand 
+*** SUMMARY ***
+Total pot $70 | Rake $2.75 
+Board [8s 6d Ac]
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: Selenya folded before Flop (didn't bet)
+Seat 4: AMANTENEGRO (button blind) folded before Flop
+Seat 5: BruceLeeXj collected ($67.25)
+Seat 6: Xerophyten folded on the Flop
+
+
+
+PokerStars Hand #196395585147:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:31:05 EET [2019/01/29 20:31:05 ET]
+Table 'Ilioneus' 6-max Seat #5 is the button
+Seat 2: gaiggibeliin ($130 in chips) 
+Seat 3: Selenya ($156.60 in chips) 
+Seat 4: AMANTENEGRO ($161.54 in chips) 
+Seat 5: BruceLeeXj ($435.75 in chips) 
+Seat 6: Xerophyten ($474.18 in chips) 
+gaiggibeliin: posts the ante $1
+Selenya: posts the ante $1
+AMANTENEGRO: posts the ante $1
+BruceLeeXj: posts the ante $1
+Xerophyten: posts the ante $1
+BruceLeeXj: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Th Kd]
+Xerophyten: folds 
+gaiggibeliin: calls $1
+Jayhunt1987 joins the table at seat #1 
+Selenya: folds 
+AMANTENEGRO: calls $1
+BruceLeeXj: checks 
+*** FLOP *** [Qd Qc Qh]
+gaiggibeliin: bets $2.51
+Selenya leaves the table
+AMANTENEGRO: folds 
+BruceLeeXj: folds 
+Uncalled bet ($2.51) returned to gaiggibeliin
+gaiggibeliin collected $7.60 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [Qd Qc Qh]
+Seat 2: gaiggibeliin collected ($7.60)
+Seat 3: Selenya folded before Flop (didn't bet)
+Seat 4: AMANTENEGRO folded on the Flop
+Seat 5: BruceLeeXj (button blind) folded on the Flop
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196395603972:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:31:52 EET [2019/01/29 20:31:52 ET]
+Table 'Ilioneus' 6-max Seat #6 is the button
+Seat 1: Jayhunt1987 ($150 in chips) 
+Seat 2: gaiggibeliin ($135.60 in chips) 
+Seat 4: AMANTENEGRO ($159.54 in chips) 
+Seat 5: BruceLeeXj ($433.75 in chips) 
+Seat 6: Xerophyten ($473.18 in chips) 
+Jayhunt1987: posts the ante $1
+gaiggibeliin: posts the ante $1
+AMANTENEGRO: posts the ante $1
+BruceLeeXj: posts the ante $1
+Xerophyten: posts the ante $1
+Xerophyten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ks Jd]
+Jayhunt1987: folds 
+gaiggibeliin: calls $1
+AMANTENEGRO: raises $2.50 to $3.50
+BruceLeeXj: folds 
+Xerophyten: folds 
+gaiggibeliin: calls $2.50
+*** FLOP *** [9s Js As]
+gaiggibeliin: checks 
+AMANTENEGRO: bets $8.23
+gaiggibeliin: calls $8.23
+*** TURN *** [9s Js As] [Qc]
+gaiggibeliin: checks 
+AMANTENEGRO: checks 
+*** RIVER *** [9s Js As Qc] [8d]
+gaiggibeliin: checks 
+AMANTENEGRO: checks 
+*** SHOW DOWN ***
+gaiggibeliin: shows [Ks Jd] (a pair of Jacks)
+AMANTENEGRO: shows [6h Qh] (a pair of Queens)
+AMANTENEGRO collected $27.99 from pot
+*** SUMMARY ***
+Total pot $29.46 | Rake $1.47 
+Board [9s Js As Qc 8d]
+Seat 1: Jayhunt1987 folded before Flop (didn't bet)
+Seat 2: gaiggibeliin showed [Ks Jd] and lost with a pair of Jacks
+Seat 4: AMANTENEGRO showed [6h Qh] and won ($27.99) with a pair of Queens
+Seat 5: BruceLeeXj folded before Flop (didn't bet)
+Seat 6: Xerophyten (button blind) folded before Flop
+
+
+
+PokerStars Hand #196395633128:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:33:07 EET [2019/01/29 20:33:07 ET]
+Table 'Ilioneus' 6-max Seat #1 is the button
+Seat 1: Jayhunt1987 ($149 in chips) 
+Seat 2: gaiggibeliin ($122.87 in chips) 
+Seat 4: AMANTENEGRO ($174.80 in chips) 
+Seat 5: BruceLeeXj ($432.75 in chips) 
+Seat 6: Xerophyten ($471.18 in chips) 
+Jayhunt1987: posts the ante $1
+gaiggibeliin: posts the ante $1
+AMANTENEGRO: posts the ante $1
+BruceLeeXj: posts the ante $1
+Xerophyten: posts the ante $1
+Jayhunt1987: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9h 6h]
+gaiggibeliin: calls $1
+AMANTENEGRO: raises $3 to $4
+BruceLeeXj: calls $4
+Xerophyten: folds 
+Jayhunt1987: folds 
+gaiggibeliin: calls $3
+*** FLOP *** [Ks Ah Qs]
+gaiggibeliin: checks 
+AMANTENEGRO: checks 
+BruceLeeXj: bets $12
+gaiggibeliin: folds 
+AMANTENEGRO: folds 
+Uncalled bet ($12) returned to BruceLeeXj
+BruceLeeXj collected $17.10 from pot
+BruceLeeXj: doesn't show hand 
+*** SUMMARY ***
+Total pot $18 | Rake $0.90 
+Board [Ks Ah Qs]
+Seat 1: Jayhunt1987 (button blind) folded before Flop
+Seat 2: gaiggibeliin folded on the Flop
+Seat 4: AMANTENEGRO folded on the Flop
+Seat 5: BruceLeeXj collected ($17.10)
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196395666688:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:34:14 EET [2019/01/29 20:34:14 ET]
+Table 'Ilioneus' 6-max Seat #2 is the button
+Seat 1: Jayhunt1987 ($147 in chips) 
+Seat 2: gaiggibeliin ($117.87 in chips) 
+Seat 4: AMANTENEGRO ($169.80 in chips) 
+Seat 5: BruceLeeXj ($444.85 in chips) 
+Seat 6: Xerophyten ($470.18 in chips) 
+Jayhunt1987: posts the ante $1
+gaiggibeliin: posts the ante $1
+AMANTENEGRO: posts the ante $1
+BruceLeeXj: posts the ante $1
+Xerophyten: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7c Th]
+AMANTENEGRO: calls $1
+BruceLeeXj: raises $3 to $4
+Xerophyten: folds 
+Jayhunt1987: folds 
+gaiggibeliin: calls $3
+AMANTENEGRO: calls $3
+*** FLOP *** [Kh Jh Qh]
+AMANTENEGRO: checks 
+BruceLeeXj: checks 
+gaiggibeliin: checks 
+*** TURN *** [Kh Jh Qh] [Qs]
+AMANTENEGRO: checks 
+BruceLeeXj: checks 
+gaiggibeliin: checks 
+*** RIVER *** [Kh Jh Qh Qs] [6d]
+AMANTENEGRO: checks 
+BruceLeeXj: bets $8
+gaiggibeliin: folds 
+AMANTENEGRO: folds 
+Uncalled bet ($8) returned to BruceLeeXj
+BruceLeeXj collected $16.15 from pot
+*** SUMMARY ***
+Total pot $17 | Rake $0.85 
+Board [Kh Jh Qh Qs 6d]
+Seat 1: Jayhunt1987 folded before Flop (didn't bet)
+Seat 2: gaiggibeliin (button blind) folded on the River
+Seat 4: AMANTENEGRO folded on the River
+Seat 5: BruceLeeXj collected ($16.15)
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196395692189:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:35:20 EET [2019/01/29 20:35:20 ET]
+Table 'Ilioneus' 6-max Seat #4 is the button
+Seat 1: Jayhunt1987 ($146 in chips) 
+Seat 2: gaiggibeliin ($112.87 in chips) 
+Seat 4: AMANTENEGRO ($164.80 in chips) 
+Seat 5: BruceLeeXj ($456 in chips) 
+Seat 6: Xerophyten ($469.18 in chips) 
+Jayhunt1987: posts the ante $1
+gaiggibeliin: posts the ante $1
+AMANTENEGRO: posts the ante $1
+BruceLeeXj: posts the ante $1
+Xerophyten: posts the ante $1
+AMANTENEGRO: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ts 6h]
+BruceLeeXj: calls $1
+Xerophyten: folds 
+Jayhunt1987: calls $1
+gaiggibeliin: folds 
+AMANTENEGRO: checks 
+*** FLOP *** [8d Tc 7d]
+BruceLeeXj: bets $8
+Jayhunt1987: folds 
+AMANTENEGRO: calls $8
+*** TURN *** [8d Tc 7d] [Ks]
+BruceLeeXj: checks 
+AMANTENEGRO: bets $13
+BruceLeeXj: calls $13
+*** RIVER *** [8d Tc 7d Ks] [Kc]
+BruceLeeXj: checks 
+AMANTENEGRO: bets $18
+BruceLeeXj: calls $18
+*** SHOW DOWN ***
+AMANTENEGRO: shows [8h 8c] (a full house, Eights full of Kings)
+BruceLeeXj: mucks hand 
+AMANTENEGRO collected $83.25 from pot
+*** SUMMARY ***
+Total pot $86 | Rake $2.75 
+Board [8d Tc 7d Ks Kc]
+Seat 1: Jayhunt1987 folded on the Flop
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: AMANTENEGRO (button blind) showed [8h 8c] and won ($83.25) with a full house, Eights full of Kings
+Seat 5: BruceLeeXj mucked [Th 9c]
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196395728951:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:36:54 EET [2019/01/29 20:36:54 ET]
+Table 'Ilioneus' 6-max Seat #5 is the button
+Seat 1: Jayhunt1987 ($144 in chips) 
+Seat 2: gaiggibeliin ($111.87 in chips) 
+Seat 4: AMANTENEGRO ($207.05 in chips) 
+Seat 5: BruceLeeXj ($415 in chips) 
+Seat 6: Xerophyten ($468.18 in chips) 
+Jayhunt1987: posts the ante $1
+gaiggibeliin: posts the ante $1
+AMANTENEGRO: posts the ante $1
+BruceLeeXj: posts the ante $1
+Xerophyten: posts the ante $1
+BruceLeeXj: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7c Kd]
+Xerophyten: folds 
+Jayhunt1987: raises $6 to $7
+gaiggibeliin: folds 
+AMANTENEGRO: calls $7
+BruceLeeXj: calls $6
+*** FLOP *** [Qd 9c Qc]
+Jayhunt1987: bets $7
+AMANTENEGRO: folds 
+BruceLeeXj: calls $7
+*** TURN *** [Qd 9c Qc] [8h]
+Jayhunt1987: bets $15
+BruceLeeXj: folds 
+Uncalled bet ($15) returned to Jayhunt1987
+Jayhunt1987 collected $38 from pot
+Jayhunt1987: doesn't show hand 
+*** SUMMARY ***
+Total pot $40 | Rake $2 
+Board [Qd 9c Qc 8h]
+Seat 1: Jayhunt1987 collected ($38)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: AMANTENEGRO folded on the Flop
+Seat 5: BruceLeeXj (button blind) folded on the Turn
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196395752287:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:37:55 EET [2019/01/29 20:37:55 ET]
+Table 'Ilioneus' 6-max Seat #6 is the button
+Seat 1: Jayhunt1987 ($167 in chips) 
+Seat 2: gaiggibeliin ($110.87 in chips) 
+Seat 4: AMANTENEGRO ($199.05 in chips) 
+Seat 5: BruceLeeXj ($400 in chips) 
+Seat 6: Xerophyten ($467.18 in chips) 
+Jayhunt1987: posts the ante $1
+gaiggibeliin: posts the ante $1
+AMANTENEGRO: posts the ante $1
+BruceLeeXj: posts the ante $1
+Xerophyten: posts the ante $1
+Xerophyten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kc Kh]
+Jayhunt1987: calls $1
+gaiggibeliin: raises $9 to $10
+AMANTENEGRO: folds 
+BruceLeeXj: folds 
+Xerophyten: folds 
+Jayhunt1987: calls $9
+*** FLOP *** [Td Ah 8d]
+Jayhunt1987: checks 
+gaiggibeliin: checks 
+*** TURN *** [Td Ah 8d] [8c]
+Jayhunt1987: checks 
+gaiggibeliin: bets $8.15
+Jayhunt1987: calls $8.15
+*** RIVER *** [Td Ah 8d 8c] [8s]
+Jayhunt1987: checks 
+gaiggibeliin: bets $20.89
+Jayhunt1987: folds 
+Uncalled bet ($20.89) returned to gaiggibeliin
+gaiggibeliin collected $40.18 from pot
+*** SUMMARY ***
+Total pot $42.30 | Rake $2.12 
+Board [Td Ah 8d 8c 8s]
+Seat 1: Jayhunt1987 folded on the River
+Seat 2: gaiggibeliin collected ($40.18)
+Seat 4: AMANTENEGRO folded before Flop (didn't bet)
+Seat 5: BruceLeeXj folded before Flop (didn't bet)
+Seat 6: Xerophyten (button blind) folded before Flop
+
+
+
+PokerStars Hand #196395777326:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:39:00 EET [2019/01/29 20:39:00 ET]
+Table 'Ilioneus' 6-max Seat #1 is the button
+Seat 1: Jayhunt1987 ($147.85 in chips) 
+Seat 2: gaiggibeliin ($131.90 in chips) 
+Seat 4: AMANTENEGRO ($198.05 in chips) 
+Seat 5: BruceLeeXj ($399 in chips) 
+Seat 6: Xerophyten ($465.18 in chips) 
+Jayhunt1987: posts the ante $1
+gaiggibeliin: posts the ante $1
+AMANTENEGRO: posts the ante $1
+BruceLeeXj: posts the ante $1
+Xerophyten: posts the ante $1
+Jayhunt1987: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7d Kd]
+gaiggibeliin: folds 
+AMANTENEGRO: folds 
+BruceLeeXj: raises $2 to $3
+Xerophyten: folds 
+Jayhunt1987: folds 
+Uncalled bet ($2) returned to BruceLeeXj
+BruceLeeXj collected $7 from pot
+*** SUMMARY ***
+Total pot $7 | Rake $0 
+Seat 1: Jayhunt1987 (button blind) folded before Flop
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: AMANTENEGRO folded before Flop (didn't bet)
+Seat 5: BruceLeeXj collected ($7)
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196395787292:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:39:26 EET [2019/01/29 20:39:26 ET]
+Table 'Ilioneus' 6-max Seat #2 is the button
+Seat 1: Jayhunt1987 ($145.85 in chips) 
+Seat 2: gaiggibeliin ($130.90 in chips) 
+Seat 4: AMANTENEGRO ($197.05 in chips) 
+Seat 5: BruceLeeXj ($404 in chips) 
+Seat 6: Xerophyten ($464.18 in chips) 
+Jayhunt1987: posts the ante $1
+gaiggibeliin: posts the ante $1
+AMANTENEGRO: posts the ante $1
+BruceLeeXj: posts the ante $1
+Xerophyten: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Td Ad]
+AMANTENEGRO: raises $7 to $8
+BruceLeeXj: calls $8
+Xerophyten: folds 
+Jayhunt1987: calls $8
+gaiggibeliin: calls $7
+*** FLOP *** [6d 7c 7h]
+AMANTENEGRO: checks 
+BruceLeeXj: checks 
+Jayhunt1987: checks 
+gaiggibeliin: checks 
+*** TURN *** [6d 7c 7h] [Qs]
+AMANTENEGRO: bets $23.43
+BruceLeeXj: folds 
+Jayhunt1987: calls $23.43
+Xerophyten leaves the table
+gaiggibeliin: folds 
+*** RIVER *** [6d 7c 7h Qs] [8c]
+AMANTENEGRO: checks 
+Jayhunt1987: checks 
+*** SHOW DOWN ***
+AMANTENEGRO: shows [As Qc] (two pair, Queens and Sevens)
+Jayhunt1987: mucks hand 
+AMANTENEGRO collected $81.11 from pot
+*** SUMMARY ***
+Total pot $83.86 | Rake $2.75 
+Board [6d 7c 7h Qs 8c]
+Seat 1: Jayhunt1987 mucked [Th Qd]
+Seat 2: gaiggibeliin (button blind) folded on the Turn
+Seat 4: AMANTENEGRO showed [As Qc] and won ($81.11) with two pair, Queens and Sevens
+Seat 5: BruceLeeXj folded on the Turn
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196395826011:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:41:07 EET [2019/01/29 20:41:07 ET]
+Table 'Ilioneus' 6-max Seat #4 is the button
+Seat 1: Jayhunt1987 ($113.42 in chips) 
+Seat 2: gaiggibeliin ($121.90 in chips) 
+Seat 4: AMANTENEGRO ($245.73 in chips) 
+Seat 5: BruceLeeXj ($395 in chips) 
+Jayhunt1987: posts the ante $1
+gaiggibeliin: posts the ante $1
+AMANTENEGRO: posts the ante $1
+BruceLeeXj: posts the ante $1
+AMANTENEGRO: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jc Tc]
+BruceLeeXj: folds 
+Jayhunt1987: raises $4 to $5
+gaiggibeliin: calls $5
+AMANTENEGRO: calls $4
+*** FLOP *** [Ah 8s 9s]
+Jayhunt1987: checks 
+gaiggibeliin: checks 
+AMANTENEGRO: bets $12.03
+Jayhunt1987: calls $12.03
+gaiggibeliin: calls $12.03
+*** TURN *** [Ah 8s 9s] [Td]
+Jayhunt1987: checks 
+gaiggibeliin: checks 
+AMANTENEGRO: checks 
+*** RIVER *** [Ah 8s 9s Td] [7d]
+Jayhunt1987: bets $30
+gaiggibeliin: calls $30
+AMANTENEGRO: folds 
+*** SHOW DOWN ***
+Jayhunt1987: shows [9d Js] (a straight, Seven to Jack)
+gaiggibeliin: shows [Jc Tc] (a straight, Seven to Jack)
+Jayhunt1987 collected $56.92 from pot
+gaiggibeliin collected $56.92 from pot
+*** SUMMARY ***
+Total pot $115.09 | Rake $1.25 
+Board [Ah 8s 9s Td 7d]
+Seat 1: Jayhunt1987 showed [9d Js] and won ($56.92) with a straight, Seven to Jack
+Seat 2: gaiggibeliin showed [Jc Tc] and won ($56.92) with a straight, Seven to Jack
+Seat 4: AMANTENEGRO (button blind) folded on the River
+Seat 5: BruceLeeXj folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196395873498:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 3:43:13 EET [2019/01/29 20:43:13 ET]
+Table 'Ilioneus' 6-max Seat #5 is the button
+Seat 1: Jayhunt1987 ($122.31 in chips) 
+Seat 2: gaiggibeliin ($130.79 in chips) 
+Seat 4: AMANTENEGRO ($227.70 in chips) 
+Seat 5: BruceLeeXj ($394 in chips) 
+Jayhunt1987: posts the ante $1
+gaiggibeliin: posts the ante $1
+AMANTENEGRO: posts the ante $1
+BruceLeeXj: posts the ante $1
+BruceLeeXj: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8c 7c]
+Jayhunt1987: folds 
+gaiggibeliin: raises $6 to $7
+AMANTENEGRO: calls $7
+BruceLeeXj: calls $6
+*** FLOP *** [Jc Ac 6h]
+gaiggibeliin: checks 
+AMANTENEGRO: checks 
+BruceLeeXj: checks 
+*** TURN *** [Jc Ac 6h] [Ad]
+gaiggibeliin: checks 
+AMANTENEGRO: checks 
+BruceLeeXj: checks 
+*** RIVER *** [Jc Ac 6h Ad] [Kh]
+gaiggibeliin: checks 
+AMANTENEGRO: bets $14
+BruceLeeXj: folds 
+gaiggibeliin: folds 
+Uncalled bet ($14) returned to AMANTENEGRO
+AMANTENEGRO collected $23.75 from pot
+AMANTENEGRO: doesn't show hand 
+*** SUMMARY ***
+Total pot $25 | Rake $1.25 
+Board [Jc Ac 6h Ad Kh]
+Seat 1: Jayhunt1987 folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded on the River
+Seat 4: AMANTENEGRO collected ($23.75)
+Seat 5: BruceLeeXj (button blind) folded on the River
+
+
+

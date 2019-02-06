@@ -65,9 +65,16 @@ def getHandResult(hand):
 
 
 ### parse hh files into an array of hand strings
-filePaths = glob.glob("data/*.txt")
-hands = []
+filePaths = glob.glob("C:/Users/Teemu/AppData/Local/PokerStars.EU/HandHistorygaiggibeliin/*.txt")
+
+#skip other games
+sixPlusHandHistories = []
 for path in filePaths:
+	if ('Button Blind' in path):
+		sixPlusHandHistories.append(path)
+		
+hands = []
+for path in sixPlusHandHistories:
 	with open(path, "r") as textFile:
 		textFileStr = textFile.read()
 		hands.extend(textFileStr.split('\n\n\n'))
@@ -75,8 +82,7 @@ for path in filePaths:
 		try:
 			hands.remove('\n')
 		except:
-			print("no newlines to remove"
-)
+			print("no newlines to remove")
 
 
 
@@ -89,7 +95,6 @@ result *= -1
 print(result)
 print('hh file count: ', len(filePaths))
 print('hands: ', len(hands))
-
 print('profit per 100 hands', result/(len(hands)/100))
 
 

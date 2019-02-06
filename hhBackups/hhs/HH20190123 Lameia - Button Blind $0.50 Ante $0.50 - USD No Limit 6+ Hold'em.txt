@@ -1,0 +1,3068 @@
+﻿PokerStars Hand #196139661537:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 1:33:45 EET [2019/01/23 18:33:45 ET]
+Table 'Lameia' 6-max Seat #5 is the button
+Seat 1: korasidas77 ($75 in chips) 
+Seat 2: peteruruguay ($130.04 in chips) 
+Seat 3: swimmer25 ($139.76 in chips) 
+Seat 4: gaiggibeliin ($75 in chips) 
+Seat 5: dercemo ($143.31 in chips) 
+Seat 6: afdbandeira ($75 in chips) 
+korasidas77: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+swimmer25: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+afdbandeira: posts the ante $0.50
+dercemo: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7s 7h]
+afdbandeira: raises $4 to $4.50
+korasidas77: raises $7 to $11.50
+peteruruguay: folds 
+swimmer25: folds 
+gaiggibeliin: folds 
+dercemo: folds 
+afdbandeira: calls $7
+*** FLOP *** [Ad Td Ah]
+afdbandeira: checks 
+korasidas77: bets $16.62
+afdbandeira: folds 
+Uncalled bet ($16.62) returned to korasidas77
+korasidas77 collected $25.18 from pot
+korasidas77: doesn't show hand 
+*** SUMMARY ***
+Total pot $26.50 | Rake $1.32 
+Board [Ad Td Ah]
+Seat 1: korasidas77 collected ($25.18)
+Seat 2: peteruruguay folded before Flop (didn't bet)
+Seat 3: swimmer25 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: dercemo (button blind) folded before Flop
+Seat 6: afdbandeira folded on the Flop
+
+
+
+PokerStars Hand #196139688523:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 1:34:30 EET [2019/01/23 18:34:30 ET]
+Table 'Lameia' 6-max Seat #6 is the button
+Seat 1: korasidas77 ($88.18 in chips) 
+Seat 2: peteruruguay ($129.54 in chips) 
+Seat 3: swimmer25 ($139.26 in chips) 
+Seat 4: gaiggibeliin ($74.50 in chips) 
+Seat 5: dercemo ($142.31 in chips) 
+Seat 6: afdbandeira ($63 in chips) 
+korasidas77: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+swimmer25: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+afdbandeira: posts the ante $0.50
+afdbandeira: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qh Ac]
+korasidas77: folds 
+peteruruguay: folds 
+swimmer25: folds 
+gaiggibeliin: calls $0.50
+dercemo: folds 
+afdbandeira: checks 
+*** FLOP *** [Jh 6s As]
+gaiggibeliin: bets $2.55
+swimmer25 leaves the table
+afdbandeira: folds 
+Uncalled bet ($2.55) returned to gaiggibeliin
+gaiggibeliin collected $3.80 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0.20 
+Board [Jh 6s As]
+Seat 1: korasidas77 folded before Flop (didn't bet)
+Seat 2: peteruruguay folded before Flop (didn't bet)
+Seat 3: swimmer25 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin collected ($3.80)
+Seat 5: dercemo folded before Flop (didn't bet)
+Seat 6: afdbandeira (button blind) folded on the Flop
+
+
+
+PokerStars Hand #196139716795:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 1:35:18 EET [2019/01/23 18:35:18 ET]
+Table 'Lameia' 6-max Seat #1 is the button
+Seat 1: korasidas77 ($87.68 in chips) 
+Seat 2: peteruruguay ($129.04 in chips) 
+Seat 4: gaiggibeliin ($77.30 in chips) 
+Seat 5: dercemo ($141.81 in chips) 
+Seat 6: afdbandeira ($62 in chips) 
+korasidas77: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+afdbandeira: posts the ante $0.50
+korasidas77: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8d Th]
+peteruruguay: calls $0.50
+gaiggibeliin: folds 
+dercemo: raises $4 to $4.50
+afdbandeira: folds 
+korasidas77: folds 
+peteruruguay: folds 
+Uncalled bet ($4) returned to dercemo
+dercemo collected $4 from pot
+dercemo: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 1: korasidas77 (button blind) folded before Flop
+Seat 2: peteruruguay folded before Flop
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: dercemo collected ($4)
+Seat 6: afdbandeira folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196139727350:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 1:35:36 EET [2019/01/23 18:35:36 ET]
+Table 'Lameia' 6-max Seat #2 is the button
+Seat 1: korasidas77 ($86.68 in chips) 
+Seat 2: peteruruguay ($128.04 in chips) 
+Seat 4: gaiggibeliin ($76.80 in chips) 
+Seat 5: dercemo ($144.81 in chips) 
+Seat 6: afdbandeira ($61.50 in chips) 
+korasidas77: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+afdbandeira: posts the ante $0.50
+peteruruguay: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kd 7d]
+gaiggibeliin: folds 
+dercemo: calls $0.50
+afdbandeira: raises $4 to $4.50
+korasidas77: folds 
+peteruruguay: folds 
+dercemo: calls $4
+*** FLOP *** [7c Jc Ah]
+dercemo: checks 
+afdbandeira: bets $4.56
+dercemo: calls $4.56
+*** TURN *** [7c Jc Ah] [9h]
+dercemo: checks 
+afdbandeira: bets $11.50
+dercemo: folds 
+Uncalled bet ($11.50) returned to afdbandeira
+afdbandeira collected $20.06 from pot
+afdbandeira: doesn't show hand 
+*** SUMMARY ***
+Total pot $21.12 | Rake $1.06 
+Board [7c Jc Ah 9h]
+Seat 1: korasidas77 folded before Flop (didn't bet)
+Seat 2: peteruruguay (button blind) folded before Flop
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: dercemo folded on the Turn
+Seat 6: afdbandeira collected ($20.06)
+
+
+
+PokerStars Hand #196139755554:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 1:36:24 EET [2019/01/23 18:36:24 ET]
+Table 'Lameia' 6-max Seat #4 is the button
+Seat 1: korasidas77 ($86.18 in chips) 
+Seat 2: peteruruguay ($127.04 in chips) 
+Seat 4: gaiggibeliin ($76.30 in chips) 
+Seat 5: dercemo ($135.25 in chips) 
+Seat 6: afdbandeira ($72 in chips) 
+korasidas77: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+afdbandeira: posts the ante $0.50
+gaiggibeliin: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7d 6d]
+dercemo: raises $3.50 to $4
+afdbandeira: calls $4
+korasidas77: folds 
+peteruruguay: calls $4
+gaiggibeliin: calls $3.50
+*** FLOP *** [Ad Qh 7h]
+dercemo: checks 
+afdbandeira: checks 
+peteruruguay: checks 
+gaiggibeliin: checks 
+*** TURN *** [Ad Qh 7h] [Js]
+dercemo: checks 
+afdbandeira: checks 
+peteruruguay: checks 
+gaiggibeliin: checks 
+*** RIVER *** [Ad Qh 7h Js] [9h]
+dercemo: bets $9
+afdbandeira: folds 
+peteruruguay: raises $20 to $29
+gaiggibeliin: folds 
+dercemo: calls $20
+*** SHOW DOWN ***
+peteruruguay: shows [6s 6h] (a pair of Sixes)
+dercemo: shows [9d 9s] (three of a kind, Nines)
+dercemo collected $74 from pot
+*** SUMMARY ***
+Total pot $76.50 | Rake $2.50 
+Board [Ad Qh 7h Js 9h]
+Seat 1: korasidas77 folded before Flop (didn't bet)
+Seat 2: peteruruguay showed [6s 6h] and lost with a pair of Sixes
+Seat 4: gaiggibeliin (button blind) folded on the River
+Seat 5: dercemo showed [9d 9s] and won ($74) with three of a kind, Nines
+Seat 6: afdbandeira folded on the River
+
+
+
+PokerStars Hand #196139817109:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 1:38:08 EET [2019/01/23 18:38:08 ET]
+Table 'Lameia' 6-max Seat #5 is the button
+Seat 1: korasidas77 ($85.68 in chips) 
+Seat 2: peteruruguay ($93.54 in chips) 
+Seat 4: gaiggibeliin ($71.80 in chips) 
+Seat 5: dercemo ($175.75 in chips) 
+Seat 6: afdbandeira ($67.50 in chips) 
+korasidas77: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+afdbandeira: posts the ante $0.50
+dercemo: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jc 7d]
+afdbandeira: raises $3.50 to $4
+korasidas77: raises $9 to $13
+peteruruguay: folds 
+gaiggibeliin: folds 
+dercemo: folds 
+afdbandeira: raises $54 to $67 and is all-in
+korasidas77: calls $54
+*** FLOP *** [8d 6s Qd]
+*** TURN *** [8d 6s Qd] [Qc]
+*** RIVER *** [8d 6s Qd Qc] [Th]
+*** SHOW DOWN ***
+afdbandeira: shows [As Ac] (two pair, Aces and Queens)
+korasidas77: shows [Kh Ks] (two pair, Kings and Queens)
+afdbandeira collected $134.50 from pot
+*** SUMMARY ***
+Total pot $137 | Rake $2.50 
+Board [8d 6s Qd Qc Th]
+Seat 1: korasidas77 showed [Kh Ks] and lost with two pair, Kings and Queens
+Seat 2: peteruruguay folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: dercemo (button blind) folded before Flop
+Seat 6: afdbandeira showed [As Ac] and won ($134.50) with two pair, Aces and Queens
+
+
+
+PokerStars Hand #196139833368:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 1:38:36 EET [2019/01/23 18:38:36 ET]
+Table 'Lameia' 6-max Seat #6 is the button
+Seat 1: korasidas77 ($75 in chips) 
+Seat 2: peteruruguay ($93.04 in chips) 
+Seat 4: gaiggibeliin ($71.30 in chips) 
+Seat 5: dercemo ($174.75 in chips) 
+Seat 6: afdbandeira ($134.50 in chips) 
+korasidas77: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+afdbandeira: posts the ante $0.50
+afdbandeira: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9h Ah]
+korasidas77: raises $2.50 to $3
+peteruruguay: calls $3
+gaiggibeliin: folds 
+dercemo: calls $3
+afdbandeira: calls $2.50
+*** FLOP *** [7d 8h 9c]
+korasidas77: checks 
+peteruruguay: checks 
+dercemo: checks 
+afdbandeira: checks 
+*** TURN *** [7d 8h 9c] [Js]
+korasidas77: checks 
+peteruruguay: checks 
+Alazan524 joins the table at seat #3 
+dercemo: checks 
+afdbandeira: checks 
+*** RIVER *** [7d 8h 9c Js] [Qs]
+korasidas77: checks 
+peteruruguay: checks 
+dercemo: checks 
+afdbandeira: checks 
+*** SHOW DOWN ***
+korasidas77: shows [6s 6d] (a pair of Sixes)
+peteruruguay: shows [Jh Qh] (two pair, Queens and Jacks)
+dercemo: mucks hand 
+afdbandeira: mucks hand 
+peteruruguay collected $13.78 from pot
+*** SUMMARY ***
+Total pot $14.50 | Rake $0.72 
+Board [7d 8h 9c Js Qs]
+Seat 1: korasidas77 showed [6s 6d] and lost with a pair of Sixes
+Seat 2: peteruruguay showed [Jh Qh] and won ($13.78) with two pair, Queens and Jacks
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: dercemo mucked [Ac Ks]
+Seat 6: afdbandeira (button blind) mucked [8d Qd]
+
+
+
+PokerStars Hand #196139881050:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 1:39:57 EET [2019/01/23 18:39:57 ET]
+Table 'Lameia' 6-max Seat #1 is the button
+Seat 1: korasidas77 ($71.50 in chips) 
+Seat 2: peteruruguay ($103.32 in chips) 
+Seat 3: Alazan524 ($75 in chips) 
+Seat 4: gaiggibeliin ($70.80 in chips) 
+Seat 5: dercemo ($171.25 in chips) 
+Seat 6: afdbandeira ($131 in chips) 
+korasidas77: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+Alazan524: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+afdbandeira: posts the ante $0.50
+korasidas77: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jh 8h]
+peteruruguay: calls $0.50
+Alazan524: folds 
+gaiggibeliin: folds 
+dercemo: folds 
+afdbandeira: folds 
+korasidas77: raises $2.50 to $3
+peteruruguay: raises $99.82 to $102.82 and is all-in
+korasidas77: calls $68 and is all-in
+Uncalled bet ($31.82) returned to peteruruguay
+*** FLOP *** [Qh Ts 6h]
+*** TURN *** [Qh Ts 6h] [6d]
+*** RIVER *** [Qh Ts 6h 6d] [Qd]
+*** SHOW DOWN ***
+peteruruguay: shows [Kh Ad] (two pair, Queens and Sixes)
+korasidas77: shows [Kc Kd] (two pair, Kings and Queens)
+korasidas77 collected $142.50 from pot
+*** SUMMARY ***
+Total pot $145 | Rake $2.50 
+Board [Qh Ts 6h 6d Qd]
+Seat 1: korasidas77 (button blind) showed [Kc Kd] and won ($142.50) with two pair, Kings and Queens
+Seat 2: peteruruguay showed [Kh Ad] and lost with two pair, Queens and Sixes
+Seat 3: Alazan524 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: dercemo folded before Flop (didn't bet)
+Seat 6: afdbandeira folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196139911719:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 1:40:50 EET [2019/01/23 18:40:50 ET]
+Table 'Lameia' 6-max Seat #2 is the button
+Seat 1: korasidas77 ($142.50 in chips) 
+Seat 2: peteruruguay ($31.82 in chips) 
+Seat 3: Alazan524 ($74.50 in chips) 
+Seat 4: gaiggibeliin ($70.30 in chips) 
+Seat 5: dercemo ($170.75 in chips) 
+Seat 6: afdbandeira ($130.50 in chips) 
+korasidas77: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+Alazan524: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+afdbandeira: posts the ante $0.50
+peteruruguay: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kd 7d]
+Alazan524: raises $1 to $1.50
+gaiggibeliin: folds 
+dercemo: folds 
+afdbandeira: calls $1.50
+korasidas77: folds 
+peteruruguay: calls $1
+*** FLOP *** [Jc Ah 7h]
+Alazan524: checks 
+afdbandeira: checks 
+peteruruguay: bets $7.12
+Alazan524: folds 
+afdbandeira: raises $121.38 to $128.50 and is all-in
+peteruruguay: calls $22.70 and is all-in
+Uncalled bet ($98.68) returned to afdbandeira
+*** TURN *** [Jc Ah 7h] [Td]
+*** RIVER *** [Jc Ah 7h Td] [Ac]
+*** SHOW DOWN ***
+afdbandeira: shows [Ad Js] (a full house, Aces full of Jacks)
+peteruruguay: shows [9h As] (three of a kind, Aces)
+afdbandeira collected $64.64 from pot
+*** SUMMARY ***
+Total pot $67.14 | Rake $2.50 
+Board [Jc Ah 7h Td Ac]
+Seat 1: korasidas77 folded before Flop (didn't bet)
+Seat 2: peteruruguay (button blind) showed [9h As] and lost with three of a kind, Aces
+Seat 3: Alazan524 folded on the Flop
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: dercemo folded before Flop (didn't bet)
+Seat 6: afdbandeira showed [Ad Js] and won ($64.64) with a full house, Aces full of Jacks
+
+
+
+PokerStars Hand #196139938180:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 1:41:35 EET [2019/01/23 18:41:35 ET]
+Table 'Lameia' 6-max Seat #3 is the button
+Seat 1: korasidas77 ($142 in chips) 
+Seat 3: Alazan524 ($72.50 in chips) 
+Seat 4: gaiggibeliin ($69.80 in chips) 
+Seat 5: dercemo ($170.25 in chips) 
+Seat 6: afdbandeira ($163.32 in chips) 
+korasidas77: posts the ante $0.50
+Alazan524: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+afdbandeira: posts the ante $0.50
+Alazan524: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jd Ac]
+gaiggibeliin: calls $0.50
+dercemo: folds 
+afdbandeira: folds 
+korasidas77: folds 
+Alazan524: raises $1 to $1.50
+gaiggibeliin: calls $1
+*** FLOP *** [As 6h Js]
+gaiggibeliin: checks 
+Alazan524: bets $2.50
+gaiggibeliin: raises $6.85 to $9.35
+Alazan524: folds 
+Uncalled bet ($6.85) returned to gaiggibeliin
+gaiggibeliin collected $9.98 from pot
+*** SUMMARY ***
+Total pot $10.50 | Rake $0.52 
+Board [As 6h Js]
+Seat 1: korasidas77 folded before Flop (didn't bet)
+Seat 3: Alazan524 (button blind) folded on the Flop
+Seat 4: gaiggibeliin collected ($9.98)
+Seat 5: dercemo folded before Flop (didn't bet)
+Seat 6: afdbandeira folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196139967089:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 1:42:25 EET [2019/01/23 18:42:25 ET]
+Table 'Lameia' 6-max Seat #4 is the button
+Seat 1: korasidas77 ($141.50 in chips) 
+Seat 2: peteruruguay ($75 in chips) 
+Seat 3: Alazan524 ($68 in chips) 
+Seat 4: gaiggibeliin ($75.28 in chips) 
+Seat 5: dercemo ($169.75 in chips) 
+Seat 6: afdbandeira ($162.82 in chips) 
+korasidas77: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+Alazan524: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+afdbandeira: posts the ante $0.50
+gaiggibeliin: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6h 8d]
+dercemo: folds 
+afdbandeira: folds 
+korasidas77: raises $2 to $2.50
+peteruruguay: raises $8.50 to $11
+Alazan524: folds 
+gaiggibeliin: folds 
+korasidas77: folds 
+Uncalled bet ($8.50) returned to peteruruguay
+peteruruguay collected $8.50 from pot
+*** SUMMARY ***
+Total pot $8.50 | Rake $0 
+Seat 1: korasidas77 folded before Flop
+Seat 2: peteruruguay collected ($8.50)
+Seat 3: Alazan524 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin (button blind) folded before Flop
+Seat 5: dercemo folded before Flop (didn't bet)
+Seat 6: afdbandeira folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196139982185:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 1:42:51 EET [2019/01/23 18:42:51 ET]
+Table 'Lameia' 6-max Seat #5 is the button
+Seat 1: korasidas77 ($138.50 in chips) 
+Seat 2: peteruruguay ($80.50 in chips) 
+Seat 3: Alazan524 ($67.50 in chips) 
+Seat 4: gaiggibeliin ($74.28 in chips) 
+Seat 5: dercemo ($169.25 in chips) 
+Seat 6: afdbandeira ($162.32 in chips) 
+korasidas77: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+Alazan524: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+afdbandeira: posts the ante $0.50
+dercemo: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ts 9s]
+afdbandeira: folds 
+korasidas77: raises $2.50 to $3
+peteruruguay: calls $3
+Alazan524: calls $3
+gaiggibeliin: calls $3
+dercemo: calls $2.50
+*** FLOP *** [Ks 9h 8d]
+korasidas77: bets $11.29
+peteruruguay: folds 
+Alazan524: folds 
+gaiggibeliin: calls $11.29
+dercemo: folds 
+*** TURN *** [Ks 9h 8d] [Jc]
+korasidas77: checks 
+gaiggibeliin: bets $20
+korasidas77: calls $20
+*** RIVER *** [Ks 9h 8d Jc] [6d]
+korasidas77: checks 
+gaiggibeliin: bets $39.49 and is all-in
+korasidas77: calls $39.49
+*** SHOW DOWN ***
+gaiggibeliin: shows [Ts 9s] (a pair of Nines)
+korasidas77: shows [As Ac] (a pair of Aces)
+korasidas77 collected $157.06 from pot
+*** SUMMARY ***
+Total pot $159.56 | Rake $2.50 
+Board [Ks 9h 8d Jc 6d]
+Seat 1: korasidas77 showed [As Ac] and won ($157.06) with a pair of Aces
+Seat 2: peteruruguay folded on the Flop
+Seat 3: Alazan524 folded on the Flop
+Seat 4: gaiggibeliin showed [Ts 9s] and lost with a pair of Nines
+Seat 5: dercemo (button blind) folded on the Flop
+Seat 6: afdbandeira folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196140034054:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 1:44:21 EET [2019/01/23 18:44:21 ET]
+Table 'Lameia' 6-max Seat #6 is the button
+Seat 1: korasidas77 ($221.28 in chips) 
+Seat 2: peteruruguay ($77 in chips) 
+Seat 3: Alazan524 ($64 in chips) 
+Seat 4: gaiggibeliin ($75 in chips) 
+Seat 5: dercemo ($165.75 in chips) 
+Seat 6: afdbandeira ($161.82 in chips) 
+korasidas77: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+Alazan524: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+afdbandeira: posts the ante $0.50
+afdbandeira: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Td 9d]
+korasidas77: raises $2 to $2.50
+peteruruguay: calls $2.50
+Alazan524: folds 
+gaiggibeliin: calls $2.50
+dercemo: calls $2.50
+afdbandeira: folds 
+*** FLOP *** [Js As 7c]
+korasidas77: checks 
+peteruruguay: checks 
+gaiggibeliin: checks 
+dercemo: checks 
+*** TURN *** [Js As 7c] [8h]
+korasidas77: bets $6.67
+peteruruguay: calls $6.67
+gaiggibeliin: raises $24.62 to $31.29
+dercemo: folds 
+korasidas77: folds 
+peteruruguay: calls $24.62
+*** RIVER *** [Js As 7c 8h] [Jh]
+peteruruguay: checks 
+gaiggibeliin: bets $40.71 and is all-in
+peteruruguay: folds 
+Uncalled bet ($40.71) returned to gaiggibeliin
+gaiggibeliin collected $80.25 from pot
+*** SUMMARY ***
+Total pot $82.75 | Rake $2.50 
+Board [Js As 7c 8h Jh]
+Seat 1: korasidas77 folded on the Turn
+Seat 2: peteruruguay folded on the River
+Seat 3: Alazan524 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin collected ($80.25)
+Seat 5: dercemo folded on the Turn
+Seat 6: afdbandeira (button blind) folded before Flop
+
+
+
+PokerStars Hand #196140097951:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 1:46:13 EET [2019/01/23 18:46:13 ET]
+Table 'Lameia' 6-max Seat #1 is the button
+Seat 1: korasidas77 ($211.61 in chips) 
+Seat 2: peteruruguay ($42.71 in chips) 
+Seat 3: Alazan524 ($63.50 in chips) 
+Seat 4: gaiggibeliin ($120.96 in chips) 
+Seat 5: dercemo ($162.75 in chips) 
+Seat 6: afdbandeira ($160.82 in chips) 
+korasidas77: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+Alazan524: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+afdbandeira: posts the ante $0.50
+korasidas77: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8d Kd]
+peteruruguay: raises $4 to $4.50
+Alazan524: folds 
+gaiggibeliin: folds 
+dercemo: raises $4 to $8.50
+afdbandeira: calls $8.50
+korasidas77: calls $8
+peteruruguay: calls $4
+*** FLOP *** [8h Js 7s]
+peteruruguay: bets $33.71 and is all-in
+dercemo: calls $33.71
+afdbandeira: folds 
+korasidas77: folds 
+*** TURN *** [8h Js 7s] [Td]
+*** RIVER *** [8h Js 7s Td] [Th]
+*** SHOW DOWN ***
+peteruruguay: shows [9c Jc] (a straight, Seven to Jack)
+dercemo: shows [As Ad] (two pair, Aces and Tens)
+peteruruguay collected $101.92 from pot
+*** SUMMARY ***
+Total pot $104.42 | Rake $2.50 
+Board [8h Js 7s Td Th]
+Seat 1: korasidas77 (button blind) folded on the Flop
+Seat 2: peteruruguay showed [9c Jc] and won ($101.92) with a straight, Seven to Jack
+Seat 3: Alazan524 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: dercemo showed [As Ad] and lost with two pair, Aces and Tens
+Seat 6: afdbandeira folded on the Flop
+
+
+
+PokerStars Hand #196140131885:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 1:47:12 EET [2019/01/23 18:47:12 ET]
+Table 'Lameia' 6-max Seat #2 is the button
+Seat 1: korasidas77 ($202.61 in chips) 
+Seat 2: peteruruguay ($101.92 in chips) 
+Seat 3: Alazan524 ($63 in chips) 
+Seat 4: gaiggibeliin ($120.46 in chips) 
+Seat 5: dercemo ($120.04 in chips) 
+Seat 6: afdbandeira ($151.82 in chips) 
+korasidas77: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+Alazan524: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+afdbandeira: posts the ante $0.50
+peteruruguay: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qd 6c]
+Alazan524: folds 
+gaiggibeliin: folds 
+dercemo: calls $0.50
+afdbandeira: raises $4.50 to $5
+korasidas77: raises $11.50 to $16.50
+peteruruguay: folds 
+dercemo: folds 
+afdbandeira: calls $11.50
+*** FLOP *** [Ah Qs 8d]
+afdbandeira: checks 
+korasidas77: bets $11.60
+afdbandeira: folds 
+Uncalled bet ($11.60) returned to korasidas77
+korasidas77 collected $35.15 from pot
+korasidas77: doesn't show hand 
+*** SUMMARY ***
+Total pot $37 | Rake $1.85 
+Board [Ah Qs 8d]
+Seat 1: korasidas77 collected ($35.15)
+Seat 2: peteruruguay (button blind) folded before Flop
+Seat 3: Alazan524 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: dercemo folded before Flop
+Seat 6: afdbandeira folded on the Flop
+
+
+
+PokerStars Hand #196140153676:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 1:47:50 EET [2019/01/23 18:47:50 ET]
+Table 'Lameia' 6-max Seat #3 is the button
+Seat 1: korasidas77 ($220.76 in chips) 
+Seat 2: peteruruguay ($100.92 in chips) 
+Seat 3: Alazan524 ($62.50 in chips) 
+Seat 4: gaiggibeliin ($119.96 in chips) 
+Seat 5: dercemo ($119.04 in chips) 
+Seat 6: afdbandeira ($134.82 in chips) 
+korasidas77: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+Alazan524: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+afdbandeira: posts the ante $0.50
+Alazan524: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qh Ks]
+gaiggibeliin: calls $0.50
+dercemo: calls $0.50
+afdbandeira: raises $5 to $5.50
+korasidas77: calls $5.50
+peteruruguay: folds 
+Alazan524: folds 
+gaiggibeliin: calls $5
+dercemo: calls $5
+*** FLOP *** [7h Ah 8d]
+gaiggibeliin: checks 
+dercemo: bets $12
+afdbandeira: folds 
+korasidas77: folds 
+gaiggibeliin: folds 
+Uncalled bet ($12) returned to dercemo
+dercemo collected $24.22 from pot
+dercemo: doesn't show hand 
+*** SUMMARY ***
+Total pot $25.50 | Rake $1.28 
+Board [7h Ah 8d]
+Seat 1: korasidas77 folded on the Flop
+Seat 2: peteruruguay folded before Flop (didn't bet)
+Seat 3: Alazan524 (button blind) folded before Flop
+Seat 4: gaiggibeliin folded on the Flop
+Seat 5: dercemo collected ($24.22)
+Seat 6: afdbandeira folded on the Flop
+
+
+
+PokerStars Hand #196140179572:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 1:48:35 EET [2019/01/23 18:48:35 ET]
+Table 'Lameia' 6-max Seat #4 is the button
+Seat 1: korasidas77 ($214.76 in chips) 
+Seat 2: peteruruguay ($100.42 in chips) 
+Seat 3: Alazan524 ($61.50 in chips) 
+Seat 4: gaiggibeliin ($113.96 in chips) 
+Seat 5: dercemo ($137.26 in chips) 
+Seat 6: afdbandeira ($128.82 in chips) 
+korasidas77: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+Alazan524: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+afdbandeira: posts the ante $0.50
+gaiggibeliin: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9s Jh]
+dercemo: folds 
+afdbandeira: raises $4 to $4.50
+korasidas77: folds 
+peteruruguay: folds 
+Alazan524: calls $4.50
+gaiggibeliin: calls $4
+*** FLOP *** [9c 7c 6c]
+afdbandeira: bets $6.27
+Alazan524: folds 
+gaiggibeliin: folds 
+Uncalled bet ($6.27) returned to afdbandeira
+afdbandeira collected $15.68 from pot
+*** SUMMARY ***
+Total pot $16.50 | Rake $0.82 
+Board [9c 7c 6c]
+Seat 1: korasidas77 folded before Flop (didn't bet)
+Seat 2: peteruruguay folded before Flop (didn't bet)
+Seat 3: Alazan524 folded on the Flop
+Seat 4: gaiggibeliin (button blind) folded on the Flop
+Seat 5: dercemo folded before Flop (didn't bet)
+Seat 6: afdbandeira collected ($15.68)
+
+
+
+PokerStars Hand #196140197896:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 1:49:07 EET [2019/01/23 18:49:07 ET]
+Table 'Lameia' 6-max Seat #5 is the button
+Seat 1: korasidas77 ($214.26 in chips) 
+Seat 2: peteruruguay ($99.92 in chips) 
+Seat 3: Alazan524 ($56.50 in chips) 
+Seat 4: gaiggibeliin ($108.96 in chips) 
+Seat 5: dercemo ($136.76 in chips) 
+Seat 6: afdbandeira ($139.50 in chips) 
+korasidas77: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+Alazan524: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+afdbandeira: posts the ante $0.50
+dercemo: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ts Kh]
+afdbandeira: raises $4 to $4.50
+korasidas77: folds 
+peteruruguay: folds 
+Alazan524: calls $4.50
+gaiggibeliin: folds 
+dercemo: calls $4
+*** FLOP *** [9s Ks 7s]
+afdbandeira: bets $6.27
+Alazan524: folds 
+dercemo: folds 
+Uncalled bet ($6.27) returned to afdbandeira
+afdbandeira collected $15.68 from pot
+afdbandeira: doesn't show hand 
+*** SUMMARY ***
+Total pot $16.50 | Rake $0.82 
+Board [9s Ks 7s]
+Seat 1: korasidas77 folded before Flop (didn't bet)
+Seat 2: peteruruguay folded before Flop (didn't bet)
+Seat 3: Alazan524 folded on the Flop
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: dercemo (button blind) folded on the Flop
+Seat 6: afdbandeira collected ($15.68)
+
+
+
+PokerStars Hand #196140214755:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 1:49:36 EET [2019/01/23 18:49:36 ET]
+Table 'Lameia' 6-max Seat #6 is the button
+Seat 1: korasidas77 ($213.76 in chips) 
+Seat 2: peteruruguay ($99.42 in chips) 
+Seat 3: Alazan524 ($51.50 in chips) 
+Seat 4: gaiggibeliin ($108.46 in chips) 
+Seat 5: dercemo ($131.76 in chips) 
+Seat 6: afdbandeira ($150.18 in chips) 
+korasidas77: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+Alazan524: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+afdbandeira: posts the ante $0.50
+afdbandeira: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qd Qs]
+korasidas77: raises $2 to $2.50
+peteruruguay: folds 
+Alazan524: calls $2.50
+gaiggibeliin: raises $14.50 to $17
+dercemo: calls $17
+afdbandeira: folds 
+korasidas77: folds 
+Alazan524: folds 
+*** FLOP *** [8s 6s Ac]
+gaiggibeliin: checks 
+dercemo: bets $25
+gaiggibeliin: folds 
+Uncalled bet ($25) returned to dercemo
+dercemo collected $40.38 from pot
+dercemo: doesn't show hand 
+*** SUMMARY ***
+Total pot $42.50 | Rake $2.12 
+Board [8s 6s Ac]
+Seat 1: korasidas77 folded before Flop
+Seat 2: peteruruguay folded before Flop (didn't bet)
+Seat 3: Alazan524 folded before Flop
+Seat 4: gaiggibeliin folded on the Flop
+Seat 5: dercemo collected ($40.38)
+Seat 6: afdbandeira (button blind) folded before Flop
+
+
+
+PokerStars Hand #196140246486:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 1:50:32 EET [2019/01/23 18:50:32 ET]
+Table 'Lameia' 6-max Seat #1 is the button
+Seat 1: korasidas77 ($210.76 in chips) 
+Seat 2: peteruruguay ($98.92 in chips) 
+Seat 3: Alazan524 ($48.50 in chips) 
+Seat 4: gaiggibeliin ($90.96 in chips) 
+Seat 5: dercemo ($154.64 in chips) 
+Seat 6: afdbandeira ($149.18 in chips) 
+korasidas77: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+Alazan524: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+afdbandeira: posts the ante $0.50
+korasidas77: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7d 8s]
+peteruruguay: calls $0.50
+Alazan524: folds 
+gaiggibeliin: folds 
+dercemo: calls $0.50
+afdbandeira: folds 
+korasidas77: raises $4 to $4.50
+peteruruguay: calls $4
+dercemo: folds 
+*** FLOP *** [Qh 9d Ts]
+peteruruguay: checks 
+korasidas77: checks 
+*** TURN *** [Qh 9d Ts] [8d]
+peteruruguay: bets $7.50
+korasidas77: calls $7.50
+*** RIVER *** [Qh 9d Ts 8d] [Kh]
+peteruruguay: bets $26.12
+korasidas77: folds 
+Uncalled bet ($26.12) returned to peteruruguay
+peteruruguay collected $26.12 from pot
+*** SUMMARY ***
+Total pot $27.50 | Rake $1.38 
+Board [Qh 9d Ts 8d Kh]
+Seat 1: korasidas77 (button blind) folded on the River
+Seat 2: peteruruguay collected ($26.12)
+Seat 3: Alazan524 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: dercemo folded before Flop
+Seat 6: afdbandeira folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196140287009:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 1:51:44 EET [2019/01/23 18:51:44 ET]
+Table 'Lameia' 6-max Seat #2 is the button
+Seat 1: korasidas77 ($198.26 in chips) 
+Seat 2: peteruruguay ($112.54 in chips) 
+Seat 3: Alazan524 ($48 in chips) 
+Seat 4: gaiggibeliin ($90.46 in chips) 
+Seat 5: dercemo ($153.64 in chips) 
+Seat 6: afdbandeira ($148.68 in chips) 
+korasidas77: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+Alazan524: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+afdbandeira: posts the ante $0.50
+peteruruguay: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qs Th]
+Alazan524: folds 
+gaiggibeliin: calls $0.50
+dercemo: calls $0.50
+afdbandeira: folds 
+korasidas77: raises $3.50 to $4
+peteruruguay: calls $3.50
+gaiggibeliin: calls $3.50
+dercemo: calls $3.50
+*** FLOP *** [8c 8d Ts]
+gaiggibeliin: checks 
+dercemo: bets $9
+korasidas77: folds 
+peteruruguay: calls $9
+gaiggibeliin: folds 
+*** TURN *** [8c 8d Ts] [Kh]
+dercemo: bets $17.50
+peteruruguay: folds 
+Uncalled bet ($17.50) returned to dercemo
+dercemo collected $35.15 from pot
+dercemo: doesn't show hand 
+*** SUMMARY ***
+Total pot $37 | Rake $1.85 
+Board [8c 8d Ts Kh]
+Seat 1: korasidas77 folded on the Flop
+Seat 2: peteruruguay (button blind) folded on the Turn
+Seat 3: Alazan524 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded on the Flop
+Seat 5: dercemo collected ($35.15)
+Seat 6: afdbandeira folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196140322507:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 1:52:47 EET [2019/01/23 18:52:47 ET]
+Table 'Lameia' 6-max Seat #3 is the button
+Seat 1: korasidas77 ($193.76 in chips) 
+Seat 2: peteruruguay ($99.04 in chips) 
+Seat 3: Alazan524 ($47.50 in chips) 
+Seat 4: gaiggibeliin ($85.96 in chips) 
+Seat 5: dercemo ($175.29 in chips) 
+Seat 6: afdbandeira ($148.18 in chips) 
+korasidas77: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+Alazan524: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+afdbandeira: posts the ante $0.50
+Alazan524: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Js 7s]
+gaiggibeliin: folds 
+dercemo: raises $0.50 to $1
+afdbandeira: raises $5.50 to $6.50
+korasidas77: folds 
+peteruruguay: calls $6.50
+Alazan524: raises $40.50 to $47 and is all-in
+dercemo: folds 
+afdbandeira: folds 
+peteruruguay: calls $40.50
+*** FLOP *** [Kc 6c 8d]
+*** TURN *** [Kc 6c 8d] [Ad]
+*** RIVER *** [Kc 6c 8d Ad] [Qs]
+*** SHOW DOWN ***
+peteruruguay: shows [Qh Ac] (two pair, Aces and Queens)
+Alazan524: shows [Kd Kh] (three of a kind, Kings)
+Alazan524 collected $102 from pot
+*** SUMMARY ***
+Total pot $104.50 | Rake $2.50 
+Board [Kc 6c 8d Ad Qs]
+Seat 1: korasidas77 folded before Flop (didn't bet)
+Seat 2: peteruruguay showed [Qh Ac] and lost with two pair, Aces and Queens
+Seat 3: Alazan524 (button blind) showed [Kd Kh] and won ($102) with three of a kind, Kings
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: dercemo folded before Flop
+Seat 6: afdbandeira folded before Flop
+
+
+
+PokerStars Hand #196140343309:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 1:53:24 EET [2019/01/23 18:53:24 ET]
+Table 'Lameia' 6-max Seat #4 is the button
+Seat 1: korasidas77 ($193.26 in chips) 
+Seat 2: peteruruguay ($51.54 in chips) 
+Seat 3: Alazan524 ($102 in chips) 
+Seat 4: gaiggibeliin ($85.46 in chips) 
+Seat 5: dercemo ($173.79 in chips) 
+Seat 6: afdbandeira ($141.18 in chips) 
+korasidas77: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+Alazan524: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+afdbandeira: posts the ante $0.50
+gaiggibeliin: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kh 7s]
+dercemo: calls $0.50
+afdbandeira: raises $4.50 to $5
+korasidas77: raises $10 to $15
+peteruruguay: raises $36.04 to $51.04 and is all-in
+Alazan524: folds 
+gaiggibeliin: folds 
+dercemo: folds 
+afdbandeira: folds 
+korasidas77: calls $36.04
+*** FLOP *** [Ks 9c Qh]
+*** TURN *** [Ks 9c Qh] [Kc]
+*** RIVER *** [Ks 9c Qh Kc] [6c]
+*** SHOW DOWN ***
+korasidas77: shows [9s Qs] (two pair, Kings and Queens)
+peteruruguay: shows [Jh Js] (two pair, Kings and Jacks)
+korasidas77 collected $108.58 from pot
+*** SUMMARY ***
+Total pot $111.08 | Rake $2.50 
+Board [Ks 9c Qh Kc 6c]
+Seat 1: korasidas77 showed [9s Qs] and won ($108.58) with two pair, Kings and Queens
+Seat 2: peteruruguay showed [Jh Js] and lost with two pair, Kings and Jacks
+Seat 3: Alazan524 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin (button blind) folded before Flop
+Seat 5: dercemo folded before Flop
+Seat 6: afdbandeira folded before Flop
+
+
+
+PokerStars Hand #196140365475:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 1:54:04 EET [2019/01/23 18:54:04 ET]
+Table 'Lameia' 6-max Seat #5 is the button
+Seat 1: korasidas77 ($250.30 in chips) 
+Seat 3: Alazan524 ($101.50 in chips) 
+Seat 4: gaiggibeliin ($84.46 in chips) 
+Seat 5: dercemo ($172.79 in chips) 
+Seat 6: afdbandeira ($135.68 in chips) 
+korasidas77: posts the ante $0.50
+Alazan524: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+afdbandeira: posts the ante $0.50
+dercemo: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9c 6c]
+afdbandeira: raises $0.50 to $1
+korasidas77: folds 
+Alazan524: calls $1
+gaiggibeliin: calls $1
+dercemo: calls $0.50
+*** FLOP *** [Qc 6h As]
+afdbandeira: checks 
+Alazan524: checks 
+gaiggibeliin: checks 
+dercemo: checks 
+*** TURN *** [Qc 6h As] [Kd]
+afdbandeira: checks 
+Alazan524: bets $2
+gaiggibeliin: folds 
+dercemo: calls $2
+afdbandeira: folds 
+*** RIVER *** [Qc 6h As Kd] [9s]
+Alazan524: bets $4.99
+dercemo: raises $6.49 to $11.48
+Alazan524: folds 
+Uncalled bet ($6.49) returned to dercemo
+dercemo collected $19.46 from pot
+dercemo: doesn't show hand 
+*** SUMMARY ***
+Total pot $20.48 | Rake $1.02 
+Board [Qc 6h As Kd 9s]
+Seat 1: korasidas77 folded before Flop (didn't bet)
+Seat 3: Alazan524 folded on the River
+Seat 4: gaiggibeliin folded on the Turn
+Seat 5: dercemo (button blind) collected ($19.46)
+Seat 6: afdbandeira folded on the Turn
+
+
+
+PokerStars Hand #196140398282:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 1:55:04 EET [2019/01/23 18:55:04 ET]
+Table 'Lameia' 6-max Seat #6 is the button
+Seat 1: korasidas77 ($249.80 in chips) 
+Seat 2: peteruruguay ($75 in chips) 
+Seat 3: Alazan524 ($93.01 in chips) 
+Seat 4: gaiggibeliin ($82.96 in chips) 
+Seat 5: dercemo ($183.76 in chips) 
+Seat 6: afdbandeira ($134.18 in chips) 
+korasidas77: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+Alazan524: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+afdbandeira: posts the ante $0.50
+afdbandeira: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jh 9d]
+korasidas77: folds 
+peteruruguay: raises $1 to $1.50
+Alazan524: raises $6.50 to $8
+gaiggibeliin: folds 
+dercemo: folds 
+afdbandeira: calls $7.50
+peteruruguay: folds 
+*** FLOP *** [Ad Tc 8h]
+Alazan524: bets $19.48
+afdbandeira: calls $19.48
+*** TURN *** [Ad Tc 8h] [Jc]
+Alazan524: checks 
+afdbandeira: bets $106.20 and is all-in
+Alazan524 is disconnected 
+Alazan524 is connected 
+Alazan524: calls $65.03 and is all-in
+Uncalled bet ($41.17) returned to afdbandeira
+*** RIVER *** [Ad Tc 8h Jc] [7c]
+*** SHOW DOWN ***
+Alazan524: shows [As Kh] (a pair of Aces)
+afdbandeira: shows [Qd Ks] (a straight, Ten to Ace)
+afdbandeira collected $187.02 from pot
+*** SUMMARY ***
+Total pot $189.52 | Rake $2.50 
+Board [Ad Tc 8h Jc 7c]
+Seat 1: korasidas77 folded before Flop (didn't bet)
+Seat 2: peteruruguay folded before Flop
+Seat 3: Alazan524 showed [As Kh] and lost with a pair of Aces
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: dercemo folded before Flop (didn't bet)
+Seat 6: afdbandeira (button blind) showed [Qd Ks] and won ($187.02) with a straight, Ten to Ace
+
+
+
+PokerStars Hand #196140432572:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 1:56:19 EET [2019/01/23 18:56:19 ET]
+Table 'Lameia' 6-max Seat #1 is the button
+Seat 1: korasidas77 ($249.30 in chips) 
+Seat 2: peteruruguay ($73 in chips) 
+Seat 4: gaiggibeliin ($82.46 in chips) 
+Seat 5: dercemo ($183.26 in chips) 
+Seat 6: afdbandeira ($228.19 in chips) 
+korasidas77: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+afdbandeira: posts the ante $0.50
+korasidas77: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jc 7d]
+peteruruguay: folds 
+gaiggibeliin: folds 
+dercemo: calls $0.50
+Alazan524 said, "fish"
+afdbandeira: raises $4 to $4.50
+korasidas77: folds 
+dercemo: calls $4
+*** FLOP *** [As Th 6h]
+Alazan524 said, "you play poker????"
+dercemo: checks 
+afdbandeira: bets $4.56
+dercemo: calls $4.56
+*** TURN *** [As Th 6h] [Kd]
+Alazan524 said, "brasilero fish"
+dercemo: checks 
+afdbandeira: checks 
+*** RIVER *** [As Th 6h Kd] [Qs]
+dercemo: checks 
+afdbandeira: bets $20.06
+dercemo: folds 
+Uncalled bet ($20.06) returned to afdbandeira
+afdbandeira collected $20.06 from pot
+afdbandeira: doesn't show hand 
+*** SUMMARY ***
+Total pot $21.12 | Rake $1.06 
+Board [As Th 6h Kd Qs]
+Seat 1: korasidas77 (button blind) folded before Flop
+Seat 2: peteruruguay folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: dercemo folded on the River
+Seat 6: afdbandeira collected ($20.06)
+
+
+
+PokerStars Hand #196140458793:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 1:57:16 EET [2019/01/23 18:57:16 ET]
+Table 'Lameia' 6-max Seat #2 is the button
+Seat 1: korasidas77 ($248.30 in chips) 
+Seat 2: peteruruguay ($72.50 in chips) 
+Seat 3: Alazan524 ($75 in chips) 
+Seat 4: gaiggibeliin ($81.96 in chips) 
+Seat 5: dercemo ($173.70 in chips) 
+Seat 6: afdbandeira ($238.69 in chips) 
+korasidas77: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+Alazan524: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+afdbandeira: posts the ante $0.50
+peteruruguay: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Td Jd]
+Alazan524: calls $0.50
+gaiggibeliin: raises $4.50 to $5
+dercemo: folds 
+afdbandeira: calls $5
+korasidas77: folds 
+peteruruguay: folds 
+Alazan524: calls $4.50
+*** FLOP *** [7d 8c 9c]
+Alazan524: checks 
+gaiggibeliin: bets $11.78
+afdbandeira: folds 
+Alazan524: calls $11.78
+*** TURN *** [7d 8c 9c] [8h]
+afdbandeira leaves the table
+Alazan524: checks 
+gaiggibeliin: bets $21.50
+Alazan524: raises $36.22 to $57.72 and is all-in
+gaiggibeliin: calls $36.22
+*** RIVER *** [7d 8c 9c 8h] [Ts]
+*** SHOW DOWN ***
+Alazan524: shows [Ac 8s] (three of a kind, Eights)
+gaiggibeliin: shows [Td Jd] (a straight, Seven to Jack)
+gaiggibeliin collected $155 from pot
+*** SUMMARY ***
+Total pot $157.50 | Rake $2.50 
+Board [7d 8c 9c 8h Ts]
+Seat 1: korasidas77 folded before Flop (didn't bet)
+Seat 2: peteruruguay (button blind) folded before Flop
+Seat 3: Alazan524 showed [Ac 8s] and lost with three of a kind, Eights
+Seat 4: gaiggibeliin showed [Td Jd] and won ($155) with a straight, Seven to Jack
+Seat 5: dercemo folded before Flop (didn't bet)
+Seat 6: afdbandeira folded on the Flop
+
+
+
+PokerStars Hand #196140489727:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 1:58:24 EET [2019/01/23 18:58:24 ET]
+Table 'Lameia' 6-max Seat #4 is the button
+Seat 1: korasidas77 ($247.80 in chips) 
+Seat 2: peteruruguay ($71.50 in chips) 
+Seat 4: gaiggibeliin ($161.96 in chips) 
+Seat 5: dercemo ($173.20 in chips) 
+korasidas77: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+gaiggibeliin: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qd Th]
+dercemo: raises $1 to $1.50
+Alazan524 leaves the table
+korasidas77: folds 
+peteruruguay: calls $1.50
+gaiggibeliin: calls $1
+*** FLOP *** [Ah 9s Ks]
+dercemo: bets $3
+peteruruguay: folds 
+gaiggibeliin: folds 
+Uncalled bet ($3) returned to dercemo
+dercemo collected $6.18 from pot
+dercemo: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [Ah 9s Ks]
+Seat 1: korasidas77 folded before Flop (didn't bet)
+Seat 2: peteruruguay folded on the Flop
+Seat 4: gaiggibeliin (button blind) folded on the Flop
+Seat 5: dercemo collected ($6.18)
+
+
+
+PokerStars Hand #196140507584:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 1:59:03 EET [2019/01/23 18:59:03 ET]
+Table 'Lameia' 6-max Seat #5 is the button
+Seat 1: korasidas77 ($247.30 in chips) 
+Seat 2: peteruruguay ($69.50 in chips) 
+Seat 4: gaiggibeliin ($159.96 in chips) 
+Seat 5: dercemo ($177.38 in chips) 
+korasidas77: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+dercemo: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7h 9s]
+korasidas77: folds 
+peteruruguay: folds 
+gaiggibeliin: folds 
+Uncalled bet ($0.50) returned to dercemo
+dercemo collected $2 from pot
+dercemo: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: korasidas77 folded before Flop (didn't bet)
+Seat 2: peteruruguay folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: dercemo (button blind) collected ($2)
+
+
+
+PokerStars Hand #196140513198:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 1:59:15 EET [2019/01/23 18:59:15 ET]
+Table 'Lameia' 6-max Seat #1 is the button
+Seat 1: korasidas77 ($246.80 in chips) 
+Seat 2: peteruruguay ($69 in chips) 
+Seat 4: gaiggibeliin ($159.46 in chips) 
+Seat 5: dercemo ($178.88 in chips) 
+korasidas77: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+korasidas77: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jc 9s]
+peteruruguay: raises $1 to $1.50
+gaiggibeliin: folds 
+dercemo: calls $1.50
+korasidas77: calls $1
+*** FLOP *** [Kh Qh 8c]
+peteruruguay: checks 
+dercemo: bets $6
+korasidas77: folds 
+peteruruguay: folds 
+Uncalled bet ($6) returned to dercemo
+dercemo collected $6.18 from pot
+dercemo: doesn't show hand 
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.32 
+Board [Kh Qh 8c]
+Seat 1: korasidas77 (button blind) folded on the Flop
+Seat 2: peteruruguay folded on the Flop
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: dercemo collected ($6.18)
+
+
+
+PokerStars Hand #196140529012:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 1:59:50 EET [2019/01/23 18:59:50 ET]
+Table 'Lameia' 6-max Seat #2 is the button
+Seat 1: korasidas77 ($244.80 in chips) 
+Seat 2: peteruruguay ($67 in chips) 
+Seat 4: gaiggibeliin ($158.96 in chips) 
+Seat 5: dercemo ($183.06 in chips) 
+korasidas77: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+peteruruguay: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Tc 8c]
+gaiggibeliin: calls $0.50
+dercemo: folds 
+korasidas77: raises $2 to $2.50
+peteruruguay: calls $2
+gaiggibeliin: calls $2
+*** FLOP *** [6d Qs 7d]
+gaiggibeliin: checks 
+korasidas77: checks 
+peteruruguay: bets $4.51
+gaiggibeliin: calls $4.51
+korasidas77: folds 
+*** TURN *** [6d Qs 7d] [Ts]
+gaiggibeliin: checks 
+peteruruguay: bets $17.59
+gaiggibeliin: calls $17.59
+*** RIVER *** [6d Qs 7d Ts] [9d]
+gaiggibeliin: checks 
+peteruruguay: bets $41.90 and is all-in
+gaiggibeliin: calls $41.90
+*** SHOW DOWN ***
+peteruruguay: shows [9h 9s] (three of a kind, Nines)
+gaiggibeliin: shows [Tc 8c] (a straight, Six to Ten)
+gaiggibeliin collected $136.50 from pot
+*** SUMMARY ***
+Total pot $137.50 | Rake $1 
+Board [6d Qs 7d Ts 9d]
+Seat 1: korasidas77 folded on the Flop
+Seat 2: peteruruguay (button blind) showed [9h 9s] and lost with three of a kind, Nines
+Seat 4: gaiggibeliin showed [Tc 8c] and won ($136.50) with a straight, Six to Ten
+Seat 5: dercemo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196140589668:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:01:47 EET [2019/01/23 19:01:47 ET]
+Table 'Lameia' 6-max Seat #4 is the button
+Seat 1: korasidas77 ($241.80 in chips) 
+Seat 4: gaiggibeliin ($228.46 in chips) 
+Seat 5: dercemo ($182.56 in chips) 
+korasidas77: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+gaiggibeliin: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7s Jd]
+dercemo: folds 
+cricketboy61 joins the table at seat #6 
+korasidas77: raises $3 to $3.50
+Bandit054XXX joins the table at seat #3 
+gaiggibeliin: calls $3
+*** FLOP *** [Ks Jc 6d]
+korasidas77: bets $4
+gaiggibeliin: calls $4
+*** TURN *** [Ks Jc 6d] [6s]
+korasidas77: checks 
+gaiggibeliin: checks 
+*** RIVER *** [Ks Jc 6d 6s] [9s]
+korasidas77: bets $6
+gaiggibeliin: calls $6
+*** SHOW DOWN ***
+korasidas77: shows [Kd Ac] (two pair, Kings and Sixes)
+gaiggibeliin: mucks hand 
+korasidas77 collected $27.50 from pot
+*** SUMMARY ***
+Total pot $28.50 | Rake $1 
+Board [Ks Jc 6d 6s 9s]
+Seat 1: korasidas77 showed [Kd Ac] and won ($27.50) with two pair, Kings and Sixes
+Seat 4: gaiggibeliin (button blind) mucked [7s Jd]
+Seat 5: dercemo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196140641727:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:03:21 EET [2019/01/23 19:03:21 ET]
+Table 'Lameia' 6-max Seat #5 is the button
+Seat 1: korasidas77 ($255.30 in chips) 
+Seat 2: peteruruguay ($75 in chips) 
+Seat 3: Bandit054XXX ($75 in chips) 
+Seat 4: gaiggibeliin ($214.46 in chips) 
+Seat 5: dercemo ($182.06 in chips) 
+Seat 6: cricketboy61 ($75 in chips) 
+korasidas77: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+Bandit054XXX: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+cricketboy61: posts the ante $0.50
+dercemo: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Js 9c]
+cricketboy61: folds 
+korasidas77: folds 
+peteruruguay: folds 
+Bandit054XXX: folds 
+gaiggibeliin: calls $0.50
+dercemo: checks 
+*** FLOP *** [Jc 7s 8d]
+gaiggibeliin: bets $2.55
+dercemo: calls $2.55
+*** TURN *** [Jc 7s 8d] [Kd]
+gaiggibeliin: bets $5.79
+dercemo: calls $5.79
+*** RIVER *** [Jc 7s 8d Kd] [Ks]
+gaiggibeliin: checks 
+dercemo: checks 
+*** SHOW DOWN ***
+gaiggibeliin: shows [Js 9c] (two pair, Kings and Jacks)
+dercemo: mucks hand 
+gaiggibeliin collected $19.65 from pot
+*** SUMMARY ***
+Total pot $20.68 | Rake $1.03 
+Board [Jc 7s 8d Kd Ks]
+Seat 1: korasidas77 folded before Flop (didn't bet)
+Seat 2: peteruruguay folded before Flop (didn't bet)
+Seat 3: Bandit054XXX folded before Flop (didn't bet)
+Seat 4: gaiggibeliin showed [Js 9c] and won ($19.65) with two pair, Kings and Jacks
+Seat 5: dercemo (button blind) mucked [Jh 7h]
+Seat 6: cricketboy61 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196140665952:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:04:04 EET [2019/01/23 19:04:04 ET]
+Table 'Lameia' 6-max Seat #6 is the button
+Seat 1: korasidas77 ($254.80 in chips) 
+Seat 2: peteruruguay ($74.50 in chips) 
+Seat 3: Bandit054XXX ($74.50 in chips) 
+Seat 4: gaiggibeliin ($224.77 in chips) 
+Seat 5: dercemo ($172.72 in chips) 
+Seat 6: cricketboy61 ($74.50 in chips) 
+korasidas77: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+Bandit054XXX: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+cricketboy61: posts the ante $0.50
+cricketboy61: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6s Ad]
+korasidas77: folds 
+peteruruguay: raises $4 to $4.50
+Bandit054XXX: calls $4.50
+gaiggibeliin: folds 
+dercemo: folds 
+cricketboy61: folds 
+*** FLOP *** [Kd 8s 7d]
+peteruruguay: bets $6.50
+Bandit054XXX: calls $6.50
+*** TURN *** [Kd 8s 7d] [Js]
+peteruruguay: checks 
+Bandit054XXX: bets $12
+peteruruguay: calls $12
+*** RIVER *** [Kd 8s 7d Js] [Tc]
+peteruruguay: checks 
+Bandit054XXX: checks 
+*** SHOW DOWN ***
+peteruruguay: shows [Kh Qs] (a pair of Kings)
+Bandit054XXX: shows [Th Jd] (two pair, Jacks and Tens)
+Bandit054XXX collected $47.02 from pot
+*** SUMMARY ***
+Total pot $49.50 | Rake $2.48 
+Board [Kd 8s 7d Js Tc]
+Seat 1: korasidas77 folded before Flop (didn't bet)
+Seat 2: peteruruguay showed [Kh Qs] and lost with a pair of Kings
+Seat 3: Bandit054XXX showed [Th Jd] and won ($47.02) with two pair, Jacks and Tens
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: dercemo folded before Flop (didn't bet)
+Seat 6: cricketboy61 (button blind) folded before Flop
+
+
+
+PokerStars Hand #196140700120:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:05:07 EET [2019/01/23 19:05:07 ET]
+Table 'Lameia' 6-max Seat #1 is the button
+Seat 1: korasidas77 ($254.30 in chips) 
+Seat 2: peteruruguay ($51 in chips) 
+Seat 3: Bandit054XXX ($98.02 in chips) 
+Seat 4: gaiggibeliin ($224.27 in chips) 
+Seat 5: dercemo ($172.22 in chips) 
+Seat 6: cricketboy61 ($73.50 in chips) 
+korasidas77: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+Bandit054XXX: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+cricketboy61: posts the ante $0.50
+korasidas77: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6s 9s]
+peteruruguay: folds 
+Bandit054XXX: folds 
+gaiggibeliin: folds 
+dercemo: folds 
+cricketboy61: raises $3.50 to $4
+korasidas77: folds 
+Uncalled bet ($3.50) returned to cricketboy61
+cricketboy61 collected $4 from pot
+cricketboy61: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 1: korasidas77 (button blind) folded before Flop
+Seat 2: peteruruguay folded before Flop (didn't bet)
+Seat 3: Bandit054XXX folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: dercemo folded before Flop (didn't bet)
+Seat 6: cricketboy61 collected ($4)
+
+
+
+PokerStars Hand #196140713762:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:05:31 EET [2019/01/23 19:05:31 ET]
+Table 'Lameia' 6-max Seat #2 is the button
+Seat 1: korasidas77 ($253.30 in chips) 
+Seat 2: peteruruguay ($70.50 in chips) 
+Seat 3: Bandit054XXX ($97.52 in chips) 
+Seat 4: gaiggibeliin ($223.77 in chips) 
+Seat 5: dercemo ($171.72 in chips) 
+Seat 6: cricketboy61 ($76.50 in chips) 
+korasidas77: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+Bandit054XXX: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+cricketboy61: posts the ante $0.50
+peteruruguay: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7s Ah]
+Bandit054XXX: calls $0.50
+gaiggibeliin: folds 
+dercemo: calls $0.50
+cricketboy61: folds 
+korasidas77: folds 
+peteruruguay: checks 
+*** FLOP *** [6h Tc Qh]
+Bandit054XXX: bets $2
+dercemo: calls $2
+peteruruguay: folds 
+*** TURN *** [6h Tc Qh] [Kh]
+Bandit054XXX: bets $0.50
+dercemo: calls $0.50
+*** RIVER *** [6h Tc Qh Kh] [Ad]
+Bandit054XXX: bets $4.50
+dercemo: folds 
+Uncalled bet ($4.50) returned to Bandit054XXX
+Bandit054XXX collected $9.02 from pot
+*** SUMMARY ***
+Total pot $9.50 | Rake $0.48 
+Board [6h Tc Qh Kh Ad]
+Seat 1: korasidas77 folded before Flop (didn't bet)
+Seat 2: peteruruguay (button blind) folded on the Flop
+Seat 3: Bandit054XXX collected ($9.02)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: dercemo folded on the River
+Seat 6: cricketboy61 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196140748402:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:06:35 EET [2019/01/23 19:06:35 ET]
+Table 'Lameia' 6-max Seat #3 is the button
+Seat 1: korasidas77 ($252.80 in chips) 
+Seat 2: peteruruguay ($69.50 in chips) 
+Seat 3: Bandit054XXX ($103.04 in chips) 
+Seat 4: gaiggibeliin ($223.27 in chips) 
+Seat 5: dercemo ($168.22 in chips) 
+Seat 6: cricketboy61 ($76 in chips) 
+korasidas77: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+Bandit054XXX: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+cricketboy61: posts the ante $0.50
+Bandit054XXX: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8s Ts]
+gaiggibeliin: calls $0.50
+dercemo: raises $4.50 to $5
+cricketboy61: folds 
+korasidas77: calls $5
+peteruruguay: folds 
+Bandit054XXX: raises $97.54 to $102.54 and is all-in
+gaiggibeliin: folds 
+dercemo: folds 
+korasidas77: folds 
+Uncalled bet ($97.54) returned to Bandit054XXX
+Bandit054XXX collected $18.50 from pot
+*** SUMMARY ***
+Total pot $18.50 | Rake $0 
+Seat 1: korasidas77 folded before Flop
+Seat 2: peteruruguay folded before Flop (didn't bet)
+Seat 3: Bandit054XXX (button blind) collected ($18.50)
+Seat 4: gaiggibeliin folded before Flop
+Seat 5: dercemo folded before Flop
+Seat 6: cricketboy61 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196140780294:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:07:34 EET [2019/01/23 19:07:34 ET]
+Table 'Lameia' 6-max Seat #4 is the button
+Seat 1: korasidas77 ($247.30 in chips) 
+Seat 2: peteruruguay ($69 in chips) 
+Seat 3: Bandit054XXX ($116.04 in chips) 
+Seat 4: gaiggibeliin ($222.27 in chips) 
+Seat 5: dercemo ($162.72 in chips) 
+Seat 6: cricketboy61 ($75.50 in chips) 
+korasidas77: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+Bandit054XXX: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+cricketboy61: posts the ante $0.50
+gaiggibeliin: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6d Td]
+dercemo: calls $0.50
+cricketboy61: raises $4.50 to $5
+korasidas77: folds 
+peteruruguay: folds 
+Bandit054XXX: folds 
+gaiggibeliin: folds 
+dercemo: calls $4.50
+*** FLOP *** [Ah Jh Th]
+korasidas77 leaves the table
+dercemo: checks 
+cricketboy61: checks 
+*** TURN *** [Ah Jh Th] [Ac]
+dercemo: checks 
+cricketboy61: checks 
+*** RIVER *** [Ah Jh Th Ac] [6s]
+dercemo: bets $0.50
+cricketboy61: calls $0.50
+*** SHOW DOWN ***
+dercemo: shows [Tc 7h] (two pair, Aces and Tens)
+cricketboy61: shows [Qc Qs] (two pair, Aces and Queens)
+cricketboy61 collected $13.78 from pot
+*** SUMMARY ***
+Total pot $14.50 | Rake $0.72 
+Board [Ah Jh Th Ac 6s]
+Seat 1: korasidas77 folded before Flop (didn't bet)
+Seat 2: peteruruguay folded before Flop (didn't bet)
+Seat 3: Bandit054XXX folded before Flop (didn't bet)
+Seat 4: gaiggibeliin (button blind) folded before Flop
+Seat 5: dercemo showed [Tc 7h] and lost with two pair, Aces and Tens
+Seat 6: cricketboy61 showed [Qc Qs] and won ($13.78) with two pair, Aces and Queens
+
+
+
+PokerStars Hand #196140802273:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:08:16 EET [2019/01/23 19:08:16 ET]
+Table 'Lameia' 6-max Seat #5 is the button
+Seat 2: peteruruguay ($68.50 in chips) 
+Seat 3: Bandit054XXX ($115.54 in chips) 
+Seat 4: gaiggibeliin ($221.27 in chips) 
+Seat 5: dercemo ($156.72 in chips) 
+Seat 6: cricketboy61 ($83.28 in chips) 
+peteruruguay: posts the ante $0.50
+Bandit054XXX: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+cricketboy61: posts the ante $0.50
+dercemo: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Td Qc]
+cricketboy61: folds 
+picka4u joins the table at seat #1 
+peteruruguay: calls $0.50
+Bandit054XXX: folds 
+gaiggibeliin: folds 
+dercemo: raises $3.50 to $4
+peteruruguay: calls $3.50
+*** FLOP *** [9h 8d 8c]
+peteruruguay: checks 
+dercemo: checks 
+*** TURN *** [9h 8d 8c] [Jc]
+peteruruguay: checks 
+dercemo: checks 
+*** RIVER *** [9h 8d 8c Jc] [Js]
+peteruruguay: checks 
+dercemo: checks 
+*** SHOW DOWN ***
+peteruruguay: shows [9s Ks] (two pair, Jacks and Nines)
+dercemo: mucks hand 
+peteruruguay collected $9.98 from pot
+*** SUMMARY ***
+Total pot $10.50 | Rake $0.52 
+Board [9h 8d 8c Jc Js]
+Seat 2: peteruruguay showed [9s Ks] and won ($9.98) with two pair, Jacks and Nines
+Seat 3: Bandit054XXX folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: dercemo (button blind) mucked [Kh As]
+Seat 6: cricketboy61 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196140822600:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:08:54 EET [2019/01/23 19:08:54 ET]
+Table 'Lameia' 6-max Seat #6 is the button
+Seat 1: picka4u ($50 in chips) 
+Seat 2: peteruruguay ($73.98 in chips) 
+Seat 3: Bandit054XXX ($115.04 in chips) 
+Seat 4: gaiggibeliin ($220.77 in chips) 
+Seat 5: dercemo ($152.22 in chips) 
+Seat 6: cricketboy61 ($82.78 in chips) 
+picka4u: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+Bandit054XXX: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+cricketboy61: posts the ante $0.50
+cricketboy61: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jh Ks]
+picka4u: folds 
+peteruruguay: folds 
+Bandit054XXX: calls $0.50
+gaiggibeliin: calls $0.50
+dercemo: calls $0.50
+cricketboy61: raises $5 to $5.50
+Bandit054XXX: folds 
+gaiggibeliin: folds 
+dercemo: calls $5
+*** FLOP *** [6c Ts 9d]
+dercemo: checks 
+cricketboy61: checks 
+*** TURN *** [6c Ts 9d] [Td]
+dercemo: checks 
+cricketboy61: bets $7
+dercemo: folds 
+Uncalled bet ($7) returned to cricketboy61
+cricketboy61 collected $14.25 from pot
+cricketboy61: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0.75 
+Board [6c Ts 9d Td]
+Seat 1: picka4u folded before Flop (didn't bet)
+Seat 2: peteruruguay folded before Flop (didn't bet)
+Seat 3: Bandit054XXX folded before Flop
+Seat 4: gaiggibeliin folded before Flop
+Seat 5: dercemo folded on the Turn
+Seat 6: cricketboy61 (button blind) collected ($14.25)
+
+
+
+PokerStars Hand #196140875466:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:10:34 EET [2019/01/23 19:10:34 ET]
+Table 'Lameia' 6-max Seat #1 is the button
+Seat 1: picka4u ($49.50 in chips) 
+Seat 2: peteruruguay ($73.48 in chips) 
+Seat 3: Bandit054XXX ($114.04 in chips) 
+Seat 4: gaiggibeliin ($219.77 in chips) 
+Seat 5: dercemo ($146.22 in chips) 
+Seat 6: cricketboy61 ($91.03 in chips) 
+picka4u: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+Bandit054XXX: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+cricketboy61: posts the ante $0.50
+picka4u: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8d 6s]
+peteruruguay: raises $4 to $4.50
+Bandit054XXX: folds 
+gaiggibeliin: folds 
+dercemo: calls $4.50
+cricketboy61: calls $4.50
+picka4u: calls $4
+*** FLOP *** [7d 8c 8s]
+peteruruguay: bets $9.98
+dercemo: calls $9.98
+cricketboy61: folds 
+picka4u: folds 
+*** TURN *** [7d 8c 8s] [Tc]
+peteruruguay: checks 
+dercemo: bets $19.50
+peteruruguay: calls $19.50
+*** RIVER *** [7d 8c 8s Tc] [Js]
+peteruruguay: checks 
+dercemo: checks 
+*** SHOW DOWN ***
+peteruruguay: shows [Th Ah] (two pair, Tens and Eights)
+dercemo: shows [8h 9s] (a straight, Seven to Jack)
+dercemo collected $77.46 from pot
+*** SUMMARY ***
+Total pot $79.96 | Rake $2.50 
+Board [7d 8c 8s Tc Js]
+Seat 1: picka4u (button blind) folded on the Flop
+Seat 2: peteruruguay showed [Th Ah] and lost with two pair, Tens and Eights
+Seat 3: Bandit054XXX folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: dercemo showed [8h 9s] and won ($77.46) with a straight, Seven to Jack
+Seat 6: cricketboy61 folded on the Flop
+
+
+
+PokerStars Hand #196140903483:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:11:27 EET [2019/01/23 19:11:27 ET]
+Table 'Lameia' 6-max Seat #2 is the button
+Seat 1: picka4u ($44.50 in chips) 
+Seat 2: peteruruguay ($39 in chips) 
+Seat 3: Bandit054XXX ($113.54 in chips) 
+Seat 4: gaiggibeliin ($219.27 in chips) 
+Seat 5: dercemo ($189.20 in chips) 
+Seat 6: cricketboy61 ($86.03 in chips) 
+picka4u: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+Bandit054XXX: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+cricketboy61: posts the ante $0.50
+peteruruguay: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6h Qc]
+Bandit054XXX: folds 
+gaiggibeliin: folds 
+dercemo: calls $0.50
+cricketboy61: folds 
+Bandit054XXX leaves the table
+picka4u: folds 
+peteruruguay: raises $4 to $4.50
+dercemo: calls $4
+*** FLOP *** [Jd 6s 6c]
+dercemo: bets $5.50
+peteruruguay: folds 
+Uncalled bet ($5.50) returned to dercemo
+dercemo collected $11.40 from pot
+dercemo: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0.60 
+Board [Jd 6s 6c]
+Seat 1: picka4u folded before Flop (didn't bet)
+Seat 2: peteruruguay (button blind) folded on the Flop
+Seat 3: Bandit054XXX folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: dercemo collected ($11.40)
+Seat 6: cricketboy61 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196140916309:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:11:52 EET [2019/01/23 19:11:52 ET]
+Table 'Lameia' 6-max Seat #4 is the button
+Seat 1: picka4u ($44 in chips) 
+Seat 2: peteruruguay ($34 in chips) 
+Seat 4: gaiggibeliin ($218.77 in chips) 
+Seat 5: dercemo ($195.60 in chips) 
+Seat 6: cricketboy61 ($85.53 in chips) 
+picka4u: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+cricketboy61: posts the ante $0.50
+gaiggibeliin: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qh Ac]
+dercemo: raises $0.50 to $1
+cricketboy61: folds 
+picka4u: folds 
+peteruruguay: calls $1
+gaiggibeliin: raises $7 to $8
+dercemo: calls $7
+peteruruguay: calls $7
+*** FLOP *** [As Qd Ah]
+dercemo: checks 
+peteruruguay: checks 
+gaiggibeliin: bets $7
+dercemo: folds 
+peteruruguay: folds 
+Uncalled bet ($7) returned to gaiggibeliin
+gaiggibeliin collected $25.18 from pot
+*** SUMMARY ***
+Total pot $26.50 | Rake $1.32 
+Board [As Qd Ah]
+Seat 1: picka4u folded before Flop (didn't bet)
+Seat 2: peteruruguay folded on the Flop
+Seat 4: gaiggibeliin (button blind) collected ($25.18)
+Seat 5: dercemo folded on the Flop
+Seat 6: cricketboy61 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196140951550:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:12:59 EET [2019/01/23 19:12:59 ET]
+Table 'Lameia' 6-max Seat #5 is the button
+Seat 1: picka4u ($43.50 in chips) 
+Seat 2: peteruruguay ($66.50 in chips) 
+Seat 4: gaiggibeliin ($235.45 in chips) 
+Seat 5: dercemo ($187.10 in chips) 
+Seat 6: cricketboy61 ($85.03 in chips) 
+picka4u: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+cricketboy61: posts the ante $0.50
+dercemo: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Tc 8s]
+cricketboy61: raises $3.50 to $4
+picka4u: folds 
+peteruruguay: folds 
+gaiggibeliin: folds 
+dercemo: calls $3.50
+*** FLOP *** [9h 7s Ah]
+cricketboy61: checks 
+dercemo: bets $5
+cricketboy61: folds 
+Uncalled bet ($5) returned to dercemo
+dercemo collected $9.98 from pot
+dercemo: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.50 | Rake $0.52 
+Board [9h 7s Ah]
+Seat 1: picka4u folded before Flop (didn't bet)
+Seat 2: peteruruguay folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: dercemo (button blind) collected ($9.98)
+Seat 6: cricketboy61 folded on the Flop
+
+
+
+PokerStars Hand #196140976698:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:13:32 EET [2019/01/23 19:13:32 ET]
+Table 'Lameia' 6-max Seat #1 is the button
+Seat 1: picka4u ($43 in chips) 
+Seat 2: peteruruguay ($66 in chips) 
+Seat 4: gaiggibeliin ($234.95 in chips) 
+Seat 5: dercemo ($192.58 in chips) 
+picka4u: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+picka4u: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jc 6d]
+cricketboy61 leaves the table
+peteruruguay: calls $0.50
+gaiggibeliin: folds 
+dercemo: folds 
+picka4u: raises $2.50 to $3
+peteruruguay: folds 
+Uncalled bet ($2.50) returned to picka4u
+picka4u collected $3 from pot
+picka4u: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0 
+Seat 1: picka4u (button blind) collected ($3)
+Seat 2: peteruruguay folded before Flop
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: dercemo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196140984653:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:13:48 EET [2019/01/23 19:13:48 ET]
+Table 'Lameia' 6-max Seat #2 is the button
+Seat 1: picka4u ($45 in chips) 
+Seat 2: peteruruguay ($65 in chips) 
+Seat 4: gaiggibeliin ($234.45 in chips) 
+Seat 5: dercemo ($192.08 in chips) 
+picka4u: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+peteruruguay: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ah Ks]
+gaiggibeliin: raises $3 to $3.50
+dercemo: calls $3.50
+picka4u: folds 
+peteruruguay: folds 
+*** FLOP *** [7c Qh 6s]
+gaiggibeliin: checks 
+dercemo: bets $4.50
+gaiggibeliin: folds 
+Uncalled bet ($4.50) returned to dercemo
+dercemo collected $9.02 from pot
+dercemo: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.50 | Rake $0.48 
+Board [7c Qh 6s]
+Seat 1: picka4u folded before Flop (didn't bet)
+Seat 2: peteruruguay (button blind) folded before Flop
+Seat 4: gaiggibeliin folded on the Flop
+Seat 5: dercemo collected ($9.02)
+
+
+
+PokerStars Hand #196141001407:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:14:20 EET [2019/01/23 19:14:20 ET]
+Table 'Lameia' 6-max Seat #4 is the button
+Seat 1: picka4u ($44.50 in chips) 
+Seat 2: peteruruguay ($75 in chips) 
+Seat 4: gaiggibeliin ($230.45 in chips) 
+Seat 5: dercemo ($197.10 in chips) 
+picka4u: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+gaiggibeliin: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8s Ts]
+dercemo: raises $3 to $3.50
+picka4u: folds 
+peteruruguay: calls $3.50
+gaiggibeliin: calls $3
+*** FLOP *** [Ad 6c 8d]
+dercemo: bets $6
+peteruruguay: calls $6
+gaiggibeliin: folds 
+*** TURN *** [Ad 6c 8d] [7s]
+dercemo: checks 
+peteruruguay: bets $23.50
+dercemo: folds 
+Uncalled bet ($23.50) returned to peteruruguay
+peteruruguay collected $23.50 from pot
+*** SUMMARY ***
+Total pot $24.50 | Rake $1 
+Board [Ad 6c 8d 7s]
+Seat 1: picka4u folded before Flop (didn't bet)
+Seat 2: peteruruguay collected ($23.50)
+Seat 4: gaiggibeliin (button blind) folded on the Flop
+Seat 5: dercemo folded on the Turn
+
+
+
+PokerStars Hand #196141026001:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:15:07 EET [2019/01/23 19:15:07 ET]
+Table 'Lameia' 6-max Seat #5 is the button
+Seat 1: picka4u ($44 in chips) 
+Seat 2: peteruruguay ($88.50 in chips) 
+Seat 4: gaiggibeliin ($226.45 in chips) 
+Seat 5: dercemo ($187.10 in chips) 
+picka4u: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+dercemo: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8h 6h]
+picka4u: folds 
+peteruruguay: calls $0.50
+gaiggibeliin: calls $0.50
+dercemo: checks 
+*** FLOP *** [9s Qs Tc]
+peteruruguay: checks 
+gaiggibeliin: checks 
+dercemo: bets $3.50
+peteruruguay: folds 
+gaiggibeliin: folds 
+Uncalled bet ($3.50) returned to dercemo
+dercemo collected $3.32 from pot
+dercemo: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.50 | Rake $0.18 
+Board [9s Qs Tc]
+Seat 1: picka4u folded before Flop (didn't bet)
+Seat 2: peteruruguay folded on the Flop
+Seat 4: gaiggibeliin folded on the Flop
+Seat 5: dercemo (button blind) collected ($3.32)
+
+
+
+PokerStars Hand #196141044355:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:15:43 EET [2019/01/23 19:15:43 ET]
+Table 'Lameia' 6-max Seat #1 is the button
+Seat 1: picka4u ($43.50 in chips) 
+Seat 2: peteruruguay ($87.50 in chips) 
+Seat 4: gaiggibeliin ($225.45 in chips) 
+Seat 5: dercemo ($189.42 in chips) 
+picka4u: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+picka4u: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Td Qs]
+peteruruguay: raises $3 to $3.50
+gaiggibeliin: folds 
+dercemo: calls $3.50
+picka4u: raises $39.50 to $43 and is all-in
+peteruruguay: folds 
+dercemo: folds 
+Uncalled bet ($39.50) returned to picka4u
+picka4u collected $12.50 from pot
+picka4u: doesn't show hand 
+*** SUMMARY ***
+Total pot $12.50 | Rake $0 
+Seat 1: picka4u (button blind) collected ($12.50)
+Seat 2: peteruruguay folded before Flop
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: dercemo folded before Flop
+
+
+
+PokerStars Hand #196141056581:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:16:06 EET [2019/01/23 19:16:06 ET]
+Table 'Lameia' 6-max Seat #2 is the button
+Seat 1: picka4u ($52 in chips) 
+Seat 2: peteruruguay ($83.50 in chips) 
+Seat 4: gaiggibeliin ($224.95 in chips) 
+Seat 5: dercemo ($185.42 in chips) 
+picka4u: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+peteruruguay: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6c 9s]
+gaiggibeliin: folds 
+dercemo: calls $0.50
+picka4u: raises $2 to $2.50
+peteruruguay: raises $7.50 to $10
+dercemo: folds 
+picka4u: folds 
+Uncalled bet ($7.50) returned to peteruruguay
+peteruruguay collected $7.50 from pot
+*** SUMMARY ***
+Total pot $7.50 | Rake $0 
+Seat 1: picka4u folded before Flop
+Seat 2: peteruruguay (button blind) collected ($7.50)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: dercemo folded before Flop
+
+
+
+PokerStars Hand #196141074815:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:16:42 EET [2019/01/23 19:16:42 ET]
+Table 'Lameia' 6-max Seat #4 is the button
+Seat 1: picka4u ($49 in chips) 
+Seat 2: peteruruguay ($88 in chips) 
+Seat 4: gaiggibeliin ($224.45 in chips) 
+Seat 5: dercemo ($184.42 in chips) 
+picka4u: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+gaiggibeliin: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9s Qc]
+dercemo: raises $1 to $1.50
+picka4u: folds 
+peteruruguay: folds 
+gaiggibeliin: calls $1
+*** FLOP *** [Qh 6c Kh]
+dercemo: bets $2.50
+gaiggibeliin: calls $2.50
+*** TURN *** [Qh 6c Kh] [Td]
+dercemo: checks 
+gaiggibeliin: checks 
+*** RIVER *** [Qh 6c Kh Td] [Th]
+dercemo: checks 
+gaiggibeliin: checks 
+*** SHOW DOWN ***
+dercemo: shows [7d 8s] (a pair of Tens)
+gaiggibeliin: shows [9s Qc] (two pair, Queens and Tens)
+gaiggibeliin collected $9.50 from pot
+*** SUMMARY ***
+Total pot $10 | Rake $0.50 
+Board [Qh 6c Kh Td Th]
+Seat 1: picka4u folded before Flop (didn't bet)
+Seat 2: peteruruguay folded before Flop (didn't bet)
+Seat 4: gaiggibeliin (button blind) showed [9s Qc] and won ($9.50) with two pair, Queens and Tens
+Seat 5: dercemo showed [7d 8s] and lost with a pair of Tens
+
+
+
+PokerStars Hand #196141102524:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:17:35 EET [2019/01/23 19:17:35 ET]
+Table 'Lameia' 6-max Seat #5 is the button
+Seat 1: picka4u ($48.50 in chips) 
+Seat 2: peteruruguay ($87.50 in chips) 
+Seat 4: gaiggibeliin ($229.45 in chips) 
+Seat 5: dercemo ($179.92 in chips) 
+picka4u: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+dercemo: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qh Kh]
+picka4u: raises $1 to $1.50
+peteruruguay: folds 
+gaiggibeliin: calls $1.50
+dercemo: calls $1
+*** FLOP *** [9h 8d Ac]
+picka4u: checks 
+gaiggibeliin: checks 
+dercemo: bets $6
+picka4u: raises $40.50 to $46.50 and is all-in
+gaiggibeliin: folds 
+dercemo: folds 
+Uncalled bet ($40.50) returned to picka4u
+picka4u collected $17.58 from pot
+picka4u: doesn't show hand 
+*** SUMMARY ***
+Total pot $18.50 | Rake $0.92 
+Board [9h 8d Ac]
+Seat 1: picka4u collected ($17.58)
+Seat 2: peteruruguay folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded on the Flop
+Seat 5: dercemo (button blind) folded on the Flop
+
+
+
+PokerStars Hand #196141126144:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:18:21 EET [2019/01/23 19:18:21 ET]
+Table 'Lameia' 6-max Seat #1 is the button
+Seat 1: picka4u ($58.08 in chips) 
+Seat 2: peteruruguay ($87 in chips) 
+Seat 4: gaiggibeliin ($227.45 in chips) 
+Seat 5: dercemo ($171.92 in chips) 
+picka4u: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+picka4u: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jh Th]
+peteruruguay: raises $3 to $3.50
+gaiggibeliin: calls $3.50
+dercemo: calls $3.50
+picka4u: folds 
+*** FLOP *** [Qs Kc 6c]
+peteruruguay: bets $6.18
+gaiggibeliin: calls $6.18
+moneyymakerr joins the table at seat #3 
+dercemo: calls $6.18
+*** TURN *** [Qs Kc 6c] [7c]
+peteruruguay: bets $15.27
+gaiggibeliin: folds 
+dercemo: calls $15.27
+*** RIVER *** [Qs Kc 6c 7c] [6s]
+peteruruguay: bets $61.55 and is all-in
+dercemo: calls $61.55
+*** SHOW DOWN ***
+peteruruguay: shows [Jc Ah] (a pair of Sixes)
+dercemo: shows [Qc Tc] (a flush, King high)
+dercemo collected $184.18 from pot
+*** SUMMARY ***
+Total pot $185.18 | Rake $1 
+Board [Qs Kc 6c 7c 6s]
+Seat 1: picka4u (button blind) folded before Flop
+Seat 2: peteruruguay showed [Jc Ah] and lost with a pair of Sixes
+Seat 4: gaiggibeliin folded on the Turn
+Seat 5: dercemo showed [Qc Tc] and won ($184.18) with a flush, King high
+
+
+
+PokerStars Hand #196141172718:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:19:52 EET [2019/01/23 19:19:52 ET]
+Table 'Lameia' 6-max Seat #4 is the button
+Seat 1: picka4u ($57.08 in chips) 
+Seat 3: moneyymakerr ($75 in chips) 
+Seat 4: gaiggibeliin ($217.27 in chips) 
+Seat 5: dercemo ($269.10 in chips) 
+picka4u: posts the ante $0.50
+moneyymakerr: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+gaiggibeliin: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qd 8h]
+dercemo: folds 
+picka4u: folds 
+moneyymakerr: raises $3 to $3.50
+gaiggibeliin: calls $3
+*** FLOP *** [Qc Kd Tc]
+moneyymakerr: bets $5.56
+FISHERR1983 joins the table at seat #6 
+gaiggibeliin: folds 
+Uncalled bet ($5.56) returned to moneyymakerr
+moneyymakerr collected $8.55 from pot
+*** SUMMARY ***
+Total pot $9 | Rake $0.45 
+Board [Qc Kd Tc]
+Seat 1: picka4u folded before Flop (didn't bet)
+Seat 3: moneyymakerr collected ($8.55)
+Seat 4: gaiggibeliin (button blind) folded on the Flop
+Seat 5: dercemo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196141191579:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:20:29 EET [2019/01/23 19:20:29 ET]
+Table 'Lameia' 6-max Seat #5 is the button
+Seat 1: picka4u ($56.58 in chips) 
+Seat 2: peteruruguay ($75 in chips) 
+Seat 3: moneyymakerr ($79.55 in chips) 
+Seat 4: gaiggibeliin ($213.27 in chips) 
+Seat 5: dercemo ($268.60 in chips) 
+Seat 6: FISHERR1983 ($75 in chips) 
+picka4u: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+moneyymakerr: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+FISHERR1983: posts the ante $0.50
+dercemo: posts button blind $0.50
+peteruruguay: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kd 7d]
+FISHERR1983: folds 
+picka4u: folds 
+peteruruguay: checks 
+moneyymakerr: raises $2 to $2.50
+gaiggibeliin: folds 
+dercemo: calls $2
+peteruruguay: folds 
+*** FLOP *** [Ks Jc Td]
+moneyymakerr: checks 
+dercemo: bets $8
+moneyymakerr: folds 
+Uncalled bet ($8) returned to dercemo
+dercemo collected $8.08 from pot
+dercemo: doesn't show hand 
+*** SUMMARY ***
+Total pot $8.50 | Rake $0.42 
+Board [Ks Jc Td]
+Seat 1: picka4u folded before Flop (didn't bet)
+Seat 2: peteruruguay folded before Flop (didn't bet)
+Seat 3: moneyymakerr folded on the Flop
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: dercemo (button blind) collected ($8.08)
+Seat 6: FISHERR1983 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196141202429:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:20:51 EET [2019/01/23 19:20:51 ET]
+Table 'Lameia' 6-max Seat #6 is the button
+Seat 1: picka4u ($56.08 in chips) 
+Seat 2: peteruruguay ($74 in chips) 
+Seat 3: moneyymakerr ($76.55 in chips) 
+Seat 4: gaiggibeliin ($212.77 in chips) 
+Seat 5: dercemo ($273.68 in chips) 
+Seat 6: FISHERR1983 ($75 in chips) 
+picka4u: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+moneyymakerr: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+FISHERR1983: posts the ante $0.50
+FISHERR1983: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7c Jh]
+picka4u: folds 
+peteruruguay: folds 
+moneyymakerr: folds 
+gaiggibeliin: folds 
+dercemo: folds 
+Uncalled bet ($0.50) returned to FISHERR1983
+FISHERR1983 collected $3 from pot
+FISHERR1983: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0 
+Seat 1: picka4u folded before Flop (didn't bet)
+Seat 2: peteruruguay folded before Flop (didn't bet)
+Seat 3: moneyymakerr folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: dercemo folded before Flop (didn't bet)
+Seat 6: FISHERR1983 (button blind) collected ($3)
+
+
+
+PokerStars Hand #196141207619:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:21:01 EET [2019/01/23 19:21:01 ET]
+Table 'Lameia' 6-max Seat #1 is the button
+Seat 1: picka4u ($55.58 in chips) 
+Seat 2: peteruruguay ($73.50 in chips) 
+Seat 3: moneyymakerr ($76.05 in chips) 
+Seat 4: gaiggibeliin ($212.27 in chips) 
+Seat 5: dercemo ($273.18 in chips) 
+Seat 6: FISHERR1983 ($77.50 in chips) 
+picka4u: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+moneyymakerr: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+FISHERR1983: posts the ante $0.50
+picka4u: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9c Js]
+peteruruguay: calls $0.50
+moneyymakerr: raises $2 to $2.50
+gaiggibeliin: folds 
+dercemo: calls $2.50
+FISHERR1983: folds 
+picka4u: calls $2
+peteruruguay: calls $2
+*** FLOP *** [8c Ad 6h]
+peteruruguay: checks 
+moneyymakerr: checks 
+dercemo: bets $12.50
+picka4u: raises $40.08 to $52.58 and is all-in
+peteruruguay: folds 
+moneyymakerr: folds 
+dercemo: calls $40.08
+*** TURN *** [8c Ad 6h] [7h]
+*** RIVER *** [8c Ad 6h 7h] [Ts]
+*** SHOW DOWN ***
+dercemo: shows [Ac Kh] (a pair of Aces)
+picka4u: shows [7s 9h] (a straight, Six to Ten)
+picka4u collected $115.66 from pot
+*** SUMMARY ***
+Total pot $118.16 | Rake $2.50 
+Board [8c Ad 6h 7h Ts]
+Seat 1: picka4u (button blind) showed [7s 9h] and won ($115.66) with a straight, Six to Ten
+Seat 2: peteruruguay folded on the Flop
+Seat 3: moneyymakerr folded on the Flop
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: dercemo showed [Ac Kh] and lost with a pair of Aces
+Seat 6: FISHERR1983 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196141228794:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:21:44 EET [2019/01/23 19:21:44 ET]
+Table 'Lameia' 6-max Seat #2 is the button
+Seat 1: picka4u ($115.66 in chips) 
+Seat 2: peteruruguay ($70.50 in chips) 
+Seat 3: moneyymakerr ($73.05 in chips) 
+Seat 4: gaiggibeliin ($211.77 in chips) 
+Seat 5: dercemo ($217.60 in chips) 
+Seat 6: FISHERR1983 ($77 in chips) 
+picka4u: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+moneyymakerr: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+FISHERR1983: posts the ante $0.50
+peteruruguay: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Td 6h]
+moneyymakerr: folds 
+gaiggibeliin: folds 
+dercemo: calls $0.50
+FISHERR1983: raises $4.50 to $5
+picka4u: raises $110.16 to $115.16 and is all-in
+peteruruguay: folds 
+dercemo: folds 
+FISHERR1983: folds 
+Uncalled bet ($110.16) returned to picka4u
+picka4u collected $14 from pot
+picka4u: doesn't show hand 
+*** SUMMARY ***
+Total pot $14 | Rake $0 
+Seat 1: picka4u collected ($14)
+Seat 2: peteruruguay (button blind) folded before Flop
+Seat 3: moneyymakerr folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: dercemo folded before Flop
+Seat 6: FISHERR1983 folded before Flop
+
+
+
+PokerStars Hand #196141238687:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:22:03 EET [2019/01/23 19:22:03 ET]
+Table 'Lameia' 6-max Seat #3 is the button
+Seat 1: picka4u ($124.16 in chips) 
+Seat 2: peteruruguay ($69.50 in chips) 
+Seat 3: moneyymakerr ($72.55 in chips) 
+Seat 4: gaiggibeliin ($211.27 in chips) 
+Seat 5: dercemo ($216.60 in chips) 
+Seat 6: FISHERR1983 ($75 in chips) 
+picka4u: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+moneyymakerr: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+FISHERR1983: posts the ante $0.50
+moneyymakerr: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qc As]
+gaiggibeliin: calls $0.50
+dercemo: calls $0.50
+FISHERR1983: calls $0.50
+picka4u: folds 
+peteruruguay: calls $0.50
+moneyymakerr: raises $8.50 to $9
+gaiggibeliin: folds 
+dercemo: calls $8.50
+FISHERR1983: folds 
+peteruruguay: folds 
+*** FLOP *** [Kh 8s 9d]
+dercemo: bets $10.50
+moneyymakerr: calls $10.50
+*** TURN *** [Kh 8s 9d] [9h]
+dercemo: bets $20.50
+moneyymakerr: calls $20.50
+*** RIVER *** [Kh 8s 9d 9h] [6c]
+dercemo: bets $176.10 and is all-in
+moneyymakerr: calls $32.05 and is all-in
+Uncalled bet ($144.05) returned to dercemo
+*** SHOW DOWN ***
+dercemo: shows [Ts Jh] (a pair of Nines)
+moneyymakerr: shows [Ks Kd] (a full house, Kings full of Nines)
+moneyymakerr collected $146.10 from pot
+*** SUMMARY ***
+Total pot $148.60 | Rake $2.50 
+Board [Kh 8s 9d 9h 6c]
+Seat 1: picka4u folded before Flop (didn't bet)
+Seat 2: peteruruguay folded before Flop
+Seat 3: moneyymakerr (button blind) showed [Ks Kd] and won ($146.10) with a full house, Kings full of Nines
+Seat 4: gaiggibeliin folded before Flop
+Seat 5: dercemo showed [Ts Jh] and lost with a pair of Nines
+Seat 6: FISHERR1983 folded before Flop
+
+
+
+PokerStars Hand #196141279852:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:23:26 EET [2019/01/23 19:23:26 ET]
+Table 'Lameia' 6-max Seat #4 is the button
+Seat 1: picka4u ($123.66 in chips) 
+Seat 2: peteruruguay ($68.50 in chips) 
+Seat 3: moneyymakerr ($146.10 in chips) 
+Seat 4: gaiggibeliin ($210.27 in chips) 
+Seat 5: dercemo ($144.05 in chips) 
+Seat 6: FISHERR1983 ($75 in chips) 
+picka4u: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+moneyymakerr: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+FISHERR1983: posts the ante $0.50
+gaiggibeliin: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7d Ks]
+dercemo: raises $0.50 to $1
+FISHERR1983: folds 
+picka4u: folds 
+peteruruguay: folds 
+moneyymakerr: calls $1
+gaiggibeliin: calls $0.50
+*** FLOP *** [Ac Ah Kd]
+dercemo: checks 
+moneyymakerr: checks 
+gaiggibeliin: bets $2
+dercemo: calls $2
+moneyymakerr: folds 
+*** TURN *** [Ac Ah Kd] [7c]
+dercemo: checks 
+gaiggibeliin: checks 
+*** RIVER *** [Ac Ah Kd 7c] [Qh]
+dercemo: checks 
+gaiggibeliin: bets $4.94
+dercemo: calls $4.94
+*** SHOW DOWN ***
+gaiggibeliin: shows [7d Ks] (two pair, Aces and Kings)
+dercemo: mucks hand 
+gaiggibeliin collected $18.89 from pot
+*** SUMMARY ***
+Total pot $19.88 | Rake $0.99 
+Board [Ac Ah Kd 7c Qh]
+Seat 1: picka4u folded before Flop (didn't bet)
+Seat 2: peteruruguay folded before Flop (didn't bet)
+Seat 3: moneyymakerr folded on the Flop
+Seat 4: gaiggibeliin (button blind) showed [7d Ks] and won ($18.89) with two pair, Aces and Kings
+Seat 5: dercemo mucked [Qs Th]
+Seat 6: FISHERR1983 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196141302870:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:24:12 EET [2019/01/23 19:24:12 ET]
+Table 'Lameia' 6-max Seat #5 is the button
+Seat 1: picka4u ($123.16 in chips) 
+Seat 2: peteruruguay ($75 in chips) 
+Seat 3: moneyymakerr ($144.60 in chips) 
+Seat 4: gaiggibeliin ($220.72 in chips) 
+Seat 5: dercemo ($135.61 in chips) 
+Seat 6: FISHERR1983 ($75 in chips) 
+picka4u: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+moneyymakerr: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+FISHERR1983: posts the ante $0.50
+dercemo: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jd Kd]
+FISHERR1983: folds 
+picka4u: folds 
+peteruruguay: calls $0.50
+moneyymakerr: raises $2.50 to $3
+gaiggibeliin: calls $3
+dercemo: calls $2.50
+peteruruguay: folds 
+*** FLOP *** [Jh 8h Tc]
+moneyymakerr: bets $6
+gaiggibeliin: folds 
+dercemo: folds 
+Uncalled bet ($6) returned to moneyymakerr
+moneyymakerr collected $11.88 from pot
+*** SUMMARY ***
+Total pot $12.50 | Rake $0.62 
+Board [Jh 8h Tc]
+Seat 1: picka4u folded before Flop (didn't bet)
+Seat 2: peteruruguay folded before Flop
+Seat 3: moneyymakerr collected ($11.88)
+Seat 4: gaiggibeliin folded on the Flop
+Seat 5: dercemo (button blind) folded on the Flop
+Seat 6: FISHERR1983 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196141323680:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:24:55 EET [2019/01/23 19:24:55 ET]
+Table 'Lameia' 6-max Seat #6 is the button
+Seat 1: picka4u ($122.66 in chips) 
+Seat 2: peteruruguay ($74 in chips) 
+Seat 3: moneyymakerr ($152.98 in chips) 
+Seat 4: gaiggibeliin ($217.22 in chips) 
+Seat 5: dercemo ($132.11 in chips) 
+Seat 6: FISHERR1983 ($75 in chips) 
+picka4u: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+moneyymakerr: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+FISHERR1983: posts the ante $0.50
+FISHERR1983: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8s Jd]
+picka4u: folds 
+peteruruguay: folds 
+moneyymakerr: folds 
+gaiggibeliin: folds 
+dercemo: calls $0.50
+FISHERR1983: raises $4.50 to $5
+dercemo: calls $4.50
+*** FLOP *** [9h Tc Kd]
+dercemo: bets $6
+FISHERR1983: raises $24.35 to $30.35
+dercemo: folds 
+Uncalled bet ($24.35) returned to FISHERR1983
+FISHERR1983 collected $23.75 from pot
+FISHERR1983: doesn't show hand 
+*** SUMMARY ***
+Total pot $25 | Rake $1.25 
+Board [9h Tc Kd]
+Seat 1: picka4u folded before Flop (didn't bet)
+Seat 2: peteruruguay folded before Flop (didn't bet)
+Seat 3: moneyymakerr folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: dercemo folded on the Flop
+Seat 6: FISHERR1983 (button blind) collected ($23.75)
+
+
+
+PokerStars Hand #196141337514:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:25:23 EET [2019/01/23 19:25:23 ET]
+Table 'Lameia' 6-max Seat #1 is the button
+Seat 1: picka4u ($122.16 in chips) 
+Seat 2: peteruruguay ($73.50 in chips) 
+Seat 3: moneyymakerr ($152.48 in chips) 
+Seat 4: gaiggibeliin ($216.72 in chips) 
+Seat 5: dercemo ($120.61 in chips) 
+Seat 6: FISHERR1983 ($87.25 in chips) 
+picka4u: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+moneyymakerr: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+FISHERR1983: posts the ante $0.50
+picka4u: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qs Jh]
+peteruruguay: raises $4 to $4.50
+moneyymakerr: folds 
+gaiggibeliin: folds 
+dercemo: calls $4.50
+FISHERR1983: calls $4.50
+picka4u: folds 
+*** FLOP *** [7d 8c Qc]
+peteruruguay: bets $16.15
+dercemo: folds 
+FISHERR1983: folds 
+Uncalled bet ($16.15) returned to peteruruguay
+peteruruguay collected $16.15 from pot
+*** SUMMARY ***
+Total pot $17 | Rake $0.85 
+Board [7d 8c Qc]
+Seat 1: picka4u (button blind) folded before Flop
+Seat 2: peteruruguay collected ($16.15)
+Seat 3: moneyymakerr folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: dercemo folded on the Flop
+Seat 6: FISHERR1983 folded on the Flop
+
+
+
+PokerStars Hand #196141359603:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:26:08 EET [2019/01/23 19:26:08 ET]
+Table 'Lameia' 6-max Seat #2 is the button
+Seat 1: picka4u ($121.16 in chips) 
+Seat 2: peteruruguay ($84.65 in chips) 
+Seat 3: moneyymakerr ($151.98 in chips) 
+Seat 4: gaiggibeliin ($216.22 in chips) 
+Seat 5: dercemo ($115.61 in chips) 
+Seat 6: FISHERR1983 ($82.25 in chips) 
+picka4u: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+moneyymakerr: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+FISHERR1983: posts the ante $0.50
+peteruruguay: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qc Kh]
+moneyymakerr: raises $1.50 to $2
+gaiggibeliin: calls $2
+dercemo: raises $1.50 to $3.50
+FISHERR1983: calls $3.50
+picka4u: folds 
+peteruruguay: folds 
+moneyymakerr: calls $1.50
+gaiggibeliin: calls $1.50
+*** FLOP *** [Qd Ks 6d]
+moneyymakerr: checks 
+gaiggibeliin: bets $14
+dercemo: calls $14
+FISHERR1983: calls $14
+moneyymakerr: folds 
+*** TURN *** [Qd Ks 6d] [7c]
+gaiggibeliin: bets $198.22 and is all-in
+dercemo: folds 
+FISHERR1983: folds 
+Uncalled bet ($198.22) returned to gaiggibeliin
+gaiggibeliin collected $57 from pot
+*** SUMMARY ***
+Total pot $59.50 | Rake $2.50 
+Board [Qd Ks 6d 7c]
+Seat 1: picka4u folded before Flop (didn't bet)
+Seat 2: peteruruguay (button blind) folded before Flop
+Seat 3: moneyymakerr folded on the Flop
+Seat 4: gaiggibeliin collected ($57)
+Seat 5: dercemo folded on the Turn
+Seat 6: FISHERR1983 folded on the Turn
+
+
+
+PokerStars Hand #196141397067:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:27:24 EET [2019/01/23 19:27:24 ET]
+Table 'Lameia' 6-max Seat #3 is the button
+Seat 1: picka4u ($120.66 in chips) 
+Seat 2: peteruruguay ($83.65 in chips) 
+Seat 3: moneyymakerr ($147.98 in chips) 
+Seat 4: gaiggibeliin ($255.22 in chips) 
+Seat 5: dercemo ($97.61 in chips) 
+Seat 6: FISHERR1983 ($75 in chips) 
+picka4u: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+moneyymakerr: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+FISHERR1983: posts the ante $0.50
+moneyymakerr: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6s Qh]
+gaiggibeliin: folds 
+dercemo: calls $0.50
+FISHERR1983: calls $0.50
+picka4u: raises $2.50 to $3
+peteruruguay: calls $3
+moneyymakerr: folds 
+dercemo: calls $2.50
+FISHERR1983: calls $2.50
+*** FLOP *** [8d Js Jc]
+dercemo: checks 
+FISHERR1983: checks 
+picka4u: checks 
+peteruruguay: checks 
+*** TURN *** [8d Js Jc] [Jd]
+dercemo: checks 
+FISHERR1983: checks 
+picka4u: checks 
+peteruruguay: checks 
+*** RIVER *** [8d Js Jc Jd] [Ac]
+dercemo: checks 
+FISHERR1983: checks 
+picka4u: checks 
+peteruruguay: checks 
+*** SHOW DOWN ***
+dercemo: shows [Qc Ts] (three of a kind, Jacks)
+FISHERR1983: shows [8c 9d] (a full house, Jacks full of Eights)
+picka4u: shows [9s As] (a full house, Jacks full of Aces)
+peteruruguay: mucks hand 
+picka4u collected $14.72 from pot
+*** SUMMARY ***
+Total pot $15.50 | Rake $0.78 
+Board [8d Js Jc Jd Ac]
+Seat 1: picka4u showed [9s As] and won ($14.72) with a full house, Jacks full of Aces
+Seat 2: peteruruguay mucked [Qd Kc]
+Seat 3: moneyymakerr (button blind) folded before Flop
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: dercemo showed [Qc Ts] and lost with three of a kind, Jacks
+Seat 6: FISHERR1983 showed [8c 9d] and lost with a full house, Jacks full of Eights
+
+
+
+PokerStars Hand #196141425419:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:28:23 EET [2019/01/23 19:28:23 ET]
+Table 'Lameia' 6-max Seat #4 is the button
+Seat 1: picka4u ($131.88 in chips) 
+Seat 2: peteruruguay ($80.15 in chips) 
+Seat 3: moneyymakerr ($146.98 in chips) 
+Seat 4: gaiggibeliin ($254.72 in chips) 
+Seat 5: dercemo ($94.11 in chips) 
+Seat 6: FISHERR1983 ($75 in chips) 
+picka4u: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+moneyymakerr: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+FISHERR1983: posts the ante $0.50
+gaiggibeliin: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qd Qc]
+dercemo: raises $0.50 to $1
+FISHERR1983: calls $1
+picka4u: folds 
+peteruruguay: raises $6.50 to $7.50
+moneyymakerr: calls $7.50
+gaiggibeliin: raises $246.72 to $254.22 and is all-in
+dercemo: folds 
+FISHERR1983: folds 
+peteruruguay: folds 
+moneyymakerr: folds 
+Uncalled bet ($246.72) returned to gaiggibeliin
+gaiggibeliin collected $27.50 from pot
+*** SUMMARY ***
+Total pot $27.50 | Rake $0 
+Seat 1: picka4u folded before Flop (didn't bet)
+Seat 2: peteruruguay folded before Flop
+Seat 3: moneyymakerr folded before Flop
+Seat 4: gaiggibeliin (button blind) collected ($27.50)
+Seat 5: dercemo folded before Flop
+Seat 6: FISHERR1983 folded before Flop
+
+
+
+PokerStars Hand #196141437423:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:28:47 EET [2019/01/23 19:28:47 ET]
+Table 'Lameia' 6-max Seat #5 is the button
+Seat 1: picka4u ($131.38 in chips) 
+Seat 2: peteruruguay ($72.15 in chips) 
+Seat 3: moneyymakerr ($138.98 in chips) 
+Seat 4: gaiggibeliin ($274.22 in chips) 
+Seat 5: dercemo ($92.61 in chips) 
+Seat 6: FISHERR1983 ($75 in chips) 
+picka4u: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+moneyymakerr: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+FISHERR1983: posts the ante $0.50
+dercemo: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kh Ac]
+FISHERR1983: folds 
+picka4u: folds 
+peteruruguay: folds 
+moneyymakerr: folds 
+gaiggibeliin: folds 
+Uncalled bet ($0.50) returned to dercemo
+dercemo collected $3 from pot
+dercemo: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0 
+Seat 1: picka4u folded before Flop (didn't bet)
+Seat 2: peteruruguay folded before Flop (didn't bet)
+Seat 3: moneyymakerr folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: dercemo (button blind) collected ($3)
+Seat 6: FISHERR1983 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196141442030:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:28:57 EET [2019/01/23 19:28:57 ET]
+Table 'Lameia' 6-max Seat #6 is the button
+Seat 1: picka4u ($130.88 in chips) 
+Seat 2: peteruruguay ($71.65 in chips) 
+Seat 3: moneyymakerr ($138.48 in chips) 
+Seat 4: gaiggibeliin ($273.72 in chips) 
+Seat 5: dercemo ($95.11 in chips) 
+Seat 6: FISHERR1983 ($75 in chips) 
+picka4u: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+moneyymakerr: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+FISHERR1983: posts the ante $0.50
+FISHERR1983: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Th 9h]
+picka4u: folds 
+peteruruguay: raises $4 to $4.50
+moneyymakerr: folds 
+gaiggibeliin: calls $4.50
+dercemo: raises $4 to $8.50
+FISHERR1983: folds 
+peteruruguay: raises $62.65 to $71.15 and is all-in
+gaiggibeliin: folds 
+dercemo: calls $62.65
+*** FLOP *** [Ad 7s 8d]
+*** TURN *** [Ad 7s 8d] [7d]
+*** RIVER *** [Ad 7s 8d 7d] [Td]
+*** SHOW DOWN ***
+peteruruguay: shows [Jd Jc] (a flush, Ace high)
+dercemo: shows [Kc Ac] (two pair, Aces and Sevens)
+peteruruguay collected $147.80 from pot
+*** SUMMARY ***
+Total pot $150.30 | Rake $2.50 
+Board [Ad 7s 8d 7d Td]
+Seat 1: picka4u folded before Flop (didn't bet)
+Seat 2: peteruruguay showed [Jd Jc] and won ($147.80) with a flush, Ace high
+Seat 3: moneyymakerr folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop
+Seat 5: dercemo showed [Kc Ac] and lost with two pair, Aces and Sevens
+Seat 6: FISHERR1983 (button blind) folded before Flop
+
+
+
+PokerStars Hand #196141464994:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:29:45 EET [2019/01/23 19:29:45 ET]
+Table 'Lameia' 6-max Seat #1 is the button
+Seat 1: picka4u ($130.38 in chips) 
+Seat 2: peteruruguay ($147.80 in chips) 
+Seat 3: moneyymakerr ($137.98 in chips) 
+Seat 4: gaiggibeliin ($268.72 in chips) 
+Seat 5: dercemo ($23.46 in chips) 
+Seat 6: FISHERR1983 ($75 in chips) 
+picka4u: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+moneyymakerr: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+FISHERR1983: posts the ante $0.50
+picka4u: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ks 6c]
+peteruruguay: calls $0.50
+moneyymakerr: folds 
+gaiggibeliin: folds 
+dercemo: raises $0.50 to $1
+FISHERR1983: folds 
+picka4u: calls $0.50
+peteruruguay: calls $0.50
+*** FLOP *** [Qc Th 7s]
+peteruruguay: checks 
+dercemo: bets $3
+picka4u: calls $3
+peteruruguay: folds 
+*** TURN *** [Qc Th 7s] [Ad]
+dercemo: checks 
+picka4u: checks 
+*** RIVER *** [Qc Th 7s Ad] [Qh]
+dercemo: checks 
+picka4u: checks 
+*** SHOW DOWN ***
+dercemo: shows [8d 8c] (two pair, Queens and Eights)
+picka4u: mucks hand 
+dercemo collected $11.40 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.60 
+Board [Qc Th 7s Ad Qh]
+Seat 1: picka4u (button blind) mucked [Kc 9d]
+Seat 2: peteruruguay folded on the Flop
+Seat 3: moneyymakerr folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: dercemo showed [8d 8c] and won ($11.40) with two pair, Queens and Eights
+Seat 6: FISHERR1983 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196141488318:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:30:33 EET [2019/01/23 19:30:33 ET]
+Table 'Lameia' 6-max Seat #2 is the button
+Seat 1: picka4u ($125.88 in chips) 
+Seat 2: peteruruguay ($146.30 in chips) 
+Seat 3: moneyymakerr ($137.48 in chips) 
+Seat 4: gaiggibeliin ($268.22 in chips) 
+Seat 5: dercemo ($30.36 in chips) 
+Seat 6: FISHERR1983 ($75 in chips) 
+picka4u: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+moneyymakerr: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+FISHERR1983: posts the ante $0.50
+peteruruguay: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6c 7s]
+moneyymakerr: raises $3 to $3.50
+gaiggibeliin: folds 
+dercemo: calls $3.50
+FISHERR1983: raises $14.50 to $18
+picka4u: folds 
+peteruruguay: folds 
+moneyymakerr: folds 
+dercemo: folds 
+Uncalled bet ($14.50) returned to FISHERR1983
+FISHERR1983 collected $14 from pot
+FISHERR1983: doesn't show hand 
+*** SUMMARY ***
+Total pot $14 | Rake $0 
+Seat 1: picka4u folded before Flop (didn't bet)
+Seat 2: peteruruguay (button blind) folded before Flop
+Seat 3: moneyymakerr folded before Flop
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: dercemo folded before Flop
+Seat 6: FISHERR1983 collected ($14)
+
+
+
+PokerStars Hand #196141500362:  6+ Hold'em No Limit (Button Blind $0.50 - Ante $0.50  USD) - 2019/01/24 2:30:58 EET [2019/01/23 19:30:58 ET]
+Table 'Lameia' 6-max Seat #3 is the button
+Seat 1: picka4u ($125.38 in chips) 
+Seat 2: peteruruguay ($145.30 in chips) 
+Seat 3: moneyymakerr ($133.48 in chips) 
+Seat 4: gaiggibeliin ($267.72 in chips) 
+Seat 5: dercemo ($26.36 in chips) 
+Seat 6: FISHERR1983 ($85 in chips) 
+picka4u: posts the ante $0.50
+peteruruguay: posts the ante $0.50
+moneyymakerr: posts the ante $0.50
+gaiggibeliin: posts the ante $0.50
+dercemo: posts the ante $0.50
+FISHERR1983: posts the ante $0.50
+moneyymakerr: posts button blind $0.50
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ks Jc]
+gaiggibeliin: calls $0.50
+dercemo: calls $0.50
+FISHERR1983: folds 
+picka4u: folds 
+peteruruguay: raises $5 to $5.50
+moneyymakerr: folds 
+gaiggibeliin: calls $5
+dercemo: calls $5
+*** FLOP *** [8c 7s Th]
+gaiggibeliin: checks 
+dercemo: bets $20.36 and is all-in
+moneyymakerr leaves the table
+peteruruguay: folds 
+gaiggibeliin: folds 
+Uncalled bet ($20.36) returned to dercemo
+dercemo collected $19 from pot
+dercemo: doesn't show hand 
+*** SUMMARY ***
+Total pot $20 | Rake $1 
+Board [8c 7s Th]
+Seat 1: picka4u folded before Flop (didn't bet)
+Seat 2: peteruruguay folded on the Flop
+Seat 3: moneyymakerr (button blind) folded before Flop
+Seat 4: gaiggibeliin folded on the Flop
+Seat 5: dercemo collected ($19)
+Seat 6: FISHERR1983 folded before Flop (didn't bet)
+
+
+

@@ -1,0 +1,1227 @@
+﻿PokerStars Hand #196214048727:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 22:57:03 EET [2019/01/25 15:57:03 ET]
+Table 'Sazava' 6-max Seat #4 is the button
+Seat 1: DEDTAWIWASA ($210.65 in chips) 
+Seat 2: Zsiffin ($350.32 in chips) 
+Seat 4: Xerophyten ($257.53 in chips) 
+Seat 5: Zihuatanejo3 ($164.95 in chips) 
+Seat 6: gaiggibeliin ($150 in chips) 
+DEDTAWIWASA: posts the ante $1
+Zsiffin: posts the ante $1
+Xerophyten: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Xerophyten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8d Ks]
+Zihuatanejo3: folds 
+gaiggibeliin: folds 
+DEDTAWIWASA: folds 
+Zsiffin: folds 
+Uncalled bet ($1) returned to Xerophyten
+Xerophyten collected $5 from pot
+Xerophyten: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 1: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 2: Zsiffin folded before Flop (didn't bet)
+Seat 4: Xerophyten (button blind) collected ($5)
+Seat 5: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196214054882:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 22:57:13 EET [2019/01/25 15:57:13 ET]
+Table 'Sazava' 6-max Seat #5 is the button
+Seat 1: DEDTAWIWASA ($209.65 in chips) 
+Seat 2: Zsiffin ($349.32 in chips) 
+Seat 4: Xerophyten ($261.53 in chips) 
+Seat 5: Zihuatanejo3 ($163.95 in chips) 
+Seat 6: gaiggibeliin ($149 in chips) 
+DEDTAWIWASA: posts the ante $1
+Zsiffin: posts the ante $1
+Xerophyten: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Zihuatanejo3: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8s 9c]
+gaiggibeliin: calls $1
+DEDTAWIWASA: raises $10 to $11
+Zsiffin: folds 
+Xerophyten: folds 
+Zihuatanejo3: folds 
+gaiggibeliin: calls $10
+*** FLOP *** [8d 8c 7s]
+gaiggibeliin: checks 
+DEDTAWIWASA: bets $19.42
+gaiggibeliin: calls $19.42
+*** TURN *** [8d 8c 7s] [Kh]
+charlyneitor joins the table at seat #3 
+gaiggibeliin: checks 
+DEDTAWIWASA: bets $39
+gaiggibeliin: calls $39
+*** RIVER *** [8d 8c 7s Kh] [Js]
+gaiggibeliin: checks 
+DEDTAWIWASA: checks 
+*** SHOW DOWN ***
+gaiggibeliin: shows [8s 9c] (three of a kind, Eights)
+DEDTAWIWASA: mucks hand 
+gaiggibeliin collected $142.09 from pot
+*** SUMMARY ***
+Total pot $144.84 | Rake $2.75 
+Board [8d 8c 7s Kh Js]
+Seat 1: DEDTAWIWASA mucked [Qd Qh]
+Seat 2: Zsiffin folded before Flop (didn't bet)
+Seat 4: Xerophyten folded before Flop (didn't bet)
+Seat 5: Zihuatanejo3 (button blind) folded before Flop
+Seat 6: gaiggibeliin showed [8s 9c] and won ($142.09) with three of a kind, Eights
+
+
+
+PokerStars Hand #196214093425:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 22:58:15 EET [2019/01/25 15:58:15 ET]
+Table 'Sazava' 6-max Seat #6 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: Zsiffin ($348.32 in chips) 
+Seat 3: charlyneitor ($150 in chips) 
+Seat 4: Xerophyten ($260.53 in chips) 
+Seat 5: Zihuatanejo3 ($161.95 in chips) 
+Seat 6: gaiggibeliin ($220.67 in chips) 
+DEDTAWIWASA: posts the ante $1
+Zsiffin: posts the ante $1
+charlyneitor: posts the ante $1
+Xerophyten: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jc Qh]
+DEDTAWIWASA: folds 
+Zsiffin: folds 
+charlyneitor: folds 
+Xerophyten: calls $1
+Zihuatanejo3: calls $1
+gaiggibeliin: checks 
+*** FLOP *** [Td 6c Ks]
+Xerophyten: checks 
+Zihuatanejo3: checks 
+gaiggibeliin: bets $6.41
+Xerophyten: folds 
+Zihuatanejo3: folds 
+Uncalled bet ($6.41) returned to gaiggibeliin
+gaiggibeliin collected $8.55 from pot
+*** SUMMARY ***
+Total pot $9 | Rake $0.45 
+Board [Td 6c Ks]
+Seat 1: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 2: Zsiffin folded before Flop (didn't bet)
+Seat 3: charlyneitor folded before Flop (didn't bet)
+Seat 4: Xerophyten folded on the Flop
+Seat 5: Zihuatanejo3 folded on the Flop
+Seat 6: gaiggibeliin (button blind) collected ($8.55)
+
+
+
+PokerStars Hand #196214150991:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 22:59:49 EET [2019/01/25 15:59:49 ET]
+Table 'Sazava' 6-max Seat #1 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: Zsiffin ($347.32 in chips) 
+Seat 3: charlyneitor ($149 in chips) 
+Seat 4: Xerophyten ($258.53 in chips) 
+Seat 5: Zihuatanejo3 ($159.95 in chips) 
+Seat 6: gaiggibeliin ($227.22 in chips) 
+DEDTAWIWASA: posts the ante $1
+Zsiffin: posts the ante $1
+charlyneitor: posts the ante $1
+Xerophyten: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Tc 8h]
+Zsiffin: folds 
+charlyneitor: folds 
+Xerophyten: folds 
+Zihuatanejo3: folds 
+gaiggibeliin: folds 
+Uncalled bet ($1) returned to DEDTAWIWASA
+DEDTAWIWASA collected $6 from pot
+DEDTAWIWASA: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: DEDTAWIWASA (button blind) collected ($6)
+Seat 2: Zsiffin folded before Flop (didn't bet)
+Seat 3: charlyneitor folded before Flop (didn't bet)
+Seat 4: Xerophyten folded before Flop (didn't bet)
+Seat 5: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196214169289:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 23:00:18 EET [2019/01/25 16:00:18 ET]
+Table 'Sazava' 6-max Seat #2 is the button
+Seat 1: DEDTAWIWASA ($155 in chips) 
+Seat 2: Zsiffin ($346.32 in chips) 
+Seat 3: charlyneitor ($148 in chips) 
+Seat 4: Xerophyten ($257.53 in chips) 
+Seat 5: Zihuatanejo3 ($158.95 in chips) 
+Seat 6: gaiggibeliin ($226.22 in chips) 
+DEDTAWIWASA: posts the ante $1
+Zsiffin: posts the ante $1
+charlyneitor: posts the ante $1
+Xerophyten: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Zsiffin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6d 8h]
+charlyneitor: folds 
+Xerophyten: calls $1
+Zihuatanejo3: calls $1
+gaiggibeliin: folds 
+DEDTAWIWASA: folds 
+Zsiffin: checks 
+*** FLOP *** [Qd Js 9c]
+Xerophyten: checks 
+Zihuatanejo3: bets $6.85
+Zsiffin: folds 
+Xerophyten: calls $6.85
+*** TURN *** [Qd Js 9c] [6s]
+Xerophyten: checks 
+Zihuatanejo3: bets $16.50
+Xerophyten: calls $16.50
+*** RIVER *** [Qd Js 9c 6s] [Tc]
+Xerophyten: checks 
+Zihuatanejo3: checks 
+*** SHOW DOWN ***
+Xerophyten: shows [8c Th] (a straight, Eight to Queen)
+Zihuatanejo3: mucks hand 
+Xerophyten collected $52.95 from pot
+*** SUMMARY ***
+Total pot $55.70 | Rake $2.75 
+Board [Qd Js 9c 6s Tc]
+Seat 1: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 2: Zsiffin (button blind) folded on the Flop
+Seat 3: charlyneitor folded before Flop (didn't bet)
+Seat 4: Xerophyten showed [8c Th] and won ($52.95) with a straight, Eight to Queen
+Seat 5: Zihuatanejo3 mucked [Qc Jd]
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196214217881:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 23:01:30 EET [2019/01/25 16:01:30 ET]
+Table 'Sazava' 6-max Seat #3 is the button
+Seat 1: DEDTAWIWASA ($154 in chips) 
+Seat 2: Zsiffin ($344.32 in chips) 
+Seat 3: charlyneitor ($147 in chips) 
+Seat 4: Xerophyten ($285.13 in chips) 
+Seat 5: Zihuatanejo3 ($133.60 in chips) 
+Seat 6: gaiggibeliin ($225.22 in chips) 
+DEDTAWIWASA: posts the ante $1
+Zsiffin: posts the ante $1
+charlyneitor: posts the ante $1
+Xerophyten: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+charlyneitor: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7s 6h]
+Xerophyten: calls $1
+Zihuatanejo3: calls $1
+gaiggibeliin: calls $1
+DEDTAWIWASA: calls $1
+Zsiffin: folds 
+charlyneitor: checks 
+*** FLOP *** [Jc Kc 6d]
+Xerophyten: checks 
+Zihuatanejo3: checks 
+gaiggibeliin: checks 
+DEDTAWIWASA: bets $8
+charlyneitor: folds 
+Xerophyten: folds 
+Zihuatanejo3: folds 
+gaiggibeliin: folds 
+Uncalled bet ($8) returned to DEDTAWIWASA
+DEDTAWIWASA collected $10.45 from pot
+DEDTAWIWASA: doesn't show hand 
+*** SUMMARY ***
+Total pot $11 | Rake $0.55 
+Board [Jc Kc 6d]
+Seat 1: DEDTAWIWASA collected ($10.45)
+Seat 2: Zsiffin folded before Flop (didn't bet)
+Seat 3: charlyneitor (button blind) folded on the Flop
+Seat 4: Xerophyten folded on the Flop
+Seat 5: Zihuatanejo3 folded on the Flop
+Seat 6: gaiggibeliin folded on the Flop
+
+
+
+PokerStars Hand #196214262208:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 23:02:29 EET [2019/01/25 16:02:29 ET]
+Table 'Sazava' 6-max Seat #4 is the button
+Seat 1: DEDTAWIWASA ($162.45 in chips) 
+Seat 2: Zsiffin ($343.32 in chips) 
+Seat 3: charlyneitor ($145 in chips) 
+Seat 4: Xerophyten ($283.13 in chips) 
+Seat 5: Zihuatanejo3 ($131.60 in chips) 
+Seat 6: gaiggibeliin ($223.22 in chips) 
+DEDTAWIWASA: posts the ante $1
+Zsiffin: posts the ante $1
+charlyneitor: posts the ante $1
+Xerophyten: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Xerophyten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ts Kh]
+Zihuatanejo3: folds 
+gaiggibeliin: folds 
+DEDTAWIWASA: raises $8 to $9
+Zsiffin: folds 
+charlyneitor: folds 
+Xerophyten: calls $8
+*** FLOP *** [Th 9d Kc]
+DEDTAWIWASA: checks 
+Xerophyten: checks 
+*** TURN *** [Th 9d Kc] [8d]
+DEDTAWIWASA: checks 
+Xerophyten: bets $11
+DEDTAWIWASA: calls $11
+*** RIVER *** [Th 9d Kc 8d] [7d]
+DEDTAWIWASA: checks 
+Xerophyten: checks 
+*** SHOW DOWN ***
+DEDTAWIWASA: shows [Qh Qs] (a pair of Queens)
+Xerophyten: shows [8h 9c] (two pair, Nines and Eights)
+Xerophyten collected $43.70 from pot
+*** SUMMARY ***
+Total pot $46 | Rake $2.30 
+Board [Th 9d Kc 8d 7d]
+Seat 1: DEDTAWIWASA showed [Qh Qs] and lost with a pair of Queens
+Seat 2: Zsiffin folded before Flop (didn't bet)
+Seat 3: charlyneitor folded before Flop (didn't bet)
+Seat 4: Xerophyten (button blind) showed [8h 9c] and won ($43.70) with two pair, Nines and Eights
+Seat 5: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196214285066:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 23:02:58 EET [2019/01/25 16:02:58 ET]
+Table 'Sazava' 6-max Seat #5 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: Zsiffin ($342.32 in chips) 
+Seat 3: charlyneitor ($144 in chips) 
+Seat 4: Xerophyten ($305.83 in chips) 
+Seat 5: Zihuatanejo3 ($130.60 in chips) 
+Seat 6: gaiggibeliin ($222.22 in chips) 
+DEDTAWIWASA: posts the ante $1
+Zsiffin: posts the ante $1
+charlyneitor: posts the ante $1
+Xerophyten: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Zihuatanejo3: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Th 6s]
+gaiggibeliin: folds 
+DEDTAWIWASA: folds 
+Zsiffin: raises $4 to $5
+charlyneitor: folds 
+Xerophyten: folds 
+Zihuatanejo3: calls $4
+*** FLOP *** [6d 8c 8d]
+Zsiffin: checks 
+Zihuatanejo3: checks 
+*** TURN *** [6d 8c 8d] [Jc]
+Zsiffin: bets $11
+Zihuatanejo3: folds 
+Uncalled bet ($11) returned to Zsiffin
+Zsiffin collected $15.20 from pot
+Zsiffin: doesn't show hand 
+*** SUMMARY ***
+Total pot $16 | Rake $0.80 
+Board [6d 8c 8d Jc]
+Seat 1: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 2: Zsiffin collected ($15.20)
+Seat 3: charlyneitor folded before Flop (didn't bet)
+Seat 4: Xerophyten folded before Flop (didn't bet)
+Seat 5: Zihuatanejo3 (button blind) folded on the Turn
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196214331959:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 23:04:00 EET [2019/01/25 16:04:00 ET]
+Table 'Sazava' 6-max Seat #6 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: Zsiffin ($351.52 in chips) 
+Seat 3: charlyneitor ($143 in chips) 
+Seat 4: Xerophyten ($304.83 in chips) 
+Seat 5: Zihuatanejo3 ($124.60 in chips) 
+Seat 6: gaiggibeliin ($221.22 in chips) 
+DEDTAWIWASA: posts the ante $1
+Zsiffin: posts the ante $1
+charlyneitor: posts the ante $1
+Xerophyten: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6h Js]
+DEDTAWIWASA: folds 
+Zsiffin: folds 
+charlyneitor: calls $1
+Xerophyten: raises $8 to $9
+Zihuatanejo3: folds 
+gaiggibeliin: folds 
+charlyneitor: folds 
+Uncalled bet ($8) returned to Xerophyten
+Xerophyten collected $9 from pot
+Xerophyten: doesn't show hand 
+*** SUMMARY ***
+Total pot $9 | Rake $0 
+Seat 1: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 2: Zsiffin folded before Flop (didn't bet)
+Seat 3: charlyneitor folded before Flop
+Seat 4: Xerophyten collected ($9)
+Seat 5: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 6: gaiggibeliin (button blind) folded before Flop
+
+
+
+PokerStars Hand #196214361686:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 23:04:38 EET [2019/01/25 16:04:38 ET]
+Table 'Sazava' 6-max Seat #1 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: Zsiffin ($350.52 in chips) 
+Seat 3: charlyneitor ($141 in chips) 
+Seat 4: Xerophyten ($311.83 in chips) 
+Seat 5: Zihuatanejo3 ($123.60 in chips) 
+Seat 6: gaiggibeliin ($219.22 in chips) 
+DEDTAWIWASA: posts the ante $1
+Zsiffin: posts the ante $1
+charlyneitor: posts the ante $1
+Xerophyten: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6d Td]
+Zsiffin: folds 
+charlyneitor: folds 
+Xerophyten: folds 
+charlyneitor leaves the table
+Zihuatanejo3: raises $4 to $5
+gaiggibeliin: folds 
+DEDTAWIWASA: raises $144 to $149 and is all-in
+Zihuatanejo3: calls $117.60 and is all-in
+Uncalled bet ($26.40) returned to DEDTAWIWASA
+*** FLOP *** [7s Js Qs]
+*** TURN *** [7s Js Qs] [7h]
+*** RIVER *** [7s Js Qs 7h] [Jd]
+*** SHOW DOWN ***
+Zihuatanejo3: shows [Ah Ad] (two pair, Aces and Jacks)
+DEDTAWIWASA: shows [Kh Ac] (two pair, Jacks and Sevens)
+Zihuatanejo3 collected $248.45 from pot
+*** SUMMARY ***
+Total pot $251.20 | Rake $2.75 
+Board [7s Js Qs 7h Jd]
+Seat 1: DEDTAWIWASA (button blind) showed [Kh Ac] and lost with two pair, Jacks and Sevens
+Seat 2: Zsiffin folded before Flop (didn't bet)
+Seat 3: charlyneitor folded before Flop (didn't bet)
+Seat 4: Xerophyten folded before Flop (didn't bet)
+Seat 5: Zihuatanejo3 showed [Ah Ad] and won ($248.45) with two pair, Aces and Jacks
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196214401468:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 23:05:29 EET [2019/01/25 16:05:29 ET]
+Table 'Sazava' 6-max Seat #2 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: Zsiffin ($349.52 in chips) 
+Seat 4: Xerophyten ($310.83 in chips) 
+Seat 5: Zihuatanejo3 ($248.45 in chips) 
+Seat 6: gaiggibeliin ($218.22 in chips) 
+DEDTAWIWASA: posts the ante $1
+Zsiffin: posts the ante $1
+Xerophyten: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Zsiffin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6h Th]
+Xerophyten: folds 
+Zihuatanejo3: calls $1
+gaiggibeliin: folds 
+DEDTAWIWASA: folds 
+Zsiffin: checks 
+*** FLOP *** [7s 7d Qh]
+Zihuatanejo3: bets $3.50
+Zsiffin: folds 
+Uncalled bet ($3.50) returned to Zihuatanejo3
+Zihuatanejo3 collected $6.65 from pot
+*** SUMMARY ***
+Total pot $7 | Rake $0.35 
+Board [7s 7d Qh]
+Seat 1: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 2: Zsiffin (button blind) folded on the Flop
+Seat 4: Xerophyten folded before Flop (didn't bet)
+Seat 5: Zihuatanejo3 collected ($6.65)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196214426214:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 23:06:01 EET [2019/01/25 16:06:01 ET]
+Table 'Sazava' 6-max Seat #4 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: Zsiffin ($347.52 in chips) 
+Seat 4: Xerophyten ($309.83 in chips) 
+Seat 5: Zihuatanejo3 ($253.10 in chips) 
+Seat 6: gaiggibeliin ($217.22 in chips) 
+DEDTAWIWASA: posts the ante $1
+Zsiffin: posts the ante $1
+Xerophyten: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Xerophyten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Tc 6c]
+Zihuatanejo3: calls $1
+gaiggibeliin: folds 
+DEDTAWIWASA: calls $1
+Zsiffin: folds 
+Xerophyten: checks 
+*** FLOP *** [8d Kd 8h]
+obabasas joins the table at seat #3 
+Zihuatanejo3: bets $5.65
+DEDTAWIWASA: calls $5.65
+Xerophyten: folds 
+*** TURN *** [8d Kd 8h] [7c]
+Zihuatanejo3: checks 
+DEDTAWIWASA: checks 
+*** RIVER *** [8d Kd 8h 7c] [7h]
+Zihuatanejo3: checks 
+DEDTAWIWASA: checks 
+*** SHOW DOWN ***
+Zihuatanejo3: shows [Qs Qh] (two pair, Queens and Eights)
+DEDTAWIWASA: shows [Jh Ks] (two pair, Kings and Eights)
+DEDTAWIWASA collected $18.34 from pot
+*** SUMMARY ***
+Total pot $19.30 | Rake $0.96 
+Board [8d Kd 8h 7c 7h]
+Seat 1: DEDTAWIWASA showed [Jh Ks] and won ($18.34) with two pair, Kings and Eights
+Seat 2: Zsiffin folded before Flop (didn't bet)
+Seat 4: Xerophyten (button blind) folded on the Flop
+Seat 5: Zihuatanejo3 showed [Qs Qh] and lost with two pair, Queens and Eights
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196214470894:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 23:06:58 EET [2019/01/25 16:06:58 ET]
+Table 'Sazava' 6-max Seat #6 is the button
+Seat 1: DEDTAWIWASA ($160.69 in chips) 
+Seat 2: Zsiffin ($346.52 in chips) 
+Seat 3: obabasas ($104.80 in chips) 
+Seat 4: Xerophyten ($307.83 in chips) 
+Seat 6: gaiggibeliin ($216.22 in chips) 
+DEDTAWIWASA: posts the ante $1
+Zsiffin: posts the ante $1
+obabasas: posts the ante $1
+Xerophyten: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kc Qh]
+DEDTAWIWASA: folds 
+Zsiffin: folds 
+obabasas: calls $1
+Xerophyten: raises $8 to $9
+gaiggibeliin: calls $8
+obabasas: folds 
+*** FLOP *** [8h 7c Th]
+Xerophyten: checks 
+gaiggibeliin: checks 
+*** TURN *** [8h 7c Th] [Qd]
+Xerophyten: checks 
+gaiggibeliin: checks 
+*** RIVER *** [8h 7c Th Qd] [Qs]
+Xerophyten: checks 
+Zihuatanejo3 leaves the table
+gaiggibeliin: bets $15.28
+Xerophyten: folds 
+Uncalled bet ($15.28) returned to gaiggibeliin
+gaiggibeliin collected $22.80 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $1.20 
+Board [8h 7c Th Qd Qs]
+Seat 1: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 2: Zsiffin folded before Flop (didn't bet)
+Seat 3: obabasas folded before Flop
+Seat 4: Xerophyten folded on the River
+Seat 6: gaiggibeliin (button blind) collected ($22.80)
+
+
+
+PokerStars Hand #196214519142:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 23:07:53 EET [2019/01/25 16:07:53 ET]
+Table 'Sazava' 6-max Seat #1 is the button
+Seat 1: DEDTAWIWASA ($159.69 in chips) 
+Seat 2: Zsiffin ($345.52 in chips) 
+Seat 3: obabasas ($102.80 in chips) 
+Seat 4: Xerophyten ($297.83 in chips) 
+Seat 6: gaiggibeliin ($229.02 in chips) 
+DEDTAWIWASA: posts the ante $1
+Zsiffin: posts the ante $1
+obabasas: posts the ante $1
+Xerophyten: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kd 8d]
+Zsiffin: folds 
+obabasas: raises $1.50 to $2.50
+Xerophyten: folds 
+gaiggibeliin: folds 
+DEDTAWIWASA: folds 
+Uncalled bet ($1.50) returned to obabasas
+obabasas collected $7 from pot
+obabasas: doesn't show hand 
+*** SUMMARY ***
+Total pot $7 | Rake $0 
+Seat 1: DEDTAWIWASA (button blind) folded before Flop
+Seat 2: Zsiffin folded before Flop (didn't bet)
+Seat 3: obabasas collected ($7)
+Seat 4: Xerophyten folded before Flop (didn't bet)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196214528290:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 23:08:05 EET [2019/01/25 16:08:05 ET]
+Table 'Sazava' 6-max Seat #2 is the button
+Seat 1: DEDTAWIWASA ($157.69 in chips) 
+Seat 2: Zsiffin ($344.52 in chips) 
+Seat 3: obabasas ($107.80 in chips) 
+Seat 4: Xerophyten ($296.83 in chips) 
+Seat 6: gaiggibeliin ($228.02 in chips) 
+DEDTAWIWASA: posts the ante $1
+Zsiffin: posts the ante $1
+obabasas: posts the ante $1
+Xerophyten: posts the ante $1
+gaiggibeliin: posts the ante $1
+Zsiffin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qs 9s]
+obabasas: folds 
+Xerophyten: folds 
+gaiggibeliin: calls $1
+DEDTAWIWASA: raises $8 to $9
+Zsiffin: calls $8
+gaiggibeliin: calls $8
+*** FLOP *** [7s Js Ac]
+gaiggibeliin: checks 
+DEDTAWIWASA: checks 
+Zsiffin: checks 
+*** TURN *** [7s Js Ac] [Ad]
+gaiggibeliin: bets $20.37
+DEDTAWIWASA: folds 
+Zsiffin: folds 
+Uncalled bet ($20.37) returned to gaiggibeliin
+gaiggibeliin collected $30.40 from pot
+*** SUMMARY ***
+Total pot $32 | Rake $1.60 
+Board [7s Js Ac Ad]
+Seat 1: DEDTAWIWASA folded on the Turn
+Seat 2: Zsiffin (button blind) folded on the Turn
+Seat 3: obabasas folded before Flop (didn't bet)
+Seat 4: Xerophyten folded before Flop (didn't bet)
+Seat 6: gaiggibeliin collected ($30.40)
+
+
+
+PokerStars Hand #196214564304:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 23:08:52 EET [2019/01/25 16:08:52 ET]
+Table 'Sazava' 6-max Seat #3 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: Zsiffin ($334.52 in chips) 
+Seat 3: obabasas ($106.80 in chips) 
+Seat 4: Xerophyten ($295.83 in chips) 
+Seat 6: gaiggibeliin ($248.42 in chips) 
+DEDTAWIWASA: posts the ante $1
+Zsiffin: posts the ante $1
+obabasas: posts the ante $1
+Xerophyten: posts the ante $1
+gaiggibeliin: posts the ante $1
+obabasas: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qd 6c]
+Xerophyten: calls $1
+gaiggibeliin: folds 
+DEDTAWIWASA: raises $9 to $10
+Zsiffin: folds 
+obabasas: calls $9
+Xerophyten: folds 
+*** FLOP *** [Js 7s 7h]
+DEDTAWIWASA: checks 
+obabasas: checks 
+*** TURN *** [Js 7s 7h] [Kh]
+DEDTAWIWASA: bets $19
+obabasas: calls $19
+*** RIVER *** [Js 7s 7h Kh] [6d]
+DEDTAWIWASA: checks 
+obabasas: bets $39.81
+DEDTAWIWASA: calls $39.81
+*** SHOW DOWN ***
+obabasas: shows [Qs Tc] (a pair of Sevens)
+DEDTAWIWASA: shows [Ah Kd] (two pair, Kings and Sevens)
+DEDTAWIWASA collected $140.87 from pot
+*** SUMMARY ***
+Total pot $143.62 | Rake $2.75 
+Board [Js 7s 7h Kh 6d]
+Seat 1: DEDTAWIWASA showed [Ah Kd] and won ($140.87) with two pair, Kings and Sevens
+Seat 2: Zsiffin folded before Flop (didn't bet)
+Seat 3: obabasas (button blind) showed [Qs Tc] and lost with a pair of Sevens
+Seat 4: Xerophyten folded before Flop
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196214587962:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 23:09:22 EET [2019/01/25 16:09:22 ET]
+Table 'Sazava' 6-max Seat #4 is the button
+Seat 1: DEDTAWIWASA ($221.06 in chips) 
+Seat 2: Zsiffin ($333.52 in chips) 
+Seat 3: obabasas ($36.99 in chips) 
+Seat 4: Xerophyten ($293.83 in chips) 
+Seat 6: gaiggibeliin ($247.42 in chips) 
+DEDTAWIWASA: posts the ante $1
+Zsiffin: posts the ante $1
+obabasas: posts the ante $1
+Xerophyten: posts the ante $1
+gaiggibeliin: posts the ante $1
+Xerophyten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9c Kc]
+gaiggibeliin: folds 
+DEDTAWIWASA: raises $8 to $9
+Zsiffin: folds 
+obabasas: folds 
+Xerophyten: folds 
+Uncalled bet ($8) returned to DEDTAWIWASA
+DEDTAWIWASA collected $7 from pot
+DEDTAWIWASA: doesn't show hand 
+*** SUMMARY ***
+Total pot $7 | Rake $0 
+Seat 1: DEDTAWIWASA collected ($7)
+Seat 2: Zsiffin folded before Flop (didn't bet)
+Seat 3: obabasas folded before Flop (didn't bet)
+Seat 4: Xerophyten (button blind) folded before Flop
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196214617656:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 23:10:01 EET [2019/01/25 16:10:01 ET]
+Table 'Sazava' 6-max Seat #6 is the button
+Seat 1: DEDTAWIWASA ($226.06 in chips) 
+Seat 2: Zsiffin ($332.52 in chips) 
+Seat 3: obabasas ($35.99 in chips) 
+Seat 4: Xerophyten ($291.83 in chips) 
+Seat 6: gaiggibeliin ($246.42 in chips) 
+DEDTAWIWASA: posts the ante $1
+Zsiffin: posts the ante $1
+obabasas: posts the ante $1
+Xerophyten: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7d 9c]
+DEDTAWIWASA: folds 
+Zsiffin: folds 
+obabasas: folds 
+Xerophyten: calls $1
+gaiggibeliin: checks 
+*** FLOP *** [6s Ts 8d]
+Xerophyten: bets $3
+gaiggibeliin: raises $9 to $12
+Xerophyten: calls $9
+*** TURN *** [6s Ts 8d] [Ac]
+Xerophyten: checks 
+gaiggibeliin: bets $22.09
+Xerophyten: calls $22.09
+*** RIVER *** [6s Ts 8d Ac] [Qh]
+Xerophyten: checks 
+gaiggibeliin: bets $54.32
+Xerophyten: folds 
+Uncalled bet ($54.32) returned to gaiggibeliin
+gaiggibeliin collected $72.43 from pot
+*** SUMMARY ***
+Total pot $75.18 | Rake $2.75 
+Board [6s Ts 8d Ac Qh]
+Seat 1: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 2: Zsiffin folded before Flop (didn't bet)
+Seat 3: obabasas folded before Flop (didn't bet)
+Seat 4: Xerophyten folded on the River
+Seat 6: gaiggibeliin (button blind) collected ($72.43)
+
+
+
+PokerStars Hand #196214657163:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 23:10:51 EET [2019/01/25 16:10:51 ET]
+Table 'Sazava' 6-max Seat #1 is the button
+Seat 1: DEDTAWIWASA ($225.06 in chips) 
+Seat 2: Zsiffin ($331.52 in chips) 
+Seat 3: obabasas ($34.99 in chips) 
+Seat 4: Xerophyten ($255.74 in chips) 
+Seat 6: gaiggibeliin ($282.76 in chips) 
+DEDTAWIWASA: posts the ante $1
+Zsiffin: posts the ante $1
+obabasas: posts the ante $1
+Xerophyten: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qh Ts]
+Zsiffin: folds 
+obabasas: raises $32.99 to $33.99 and is all-in
+Xerophyten: folds 
+gaiggibeliin: folds 
+DEDTAWIWASA: folds 
+Uncalled bet ($32.99) returned to obabasas
+obabasas collected $7 from pot
+obabasas: doesn't show hand 
+*** SUMMARY ***
+Total pot $7 | Rake $0 
+Seat 1: DEDTAWIWASA (button blind) folded before Flop
+Seat 2: Zsiffin folded before Flop (didn't bet)
+Seat 3: obabasas collected ($7)
+Seat 4: Xerophyten folded before Flop (didn't bet)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196214667044:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 23:11:04 EET [2019/01/25 16:11:04 ET]
+Table 'Sazava' 6-max Seat #2 is the button
+Seat 1: DEDTAWIWASA ($223.06 in chips) 
+Seat 2: Zsiffin ($330.52 in chips) 
+Seat 3: obabasas ($39.99 in chips) 
+Seat 4: Xerophyten ($254.74 in chips) 
+Seat 6: gaiggibeliin ($281.76 in chips) 
+DEDTAWIWASA: posts the ante $1
+Zsiffin: posts the ante $1
+obabasas: posts the ante $1
+Xerophyten: posts the ante $1
+gaiggibeliin: posts the ante $1
+Zsiffin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ts Ad]
+obabasas: folds 
+Xerophyten: folds 
+gaiggibeliin: calls $1
+DEDTAWIWASA: calls $1
+Zsiffin: checks 
+*** FLOP *** [Ah Qc 6s]
+gaiggibeliin: bets $3.95
+DEDTAWIWASA: calls $3.95
+Zsiffin: calls $3.95
+*** TURN *** [Ah Qc 6s] [7d]
+gaiggibeliin: checks 
+DEDTAWIWASA: checks 
+Zsiffin: bets $13
+gaiggibeliin: folds 
+DEDTAWIWASA: folds 
+Uncalled bet ($13) returned to Zsiffin
+Zsiffin collected $18.86 from pot
+*** SUMMARY ***
+Total pot $19.85 | Rake $0.99 
+Board [Ah Qc 6s 7d]
+Seat 1: DEDTAWIWASA folded on the Turn
+Seat 2: Zsiffin (button blind) collected ($18.86)
+Seat 3: obabasas folded before Flop (didn't bet)
+Seat 4: Xerophyten folded before Flop (didn't bet)
+Seat 6: gaiggibeliin folded on the Turn
+
+
+
+PokerStars Hand #196222044279:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 2:04:40 EET [2019/01/25 19:04:40 ET]
+Table 'Sazava' 6-max Seat #1 is the button
+Seat 1: DEDTAWIWASA ($191.42 in chips) 
+Seat 2: garompon ($868.95 in chips) 
+Seat 3: gaiggibeliin ($150 in chips) 
+Seat 6: MrBarrett82 ($143.35 in chips) 
+DEDTAWIWASA: posts the ante $1
+garompon: posts the ante $1
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts the ante $1
+DEDTAWIWASA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ac 7d]
+BomPang is disconnected 
+garompon: raises $4 to $5
+gaiggibeliin: folds 
+MrBarrett82: calls $5
+DEDTAWIWASA: calls $4
+*** FLOP *** [Ad 7c Qh]
+garompon: checks 
+MrBarrett82: bets $12
+DEDTAWIWASA: folds 
+garompon: folds 
+Uncalled bet ($12) returned to MrBarrett82
+MrBarrett82 collected $18.05 from pot
+MrBarrett82: doesn't show hand 
+*** SUMMARY ***
+Total pot $19 | Rake $0.95 
+Board [Ad 7c Qh]
+Seat 1: DEDTAWIWASA (button blind) folded on the Flop
+Seat 2: garompon folded on the Flop
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: MrBarrett82 collected ($18.05)
+
+
+
+PokerStars Hand #196222079538:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 2:05:40 EET [2019/01/25 19:05:40 ET]
+Table 'Sazava' 6-max Seat #2 is the button
+Seat 1: DEDTAWIWASA ($185.42 in chips) 
+Seat 2: garompon ($862.95 in chips) 
+Seat 3: gaiggibeliin ($149 in chips) 
+Seat 6: MrBarrett82 ($155.40 in chips) 
+DEDTAWIWASA: posts the ante $1
+garompon: posts the ante $1
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts the ante $1
+garompon: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7c Js]
+gaiggibeliin: folds 
+MrBarrett82: raises $7 to $8
+DEDTAWIWASA: folds 
+garompon: calls $7
+*** FLOP *** [Kh Kd Ah]
+MrBarrett82: checks 
+garompon: bets $9.50
+MrBarrett82: folds 
+Uncalled bet ($9.50) returned to garompon
+garompon collected $19 from pot
+garompon: doesn't show hand 
+*** SUMMARY ***
+Total pot $20 | Rake $1 
+Board [Kh Kd Ah]
+Seat 1: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 2: garompon (button blind) collected ($19)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: MrBarrett82 folded on the Flop
+
+
+
+PokerStars Hand #196222109060:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 2:06:30 EET [2019/01/25 19:06:30 ET]
+Table 'Sazava' 6-max Seat #3 is the button
+Seat 1: DEDTAWIWASA ($184.42 in chips) 
+Seat 2: garompon ($872.95 in chips) 
+Seat 3: gaiggibeliin ($148 in chips) 
+Seat 6: MrBarrett82 ($146.40 in chips) 
+DEDTAWIWASA: posts the ante $1
+garompon: posts the ante $1
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Td Ac]
+MrBarrett82: calls $1
+DEDTAWIWASA: folds 
+garompon: calls $1
+gaiggibeliin: checks 
+*** FLOP *** [Ks Ts Jd]
+MrBarrett82: bets $5
+garompon: calls $5
+gaiggibeliin: folds 
+*** TURN *** [Ks Ts Jd] [Qs]
+MrBarrett82: checks 
+garompon: bets $11.31
+MrBarrett82: calls $11.31
+*** RIVER *** [Ks Ts Jd Qs] [6c]
+MrBarrett82: checks 
+garompon: bets $75
+MrBarrett82: folds 
+Uncalled bet ($75) returned to garompon
+garompon collected $38.37 from pot
+garompon: doesn't show hand 
+*** SUMMARY ***
+Total pot $39.62 | Rake $1.25 
+Board [Ks Ts Jd Qs 6c]
+Seat 1: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 2: garompon collected ($38.37)
+Seat 3: gaiggibeliin (button blind) folded on the Flop
+Seat 6: MrBarrett82 folded on the River
+
+
+
+PokerStars Hand #196222163449:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 2:08:03 EET [2019/01/25 19:08:03 ET]
+Table 'Sazava' 6-max Seat #6 is the button
+Seat 1: DEDTAWIWASA ($183.42 in chips) 
+Seat 3: gaiggibeliin ($146 in chips) 
+Seat 6: MrBarrett82 ($128.09 in chips) 
+DEDTAWIWASA: posts the ante $1
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8h Jd]
+garompon leaves the table
+DEDTAWIWASA: folds 
+gaiggibeliin: folds 
+Uncalled bet ($1) returned to MrBarrett82
+MrBarrett82 collected $3 from pot
+MrBarrett82: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0 
+Seat 1: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: MrBarrett82 (button blind) collected ($3)
+
+
+
+PokerStars Hand #196222172655:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 2:08:19 EET [2019/01/25 19:08:19 ET]
+Table 'Sazava' 6-max Seat #1 is the button
+Seat 1: DEDTAWIWASA ($182.42 in chips) 
+Seat 3: gaiggibeliin ($145 in chips) 
+Seat 6: MrBarrett82 ($130.09 in chips) 
+DEDTAWIWASA: posts the ante $1
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts the ante $1
+DEDTAWIWASA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kh Jc]
+gaiggibeliin: raises $5 to $6
+MrBarrett82: calls $6
+DEDTAWIWASA: folds 
+*** FLOP *** [7d 6c Ks]
+gaiggibeliin: checks 
+MrBarrett82: bets $10
+gaiggibeliin: calls $10
+*** TURN *** [7d 6c Ks] [6s]
+gaiggibeliin: checks 
+MrBarrett82: checks 
+*** RIVER *** [7d 6c Ks 6s] [7c]
+gaiggibeliin: checks 
+MrBarrett82: checks 
+*** SHOW DOWN ***
+gaiggibeliin: shows [Kh Jc] (two pair, Kings and Sevens)
+MrBarrett82: mucks hand 
+gaiggibeliin collected $34.75 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $1.25 
+Board [7d 6c Ks 6s 7c]
+Seat 1: DEDTAWIWASA (button blind) folded before Flop
+Seat 3: gaiggibeliin showed [Kh Jc] and won ($34.75) with two pair, Kings and Sevens
+Seat 6: MrBarrett82 mucked [8h 9c]
+
+
+
+PokerStars Hand #196222214650:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 2:09:32 EET [2019/01/25 19:09:32 ET]
+Table 'Sazava' 6-max Seat #3 is the button
+Seat 1: DEDTAWIWASA ($180.42 in chips) 
+Seat 3: gaiggibeliin ($162.75 in chips) 
+Seat 6: MrBarrett82 ($113.09 in chips) 
+DEDTAWIWASA: posts the ante $1
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ad 6d]
+MrBarrett82: calls $1
+DEDTAWIWASA: folds 
+gaiggibeliin: checks 
+*** FLOP *** [6h 7c 6s]
+MrBarrett82: checks 
+gaiggibeliin: bets $3.18
+MrBarrett82: folds 
+Uncalled bet ($3.18) returned to gaiggibeliin
+gaiggibeliin collected $4.75 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [6h 7c 6s]
+Seat 1: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 3: gaiggibeliin (button blind) collected ($4.75)
+Seat 6: MrBarrett82 folded on the Flop
+
+
+
+PokerStars Hand #196222241141:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 2:10:18 EET [2019/01/25 19:10:18 ET]
+Table 'Sazava' 6-max Seat #6 is the button
+Seat 1: DEDTAWIWASA ($179.42 in chips) 
+Seat 3: gaiggibeliin ($165.50 in chips) 
+Seat 6: MrBarrett82 ($111.09 in chips) 
+DEDTAWIWASA: posts the ante $1
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Td 7h]
+DEDTAWIWASA: raises $7 to $8
+gaiggibeliin: folds 
+MrBarrett82: folds 
+Uncalled bet ($7) returned to DEDTAWIWASA
+DEDTAWIWASA collected $5 from pot
+DEDTAWIWASA: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 1: DEDTAWIWASA collected ($5)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: MrBarrett82 (button blind) folded before Flop
+
+
+
+PokerStars Hand #196222254784:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 2:10:42 EET [2019/01/25 19:10:42 ET]
+Table 'Sazava' 6-max Seat #1 is the button
+Seat 1: DEDTAWIWASA ($182.42 in chips) 
+Seat 3: gaiggibeliin ($164.50 in chips) 
+Seat 6: MrBarrett82 ($109.09 in chips) 
+DEDTAWIWASA: posts the ante $1
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts the ante $1
+DEDTAWIWASA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ks Js]
+gaiggibeliin: raises $7 to $8
+MrBarrett82: folds 
+DEDTAWIWASA: folds 
+Uncalled bet ($7) returned to gaiggibeliin
+gaiggibeliin collected $5 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 1: DEDTAWIWASA (button blind) folded before Flop
+Seat 3: gaiggibeliin collected ($5)
+Seat 6: MrBarrett82 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196222264189:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 2:10:59 EET [2019/01/25 19:10:59 ET]
+Table 'Sazava' 6-max Seat #3 is the button
+Seat 1: DEDTAWIWASA ($180.42 in chips) 
+Seat 3: gaiggibeliin ($167.50 in chips) 
+Seat 6: MrBarrett82 ($108.09 in chips) 
+DEDTAWIWASA: posts the ante $1
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7s 9c]
+MrBarrett82: calls $1
+DEDTAWIWASA: folds 
+gaiggibeliin: checks 
+*** FLOP *** [6c Qs Ac]
+MrBarrett82: bets $3
+gaiggibeliin: raises $6 to $9
+MrBarrett82: folds 
+Uncalled bet ($6) returned to gaiggibeliin
+gaiggibeliin collected $10.45 from pot
+*** SUMMARY ***
+Total pot $11 | Rake $0.55 
+Board [6c Qs Ac]
+Seat 1: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 3: gaiggibeliin (button blind) collected ($10.45)
+Seat 6: MrBarrett82 folded on the Flop
+
+
+
+PokerStars Hand #196222312558:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 2:12:24 EET [2019/01/25 19:12:24 ET]
+Table 'Sazava' 6-max Seat #6 is the button
+Seat 1: DEDTAWIWASA ($179.42 in chips) 
+Seat 3: gaiggibeliin ($172.95 in chips) 
+Seat 6: MrBarrett82 ($103.09 in chips) 
+DEDTAWIWASA: posts the ante $1
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7d Kh]
+DEDTAWIWASA: folds 
+gaiggibeliin: folds 
+Uncalled bet ($1) returned to MrBarrett82
+MrBarrett82 collected $3 from pot
+MrBarrett82: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0 
+Seat 1: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: MrBarrett82 (button blind) collected ($3)
+
+
+
+PokerStars Hand #196222315387:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 2:12:29 EET [2019/01/25 19:12:29 ET]
+Table 'Sazava' 6-max Seat #1 is the button
+Seat 1: DEDTAWIWASA ($178.42 in chips) 
+Seat 3: gaiggibeliin ($171.95 in chips) 
+Seat 6: MrBarrett82 ($105.09 in chips) 
+DEDTAWIWASA: posts the ante $1
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts the ante $1
+DEDTAWIWASA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9s 6s]
+gaiggibeliin: raises $7 to $8
+MrBarrett82: folds 
+DEDTAWIWASA: folds 
+Uncalled bet ($7) returned to gaiggibeliin
+gaiggibeliin collected $5 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 1: DEDTAWIWASA (button blind) folded before Flop
+Seat 3: gaiggibeliin collected ($5)
+Seat 6: MrBarrett82 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196222325964:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 2:12:48 EET [2019/01/25 19:12:48 ET]
+Table 'Sazava' 6-max Seat #3 is the button
+Seat 1: DEDTAWIWASA ($176.42 in chips) 
+Seat 3: gaiggibeliin ($174.95 in chips) 
+Seat 6: MrBarrett82 ($104.09 in chips) 
+DEDTAWIWASA: posts the ante $1
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jc 7c]
+MrBarrett82: calls $1
+DEDTAWIWASA: folds 
+gaiggibeliin: checks 
+*** FLOP *** [6d 6c 7h]
+MrBarrett82: checks 
+gaiggibeliin: bets $3.18
+MrBarrett82: folds 
+Uncalled bet ($3.18) returned to gaiggibeliin
+gaiggibeliin collected $4.75 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [6d 6c 7h]
+Seat 1: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 3: gaiggibeliin (button blind) collected ($4.75)
+Seat 6: MrBarrett82 folded on the Flop
+
+
+
+PokerStars Hand #196222347968:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 2:13:27 EET [2019/01/25 19:13:27 ET]
+Table 'Sazava' 6-max Seat #1 is the button
+Seat 1: DEDTAWIWASA ($175.42 in chips) 
+Seat 3: gaiggibeliin ($177.70 in chips) 
+DEDTAWIWASA: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Tc Kd]
+MrBarrett82 leaves the table
+gaiggibeliin: calls $1
+DEDTAWIWASA: raises $8 to $9
+gaiggibeliin: calls $8
+*** FLOP *** [Ts Jd 9h]
+gaiggibeliin: checks 
+DEDTAWIWASA: checks 
+*** TURN *** [Ts Jd 9h] [Td]
+gaiggibeliin: bets $14.25
+DEDTAWIWASA: calls $14.25
+*** RIVER *** [Ts Jd 9h Td] [Ah]
+gaiggibeliin: bets $35.44
+DEDTAWIWASA: calls $35.44
+*** SHOW DOWN ***
+gaiggibeliin: shows [Tc Kd] (three of a kind, Tens)
+DEDTAWIWASA: mucks hand 
+gaiggibeliin collected $118.13 from pot
+*** SUMMARY ***
+Total pot $119.38 | Rake $1.25 
+Board [Ts Jd 9h Td Ah]
+Seat 1: DEDTAWIWASA (button blind) mucked [Jh Ac]
+Seat 3: gaiggibeliin showed [Tc Kd] and won ($118.13) with three of a kind, Tens
+
+
+

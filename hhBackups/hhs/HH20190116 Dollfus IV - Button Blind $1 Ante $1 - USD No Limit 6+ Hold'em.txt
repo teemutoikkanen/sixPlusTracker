@@ -1,0 +1,1436 @@
+﻿PokerStars Hand #195842960259:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:32:49 EET [2019/01/16 18:32:49 ET]
+Table 'Dollfus IV' 6-max Seat #5 is the button
+Seat 1: gaiggibeliin ($200 in chips) 
+Seat 2: NitNytoski ($190 in chips) 
+Seat 3: wnbgambler ($187 in chips) 
+Seat 4: Iskendre ($596.18 in chips) 
+Seat 5: madjic1 ($781.03 in chips) 
+Seat 6: Napoleons ($342.10 in chips) 
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+wnbgambler: posts the ante $1
+Iskendre: posts the ante $1
+madjic1: posts the ante $1
+Napoleons: posts the ante $1
+madjic1: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jh Kd]
+Napoleons: folds 
+gaiggibeliin: folds 
+NitNytoski: folds 
+wnbgambler: folds 
+Iskendre: calls $1
+madjic1: checks 
+*** FLOP *** [9c Jc Qd]
+Iskendre: bets $6
+madjic1: calls $6
+*** TURN *** [9c Jc Qd] [Qs]
+Iskendre: checks 
+madjic1: bets $14.25
+Iskendre: calls $14.25
+*** RIVER *** [9c Jc Qd Qs] [Ac]
+Iskendre: checks 
+madjic1: bets $27.56
+Iskendre said, "sick I am good but can t raise"
+Iskendre said, "lol"
+Iskendre: calls $27.56
+*** SHOW DOWN ***
+madjic1: shows [Kh 8h] (a pair of Queens)
+Iskendre: shows [Jd Qc] (a full house, Queens full of Jacks)
+Iskendre collected $100.87 from pot
+*** SUMMARY ***
+Total pot $103.62 | Rake $2.75 
+Board [9c Jc Qd Qs Ac]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: NitNytoski folded before Flop (didn't bet)
+Seat 3: wnbgambler folded before Flop (didn't bet)
+Seat 4: Iskendre showed [Jd Qc] and won ($100.87) with a full house, Queens full of Jacks
+Seat 5: madjic1 (button blind) showed [Kh 8h] and lost with a pair of Queens
+Seat 6: Napoleons folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #195843017463:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:34:20 EET [2019/01/16 18:34:20 ET]
+Table 'Dollfus IV' 6-max Seat #6 is the button
+Seat 1: gaiggibeliin ($199 in chips) 
+Seat 2: NitNytoski ($189 in chips) 
+Seat 3: wnbgambler ($186 in chips) 
+Seat 4: Iskendre ($647.24 in chips) 
+Seat 6: Napoleons ($341.10 in chips) 
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+wnbgambler: posts the ante $1
+Iskendre: posts the ante $1
+Napoleons: posts the ante $1
+Napoleons: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ks As]
+gaig gibe liin: raises $7 to $8
+NitNytoski: folds 
+wnbgambler: folds 
+Iskendre: folds 
+Na pole ons: calls $7
+*** FLOP *** [9c Kc 9s]
+gaiggibeliin: checks 
+Napoleons: checks 
+*** TURN *** [9c Kc 9s] [Qh]
+madjic1 leaves the table
+gaiggibeliin: bets $10.37
+Napoleons: folds 
+Uncalled bet ($10.37) returned to gaiggibeliin
+gaiggibeliin collected $19.95 from pot
+*** SUMMARY ***
+Total pot $21 | Rake $1.05 
+Board [9c Kc 9s Qh]
+Seat 1: gaiggibeliin collected ($19.95)
+Seat 2: NitNytoski folded before Flop (didn't bet)
+Seat 3: wnbgambler folded before Flop (didn't bet)
+Seat 4: Iskendre folded before Flop (didn't bet)
+Seat 6: Napoleons (button blind) folded on the Turn
+
+
+
+PokerStars Hand #195843045275:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:35:04 EET [2019/01/16 18:35:04 ET]
+Table 'Dollfus IV' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($209.95 in chips) 
+Seat 2: NitNytoski ($188 in chips) 
+Seat 3: wnbgambler ($185 in chips) 
+Seat 4: Iskendre ($646.24 in chips) 
+Seat 6: Napoleons ($332.10 in chips) 
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+wnbgambler: posts the ante $1
+Iskendre: posts the ante $1
+Napoleons: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Js Kd]
+NitNytoski: folds 
+wnbgambler: raises $5 to $6
+Iskendre: folds 
+Napoleons: folds 
+gaiggibeliin: calls $5
+*** FLOP *** [7c Jc Tc]
+WeeeeezyF joins the table at seat #5 
+wnbgambler: checks 
+gaiggibeliin: checks 
+*** TURN *** [7c Jc Tc] [Ac]
+wnbgambler: checks 
+gaiggibeliin: checks 
+*** RIVER *** [7c Jc Tc Ac] [As]
+wnbgambler: checks 
+gaiggibeliin: checks 
+*** SHOW DOWN ***
+wnbgambler: shows [9s Ts] (two pair, Aces and Tens)
+gaiggibeliin: shows [Js Kd] (two pair, Aces and Jacks)
+gaiggibeliin collected $16.15 from pot
+*** SUMMARY ***
+Total pot $17 | Rake $0.85 
+Board [7c Jc Tc Ac As]
+Seat 1: gaiggibeliin (button blind) showed [Js Kd] and won ($16.15) with two pair, Aces and Jacks
+Seat 2: NitNytoski folded before Flop (didn't bet)
+Seat 3: wnbgambler showed [9s Ts] and lost with two pair, Aces and Tens
+Seat 4: Iskendre folded before Flop (didn't bet)
+Seat 6: Napoleons folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #195843081246:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:36:01 EET [2019/01/16 18:36:01 ET]
+Table 'Dollfus IV' 6-max Seat #2 is the button
+Seat 1: gaiggibeliin ($219.10 in chips) 
+Seat 2: NitNytoski ($187 in chips) 
+Seat 3: wnbgambler ($178 in chips) 
+Seat 4: Iskendre ($645.24 in chips) 
+Seat 5: WeeeeezyF ($200 in chips) 
+Seat 6: Napoleons ($331.10 in chips) 
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+wnbgambler: posts the ante $1
+Iskendre: posts the ante $1
+WeeeeezyF: posts the ante $1
+Napoleons: posts the ante $1
+NitNytoski: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kd 6h]
+wnbgambler: folds 
+Iskendre: calls $1
+WeeeeezyF: raises $7 to $8
+Napoleons: folds 
+gaiggibeliin: folds 
+NitNytoski: calls $7
+Iskendre: calls $7
+*** FLOP *** [Th Jd Kc]
+Iskendre: checks 
+WeeeeezyF: bets $13
+NitNytoski: calls $13
+Iskendre: folds 
+*** TURN *** [Th Jd Kc] [Qs]
+WeeeeezyF: checks 
+NitNytoski: checks 
+*** RIVER *** [Th Jd Kc Qs] [9h]
+WeeeeezyF: checks 
+NitNytoski: checks 
+*** SHOW DOWN ***
+WeeeeezyF: shows [Td Ts] (a straight, Nine to King)
+NitNytoski: shows [Jh Qd] (a straight, Nine to King)
+WeeeeezyF collected $26.63 from pot
+NitNytoski collected $26.62 from pot
+*** SUMMARY ***
+Total pot $56 | Rake $2.75 
+Board [Th Jd Kc Qs 9h]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: NitNytoski (button blind) showed [Jh Qd] and won ($26.62) with a straight, Nine to King
+Seat 3: wnbgambler folded before Flop (didn't bet)
+Seat 4: Iskendre folded on the Flop
+Seat 5: WeeeeezyF showed [Td Ts] and won ($26.63) with a straight, Nine to King
+Seat 6: Napoleons folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #195843128239:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:37:16 EET [2019/01/16 18:37:16 ET]
+Table 'Dollfus IV' 6-max Seat #3 is the button
+Seat 1: gaiggibeliin ($218.10 in chips) 
+Seat 2: NitNytoski ($191.62 in chips) 
+Seat 3: wnbgambler ($177 in chips) 
+Seat 4: Iskendre ($636.24 in chips) 
+Seat 5: WeeeeezyF ($204.63 in chips) 
+Seat 6: Napoleons ($330.10 in chips) 
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+wnbgambler: posts the ante $1
+Iskendre: posts the ante $1
+WeeeeezyF: posts the ante $1
+Napoleons: posts the ante $1
+wnbgambler: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jc As]
+Iskendre: calls $1
+WeeeeezyF: raises $9 to $10
+Napoleons: calls $10
+gaiggibeliin: folds 
+NitNytoski: folds 
+wnbgambler: raises $108 to $118
+Iskendre: folds 
+WeeeeezyF: folds 
+Napoleons: calls $108
+*** FLOP *** [7d 8c 6h]
+Napoleons: checks 
+wnbgambler: bets $58 and is all-in
+Napoleons: calls $58
+*** TURN *** [7d 8c 6h] [Qh]
+*** RIVER *** [7d 8c 6h Qh] [Kh]
+*** SHOW DOWN ***
+Napoleons: shows [Js Qs] (a pair of Queens)
+wnbgambler: shows [Kd Ks] (three of a kind, Kings)
+wnbgambler collected $366.25 from pot
+*** SUMMARY ***
+Total pot $369 | Rake $2.75 
+Board [7d 8c 6h Qh Kh]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: NitNytoski folded before Flop (didn't bet)
+Seat 3: wnbgambler (button blind) showed [Kd Ks] and won ($366.25) with three of a kind, Kings
+Seat 4: Iskendre folded before Flop
+Seat 5: WeeeeezyF folded before Flop
+Seat 6: Napoleons showed [Js Qs] and lost with a pair of Queens
+
+
+
+PokerStars Hand #195843165259:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:38:16 EET [2019/01/16 18:38:16 ET]
+Table 'Dollfus IV' 6-max Seat #4 is the button
+Seat 1: gaiggibeliin ($217.10 in chips) 
+Seat 2: NitNytoski ($190.62 in chips) 
+Seat 3: wnbgambler ($366.25 in chips) 
+Seat 4: Iskendre ($634.24 in chips) 
+Seat 5: WeeeeezyF ($193.63 in chips) 
+Seat 6: Napoleons ($153.10 in chips) 
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+wnbgambler: posts the ante $1
+Iskendre: posts the ante $1
+WeeeeezyF: posts the ante $1
+Napoleons: posts the ante $1
+Iskendre: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jd 9c]
+WeeeeezyF: folds 
+Napoleons: folds 
+gaiggibeliin: folds 
+NitNytoski: folds 
+wnbgambler: raises $5 to $6
+Iskendre: raises $19 to $25
+wnbgambler: calls $19
+*** FLOP *** [Ac Qd 6h]
+wnbgambler: checks 
+Iskendre: checks 
+*** TURN *** [Ac Qd 6h] [8h]
+wnbgambler: bets $33.55
+Iskendre: calls $33.55
+*** RIVER *** [Ac Qd 6h 8h] [Th]
+wnbgambler: checks 
+Iskendre: checks 
+*** SHOW DOWN ***
+wnbgambler: shows [Kc As] (a pair of Aces)
+Iskendre: mucks hand 
+wnbgambler collected $120.35 from pot
+*** SUMMARY ***
+Total pot $123.10 | Rake $2.75 
+Board [Ac Qd 6h 8h Th]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: NitNytoski folded before Flop (didn't bet)
+Seat 3: wnbgambler showed [Kc As] and won ($120.35) with a pair of Aces
+Seat 4: Iskendre (button blind) mucked [Ks Kd]
+Seat 5: WeeeeezyF folded before Flop (didn't bet)
+Seat 6: Napoleons folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #195843192014:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:39:00 EET [2019/01/16 18:39:00 ET]
+Table 'Dollfus IV' 6-max Seat #5 is the button
+Seat 1: gaiggibeliin ($216.10 in chips) 
+Seat 2: NitNytoski ($189.62 in chips) 
+Seat 3: wnbgambler ($427.05 in chips) 
+Seat 4: Iskendre ($574.69 in chips) 
+Seat 5: WeeeeezyF ($192.63 in chips) 
+Seat 6: Napoleons ($192.10 in chips) 
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+wnbgambler: posts the ante $1
+Iskendre: posts the ante $1
+WeeeeezyF: posts the ante $1
+Napoleons: posts the ante $1
+WeeeeezyF: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ts Jh]
+Napoleons: folds 
+gaiggibeliin: folds 
+NitNytoski: folds 
+wnbgambler: raises $5 to $6
+Iskendre: calls $6
+WeeeeezyF: calls $5
+*** FLOP *** [Qd 6s As]
+wnbgambler: checks 
+Iskendre: bets $18
+WeeeeezyF: calls $18
+wnbgambler: folds 
+*** TURN *** [Qd 6s As] [Ah]
+Iskendre: bets $25
+WeeeeezyF: folds 
+Uncalled bet ($25) returned to Iskendre
+Iskendre collected $57.25 from pot
+Iskendre: doesn't show hand 
+*** SUMMARY ***
+Total pot $60 | Rake $2.75 
+Board [Qd 6s As Ah]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: NitNytoski folded before Flop (didn't bet)
+Seat 3: wnbgambler folded on the Flop
+Seat 4: Iskendre collected ($57.25)
+Seat 5: WeeeeezyF (button blind) folded on the Turn
+Seat 6: Napoleons folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #195843232700:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:40:06 EET [2019/01/16 18:40:06 ET]
+Table 'Dollfus IV' 6-max Seat #6 is the button
+Seat 1: gaiggibeliin ($215.10 in chips) 
+Seat 2: NitNytoski ($188.62 in chips) 
+Seat 3: wnbgambler ($420.05 in chips) 
+Seat 4: Iskendre ($606.94 in chips) 
+Seat 5: WeeeeezyF ($167.63 in chips) 
+Seat 6: Napoleons ($191.10 in chips) 
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+wnbgambler: posts the ante $1
+Iskendre: posts the ante $1
+WeeeeezyF: posts the ante $1
+Napoleons: posts the ante $1
+Napoleons: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Js Jd]
+gaiggibeliin: raises $8 to $9
+NitNytoski: folds 
+wnbgambler: folds 
+Iskendre: folds 
+WeeeeezyF: folds 
+Napoleons: folds 
+Uncalled bet ($8) returned to gaiggibeliin
+gaiggibeliin collected $8 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0 
+Seat 1: gaiggibeliin collected ($8)
+Seat 2: NitNytoski folded before Flop (didn't bet)
+Seat 3: wnbgambler folded before Flop (didn't bet)
+Seat 4: Iskendre folded before Flop (didn't bet)
+Seat 5: WeeeeezyF folded before Flop (didn't bet)
+Seat 6: Napoleons (button blind) folded before Flop
+
+
+
+PokerStars Hand #195843240965:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:40:20 EET [2019/01/16 18:40:20 ET]
+Table 'Dollfus IV' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($221.10 in chips) 
+Seat 2: NitNytoski ($187.62 in chips) 
+Seat 4: Iskendre ($605.94 in chips) 
+Seat 5: WeeeeezyF ($166.63 in chips) 
+Seat 6: Napoleons ($189.10 in chips) 
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+Iskendre: posts the ante $1
+WeeeeezyF: posts the ante $1
+Napoleons: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ah Ts]
+NitNytoski: folds 
+Iskendre: calls $1
+wnbgambler leaves the table
+WeeeeezyF: raises $8 to $9
+Napoleons: calls $9
+gaiggibeliin: folds 
+Iskendre: raises $46 to $55
+WeeeeezyF: folds 
+Napoleons: calls $46
+*** FLOP *** [7h Th Qc]
+Iskendre: bets $549.94 and is all-in
+Napoleons: calls $133.10 and is all-in
+Uncalled bet ($416.84) returned to Iskendre
+*** TURN *** [7h Th Qc] [6h]
+*** RIVER *** [7h Th Qc 6h] [Kh]
+*** SHOW DOWN ***
+Iskendre: shows [Ks Kd] (three of a kind, Kings)
+Napoleons: shows [Js Qh] (a flush, King high)
+Napoleons collected $388.45 from pot
+*** SUMMARY ***
+Total pot $391.20 | Rake $2.75 
+Board [7h Th Qc 6h Kh]
+Seat 1: gaiggibeliin (button blind) folded before Flop
+Seat 2: NitNytoski folded before Flop (didn't bet)
+Seat 4: Iskendre showed [Ks Kd] and lost with three of a kind, Kings
+Seat 5: WeeeeezyF folded before Flop
+Seat 6: Napoleons showed [Js Qh] and won ($388.45) with a flush, King high
+
+
+
+PokerStars Hand #195843268492:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:41:04 EET [2019/01/16 18:41:04 ET]
+Table 'Dollfus IV' 6-max Seat #2 is the button
+Seat 1: gaiggibeliin ($219.10 in chips) 
+Seat 2: NitNytoski ($186.62 in chips) 
+Seat 4: Iskendre ($416.84 in chips) 
+Seat 5: WeeeeezyF ($156.63 in chips) 
+Seat 6: Napoleons ($388.45 in chips) 
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+Iskendre: posts the ante $1
+WeeeeezyF: posts the ante $1
+Napoleons: posts the ante $1
+NitNytoski: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kd Kc]
+Iskendre: folds 
+WeeeeezyF: raises $5 to $6
+Napoleons: calls $6
+gaiggibeliin: raises $24 to $30
+NitNytoski: folds 
+WeeeeezyF: raises $125.63 to $155.63 and is all-in
+Napoleons: folds 
+gaiggibeliin: calls $125.63
+*** FLOP *** [Jc Jh Ah]
+*** TURN *** [Jc Jh Ah] [9d]
+*** RIVER *** [Jc Jh Ah 9d] [8c]
+*** SHOW DOWN ***
+WeeeeezyF: shows [Qh As] (two pair, Aces and Jacks)
+gaiggibeliin: shows [Kd Kc] (two pair, Kings and Jacks)
+WeeeeezyF collected $320.51 from pot
+*** SUMMARY ***
+Total pot $323.26 | Rake $2.75 
+Board [Jc Jh Ah 9d 8c]
+Seat 1: gaiggibeliin showed [Kd Kc] and lost with two pair, Kings and Jacks
+Seat 2: NitNytoski (button blind) folded before Flop
+Seat 4: Iskendre folded before Flop (didn't bet)
+Seat 5: WeeeeezyF showed [Qh As] and won ($320.51) with two pair, Aces and Jacks
+Seat 6: Napoleons folded before Flop
+
+
+
+PokerStars Hand #195843292854:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:41:44 EET [2019/01/16 18:41:44 ET]
+Table 'Dollfus IV' 6-max Seat #4 is the button
+Seat 1: gaiggibeliin ($200 in chips) 
+Seat 2: NitNytoski ($184.62 in chips) 
+Seat 4: Iskendre ($415.84 in chips) 
+Seat 5: WeeeeezyF ($320.51 in chips) 
+Seat 6: Napoleons ($381.45 in chips) 
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+Iskendre: posts the ante $1
+WeeeeezyF: posts the ante $1
+Napoleons: posts the ante $1
+Iskendre: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8s Qh]
+WeeeeezyF: folds 
+Napoleons: folds 
+gaiggibeliin: folds 
+NitNytoski: raises $7 to $8
+Iskendre: calls $7
+*** FLOP *** [6h Ah Jd]
+NitNytoski: checks 
+Iskendre: checks 
+*** TURN *** [6h Ah Jd] [7d]
+NitNytoski: checks 
+Iskendre: bets $18
+NitNytoski: raises $157.62 to $175.62 and is all-in
+Iskendre: folds 
+Uncalled bet ($157.62) returned to NitNytoski
+NitNytoski collected $54.25 from pot
+NitNytoski: doesn't show hand 
+*** SUMMARY ***
+Total pot $57 | Rake $2.75 
+Board [6h Ah Jd 7d]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: NitNytoski collected ($54.25)
+Seat 4: Iskendre (button blind) folded on the Turn
+Seat 5: WeeeeezyF folded before Flop (didn't bet)
+Seat 6: Napoleons folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #195843316735:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:42:23 EET [2019/01/16 18:42:23 ET]
+Table 'Dollfus IV' 6-max Seat #5 is the button
+Seat 1: gaiggibeliin ($199 in chips) 
+Seat 2: NitNytoski ($211.87 in chips) 
+Seat 4: Iskendre ($388.84 in chips) 
+Seat 5: WeeeeezyF ($319.51 in chips) 
+Seat 6: Napoleons ($380.45 in chips) 
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+Iskendre: posts the ante $1
+WeeeeezyF: posts the ante $1
+Napoleons: posts the ante $1
+WeeeeezyF: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7h 6s]
+Napoleons: calls $1
+gaiggibeliin: folds 
+NitNytoski: raises $7 to $8
+Iskendre: calls $8
+WeeeeezyF: folds 
+Napoleons: calls $7
+*** FLOP *** [Tc Ah 6c]
+Napoleons: checks 
+NitNytoski: checks 
+Iskendre: checks 
+*** TURN *** [Tc Ah 6c] [8d]
+Napoleons: checks 
+NitNytoski: checks 
+Iskendre: bets $20
+Napoleons: folds 
+NitNytoski: folds 
+Uncalled bet ($20) returned to Iskendre
+Iskendre collected $28.50 from pot
+Iskendre: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $1.50 
+Board [Tc Ah 6c 8d]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: NitNytoski folded on the Turn
+Seat 4: Iskendre collected ($28.50)
+Seat 5: WeeeeezyF (button blind) folded before Flop
+Seat 6: Napoleons folded on the Turn
+
+
+
+PokerStars Hand #195843343562:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:43:07 EET [2019/01/16 18:43:07 ET]
+Table 'Dollfus IV' 6-max Seat #6 is the button
+Seat 1: gaiggibeliin ($198 in chips) 
+Seat 2: NitNytoski ($202.87 in chips) 
+Seat 4: Iskendre ($408.34 in chips) 
+Seat 5: WeeeeezyF ($317.51 in chips) 
+Seat 6: Napoleons ($371.45 in chips) 
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+Iskendre: posts the ante $1
+WeeeeezyF: posts the ante $1
+Napoleons: posts the ante $1
+Napoleons: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6c Jc]
+gaiggibeliin: folds 
+NitNytoski: folds 
+Iskendre: calls $1
+WeeeeezyF: raises $5 to $6
+Napoleons: folds 
+Iskendre: calls $5
+*** FLOP *** [Kd Ah 8d]
+Iskendre: checks 
+WeeeeezyF: bets $12
+Iskendre: calls $12
+*** TURN *** [Kd Ah 8d] [9h]
+Iskendre: checks 
+S3d3m2 joins the table at seat #3 
+WeeeeezyF: checks 
+*** RIVER *** [Kd Ah 8d 9h] [8h]
+Iskendre: checks 
+WeeeeezyF: checks 
+*** SHOW DOWN ***
+Iskendre: shows [Ks Td] (two pair, Kings and Eights)
+WeeeeezyF: mucks hand 
+Iskendre collected $39.90 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $2.10 
+Board [Kd Ah 8d 9h 8h]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: NitNytoski folded before Flop (didn't bet)
+Seat 4: Iskendre showed [Ks Td] and won ($39.90) with two pair, Kings and Eights
+Seat 5: WeeeeezyF mucked [9c 7c]
+Seat 6: Napoleons (button blind) folded before Flop
+
+
+
+PokerStars Hand #195843375145:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:43:59 EET [2019/01/16 18:43:59 ET]
+Table 'Dollfus IV' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($197 in chips) 
+Seat 2: NitNytoski ($201.87 in chips) 
+Seat 3: S3d3m2 ($153 in chips) 
+Seat 4: Iskendre ($429.24 in chips) 
+Seat 5: WeeeeezyF ($298.51 in chips) 
+Seat 6: Napoleons ($369.45 in chips) 
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+S3d3m2: posts the ante $1
+Iskendre: posts the ante $1
+WeeeeezyF: posts the ante $1
+Napoleons: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kh As]
+NitNytoski: folds 
+S3d3m2: folds 
+Iskendre: calls $1
+WeeeeezyF: raises $7 to $8
+Napoleons: calls $8
+gaiggibeliin: raises $31 to $39
+Iskendre: folds 
+WeeeeezyF: folds 
+Napoleons: calls $31
+*** FLOP *** [Qd Jc 9s]
+Napoleons: bets $47
+gaiggibeliin: folds 
+Uncalled bet ($47) returned to Napoleons
+Napoleons collected $90.25 from pot
+Napoleons: doesn't show hand 
+*** SUMMARY ***
+Total pot $93 | Rake $2.75 
+Board [Qd Jc 9s]
+Seat 1: gaiggibeliin (button blind) folded on the Flop
+Seat 2: NitNytoski folded before Flop (didn't bet)
+Seat 3: S3d3m2 folded before Flop (didn't bet)
+Seat 4: Iskendre folded before Flop
+Seat 5: WeeeeezyF folded before Flop
+Seat 6: Napoleons collected ($90.25)
+
+
+
+PokerStars Hand #195843397103:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:44:35 EET [2019/01/16 18:44:35 ET]
+Table 'Dollfus IV' 6-max Seat #2 is the button
+Seat 1: gaiggibeliin ($157 in chips) 
+Seat 2: NitNytoski ($200.87 in chips) 
+Seat 3: S3d3m2 ($152 in chips) 
+Seat 4: Iskendre ($427.24 in chips) 
+Seat 5: WeeeeezyF ($289.51 in chips) 
+Seat 6: Napoleons ($419.70 in chips) 
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+S3d3m2: posts the ante $1
+Iskendre: posts the ante $1
+WeeeeezyF: posts the ante $1
+Napoleons: posts the ante $1
+NitNytoski: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ad 8h]
+S3d3m2: calls $1
+Iskendre: calls $1
+WeeeeezyF: folds 
+Napoleons: folds 
+gaiggibeliin: folds 
+NitNytoski: checks 
+*** FLOP *** [Qs 8c Kd]
+S3d3m2: checks 
+Iskendre: bets $6
+NitNytoski: folds 
+S3d3m2: folds 
+Uncalled bet ($6) returned to Iskendre
+Iskendre collected $8.55 from pot
+Iskendre: doesn't show hand 
+*** SUMMARY ***
+Total pot $9 | Rake $0.45 
+Board [Qs 8c Kd]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: NitNytoski (button blind) folded on the Flop
+Seat 3: S3d3m2 folded on the Flop
+Seat 4: Iskendre collected ($8.55)
+Seat 5: WeeeeezyF folded before Flop (didn't bet)
+Seat 6: Napoleons folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #195843414509:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:45:04 EET [2019/01/16 18:45:04 ET]
+Table 'Dollfus IV' 6-max Seat #3 is the button
+Seat 1: gaiggibeliin ($199 in chips) 
+Seat 2: NitNytoski ($198.87 in chips) 
+Seat 3: S3d3m2 ($150 in chips) 
+Seat 4: Iskendre ($433.79 in chips) 
+Seat 5: WeeeeezyF ($288.51 in chips) 
+Seat 6: Napoleons ($418.70 in chips) 
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+S3d3m2: posts the ante $1
+Iskendre: posts the ante $1
+WeeeeezyF: posts the ante $1
+Napoleons: posts the ante $1
+S3d3m2: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qd Qs]
+Iskendre: folds 
+WeeeeezyF: folds 
+Napoleons: folds 
+gaiggibeliin: raises $8 to $9
+NitNytoski: calls $9
+S3d3m2: folds 
+*** FLOP *** [7h 8s As]
+gaiggibeliin: checks 
+NitNytoski: checks 
+*** TURN *** [7h 8s As] [Jd]
+gaiggibeliin: bets $15.91
+NitNytoski: raises $36.68 to $52.59
+gaiggibeliin: calls $36.68
+*** RIVER *** [7h 8s As Jd] [Qc]
+gaiggibeliin: checks 
+NitNytoski: checks 
+*** SHOW DOWN ***
+gaiggibeliin: shows [Qd Qs] (three of a kind, Queens)
+NitNytoski: mucks hand 
+gaiggibeliin collected $127.43 from pot
+*** SUMMARY ***
+Total pot $130.18 | Rake $2.75 
+Board [7h 8s As Jd Qc]
+Seat 1: gaiggibeliin showed [Qd Qs] and won ($127.43) with three of a kind, Queens
+Seat 2: NitNytoski mucked [Jc Tc]
+Seat 3: S3d3m2 (button blind) folded before Flop
+Seat 4: Iskendre folded before Flop (didn't bet)
+Seat 5: WeeeeezyF folded before Flop (didn't bet)
+Seat 6: Napoleons folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #195843444641:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:45:54 EET [2019/01/16 18:45:54 ET]
+Table 'Dollfus IV' 6-max Seat #4 is the button
+Seat 1: gaiggibeliin ($263.84 in chips) 
+Seat 2: NitNytoski ($136.28 in chips) 
+Seat 3: S3d3m2 ($148 in chips) 
+Seat 4: Iskendre ($432.79 in chips) 
+Seat 5: WeeeeezyF ($287.51 in chips) 
+Seat 6: Napoleons ($417.70 in chips) 
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+S3d3m2: posts the ante $1
+Iskendre: posts the ante $1
+WeeeeezyF: posts the ante $1
+Napoleons: posts the ante $1
+Iskendre: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6s 8c]
+WeeeeezyF: folds 
+Napoleons: folds 
+gaiggibeliin: folds 
+NitNytoski: raises $7 to $8
+WeeeeezyF leaves the table
+S3d3m2: calls $8
+Iskendre: raises $423.79 to $431.79 and is all-in
+NitNytoski: folds 
+S3d3m2: calls $139 and is all-in
+Uncalled bet ($284.79) returned to Iskendre
+*** FLOP *** [7d 7s 7h]
+*** TURN *** [7d 7s 7h] [6h]
+*** RIVER *** [7d 7s 7h 6h] [Td]
+*** SHOW DOWN ***
+S3d3m2: shows [Jc As] (three of a kind, Sevens)
+Iskendre: shows [Th 9h] (a full house, Sevens full of Tens)
+Iskendre collected $305.25 from pot
+*** SUMMARY ***
+Total pot $308 | Rake $2.75 
+Board [7d 7s 7h 6h Td]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: NitNytoski folded before Flop
+Seat 3: S3d3m2 showed [Jc As] and lost with three of a kind, Sevens
+Seat 4: Iskendre (button blind) showed [Th 9h] and won ($305.25) with a full house, Sevens full of Tens
+Seat 5: WeeeeezyF folded before Flop (didn't bet)
+Seat 6: Napoleons folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #195843481623:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:46:47 EET [2019/01/16 18:46:47 ET]
+Table 'Dollfus IV' 6-max Seat #6 is the button
+Seat 1: gaiggibeliin ($262.84 in chips) 
+Seat 2: NitNytoski ($127.28 in chips) 
+Seat 4: Iskendre ($590.04 in chips) 
+Seat 6: Napoleons ($416.70 in chips) 
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+Iskendre: posts the ante $1
+Napoleons: posts the ante $1
+Napoleons: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jc 6d]
+gaiggibeliin: folds 
+NitNytoski: raises $1 to $2
+Iskendre: folds 
+Napoleons: folds 
+Uncalled bet ($1) returned to NitNytoski
+muncloococne joins the table at seat #5 
+NitNytoski collected $6 from pot
+NitNytoski: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: NitNytoski collected ($6)
+Seat 4: Iskendre folded before Flop (didn't bet)
+Seat 6: Napoleons (button blind) folded before Flop
+
+
+
+PokerStars Hand #195843489516:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:47:00 EET [2019/01/16 18:47:00 ET]
+Table 'Dollfus IV' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($261.84 in chips) 
+Seat 2: NitNytoski ($131.28 in chips) 
+Seat 3: S3d3m2 ($156 in chips) 
+Seat 4: Iskendre ($589.04 in chips) 
+Seat 5: muncloococne ($200 in chips) 
+Seat 6: Napoleons ($414.70 in chips) 
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+S3d3m2: posts the ante $1
+Iskendre: posts the ante $1
+muncloococne: posts the ante $1
+Napoleons: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ks 9d]
+NitNytoski: raises $7 to $8
+S3d3m2: folds 
+Iskendre: folds 
+muncloococne: folds 
+Napoleons: folds 
+gaiggibeliin: folds 
+Uncalled bet ($7) returned to NitNytoski
+NitNytoski collected $8 from pot
+NitNytoski: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0 
+Seat 1: gaiggibeliin (button blind) folded before Flop
+Seat 2: NitNytoski collected ($8)
+Seat 3: S3d3m2 folded before Flop (didn't bet)
+Seat 4: Iskendre folded before Flop (didn't bet)
+Seat 5: muncloococne folded before Flop (didn't bet)
+Seat 6: Napoleons folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #195843500587:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:47:19 EET [2019/01/16 18:47:19 ET]
+Table 'Dollfus IV' 6-max Seat #2 is the button
+Seat 1: gaiggibeliin ($259.84 in chips) 
+Seat 2: NitNytoski ($137.28 in chips) 
+Seat 3: S3d3m2 ($155 in chips) 
+Seat 4: Iskendre ($588.04 in chips) 
+Seat 5: muncloococne ($199 in chips) 
+Seat 6: Napoleons ($413.70 in chips) 
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+S3d3m2: posts the ante $1
+Iskendre: posts the ante $1
+muncloococne: posts the ante $1
+Napoleons: posts the ante $1
+NitNytoski: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [As 8d]
+S3d3m2: calls $1
+Iskendre: folds 
+muncloococne: raises $7.50 to $8.50
+Napoleons: folds 
+gaiggibeliin: folds 
+NitNytoski: folds 
+S3d3m2: folds 
+Uncalled bet ($7.50) returned to muncloococne
+muncloococne collected $9 from pot
+muncloococne: doesn't show hand 
+*** SUMMARY ***
+Total pot $9 | Rake $0 
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: NitNytoski (button blind) folded before Flop
+Seat 3: S3d3m2 folded before Flop
+Seat 4: Iskendre folded before Flop (didn't bet)
+Seat 5: muncloococne collected ($9)
+Seat 6: Napoleons folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #195843516815:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:47:46 EET [2019/01/16 18:47:46 ET]
+Table 'Dollfus IV' 6-max Seat #3 is the button
+Seat 1: gaiggibeliin ($258.84 in chips) 
+Seat 2: NitNytoski ($135.28 in chips) 
+Seat 3: S3d3m2 ($153 in chips) 
+Seat 4: Iskendre ($587.04 in chips) 
+Seat 5: muncloococne ($206 in chips) 
+Seat 6: Napoleons ($412.70 in chips) 
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+S3d3m2: posts the ante $1
+Iskendre: posts the ante $1
+muncloococne: posts the ante $1
+Napoleons: posts the ante $1
+S3d3m2: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9c Qd]
+Iskendre: folds 
+muncloococne: folds 
+Napoleons: folds 
+gaiggibeliin: folds 
+NitNytoski: folds 
+Uncalled bet ($1) returned to S3d3m2
+S3d3m2 collected $6 from pot
+S3d3m2: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: NitNytoski folded before Flop (didn't bet)
+Seat 3: S3d3m2 (button blind) collected ($6)
+Seat 4: Iskendre folded before Flop (didn't bet)
+Seat 5: muncloococne folded before Flop (didn't bet)
+Seat 6: Napoleons folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #195843524669:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:47:59 EET [2019/01/16 18:47:59 ET]
+Table 'Dollfus IV' 6-max Seat #4 is the button
+Seat 1: gaiggibeliin ($257.84 in chips) 
+Seat 2: NitNytoski ($134.28 in chips) 
+Seat 3: S3d3m2 ($158 in chips) 
+Seat 4: Iskendre ($586.04 in chips) 
+Seat 5: muncloococne ($205 in chips) 
+Seat 6: Napoleons ($411.70 in chips) 
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+S3d3m2: posts the ante $1
+Iskendre: posts the ante $1
+muncloococne: posts the ante $1
+Napoleons: posts the ante $1
+Iskendre: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Js Jd]
+muncloococne: folds 
+Napoleons: raises $8 to $9
+gaiggibeliin: calls $9
+NitNytoski: folds 
+S3d3m2: calls $9
+Iskendre: folds 
+*** FLOP *** [Qc 7d 9s]
+Napoleons: checks 
+gaiggibeliin: checks 
+S3d3m2: checks 
+*** TURN *** [Qc 7d 9s] [Ah]
+Napoleons: checks 
+gaiggibeliin: checks 
+S3d3m2: checks 
+*** RIVER *** [Qc 7d 9s Ah] [7c]
+Napoleons: checks 
+gaiggibeliin: checks 
+S3d3m2: bets $30
+Napoleons: calls $30
+gaiggibeliin: folds 
+*** SHOW DOWN ***
+S3d3m2: shows [Td Th] (two pair, Tens and Sevens)
+Napoleons: shows [Kc Ac] (two pair, Aces and Sevens)
+Napoleons collected $91.25 from pot
+*** SUMMARY ***
+Total pot $94 | Rake $2.75 
+Board [Qc 7d 9s Ah 7c]
+Seat 1: gaiggibeliin folded on the River
+Seat 2: NitNytoski folded before Flop (didn't bet)
+Seat 3: S3d3m2 showed [Td Th] and lost with two pair, Tens and Sevens
+Seat 4: Iskendre (button blind) folded before Flop
+Seat 5: muncloococne folded before Flop (didn't bet)
+Seat 6: Napoleons showed [Kc Ac] and won ($91.25) with two pair, Aces and Sevens
+
+
+
+PokerStars Hand #195843568707:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:49:12 EET [2019/01/16 18:49:12 ET]
+Table 'Dollfus IV' 6-max Seat #5 is the button
+Seat 1: gaiggibeliin ($247.84 in chips) 
+Seat 2: NitNytoski ($133.28 in chips) 
+Seat 3: S3d3m2 ($118 in chips) 
+Seat 4: Iskendre ($584.04 in chips) 
+Seat 5: muncloococne ($204 in chips) 
+Seat 6: Napoleons ($462.95 in chips) 
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+S3d3m2: posts the ante $1
+Iskendre: posts the ante $1
+muncloococne: posts the ante $1
+Napoleons: posts the ante $1
+muncloococne: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qh Ks]
+Napoleons: folds 
+gaiggibeliin: raises $8 to $9
+NitNytoski: folds 
+S3d3m2: raises $108 to $117 and is all-in
+Iskendre: folds 
+muncloococne: folds 
+gaiggibeliin: folds 
+Uncalled bet ($108) returned to S3d3m2
+S3d3m2 collected $25 from pot
+S3d3m2: doesn't show hand 
+*** SUMMARY ***
+Total pot $25 | Rake $0 
+Seat 1: gaiggibeliin folded before Flop
+Seat 2: NitNytoski folded before Flop (didn't bet)
+Seat 3: S3d3m2 collected ($25)
+Seat 4: Iskendre folded before Flop (didn't bet)
+Seat 5: muncloococne (button blind) folded before Flop
+Seat 6: Napoleons folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #195843584200:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:49:38 EET [2019/01/16 18:49:38 ET]
+Table 'Dollfus IV' 6-max Seat #6 is the button
+Seat 1: gaiggibeliin ($237.84 in chips) 
+Seat 2: NitNytoski ($132.28 in chips) 
+Seat 3: S3d3m2 ($133 in chips) 
+Seat 4: Iskendre ($583.04 in chips) 
+Seat 5: muncloococne ($202 in chips) 
+Seat 6: Napoleons ($461.95 in chips) 
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+S3d3m2: posts the ante $1
+Iskendre: posts the ante $1
+muncloococne: posts the ante $1
+Napoleons: posts the ante $1
+Napoleons: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7c 8h]
+gaiggibeliin: folds 
+NitNytoski: raises $7 to $8
+S3d3m2: raises $124 to $132 and is all-in
+Iskendre: folds 
+muncloococne: folds 
+Napoleons: raises $124 to $256
+NitNytoski: calls $123.28 and is all-in
+Uncalled bet ($124) returned to Napoleons
+*** FLOP *** [6c Jc Qs]
+*** TURN *** [6c Jc Qs] [6d]
+*** RIVER *** [6c Jc Qs 6d] [8c]
+*** SHOW DOWN ***
+S3d3m2: shows [Ac 9c] (a flush, Ace high)
+Napoleons: shows [Kh Ah] (a pair of Sixes)
+S3d3m2 collected $1.44 from side pot
+NitNytoski: shows [Qd Ad] (two pair, Queens and Sixes)
+S3d3m2 collected $397.09 from main pot
+*** SUMMARY ***
+Total pot $401.28 Main pot $397.09. Side pot $1.44. | Rake $2.75 
+Board [6c Jc Qs 6d 8c]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: NitNytoski showed [Qd Ad] and lost with two pair, Queens and Sixes
+Seat 3: S3d3m2 showed [Ac 9c] and won ($398.53) with a flush, Ace high
+Seat 4: Iskendre folded before Flop (didn't bet)
+Seat 5: muncloococne folded before Flop (didn't bet)
+Seat 6: Napoleons (button blind) showed [Kh Ah] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #195843602822:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:50:09 EET [2019/01/16 18:50:09 ET]
+Table 'Dollfus IV' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($236.84 in chips) 
+Seat 2: NitNytoski ($200 in chips) 
+Seat 3: S3d3m2 ($398.53 in chips) 
+Seat 4: Iskendre ($582.04 in chips) 
+Seat 5: muncloococne ($201 in chips) 
+Seat 6: Napoleons ($328.95 in chips) 
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+S3d3m2: posts the ante $1
+Iskendre: posts the ante $1
+muncloococne: posts the ante $1
+Napoleons: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qs 7h]
+NitNytoski: folds 
+S3d3m2: folds 
+Iskendre: calls $1
+muncloococne: calls $1
+Napoleons: folds 
+gaiggibeliin: checks 
+*** FLOP *** [7c Td Qh]
+Iskendre: bets $6
+muncloococne: raises $16 to $22
+gaiggibeliin: folds 
+Iskendre: calls $16
+*** TURN *** [7c Td Qh] [Ks]
+Iskendre: checks 
+muncloococne: bets $33.23
+Iskendre: calls $33.23
+*** RIVER *** [7c Td Qh Ks] [8c]
+Iskendre: checks 
+muncloococne: bets $38.51
+Iskendre: raises $486.30 to $524.81 and is all-in
+muncloococne: calls $105.26 and is all-in
+Uncalled bet ($381.04) returned to Iskendre
+*** SHOW DOWN ***
+Iskendre: shows [Jc Kh] (a pair of Kings)
+muncloococne: shows [7d 7s] (three of a kind, Sevens)
+muncloococne collected $404.25 from pot
+*** SUMMARY ***
+Total pot $407 | Rake $2.75 
+Board [7c Td Qh Ks 8c]
+Seat 1: gaiggibeliin (button blind) folded on the Flop
+Seat 2: NitNytoski folded before Flop (didn't bet)
+Seat 3: S3d3m2 folded before Flop (didn't bet)
+Seat 4: Iskendre showed [Jc Kh] and lost with a pair of Kings
+Seat 5: muncloococne showed [7d 7s] and won ($404.25) with three of a kind, Sevens
+Seat 6: Napoleons folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #195843661151:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:51:48 EET [2019/01/16 18:51:48 ET]
+Table 'Dollfus IV' 6-max Seat #2 is the button
+Seat 1: gaiggibeliin ($234.84 in chips) 
+Seat 2: NitNytoski ($199 in chips) 
+Seat 3: S3d3m2 ($397.53 in chips) 
+Seat 4: Iskendre ($381.04 in chips) 
+Seat 5: muncloococne ($404.25 in chips) 
+Seat 6: Napoleons ($327.95 in chips) 
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+S3d3m2: posts the ante $1
+Iskendre: posts the ante $1
+muncloococne: posts the ante $1
+Napoleons: posts the ante $1
+NitNytoski: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7d Tc]
+S3d3m2: calls $1
+Iskendre: calls $1
+muncloococne: calls $1
+Napoleons: folds 
+gaiggibeliin: folds 
+NitNytoski: raises $14 to $15
+S3d3m2: folds 
+Iskendre: calls $14
+muncloococne: calls $14
+*** FLOP *** [Ks Jc 8s]
+Iskendre: checks 
+muncloococne: checks 
+NitNytoski: checks 
+*** TURN *** [Ks Jc 8s] [6h]
+Iskendre: checks 
+muncloococne: bets $49.40
+NitNytoski: folds 
+Iskendre: folds 
+Uncalled bet ($49.40) returned to muncloococne
+muncloococne collected $49.40 from pot
+muncloococne: doesn't show hand 
+*** SUMMARY ***
+Total pot $52 | Rake $2.60 
+Board [Ks Jc 8s 6h]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: NitNytoski (button blind) folded on the Turn
+Seat 3: S3d3m2 folded before Flop
+Seat 4: Iskendre folded on the Turn
+Seat 5: muncloococne collected ($49.40)
+Seat 6: Napoleons folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #195843691120:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:52:38 EET [2019/01/16 18:52:38 ET]
+Table 'Dollfus IV' 6-max Seat #3 is the button
+Seat 1: gaiggibeliin ($233.84 in chips) 
+Seat 2: NitNytoski ($183 in chips) 
+Seat 3: S3d3m2 ($395.53 in chips) 
+Seat 4: Iskendre ($365.04 in chips) 
+Seat 5: muncloococne ($437.65 in chips) 
+Seat 6: Napoleons ($326.95 in chips) 
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+S3d3m2: posts the ante $1
+Iskendre: posts the ante $1
+muncloococne: posts the ante $1
+Napoleons: posts the ante $1
+S3d3m2: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8c Ts]
+Iskendre: calls $1
+muncloococne: raises $7 to $8
+Napoleons: folds 
+gaiggibeliin: folds 
+NitNytoski: folds 
+S3d3m2: calls $7
+Iskendre: calls $7
+*** FLOP *** [Jh 9c Qd]
+Iskendre: checks 
+muncloococne: bets $18.81
+S3d3m2: raises $59.83 to $78.64
+Iskendre: folds 
+muncloococne: folds 
+Uncalled bet ($59.83) returned to S3d3m2
+S3d3m2 collected $64.87 from pot
+S3d3m2: doesn't show hand 
+*** SUMMARY ***
+Total pot $67.62 | Rake $2.75 
+Board [Jh 9c Qd]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: NitNytoski folded before Flop (didn't bet)
+Seat 3: S3d3m2 (button blind) collected ($64.87)
+Seat 4: Iskendre folded on the Flop
+Seat 5: muncloococne folded on the Flop
+Seat 6: Napoleons folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #195843724028:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:53:34 EET [2019/01/16 18:53:34 ET]
+Table 'Dollfus IV' 6-max Seat #4 is the button
+Seat 1: gaiggibeliin ($232.84 in chips) 
+Seat 2: NitNytoski ($182 in chips) 
+Seat 3: S3d3m2 ($432.59 in chips) 
+Seat 4: Iskendre ($356.04 in chips) 
+Seat 5: muncloococne ($409.84 in chips) 
+Seat 6: Napoleons ($325.95 in chips) 
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+S3d3m2: posts the ante $1
+Iskendre: posts the ante $1
+muncloococne: posts the ante $1
+Napoleons: posts the ante $1
+Iskendre: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jh 9c]
+muncloococne: raises $6.50 to $7.50
+Napoleons: calls $7.50
+gaiggibeliin: folds 
+NitNytoski: folds 
+S3d3m2: folds 
+Iskendre: calls $6.50
+*** FLOP *** [Ac Tc 7c]
+muncloococne: bets $20.31
+Napoleons: calls $20.31
+Iskendre: folds 
+*** TURN *** [Ac Tc 7c] [8s]
+muncloococne: checks 
+Napoleons: bets $37
+muncloococne: folds 
+Uncalled bet ($37) returned to Napoleons
+Napoleons collected $66.37 from pot
+Napoleons: doesn't show hand 
+*** SUMMARY ***
+Total pot $69.12 | Rake $2.75 
+Board [Ac Tc 7c 8s]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: NitNytoski folded before Flop (didn't bet)
+Seat 3: S3d3m2 folded before Flop (didn't bet)
+Seat 4: Iskendre (button blind) folded on the Flop
+Seat 5: muncloococne folded on the Turn
+Seat 6: Napoleons collected ($66.37)
+
+
+
+PokerStars Hand #195843755188:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:54:27 EET [2019/01/16 18:54:27 ET]
+Table 'Dollfus IV' 6-max Seat #5 is the button
+Seat 1: gaiggibeliin ($231.84 in chips) 
+Seat 2: NitNytoski ($181 in chips) 
+Seat 3: S3d3m2 ($431.59 in chips) 
+Seat 4: Iskendre ($347.54 in chips) 
+Seat 5: muncloococne ($381.03 in chips) 
+Seat 6: Napoleons ($363.51 in chips) 
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+S3d3m2: posts the ante $1
+Iskendre: posts the ante $1
+muncloococne: posts the ante $1
+Napoleons: posts the ante $1
+muncloococne: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jd 9c]
+Napoleons: folds 
+gaiggibeliin: folds 
+NitNytoski: folds 
+S3d3m2: calls $1
+Iskendre: raises $9 to $10
+muncloococne: folds 
+S3d3m2: calls $9
+*** FLOP *** [7d 6c Qs]
+S3d3m2: checks 
+Iskendre: checks 
+*** TURN *** [7d 6c Qs] [Js]
+S3d3m2: checks 
+Iskendre: checks 
+*** RIVER *** [7d 6c Qs Js] [8c]
+S3d3m2: checks 
+Iskendre: checks 
+*** SHOW DOWN ***
+S3d3m2: shows [9d 9s] (a pair of Nines)
+Iskendre: mucks hand 
+S3d3m2 collected $25.65 from pot
+*** SUMMARY ***
+Total pot $27 | Rake $1.35 
+Board [7d 6c Qs Js 8c]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: NitNytoski folded before Flop (didn't bet)
+Seat 3: S3d3m2 showed [9d 9s] and won ($25.65) with a pair of Nines
+Seat 4: Iskendre mucked [Ah Kc]
+Seat 5: muncloococne (button blind) folded before Flop
+Seat 6: Napoleons folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #195843775420:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:55:02 EET [2019/01/16 18:55:02 ET]
+Table 'Dollfus IV' 6-max Seat #6 is the button
+Seat 1: gaiggibeliin ($230.84 in chips) 
+Seat 2: NitNytoski ($180 in chips) 
+Seat 3: S3d3m2 ($446.24 in chips) 
+Seat 4: Iskendre ($336.54 in chips) 
+Seat 5: muncloococne ($379.03 in chips) 
+Seat 6: Napoleons ($362.51 in chips) 
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+S3d3m2: posts the ante $1
+Iskendre: posts the ante $1
+muncloococne: posts the ante $1
+Napoleons: posts the ante $1
+Napoleons: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9d Kh]
+gaiggibeliin: folds 
+NitNytoski: folds 
+S3d3m2: folds 
+Iskendre: folds 
+muncloococne: raises $6.50 to $7.50
+Napoleons: folds 
+Uncalled bet ($6.50) returned to muncloococne
+muncloococne collected $8 from pot
+muncloococne: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0 
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: NitNytoski folded before Flop (didn't bet)
+Seat 3: S3d3m2 folded before Flop (didn't bet)
+Seat 4: Iskendre folded before Flop (didn't bet)
+Seat 5: muncloococne collected ($8)
+Seat 6: Napoleons (button blind) folded before Flop
+
+
+
+PokerStars Hand #195843784474:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:55:18 EET [2019/01/16 18:55:18 ET]
+Table 'Dollfus IV' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($229.84 in chips) 
+Seat 2: NitNytoski ($179 in chips) 
+Seat 3: S3d3m2 ($445.24 in chips) 
+Seat 4: Iskendre ($335.54 in chips) 
+Seat 5: muncloococne ($385.03 in chips) 
+Seat 6: Napoleons ($360.51 in chips) 
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+S3d3m2: posts the ante $1
+Iskendre: posts the ante $1
+muncloococne: posts the ante $1
+Napoleons: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6s Jh]
+NitNytoski: calls $1
+S3d3m2: folds 
+Iskendre: folds 
+muncloococne: folds 
+Napoleons: calls $1
+gaiggibeliin: checks 
+*** FLOP *** [7d Td Js]
+NitNytoski: checks 
+Napoleons: checks 
+gaiggibeliin: checks 
+*** TURN *** [7d Td Js] [Qs]
+NitNytoski: checks 
+Napoleons: checks 
+gaiggibeliin: checks 
+*** RIVER *** [7d Td Js Qs] [9c]
+NitNytoski: bets $5.64
+Napoleons: calls $5.64
+gaiggibeliin: folds 
+*** SHOW DOWN ***
+NitNytoski: shows [Jc Qh] (two pair, Queens and Jacks)
+Napoleons: shows [Ts Kh] (a straight, Nine to King)
+Napoleons collected $19.27 from pot
+*** SUMMARY ***
+Total pot $20.28 | Rake $1.01 
+Board [7d Td Js Qs 9c]
+Seat 1: gaiggibeliin (button blind) folded on the River
+Seat 2: NitNytoski showed [Jc Qh] and lost with two pair, Queens and Jacks
+Seat 3: S3d3m2 folded before Flop (didn't bet)
+Seat 4: Iskendre folded before Flop (didn't bet)
+Seat 5: muncloococne folded before Flop (didn't bet)
+Seat 6: Napoleons showed [Ts Kh] and won ($19.27) with a straight, Nine to King
+
+
+
+PokerStars Hand #195843806513:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/17 1:56:04 EET [2019/01/16 18:56:04 ET]
+Table 'Dollfus IV' 6-max Seat #2 is the button
+Seat 1: gaiggibeliin ($227.84 in chips) 
+Seat 2: NitNytoski ($171.36 in chips) 
+Seat 3: S3d3m2 ($444.24 in chips) 
+Seat 4: Iskendre ($334.54 in chips) 
+Seat 5: muncloococne ($384.03 in chips) 
+Seat 6: Napoleons ($372.14 in chips) 
+gaiggibeliin: posts the ante $1
+NitNytoski: posts the ante $1
+S3d3m2: posts the ante $1
+Iskendre: posts the ante $1
+muncloococne: posts the ante $1
+Napoleons: posts the ante $1
+NitNytoski: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qs 9s]
+S3d3m2: calls $1
+Iskendre: calls $1
+muncloococne: folds 
+Napoleons: folds 
+gaiggibeliin: calls $1
+NitNytoski: checks 
+*** FLOP *** [9c Ad 8h]
+S3d3m2: checks 
+Iskendre: checks 
+gaiggibeliin: checks 
+NitNytoski: checks 
+*** TURN *** [9c Ad 8h] [Td]
+S3d3m2: checks 
+Iskendre: checks 
+gaiggibeliin: checks 
+NitNytoski: bets $7.22
+S3d3m2: calls $7.22
+Iskendre: calls $7.22
+gaiggibeliin: folds 
+*** RIVER *** [9c Ad 8h Td] [7c]
+S3d3m2: checks 
+Iskendre: bets $10
+NitNytoski: folds 
+S3d3m2: folds 
+Uncalled bet ($10) returned to Iskendre
+Iskendre collected $30.08 from pot
+Iskendre: doesn't show hand 
+*** SUMMARY ***
+Total pot $31.66 | Rake $1.58 
+Board [9c Ad 8h Td 7c]
+Seat 1: gaiggibeliin folded on the Turn
+Seat 2: NitNytoski (button blind) folded on the River
+Seat 3: S3d3m2 folded on the River
+Seat 4: Iskendre collected ($30.08)
+Seat 5: muncloococne folded before Flop (didn't bet)
+Seat 6: Napoleons folded before Flop (didn't bet)
+
+
+

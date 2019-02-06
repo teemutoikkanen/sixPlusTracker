@@ -1,0 +1,1221 @@
+﻿PokerStars Hand #196224297518:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:17:48 EET [2019/01/25 20:17:48 ET]
+Table 'Epeigeus' 6-max Seat #2 is the button
+Seat 1: DEDTAWIWASA ($153.66 in chips) 
+Seat 2: dragi111213 ($299.85 in chips) 
+Seat 3: vaik1111 ($150 in chips) 
+Seat 4: lalala14388 ($299.09 in chips) 
+Seat 5: MrBarrett82 ($150 in chips) 
+Seat 6: gaiggibeliin ($150 in chips) 
+DEDTAWIWASA: posts the ante $1
+dragi111213: posts the ante $1
+vaik1111: posts the ante $1
+lalala14388: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+dragi111213: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8h As]
+vaik1111: folds 
+lalala14388: raises $1 to $2
+MrBarrett82: calls $2
+gaiggibeliin: folds 
+DEDTAWIWASA: folds 
+dragi111213: raises $12 to $14
+lalala14388: calls $12
+MrBarrett82: calls $12
+*** FLOP *** [Ah Kh 6d]
+lalala14388: checks 
+MrBarrett82: checks 
+dragi111213: bets $30
+lalala14388: folds 
+MrBarrett82: folds 
+Uncalled bet ($30) returned to dragi111213
+lalala14388 leaves the table
+dragi111213 collected $45.60 from pot
+dragi111213: doesn't show hand 
+*** SUMMARY ***
+Total pot $48 | Rake $2.40 
+Board [Ah Kh 6d]
+Seat 1: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 2: dragi111213 (button blind) collected ($45.60)
+Seat 3: vaik1111 folded before Flop (didn't bet)
+Seat 4: lalala14388 folded on the Flop
+Seat 5: MrBarrett82 folded on the Flop
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196224327090:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:18:54 EET [2019/01/25 20:18:54 ET]
+Table 'Epeigeus' 6-max Seat #3 is the button
+Seat 1: DEDTAWIWASA ($152.66 in chips) 
+Seat 2: dragi111213 ($330.45 in chips) 
+Seat 3: vaik1111 ($149 in chips) 
+Seat 5: MrBarrett82 ($135 in chips) 
+Seat 6: gaiggibeliin ($149 in chips) 
+DEDTAWIWASA: posts the ante $1
+dragi111213: posts the ante $1
+vaik1111: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+vaik1111: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ah Js]
+MrBarrett82: folds 
+gaiggibeliin: calls $1
+DEDTAWIWASA: raises $8 to $9
+dragi111213: calls $9
+vaik1111: calls $8
+gaiggibeliin: calls $8
+*** FLOP *** [7h 8s Th]
+gaiggibeliin: checks 
+DEDTAWIWASA: checks 
+dragi111213: checks 
+vaik1111: bets $19.48
+gaiggibeliin: folds 
+DEDTAWIWASA: calls $19.48
+dragi111213: raises $300.97 to $320.45 and is all-in
+vaik1111: calls $119.52 and is all-in
+DEDTAWIWASA: folds 
+Uncalled bet ($181.45) returned to dragi111213
+*** TURN *** [7h 8s Th] [9s]
+*** RIVER *** [7h 8s Th 9s] [Ks]
+*** SHOW DOWN ***
+dragi111213: shows [Qd Qh] (a pair of Queens)
+vaik1111: shows [7c 8d] (two pair, Eights and Sevens)
+vaik1111 collected $335.73 from pot
+*** SUMMARY ***
+Total pot $338.48 | Rake $2.75 
+Board [7h 8s Th 9s Ks]
+Seat 1: DEDTAWIWASA folded on the Flop
+Seat 2: dragi111213 showed [Qd Qh] and lost with a pair of Queens
+Seat 3: vaik1111 (button blind) showed [7c 8d] and won ($335.73) with two pair, Eights and Sevens
+Seat 5: MrBarrett82 folded before Flop (didn't bet)
+Seat 6: gaiggibeliin folded on the Flop
+
+
+
+PokerStars Hand #196224365548:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:20:19 EET [2019/01/25 20:20:19 ET]
+Table 'Epeigeus' 6-max Seat #5 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: dragi111213 ($181.45 in chips) 
+Seat 3: vaik1111 ($335.73 in chips) 
+Seat 5: MrBarrett82 ($134 in chips) 
+Seat 6: gaiggibeliin ($139 in chips) 
+DEDTAWIWASA: posts the ante $1
+dragi111213: posts the ante $1
+vaik1111: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6d Th]
+gaiggibeliin: folds 
+DEDTAWIWASA: folds 
+dragi111213: calls $1
+vaik1111: folds 
+MrBarrett82: raises $10 to $11
+dragi111213: folds 
+Uncalled bet ($10) returned to MrBarrett82
+MrBarrett82 collected $7 from pot
+MrBarrett82: doesn't show hand 
+*** SUMMARY ***
+Total pot $7 | Rake $0 
+Seat 1: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 2: dragi111213 folded before Flop
+Seat 3: vaik1111 folded before Flop (didn't bet)
+Seat 5: MrBarrett82 (button blind) collected ($7)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196224376966:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:20:45 EET [2019/01/25 20:20:45 ET]
+Table 'Epeigeus' 6-max Seat #6 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: dragi111213 ($179.45 in chips) 
+Seat 3: vaik1111 ($334.73 in chips) 
+Seat 5: MrBarrett82 ($139 in chips) 
+Seat 6: gaiggibeliin ($138 in chips) 
+DEDTAWIWASA: posts the ante $1
+dragi111213: posts the ante $1
+vaik1111: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qs Jh]
+DEDTAWIWASA: calls $1
+dragi111213: raises $8 to $9
+vaik1111: calls $9
+MrBarrett82: calls $9
+gaiggibeliin: calls $8
+DEDTAWIWASA: calls $8
+*** FLOP *** [9d Td 6h]
+DEDTAWIWASA: checks 
+dragi111213: bets $47
+Xerophyten joins the table at seat #4 
+vaik1111: folds 
+MrBarrett82: raises $82 to $129 and is all-in
+gaiggibeliin: folds 
+DEDTAWIWASA: raises $11 to $140 and is all-in
+dragi111213: calls $93
+*** TURN *** [9d Td 6h] [6s]
+*** RIVER *** [9d Td 6h 6s] [9c]
+*** SHOW DOWN ***
+DEDTAWIWASA: shows [Qc Js] (two pair, Nines and Sixes)
+dragi111213: shows [Kc Th] (two pair, Tens and Nines)
+dragi111213 collected $22 from side pot
+MrBarrett82: shows [9s 9h] (four of a kind, Nines)
+MrBarrett82 collected $434.25 from main pot
+*** SUMMARY ***
+Total pot $459 Main pot $434.25. Side pot $22. | Rake $2.75 
+Board [9d Td 6h 6s 9c]
+Seat 1: DEDTAWIWASA showed [Qc Js] and lost with two pair, Nines and Sixes
+Seat 2: dragi111213 showed [Kc Th] and won ($22) with two pair, Tens and Nines
+Seat 3: vaik1111 folded on the Flop
+Seat 5: MrBarrett82 showed [9s 9h] and won ($434.25) with four of a kind, Nines
+Seat 6: gaiggibeliin (button blind) folded on the Flop
+
+
+
+PokerStars Hand #196224421844:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:22:25 EET [2019/01/25 20:22:25 ET]
+Table 'Epeigeus' 6-max Seat #1 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: dragi111213 ($51.45 in chips) 
+Seat 3: vaik1111 ($324.73 in chips) 
+Seat 4: Xerophyten ($150 in chips) 
+Seat 5: MrBarrett82 ($434.25 in chips) 
+Seat 6: gaiggibeliin ($128 in chips) 
+DEDTAWIWASA: posts the ante $1
+dragi111213: posts the ante $1
+vaik1111: posts the ante $1
+Xerophyten: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8s Jh]
+dragi111213: raises $49.45 to $50.45 and is all-in
+vaik1111: calls $50.45
+Xerophyten: folds 
+MrBarrett82: folds 
+gaiggibeliin: folds 
+DEDTAWIWASA: folds 
+*** FLOP *** [Th 6s Ts]
+*** TURN *** [Th 6s Ts] [7h]
+*** RIVER *** [Th 6s Ts 7h] [8h]
+*** SHOW DOWN ***
+dragi111213: shows [Kh Kd] (two pair, Kings and Tens)
+vaik1111: shows [8d Js] (two pair, Tens and Eights)
+dragi111213 collected $105.15 from pot
+*** SUMMARY ***
+Total pot $107.90 | Rake $2.75 
+Board [Th 6s Ts 7h 8h]
+Seat 1: DEDTAWIWASA (button blind) folded before Flop
+Seat 2: dragi111213 showed [Kh Kd] and won ($105.15) with two pair, Kings and Tens
+Seat 3: vaik1111 showed [8d Js] and lost with two pair, Tens and Eights
+Seat 4: Xerophyten folded before Flop (didn't bet)
+Seat 5: MrBarrett82 folded before Flop (didn't bet)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196224431957:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:22:48 EET [2019/01/25 20:22:48 ET]
+Table 'Epeigeus' 6-max Seat #2 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: dragi111213 ($105.15 in chips) 
+Seat 3: vaik1111 ($273.28 in chips) 
+Seat 4: Xerophyten ($149 in chips) 
+Seat 5: MrBarrett82 ($433.25 in chips) 
+Seat 6: gaiggibeliin ($127 in chips) 
+DEDTAWIWASA: posts the ante $1
+dragi111213: posts the ante $1
+vaik1111: posts the ante $1
+Xerophyten: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+dragi111213: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qd Tc]
+vaik1111: raises $2 to $3
+Xerophyten: calls $3
+MrBarrett82: calls $3
+gaiggibeliin: calls $3
+DEDTAWIWASA: calls $3
+dragi111213: calls $2
+*** FLOP *** [6s Ks Js]
+vaik1111: bets $269.28 and is all-in
+Xerophyten: folds 
+MrBarrett82: folds 
+gaiggibeliin: folds 
+DEDTAWIWASA: folds 
+dragi111213: folds 
+Uncalled bet ($269.28) returned to vaik1111
+vaik1111 collected $22.80 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $1.20 
+Board [6s Ks Js]
+Seat 1: DEDTAWIWASA folded on the Flop
+Seat 2: dragi111213 (button blind) folded on the Flop
+Seat 3: vaik1111 collected ($22.80)
+Seat 4: Xerophyten folded on the Flop
+Seat 5: MrBarrett82 folded on the Flop
+Seat 6: gaiggibeliin folded on the Flop
+
+
+
+PokerStars Hand #196224457140:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:23:45 EET [2019/01/25 20:23:45 ET]
+Table 'Epeigeus' 6-max Seat #3 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: dragi111213 ($101.15 in chips) 
+Seat 3: vaik1111 ($292.08 in chips) 
+Seat 4: Xerophyten ($145 in chips) 
+Seat 5: MrBarrett82 ($429.25 in chips) 
+Seat 6: gaiggibeliin ($123 in chips) 
+DEDTAWIWASA: posts the ante $1
+dragi111213: posts the ante $1
+vaik1111: posts the ante $1
+Xerophyten: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+vaik1111: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jh 9s]
+Xerophyten: calls $1
+MrBarrett82: calls $1
+gaiggibeliin: folds 
+DEDTAWIWASA: folds 
+dragi111213: calls $1
+vaik1111: raises $10 to $11
+Xerophyten: folds 
+MrBarrett82: calls $10
+dragi111213: calls $10
+*** FLOP *** [Ad Kh Qh]
+MrBarrett82: checks 
+dragi111213: checks 
+vaik1111: bets $19
+MrBarrett82: calls $19
+dragi111213: raises $70.15 to $89.15 and is all-in
+vaik1111: folds 
+MrBarrett82: calls $70.15
+*** TURN *** [Ad Kh Qh] [8h]
+*** RIVER *** [Ad Kh Qh 8h] [8c]
+*** SHOW DOWN ***
+MrBarrett82: shows [Kd Js] (two pair, Kings and Eights)
+dragi111213: shows [Ks Qc] (two pair, Kings and Queens)
+dragi111213 collected $234.55 from pot
+*** SUMMARY ***
+Total pot $237.30 | Rake $2.75 
+Board [Ad Kh Qh 8h 8c]
+Seat 1: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 2: dragi111213 showed [Ks Qc] and won ($234.55) with two pair, Kings and Queens
+Seat 3: vaik1111 (button blind) folded on the Flop
+Seat 4: Xerophyten folded before Flop
+Seat 5: MrBarrett82 showed [Kd Js] and lost with two pair, Kings and Eights
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196224500504:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:25:23 EET [2019/01/25 20:25:23 ET]
+Table 'Epeigeus' 6-max Seat #4 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: dragi111213 ($234.55 in chips) 
+Seat 3: vaik1111 ($261.08 in chips) 
+Seat 4: Xerophyten ($143 in chips) 
+Seat 5: MrBarrett82 ($328.10 in chips) 
+Seat 6: gaiggibeliin ($150 in chips) 
+DEDTAWIWASA: posts the ante $1
+dragi111213: posts the ante $1
+vaik1111: posts the ante $1
+Xerophyten: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+Xerophyten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8c 9c]
+MrBarrett82: folds 
+gaiggibeliin: calls $1
+DEDTAWIWASA: calls $1
+dragi111213: calls $1
+vaik1111: folds 
+Xerophyten: checks 
+*** FLOP *** [As Ad Td]
+gaiggibeliin: checks 
+DEDTAWIWASA: checks 
+dragi111213: checks 
+Xerophyten: checks 
+*** TURN *** [As Ad Td] [Kh]
+gaiggibeliin: checks 
+DEDTAWIWASA: checks 
+dragi111213: bets $9
+Xerophyten: folds 
+gaiggibeliin: folds 
+DEDTAWIWASA: folds 
+Uncalled bet ($9) returned to dragi111213
+dragi111213 collected $9.50 from pot
+dragi111213: doesn't show hand 
+*** SUMMARY ***
+Total pot $10 | Rake $0.50 
+Board [As Ad Td Kh]
+Seat 1: DEDTAWIWASA folded on the Turn
+Seat 2: dragi111213 collected ($9.50)
+Seat 3: vaik1111 folded before Flop (didn't bet)
+Seat 4: Xerophyten (button blind) folded on the Turn
+Seat 5: MrBarrett82 folded before Flop (didn't bet)
+Seat 6: gaiggibeliin folded on the Turn
+
+
+
+PokerStars Hand #196224526203:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:26:21 EET [2019/01/25 20:26:21 ET]
+Table 'Epeigeus' 6-max Seat #5 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: dragi111213 ($242.05 in chips) 
+Seat 3: vaik1111 ($260.08 in chips) 
+Seat 4: Xerophyten ($141 in chips) 
+Seat 5: MrBarrett82 ($327.10 in chips) 
+Seat 6: gaiggibeliin ($148 in chips) 
+DEDTAWIWASA: posts the ante $1
+dragi111213: posts the ante $1
+vaik1111: posts the ante $1
+Xerophyten: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jh Kd]
+gaiggibeliin: folds 
+DEDTAWIWASA: folds 
+dragi111213: calls $1
+vaik1111: raises $9 to $10
+Xerophyten: folds 
+MrBarrett82: folds 
+dragi111213: folds 
+Uncalled bet ($9) returned to vaik1111
+vaik1111 collected $9 from pot
+*** SUMMARY ***
+Total pot $9 | Rake $0 
+Seat 1: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 2: dragi111213 folded before Flop
+Seat 3: vaik1111 collected ($9)
+Seat 4: Xerophyten folded before Flop (didn't bet)
+Seat 5: MrBarrett82 (button blind) folded before Flop
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196224539749:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:26:52 EET [2019/01/25 20:26:52 ET]
+Table 'Epeigeus' 6-max Seat #6 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: dragi111213 ($240.05 in chips) 
+Seat 3: vaik1111 ($267.08 in chips) 
+Seat 4: Xerophyten ($140 in chips) 
+Seat 5: MrBarrett82 ($325.10 in chips) 
+Seat 6: gaiggibeliin ($147 in chips) 
+DEDTAWIWASA: posts the ante $1
+dragi111213: posts the ante $1
+vaik1111: posts the ante $1
+Xerophyten: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kc 9d]
+DEDTAWIWASA: folds 
+dragi111213: raises $8 to $9
+vaik1111: folds 
+Xerophyten: folds 
+MrBarrett82: folds 
+gaiggibeliin: calls $8
+*** FLOP *** [Qs 8h 8c]
+dragi111213: bets $11
+gaiggibeliin: folds 
+Uncalled bet ($11) returned to dragi111213
+dragi111213 collected $22.80 from pot
+dragi111213: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $1.20 
+Board [Qs 8h 8c]
+Seat 1: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 2: dragi111213 collected ($22.80)
+Seat 3: vaik1111 folded before Flop (didn't bet)
+Seat 4: Xerophyten folded before Flop (didn't bet)
+Seat 5: MrBarrett82 folded before Flop (didn't bet)
+Seat 6: gaiggibeliin (button blind) folded on the Flop
+
+
+
+PokerStars Hand #196224563160:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:27:45 EET [2019/01/25 20:27:45 ET]
+Table 'Epeigeus' 6-max Seat #1 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: dragi111213 ($252.85 in chips) 
+Seat 3: vaik1111 ($266.08 in chips) 
+Seat 4: Xerophyten ($139 in chips) 
+Seat 5: MrBarrett82 ($324.10 in chips) 
+Seat 6: gaiggibeliin ($137 in chips) 
+DEDTAWIWASA: posts the ante $1
+dragi111213: posts the ante $1
+vaik1111: posts the ante $1
+Xerophyten: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6h 7s]
+dragi111213: calls $1
+vaik1111: folds 
+Xerophyten: calls $1
+MrBarrett82: raises $13 to $14
+gaiggibeliin: folds 
+DEDTAWIWASA: folds 
+dragi111213: calls $13
+Xerophyten: calls $13
+*** FLOP *** [Jc Qc Ts]
+dragi111213: checks 
+Xerophyten: checks 
+MrBarrett82: checks 
+*** TURN *** [Jc Qc Ts] [Qh]
+dragi111213: checks 
+Xerophyten: bets $23.28
+MrBarrett82: calls $23.28
+dragi111213: folds 
+*** RIVER *** [Jc Qc Ts Qh] [Qs]
+Xerophyten: checks 
+MrBarrett82: bets $60
+Xerophyten: calls $60
+*** SHOW DOWN ***
+MrBarrett82: shows [As Ac] (a full house, Queens full of Aces)
+Xerophyten: mucks hand 
+MrBarrett82 collected $212.81 from pot
+*** SUMMARY ***
+Total pot $215.56 | Rake $2.75 
+Board [Jc Qc Ts Qh Qs]
+Seat 1: DEDTAWIWASA (button blind) folded before Flop
+Seat 2: dragi111213 folded on the Turn
+Seat 3: vaik1111 folded before Flop (didn't bet)
+Seat 4: Xerophyten mucked [Jh Kh]
+Seat 5: MrBarrett82 showed [As Ac] and won ($212.81) with a full house, Queens full of Aces
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196224650622:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:30:42 EET [2019/01/25 20:30:42 ET]
+Table 'Epeigeus' 6-max Seat #2 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: dragi111213 ($237.85 in chips) 
+Seat 3: vaik1111 ($265.08 in chips) 
+Seat 4: Xerophyten ($40.72 in chips) 
+Seat 5: MrBarrett82 ($438.63 in chips) 
+Seat 6: gaiggibeliin ($150 in chips) 
+DEDTAWIWASA: posts the ante $1
+dragi111213: posts the ante $1
+vaik1111: posts the ante $1
+Xerophyten: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+dragi111213: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6h 7d]
+vaik1111: raises $8 to $9
+Xerophyten: calls $9
+MrBarrett82: calls $9
+gaiggibeliin: folds 
+DEDTAWIWASA: folds 
+dragi111213: folds 
+*** FLOP *** [Kc 7s 8d]
+vaik1111: checks 
+Xerophyten: checks 
+MrBarrett82: checks 
+*** TURN *** [Kc 7s 8d] [9s]
+vaik1111: checks 
+Xerophyten: bets $30.72 and is all-in
+MrBarrett82: calls $30.72
+vaik1111: folds 
+*** RIVER *** [Kc 7s 8d 9s] [Ks]
+*** SHOW DOWN ***
+Xerophyten: shows [8s Qs] (a flush, King high)
+MrBarrett82: shows [9c 9h] (a full house, Nines full of Kings)
+Xerophyten collected $92.69 from pot
+*** SUMMARY ***
+Total pot $95.44 | Rake $2.75 
+Board [Kc 7s 8d 9s Ks]
+Seat 1: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 2: dragi111213 (button blind) folded before Flop
+Seat 3: vaik1111 folded on the Turn
+Seat 4: Xerophyten showed [8s Qs] and won ($92.69) with a flush, King high
+Seat 5: MrBarrett82 showed [9c 9h] and lost with a full house, Nines full of Kings
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196224683941:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:31:59 EET [2019/01/25 20:31:59 ET]
+Table 'Epeigeus' 6-max Seat #3 is the button
+Seat 2: dragi111213 ($235.85 in chips) 
+Seat 3: vaik1111 ($255.08 in chips) 
+Seat 4: Xerophyten ($150 in chips) 
+Seat 5: MrBarrett82 ($397.91 in chips) 
+Seat 6: gaiggibeliin ($149 in chips) 
+dragi111213: posts the ante $1
+vaik1111: posts the ante $1
+Xerophyten: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+vaik1111: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ks Js]
+Xerophyten: folds 
+MrBarrett82: folds 
+gaiggibeliin: calls $1
+dragi111213: raises $8 to $9
+vaik1111: folds 
+gaiggibeliin: calls $8
+*** FLOP *** [9h Tc Kd]
+gaiggibeliin: checks 
+dragi111213: checks 
+*** TURN *** [9h Tc Kd] [Ac]
+gaiggibeliin: checks 
+dragi111213: checks 
+*** RIVER *** [9h Tc Kd Ac] [Kh]
+gaiggibeliin: bets $15.28
+dragi111213: calls $15.28
+*** SHOW DOWN ***
+gaiggibeliin: shows [Ks Js] (three of a kind, Kings)
+dragi111213: mucks hand 
+gaiggibeliin collected $51.83 from pot
+*** SUMMARY ***
+Total pot $54.56 | Rake $2.73 
+Board [9h Tc Kd Ac Kh]
+Seat 2: dragi111213 mucked [Ah Qh]
+Seat 3: vaik1111 (button blind) folded before Flop
+Seat 4: Xerophyten folded before Flop (didn't bet)
+Seat 5: MrBarrett82 folded before Flop (didn't bet)
+Seat 6: gaiggibeliin showed [Ks Js] and won ($51.83) with three of a kind, Kings
+
+
+
+PokerStars Hand #196224716410:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:33:14 EET [2019/01/25 20:33:14 ET]
+Table 'Epeigeus' 6-max Seat #4 is the button
+Seat 2: dragi111213 ($210.57 in chips) 
+Seat 3: vaik1111 ($253.08 in chips) 
+Seat 4: Xerophyten ($149 in chips) 
+Seat 5: MrBarrett82 ($396.91 in chips) 
+Seat 6: gaiggibeliin ($175.55 in chips) 
+dragi111213: posts the ante $1
+vaik1111: posts the ante $1
+Xerophyten: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+Xerophyten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kd Td]
+MrBarrett82: calls $1
+gaiggibeliin: calls $1
+dragi111213: calls $1
+vaik1111: raises $10 to $11
+Xerophyten: folds 
+MrBarrett82: raises $384.91 to $395.91 and is all-in
+gaiggibeliin: folds 
+dragi111213: folds 
+vaik1111: folds 
+Uncalled bet ($384.91) returned to MrBarrett82
+MrBarrett82 collected $30 from pot
+MrBarrett82: doesn't show hand 
+*** SUMMARY ***
+Total pot $30 | Rake $0 
+Seat 2: dragi111213 folded before Flop
+Seat 3: vaik1111 folded before Flop
+Seat 4: Xerophyten (button blind) folded before Flop
+Seat 5: MrBarrett82 collected ($30)
+Seat 6: gaiggibeliin folded before Flop
+
+
+
+PokerStars Hand #196224741525:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:34:12 EET [2019/01/25 20:34:12 ET]
+Table 'Epeigeus' 6-max Seat #5 is the button
+Seat 2: dragi111213 ($208.57 in chips) 
+Seat 3: vaik1111 ($241.08 in chips) 
+Seat 4: Xerophyten ($147 in chips) 
+Seat 5: MrBarrett82 ($414.91 in chips) 
+Seat 6: gaiggibeliin ($173.55 in chips) 
+dragi111213: posts the ante $1
+vaik1111: posts the ante $1
+Xerophyten: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8d Qh]
+gaiggibeliin: folds 
+dragi111213: folds 
+vaik1111: folds 
+Xerophyten: calls $1
+MrBarrett82: checks 
+*** FLOP *** [Kh Jc 6s]
+Xerophyten: checks 
+MrBarrett82: checks 
+*** TURN *** [Kh Jc 6s] [Kd]
+Xerophyten: bets $3.33
+MrBarrett82: folds 
+Uncalled bet ($3.33) returned to Xerophyten
+Xerophyten collected $6.65 from pot
+*** SUMMARY ***
+Total pot $7 | Rake $0.35 
+Board [Kh Jc 6s Kd]
+Seat 2: dragi111213 folded before Flop (didn't bet)
+Seat 3: vaik1111 folded before Flop (didn't bet)
+Seat 4: Xerophyten collected ($6.65)
+Seat 5: MrBarrett82 (button blind) folded on the Turn
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196224767059:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:35:12 EET [2019/01/25 20:35:12 ET]
+Table 'Epeigeus' 6-max Seat #6 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: dragi111213 ($207.57 in chips) 
+Seat 3: vaik1111 ($240.08 in chips) 
+Seat 4: Xerophyten ($151.65 in chips) 
+Seat 5: MrBarrett82 ($412.91 in chips) 
+Seat 6: gaiggibeliin ($172.55 in chips) 
+DEDTAWIWASA: posts the ante $1
+dragi111213: posts the ante $1
+vaik1111: posts the ante $1
+Xerophyten: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Td Ah]
+DEDTAWIWASA: folds 
+dragi111213: calls $1
+vaik1111: raises $7 to $8
+Xerophyten: folds 
+MrBarrett82: calls $8
+gaiggibeliin: folds 
+dragi111213: calls $7
+*** FLOP *** [Ac Qh 6s]
+dragi111213: checks 
+vaik1111: bets $14.73
+MrBarrett82: folds 
+dragi111213: calls $14.73
+*** TURN *** [Ac Qh 6s] [Kh]
+dragi111213: checks 
+vaik1111: bets $28.86
+dragi111213: calls $28.86
+*** RIVER *** [Ac Qh 6s Kh] [8h]
+dragi111213: bets $62
+vaik1111: folds 
+Uncalled bet ($62) returned to dragi111213
+dragi111213 collected $115.43 from pot
+dragi111213: doesn't show hand 
+*** SUMMARY ***
+Total pot $118.18 | Rake $2.75 
+Board [Ac Qh 6s Kh 8h]
+Seat 1: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 2: dragi111213 collected ($115.43)
+Seat 3: vaik1111 folded on the River
+Seat 4: Xerophyten folded before Flop (didn't bet)
+Seat 5: MrBarrett82 folded on the Flop
+Seat 6: gaiggibeliin (button blind) folded before Flop
+
+
+
+PokerStars Hand #196224824389:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:37:25 EET [2019/01/25 20:37:25 ET]
+Table 'Epeigeus' 6-max Seat #1 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: dragi111213 ($270.41 in chips) 
+Seat 3: vaik1111 ($187.49 in chips) 
+Seat 4: Xerophyten ($150.65 in chips) 
+Seat 5: MrBarrett82 ($403.91 in chips) 
+Seat 6: gaiggibeliin ($170.55 in chips) 
+DEDTAWIWASA: posts the ante $1
+dragi111213: posts the ante $1
+vaik1111: posts the ante $1
+Xerophyten: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9c Ac]
+dragi111213: calls $1
+vaik1111: raises $9 to $10
+Xerophyten: folds 
+MrBarrett82: calls $10
+gaiggibeliin: folds 
+DEDTAWIWASA: folds 
+dragi111213: calls $9
+*** FLOP *** [Kc 8h Qd]
+dragi111213: bets $19
+vaik1111: raises $23 to $42
+MrBarrett82: raises $78 to $120
+dragi111213: folds 
+vaik1111: raises $56.49 to $176.49 and is all-in
+MrBarrett82: calls $56.49
+*** TURN *** [Kc 8h Qd] [Js]
+*** RIVER *** [Kc 8h Qd Js] [Jc]
+*** SHOW DOWN ***
+vaik1111: shows [Jh Th] (three of a kind, Jacks)
+MrBarrett82: shows [Qc Qh] (a full house, Queens full of Jacks)
+MrBarrett82 collected $406.23 from pot
+*** SUMMARY ***
+Total pot $408.98 | Rake $2.75 
+Board [Kc 8h Qd Js Jc]
+Seat 1: DEDTAWIWASA (button blind) folded before Flop
+Seat 2: dragi111213 folded on the Flop
+Seat 3: vaik1111 showed [Jh Th] and lost with three of a kind, Jacks
+Seat 4: Xerophyten folded before Flop (didn't bet)
+Seat 5: MrBarrett82 showed [Qc Qh] and won ($406.23) with a full house, Queens full of Jacks
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196224871978:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:39:17 EET [2019/01/25 20:39:17 ET]
+Table 'Epeigeus' 6-max Seat #2 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: dragi111213 ($240.41 in chips) 
+Seat 4: Xerophyten ($149.65 in chips) 
+Seat 5: MrBarrett82 ($622.65 in chips) 
+Seat 6: gaiggibeliin ($169.55 in chips) 
+DEDTAWIWASA: posts the ante $1
+dragi111213: posts the ante $1
+Xerophyten: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+dragi111213: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6c Qs]
+Xerophyten: folds 
+MrBarrett82: calls $1
+gaiggibeliin: folds 
+DEDTAWIWASA: raises $10 to $11
+dragi111213: calls $10
+MrBarrett82: calls $10
+*** FLOP *** [9c Ts 9d]
+MrBarrett82: checks 
+DEDTAWIWASA: checks 
+dragi111213: checks 
+*** TURN *** [9c Ts 9d] [Ac]
+MrBarrett82: checks 
+vaik1111 leaves the table
+DEDTAWIWASA: checks 
+dragi111213: checks 
+*** RIVER *** [9c Ts 9d Ac] [Jd]
+MrBarrett82: checks 
+DEDTAWIWASA: checks 
+dragi111213: checks 
+*** SHOW DOWN ***
+MrBarrett82: shows [As 8s] (two pair, Aces and Nines)
+DEDTAWIWASA: mucks hand 
+dragi111213: shows [Ad Ks] (two pair, Aces and Nines - King kicker)
+dragi111213 collected $36.10 from pot
+sss457 joins the table at seat #3 
+*** SUMMARY ***
+Total pot $38 | Rake $1.90 
+Board [9c Ts 9d Ac Jd]
+Seat 1: DEDTAWIWASA mucked [6h 7h]
+Seat 2: dragi111213 (button blind) showed [Ad Ks] and won ($36.10) with two pair, Aces and Nines
+Seat 4: Xerophyten folded before Flop (didn't bet)
+Seat 5: MrBarrett82 showed [As 8s] and lost with two pair, Aces and Nines
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196224900567:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:40:24 EET [2019/01/25 20:40:24 ET]
+Table 'Epeigeus' 6-max Seat #4 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: dragi111213 ($264.51 in chips) 
+Seat 3: sss457 ($150 in chips) 
+Seat 4: Xerophyten ($148.65 in chips) 
+Seat 5: MrBarrett82 ($610.65 in chips) 
+Seat 6: gaiggibeliin ($168.55 in chips) 
+DEDTAWIWASA: posts the ante $1
+dragi111213: posts the ante $1
+sss457: posts the ante $1
+Xerophyten: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+Xerophyten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ah Jc]
+MrBarrett82: calls $1
+gaiggibeliin: calls $1
+DEDTAWIWASA: folds 
+dragi111213: calls $1
+sss457: raises $11 to $12
+Xerophyten: folds 
+MrBarrett82: calls $11
+gaiggibeliin: folds 
+dragi111213: calls $11
+*** FLOP *** [Qs Ac Ts]
+MrBarrett82: checks 
+dragi111213: checks 
+sss457: bets $27.59
+MrBarrett82: calls $27.59
+dragi111213: folds 
+*** TURN *** [Qs Ac Ts] [6d]
+MrBarrett82: checks 
+sss457: checks 
+*** RIVER *** [Qs Ac Ts 6d] [Jd]
+MrBarrett82: checks 
+sss457: bets $77.14
+MrBarrett82: folds 
+Uncalled bet ($77.14) returned to sss457
+sss457 collected $96.43 from pot
+sss457: doesn't show hand 
+*** SUMMARY ***
+Total pot $99.18 | Rake $2.75 
+Board [Qs Ac Ts 6d Jd]
+Seat 1: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 2: dragi111213 folded on the Flop
+Seat 3: sss457 collected ($96.43)
+Seat 4: Xerophyten (button blind) folded before Flop
+Seat 5: MrBarrett82 folded on the River
+Seat 6: gaiggibeliin folded before Flop
+
+
+
+PokerStars Hand #196224974008:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:43:20 EET [2019/01/25 20:43:20 ET]
+Table 'Epeigeus' 6-max Seat #5 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: dragi111213 ($251.51 in chips) 
+Seat 3: sss457 ($205.84 in chips) 
+Seat 4: Xerophyten ($146.65 in chips) 
+Seat 5: MrBarrett82 ($570.06 in chips) 
+Seat 6: gaiggibeliin ($166.55 in chips) 
+DEDTAWIWASA: posts the ante $1
+dragi111213: posts the ante $1
+sss457: posts the ante $1
+Xerophyten: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ks 9c]
+gaiggibeliin: folds 
+DEDTAWIWASA: calls $1
+dragi111213: calls $1
+sss457: calls $1
+Xerophyten: calls $1
+MrBarrett82: checks 
+*** FLOP *** [7d Td 8h]
+DEDTAWIWASA: checks 
+dragi111213: checks 
+sss457: checks 
+Xerophyten: checks 
+MrBarrett82: checks 
+*** TURN *** [7d Td 8h] [8d]
+DEDTAWIWASA: checks 
+dragi111213: checks 
+sss457: bets $6.90
+Xerophyten: calls $6.90
+MrBarrett82 has timed out
+MrBarrett82: folds 
+DEDTAWIWASA: folds 
+dragi111213: calls $6.90
+*** RIVER *** [7d Td 8h 8d] [9h]
+dragi111213: checks 
+sss457: bets $24.10
+Xerophyten: folds 
+dragi111213: folds 
+Uncalled bet ($24.10) returned to sss457
+sss457 collected $30.12 from pot
+sss457: doesn't show hand 
+*** SUMMARY ***
+Total pot $31.70 | Rake $1.58 
+Board [7d Td 8h 8d 9h]
+Seat 1: DEDTAWIWASA folded on the Turn
+Seat 2: dragi111213 folded on the River
+Seat 3: sss457 collected ($30.12)
+Seat 4: Xerophyten folded on the River
+Seat 5: MrBarrett82 (button blind) folded on the Turn
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196225021506:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:45:15 EET [2019/01/25 20:45:15 ET]
+Table 'Epeigeus' 6-max Seat #6 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: dragi111213 ($242.61 in chips) 
+Seat 3: sss457 ($227.06 in chips) 
+Seat 4: Xerophyten ($137.75 in chips) 
+Seat 5: MrBarrett82 ($568.06 in chips) 
+Seat 6: gaiggibeliin ($165.55 in chips) 
+DEDTAWIWASA: posts the ante $1
+dragi111213: posts the ante $1
+sss457: posts the ante $1
+Xerophyten: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8d Ad]
+DEDTAWIWASA: folds 
+dragi111213: folds 
+sss457: folds 
+Xerophyten: folds 
+MrBarrett82: folds 
+Uncalled bet ($1) returned to gaiggibeliin
+gaiggibeliin collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 2: dragi111213 folded before Flop (didn't bet)
+Seat 3: sss457 folded before Flop (didn't bet)
+Seat 4: Xerophyten folded before Flop (didn't bet)
+Seat 5: MrBarrett82 folded before Flop (didn't bet)
+Seat 6: gaiggibeliin (button blind) collected ($6)
+
+
+
+PokerStars Hand #196225029242:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:45:33 EET [2019/01/25 20:45:33 ET]
+Table 'Epeigeus' 6-max Seat #1 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: dragi111213 ($241.61 in chips) 
+Seat 3: sss457 ($226.06 in chips) 
+Seat 4: Xerophyten ($136.75 in chips) 
+Seat 5: MrBarrett82 ($567.06 in chips) 
+Seat 6: gaiggibeliin ($170.55 in chips) 
+DEDTAWIWASA: posts the ante $1
+dragi111213: posts the ante $1
+sss457: posts the ante $1
+Xerophyten: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jh Qh]
+dragi111213: folds 
+sss457: folds 
+Xerophyten: folds 
+MrBarrett82: raises $7 to $8
+gaiggibeliin: calls $8
+DEDTAWIWASA: calls $7
+*** FLOP *** [6d Kc Tc]
+MrBarrett82: bets $23
+gaiggibeliin: calls $23
+DEDTAWIWASA: folds 
+*** TURN *** [6d Kc Tc] [Ts]
+MrBarrett82: bets $40
+gaiggibeliin: folds 
+Uncalled bet ($40) returned to MrBarrett82
+MrBarrett82 collected $73.25 from pot
+MrBarrett82: doesn't show hand 
+*** SUMMARY ***
+Total pot $76 | Rake $2.75 
+Board [6d Kc Tc Ts]
+Seat 1: DEDTAWIWASA (button blind) folded on the Flop
+Seat 2: dragi111213 folded before Flop (didn't bet)
+Seat 3: sss457 folded before Flop (didn't bet)
+Seat 4: Xerophyten folded before Flop (didn't bet)
+Seat 5: MrBarrett82 collected ($73.25)
+Seat 6: gaiggibeliin folded on the Turn
+
+
+
+PokerStars Hand #196225071713:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:47:17 EET [2019/01/25 20:47:17 ET]
+Table 'Epeigeus' 6-max Seat #2 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: dragi111213 ($240.61 in chips) 
+Seat 3: sss457 ($225.06 in chips) 
+Seat 4: Xerophyten ($135.75 in chips) 
+Seat 5: MrBarrett82 ($608.31 in chips) 
+Seat 6: gaiggibeliin ($138.55 in chips) 
+DEDTAWIWASA: posts the ante $1
+dragi111213: posts the ante $1
+sss457: posts the ante $1
+Xerophyten: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+dragi111213: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6d 7s]
+sss457: folds 
+Xerophyten: calls $1
+MrBarrett82: calls $1
+gaiggibeliin: calls $1
+DEDTAWIWASA: folds 
+dragi111213: raises $10 to $11
+Xerophyten: calls $10
+MrBarrett82: folds 
+gaiggibeliin: calls $10
+*** FLOP *** [Ah 7h 6s]
+Xerophyten: checks 
+gaiggibeliin: bets $23
+dragi111213: calls $23
+Xerophyten: raises $100.75 to $123.75 and is all-in
+gaiggibeliin: raises $2.80 to $126.55 and is all-in
+dragi111213: folds 
+Uncalled bet ($2.80) returned to gaiggibeliin
+*** FIRST TURN *** [Ah 7h 6s] [Qs]
+*** FIRST RIVER *** [Ah 7h 6s Qs] [Ts]
+*** SECOND TURN *** [Ah 7h 6s] [Ac]
+*** SECOND RIVER *** [Ah 7h 6s Ac] [8h]
+*** FIRST SHOW DOWN ***
+Xerophyten: shows [Ad 7d] (two pair, Aces and Sevens)
+gaiggibeliin: shows [6d 7s] (two pair, Sevens and Sixes)
+Xerophyten collected $153.88 from pot
+*** SECOND SHOW DOWN ***
+Xerophyten: shows [Ad 7d] (a full house, Aces full of Sevens)
+gaiggibeliin: shows [6d 7s] (two pair, Aces and Sevens)
+Xerophyten collected $153.87 from pot
+*** SUMMARY ***
+Total pot $310.50 | Rake $2.75 
+Hand was run twice
+FIRST Board [Ah 7h 6s Qs Ts]
+SECOND Board [Ah 7h 6s Ac 8h]
+Seat 1: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 2: dragi111213 (button blind) folded on the Flop
+Seat 3: sss457 folded before Flop (didn't bet)
+Seat 4: Xerophyten showed [Ad 7d] and won ($153.88) with two pair, Aces and Sevens, and won ($153.87) with a full house, Aces full of Sevens
+Seat 5: MrBarrett82 folded before Flop
+Seat 6: gaiggibeliin showed [6d 7s] and lost with two pair, Sevens and Sixes, and lost with two pair, Aces and Sevens
+
+
+
+PokerStars Hand #196225109937:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:48:50 EET [2019/01/25 20:48:50 ET]
+Table 'Epeigeus' 6-max Seat #3 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: dragi111213 ($205.61 in chips) 
+Seat 3: sss457 ($224.06 in chips) 
+Seat 4: Xerophyten ($307.75 in chips) 
+Seat 5: MrBarrett82 ($606.31 in chips) 
+Seat 6: gaiggibeliin ($150 in chips) 
+DEDTAWIWASA: posts the ante $1
+dragi111213: posts the ante $1
+sss457: posts the ante $1
+Xerophyten: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+sss457: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kc Ts]
+Xerophyten: calls $1
+MrBarrett82: calls $1
+gaiggibeliin: folds 
+DEDTAWIWASA: folds 
+dragi111213: raises $10 to $11
+sss457: folds 
+Xerophyten: calls $10
+MrBarrett82: calls $10
+*** FLOP *** [7h 8d 7s]
+Xerophyten: checks 
+MrBarrett82: checks 
+dragi111213: checks 
+*** TURN *** [7h 8d 7s] [Qh]
+Xerophyten: checks 
+MrBarrett82: checks 
+dragi111213: bets $19
+Xerophyten: folds 
+MrBarrett82: folds 
+Uncalled bet ($19) returned to dragi111213
+dragi111213 collected $38 from pot
+dragi111213: doesn't show hand 
+*** SUMMARY ***
+Total pot $40 | Rake $2 
+Board [7h 8d 7s Qh]
+Seat 1: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 2: dragi111213 collected ($38)
+Seat 3: sss457 (button blind) folded before Flop
+Seat 4: Xerophyten folded on the Turn
+Seat 5: MrBarrett82 folded on the Turn
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196225142610:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:50:11 EET [2019/01/25 20:50:11 ET]
+Table 'Epeigeus' 6-max Seat #4 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: dragi111213 ($231.61 in chips) 
+Seat 3: sss457 ($222.06 in chips) 
+Seat 4: Xerophyten ($295.75 in chips) 
+Seat 5: MrBarrett82 ($594.31 in chips) 
+Seat 6: gaiggibeliin ($149 in chips) 
+DEDTAWIWASA: posts the ante $1
+dragi111213: posts the ante $1
+sss457: posts the ante $1
+Xerophyten: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+Xerophyten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qh 9c]
+MrBarrett82: calls $1
+gaiggibeliin: folds 
+DEDTAWIWASA: calls $1
+dragi111213: calls $1
+sss457: folds 
+Xerophyten: checks 
+*** FLOP *** [7c Jd Tc]
+MrBarrett82: checks 
+DEDTAWIWASA: checks 
+dragi111213: checks 
+Xerophyten: checks 
+*** TURN *** [7c Jd Tc] [6s]
+MrBarrett82: checks 
+DEDTAWIWASA: checks 
+dragi111213: checks 
+Xerophyten: checks 
+*** RIVER *** [7c Jd Tc 6s] [Ac]
+MrBarrett82 has timed out
+MrBarrett82: checks 
+DEDTAWIWASA: checks 
+dragi111213: checks 
+Xerophyten: checks 
+*** SHOW DOWN ***
+MrBarrett82: shows [Kd Kc] (a pair of Kings)
+DEDTAWIWASA: mucks hand 
+dragi111213: mucks hand 
+Xerophyten: mucks hand 
+MrBarrett82 collected $9.50 from pot
+*** SUMMARY ***
+Total pot $10 | Rake $0.50 
+Board [7c Jd Tc 6s Ac]
+Seat 1: DEDTAWIWASA mucked [9s Js]
+Seat 2: dragi111213 mucked [7d Kh]
+Seat 3: sss457 folded before Flop (didn't bet)
+Seat 4: Xerophyten (button blind) mucked [8s Td]
+Seat 5: MrBarrett82 showed [Kd Kc] and won ($9.50) with a pair of Kings
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196225175614:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:51:33 EET [2019/01/25 20:51:33 ET]
+Table 'Epeigeus' 6-max Seat #5 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: dragi111213 ($229.61 in chips) 
+Seat 3: sss457 ($221.06 in chips) 
+Seat 4: Xerophyten ($293.75 in chips) 
+Seat 5: MrBarrett82 ($601.81 in chips) 
+Seat 6: gaiggibeliin ($148 in chips) 
+DEDTAWIWASA: posts the ante $1
+dragi111213: posts the ante $1
+sss457: posts the ante $1
+Xerophyten: posts the ante $1
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7h Th]
+gaiggibeliin: folds 
+DEDTAWIWASA: calls $1
+dragi111213: calls $1
+sss457: folds 
+Xerophyten: folds 
+MrBarrett82: checks 
+*** FLOP *** [8s 6d Ks]
+DEDTAWIWASA: bets $7
+dragi111213: folds 
+MrBarrett82: folds 
+Uncalled bet ($7) returned to DEDTAWIWASA
+DEDTAWIWASA collected $8.55 from pot
+DEDTAWIWASA: doesn't show hand 
+*** SUMMARY ***
+Total pot $9 | Rake $0.45 
+Board [8s 6d Ks]
+Seat 1: DEDTAWIWASA collected ($8.55)
+Seat 2: dragi111213 folded on the Flop
+Seat 3: sss457 folded before Flop (didn't bet)
+Seat 4: Xerophyten folded before Flop (didn't bet)
+Seat 5: MrBarrett82 (button blind) folded on the Flop
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+

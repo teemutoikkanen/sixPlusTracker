@@ -1,0 +1,3325 @@
+﻿PokerStars Hand #196224318794:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 3:18:35 EET [2019/01/25 20:18:35 ET]
+Table 'Lacerta' 6-max Seat #4 is the button
+Seat 2: Artur88899 ($327.97 in chips) 
+Seat 3: gaiggibeliin ($300 in chips) 
+Seat 4: sss457 ($410.53 in chips) 
+Seat 5: aceskillmeee ($483.07 in chips) 
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+sss457: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jc 7s]
+aceskillmeee: calls $2
+Artur88899: calls $2
+gaiggibeliin: folds 
+sss457: checks 
+*** FLOP *** [Qh Td 9c]
+aceskillmeee: checks 
+Artur88899: bets $6.65
+sss457: calls $6.65
+aceskillmeee: folds 
+*** TURN *** [Qh Td 9c] [Qd]
+Artur88899: bets $12.97
+sss457: calls $12.97
+*** RIVER *** [Qh Td 9c Qd] [6s]
+Artur88899: checks 
+sss457: bets $41.39
+Artur88899: folds 
+Uncalled bet ($41.39) returned to sss457
+sss457 collected $51.74 from pot
+sss457: doesn't show hand 
+*** SUMMARY ***
+Total pot $53.24 | Rake $1.50 
+Board [Qh Td 9c Qd 6s]
+Seat 2: Artur88899 folded on the River
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: sss457 (button blind) collected ($51.74)
+Seat 5: aceskillmeee folded on the Flop
+
+
+
+PokerStars Hand #196224353465:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 3:19:52 EET [2019/01/25 20:19:52 ET]
+Table 'Lacerta' 6-max Seat #5 is the button
+Seat 2: Artur88899 ($304.35 in chips) 
+Seat 3: gaiggibeliin ($298 in chips) 
+Seat 4: sss457 ($438.65 in chips) 
+Seat 5: aceskillmeee ($479.07 in chips) 
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+aceskillmeee: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9h Jd]
+Artur88899: raises $12 to $14
+gaiggibeliin: folds 
+sss457: calls $14
+aceskillmeee: calls $12
+*** FLOP *** [Js 6c 7h]
+Artur88899: bets $48.50
+sss457: folds 
+aceskillmeee: folds 
+Uncalled bet ($48.50) returned to Artur88899
+Artur88899 collected $48.50 from pot
+*** SUMMARY ***
+Total pot $50 | Rake $1.50 
+Board [Js 6c 7h]
+Seat 2: Artur88899 collected ($48.50)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: sss457 folded on the Flop
+Seat 5: aceskillmeee (button blind) folded on the Flop
+
+
+
+PokerStars Hand #196224362953:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 3:20:13 EET [2019/01/25 20:20:13 ET]
+Table 'Lacerta' 6-max Seat #2 is the button
+Seat 2: Artur88899 ($336.85 in chips) 
+Seat 3: gaiggibeliin ($296 in chips) 
+Seat 4: sss457 ($422.65 in chips) 
+Seat 5: aceskillmeee ($463.07 in chips) 
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+Artur88899: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [As Ad]
+gaiggibeliin: calls $2
+sss457: calls $2
+aceskillmeee: calls $2
+Artur88899: checks 
+*** FLOP *** [Qs Kc 9d]
+gaiggibeliin: checks 
+sss457: checks 
+aceskillmeee: checks 
+Artur88899: bets $15.20
+gaiggibeliin: folds 
+sss457: folds 
+aceskillmeee: folds 
+Uncalled bet ($15.20) returned to Artur88899
+Artur88899 collected $15.20 from pot
+*** SUMMARY ***
+Total pot $16 | Rake $0.80 
+Board [Qs Kc 9d]
+Seat 2: Artur88899 (button blind) collected ($15.20)
+Seat 3: gaiggibeliin folded on the Flop
+Seat 4: sss457 folded on the Flop
+Seat 5: aceskillmeee folded on the Flop
+
+
+
+PokerStars Hand #196224386625:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 3:21:06 EET [2019/01/25 20:21:06 ET]
+Table 'Lacerta' 6-max Seat #3 is the button
+Seat 2: Artur88899 ($348.05 in chips) 
+Seat 3: gaiggibeliin ($292 in chips) 
+Seat 4: sss457 ($418.65 in chips) 
+Seat 5: aceskillmeee ($459.07 in chips) 
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+gaiggibeliin: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ks Ts]
+sss457: calls $2
+aceskillmeee: folds 
+Artur88899: calls $2
+gaiggibeliin: checks 
+*** FLOP *** [Kd Qs Jd]
+sss457: bets $10.64
+Artur88899: folds 
+gaiggibeliin: calls $10.64
+*** TURN *** [Kd Qs Jd] [Js]
+sss457: checks 
+gaiggibeliin: checks 
+*** RIVER *** [Kd Qs Jd Js] [9h]
+sss457: checks 
+gaiggibeliin: checks 
+*** SHOW DOWN ***
+sss457: shows [Ac Qh] (two pair, Queens and Jacks)
+gaiggibeliin: shows [Ks Ts] (a straight, Nine to King)
+gaiggibeliin collected $33.78 from pot
+*** SUMMARY ***
+Total pot $35.28 | Rake $1.50 
+Board [Kd Qs Jd Js 9h]
+Seat 2: Artur88899 folded on the Flop
+Seat 3: gaiggibeliin (button blind) showed [Ks Ts] and won ($33.78) with a straight, Nine to King
+Seat 4: sss457 showed [Ac Qh] and lost with two pair, Queens and Jacks
+Seat 5: aceskillmeee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196224427976:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 3:22:39 EET [2019/01/25 20:22:39 ET]
+Table 'Lacerta' 6-max Seat #4 is the button
+Seat 2: Artur88899 ($344.05 in chips) 
+Seat 3: gaiggibeliin ($311.14 in chips) 
+Seat 4: sss457 ($404.01 in chips) 
+Seat 5: aceskillmeee ($457.07 in chips) 
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+sss457: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7d 8h]
+aceskillmeee: folds 
+Artur88899: calls $2
+gaiggibeliin: folds 
+sss457: checks 
+*** FLOP *** [As 8d 8c]
+Artur88899: bets $11.40
+sss457: folds 
+Uncalled bet ($11.40) returned to Artur88899
+Artur88899 collected $11.40 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.60 
+Board [As 8d 8c]
+Seat 2: Artur88899 collected ($11.40)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: sss457 (button blind) folded on the Flop
+Seat 5: aceskillmeee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196224451485:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 3:23:32 EET [2019/01/25 20:23:32 ET]
+Table 'Lacerta' 6-max Seat #5 is the button
+Seat 2: Artur88899 ($351.45 in chips) 
+Seat 3: gaiggibeliin ($309.14 in chips) 
+Seat 4: sss457 ($400.01 in chips) 
+Seat 5: aceskillmeee ($455.07 in chips) 
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+aceskillmeee: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7s Ah]
+Artur88899: calls $2
+gaiggibeliin: folds 
+sss457: calls $2
+aceskillmeee: checks 
+*** FLOP *** [8c 8d 6c]
+Artur88899: checks 
+sss457: checks 
+aceskillmeee: bets $6.65
+Artur88899: folds 
+sss457: calls $6.65
+*** TURN *** [8c 8d 6c] [Ad]
+sss457: checks 
+aceskillmeee: checks 
+*** RIVER *** [8c 8d 6c Ad] [As]
+sss457: bets $20.75
+aceskillmeee: folds 
+Uncalled bet ($20.75) returned to sss457
+sss457 collected $25.94 from pot
+sss457: doesn't show hand 
+*** SUMMARY ***
+Total pot $27.30 | Rake $1.36 
+Board [8c 8d 6c Ad As]
+Seat 2: Artur88899 folded on the Flop
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: sss457 collected ($25.94)
+Seat 5: aceskillmeee (button blind) folded on the River
+
+
+
+PokerStars Hand #196224487663:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 3:24:54 EET [2019/01/25 20:24:54 ET]
+Table 'Lacerta' 6-max Seat #2 is the button
+Seat 2: Artur88899 ($347.45 in chips) 
+Seat 3: gaiggibeliin ($307.14 in chips) 
+Seat 4: sss457 ($415.30 in chips) 
+Seat 5: aceskillmeee ($444.42 in chips) 
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+Artur88899: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7d 6s]
+gaiggibeliin: folds 
+sss457: calls $2
+aceskillmeee: raises $14 to $16
+Artur88899: folds 
+sss457: calls $14
+*** FLOP *** [7s Ah 9c]
+sss457: checks 
+aceskillmeee: bets $10.13
+sss457: calls $10.13
+*** TURN *** [7s Ah 9c] [9s]
+sss457: checks 
+aceskillmeee: checks 
+*** RIVER *** [7s Ah 9c 9s] [Qd]
+sss457: bets $48.61
+aceskillmeee: calls $48.61
+*** SHOW DOWN ***
+sss457: shows [Qc As] (two pair, Aces and Queens)
+aceskillmeee: mucks hand 
+sss457 collected $157.98 from pot
+*** SUMMARY ***
+Total pot $159.48 | Rake $1.50 
+Board [7s Ah 9c 9s Qd]
+Seat 2: Artur88899 (button blind) folded before Flop
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: sss457 showed [Qc As] and won ($157.98) with two pair, Aces and Queens
+Seat 5: aceskillmeee mucked [Ad Ts]
+
+
+
+PokerStars Hand #196224513537:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 3:25:53 EET [2019/01/25 20:25:53 ET]
+Table 'Lacerta' 6-max Seat #3 is the button
+Seat 2: Artur88899 ($343.45 in chips) 
+Seat 3: gaiggibeliin ($305.14 in chips) 
+Seat 4: sss457 ($496.54 in chips) 
+Seat 5: aceskillmeee ($367.68 in chips) 
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+gaiggibeliin: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kd Jc]
+sss457: folds 
+aceskillmeee: calls $2
+Artur88899: calls $2
+gaiggibeliin: checks 
+*** FLOP *** [Qs Tc Ks]
+aceskillmeee: bets $10.64
+Artur88899: folds 
+gaiggibeliin: calls $10.64
+*** TURN *** [Qs Tc Ks] [9d]
+aceskillmeee: checks 
+gaiggibeliin: bets $22.63
+aceskillmeee: calls $22.63
+*** RIVER *** [Qs Tc Ks 9d] [Ac]
+aceskillmeee: checks 
+gaiggibeliin: bets $52.96
+aceskillmeee: folds 
+Uncalled bet ($52.96) returned to gaiggibeliin
+gaiggibeliin collected $79.04 from pot
+*** SUMMARY ***
+Total pot $80.54 | Rake $1.50 
+Board [Qs Tc Ks 9d Ac]
+Seat 2: Artur88899 folded on the Flop
+Seat 3: gaiggibeliin (button blind) collected ($79.04)
+Seat 4: sss457 folded before Flop (didn't bet)
+Seat 5: aceskillmeee folded on the River
+
+
+
+PokerStars Hand #196224557980:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 3:27:33 EET [2019/01/25 20:27:33 ET]
+Table 'Lacerta' 6-max Seat #4 is the button
+Seat 2: Artur88899 ($339.45 in chips) 
+Seat 3: gaiggibeliin ($346.91 in chips) 
+Seat 4: sss457 ($494.54 in chips) 
+Seat 5: aceskillmeee ($330.41 in chips) 
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+sss457: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6d Qd]
+aceskillmeee: folds 
+Artur88899: calls $2
+gaiggibeliin: folds 
+sss457: checks 
+*** FLOP *** [Td Kd Jd]
+Artur88899: checks 
+sss457: checks 
+*** TURN *** [Td Kd Jd] [Qs]
+Artur88899: checks 
+sss457: checks 
+*** RIVER *** [Td Kd Jd Qs] [Qc]
+Artur88899: checks 
+sss457: checks 
+*** SHOW DOWN ***
+Artur88899: shows [8c 6h] (a pair of Queens)
+sss457: shows [9s 7h] (a straight, Nine to King)
+sss457 collected $11.40 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.60 
+Board [Td Kd Jd Qs Qc]
+Seat 2: Artur88899 showed [8c 6h] and lost with a pair of Queens
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: sss457 (button blind) showed [9s 7h] and won ($11.40) with a straight, Nine to King
+Seat 5: aceskillmeee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196224592717:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 3:28:30 EET [2019/01/25 20:28:30 ET]
+Table 'Lacerta' 6-max Seat #5 is the button
+Seat 2: Artur88899 ($335.45 in chips) 
+Seat 3: gaiggibeliin ($344.91 in chips) 
+Seat 4: sss457 ($501.94 in chips) 
+Seat 5: aceskillmeee ($328.41 in chips) 
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+aceskillmeee: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Th 8h]
+Artur88899: folds 
+gaiggibeliin: calls $2
+sss457: calls $2
+aceskillmeee: raises $18 to $20
+gaiggibeliin: calls $18
+sss457: folds 
+*** FLOP *** [7c Ad Qs]
+gaiggibeliin: checks 
+aceskillmeee: bets $24.25
+gaiggibeliin: folds 
+Uncalled bet ($24.25) returned to aceskillmeee
+aceskillmeee collected $48.50 from pot
+aceskillmeee: doesn't show hand 
+*** SUMMARY ***
+Total pot $50 | Rake $1.50 
+Board [7c Ad Qs]
+Seat 2: Artur88899 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin folded on the Flop
+Seat 4: sss457 folded before Flop
+Seat 5: aceskillmeee (button blind) collected ($48.50)
+
+
+
+PokerStars Hand #196224621614:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 3:29:36 EET [2019/01/25 20:29:36 ET]
+Table 'Lacerta' 6-max Seat #2 is the button
+Seat 2: Artur88899 ($333.45 in chips) 
+Seat 3: gaiggibeliin ($322.91 in chips) 
+Seat 4: sss457 ($497.94 in chips) 
+Seat 5: aceskillmeee ($354.91 in chips) 
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+Artur88899: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9d 6d]
+gaiggibeliin: calls $2
+sss457: calls $2
+aceskillmeee: calls $2
+Artur88899: raises $16 to $18
+gaiggibeliin: calls $16
+sss457: folds 
+aceskillmeee: folds 
+*** FLOP *** [8s Jh 8d]
+gaiggibeliin: checks 
+Artur88899: bets $46.50
+gaiggibeliin: folds 
+Uncalled bet ($46.50) returned to Artur88899
+Artur88899 collected $46.50 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $1.50 
+Board [8s Jh 8d]
+Seat 2: Artur88899 (button blind) collected ($46.50)
+Seat 3: gaiggibeliin folded on the Flop
+Seat 4: sss457 folded before Flop
+Seat 5: aceskillmeee folded before Flop
+
+
+
+PokerStars Hand #196224642804:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 3:30:24 EET [2019/01/25 20:30:24 ET]
+Table 'Lacerta' 6-max Seat #3 is the button
+Seat 2: Artur88899 ($359.95 in chips) 
+Seat 3: gaiggibeliin ($302.91 in chips) 
+Seat 4: sss457 ($493.94 in chips) 
+Seat 5: aceskillmeee ($350.91 in chips) 
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+gaiggibeliin: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6c Th]
+sss457: raises $12 to $14
+aceskillmeee: raises $38 to $52
+Artur88899: calls $52
+gaiggibeliin: folds 
+sss457: calls $38
+*** FLOP *** [Qd 8s 8h]
+sss457: checks 
+aceskillmeee: bets $41.13
+Artur88899: folds 
+sss457: calls $41.13
+*** TURN *** [Qd 8s 8h] [9c]
+sss457: checks 
+aceskillmeee: bets $61.69
+sss457: raises $337.12 to $398.81 and is all-in
+aceskillmeee: calls $194.09 and is all-in
+Uncalled bet ($143.03) returned to sss457
+*** RIVER *** [Qd 8s 8h 9c] [Jd]
+*** SHOW DOWN ***
+sss457: shows [Ts Js] (a straight, Eight to Queen)
+aceskillmeee: shows [8d Td] (a straight, Eight to Queen)
+sss457 collected $379.16 from pot
+aceskillmeee collected $379.16 from pot
+*** SUMMARY ***
+Total pot $759.82 | Rake $1.50 
+Board [Qd 8s 8h 9c Jd]
+Seat 2: Artur88899 folded on the Flop
+Seat 3: gaiggibeliin (button blind) folded before Flop
+Seat 4: sss457 showed [Ts Js] and won ($379.16) with a straight, Eight to Queen
+Seat 5: aceskillmeee showed [8d Td] and won ($379.16) with a straight, Eight to Queen
+
+
+
+PokerStars Hand #196224671190:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 3:31:30 EET [2019/01/25 20:31:30 ET]
+Table 'Lacerta' 6-max Seat #4 is the button
+Seat 2: Artur88899 ($305.95 in chips) 
+Seat 3: gaiggibeliin ($298.91 in chips) 
+Seat 4: sss457 ($522.19 in chips) 
+Seat 5: aceskillmeee ($379.16 in chips) 
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+sss457: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ts 8s]
+aceskillmeee said, "peace of ****"
+aceskillmeee said, "ncie flop with your gutshot"
+aceskillmeee: folds 
+Artur88899: raises $12 to $14
+aceskillmeee said, "******"
+aceskillmeee said, "play hu little ******"
+gaiggibeliin: calls $14
+sss457: calls $12
+*** FLOP *** [Jc 8c 8d]
+Artur88899: bets $48.50
+gaiggibeliin: calls $48.50
+sss457: folds 
+*** TURN *** [Jc 8c 8d] [Jh]
+Artur88899: bets $72.75
+gaiggibeliin: calls $72.75
+*** RIVER *** [Jc 8c 8d Jh] [7h]
+Artur88899: bets $168.70 and is all-in
+gaiggibeliin: folds 
+Uncalled bet ($168.70) returned to Artur88899
+Artur88899 collected $291 from pot
+*** SUMMARY ***
+Total pot $292.50 | Rake $1.50 
+Board [Jc 8c 8d Jh 7h]
+Seat 2: Artur88899 collected ($291)
+Seat 3: gaiggibeliin folded on the River
+Seat 4: sss457 (button blind) folded on the Flop
+Seat 5: aceskillmeee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196224721860:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 3:33:26 EET [2019/01/25 20:33:26 ET]
+Table 'Lacerta' 6-max Seat #5 is the button
+Seat 2: Artur88899 ($459.70 in chips) 
+Seat 3: gaiggibeliin ($300 in chips) 
+Seat 4: sss457 ($506.19 in chips) 
+Seat 5: aceskillmeee ($377.16 in chips) 
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+aceskillmeee: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8c Kc]
+Artur88899: raises $12 to $14
+gaiggibeliin: folds 
+sss457: folds 
+aceskillmeee: calls $12
+*** FLOP *** [Jd 9d Ks]
+Artur88899: bets $34.50
+aceskillmeee: folds 
+Uncalled bet ($34.50) returned to Artur88899
+Artur88899 collected $34.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $1.50 
+Board [Jd 9d Ks]
+Seat 2: Artur88899 collected ($34.50)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: sss457 folded before Flop (didn't bet)
+Seat 5: aceskillmeee (button blind) folded on the Flop
+
+
+
+PokerStars Hand #196224731873:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 3:33:50 EET [2019/01/25 20:33:50 ET]
+Table 'Lacerta' 6-max Seat #2 is the button
+Seat 2: Artur88899 ($478.20 in chips) 
+Seat 3: gaiggibeliin ($298 in chips) 
+Seat 4: sss457 ($504.19 in chips) 
+Seat 5: aceskillmeee ($361.16 in chips) 
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+Artur88899: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kd Ks]
+gaiggibeliin: raises $16 to $18
+sss457: folds 
+aceskillmeee: calls $18
+Artur88899: calls $16
+*** FLOP *** [6s Tc Jd]
+gaiggibeliin: checks 
+aceskillmeee: checks 
+Artur88899: checks 
+*** TURN *** [6s Tc Jd] [Ah]
+gaiggibeliin: checks 
+aceskillmeee: bets $48.40
+Artur88899: folds 
+gaiggibeliin: folds 
+Uncalled bet ($48.40) returned to aceskillmeee
+aceskillmeee collected $60.50 from pot
+aceskillmeee: doesn't show hand 
+*** SUMMARY ***
+Total pot $62 | Rake $1.50 
+Board [6s Tc Jd Ah]
+Seat 2: Artur88899 (button blind) folded on the Turn
+Seat 3: gaiggibeliin folded on the Turn
+Seat 4: sss457 folded before Flop (didn't bet)
+Seat 5: aceskillmeee collected ($60.50)
+
+
+
+PokerStars Hand #196224754290:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 3:34:42 EET [2019/01/25 20:34:42 ET]
+Table 'Lacerta' 6-max Seat #3 is the button
+Seat 2: Artur88899 ($458.20 in chips) 
+Seat 3: gaiggibeliin ($278 in chips) 
+Seat 4: sss457 ($502.19 in chips) 
+Seat 5: aceskillmeee ($401.66 in chips) 
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+gaiggibeliin: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jd 6s]
+sss457: folds 
+aceskillmeee: raises $12 to $14
+Artur88899: calls $14
+gaiggibeliin: folds 
+*** FLOP *** [Ad Ks Th]
+aceskillmeee: checks 
+Artur88899: bets $18.25
+aceskillmeee: folds 
+Uncalled bet ($18.25) returned to Artur88899
+Artur88899 collected $36.50 from pot
+*** SUMMARY ***
+Total pot $38 | Rake $1.50 
+Board [Ad Ks Th]
+Seat 2: Artur88899 collected ($36.50)
+Seat 3: gaiggibeliin (button blind) folded before Flop
+Seat 4: sss457 folded before Flop (didn't bet)
+Seat 5: aceskillmeee folded on the Flop
+
+
+
+PokerStars Hand #196224766166:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 3:35:10 EET [2019/01/25 20:35:10 ET]
+Table 'Lacerta' 6-max Seat #4 is the button
+Seat 2: Artur88899 ($478.70 in chips) 
+Seat 3: gaiggibeliin ($274 in chips) 
+Seat 4: sss457 ($500.19 in chips) 
+Seat 5: aceskillmeee ($385.66 in chips) 
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+sss457: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8c 9s]
+aceskillmeee: folds 
+Artur88899: folds 
+gaiggibeliin: calls $2
+sss457: checks 
+*** FLOP *** [Jh Ts Th]
+gaiggibeliin: bets $8
+sss457: folds 
+Uncalled bet ($8) returned to gaiggibeliin
+gaiggibeliin collected $11.40 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.60 
+Board [Jh Ts Th]
+Seat 2: Artur88899 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin collected ($11.40)
+Seat 4: sss457 (button blind) folded on the Flop
+Seat 5: aceskillmeee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196224779761:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 3:35:42 EET [2019/01/25 20:35:42 ET]
+Table 'Lacerta' 6-max Seat #5 is the button
+Seat 2: Artur88899 ($476.70 in chips) 
+Seat 3: gaiggibeliin ($281.40 in chips) 
+Seat 4: sss457 ($496.19 in chips) 
+Seat 5: aceskillmeee ($383.66 in chips) 
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+aceskillmeee: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9s 8s]
+Artur88899: calls $2
+gaiggibeliin: raises $18 to $20
+sss457: folds 
+aceskillmeee: calls $18
+Artur88899: calls $18
+*** FLOP *** [Ac Qh 8h]
+Artur88899: checks 
+gaiggibeliin: checks 
+aceskillmeee: checks 
+*** TURN *** [Ac Qh 8h] [6d]
+Artur88899: bets $66.50
+gaiggibeliin: folds 
+aceskillmeee: calls $66.50
+*** RIVER *** [Ac Qh 8h 6d] [Qs]
+Artur88899: checks 
+aceskillmeee: checks 
+*** SHOW DOWN ***
+Artur88899: shows [9h 7d] (a straight, Ace to Nine)
+aceskillmeee: mucks hand 
+Artur88899 collected $199.50 from pot
+*** SUMMARY ***
+Total pot $201 | Rake $1.50 
+Board [Ac Qh 8h 6d Qs]
+Seat 2: Artur88899 showed [9h 7d] and won ($199.50) with a straight, Ace to Nine
+Seat 3: gaiggibeliin folded on the Turn
+Seat 4: sss457 folded before Flop (didn't bet)
+Seat 5: aceskillmeee (button blind) mucked [Tc Jc]
+
+
+
+PokerStars Hand #196224807934:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 3:36:47 EET [2019/01/25 20:36:47 ET]
+Table 'Lacerta' 6-max Seat #2 is the button
+Seat 2: Artur88899 ($587.70 in chips) 
+Seat 3: gaiggibeliin ($300 in chips) 
+Seat 4: sss457 ($494.19 in chips) 
+Seat 5: aceskillmeee ($295.16 in chips) 
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+Artur88899: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jh As]
+gaiggibeliin: raises $16 to $18
+sss457: folds 
+aceskillmeee: folds 
+Artur88899: calls $16
+*** FLOP *** [Ac 9c Kh]
+gaiggibeliin: bets $22.10
+Artur88899: calls $22.10
+*** TURN *** [Ac 9c Kh] [8h]
+gaiggibeliin: checks 
+Artur88899: checks 
+*** RIVER *** [Ac 9c Kh 8h] [Td]
+gaiggibeliin: checks 
+Artur88899: checks 
+*** SHOW DOWN ***
+gaiggibeliin: shows [Jh As] (a pair of Aces)
+Artur88899: mucks hand 
+gaiggibeliin collected $86.70 from pot
+*** SUMMARY ***
+Total pot $88.20 | Rake $1.50 
+Board [Ac 9c Kh 8h Td]
+Seat 2: Artur88899 (button blind) mucked [Kc 6c]
+Seat 3: gaiggibeliin showed [Jh As] and won ($86.70) with a pair of Aces
+Seat 4: sss457 folded before Flop (didn't bet)
+Seat 5: aceskillmeee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196224831246:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 3:37:42 EET [2019/01/25 20:37:42 ET]
+Table 'Lacerta' 6-max Seat #3 is the button
+Seat 2: Artur88899 ($545.60 in chips) 
+Seat 3: gaiggibeliin ($344.60 in chips) 
+Seat 4: sss457 ($492.19 in chips) 
+Seat 5: aceskillmeee ($298 in chips) 
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+gaiggibeliin: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qc Th]
+sss457: folds 
+aceskillmeee: calls $2
+Artur88899: folds 
+fish2013 joins the table at seat #1 
+gaiggibeliin: checks 
+*** FLOP *** [Qh 7c 7d]
+aceskillmeee: checks 
+gaiggibeliin: bets $5.93
+aceskillmeee: calls $5.93
+*** TURN *** [Qh 7c 7d] [9c]
+aceskillmeee: checks 
+gaiggibeliin: checks 
+*** RIVER *** [Qh 7c 7d 9c] [As]
+aceskillmeee: bets $34.01
+gaiggibeliin: folds 
+Uncalled bet ($34.01) returned to aceskillmeee
+aceskillmeee collected $22.67 from pot
+aceskillmeee: doesn't show hand 
+*** SUMMARY ***
+Total pot $23.86 | Rake $1.19 
+Board [Qh 7c 7d 9c As]
+Seat 2: Artur88899 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin (button blind) folded on the River
+Seat 4: sss457 folded before Flop (didn't bet)
+Seat 5: aceskillmeee collected ($22.67)
+
+
+
+PokerStars Hand #196224865244:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 3:39:01 EET [2019/01/25 20:39:01 ET]
+Table 'Lacerta' 6-max Seat #4 is the button
+Seat 1: fish2013 ($200 in chips) 
+Seat 2: Artur88899 ($543.60 in chips) 
+Seat 3: gaiggibeliin ($334.67 in chips) 
+Seat 4: sss457 ($490.19 in chips) 
+Seat 5: aceskillmeee ($310.74 in chips) 
+fish2013: posts the ante $2
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+sss457: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [As Js]
+aceskillmeee: folds 
+fish2013: folds 
+Artur88899: calls $2
+gaiggibeliin: raises $18 to $20
+sss457: folds 
+Artur88899: calls $18
+*** FLOP *** [6h Ks Kc]
+Artur88899: checks 
+gaiggibeliin: bets $16.30
+Artur88899: folds 
+Uncalled bet ($16.30) returned to gaiggibeliin
+gaiggibeliin collected $49.40 from pot
+*** SUMMARY ***
+Total pot $52 | Rake $2.60 
+Board [6h Ks Kc]
+Seat 1: fish2013 folded before Flop (didn't bet)
+Seat 2: Artur88899 folded on the Flop
+Seat 3: gaiggibeliin collected ($49.40)
+Seat 4: sss457 (button blind) folded before Flop
+Seat 5: aceskillmeee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196224893085:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 3:40:06 EET [2019/01/25 20:40:06 ET]
+Table 'Lacerta' 6-max Seat #5 is the button
+Seat 1: fish2013 ($198 in chips) 
+Seat 2: Artur88899 ($521.60 in chips) 
+Seat 3: gaiggibeliin ($362.07 in chips) 
+Seat 4: sss457 ($486.19 in chips) 
+Seat 5: aceskillmeee ($308.74 in chips) 
+fish2013: posts the ante $2
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+aceskillmeee: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9h 8s]
+fish2013: folds 
+Artur88899: folds 
+gaiggibeliin: calls $2
+sss457: raises $16 to $18
+aceskillmeee: folds 
+gaiggibeliin: calls $16
+*** FLOP *** [7d Jd 8d]
+gaiggibeliin: checks 
+sss457: bets $22.80
+gaiggibeliin: calls $22.80
+*** TURN *** [7d Jd 8d] [Qh]
+gaiggibeliin: checks 
+sss457: bets $59.47
+gaiggibeliin: folds 
+Uncalled bet ($59.47) returned to sss457
+sss457 collected $90.10 from pot
+sss457: doesn't show hand 
+*** SUMMARY ***
+Total pot $93.60 | Rake $3.50 
+Board [7d Jd 8d Qh]
+Seat 1: fish2013 folded before Flop (didn't bet)
+Seat 2: Artur88899 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin folded on the Turn
+Seat 4: sss457 collected ($90.10)
+Seat 5: aceskillmeee (button blind) folded before Flop
+
+
+
+PokerStars Hand #196224917555:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 3:41:05 EET [2019/01/25 20:41:05 ET]
+Table 'Lacerta' 6-max Seat #1 is the button
+Seat 1: fish2013 ($196 in chips) 
+Seat 2: Artur88899 ($519.60 in chips) 
+Seat 3: gaiggibeliin ($319.27 in chips) 
+Seat 4: sss457 ($533.49 in chips) 
+Seat 5: aceskillmeee ($304.74 in chips) 
+fish2013: posts the ante $2
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+fish2013: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ac Js]
+Artur88899: calls $2
+gaiggibeliin: raises $20 to $22
+sss457: folds 
+aceskillmeee: folds 
+fish2013: folds 
+Artur88899: calls $20
+*** FLOP *** [6d 8d Th]
+Artur88899: bets $16
+gaiggibeliin: calls $16
+*** TURN *** [6d 8d Th] [Kh]
+Artur88899: checks 
+gaiggibeliin: checks 
+*** RIVER *** [6d 8d Th Kh] [6s]
+Artur88899: checks 
+gaiggibeliin: checks 
+*** SHOW DOWN ***
+Artur88899: shows [Qd 8c] (two pair, Eights and Sixes)
+gaiggibeliin: mucks hand 
+Artur88899 collected $84.50 from pot
+*** SUMMARY ***
+Total pot $88 | Rake $3.50 
+Board [6d 8d Th Kh 6s]
+Seat 1: fish2013 (button blind) folded before Flop
+Seat 2: Artur88899 showed [Qd 8c] and won ($84.50) with two pair, Eights and Sixes
+Seat 3: gaiggibeliin mucked [Ac Js]
+Seat 4: sss457 folded before Flop (didn't bet)
+Seat 5: aceskillmeee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196224947948:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 3:42:17 EET [2019/01/25 20:42:17 ET]
+Table 'Lacerta' 6-max Seat #2 is the button
+Seat 1: fish2013 ($192 in chips) 
+Seat 2: Artur88899 ($564.10 in chips) 
+Seat 3: gaiggibeliin ($279.27 in chips) 
+Seat 4: sss457 ($531.49 in chips) 
+Seat 5: aceskillmeee ($302.74 in chips) 
+fish2013: posts the ante $2
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+Artur88899: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qs 8c]
+gaiggibeliin: folds 
+sss457: calls $2
+aceskillmeee: folds 
+fish2013: calls $2
+Artur88899: raises $16 to $18
+sss457: folds 
+fish2013: calls $16
+*** FLOP *** [Jc 8d As]
+fish2013: checks 
+Artur88899: checks 
+*** TURN *** [Jc 8d As] [7d]
+fish2013: checks 
+Artur88899: bets $45.60
+fish2013: raises $126.40 to $172 and is all-in
+Artur88899: calls $126.40
+*** RIVER *** [Jc 8d As 7d] [8h]
+*** SHOW DOWN ***
+fish2013: shows [Td Kd] (a pair of Eights)
+Artur88899: shows [7s 7c] (a full house, Sevens full of Eights)
+Artur88899 collected $388.50 from pot
+*** SUMMARY ***
+Total pot $392 | Rake $3.50 
+Board [Jc 8d As 7d 8h]
+Seat 1: fish2013 showed [Td Kd] and lost with a pair of Eights
+Seat 2: Artur88899 (button blind) showed [7s 7c] and won ($388.50) with a full house, Sevens full of Eights
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: sss457 folded before Flop
+Seat 5: aceskillmeee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196224990052:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 3:43:58 EET [2019/01/25 20:43:58 ET]
+Table 'Lacerta' 6-max Seat #3 is the button
+Seat 1: fish2013 ($200 in chips) 
+Seat 2: Artur88899 ($760.60 in chips) 
+Seat 3: gaiggibeliin ($277.27 in chips) 
+Seat 4: sss457 ($527.49 in chips) 
+Seat 5: aceskillmeee ($300.74 in chips) 
+fish2013: posts the ante $2
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+gaiggibeliin: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6h Tc]
+sss457: folds 
+aceskillmeee: folds 
+fish2013: calls $2
+Artur88899: raises $16 to $18
+gaiggibeliin: folds 
+fish2013: folds 
+Uncalled bet ($16) returned to Artur88899
+Artur88899 collected $16 from pot
+*** SUMMARY ***
+Total pot $16 | Rake $0 
+Seat 1: fish2013 folded before Flop
+Seat 2: Artur88899 collected ($16)
+Seat 3: gaiggibeliin (button blind) folded before Flop
+Seat 4: sss457 folded before Flop (didn't bet)
+Seat 5: aceskillmeee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196224999049:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 3:44:20 EET [2019/01/25 20:44:20 ET]
+Table 'Lacerta' 6-max Seat #4 is the button
+Seat 1: fish2013 ($196 in chips) 
+Seat 2: Artur88899 ($772.60 in chips) 
+Seat 3: gaiggibeliin ($273.27 in chips) 
+Seat 4: sss457 ($525.49 in chips) 
+Seat 5: aceskillmeee ($298.74 in chips) 
+fish2013: posts the ante $2
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+sss457: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7s 7d]
+aceskillmeee: folds 
+fish2013: calls $2
+Artur88899: calls $2
+gaiggibeliin: calls $2
+sss457: checks 
+*** FLOP *** [Ah 9c 9d]
+fish2013: bets $4.45
+Artur88899: raises $4.45 to $8.90
+gaiggibeliin: folds 
+sss457: calls $8.90
+fish2013: calls $4.45
+*** TURN *** [Ah 9c 9d] [7h]
+fish2013: checks 
+Artur88899: bets $42.46
+sss457: calls $42.46
+fish2013: calls $42.46
+*** RIVER *** [Ah 9c 9d 7h] [8h]
+fish2013: checks 
+Artur88899: checks 
+sss457: checks 
+*** SHOW DOWN ***
+fish2013: shows [8d 6d] (a straight, Ace to Nine)
+Artur88899: shows [6s 9s] (a straight, Ace to Nine)
+sss457: mucks hand 
+fish2013 collected $84.29 from pot
+Artur88899 collected $84.29 from pot
+*** SUMMARY ***
+Total pot $172.08 | Rake $3.50 
+Board [Ah 9c 9d 7h 8h]
+Seat 1: fish2013 showed [8d 6d] and won ($84.29) with a straight, Ace to Nine
+Seat 2: Artur88899 showed [6s 9s] and won ($84.29) with a straight, Ace to Nine
+Seat 3: gaiggibeliin folded on the Flop
+Seat 4: sss457 (button blind) mucked [Ks 9h]
+Seat 5: aceskillmeee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196225048410:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 3:46:19 EET [2019/01/25 20:46:19 ET]
+Table 'Lacerta' 6-max Seat #5 is the button
+Seat 1: fish2013 ($224.93 in chips) 
+Seat 2: Artur88899 ($801.53 in chips) 
+Seat 3: gaiggibeliin ($269.27 in chips) 
+Seat 4: sss457 ($470.13 in chips) 
+Seat 5: aceskillmeee ($296.74 in chips) 
+fish2013: posts the ante $2
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+aceskillmeee: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qh 6h]
+fish2013: raises $10 to $12
+Artur88899: calls $12
+gaiggibeliin: folds 
+sss457: folds 
+aceskillmeee: calls $10
+*** FLOP *** [8s 6c 9d]
+fish2013: checks 
+Artur88899: bets $43.70
+aceskillmeee: raises $239.04 to $282.74 and is all-in
+fish2013: folds 
+Artur88899: folds 
+Uncalled bet ($239.04) returned to aceskillmeee
+aceskillmeee collected $129.90 from pot
+aceskillmeee: doesn't show hand 
+*** SUMMARY ***
+Total pot $133.40 | Rake $3.50 
+Board [8s 6c 9d]
+Seat 1: fish2013 folded on the Flop
+Seat 2: Artur88899 folded on the Flop
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: sss457 folded before Flop (didn't bet)
+Seat 5: aceskillmeee (button blind) collected ($129.90)
+
+
+
+PokerStars Hand #196225080320:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 3:47:38 EET [2019/01/25 20:47:38 ET]
+Table 'Lacerta' 6-max Seat #1 is the button
+Seat 1: fish2013 ($210.93 in chips) 
+Seat 2: Artur88899 ($743.83 in chips) 
+Seat 3: gaiggibeliin ($267.27 in chips) 
+Seat 4: sss457 ($468.13 in chips) 
+Seat 5: aceskillmeee ($368.94 in chips) 
+fish2013: posts the ante $2
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+fish2013: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9d 8c]
+Artur88899: folds 
+gaiggibeliin: folds 
+sss457: folds 
+aceskillmeee: folds 
+Uncalled bet ($2) returned to fish2013
+fish2013 collected $10 from pot
+fish2013: doesn't show hand 
+*** SUMMARY ***
+Total pot $10 | Rake $0 
+Seat 1: fish2013 (button blind) collected ($10)
+Seat 2: Artur88899 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: sss457 folded before Flop (didn't bet)
+Seat 5: aceskillmeee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196225091875:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 3:48:06 EET [2019/01/25 20:48:06 ET]
+Table 'Lacerta' 6-max Seat #2 is the button
+Seat 1: fish2013 ($218.93 in chips) 
+Seat 2: Artur88899 ($741.83 in chips) 
+Seat 3: gaiggibeliin ($265.27 in chips) 
+Seat 4: sss457 ($466.13 in chips) 
+Seat 5: aceskillmeee ($366.94 in chips) 
+fish2013: posts the ante $2
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+Artur88899: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6c Qc]
+gaiggibeliin: folds 
+sss457: folds 
+aceskillmeee: calls $2
+fish2013: calls $2
+Artur88899: checks 
+*** FLOP *** [Tc 9h Jh]
+aceskillmeee: checks 
+fish2013: bets $7.75
+Artur88899: calls $7.75
+aceskillmeee: calls $7.75
+*** TURN *** [Tc 9h Jh] [7d]
+aceskillmeee: checks 
+fish2013: bets $24.24
+Artur88899: calls $24.24
+aceskillmeee: folds 
+*** RIVER *** [Tc 9h Jh 7d] [9d]
+fish2013: checks 
+Artur88899: checks 
+*** SHOW DOWN ***
+fish2013: shows [Qh 8s] (a straight, Eight to Queen)
+Artur88899: mucks hand 
+fish2013 collected $84.23 from pot
+*** SUMMARY ***
+Total pot $87.73 | Rake $3.50 
+Board [Tc 9h Jh 7d 9d]
+Seat 1: fish2013 showed [Qh 8s] and won ($84.23) with a straight, Eight to Queen
+Seat 2: Artur88899 (button blind) mucked [Qd Th]
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: sss457 folded before Flop (didn't bet)
+Seat 5: aceskillmeee folded on the Turn
+
+
+
+PokerStars Hand #196225130387:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 3:49:41 EET [2019/01/25 20:49:41 ET]
+Table 'Lacerta' 6-max Seat #3 is the button
+Seat 1: fish2013 ($267.17 in chips) 
+Seat 2: Artur88899 ($705.84 in chips) 
+Seat 3: gaiggibeliin ($263.27 in chips) 
+Seat 4: sss457 ($464.13 in chips) 
+Seat 5: aceskillmeee ($355.19 in chips) 
+fish2013: posts the ante $2
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+gaiggibeliin: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Td Kc]
+sss457: calls $2
+aceskillmeee: calls $2
+fish2013: folds 
+Artur88899: calls $2
+gaiggibeliin: checks 
+*** FLOP *** [7c Qs 7d]
+sss457: checks 
+aceskillmeee: bets $2
+Artur88899: folds 
+gaiggibeliin: folds 
+sss457: calls $2
+*** TURN *** [7c Qs 7d] [9d]
+sss457: checks 
+aceskillmeee: bets $31.35
+sss457: folds 
+Uncalled bet ($31.35) returned to aceskillmeee
+aceskillmeee collected $20.90 from pot
+aceskillmeee: doesn't show hand 
+*** SUMMARY ***
+Total pot $22 | Rake $1.10 
+Board [7c Qs 7d 9d]
+Seat 1: fish2013 folded before Flop (didn't bet)
+Seat 2: Artur88899 folded on the Flop
+Seat 3: gaiggibeliin (button blind) folded on the Flop
+Seat 4: sss457 folded on the Turn
+Seat 5: aceskillmeee collected ($20.90)
+
+
+
+PokerStars Hand #196225167767:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 3:51:14 EET [2019/01/25 20:51:14 ET]
+Table 'Lacerta' 6-max Seat #4 is the button
+Seat 1: fish2013 ($265.17 in chips) 
+Seat 2: Artur88899 ($701.84 in chips) 
+Seat 3: gaiggibeliin ($259.27 in chips) 
+Seat 4: sss457 ($458.13 in chips) 
+Seat 5: aceskillmeee ($370.09 in chips) 
+fish2013: posts the ante $2
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+sss457: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7d Kh]
+aceskillmeee: folds 
+fish2013: calls $2
+Artur88899: calls $2
+gaiggibeliin: folds 
+sss457: checks 
+*** FLOP *** [Jc Js Qd]
+fish2013: checks 
+Artur88899: checks 
+sss457: checks 
+*** TURN *** [Jc Js Qd] [Kc]
+fish2013: checks 
+Artur88899: checks 
+sss457: checks 
+*** RIVER *** [Jc Js Qd Kc] [7h]
+fish2013: bets $5.17
+Artur88899: folds 
+sss457: folds 
+Uncalled bet ($5.17) returned to fish2013
+fish2013 collected $15.20 from pot
+fish2013: doesn't show hand 
+*** SUMMARY ***
+Total pot $16 | Rake $0.80 
+Board [Jc Js Qd Kc 7h]
+Seat 1: fish2013 collected ($15.20)
+Seat 2: Artur88899 folded on the River
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: sss457 (button blind) folded on the River
+Seat 5: aceskillmeee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196225204423:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 3:52:45 EET [2019/01/25 20:52:45 ET]
+Table 'Lacerta' 6-max Seat #5 is the button
+Seat 1: fish2013 ($276.37 in chips) 
+Seat 2: Artur88899 ($697.84 in chips) 
+Seat 3: gaiggibeliin ($300 in chips) 
+Seat 4: sss457 ($454.13 in chips) 
+Seat 5: aceskillmeee ($368.09 in chips) 
+fish2013: posts the ante $2
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+aceskillmeee: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qc 9c]
+fish2013: calls $2
+Artur88899: calls $2
+gaiggibeliin: calls $2
+sss457: calls $2
+aceskillmeee: checks 
+*** FLOP *** [Ah Ac 8h]
+fish2013: checks 
+Artur88899: checks 
+gaiggibeliin: checks 
+sss457: checks 
+aceskillmeee: bets $10
+fish2013: folds 
+Artur88899: folds 
+gaiggibeliin: folds 
+sss457: folds 
+Uncalled bet ($10) returned to aceskillmeee
+aceskillmeee collected $19 from pot
+aceskillmeee: doesn't show hand 
+*** SUMMARY ***
+Total pot $20 | Rake $1 
+Board [Ah Ac 8h]
+Seat 1: fish2013 folded on the Flop
+Seat 2: Artur88899 folded on the Flop
+Seat 3: gaiggibeliin folded on the Flop
+Seat 4: sss457 folded on the Flop
+Seat 5: aceskillmeee (button blind) collected ($19)
+
+
+
+PokerStars Hand #196225235538:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 3:54:03 EET [2019/01/25 20:54:03 ET]
+Table 'Lacerta' 6-max Seat #1 is the button
+Seat 1: fish2013 ($272.37 in chips) 
+Seat 2: Artur88899 ($693.84 in chips) 
+Seat 3: gaiggibeliin ($296 in chips) 
+Seat 4: sss457 ($450.13 in chips) 
+Seat 5: aceskillmeee ($383.09 in chips) 
+fish2013: posts the ante $2
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+fish2013: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6c Jc]
+Artur88899: calls $2
+gaiggibeliin: folds 
+sss457: folds 
+aceskillmeee: raises $16 to $18
+fish2013: folds 
+Artur88899: calls $16
+*** FLOP *** [Js 6h 6d]
+Artur88899: bets $45.60
+aceskillmeee: folds 
+Uncalled bet ($45.60) returned to Artur88899
+Artur88899 collected $45.60 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $2.40 
+Board [Js 6h 6d]
+Seat 1: fish2013 (button blind) folded before Flop
+Seat 2: Artur88899 collected ($45.60)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: sss457 folded before Flop (didn't bet)
+Seat 5: aceskillmeee folded on the Flop
+
+
+
+PokerStars Hand #196225251295:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 3:54:42 EET [2019/01/25 20:54:42 ET]
+Table 'Lacerta' 6-max Seat #2 is the button
+Seat 1: fish2013 ($268.37 in chips) 
+Seat 2: Artur88899 ($719.44 in chips) 
+Seat 3: gaiggibeliin ($294 in chips) 
+Seat 4: sss457 ($448.13 in chips) 
+Seat 5: aceskillmeee ($363.09 in chips) 
+fish2013: posts the ante $2
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+Artur88899: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qc 7c]
+gaiggibeliin: folds 
+sss457: folds 
+aceskillmeee: calls $2
+fish2013: folds 
+Artur88899: raises $14 to $16
+aceskillmeee: calls $14
+*** FLOP *** [6d Th Ad]
+aceskillmeee: checks 
+Artur88899: bets $39.90
+aceskillmeee: folds 
+Uncalled bet ($39.90) returned to Artur88899
+Artur88899 collected $39.90 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $2.10 
+Board [6d Th Ad]
+Seat 1: fish2013 folded before Flop (didn't bet)
+Seat 2: Artur88899 (button blind) collected ($39.90)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: sss457 folded before Flop (didn't bet)
+Seat 5: aceskillmeee folded on the Flop
+
+
+
+PokerStars Hand #196225271378:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 3:55:37 EET [2019/01/25 20:55:37 ET]
+Table 'Lacerta' 6-max Seat #3 is the button
+Seat 1: fish2013 ($266.37 in chips) 
+Seat 2: Artur88899 ($741.34 in chips) 
+Seat 3: gaiggibeliin ($292 in chips) 
+Seat 4: sss457 ($446.13 in chips) 
+Seat 5: aceskillmeee ($345.09 in chips) 
+fish2013: posts the ante $2
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+gaiggibeliin: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9s Kh]
+sss457: folds 
+aceskillmeee: folds 
+fish2013: raises $12 to $14
+Artur88899: calls $14
+gaiggibeliin: folds 
+*** FLOP *** [8s Kd Qh]
+fish2013: checks 
+Artur88899: checks 
+*** TURN *** [8s Kd Qh] [8c]
+fish2013: bets $38
+Artur88899: calls $38
+*** RIVER *** [8s Kd Qh 8c] [Qc]
+fish2013: checks 
+Artur88899: checks 
+*** SHOW DOWN ***
+fish2013: shows [Ts Ac] (two pair, Queens and Eights)
+Artur88899: shows [As Js] (two pair, Queens and Eights)
+fish2013 collected $56.25 from pot
+Artur88899 collected $56.25 from pot
+*** SUMMARY ***
+Total pot $116 | Rake $3.50 
+Board [8s Kd Qh 8c Qc]
+Seat 1: fish2013 showed [Ts Ac] and won ($56.25) with two pair, Queens and Eights
+Seat 2: Artur88899 showed [As Js] and won ($56.25) with two pair, Queens and Eights
+Seat 3: gaiggibeliin (button blind) folded before Flop
+Seat 4: sss457 folded before Flop (didn't bet)
+Seat 5: aceskillmeee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196225308687:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 3:57:25 EET [2019/01/25 20:57:25 ET]
+Table 'Lacerta' 6-max Seat #4 is the button
+Seat 1: fish2013 ($268.62 in chips) 
+Seat 2: Artur88899 ($743.59 in chips) 
+Seat 3: gaiggibeliin ($288 in chips) 
+Seat 4: sss457 ($444.13 in chips) 
+Seat 5: aceskillmeee ($343.09 in chips) 
+fish2013: posts the ante $2
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+sss457: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jd Ts]
+aceskillmeee: folds 
+fish2013: calls $2
+Artur88899: calls $2
+gaiggibeliin: calls $2
+sss457: checks 
+*** FLOP *** [8s 8h Ac]
+fish2013: checks 
+Artur88899: bets $17.10
+gaiggibeliin: folds 
+sss457: folds 
+fish2013: folds 
+Uncalled bet ($17.10) returned to Artur88899
+Artur88899 collected $17.10 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.90 
+Board [8s 8h Ac]
+Seat 1: fish2013 folded on the Flop
+Seat 2: Artur88899 collected ($17.10)
+Seat 3: gaiggibeliin folded on the Flop
+Seat 4: sss457 (button blind) folded on the Flop
+Seat 5: aceskillmeee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196225324799:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 3:58:12 EET [2019/01/25 20:58:12 ET]
+Table 'Lacerta' 6-max Seat #5 is the button
+Seat 1: fish2013 ($264.62 in chips) 
+Seat 2: Artur88899 ($756.69 in chips) 
+Seat 3: gaiggibeliin ($284 in chips) 
+Seat 4: sss457 ($440.13 in chips) 
+Seat 5: aceskillmeee ($341.09 in chips) 
+fish2013: posts the ante $2
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+aceskillmeee: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jh Th]
+fish2013: folds 
+Artur88899: calls $2
+gaiggibeliin: calls $2
+sss457: calls $2
+aceskillmeee: checks 
+*** FLOP *** [8h 9h 6s]
+Artur88899: bets $17.10
+gaiggibeliin: raises $28.90 to $46
+sss457: raises $390.13 to $436.13 and is all-in
+aceskillmeee: folds 
+Artur88899: folds 
+gaiggibeliin: calls $234 and is all-in
+Uncalled bet ($156.13) returned to sss457
+*** TURN *** [8h 9h 6s] [7c]
+*** RIVER *** [8h 9h 6s 7c] [As]
+*** SHOW DOWN ***
+gaiggibeliin: shows [Jh Th] (a straight, Seven to Jack)
+sss457: shows [7d Ad] (a straight, Ace to Nine)
+gaiggibeliin collected $591.60 from pot
+*** SUMMARY ***
+Total pot $595.10 | Rake $3.50 
+Board [8h 9h 6s 7c As]
+Seat 1: fish2013 folded before Flop (didn't bet)
+Seat 2: Artur88899 folded on the Flop
+Seat 3: gaiggibeliin showed [Jh Th] and won ($591.60) with a straight, Seven to Jack
+Seat 4: sss457 showed [7d Ad] and lost with a straight, Ace to Nine
+Seat 5: aceskillmeee (button blind) folded on the Flop
+
+
+
+PokerStars Hand #196225350406:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 3:59:28 EET [2019/01/25 20:59:28 ET]
+Table 'Lacerta' 6-max Seat #1 is the button
+Seat 1: fish2013 ($262.62 in chips) 
+Seat 2: Artur88899 ($735.59 in chips) 
+Seat 3: gaiggibeliin ($591.60 in chips) 
+Seat 4: sss457 ($200 in chips) 
+Seat 5: aceskillmeee ($337.09 in chips) 
+fish2013: posts the ante $2
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+fish2013: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jh Kh]
+aceskillmeee said, "nh"
+Artur88899: calls $2
+gaiggibeliin: raises $20 to $22
+sss457: folds 
+aceskillmeee: folds 
+fish2013: folds 
+Artur88899: calls $20
+*** FLOP *** [7d 9d 6c]
+Artur88899: bets $53.20
+gaiggibeliin: folds 
+Uncalled bet ($53.20) returned to Artur88899
+Artur88899 collected $53.20 from pot
+*** SUMMARY ***
+Total pot $56 | Rake $2.80 
+Board [7d 9d 6c]
+Seat 1: fish2013 (button blind) folded before Flop
+Seat 2: Artur88899 collected ($53.20)
+Seat 3: gaiggibeliin folded on the Flop
+Seat 4: sss457 folded before Flop (didn't bet)
+Seat 5: aceskillmeee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196225369783:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 4:00:24 EET [2019/01/25 21:00:24 ET]
+Table 'Lacerta' 6-max Seat #2 is the button
+Seat 1: fish2013 ($258.62 in chips) 
+Seat 2: Artur88899 ($764.79 in chips) 
+Seat 3: gaiggibeliin ($567.60 in chips) 
+Seat 4: sss457 ($200 in chips) 
+Seat 5: aceskillmeee ($335.09 in chips) 
+fish2013: posts the ante $2
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+Artur88899: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qc 6h]
+gaiggibeliin: folds 
+sss457: calls $2
+aceskillmeee: calls $2
+fish2013: calls $2
+Artur88899: checks 
+*** FLOP *** [9d 9s 6s]
+sss457: bets $8.55
+aceskillmeee: folds 
+fish2013: folds 
+Artur88899: folds 
+Uncalled bet ($8.55) returned to sss457
+sss457 collected $17.10 from pot
+sss457: doesn't show hand 
+*** SUMMARY ***
+Total pot $18 | Rake $0.90 
+Board [9d 9s 6s]
+Seat 1: fish2013 folded on the Flop
+Seat 2: Artur88899 (button blind) folded on the Flop
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: sss457 collected ($17.10)
+Seat 5: aceskillmeee folded on the Flop
+
+
+
+PokerStars Hand #196225387885:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 4:01:14 EET [2019/01/25 21:01:14 ET]
+Table 'Lacerta' 6-max Seat #3 is the button
+Seat 1: fish2013 ($254.62 in chips) 
+Seat 2: Artur88899 ($760.79 in chips) 
+Seat 3: gaiggibeliin ($565.60 in chips) 
+Seat 4: sss457 ($213.10 in chips) 
+Seat 5: aceskillmeee ($331.09 in chips) 
+fish2013: posts the ante $2
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+gaiggibeliin: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6d 6s]
+sss457: folds 
+aceskillmeee: folds 
+fish2013: raises $12 to $14
+Artur88899: calls $14
+gaiggibeliin: calls $12
+*** FLOP *** [Kc Ad Js]
+fish2013: checks 
+Artur88899: checks 
+samjin12 joins the table at seat #6 
+gaiggibeliin: checks 
+*** TURN *** [Kc Ad Js] [6h]
+fish2013: bets $32.11
+Artur88899: folds 
+gaiggibeliin: raises $55.89 to $88
+fish2013: folds 
+Uncalled bet ($55.89) returned to gaiggibeliin
+gaiggibeliin collected $112.72 from pot
+*** SUMMARY ***
+Total pot $116.22 | Rake $3.50 
+Board [Kc Ad Js 6h]
+Seat 1: fish2013 folded on the Turn
+Seat 2: Artur88899 folded on the Turn
+Seat 3: gaiggibeliin (button blind) collected ($112.72)
+Seat 4: sss457 folded before Flop (didn't bet)
+Seat 5: aceskillmeee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196225426823:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 4:02:55 EET [2019/01/25 21:02:55 ET]
+Table 'Lacerta' 6-max Seat #4 is the button
+Seat 1: fish2013 ($206.51 in chips) 
+Seat 2: Artur88899 ($744.79 in chips) 
+Seat 3: gaiggibeliin ($630.21 in chips) 
+Seat 4: sss457 ($211.10 in chips) 
+Seat 5: aceskillmeee ($329.09 in chips) 
+Seat 6: samjin12 ($300 in chips) 
+fish2013: posts the ante $2
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+samjin12: posts the ante $2
+sss457: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qd 8c]
+aceskillmeee: folds 
+samjin12: raises $4 to $6
+fish2013: raises $14 to $20
+Artur88899: calls $20
+gaiggibeliin: folds 
+sss457: folds 
+samjin12: folds 
+*** FLOP *** [7s Td Th]
+fish2013: bets $19.38
+Artur88899: calls $19.38
+*** TURN *** [7s Td Th] [Qc]
+fish2013: checks 
+Artur88899: checks 
+*** RIVER *** [7s Td Th Qc] [7c]
+fish2013: bets $48.58
+Artur88899: folds 
+Uncalled bet ($48.58) returned to fish2013
+fish2013 collected $95.26 from pot
+fish2013: doesn't show hand 
+*** SUMMARY ***
+Total pot $98.76 | Rake $3.50 
+Board [7s Td Th Qc 7c]
+Seat 1: fish2013 collected ($95.26)
+Seat 2: Artur88899 folded on the River
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: sss457 (button blind) folded before Flop
+Seat 5: aceskillmeee folded before Flop (didn't bet)
+Seat 6: samjin12 folded before Flop
+
+
+
+PokerStars Hand #196225459188:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 4:04:19 EET [2019/01/25 21:04:19 ET]
+Table 'Lacerta' 6-max Seat #5 is the button
+Seat 2: Artur88899 ($703.41 in chips) 
+Seat 3: gaiggibeliin ($628.21 in chips) 
+Seat 4: sss457 ($207.10 in chips) 
+Seat 5: aceskillmeee ($327.09 in chips) 
+Seat 6: samjin12 ($292 in chips) 
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+samjin12: posts the ante $2
+aceskillmeee: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ts Qs]
+samjin12: raises $4 to $6
+Artur88899: calls $6
+gaiggibeliin: calls $6
+sss457: folds 
+aceskillmeee: calls $4
+*** FLOP *** [As Td Jh]
+samjin12: bets $28
+Artur88899: calls $28
+gaiggibeliin: folds 
+aceskillmeee: folds 
+*** TURN *** [As Td Jh] [7d]
+samjin12: bets $70
+Artur88899: raises $226.50 to $296.50
+samjin12: calls $186 and is all-in
+Uncalled bet ($40.50) returned to Artur88899
+*** RIVER *** [As Td Jh 7d] [Qc]
+*** SHOW DOWN ***
+samjin12: shows [Jc Jd] (three of a kind, Jacks)
+Artur88899: shows [9d 8d] (a straight, Eight to Queen)
+Artur88899 collected $598.50 from pot
+*** SUMMARY ***
+Total pot $602 | Rake $3.50 
+Board [As Td Jh 7d Qc]
+Seat 2: Artur88899 showed [9d 8d] and won ($598.50) with a straight, Eight to Queen
+Seat 3: gaiggibeliin folded on the Flop
+Seat 4: sss457 folded before Flop (didn't bet)
+Seat 5: aceskillmeee (button blind) folded on the Flop
+Seat 6: samjin12 showed [Jc Jd] and lost with three of a kind, Jacks
+
+
+
+PokerStars Hand #196225495596:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 4:05:52 EET [2019/01/25 21:05:52 ET]
+Table 'Lacerta' 6-max Seat #2 is the button
+Seat 2: Artur88899 ($1009.91 in chips) 
+Seat 3: gaiggibeliin ($620.21 in chips) 
+Seat 4: sss457 ($205.10 in chips) 
+Seat 5: aceskillmeee ($319.09 in chips) 
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+Artur88899: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [As 7c]
+gaiggibeliin: folds 
+fish2013 leaves the table
+sss457: folds 
+samjin12 leaves the table
+aceskillmeee: raises $12 to $14
+Artur88899: calls $12
+*** FLOP *** [Ks 8d 7s]
+aceskillmeee: checks 
+Artur88899: bets $34.50
+aceskillmeee: folds 
+Uncalled bet ($34.50) returned to Artur88899
+Artur88899 collected $34.50 from pot
+*** SUMMARY ***
+Total pot $36 | Rake $1.50 
+Board [Ks 8d 7s]
+Seat 2: Artur88899 (button blind) collected ($34.50)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: sss457 folded before Flop (didn't bet)
+Seat 5: aceskillmeee folded on the Flop
+
+
+
+PokerStars Hand #196225511937:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 4:06:34 EET [2019/01/25 21:06:34 ET]
+Table 'Lacerta' 6-max Seat #3 is the button
+Seat 2: Artur88899 ($1028.41 in chips) 
+Seat 3: gaiggibeliin ($618.21 in chips) 
+Seat 4: sss457 ($203.10 in chips) 
+Seat 5: aceskillmeee ($303.09 in chips) 
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+gaiggibeliin: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qs Jc]
+sss457: folds 
+aceskillmeee: folds 
+Artur88899: folds 
+Uncalled bet ($2) returned to gaiggibeliin
+gaiggibeliin collected $8 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0 
+Seat 2: Artur88899 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin (button blind) collected ($8)
+Seat 4: sss457 folded before Flop (didn't bet)
+Seat 5: aceskillmeee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196225516956:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 4:06:47 EET [2019/01/25 21:06:47 ET]
+Table 'Lacerta' 6-max Seat #4 is the button
+Seat 2: Artur88899 ($1026.41 in chips) 
+Seat 3: gaiggibeliin ($624.21 in chips) 
+Seat 4: sss457 ($201.10 in chips) 
+Seat 5: aceskillmeee ($301.09 in chips) 
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+sss457: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Js 6d]
+aceskillmeee: raises $12 to $14
+Artur88899: calls $14
+gaiggibeliin: folds 
+sss457: calls $12
+*** FLOP *** [Tc Th 9h]
+aceskillmeee: checks 
+Artur88899: checks 
+sss457: bets $24.25
+aceskillmeee: folds 
+Artur88899: calls $24.25
+*** TURN *** [Tc Th 9h] [Ac]
+Artur88899: checks 
+ArranAJFJ joins the table at seat #1 
+sss457: checks 
+*** RIVER *** [Tc Th 9h Ac] [Qs]
+Artur88899: bets $97
+sss457: folds 
+Uncalled bet ($97) returned to Artur88899
+Artur88899 collected $97 from pot
+*** SUMMARY ***
+Total pot $98.50 | Rake $1.50 
+Board [Tc Th 9h Ac Qs]
+Seat 2: Artur88899 collected ($97)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: sss457 (button blind) folded on the River
+Seat 5: aceskillmeee folded on the Flop
+
+
+
+PokerStars Hand #196225544796:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 4:07:59 EET [2019/01/25 21:07:59 ET]
+Table 'Lacerta' 6-max Seat #5 is the button
+Seat 1: ArranAJFJ ($200 in chips) 
+Seat 2: Artur88899 ($1083.16 in chips) 
+Seat 3: gaiggibeliin ($622.21 in chips) 
+Seat 4: sss457 ($200 in chips) 
+Seat 5: aceskillmeee ($285.09 in chips) 
+ArranAJFJ: posts the ante $2
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+aceskillmeee: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kd Qs]
+ArranAJFJ: folds 
+Artur88899: folds 
+gaiggibeliin: raises $20 to $22
+sss457: folds 
+aceskillmeee: folds 
+Uncalled bet ($20) returned to gaiggibeliin
+gaiggibeliin collected $14 from pot
+*** SUMMARY ***
+Total pot $14 | Rake $0 
+Seat 1: ArranAJFJ folded before Flop (didn't bet)
+Seat 2: Artur88899 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin collected ($14)
+Seat 4: sss457 folded before Flop (didn't bet)
+Seat 5: aceskillmeee (button blind) folded before Flop
+
+
+
+PokerStars Hand #196225556715:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 4:08:29 EET [2019/01/25 21:08:29 ET]
+Table 'Lacerta' 6-max Seat #1 is the button
+Seat 1: ArranAJFJ ($198 in chips) 
+Seat 2: Artur88899 ($1081.16 in chips) 
+Seat 3: gaiggibeliin ($632.21 in chips) 
+Seat 4: sss457 ($200 in chips) 
+Seat 5: aceskillmeee ($281.09 in chips) 
+ArranAJFJ: posts the ante $2
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+ArranAJFJ: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jd 9c]
+Artur88899: folds 
+gaiggibeliin: folds 
+sss457: calls $2
+aceskillmeee: calls $2
+ArranAJFJ: checks 
+*** FLOP *** [As 8s Jh]
+sss457: bets $12.16
+aceskillmeee: folds 
+ArranAJFJ: folds 
+Uncalled bet ($12.16) returned to sss457
+sss457 collected $15.20 from pot
+sss457: doesn't show hand 
+*** SUMMARY ***
+Total pot $16 | Rake $0.80 
+Board [As 8s Jh]
+Seat 1: ArranAJFJ (button blind) folded on the Flop
+Seat 2: Artur88899 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: sss457 collected ($15.20)
+Seat 5: aceskillmeee folded on the Flop
+
+
+
+PokerStars Hand #196225570070:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 4:09:03 EET [2019/01/25 21:09:03 ET]
+Table 'Lacerta' 6-max Seat #2 is the button
+Seat 1: ArranAJFJ ($194 in chips) 
+Seat 2: Artur88899 ($1079.16 in chips) 
+Seat 3: gaiggibeliin ($630.21 in chips) 
+Seat 4: sss457 ($211.20 in chips) 
+Seat 5: aceskillmeee ($277.09 in chips) 
+ArranAJFJ: posts the ante $2
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+Artur88899: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ks 6d]
+gaiggibeliin: folds 
+sss457: folds 
+aceskillmeee: folds 
+ArranAJFJ: calls $2
+Artur88899: checks 
+*** FLOP *** [8d 9s 9c]
+ArranAJFJ: bets $6.66
+Artur88899: folds 
+Uncalled bet ($6.66) returned to ArranAJFJ
+ArranAJFJ collected $13.30 from pot
+ArranAJFJ: doesn't show hand 
+*** SUMMARY ***
+Total pot $14 | Rake $0.70 
+Board [8d 9s 9c]
+Seat 1: ArranAJFJ collected ($13.30)
+Seat 2: Artur88899 (button blind) folded on the Flop
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: sss457 folded before Flop (didn't bet)
+Seat 5: aceskillmeee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196225586420:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 4:09:45 EET [2019/01/25 21:09:45 ET]
+Table 'Lacerta' 6-max Seat #3 is the button
+Seat 1: ArranAJFJ ($203.30 in chips) 
+Seat 2: Artur88899 ($1075.16 in chips) 
+Seat 3: gaiggibeliin ($628.21 in chips) 
+Seat 4: sss457 ($209.20 in chips) 
+Seat 5: aceskillmeee ($275.09 in chips) 
+ArranAJFJ: posts the ante $2
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+gaiggibeliin: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8c 7s]
+sss457: folds 
+aceskillmeee: raises $14 to $16
+ArranAJFJ: folds 
+Artur88899: raises $44 to $60
+gaiggibeliin: folds 
+aceskillmeee: folds 
+Uncalled bet ($44) returned to Artur88899
+Artur88899 collected $44 from pot
+*** SUMMARY ***
+Total pot $44 | Rake $0 
+Seat 1: ArranAJFJ folded before Flop (didn't bet)
+Seat 2: Artur88899 collected ($44)
+Seat 3: gaiggibeliin (button blind) folded before Flop
+Seat 4: sss457 folded before Flop (didn't bet)
+Seat 5: aceskillmeee folded before Flop
+
+
+
+PokerStars Hand #196225599861:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 4:10:20 EET [2019/01/25 21:10:20 ET]
+Table 'Lacerta' 6-max Seat #4 is the button
+Seat 1: ArranAJFJ ($201.30 in chips) 
+Seat 2: Artur88899 ($1101.16 in chips) 
+Seat 3: gaiggibeliin ($624.21 in chips) 
+Seat 4: sss457 ($207.20 in chips) 
+Seat 5: aceskillmeee ($257.09 in chips) 
+ArranAJFJ: posts the ante $2
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+sss457: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ac 6h]
+aceskillmeee: calls $2
+ArranAJFJ: raises $12 to $14
+Artur88899: calls $14
+gaiggibeliin: folds 
+sss457: folds 
+aceskillmeee: calls $12
+*** FLOP *** [Ah 9c 9s]
+aceskillmeee: checks 
+ArranAJFJ: bets $18
+Artur88899: folds 
+aceskillmeee: folds 
+Uncalled bet ($18) returned to ArranAJFJ
+ArranAJFJ collected $51.30 from pot
+ArranAJFJ: doesn't show hand 
+*** SUMMARY ***
+Total pot $54 | Rake $2.70 
+Board [Ah 9c 9s]
+Seat 1: ArranAJFJ collected ($51.30)
+Seat 2: Artur88899 folded on the Flop
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: sss457 (button blind) folded before Flop
+Seat 5: aceskillmeee folded on the Flop
+
+
+
+PokerStars Hand #196225616556:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 4:11:02 EET [2019/01/25 21:11:02 ET]
+Table 'Lacerta' 6-max Seat #5 is the button
+Seat 1: ArranAJFJ ($236.60 in chips) 
+Seat 2: Artur88899 ($1085.16 in chips) 
+Seat 3: gaiggibeliin ($622.21 in chips) 
+Seat 4: sss457 ($203.20 in chips) 
+Seat 5: aceskillmeee ($284 in chips) 
+ArranAJFJ: posts the ante $2
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+aceskillmeee: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7d Kh]
+ArranAJFJ: folds 
+Artur88899: folds 
+gaiggibeliin: folds 
+sss457: calls $2
+aceskillmeee: checks 
+*** FLOP *** [8c Ac Tc]
+sss457: bets $10.64
+aceskillmeee: calls $10.64
+*** TURN *** [8c Ac Tc] [Ts]
+sss457: checks 
+aceskillmeee: checks 
+*** RIVER *** [8c Ac Tc Ts] [9c]
+sss457: checks 
+aceskillmeee: checks 
+*** SHOW DOWN ***
+sss457: shows [Jd Kd] (a pair of Tens)
+aceskillmeee: shows [6d 7h] (a straight, Six to Ten)
+aceskillmeee collected $33.52 from pot
+*** SUMMARY ***
+Total pot $35.28 | Rake $1.76 
+Board [8c Ac Tc Ts 9c]
+Seat 1: ArranAJFJ folded before Flop (didn't bet)
+Seat 2: Artur88899 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: sss457 showed [Jd Kd] and lost with a pair of Tens
+Seat 5: aceskillmeee (button blind) showed [6d 7h] and won ($33.52) with a straight, Six to Ten
+
+
+
+PokerStars Hand #196225634228:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 4:11:48 EET [2019/01/25 21:11:48 ET]
+Table 'Lacerta' 6-max Seat #1 is the button
+Seat 1: ArranAJFJ ($234.60 in chips) 
+Seat 2: Artur88899 ($1083.16 in chips) 
+Seat 3: gaiggibeliin ($620.21 in chips) 
+Seat 4: sss457 ($200 in chips) 
+Seat 5: aceskillmeee ($302.88 in chips) 
+ArranAJFJ: posts the ante $2
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+ArranAJFJ: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Th 7d]
+Artur88899: calls $2
+gaiggibeliin: calls $2
+sss457: calls $2
+aceskillmeee: calls $2
+ArranAJFJ: checks 
+*** FLOP *** [9h Qs Tc]
+Artur88899: checks 
+gaiggibeliin: checks 
+sss457: checks 
+aceskillmeee: bets $15.20
+ArranAJFJ: folds 
+Artur88899: calls $15.20
+gaiggibeliin: folds 
+sss457: folds 
+*** TURN *** [9h Qs Tc] [9d]
+Artur88899: checks 
+aceskillmeee: checks 
+*** RIVER *** [9h Qs Tc 9d] [6d]
+Artur88899: bets $47.88
+aceskillmeee: folds 
+Uncalled bet ($47.88) returned to Artur88899
+Artur88899 collected $47.88 from pot
+*** SUMMARY ***
+Total pot $50.40 | Rake $2.52 
+Board [9h Qs Tc 9d 6d]
+Seat 1: ArranAJFJ (button blind) folded on the Flop
+Seat 2: Artur88899 collected ($47.88)
+Seat 3: gaiggibeliin folded on the Flop
+Seat 4: sss457 folded on the Flop
+Seat 5: aceskillmeee folded on the River
+
+
+
+PokerStars Hand #196225675581:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 4:13:37 EET [2019/01/25 21:13:37 ET]
+Table 'Lacerta' 6-max Seat #2 is the button
+Seat 1: ArranAJFJ ($230.60 in chips) 
+Seat 2: Artur88899 ($1111.84 in chips) 
+Seat 3: gaiggibeliin ($616.21 in chips) 
+Seat 4: sss457 ($200 in chips) 
+Seat 5: aceskillmeee ($283.68 in chips) 
+ArranAJFJ: posts the ante $2
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+Artur88899: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ts 7c]
+gaiggibeliin: folds 
+sss457: folds 
+aceskillmeee: folds 
+ArranAJFJ: folds 
+Uncalled bet ($2) returned to Artur88899
+Artur88899 collected $10 from pot
+*** SUMMARY ***
+Total pot $10 | Rake $0 
+Seat 1: ArranAJFJ folded before Flop (didn't bet)
+Seat 2: Artur88899 (button blind) collected ($10)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: sss457 folded before Flop (didn't bet)
+Seat 5: aceskillmeee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196225678152:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 4:13:44 EET [2019/01/25 21:13:44 ET]
+Table 'Lacerta' 6-max Seat #3 is the button
+Seat 1: ArranAJFJ ($228.60 in chips) 
+Seat 2: Artur88899 ($1119.84 in chips) 
+Seat 3: gaiggibeliin ($614.21 in chips) 
+Seat 4: sss457 ($200 in chips) 
+Seat 5: aceskillmeee ($281.68 in chips) 
+ArranAJFJ: posts the ante $2
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+gaiggibeliin: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qh Kh]
+sss457: calls $2
+aceskillmeee: calls $2
+vaik1111 joins the table at seat #6 
+ArranAJFJ: folds 
+Artur88899: calls $2
+gaiggibeliin: raises $26 to $28
+sss457: folds 
+aceskillmeee: folds 
+Artur88899: calls $26
+*** FLOP *** [7s 6c Tc]
+Artur88899: bets $33.25
+gaiggibeliin: folds 
+Uncalled bet ($33.25) returned to Artur88899
+Artur88899 collected $66.50 from pot
+*** SUMMARY ***
+Total pot $70 | Rake $3.50 
+Board [7s 6c Tc]
+Seat 1: ArranAJFJ folded before Flop (didn't bet)
+Seat 2: Artur88899 collected ($66.50)
+Seat 3: gaiggibeliin (button blind) folded on the Flop
+Seat 4: sss457 folded before Flop
+Seat 5: aceskillmeee folded before Flop
+
+
+
+PokerStars Hand #196225702190:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 4:14:47 EET [2019/01/25 21:14:47 ET]
+Table 'Lacerta' 6-max Seat #4 is the button
+Seat 1: ArranAJFJ ($226.60 in chips) 
+Seat 2: Artur88899 ($1156.34 in chips) 
+Seat 3: gaiggibeliin ($584.21 in chips) 
+Seat 4: sss457 ($200 in chips) 
+Seat 5: aceskillmeee ($277.68 in chips) 
+Seat 6: vaik1111 ($300 in chips) 
+ArranAJFJ: posts the ante $2
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+vaik1111: posts the ante $2
+sss457: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7c 6h]
+aceskillmeee: folds 
+vaik1111: folds 
+ArranAJFJ: folds 
+Artur88899: raises $16 to $18
+gaiggibeliin: folds 
+sss457: folds 
+Uncalled bet ($16) returned to Artur88899
+Artur88899 collected $16 from pot
+*** SUMMARY ***
+Total pot $16 | Rake $0 
+Seat 1: ArranAJFJ folded before Flop (didn't bet)
+Seat 2: Artur88899 collected ($16)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: sss457 (button blind) folded before Flop
+Seat 5: aceskillmeee folded before Flop (didn't bet)
+Seat 6: vaik1111 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196225713365:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 4:15:16 EET [2019/01/25 21:15:16 ET]
+Table 'Lacerta' 6-max Seat #5 is the button
+Seat 1: ArranAJFJ ($224.60 in chips) 
+Seat 2: Artur88899 ($1168.34 in chips) 
+Seat 3: gaiggibeliin ($582.21 in chips) 
+Seat 4: sss457 ($200 in chips) 
+Seat 5: aceskillmeee ($275.68 in chips) 
+Seat 6: vaik1111 ($298 in chips) 
+ArranAJFJ: posts the ante $2
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+vaik1111: posts the ante $2
+aceskillmeee: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8d 6d]
+vaik1111: raises $16 to $18
+ArranAJFJ: folds 
+Artur88899: folds 
+gaiggibeliin: folds 
+sss457: folds 
+aceskillmeee: calls $16
+*** FLOP *** [8c 9c As]
+vaik1111: bets $22.80
+aceskillmeee: calls $22.80
+*** TURN *** [8c 9c As] [Ts]
+vaik1111: bets $45.05
+aceskillmeee: calls $45.05
+*** RIVER *** [8c 9c As Ts] [Qd]
+vaik1111: checks 
+aceskillmeee: bets $187.83 and is all-in
+vaik1111: folds 
+Uncalled bet ($187.83) returned to aceskillmeee
+aceskillmeee collected $180.20 from pot
+aceskillmeee: doesn't show hand 
+*** SUMMARY ***
+Total pot $183.70 | Rake $3.50 
+Board [8c 9c As Ts Qd]
+Seat 1: ArranAJFJ folded before Flop (didn't bet)
+Seat 2: Artur88899 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: sss457 folded before Flop (didn't bet)
+Seat 5: aceskillmeee (button blind) collected ($180.20)
+Seat 6: vaik1111 folded on the River
+
+
+
+PokerStars Hand #196225739904:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 4:16:26 EET [2019/01/25 21:16:26 ET]
+Table 'Lacerta' 6-max Seat #6 is the button
+Seat 1: ArranAJFJ ($222.60 in chips) 
+Seat 2: Artur88899 ($1166.34 in chips) 
+Seat 3: gaiggibeliin ($580.21 in chips) 
+Seat 4: sss457 ($200 in chips) 
+Seat 5: aceskillmeee ($368.03 in chips) 
+Seat 6: vaik1111 ($210.15 in chips) 
+ArranAJFJ: posts the ante $2
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+vaik1111: posts the ante $2
+vaik1111: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qc Ac]
+ArranAJFJ: folds 
+Artur88899: calls $2
+gaiggibeliin: raises $22 to $24
+sss457: folds 
+aceskillmeee: folds 
+vaik1111: folds 
+Artur88899: calls $22
+*** FLOP *** [8d Qd 7s]
+Artur88899: bets $58.90
+gaiggibeliin: calls $58.90
+*** TURN *** [8d Qd 7s] [6c]
+Artur88899: bets $88.15
+gaiggibeliin: folds 
+Uncalled bet ($88.15) returned to Artur88899
+Artur88899 collected $176.30 from pot
+*** SUMMARY ***
+Total pot $179.80 | Rake $3.50 
+Board [8d Qd 7s 6c]
+Seat 1: ArranAJFJ folded before Flop (didn't bet)
+Seat 2: Artur88899 collected ($176.30)
+Seat 3: gaiggibeliin folded on the Turn
+Seat 4: sss457 folded before Flop (didn't bet)
+Seat 5: aceskillmeee folded before Flop (didn't bet)
+Seat 6: vaik1111 (button blind) folded before Flop
+
+
+
+PokerStars Hand #196225773173:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 4:17:30 EET [2019/01/25 21:17:30 ET]
+Table 'Lacerta' 6-max Seat #1 is the button
+Seat 1: ArranAJFJ ($220.60 in chips) 
+Seat 2: Artur88899 ($1257.74 in chips) 
+Seat 3: gaiggibeliin ($495.31 in chips) 
+Seat 4: sss457 ($200 in chips) 
+Seat 5: aceskillmeee ($366.03 in chips) 
+Seat 6: vaik1111 ($206.15 in chips) 
+ArranAJFJ: posts the ante $2
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+vaik1111: posts the ante $2
+ArranAJFJ: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ah 6s]
+Artur88899: calls $2
+gaiggibeliin: folds 
+sss457: calls $2
+aceskillmeee: folds 
+vaik1111: raises $8 to $10
+ArranAJFJ: raises $208.60 to $218.60 and is all-in
+Artur88899: folds 
+sss457: calls $196 and is all-in
+vaik1111: folds 
+Uncalled bet ($20.60) returned to ArranAJFJ
+*** FLOP *** [7s 9c 9d]
+*** TURN *** [7s 9c 9d] [8s]
+*** RIVER *** [7s 9c 9d 8s] [8d]
+*** SHOW DOWN ***
+sss457: shows [Kd Ac] (two pair, Nines and Eights)
+ArranAJFJ: shows [Kh Kc] (two pair, Kings and Nines)
+ArranAJFJ collected $416.50 from pot
+*** SUMMARY ***
+Total pot $420 | Rake $3.50 
+Board [7s 9c 9d 8s 8d]
+Seat 1: ArranAJFJ (button blind) showed [Kh Kc] and won ($416.50) with two pair, Kings and Nines
+Seat 2: Artur88899 folded before Flop
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: sss457 showed [Kd Ac] and lost with two pair, Nines and Eights
+Seat 5: aceskillmeee folded before Flop (didn't bet)
+Seat 6: vaik1111 folded before Flop
+
+
+
+PokerStars Hand #196225793441:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 4:18:24 EET [2019/01/25 21:18:24 ET]
+Table 'Lacerta' 6-max Seat #2 is the button
+Seat 1: ArranAJFJ ($437.10 in chips) 
+Seat 2: Artur88899 ($1253.74 in chips) 
+Seat 3: gaiggibeliin ($493.31 in chips) 
+Seat 4: sss457 ($200 in chips) 
+Seat 5: aceskillmeee ($364.03 in chips) 
+Seat 6: vaik1111 ($194.15 in chips) 
+ArranAJFJ: posts the ante $2
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+vaik1111: posts the ante $2
+Artur88899: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7s Ks]
+gaiggibeliin: folds 
+sss457: folds 
+aceskillmeee said, "nh"
+aceskillmeee: folds 
+vaik1111: folds 
+ArranAJFJ: folds 
+Uncalled bet ($2) returned to Artur88899
+Artur88899 collected $12 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0 
+Seat 1: ArranAJFJ folded before Flop (didn't bet)
+Seat 2: Artur88899 (button blind) collected ($12)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: sss457 folded before Flop (didn't bet)
+Seat 5: aceskillmeee folded before Flop (didn't bet)
+Seat 6: vaik1111 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196225797354:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 4:18:34 EET [2019/01/25 21:18:34 ET]
+Table 'Lacerta' 6-max Seat #3 is the button
+Seat 1: ArranAJFJ ($435.10 in chips) 
+Seat 2: Artur88899 ($1263.74 in chips) 
+Seat 3: gaiggibeliin ($491.31 in chips) 
+Seat 4: sss457 ($200 in chips) 
+Seat 5: aceskillmeee ($362.03 in chips) 
+Seat 6: vaik1111 ($192.15 in chips) 
+ArranAJFJ: posts the ante $2
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+vaik1111: posts the ante $2
+gaiggibeliin: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ks 9c]
+sss457: calls $2
+aceskillmeee: folds 
+vaik1111: raises $4 to $6
+ArranAJFJ: folds 
+Artur88899: folds 
+gaiggibeliin: calls $4
+sss457: raises $26 to $32
+vaik1111: calls $26
+gaiggibeliin: folds 
+*** FLOP *** [7d Qc 9s]
+sss457: bets $51.81
+vaik1111: folds 
+Uncalled bet ($51.81) returned to sss457
+sss457 collected $78.50 from pot
+sss457: doesn't show hand 
+*** SUMMARY ***
+Total pot $82 | Rake $3.50 
+Board [7d Qc 9s]
+Seat 1: ArranAJFJ folded before Flop (didn't bet)
+Seat 2: Artur88899 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin (button blind) folded before Flop
+Seat 4: sss457 collected ($78.50)
+Seat 5: aceskillmeee folded before Flop (didn't bet)
+Seat 6: vaik1111 folded on the Flop
+
+
+
+PokerStars Hand #196225821933:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 4:19:40 EET [2019/01/25 21:19:40 ET]
+Table 'Lacerta' 6-max Seat #4 is the button
+Seat 1: ArranAJFJ ($433.10 in chips) 
+Seat 2: Artur88899 ($1261.74 in chips) 
+Seat 3: gaiggibeliin ($483.31 in chips) 
+Seat 4: sss457 ($244.50 in chips) 
+Seat 5: aceskillmeee ($360.03 in chips) 
+Seat 6: vaik1111 ($158.15 in chips) 
+ArranAJFJ: posts the ante $2
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+vaik1111: posts the ante $2
+sss457: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9s Ts]
+aceskillmeee: calls $2
+vaik1111: raises $4 to $6
+ArranAJFJ: folds 
+Artur88899: calls $6
+gaiggibeliin: calls $6
+sss457: calls $4
+aceskillmeee: calls $4
+*** FLOP *** [7c Qs Jc]
+aceskillmeee: checks 
+vaik1111: bets $39.90
+Artur88899: raises $119.70 to $159.60
+gaiggibeliin: folds 
+sss457: folds 
+aceskillmeee: folds 
+vaik1111: calls $110.25 and is all-in
+Uncalled bet ($9.45) returned to Artur88899
+*** TURN *** [7c Qs Jc] [Ks]
+*** RIVER *** [7c Qs Jc Ks] [Qh]
+*** SHOW DOWN ***
+vaik1111: shows [As Qc] (three of a kind, Queens)
+Artur88899: shows [Jh Qd] (a full house, Queens full of Jacks)
+Artur88899 collected $338.80 from pot
+*** SUMMARY ***
+Total pot $342.30 | Rake $3.50 
+Board [7c Qs Jc Ks Qh]
+Seat 1: ArranAJFJ folded before Flop (didn't bet)
+Seat 2: Artur88899 showed [Jh Qd] and won ($338.80) with a full house, Queens full of Jacks
+Seat 3: gaiggibeliin folded on the Flop
+Seat 4: sss457 (button blind) folded on the Flop
+Seat 5: aceskillmeee folded on the Flop
+Seat 6: vaik1111 showed [As Qc] and lost with three of a kind, Queens
+
+
+
+PokerStars Hand #196225855757:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 4:21:11 EET [2019/01/25 21:21:11 ET]
+Table 'Lacerta' 6-max Seat #5 is the button
+Seat 1: ArranAJFJ ($431.10 in chips) 
+Seat 2: Artur88899 ($1442.39 in chips) 
+Seat 3: gaiggibeliin ($475.31 in chips) 
+Seat 4: sss457 ($236.50 in chips) 
+Seat 5: aceskillmeee ($352.03 in chips) 
+ArranAJFJ: posts the ante $2
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+aceskillmeee: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8c Js]
+vaik1111 leaves the table
+ArranAJFJ: folds 
+Artur88899: raises $14 to $16
+gaiggibeliin: folds 
+sss457: folds 
+aceskillmeee: folds 
+Uncalled bet ($14) returned to Artur88899
+Artur88899 collected $14 from pot
+*** SUMMARY ***
+Total pot $14 | Rake $0 
+Seat 1: ArranAJFJ folded before Flop (didn't bet)
+Seat 2: Artur88899 collected ($14)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: sss457 folded before Flop (didn't bet)
+Seat 5: aceskillmeee (button blind) folded before Flop
+
+
+
+PokerStars Hand #196225870876:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 4:21:51 EET [2019/01/25 21:21:51 ET]
+Table 'Lacerta' 6-max Seat #1 is the button
+Seat 1: ArranAJFJ ($429.10 in chips) 
+Seat 2: Artur88899 ($1452.39 in chips) 
+Seat 3: gaiggibeliin ($473.31 in chips) 
+Seat 4: sss457 ($234.50 in chips) 
+Seat 5: aceskillmeee ($348.03 in chips) 
+ArranAJFJ: posts the ante $2
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+ArranAJFJ: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7h Qs]
+Artur88899: folds 
+gaiggibeliin: folds 
+sss457: folds 
+aceskillmeee: raises $14 to $16
+ArranAJFJ: calls $14
+*** FLOP *** [Ks 9d 8c]
+aceskillmeee: checks 
+ArranAJFJ: bets $28
+aceskillmeee: raises $78 to $106
+ArranAJFJ: calls $78
+*** TURN *** [Ks 9d 8c] [6h]
+aceskillmeee: bets $224.03 and is all-in
+ArranAJFJ: folds 
+Uncalled bet ($224.03) returned to aceskillmeee
+aceskillmeee collected $250.50 from pot
+aceskillmeee: doesn't show hand 
+*** SUMMARY ***
+Total pot $254 | Rake $3.50 
+Board [Ks 9d 8c 6h]
+Seat 1: ArranAJFJ (button blind) folded on the Turn
+Seat 2: Artur88899 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: sss457 folded before Flop (didn't bet)
+Seat 5: aceskillmeee collected ($250.50)
+
+
+
+PokerStars Hand #196225894353:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 4:22:54 EET [2019/01/25 21:22:54 ET]
+Table 'Lacerta' 6-max Seat #2 is the button
+Seat 1: ArranAJFJ ($305.10 in chips) 
+Seat 2: Artur88899 ($1450.39 in chips) 
+Seat 3: gaiggibeliin ($471.31 in chips) 
+Seat 4: sss457 ($232.50 in chips) 
+Seat 5: aceskillmeee ($474.53 in chips) 
+ArranAJFJ: posts the ante $2
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+Artur88899: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [As Js]
+gaiggibeliin: raises $18 to $20
+sss457: folds 
+aceskillmeee: folds 
+ArranAJFJ: folds 
+Artur88899: calls $18
+*** FLOP *** [Kh 7h 7c]
+gaiggibeliin: bets $18
+Artur88899: folds 
+Uncalled bet ($18) returned to gaiggibeliin
+gaiggibeliin collected $47.50 from pot
+*** SUMMARY ***
+Total pot $50 | Rake $2.50 
+Board [Kh 7h 7c]
+Seat 1: ArranAJFJ folded before Flop (didn't bet)
+Seat 2: Artur88899 (button blind) folded on the Flop
+Seat 3: gaiggibeliin collected ($47.50)
+Seat 4: sss457 folded before Flop (didn't bet)
+Seat 5: aceskillmeee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196225909127:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 4:23:34 EET [2019/01/25 21:23:34 ET]
+Table 'Lacerta' 6-max Seat #3 is the button
+Seat 1: ArranAJFJ ($303.10 in chips) 
+Seat 2: Artur88899 ($1428.39 in chips) 
+Seat 3: gaiggibeliin ($496.81 in chips) 
+Seat 4: sss457 ($230.50 in chips) 
+Seat 5: aceskillmeee ($472.53 in chips) 
+ArranAJFJ: posts the ante $2
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+gaiggibeliin: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ts 6c]
+sss457: calls $2
+aceskillmeee: folds 
+ArranAJFJ: folds 
+Artur88899: folds 
+gaiggibeliin: checks 
+*** FLOP *** [Qh Td Kd]
+sss457: bets $6.65
+gaiggibeliin: folds 
+Uncalled bet ($6.65) returned to sss457
+sss457 collected $13.30 from pot
+sss457: doesn't show hand 
+*** SUMMARY ***
+Total pot $14 | Rake $0.70 
+Board [Qh Td Kd]
+Seat 1: ArranAJFJ folded before Flop (didn't bet)
+Seat 2: Artur88899 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin (button blind) folded on the Flop
+Seat 4: sss457 collected ($13.30)
+Seat 5: aceskillmeee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196225926479:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 4:24:20 EET [2019/01/25 21:24:20 ET]
+Table 'Lacerta' 6-max Seat #4 is the button
+Seat 1: ArranAJFJ ($301.10 in chips) 
+Seat 2: Artur88899 ($1426.39 in chips) 
+Seat 3: gaiggibeliin ($492.81 in chips) 
+Seat 4: sss457 ($239.80 in chips) 
+Seat 5: aceskillmeee ($470.53 in chips) 
+ArranAJFJ: posts the ante $2
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+sss457: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kc 6s]
+aceskillmeee: calls $2
+ArranAJFJ: raises $14 to $16
+Artur88899: calls $16
+gaiggibeliin: folds 
+sss457: folds 
+aceskillmeee: calls $14
+*** FLOP *** [Jd Qh 9h]
+aceskillmeee: checks 
+ArranAJFJ: checks 
+Artur88899: bets $28.50
+aceskillmeee: calls $28.50
+ArranAJFJ: folds 
+*** TURN *** [Jd Qh 9h] [Qd]
+aceskillmeee: checks 
+Artur88899: checks 
+*** RIVER *** [Jd Qh 9h Qd] [Td]
+aceskillmeee: checks 
+Artur88899: checks 
+*** SHOW DOWN ***
+aceskillmeee: shows [Ts 7s] (two pair, Queens and Tens)
+Artur88899: shows [Tc 9c] (two pair, Queens and Tens)
+aceskillmeee collected $56.75 from pot
+Artur88899 collected $56.75 from pot
+*** SUMMARY ***
+Total pot $117 | Rake $3.50 
+Board [Jd Qh 9h Qd Td]
+Seat 1: ArranAJFJ folded on the Flop
+Seat 2: Artur88899 showed [Tc 9c] and won ($56.75) with two pair, Queens and Tens
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: sss457 (button blind) folded before Flop
+Seat 5: aceskillmeee showed [Ts 7s] and won ($56.75) with two pair, Queens and Tens
+
+
+
+PokerStars Hand #196225949935:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 4:25:24 EET [2019/01/25 21:25:24 ET]
+Table 'Lacerta' 6-max Seat #5 is the button
+Seat 1: ArranAJFJ ($283.10 in chips) 
+Seat 2: Artur88899 ($1436.64 in chips) 
+Seat 3: gaiggibeliin ($490.81 in chips) 
+Seat 4: sss457 ($235.80 in chips) 
+Seat 5: aceskillmeee ($480.78 in chips) 
+ArranAJFJ: posts the ante $2
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+aceskillmeee: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Th Td]
+ArranAJFJ: calls $2
+Artur88899: folds 
+gaiggibeliin: raises $20 to $22
+sss457: folds 
+aceskillmeee: folds 
+ArranAJFJ: folds 
+Uncalled bet ($20) returned to gaiggibeliin
+gaiggibeliin collected $16 from pot
+*** SUMMARY ***
+Total pot $16 | Rake $0 
+Seat 1: ArranAJFJ folded before Flop
+Seat 2: Artur88899 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin collected ($16)
+Seat 4: sss457 folded before Flop (didn't bet)
+Seat 5: aceskillmeee (button blind) folded before Flop
+
+
+
+PokerStars Hand #196225967912:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 4:26:12 EET [2019/01/25 21:26:12 ET]
+Table 'Lacerta' 6-max Seat #1 is the button
+Seat 1: ArranAJFJ ($279.10 in chips) 
+Seat 2: Artur88899 ($1434.64 in chips) 
+Seat 3: gaiggibeliin ($502.81 in chips) 
+Seat 4: sss457 ($233.80 in chips) 
+Seat 5: aceskillmeee ($476.78 in chips) 
+ArranAJFJ: posts the ante $2
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+ArranAJFJ: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6h Td]
+Artur88899: folds 
+gaiggibeliin: folds 
+sss457: folds 
+aceskillmeee: raises $14 to $16
+ArranAJFJ: folds 
+Uncalled bet ($14) returned to aceskillmeee
+aceskillmeee collected $14 from pot
+aceskillmeee: doesn't show hand 
+*** SUMMARY ***
+Total pot $14 | Rake $0 
+Seat 1: ArranAJFJ (button blind) folded before Flop
+Seat 2: Artur88899 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: sss457 folded before Flop (didn't bet)
+Seat 5: aceskillmeee collected ($14)
+
+
+
+PokerStars Hand #196225975267:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 4:26:32 EET [2019/01/25 21:26:32 ET]
+Table 'Lacerta' 6-max Seat #2 is the button
+Seat 1: ArranAJFJ ($275.10 in chips) 
+Seat 2: Artur88899 ($1432.64 in chips) 
+Seat 3: gaiggibeliin ($500.81 in chips) 
+Seat 4: sss457 ($231.80 in chips) 
+Seat 5: aceskillmeee ($486.78 in chips) 
+ArranAJFJ: posts the ante $2
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+Artur88899: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Js 9s]
+gaiggibeliin: calls $2
+sss457: calls $2
+aceskillmeee: folds 
+ArranAJFJ: folds 
+Artur88899: checks 
+*** FLOP *** [7h Kc Qd]
+gaiggibeliin: checks 
+sss457: checks 
+Artur88899: bets $15.20
+gaiggibeliin: folds 
+sss457: folds 
+Uncalled bet ($15.20) returned to Artur88899
+Artur88899 collected $15.20 from pot
+*** SUMMARY ***
+Total pot $16 | Rake $0.80 
+Board [7h Kc Qd]
+Seat 1: ArranAJFJ folded before Flop (didn't bet)
+Seat 2: Artur88899 (button blind) collected ($15.20)
+Seat 3: gaiggibeliin folded on the Flop
+Seat 4: sss457 folded on the Flop
+Seat 5: aceskillmeee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196226007305:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 4:28:00 EET [2019/01/25 21:28:00 ET]
+Table 'Lacerta' 6-max Seat #3 is the button
+Seat 1: ArranAJFJ ($273.10 in chips) 
+Seat 2: Artur88899 ($1443.84 in chips) 
+Seat 3: gaiggibeliin ($496.81 in chips) 
+Seat 4: sss457 ($227.80 in chips) 
+Seat 5: aceskillmeee ($484.78 in chips) 
+ArranAJFJ: posts the ante $2
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+gaiggibeliin: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7h Tc]
+sss457: folds 
+aceskillmeee: folds 
+ArranAJFJ: folds 
+Artur88899: folds 
+Uncalled bet ($2) returned to gaiggibeliin
+gaiggibeliin collected $10 from pot
+*** SUMMARY ***
+Total pot $10 | Rake $0 
+Seat 1: ArranAJFJ folded before Flop (didn't bet)
+Seat 2: Artur88899 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin (button blind) collected ($10)
+Seat 4: sss457 folded before Flop (didn't bet)
+Seat 5: aceskillmeee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196226012955:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 4:28:15 EET [2019/01/25 21:28:15 ET]
+Table 'Lacerta' 6-max Seat #4 is the button
+Seat 1: ArranAJFJ ($271.10 in chips) 
+Seat 2: Artur88899 ($1441.84 in chips) 
+Seat 3: gaiggibeliin ($504.81 in chips) 
+Seat 4: sss457 ($225.80 in chips) 
+Seat 5: aceskillmeee ($482.78 in chips) 
+ArranAJFJ: posts the ante $2
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+sss457: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6s Qs]
+aceskillmeee: folds 
+ArranAJFJ: folds 
+Artur88899: folds 
+gaiggibeliin: calls $2
+sss457: checks 
+*** FLOP *** [Ad Kc As]
+gaiggibeliin: bets $4.39
+sss457: folds 
+Uncalled bet ($4.39) returned to gaiggibeliin
+gaiggibeliin collected $13.30 from pot
+*** SUMMARY ***
+Total pot $14 | Rake $0.70 
+Board [Ad Kc As]
+Seat 1: ArranAJFJ folded before Flop (didn't bet)
+Seat 2: Artur88899 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin collected ($13.30)
+Seat 4: sss457 (button blind) folded on the Flop
+Seat 5: aceskillmeee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196226023453:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 4:28:44 EET [2019/01/25 21:28:44 ET]
+Table 'Lacerta' 6-max Seat #5 is the button
+Seat 1: ArranAJFJ ($269.10 in chips) 
+Seat 2: Artur88899 ($1439.84 in chips) 
+Seat 3: gaiggibeliin ($514.11 in chips) 
+Seat 4: sss457 ($221.80 in chips) 
+Seat 5: aceskillmeee ($480.78 in chips) 
+ArranAJFJ: posts the ante $2
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+aceskillmeee: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9c Ah]
+ArranAJFJ: folds 
+Artur88899: calls $2
+gaiggibeliin: folds 
+sss457: folds 
+aceskillmeee: raises $14 to $16
+Artur88899: calls $14
+*** FLOP *** [Tc 7d Kc]
+Artur88899: checks 
+aceskillmeee: checks 
+*** TURN *** [Tc 7d Kc] [Kh]
+Artur88899: bets $19.95
+aceskillmeee: folds 
+Uncalled bet ($19.95) returned to Artur88899
+Artur88899 collected $39.90 from pot
+*** SUMMARY ***
+Total pot $42 | Rake $2.10 
+Board [Tc 7d Kc Kh]
+Seat 1: ArranAJFJ folded before Flop (didn't bet)
+Seat 2: Artur88899 collected ($39.90)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: sss457 folded before Flop (didn't bet)
+Seat 5: aceskillmeee (button blind) folded on the Turn
+
+
+
+PokerStars Hand #196226044333:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 4:29:41 EET [2019/01/25 21:29:41 ET]
+Table 'Lacerta' 6-max Seat #1 is the button
+Seat 1: ArranAJFJ ($267.10 in chips) 
+Seat 2: Artur88899 ($1461.74 in chips) 
+Seat 3: gaiggibeliin ($512.11 in chips) 
+Seat 4: sss457 ($219.80 in chips) 
+Seat 5: aceskillmeee ($462.78 in chips) 
+ArranAJFJ: posts the ante $2
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+ArranAJFJ: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8d Ah]
+Artur88899: calls $2
+gaiggibeliin: folds 
+sss457: calls $2
+aceskillmeee: folds 
+ArranAJFJ: raises $12 to $14
+Artur88899: calls $12
+korppuleipa joins the table at seat #6 
+sss457: folds 
+*** FLOP *** [Ad Ks Tc]
+Artur88899: bets $19
+ArranAJFJ: calls $19
+*** TURN *** [Ad Ks Tc] [6d]
+Artur88899: checks 
+ArranAJFJ: bets $54
+Artur88899: folds 
+Uncalled bet ($54) returned to ArranAJFJ
+ArranAJFJ collected $74.50 from pot
+ArranAJFJ: doesn't show hand 
+*** SUMMARY ***
+Total pot $78 | Rake $3.50 
+Board [Ad Ks Tc 6d]
+Seat 1: ArranAJFJ (button blind) collected ($74.50)
+Seat 2: Artur88899 folded on the Turn
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: sss457 folded before Flop
+Seat 5: aceskillmeee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196226077381:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 4:31:13 EET [2019/01/25 21:31:13 ET]
+Table 'Lacerta' 6-max Seat #2 is the button
+Seat 1: ArranAJFJ ($306.60 in chips) 
+Seat 2: Artur88899 ($1426.74 in chips) 
+Seat 3: gaiggibeliin ($510.11 in chips) 
+Seat 4: sss457 ($215.80 in chips) 
+Seat 5: aceskillmeee ($460.78 in chips) 
+Seat 6: korppuleipa ($300 in chips) 
+ArranAJFJ: posts the ante $2
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+korppuleipa: posts the ante $2
+Artur88899: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ts Qd]
+gaiggibeliin: calls $2
+sss457: folds 
+aceskillmeee: folds 
+korppuleipa: calls $2
+ArranAJFJ: folds 
+Artur88899: checks 
+*** FLOP *** [Tc 9d 9h]
+gaiggibeliin: bets $12
+korppuleipa: folds 
+Artur88899: folds 
+Uncalled bet ($12) returned to gaiggibeliin
+gaiggibeliin collected $17.10 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.90 
+Board [Tc 9d 9h]
+Seat 1: ArranAJFJ folded before Flop (didn't bet)
+Seat 2: Artur88899 (button blind) folded on the Flop
+Seat 3: gaiggibeliin collected ($17.10)
+Seat 4: sss457 folded before Flop (didn't bet)
+Seat 5: aceskillmeee folded before Flop (didn't bet)
+Seat 6: korppuleipa folded on the Flop
+
+
+
+PokerStars Hand #196226091404:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 4:31:52 EET [2019/01/25 21:31:52 ET]
+Table 'Lacerta' 6-max Seat #3 is the button
+Seat 1: ArranAJFJ ($304.60 in chips) 
+Seat 2: Artur88899 ($1422.74 in chips) 
+Seat 3: gaiggibeliin ($523.21 in chips) 
+Seat 4: sss457 ($213.80 in chips) 
+Seat 5: aceskillmeee ($458.78 in chips) 
+Seat 6: korppuleipa ($296 in chips) 
+ArranAJFJ: posts the ante $2
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+korppuleipa: posts the ante $2
+gaiggibeliin: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9c 8h]
+sss457: folds 
+aceskillmeee: folds 
+korppuleipa: folds 
+ArranAJFJ: folds 
+Artur88899: calls $2
+gaiggibeliin: raises $20 to $22
+Artur88899: calls $20
+*** FLOP *** [9d Ad Th]
+Artur88899: checks 
+gaiggibeliin: checks 
+*** TURN *** [9d Ad Th] [Jc]
+Artur88899: checks 
+gaiggibeliin: checks 
+*** RIVER *** [9d Ad Th Jc] [9h]
+Artur88899: checks 
+gaiggibeliin: bets $35.64
+Artur88899: folds 
+Uncalled bet ($35.64) returned to gaiggibeliin
+gaiggibeliin collected $53.20 from pot
+*** SUMMARY ***
+Total pot $56 | Rake $2.80 
+Board [9d Ad Th Jc 9h]
+Seat 1: ArranAJFJ folded before Flop (didn't bet)
+Seat 2: Artur88899 folded on the River
+Seat 3: gaiggibeliin (button blind) collected ($53.20)
+Seat 4: sss457 folded before Flop (didn't bet)
+Seat 5: aceskillmeee folded before Flop (didn't bet)
+Seat 6: korppuleipa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196226127395:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 4:33:34 EET [2019/01/25 21:33:34 ET]
+Table 'Lacerta' 6-max Seat #4 is the button
+Seat 1: ArranAJFJ ($302.60 in chips) 
+Seat 2: Artur88899 ($1398.74 in chips) 
+Seat 3: gaiggibeliin ($552.41 in chips) 
+Seat 4: sss457 ($211.80 in chips) 
+Seat 5: aceskillmeee ($456.78 in chips) 
+Seat 6: korppuleipa ($294 in chips) 
+ArranAJFJ: posts the ante $2
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+korppuleipa: posts the ante $2
+sss457: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8d Js]
+aceskillmeee: folds 
+korppuleipa: folds 
+ArranAJFJ: folds 
+Artur88899: folds 
+gaiggibeliin: calls $2
+sss457: raises $6 to $8
+gaiggibeliin: calls $6
+*** FLOP *** [7s 9c 6h]
+gaiggibeliin: checks 
+ArranAJFJ is disconnected 
+sss457: bets $13.30
+gaiggibeliin: calls $13.30
+*** TURN *** [7s 9c 6h] [Qc]
+gaiggibeliin: checks 
+sss457: checks 
+*** RIVER *** [7s 9c 6h Qc] [Qd]
+gaiggibeliin: bets $10
+sss457: folds 
+Uncalled bet ($10) returned to gaiggibeliin
+gaiggibeliin collected $51.87 from pot
+*** SUMMARY ***
+Total pot $54.60 | Rake $2.73 
+Board [7s 9c 6h Qc Qd]
+Seat 1: ArranAJFJ folded before Flop (didn't bet)
+Seat 2: Artur88899 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin collected ($51.87)
+Seat 4: sss457 (button blind) folded on the River
+Seat 5: aceskillmeee folded before Flop (didn't bet)
+Seat 6: korppuleipa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196226155632:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 4:34:53 EET [2019/01/25 21:34:53 ET]
+Table 'Lacerta' 6-max Seat #5 is the button
+Seat 2: Artur88899 ($1396.74 in chips) 
+Seat 3: gaiggibeliin ($580.98 in chips) 
+Seat 4: sss457 ($200 in chips) 
+Seat 5: aceskillmeee ($454.78 in chips) 
+Seat 6: korppuleipa ($292 in chips) 
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+korppuleipa: posts the ante $2
+aceskillmeee: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6c Td]
+korppuleipa: folds 
+Artur88899: calls $2
+gaiggibeliin: folds 
+sss457: raises $12 to $14
+aceskillmeee: calls $12
+Artur88899: calls $12
+*** FLOP *** [8c Kh 6s]
+ArranAJFJ is disconnected 
+Artur88899: bets $24.70
+sss457: folds 
+aceskillmeee: raises $49.40 to $74.10
+Artur88899: calls $49.40
+*** TURN *** [8c Kh 6s] [Th]
+Artur88899: checks 
+aceskillmeee: checks 
+*** RIVER *** [8c Kh 6s Th] [9c]
+Artur88899: checks 
+aceskillmeee: bets $157.36
+Artur88899: folds 
+Uncalled bet ($157.36) returned to aceskillmeee
+aceskillmeee collected $196.70 from pot
+aceskillmeee: doesn't show hand 
+*** SUMMARY ***
+Total pot $200.20 | Rake $3.50 
+Board [8c Kh 6s Th 9c]
+Seat 2: Artur88899 folded on the River
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: sss457 folded on the Flop
+Seat 5: aceskillmeee (button blind) collected ($196.70)
+Seat 6: korppuleipa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196226207166:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 4:37:17 EET [2019/01/25 21:37:17 ET]
+Table 'Lacerta' 6-max Seat #6 is the button
+Seat 2: Artur88899 ($1306.64 in chips) 
+Seat 3: gaiggibeliin ($578.98 in chips) 
+Seat 4: sss457 ($200 in chips) 
+Seat 5: aceskillmeee ($561.38 in chips) 
+Seat 6: korppuleipa ($290 in chips) 
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+korppuleipa: posts the ante $2
+korppuleipa: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Js 8c]
+Artur88899: calls $2
+gaiggibeliin: folds 
+sss457: calls $2
+aceskillmeee: raises $18 to $20
+korppuleipa: raises $54 to $74
+Artur88899: calls $72
+sss457: folds 
+aceskillmeee: calls $54
+*** FLOP *** [9d Th 6s]
+Artur88899: bets $396
+aceskillmeee: raises $89.38 to $485.38 and is all-in
+korppuleipa: folds 
+Artur88899: calls $89.38
+*** TURN *** [9d Th 6s] [Td]
+*** RIVER *** [9d Th 6s Td] [9h]
+*** SHOW DOWN ***
+Artur88899: shows [6d 6h] (a full house, Sixes full of Tens)
+aceskillmeee: shows [7h 8h] (a straight, Six to Ten)
+Artur88899 collected $1201.26 from pot
+*** SUMMARY ***
+Total pot $1204.76 | Rake $3.50 
+Board [9d Th 6s Td 9h]
+Seat 2: Artur88899 showed [6d 6h] and won ($1201.26) with a full house, Sixes full of Tens
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: sss457 folded before Flop
+Seat 5: aceskillmeee showed [7h 8h] and lost with a straight, Six to Ten
+Seat 6: korppuleipa (button blind) folded on the Flop
+
+
+
+PokerStars Hand #196226241202:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 4:38:50 EET [2019/01/25 21:38:50 ET]
+Table 'Lacerta' 6-max Seat #2 is the button
+Seat 2: Artur88899 ($1946.52 in chips) 
+Seat 3: gaiggibeliin ($576.98 in chips) 
+Seat 4: sss457 ($200 in chips) 
+Seat 5: aceskillmeee ($300 in chips) 
+Seat 6: korppuleipa ($214 in chips) 
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+korppuleipa: posts the ante $2
+Artur88899: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8s Kh]
+gaiggibeliin: folds 
+sss457: folds 
+aceskillmeee: folds 
+korppuleipa: raises $14 to $16
+Artur88899: calls $14
+*** FLOP *** [6h 9s 6s]
+korppuleipa: bets $20
+Artur88899: folds 
+Uncalled bet ($20) returned to korppuleipa
+korppuleipa collected $39.90 from pot
+korppuleipa: doesn't show hand 
+*** SUMMARY ***
+Total pot $42 | Rake $2.10 
+Board [6h 9s 6s]
+Seat 2: Artur88899 (button blind) folded on the Flop
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: sss457 folded before Flop (didn't bet)
+Seat 5: aceskillmeee folded before Flop (didn't bet)
+Seat 6: korppuleipa collected ($39.90)
+
+
+
+PokerStars Hand #196226250507:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 4:39:16 EET [2019/01/25 21:39:16 ET]
+Table 'Lacerta' 6-max Seat #3 is the button
+Seat 2: Artur88899 ($1928.52 in chips) 
+Seat 3: gaiggibeliin ($574.98 in chips) 
+Seat 4: sss457 ($200 in chips) 
+Seat 5: aceskillmeee ($298 in chips) 
+Seat 6: korppuleipa ($235.90 in chips) 
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+korppuleipa: posts the ante $2
+gaiggibeliin: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ts Ah]
+sss457: calls $2
+aceskillmeee: folds 
+korppuleipa: folds 
+Artur88899: calls $2
+gaiggibeliin: checks 
+*** FLOP *** [9s Td 6d]
+sss457: checks 
+Artur88899: checks 
+gaiggibeliin: bets $10.18
+sss457: raises $17.78 to $27.96
+Artur88899: calls $27.96
+gaiggibeliin: folds 
+*** TURN *** [9s Td 6d] [Js]
+sss457: checks 
+Artur88899: bets $78.60
+sss457: raises $89.44 to $168.04 and is all-in
+Artur88899: calls $89.44
+*** RIVER *** [9s Td 6d Js] [Tc]
+*** SHOW DOWN ***
+sss457: shows [Qs Qd] (two pair, Queens and Tens)
+Artur88899: shows [Jh Kd] (two pair, Jacks and Tens)
+sss457 collected $414.68 from pot
+*** SUMMARY ***
+Total pot $418.18 | Rake $3.50 
+Board [9s Td 6d Js Tc]
+Seat 2: Artur88899 showed [Jh Kd] and lost with two pair, Jacks and Tens
+Seat 3: gaiggibeliin (button blind) folded on the Flop
+Seat 4: sss457 showed [Qs Qd] and won ($414.68) with two pair, Queens and Tens
+Seat 5: aceskillmeee folded before Flop (didn't bet)
+Seat 6: korppuleipa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196226279751:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 4:40:37 EET [2019/01/25 21:40:37 ET]
+Table 'Lacerta' 6-max Seat #4 is the button
+Seat 2: Artur88899 ($1728.52 in chips) 
+Seat 3: gaiggibeliin ($560.80 in chips) 
+Seat 4: sss457 ($414.68 in chips) 
+Seat 5: aceskillmeee ($296 in chips) 
+Seat 6: korppuleipa ($233.90 in chips) 
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+korppuleipa: posts the ante $2
+sss457: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7c 6d]
+aceskillmeee: calls $2
+korppuleipa: folds 
+Artur88899: calls $2
+gaiggibeliin: calls $2
+sss457: checks 
+*** FLOP *** [7s Jh 7h]
+aceskillmeee: checks 
+Artur88899: checks 
+gaiggibeliin: bets $8.89
+sss457: calls $8.89
+aceskillmeee: folds 
+Artur88899: folds 
+*** TURN *** [7s Jh 7h] [Kh]
+gaiggibeliin: checks 
+sss457: bets $22.43
+gaiggibeliin: calls $22.43
+*** RIVER *** [7s Jh 7h Kh] [As]
+gaiggibeliin: checks 
+sss457: bets $77.14
+gaiggibeliin: folds 
+Uncalled bet ($77.14) returned to sss457
+sss457 collected $77.14 from pot
+sss457: doesn't show hand 
+*** SUMMARY ***
+Total pot $80.64 | Rake $3.50 
+Board [7s Jh 7h Kh As]
+Seat 2: Artur88899 folded on the Flop
+Seat 3: gaiggibeliin folded on the River
+Seat 4: sss457 (button blind) collected ($77.14)
+Seat 5: aceskillmeee folded on the Flop
+Seat 6: korppuleipa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196226318573:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 4:42:24 EET [2019/01/25 21:42:24 ET]
+Table 'Lacerta' 6-max Seat #5 is the button
+Seat 2: Artur88899 ($1724.52 in chips) 
+Seat 3: gaiggibeliin ($525.48 in chips) 
+Seat 4: sss457 ($456.50 in chips) 
+Seat 5: aceskillmeee ($292 in chips) 
+Seat 6: korppuleipa ($231.90 in chips) 
+Artur88899: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+aceskillmeee: posts the ante $2
+korppuleipa: posts the ante $2
+aceskillmeee: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8d 6d]
+korppuleipa: folds 
+Artur88899: calls $2
+gaiggibeliin: calls $2
+sss457: calls $2
+aceskillmeee: checks 
+*** FLOP *** [7d Qh 9h]
+Artur88899: checks 
+gaiggibeliin: checks 
+sss457: checks 
+aceskillmeee: bets $8.55
+Artur88899: calls $8.55
+gaiggibeliin: calls $8.55
+sss457: calls $8.55
+*** TURN *** [7d Qh 9h] [Kd]
+Artur88899: checks 
+gaiggibeliin: bets $54
+sss457: folds 
+aceskillmeee: calls $54
+Artur88899: calls $54
+*** RIVER *** [7d Qh 9h Kd] [Js]
+Artur88899: checks 
+gaiggibeliin: checks 
+aceskillmeee: bets $52.68
+Artur88899: calls $52.68
+gaiggibeliin: folds 
+*** SHOW DOWN ***
+aceskillmeee: shows [Tc Jd] (a straight, Nine to King)
+Artur88899: shows [8s Td] (a straight, Nine to King)
+Artur88899 collected $158.03 from pot
+aceskillmeee collected $158.03 from pot
+*** SUMMARY ***
+Total pot $319.56 | Rake $3.50 
+Board [7d Qh 9h Kd Js]
+Seat 2: Artur88899 showed [8s Td] and won ($158.03) with a straight, Nine to King
+Seat 3: gaiggibeliin folded on the River
+Seat 4: sss457 folded on the Turn
+Seat 5: aceskillmeee (button blind) showed [Tc Jd] and won ($158.03) with a straight, Nine to King
+Seat 6: korppuleipa folded before Flop (didn't bet)
+
+
+

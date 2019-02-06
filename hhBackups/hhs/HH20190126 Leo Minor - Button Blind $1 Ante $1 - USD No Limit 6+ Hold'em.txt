@@ -1,0 +1,205 @@
+﻿PokerStars Hand #196245841169:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 18:36:01 EET [2019/01/26 11:36:01 ET]
+Table 'Leo Minor' 6-max Seat #2 is the button
+Seat 2: Nelfiz ($216.32 in chips) 
+Seat 3: gaiggibeliin ($150 in chips) 
+Seat 4: dealo ($108.03 in chips) 
+Nelfiz: posts the ante $1
+gaiggibeliin: posts the ante $1
+dealo: posts the ante $1
+Nelfiz: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8d Ks]
+gaiggibeliin: folds 
+dealo: raises $5 to $6
+Nelfiz: calls $5
+*** FLOP *** [Qh 6s Qs]
+dealo: checks 
+Nelfiz: checks 
+*** TURN *** [Qh 6s Qs] [9d]
+dealo: checks 
+Nelfiz: checks 
+*** RIVER *** [Qh 6s Qs 9d] [Ah]
+dealo: checks 
+Nelfiz: checks 
+*** SHOW DOWN ***
+dealo: shows [Ad Jh] (two pair, Aces and Queens)
+Nelfiz: mucks hand 
+dealo collected $14.25 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0.75 
+Board [Qh 6s Qs 9d Ah]
+Seat 2: Nelfiz (button blind) mucked [8c As]
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: dealo showed [Ad Jh] and won ($14.25) with two pair, Aces and Queens
+
+
+
+PokerStars Hand #196245858456:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 18:36:26 EET [2019/01/26 11:36:26 ET]
+Table 'Leo Minor' 6-max Seat #3 is the button
+Seat 2: Nelfiz ($209.32 in chips) 
+Seat 3: gaiggibeliin ($149 in chips) 
+Seat 4: dealo ($115.28 in chips) 
+Nelfiz: posts the ante $1
+gaiggibeliin: posts the ante $1
+dealo: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kh Kc]
+dealo: raises $3 to $4
+Nelfiz: calls $4
+gaiggibeliin: raises $20 to $24
+dealo: calls $20
+Nelfiz: folds 
+*** FLOP *** [7c Td Jd]
+dealo: checks 
+gaiggibeliin: bets $124 and is all-in
+dealo: calls $90.28 and is all-in
+Uncalled bet ($33.72) returned to gaiggibeliin
+*** TURN *** [7c Td Jd] [9c]
+*** RIVER *** [7c Td Jd 9c] [Jh]
+*** SHOW DOWN ***
+dealo: shows [As Jc] (three of a kind, Jacks)
+gaiggibeliin: shows [Kh Kc] (two pair, Kings and Jacks)
+dealo collected $234.31 from pot
+*** SUMMARY ***
+Total pot $235.56 | Rake $1.25 
+Board [7c Td Jd 9c Jh]
+Seat 2: Nelfiz folded before Flop
+Seat 3: gaiggibeliin (button blind) showed [Kh Kc] and lost with two pair, Kings and Jacks
+Seat 4: dealo showed [As Jc] and won ($234.31) with three of a kind, Jacks
+
+
+
+PokerStars Hand #196245886690:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 18:37:06 EET [2019/01/26 11:37:06 ET]
+Table 'Leo Minor' 6-max Seat #4 is the button
+Seat 2: Nelfiz ($204.32 in chips) 
+Seat 3: gaiggibeliin ($150 in chips) 
+Seat 4: dealo ($234.31 in chips) 
+Nelfiz: posts the ante $1
+gaiggibeliin: posts the ante $1
+dealo: posts the ante $1
+dealo: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ah 8h]
+Nelfiz: folds 
+gaiggibeliin: calls $1
+dealo: raises $5 to $6
+gaiggibeliin: calls $5
+*** FLOP *** [6d 6s 8c]
+gaiggibeliin: checks 
+dealo: bets $6.27
+gaiggibeliin: raises $16.73 to $23
+dealo: calls $16.73
+*** TURN *** [6d 6s 8c] [7s]
+gaiggibeliin: bets $33
+dealo: calls $33
+*** RIVER *** [6d 6s 8c 7s] [Td]
+gaiggibeliin: bets $87 and is all-in
+dealo: calls $87
+*** SHOW DOWN ***
+gaiggibeliin: shows [Ah 8h] (two pair, Eights and Sixes)
+dealo: shows [Kc Ks] (two pair, Kings and Sixes)
+dealo collected $299.75 from pot
+*** SUMMARY ***
+Total pot $301 | Rake $1.25 
+Board [6d 6s 8c 7s Td]
+Seat 2: Nelfiz folded before Flop (didn't bet)
+Seat 3: gaiggibeliin showed [Ah 8h] and lost with two pair, Eights and Sixes
+Seat 4: dealo (button blind) showed [Kc Ks] and won ($299.75) with two pair, Kings and Sixes
+
+
+
+PokerStars Hand #196245950516:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 18:38:38 EET [2019/01/26 11:38:38 ET]
+Table 'Leo Minor' 6-max Seat #2 is the button
+Seat 2: Nelfiz ($203.32 in chips) 
+Seat 3: gaiggibeliin ($150 in chips) 
+Seat 4: dealo ($384.06 in chips) 
+Nelfiz: posts the ante $1
+gaiggibeliin: posts the ante $1
+dealo: posts the ante $1
+Nelfiz: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9h As]
+gaiggibeliin: folds 
+dealo: raises $4 to $5
+Nelfiz: raises $13 to $18
+dealo: calls $13
+*** FLOP *** [Qd Kd Td]
+dealo: checks 
+Nelfiz: bets $21.52
+dealo: raises $45.24 to $66.76
+Nelfiz: raises $117.56 to $184.32 and is all-in
+dealo: calls $117.56
+*** TURN *** [Qd Kd Td] [Tc]
+*** RIVER *** [Qd Kd Td Tc] [7s]
+*** SHOW DOWN ***
+dealo: shows [Qh Ks] (two pair, Kings and Queens)
+Nelfiz: shows [Kc Qc] (two pair, Kings and Queens)
+dealo collected $203.20 from pot
+Nelfiz collected $203.19 from pot
+*** SUMMARY ***
+Total pot $407.64 | Rake $1.25 
+Board [Qd Kd Td Tc 7s]
+Seat 2: Nelfiz (button blind) showed [Kc Qc] and won ($203.19) with two pair, Kings and Queens
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: dealo showed [Qh Ks] and won ($203.20) with two pair, Kings and Queens
+
+
+
+PokerStars Hand #196245973636:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 18:39:11 EET [2019/01/26 11:39:11 ET]
+Table 'Leo Minor' 6-max Seat #3 is the button
+Seat 2: Nelfiz ($203.19 in chips) 
+Seat 3: gaiggibeliin ($149 in chips) 
+Seat 4: dealo ($383.94 in chips) 
+Nelfiz: posts the ante $1
+gaiggibeliin: posts the ante $1
+dealo: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7d Th]
+dealo: raises $1 to $2
+Nelfiz: folds 
+gaiggibeliin: calls $1
+*** FLOP *** [Ts 6s Qd]
+dealo: checks 
+gaiggibeliin: bets $4.46
+dealo: calls $4.46
+*** TURN *** [Ts 6s Qd] [Qc]
+dealo: checks 
+gaiggibeliin: checks 
+*** RIVER *** [Ts 6s Qd Qc] [Jc]
+dealo: bets $6.65
+gaiggibeliin: folds 
+Uncalled bet ($6.65) returned to dealo
+dealo collected $15.12 from pot
+dealo: doesn't show hand 
+*** SUMMARY ***
+Total pot $15.92 | Rake $0.80 
+Board [Ts 6s Qd Qc Jc]
+Seat 2: Nelfiz folded before Flop (didn't bet)
+Seat 3: gaiggibeliin (button blind) folded on the River
+Seat 4: dealo collected ($15.12)
+
+
+
+PokerStars Hand #196246014688:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 18:40:09 EET [2019/01/26 11:40:09 ET]
+Table 'Leo Minor' 6-max Seat #2 is the button
+Seat 2: Nelfiz ($202.19 in chips) 
+Seat 3: gaiggibeliin ($141.54 in chips) 
+Nelfiz: posts the ante $1
+gaiggibeliin: posts the ante $1
+Nelfiz: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9s Qc]
+dealo leaves the table
+gaiggibeliin: folds 
+Uncalled bet ($1) returned to Nelfiz
+Nelfiz collected $2 from pot
+Nelfiz: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: Nelfiz (button blind) collected ($2)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+
+
+

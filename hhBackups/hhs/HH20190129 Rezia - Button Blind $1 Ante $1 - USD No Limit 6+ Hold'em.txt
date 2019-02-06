@@ -1,0 +1,1244 @@
+﻿PokerStars Hand #196379683706:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:50:17 EET [2019/01/29 13:50:17 ET]
+Table 'Rezia' 6-max Seat #2 is the button
+Seat 2: gaiggibeliin ($150 in chips) 
+Seat 3: Bakarisation ($150 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6c Qs]
+Bakarisation: calls $1
+gaiggibeliin: checks 
+*** FLOP *** [Ks Td Js]
+Bakarisation: checks 
+gaiggibeliin: bets $2.55
+Bakarisation: calls $2.55
+*** TURN *** [Ks Td Js] [8h]
+Bakarisation: checks 
+gaiggibeliin: bets $6.48
+Bakarisation: folds 
+Uncalled bet ($6.48) returned to gaiggibeliin
+gaiggibeliin collected $8.64 from pot
+*** SUMMARY ***
+Total pot $9.10 | Rake $0.46 
+Board [Ks Td Js 8h]
+Seat 2: gaiggibeliin (button blind) collected ($8.64)
+Seat 3: Bakarisation folded on the Turn
+
+
+
+PokerStars Hand #196379721860:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:51:08 EET [2019/01/29 13:51:08 ET]
+Table 'Rezia' 6-max Seat #3 is the button
+Seat 2: gaiggibeliin ($154.09 in chips) 
+Seat 3: Bakarisation ($145.45 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+Bakarisation: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7d Jc]
+gaiggibeliin: folds 
+Uncalled bet ($1) returned to Bakarisation
+Bakarisation collected $2 from pot
+Bakarisation: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: Bakarisation (button blind) collected ($2)
+
+
+
+PokerStars Hand #196379732756:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:51:22 EET [2019/01/29 13:51:22 ET]
+Table 'Rezia' 6-max Seat #2 is the button
+Seat 2: gaiggibeliin ($153.09 in chips) 
+Seat 3: Bakarisation ($146.45 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qs Jh]
+Bakarisation: calls $1
+gaiggibeliin: raises $6 to $7
+Bakarisation: folds 
+Uncalled bet ($6) returned to gaiggibeliin
+gaiggibeliin collected $4 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 2: gaiggibeliin (button blind) collected ($4)
+Seat 3: Bakarisation folded before Flop
+
+
+
+PokerStars Hand #196379756385:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:51:53 EET [2019/01/29 13:51:53 ET]
+Table 'Rezia' 6-max Seat #3 is the button
+Seat 2: gaiggibeliin ($155.09 in chips) 
+Seat 3: Bakarisation ($144.45 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+Bakarisation: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Js Qd]
+gaiggibeliin: calls $1
+Bakarisation: raises $4 to $5
+gaiggibeliin: calls $4
+*** FLOP *** [Kd 7s 9c]
+gaiggibeliin: checks 
+Bakarisation: bets $3.53
+gaiggibeliin: calls $3.53
+*** TURN *** [Kd 7s 9c] [8d]
+gaiggibeliin: checks 
+Bakarisation: bets $13
+gaiggibeliin: folds 
+Uncalled bet ($13) returned to Bakarisation
+Bakarisation collected $18.11 from pot
+Bakarisation: doesn't show hand 
+*** SUMMARY ***
+Total pot $19.06 | Rake $0.95 
+Board [Kd 7s 9c 8d]
+Seat 2: gaiggibeliin folded on the Turn
+Seat 3: Bakarisation (button blind) collected ($18.11)
+
+
+
+PokerStars Hand #196379789392:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:52:37 EET [2019/01/29 13:52:37 ET]
+Table 'Rezia' 6-max Seat #2 is the button
+Seat 2: gaiggibeliin ($145.56 in chips) 
+Seat 3: Bakarisation ($153.03 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9d Th]
+Bakarisation: calls $1
+gaiggibeliin: raises $6 to $7
+Bakarisation: calls $6
+*** FLOP *** [Ah 8s Td]
+Bakarisation: checks 
+gaiggibeliin: bets $10.18
+Bakarisation: folds 
+Uncalled bet ($10.18) returned to gaiggibeliin
+gaiggibeliin collected $15.20 from pot
+*** SUMMARY ***
+Total pot $16 | Rake $0.80 
+Board [Ah 8s Td]
+Seat 2: gaiggibeliin (button blind) collected ($15.20)
+Seat 3: Bakarisation folded on the Flop
+
+
+
+PokerStars Hand #196379825278:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:53:25 EET [2019/01/29 13:53:25 ET]
+Table 'Rezia' 6-max Seat #3 is the button
+Seat 2: gaiggibeliin ($152.76 in chips) 
+Seat 3: Bakarisation ($145.03 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+Bakarisation: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9h Js]
+gaiggibeliin: calls $1
+Bakarisation: checks 
+*** FLOP *** [Kd Qc 8d]
+gaiggibeliin: bets $2.55
+Bakarisation: calls $2.55
+*** TURN *** [Kd Qc 8d] [Jd]
+gaiggibeliin: checks 
+Bakarisation: bets $5.88
+gaiggibeliin: folds 
+Uncalled bet ($5.88) returned to Bakarisation
+Bakarisation collected $8.64 from pot
+Bakarisation: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.10 | Rake $0.46 
+Board [Kd Qc 8d Jd]
+Seat 2: gaiggibeliin folded on the Turn
+Seat 3: Bakarisation (button blind) collected ($8.64)
+
+
+
+PokerStars Hand #196379859567:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:54:10 EET [2019/01/29 13:54:10 ET]
+Table 'Rezia' 6-max Seat #2 is the button
+Seat 2: gaiggibeliin ($148.21 in chips) 
+Seat 3: Bakarisation ($149.12 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kc Ah]
+Bakarisation: calls $1
+gaiggibeliin: raises $6 to $7
+Bakarisation: folds 
+Uncalled bet ($6) returned to gaiggibeliin
+gaiggibeliin collected $4 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 2: gaiggibeliin (button blind) collected ($4)
+Seat 3: Bakarisation folded before Flop
+
+
+
+PokerStars Hand #196379865691:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:54:18 EET [2019/01/29 13:54:18 ET]
+Table 'Rezia' 6-max Seat #3 is the button
+Seat 2: gaiggibeliin ($150.21 in chips) 
+Seat 3: Bakarisation ($147.12 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+Bakarisation: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ac 8d]
+gaiggibeliin: folds 
+Uncalled bet ($1) returned to Bakarisation
+Bakarisation collected $2 from pot
+Bakarisation: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: Bakarisation (button blind) collected ($2)
+
+
+
+PokerStars Hand #196379870116:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:54:24 EET [2019/01/29 13:54:24 ET]
+Table 'Rezia' 6-max Seat #2 is the button
+Seat 2: gaiggibeliin ($149.21 in chips) 
+Seat 3: Bakarisation ($148.12 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7d Jd]
+Washilinba joins the table at seat #6 
+Bakarisation: calls $1
+gaiggibeliin: raises $6 to $7
+Bakarisation: calls $6
+*** FLOP *** [Ah Ad Qs]
+Bakarisation: checks 
+gaiggibeliin: bets $5.02
+Bakarisation: folds 
+Uncalled bet ($5.02) returned to gaiggibeliin
+gaiggibeliin collected $15.20 from pot
+*** SUMMARY ***
+Total pot $16 | Rake $0.80 
+Board [Ah Ad Qs]
+Seat 2: gaiggibeliin (button blind) collected ($15.20)
+Seat 3: Bakarisation folded on the Flop
+
+
+
+PokerStars Hand #196379907568:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:55:14 EET [2019/01/29 13:55:14 ET]
+Table 'Rezia' 6-max Seat #3 is the button
+Seat 2: gaiggibeliin ($156.41 in chips) 
+Seat 3: Bakarisation ($140.12 in chips) 
+Seat 6: Washilinba ($150 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+Washilinba: posts the ante $1
+Bakarisation: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qd Ts]
+Washilinba: raises $3 to $4
+gaiggibeliin: folds 
+Bakarisation: raises $8 to $12
+Washilinba: calls $8
+*** FLOP *** [8c 9d 9c]
+Washilinba: bets $13
+Bakarisation: calls $13
+*** TURN *** [8c 9d 9c] [Ac]
+Washilinba: bets $26
+Bakarisation: calls $26
+*** RIVER *** [8c 9d 9c Ac] [8d]
+Washilinba: bets $52
+Bakarisation: calls $52
+*** SHOW DOWN ***
+Washilinba: shows [Ks Kc] (two pair, Kings and Nines)
+Bakarisation: shows [Ad Ah] (a full house, Aces full of Nines)
+Bakarisation collected $207.75 from pot
+*** SUMMARY ***
+Total pot $209 | Rake $1.25 
+Board [8c 9d 9c Ac 8d]
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: Bakarisation (button blind) showed [Ad Ah] and won ($207.75) with a full house, Aces full of Nines
+Seat 6: Washilinba showed [Ks Kc] and lost with two pair, Kings and Nines
+
+
+
+PokerStars Hand #196379935433:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:56:01 EET [2019/01/29 13:56:01 ET]
+Table 'Rezia' 6-max Seat #6 is the button
+Seat 2: gaiggibeliin ($155.41 in chips) 
+Seat 3: Bakarisation ($243.87 in chips) 
+Seat 6: Washilinba ($46 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+Washilinba: posts the ante $1
+Washilinba: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9h 8c]
+gaiggibeliin: folds 
+Bakarisation: calls $1
+Washilinba: raises $1 to $2
+Bakarisation: calls $1
+*** FLOP *** [Qc 8d Ks]
+Bakarisation: checks 
+Washilinba: checks 
+*** TURN *** [Qc 8d Ks] [Ad]
+Bakarisation: checks 
+Washilinba: bets $1
+Bakarisation: folds 
+Uncalled bet ($1) returned to Washilinba
+Washilinba collected $6.65 from pot
+*** SUMMARY ***
+Total pot $7 | Rake $0.35 
+Board [Qc 8d Ks Ad]
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: Bakarisation folded on the Turn
+Seat 6: Washilinba (button blind) collected ($6.65)
+
+
+
+PokerStars Hand #196379947328:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:56:21 EET [2019/01/29 13:56:21 ET]
+Table 'Rezia' 6-max Seat #2 is the button
+Seat 2: gaiggibeliin ($154.41 in chips) 
+Seat 3: Bakarisation ($240.87 in chips) 
+Seat 6: Washilinba ($49.65 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+Washilinba: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qs 6s]
+Bakarisation: folds 
+Washilinba: raises $1 to $2
+gaiggibeliin: calls $1
+*** FLOP *** [Td Jh 9s]
+Washilinba: bets $5
+gaiggibeliin: calls $5
+*** TURN *** [Td Jh 9s] [9h]
+Washilinba: bets $41.65 and is all-in
+gaiggibeliin: folds 
+Uncalled bet ($41.65) returned to Washilinba
+Washilinba collected $16.15 from pot
+Washilinba: doesn't show hand 
+*** SUMMARY ***
+Total pot $17 | Rake $0.85 
+Board [Td Jh 9s 9h]
+Seat 2: gaiggibeliin (button blind) folded on the Turn
+Seat 3: Bakarisation folded before Flop (didn't bet)
+Seat 6: Washilinba collected ($16.15)
+
+
+
+PokerStars Hand #196379972658:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:57:03 EET [2019/01/29 13:57:03 ET]
+Table 'Rezia' 6-max Seat #3 is the button
+Seat 2: gaiggibeliin ($146.41 in chips) 
+Seat 3: Bakarisation ($239.87 in chips) 
+Seat 6: Washilinba ($57.80 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+Washilinba: posts the ante $1
+Bakarisation: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7h Qh]
+Washilinba: calls $1
+gaiggibeliin: folds 
+Bakarisation: checks 
+*** FLOP *** [7s Ts Ah]
+Washilinba: checks 
+Bakarisation: bets $2.47
+Washilinba: folds 
+Uncalled bet ($2.47) returned to Bakarisation
+Bakarisation collected $4.75 from pot
+Bakarisation: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [7s Ts Ah]
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: Bakarisation (button blind) collected ($4.75)
+Seat 6: Washilinba folded on the Flop
+
+
+
+PokerStars Hand #196379984910:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:57:23 EET [2019/01/29 13:57:23 ET]
+Table 'Rezia' 6-max Seat #6 is the button
+Seat 2: gaiggibeliin ($145.41 in chips) 
+Seat 3: Bakarisation ($242.62 in chips) 
+Seat 6: Washilinba ($55.80 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+Washilinba: posts the ante $1
+Washilinba: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jh Ks]
+gaiggibeliin: calls $1
+Bakarisation: folds 
+Washilinba: checks 
+*** FLOP *** [Kc 8h 8d]
+gaiggibeliin: checks 
+Washilinba: checks 
+*** TURN *** [Kc 8h 8d] [9d]
+gaiggibeliin: bets $3.18
+Washilinba: folds 
+Uncalled bet ($3.18) returned to gaiggibeliin
+gaiggibeliin collected $4.75 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [Kc 8h 8d 9d]
+Seat 2: gaiggibeliin collected ($4.75)
+Seat 3: Bakarisation folded before Flop (didn't bet)
+Seat 6: Washilinba (button blind) folded on the Turn
+
+
+
+PokerStars Hand #196380003422:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:57:54 EET [2019/01/29 13:57:54 ET]
+Table 'Rezia' 6-max Seat #2 is the button
+Seat 2: gaiggibeliin ($148.16 in chips) 
+Seat 3: Bakarisation ($241.62 in chips) 
+Seat 6: Washilinba ($128.99 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+Washilinba: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9c 9h]
+Bakarisation: raises $4 to $5
+Washilinba: folds 
+gaiggibeliin: calls $4
+*** FLOP *** [6d Js 6c]
+Bakarisation: bets $3.83
+gaiggibeliin: calls $3.83
+*** TURN *** [6d Js 6c] [Jc]
+Bakarisation: checks 
+gaiggibeliin: checks 
+*** RIVER *** [6d Js 6c Jc] [7h]
+Bakarisation: bets $6.09
+gaiggibeliin: calls $6.09
+*** SHOW DOWN ***
+Bakarisation: shows [Qs Qd] (two pair, Queens and Jacks)
+gaiggibeliin: mucks hand 
+Bakarisation collected $31.59 from pot
+*** SUMMARY ***
+Total pot $32.84 | Rake $1.25 
+Board [6d Js 6c Jc 7h]
+Seat 2: gaiggibeliin (button blind) mucked [9c 9h]
+Seat 3: Bakarisation showed [Qs Qd] and won ($31.59) with two pair, Queens and Jacks
+Seat 6: Washilinba folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196380038380:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:58:52 EET [2019/01/29 13:58:52 ET]
+Table 'Rezia' 6-max Seat #3 is the button
+Seat 2: gaiggibeliin ($132.24 in chips) 
+Seat 3: Bakarisation ($257.29 in chips) 
+Seat 6: Washilinba ($127.99 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+Washilinba: posts the ante $1
+Bakarisation: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jh Qs]
+Washilinba: calls $1
+gaiggibeliin: calls $1
+Bakarisation: raises $5 to $6
+Washilinba: calls $5
+gaiggibeliin: calls $5
+*** FLOP *** [6d Ts 6s]
+Washilinba: checks 
+gaiggibeliin: checks 
+Bakarisation: bets $6.18
+Washilinba: folds 
+gaiggibeliin: folds 
+Uncalled bet ($6.18) returned to Bakarisation
+Bakarisation collected $19.95 from pot
+Bakarisation: doesn't show hand 
+*** SUMMARY ***
+Total pot $21 | Rake $1.05 
+Board [6d Ts 6s]
+Seat 2: gaiggibeliin folded on the Flop
+Seat 3: Bakarisation (button blind) collected ($19.95)
+Seat 6: Washilinba folded on the Flop
+
+
+
+PokerStars Hand #196380062462:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:59:31 EET [2019/01/29 13:59:31 ET]
+Table 'Rezia' 6-max Seat #6 is the button
+Seat 2: gaiggibeliin ($125.24 in chips) 
+Seat 3: Bakarisation ($270.24 in chips) 
+Seat 6: Washilinba ($120.99 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+Washilinba: posts the ante $1
+Washilinba: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qc 9h]
+gaiggibeliin: folds 
+Bakarisation: calls $1
+Washilinba: checks 
+*** FLOP *** [8d 9c 9s]
+Bakarisation: checks 
+Washilinba: bets $3
+Bakarisation: calls $3
+*** TURN *** [8d 9c 9s] [Kh]
+Bakarisation: checks 
+Washilinba: bets $5
+Bakarisation: calls $5
+*** RIVER *** [8d 9c 9s Kh] [Qh]
+Bakarisation: checks 
+Washilinba: checks 
+*** SHOW DOWN ***
+Bakarisation: shows [Kc 8c] (two pair, Kings and Nines)
+Washilinba: mucks hand 
+Bakarisation collected $19.95 from pot
+*** SUMMARY ***
+Total pot $21 | Rake $1.05 
+Board [8d 9c 9s Kh Qh]
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: Bakarisation showed [Kc 8c] and won ($19.95) with two pair, Kings and Nines
+Seat 6: Washilinba (button blind) mucked [7c 6d]
+
+
+
+PokerStars Hand #196380078452:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:59:58 EET [2019/01/29 13:59:58 ET]
+Table 'Rezia' 6-max Seat #2 is the button
+Seat 2: gaiggibeliin ($124.24 in chips) 
+Seat 3: Bakarisation ($280.19 in chips) 
+Seat 6: Washilinba ($110.99 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+Washilinba: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Th 9h]
+Bakarisation: folds 
+Washilinba: calls $1
+gaiggibeliin: checks 
+*** FLOP *** [Qh 7d 8s]
+Washilinba: bets $4
+gaiggibeliin: raises $8.54 to $12.54
+Washilinba: raises $8.54 to $21.08
+gaiggibeliin: calls $8.54
+*** TURN *** [Qh 7d 8s] [9c]
+Washilinba: bets $87.91 and is all-in
+gaiggibeliin: folds 
+Uncalled bet ($87.91) returned to Washilinba
+Washilinba collected $45.91 from pot
+Washilinba: doesn't show hand 
+*** SUMMARY ***
+Total pot $47.16 | Rake $1.25 
+Board [Qh 7d 8s 9c]
+Seat 2: gaiggibeliin (button blind) folded on the Turn
+Seat 3: Bakarisation folded before Flop (didn't bet)
+Seat 6: Washilinba collected ($45.91)
+
+
+
+PokerStars Hand #196380105562:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 21:00:41 EET [2019/01/29 14:00:41 ET]
+Table 'Rezia' 6-max Seat #3 is the button
+Seat 2: gaiggibeliin ($101.16 in chips) 
+Seat 3: Bakarisation ($279.19 in chips) 
+Seat 6: Washilinba ($133.82 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+Washilinba: posts the ante $1
+Bakarisation: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7s Kc]
+Washilinba: calls $1
+gaiggibeliin: folds 
+Bakarisation: checks 
+*** FLOP *** [Ks Jd 8d]
+Washilinba: bets $5
+Bakarisation: calls $5
+*** TURN *** [Ks Jd 8d] [Ac]
+Washilinba: bets $3
+Bakarisation: calls $3
+*** RIVER *** [Ks Jd 8d Ac] [Kd]
+Washilinba: checks 
+Bakarisation: bets $14
+Washilinba: calls $14
+*** SHOW DOWN ***
+Bakarisation: shows [Ts 9h] (a pair of Kings)
+Washilinba: shows [6h Kh] (three of a kind, Kings)
+Washilinba collected $47.75 from pot
+*** SUMMARY ***
+Total pot $49 | Rake $1.25 
+Board [Ks Jd 8d Ac Kd]
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: Bakarisation (button blind) showed [Ts 9h] and lost with a pair of Kings
+Seat 6: Washilinba showed [6h Kh] and won ($47.75) with three of a kind, Kings
+
+
+
+PokerStars Hand #196380131666:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 21:01:20 EET [2019/01/29 14:01:20 ET]
+Table 'Rezia' 6-max Seat #6 is the button
+Seat 2: gaiggibeliin ($100.16 in chips) 
+Seat 3: Bakarisation ($255.19 in chips) 
+Seat 6: Washilinba ($157.57 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+Washilinba: posts the ante $1
+Washilinba: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6s Td]
+gaiggibeliin: folds 
+Bakarisation: raises $5 to $6
+Washilinba: calls $5
+*** FLOP *** [9s 9d Ks]
+Bakarisation: checks 
+Washilinba: bets $7
+Bakarisation: folds 
+Uncalled bet ($7) returned to Washilinba
+Washilinba collected $14.25 from pot
+Washilinba: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0.75 
+Board [9s 9d Ks]
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: Bakarisation folded on the Flop
+Seat 6: Washilinba (button blind) collected ($14.25)
+
+
+
+PokerStars Hand #196380155755:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 21:01:53 EET [2019/01/29 14:01:53 ET]
+Table 'Rezia' 6-max Seat #2 is the button
+Seat 2: gaiggibeliin ($150 in chips) 
+Seat 3: Bakarisation ($248.19 in chips) 
+Seat 6: Washilinba ($164.82 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+Washilinba: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ts Th]
+Bakarisation: raises $5 to $6
+Washilinba: folds 
+gaiggibeliin: calls $5
+*** FLOP *** [Ah As 9d]
+Bakarisation: bets $4.42
+gaiggibeliin: calls $4.42
+*** TURN *** [Ah As 9d] [Kd]
+Bakarisation: bets $15.40
+gaiggibeliin: folds 
+Uncalled bet ($15.40) returned to Bakarisation
+Bakarisation collected $22.65 from pot
+Bakarisation: doesn't show hand 
+*** SUMMARY ***
+Total pot $23.84 | Rake $1.19 
+Board [Ah As 9d Kd]
+Seat 2: gaiggibeliin (button blind) folded on the Turn
+Seat 3: Bakarisation collected ($22.65)
+Seat 6: Washilinba folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196380197885:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 21:02:50 EET [2019/01/29 14:02:50 ET]
+Table 'Rezia' 6-max Seat #3 is the button
+Seat 2: gaiggibeliin ($138.58 in chips) 
+Seat 3: Bakarisation ($259.42 in chips) 
+Seat 6: Washilinba ($163.82 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+Washilinba: posts the ante $1
+Bakarisation: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6c 7h]
+Washilinba: calls $1
+gaiggibeliin: folds 
+Bakarisation: raises $4 to $5
+Washilinba: calls $4
+*** FLOP *** [Qd 9s 6d]
+Washilinba: bets $8
+Bakarisation: raises $11.34 to $19.34
+Washilinba: calls $11.34
+*** TURN *** [Qd 9s 6d] [8c]
+Washilinba: bets $138.48 and is all-in
+Bakarisation: folds 
+Uncalled bet ($138.48) returned to Washilinba
+Washilinba collected $50.43 from pot
+*** SUMMARY ***
+Total pot $51.68 | Rake $1.25 
+Board [Qd 9s 6d 8c]
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: Bakarisation (button blind) folded on the Turn
+Seat 6: Washilinba collected ($50.43)
+
+
+
+PokerStars Hand #196380227652:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 21:03:29 EET [2019/01/29 14:03:29 ET]
+Table 'Rezia' 6-max Seat #6 is the button
+Seat 2: gaiggibeliin ($137.58 in chips) 
+Seat 3: Bakarisation ($234.08 in chips) 
+Seat 6: Washilinba ($188.91 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+Washilinba: posts the ante $1
+Washilinba: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8c As]
+gaiggibeliin: folds 
+Bakarisation: calls $1
+Washilinba: checks 
+*** FLOP *** [8d 6d Qs]
+Bakarisation: checks 
+Washilinba: checks 
+*** TURN *** [8d 6d Qs] [Ks]
+Bakarisation: checks 
+Washilinba: checks 
+*** RIVER *** [8d 6d Qs Ks] [Qc]
+Bakarisation: checks 
+Washilinba: checks 
+*** SHOW DOWN ***
+Bakarisation: shows [6s Ac] (two pair, Queens and Sixes)
+Washilinba: shows [8h Ad] (two pair, Queens and Eights)
+Washilinba collected $4.75 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [8d 6d Qs Ks Qc]
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: Bakarisation showed [6s Ac] and lost with two pair, Queens and Sixes
+Seat 6: Washilinba (button blind) showed [8h Ad] and won ($4.75) with two pair, Queens and Eights
+
+
+
+PokerStars Hand #196380260503:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 21:04:12 EET [2019/01/29 14:04:12 ET]
+Table 'Rezia' 6-max Seat #2 is the button
+Seat 2: gaiggibeliin ($136.58 in chips) 
+Seat 3: Bakarisation ($232.08 in chips) 
+Seat 6: Washilinba ($191.66 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+Washilinba: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6s Ac]
+Bakarisation: raises $5 to $6
+Washilinba: calls $6
+gaiggibeliin: calls $5
+*** FLOP *** [9c Ad Qd]
+Bakarisation: checks 
+Washilinba: checks 
+gaiggibeliin: bets $13.37
+Bakarisation: folds 
+Washilinba: folds 
+Uncalled bet ($13.37) returned to gaiggibeliin
+gaiggibeliin collected $19.95 from pot
+*** SUMMARY ***
+Total pot $21 | Rake $1.05 
+Board [9c Ad Qd]
+Seat 2: gaiggibeliin (button blind) collected ($19.95)
+Seat 3: Bakarisation folded on the Flop
+Seat 6: Washilinba folded on the Flop
+
+
+
+PokerStars Hand #196380279938:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 21:04:37 EET [2019/01/29 14:04:37 ET]
+Table 'Rezia' 6-max Seat #3 is the button
+Seat 2: gaiggibeliin ($149.53 in chips) 
+Seat 3: Bakarisation ($225.08 in chips) 
+Seat 6: Washilinba ($184.66 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+Washilinba: posts the ante $1
+Bakarisation: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jc 7h]
+Washilinba: raises $6 to $7
+gaiggibeliin: folds 
+Bakarisation: folds 
+Uncalled bet ($6) returned to Washilinba
+Washilinba collected $5 from pot
+Washilinba: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: Bakarisation (button blind) folded before Flop
+Seat 6: Washilinba collected ($5)
+
+
+
+PokerStars Hand #196380287147:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 21:04:47 EET [2019/01/29 14:04:47 ET]
+Table 'Rezia' 6-max Seat #6 is the button
+Seat 2: gaiggibeliin ($148.53 in chips) 
+Seat 3: Bakarisation ($223.08 in chips) 
+Seat 6: Washilinba ($187.66 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+Washilinba: posts the ante $1
+Washilinba: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Tc 6d]
+gaiggibeliin: folds 
+Bakarisation: raises $5 to $6
+Washilinba: calls $5
+*** FLOP *** [Js Kd 9s]
+Bakarisation: checks 
+Washilinba: checks 
+*** TURN *** [Js Kd 9s] [Ac]
+Bakarisation: checks 
+Washilinba: checks 
+*** RIVER *** [Js Kd 9s Ac] [7h]
+Bakarisation: checks 
+Washilinba: bets $3
+Bakarisation: calls $3
+*** SHOW DOWN ***
+Washilinba: shows [Ah Qh] (a pair of Aces)
+Bakarisation: mucks hand 
+Washilinba collected $19.95 from pot
+*** SUMMARY ***
+Total pot $21 | Rake $1.05 
+Board [Js Kd 9s Ac 7h]
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: Bakarisation mucked [Qs Ks]
+Seat 6: Washilinba (button blind) showed [Ah Qh] and won ($19.95) with a pair of Aces
+
+
+
+PokerStars Hand #196380315843:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 21:05:24 EET [2019/01/29 14:05:24 ET]
+Table 'Rezia' 6-max Seat #2 is the button
+Seat 2: gaiggibeliin ($147.53 in chips) 
+Seat 3: Bakarisation ($213.08 in chips) 
+Seat 6: Washilinba ($197.61 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+Washilinba: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qc Qd]
+Bakarisation: folds 
+Washilinba: calls $1
+gaiggibeliin: raises $6 to $7
+Washilinba: calls $6
+*** FLOP *** [Kc 6s Jh]
+Washilinba: checks 
+gaiggibeliin: bets $8.40
+Washilinba: calls $8.40
+*** TURN *** [Kc 6s Jh] [7h]
+Washilinba: checks 
+gaiggibeliin: checks 
+*** RIVER *** [Kc 6s Jh 7h] [7s]
+Washilinba: bets $11
+gaiggibeliin: calls $11
+*** SHOW DOWN ***
+Washilinba: shows [9c Kd] (two pair, Kings and Sevens)
+gaiggibeliin: mucks hand 
+Washilinba collected $54.55 from pot
+*** SUMMARY ***
+Total pot $55.80 | Rake $1.25 
+Board [Kc 6s Jh 7h 7s]
+Seat 2: gaiggibeliin (button blind) mucked [Qc Qd]
+Seat 3: Bakarisation folded before Flop (didn't bet)
+Seat 6: Washilinba showed [9c Kd] and won ($54.55) with two pair, Kings and Sevens
+
+
+
+PokerStars Hand #196380351832:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 21:06:11 EET [2019/01/29 14:06:11 ET]
+Table 'Rezia' 6-max Seat #3 is the button
+Seat 2: gaiggibeliin ($120.13 in chips) 
+Seat 3: Bakarisation ($212.08 in chips) 
+Seat 6: Washilinba ($224.76 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+Washilinba: posts the ante $1
+Bakarisation: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9d Ac]
+Washilinba: calls $1
+gaiggibeliin: calls $1
+Bakarisation: checks 
+*** FLOP *** [Qc Th Kh]
+Washilinba: bets $3
+gaiggibeliin: folds 
+Bakarisation: folds 
+Uncalled bet ($3) returned to Washilinba
+Washilinba collected $5.70 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Qc Th Kh]
+Seat 2: gaiggibeliin folded on the Flop
+Seat 3: Bakarisation (button blind) folded on the Flop
+Seat 6: Washilinba collected ($5.70)
+
+
+
+PokerStars Hand #196380367403:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 21:06:31 EET [2019/01/29 14:06:31 ET]
+Table 'Rezia' 6-max Seat #6 is the button
+Seat 2: gaiggibeliin ($118.13 in chips) 
+Seat 3: Bakarisation ($210.08 in chips) 
+Seat 6: Washilinba ($228.46 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+Washilinba: posts the ante $1
+Washilinba: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7d As]
+gaiggibeliin: folds 
+Bakarisation: calls $1
+Washilinba: raises $5 to $6
+Bakarisation: calls $5
+*** FLOP *** [8h 9s Ah]
+Bakarisation: checks 
+Washilinba: checks 
+*** TURN *** [8h 9s Ah] [Qs]
+Bakarisation: checks 
+Washilinba: checks 
+*** RIVER *** [8h 9s Ah Qs] [Kc]
+Bakarisation: checks 
+Washilinba: checks 
+*** SHOW DOWN ***
+Bakarisation: shows [Ts Jd] (a straight, Ten to Ace)
+Washilinba: mucks hand 
+Bakarisation collected $14.25 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0.75 
+Board [8h 9s Ah Qs Kc]
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: Bakarisation showed [Ts Jd] and won ($14.25) with a straight, Ten to Ace
+Seat 6: Washilinba (button blind) mucked [Td Th]
+
+
+
+PokerStars Hand #196380391414:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 21:07:02 EET [2019/01/29 14:07:02 ET]
+Table 'Rezia' 6-max Seat #2 is the button
+Seat 2: gaiggibeliin ($117.13 in chips) 
+Seat 3: Bakarisation ($217.33 in chips) 
+Seat 6: Washilinba ($221.46 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+Washilinba: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ks Qd]
+Bakarisation: folds 
+Washilinba: calls $1
+gaiggibeliin: raises $7 to $8
+Washilinba: calls $7
+*** FLOP *** [9c 8d Tc]
+Washilinba: bets $9
+gaiggibeliin: calls $9
+*** TURN *** [9c 8d Tc] [As]
+Washilinba: bets $18
+gaiggibeliin: folds 
+Uncalled bet ($18) returned to Washilinba
+Washilinba collected $35.75 from pot
+Washilinba: doesn't show hand 
+*** SUMMARY ***
+Total pot $37 | Rake $1.25 
+Board [9c 8d Tc As]
+Seat 2: gaiggibeliin (button blind) folded on the Turn
+Seat 3: Bakarisation folded before Flop (didn't bet)
+Seat 6: Washilinba collected ($35.75)
+
+
+
+PokerStars Hand #196380419458:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 21:07:39 EET [2019/01/29 14:07:39 ET]
+Table 'Rezia' 6-max Seat #3 is the button
+Seat 2: gaiggibeliin ($150 in chips) 
+Seat 3: Bakarisation ($216.33 in chips) 
+Seat 6: Washilinba ($239.21 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+Washilinba: posts the ante $1
+Bakarisation: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6d Jd]
+Washilinba: calls $1
+gaiggibeliin: folds 
+Bakarisation: checks 
+*** FLOP *** [Qs Qc 8s]
+Washilinba: checks 
+Bakarisation: checks 
+*** TURN *** [Qs Qc 8s] [Kd]
+Washilinba: checks 
+Bakarisation: checks 
+*** RIVER *** [Qs Qc 8s Kd] [9s]
+Washilinba: checks 
+Bakarisation: checks 
+*** SHOW DOWN ***
+Washilinba: shows [8c 6s] (two pair, Queens and Eights)
+Bakarisation: shows [Tc 9d] (two pair, Queens and Nines)
+Bakarisation collected $4.75 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [Qs Qc 8s Kd 9s]
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: Bakarisation (button blind) showed [Tc 9d] and won ($4.75) with two pair, Queens and Nines
+Seat 6: Washilinba showed [8c 6s] and lost with two pair, Queens and Eights
+
+
+
+PokerStars Hand #196380458761:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 21:08:23 EET [2019/01/29 14:08:23 ET]
+Table 'Rezia' 6-max Seat #6 is the button
+Seat 2: gaiggibeliin ($149 in chips) 
+Seat 3: Bakarisation ($219.08 in chips) 
+Seat 6: Washilinba ($237.21 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+Washilinba: posts the ante $1
+Washilinba: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jc 8h]
+gaiggibeliin: folds 
+Bakarisation: raises $5 to $6
+Washilinba: folds 
+Uncalled bet ($5) returned to Bakarisation
+Bakarisation collected $5 from pot
+Bakarisation: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: Bakarisation collected ($5)
+Seat 6: Washilinba (button blind) folded before Flop
+
+
+
+PokerStars Hand #196380465151:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 21:08:31 EET [2019/01/29 14:08:31 ET]
+Table 'Rezia' 6-max Seat #2 is the button
+Seat 2: gaiggibeliin ($148 in chips) 
+Seat 3: Bakarisation ($222.08 in chips) 
+Seat 6: Washilinba ($235.21 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+Washilinba: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6h 8d]
+Bakarisation: folds 
+Washilinba: calls $1
+gaiggibeliin: checks 
+*** FLOP *** [Ts 9h Kc]
+Washilinba: bets $5
+gaiggibeliin: folds 
+Uncalled bet ($5) returned to Washilinba
+Washilinba collected $4.75 from pot
+Washilinba: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [Ts 9h Kc]
+Seat 2: gaiggibeliin (button blind) folded on the Flop
+Seat 3: Bakarisation folded before Flop (didn't bet)
+Seat 6: Washilinba collected ($4.75)
+
+
+
+PokerStars Hand #196380487494:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 21:09:01 EET [2019/01/29 14:09:01 ET]
+Table 'Rezia' 6-max Seat #3 is the button
+Seat 2: gaiggibeliin ($146 in chips) 
+Seat 3: Bakarisation ($221.08 in chips) 
+Seat 6: Washilinba ($237.96 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+Washilinba: posts the ante $1
+Bakarisation: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9d Td]
+Washilinba: calls $1
+gaiggibeliin: raises $7 to $8
+Bakarisation: folds 
+Washilinba: folds 
+Uncalled bet ($7) returned to gaiggibeliin
+gaiggibeliin collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: gaiggibeliin collected ($6)
+Seat 3: Bakarisation (button blind) folded before Flop
+Seat 6: Washilinba folded before Flop
+
+
+
+PokerStars Hand #196380499398:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 21:09:16 EET [2019/01/29 14:09:16 ET]
+Table 'Rezia' 6-max Seat #6 is the button
+Seat 2: gaiggibeliin ($150 in chips) 
+Seat 3: Bakarisation ($219.08 in chips) 
+Seat 6: Washilinba ($235.96 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+Washilinba: posts the ante $1
+Washilinba: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7c Qd]
+gaiggibeliin: folds 
+Bakarisation: folds 
+Uncalled bet ($1) returned to Washilinba
+Washilinba collected $3 from pot
+Washilinba: doesn't show hand 
+*** SUMMARY ***
+Total pot $3 | Rake $0 
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: Bakarisation folded before Flop (didn't bet)
+Seat 6: Washilinba (button blind) collected ($3)
+
+
+
+PokerStars Hand #196380504259:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 21:09:22 EET [2019/01/29 14:09:22 ET]
+Table 'Rezia' 6-max Seat #2 is the button
+Seat 2: gaiggibeliin ($149 in chips) 
+Seat 3: Bakarisation ($218.08 in chips) 
+Seat 6: Washilinba ($237.96 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+Washilinba: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kh 6d]
+Bakarisation: folds 
+Washilinba: calls $1
+gaiggibeliin: checks 
+*** FLOP *** [Js Ad Qh]
+Washilinba: bets $3
+gaiggibeliin: folds 
+Uncalled bet ($3) returned to Washilinba
+Washilinba collected $4.75 from pot
+Washilinba: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [Js Ad Qh]
+Seat 2: gaiggibeliin (button blind) folded on the Flop
+Seat 3: Bakarisation folded before Flop (didn't bet)
+Seat 6: Washilinba collected ($4.75)
+
+
+
+PokerStars Hand #196380519353:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 21:09:42 EET [2019/01/29 14:09:42 ET]
+Table 'Rezia' 6-max Seat #3 is the button
+Seat 2: gaiggibeliin ($147 in chips) 
+Seat 3: Bakarisation ($217.08 in chips) 
+Seat 6: Washilinba ($240.71 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+Washilinba: posts the ante $1
+Bakarisation: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ah 7d]
+Washilinba: calls $1
+gaiggibeliin: calls $1
+Bakarisation: checks 
+*** FLOP *** [6d Ad 6c]
+Washilinba: checks 
+gaiggibeliin: checks 
+Bakarisation: bets $1.77
+Washilinba: folds 
+gaiggibeliin: calls $1.77
+*** TURN *** [6d Ad 6c] [7h]
+gaiggibeliin: checks 
+Bakarisation: bets $6.16
+gaiggibeliin: calls $6.16
+*** RIVER *** [6d Ad 6c 7h] [6s]
+gaiggibeliin: checks 
+Bakarisation: bets $46
+gaiggibeliin: folds 
+Uncalled bet ($46) returned to Bakarisation
+Bakarisation collected $20.77 from pot
+Bakarisation: doesn't show hand 
+*** SUMMARY ***
+Total pot $21.86 | Rake $1.09 
+Board [6d Ad 6c 7h 6s]
+Seat 2: gaiggibeliin folded on the River
+Seat 3: Bakarisation (button blind) collected ($20.77)
+Seat 6: Washilinba folded on the Flop
+
+
+
+PokerStars Hand #196380579687:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 21:11:00 EET [2019/01/29 14:11:00 ET]
+Table 'Rezia' 6-max Seat #6 is the button
+Seat 2: gaiggibeliin ($137.07 in chips) 
+Seat 3: Bakarisation ($227.92 in chips) 
+Seat 6: Washilinba ($238.71 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+Washilinba: posts the ante $1
+Washilinba: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Tc Ad]
+gaiggibeliin: calls $1
+Bakarisation: folds 
+Washilinba: checks 
+*** FLOP *** [Td 6s 6c]
+gaiggibeliin: checks 
+Washilinba: bets $1
+gaiggibeliin: calls $1
+*** TURN *** [Td 6s 6c] [Kh]
+gaiggibeliin: checks 
+Washilinba: checks 
+*** RIVER *** [Td 6s 6c Kh] [7h]
+gaiggibeliin: bets $2.19
+Washilinba: calls $2.19
+*** SHOW DOWN ***
+gaiggibeliin: shows [Tc Ad] (two pair, Tens and Sixes)
+Washilinba: mucks hand 
+gaiggibeliin collected $10.81 from pot
+*** SUMMARY ***
+Total pot $11.38 | Rake $0.57 
+Board [Td 6s 6c Kh 7h]
+Seat 2: gaiggibeliin showed [Tc Ad] and won ($10.81) with two pair, Tens and Sixes
+Seat 3: Bakarisation folded before Flop (didn't bet)
+Seat 6: Washilinba (button blind) mucked [8c 8s]
+
+
+
+PokerStars Hand #196380610373:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 21:11:40 EET [2019/01/29 14:11:40 ET]
+Table 'Rezia' 6-max Seat #2 is the button
+Seat 2: gaiggibeliin ($142.69 in chips) 
+Seat 3: Bakarisation ($226.92 in chips) 
+Seat 6: Washilinba ($233.52 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+Washilinba: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ks As]
+Bakarisation: folds 
+Washilinba: calls $1
+gaiggibeliin: raises $7 to $8
+Washilinba: calls $7
+*** FLOP *** [Jd 9h Tc]
+Washilinba: bets $4
+gaiggibeliin: calls $4
+*** TURN *** [Jd 9h Tc] [8s]
+Washilinba: bets $5
+gaiggibeliin: calls $5
+*** RIVER *** [Jd 9h Tc 8s] [Qd]
+Washilinba: checks 
+gaiggibeliin: bets $23.95
+Washilinba: folds 
+Uncalled bet ($23.95) returned to gaiggibeliin
+gaiggibeliin collected $35.75 from pot
+*** SUMMARY ***
+Total pot $37 | Rake $1.25 
+Board [Jd 9h Tc 8s Qd]
+Seat 2: gaiggibeliin (button blind) collected ($35.75)
+Seat 3: Bakarisation folded before Flop (didn't bet)
+Seat 6: Washilinba folded on the River
+
+
+
+PokerStars Hand #196380649283:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 21:12:31 EET [2019/01/29 14:12:31 ET]
+Table 'Rezia' 6-max Seat #3 is the button
+Seat 2: gaiggibeliin ($160.44 in chips) 
+Seat 3: Bakarisation ($225.92 in chips) 
+Seat 6: Washilinba ($215.52 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+Washilinba: posts the ante $1
+Bakarisation: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jd 8d]
+Washilinba: folds 
+gaiggibeliin: calls $1
+Bakarisation: checks 
+*** FLOP *** [Qh 9h Kh]
+gaiggibeliin: checks 
+Bakarisation: checks 
+*** TURN *** [Qh 9h Kh] [As]
+gaiggibeliin: checks 
+Bakarisation: checks 
+*** RIVER *** [Qh 9h Kh As] [7c]
+gaiggibeliin: checks 
+Bakarisation: bets $1.90
+gaiggibeliin: folds 
+Uncalled bet ($1.90) returned to Bakarisation
+Bakarisation collected $4.75 from pot
+Bakarisation: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [Qh 9h Kh As 7c]
+Seat 2: gaiggibeliin folded on the River
+Seat 3: Bakarisation (button blind) collected ($4.75)
+Seat 6: Washilinba folded before Flop (didn't bet)
+
+
+

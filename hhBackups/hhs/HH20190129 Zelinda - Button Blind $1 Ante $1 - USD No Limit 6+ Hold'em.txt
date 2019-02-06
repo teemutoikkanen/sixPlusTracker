@@ -1,0 +1,40 @@
+﻿PokerStars Hand #196377502585:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:01:32 EET [2019/01/29 13:01:32 ET]
+Table 'Zelinda' 6-max Seat #4 is the button
+Seat 1: gaiggibeliin ($150 in chips) 
+Seat 4: liyaoeli1893 ($150 in chips) 
+gaiggibeliin: posts the ante $1
+liyaoeli1893: posts the ante $1
+liyaoeli1893: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ah 6d]
+gaiggibeliin: folds 
+Uncalled bet ($1) returned to liyaoeli1893
+liyaoeli1893 collected $2 from pot
+liyaoeli1893: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: liyaoeli1893 (button blind) collected ($2)
+
+
+
+PokerStars Hand #196377511134:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:01:45 EET [2019/01/29 13:01:45 ET]
+Table 'Zelinda' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($149 in chips) 
+Seat 4: liyaoeli1893 ($151 in chips) 
+gaiggibeliin: posts the ante $1
+liyaoeli1893: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jd Kh]
+liyaoeli1893: folds 
+Uncalled bet ($1) returned to gaiggibeliin
+gaiggibeliin collected $2 from pot
+liyaoeli1893 leaves the table
+*** SUMMARY ***
+Total pot $2 | Rake $0 
+Seat 1: gaiggibeliin (button blind) collected ($2)
+Seat 4: liyaoeli1893 folded before Flop (didn't bet)
+
+
+

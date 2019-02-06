@@ -1,0 +1,686 @@
+﻿PokerStars Hand #196219987997:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 1:09:52 EET [2019/01/25 18:09:52 ET]
+Table 'Nysa' 6-max Seat #2 is the button
+Seat 2: madjic1 ($300 in chips) 
+Seat 4: gaiggibeliin ($300 in chips) 
+Seat 6: sss457 ($300 in chips) 
+madjic1: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+madjic1: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9s 6c]
+gaiggibeliin: folds 
+sss457: folds 
+Uncalled bet ($2) returned to madjic1
+madjic1 collected $6 from pot
+madjic1: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 2: madjic1 (button blind) collected ($6)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: sss457 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196219992951:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 1:10:00 EET [2019/01/25 18:10:00 ET]
+Table 'Nysa' 6-max Seat #4 is the button
+Seat 2: madjic1 ($304 in chips) 
+Seat 4: gaiggibeliin ($298 in chips) 
+Seat 6: sss457 ($298 in chips) 
+madjic1: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+gaiggibeliin: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6c Qc]
+sss457: folds 
+madjic1: calls $2
+gaiggibeliin: checks 
+*** FLOP *** [Tc 7c 7h]
+madjic1: checks 
+gaiggibeliin: bets $6.37
+madjic1: raises $16.78 to $23.15
+vedat joins the table at seat #3 
+gaiggibeliin: calls $16.78
+*** TURN *** [Tc 7c 7h] [As]
+madjic1: bets $45.10
+gaiggibeliin: folds 
+Uncalled bet ($45.10) returned to madjic1
+madjic1 collected $54.80 from pot
+madjic1: doesn't show hand 
+*** SUMMARY ***
+Total pot $56.30 | Rake $1.50 
+Board [Tc 7c 7h As]
+Seat 2: madjic1 collected ($54.80)
+Seat 4: gaiggibeliin (button blind) folded on the Turn
+Seat 6: sss457 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196220050835:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 1:11:25 EET [2019/01/25 18:11:25 ET]
+Table 'Nysa' 6-max Seat #6 is the button
+Seat 2: madjic1 ($331.65 in chips) 
+Seat 3: vedat ($200 in chips) 
+Seat 4: gaiggibeliin ($270.85 in chips) 
+Seat 6: sss457 ($296 in chips) 
+madjic1: posts the ante $2
+vedat: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+sss457: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6c 9h]
+madjic1: folds 
+vedat: folds 
+gaiggibeliin: folds 
+Uncalled bet ($2) returned to sss457
+sss457 collected $8 from pot
+sss457: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0 
+Seat 2: madjic1 folded before Flop (didn't bet)
+Seat 3: vedat folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: sss457 (button blind) collected ($8)
+
+
+
+PokerStars Hand #196220055629:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 1:11:32 EET [2019/01/25 18:11:32 ET]
+Table 'Nysa' 6-max Seat #2 is the button
+Seat 2: madjic1 ($329.65 in chips) 
+Seat 3: vedat ($198 in chips) 
+Seat 4: gaiggibeliin ($268.85 in chips) 
+Seat 6: sss457 ($302 in chips) 
+madjic1: posts the ante $2
+vedat: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+madjic1: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qh Kh]
+vedat: calls $2
+gaiggibeliin: raises $14 to $16
+sss457: folds 
+madjic1: folds 
+vedat: calls $14
+*** FLOP *** [Ks 7h 8s]
+vedat: checks 
+gaiggibeliin: bets $27.14
+vedat: raises $152.86 to $180 and is all-in
+gaiggibeliin: calls $152.86
+*** TURN *** [Ks 7h 8s] [Th]
+*** RIVER *** [Ks 7h 8s Th] [Jh]
+*** SHOW DOWN ***
+vedat: shows [8h 8c] (three of a kind, Eights)
+gaiggibeliin: shows [Qh Kh] (a flush, King high)
+gaiggibeliin collected $400.50 from pot
+*** SUMMARY ***
+Total pot $402 | Rake $1.50 
+Board [Ks 7h 8s Th Jh]
+Seat 2: madjic1 (button blind) folded before Flop
+Seat 3: vedat showed [8h 8c] and lost with three of a kind, Eights
+Seat 4: gaiggibeliin showed [Qh Kh] and won ($400.50) with a flush, King high
+Seat 6: sss457 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196220097916:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 1:12:34 EET [2019/01/25 18:12:34 ET]
+Table 'Nysa' 6-max Seat #4 is the button
+Seat 2: madjic1 ($325.65 in chips) 
+Seat 4: gaiggibeliin ($471.35 in chips) 
+Seat 6: sss457 ($300 in chips) 
+madjic1: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+gaiggibeliin: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8h Qc]
+sss457: calls $2
+madjic1: calls $2
+gaiggibeliin: checks 
+*** FLOP *** [Kc Jc 7h]
+sss457: checks 
+madjic1: checks 
+gaiggibeliin: checks 
+*** TURN *** [Kc Jc 7h] [6h]
+sss457: bets $9.12
+madjic1: folds 
+gaiggibeliin: folds 
+Uncalled bet ($9.12) returned to sss457
+sss457 collected $11.40 from pot
+sss457: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0.60 
+Board [Kc Jc 7h 6h]
+Seat 2: madjic1 folded on the Turn
+Seat 4: gaiggibeliin (button blind) folded on the Turn
+Seat 6: sss457 collected ($11.40)
+
+
+
+PokerStars Hand #196220140644:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 1:13:37 EET [2019/01/25 18:13:37 ET]
+Table 'Nysa' 6-max Seat #6 is the button
+Seat 2: madjic1 ($321.65 in chips) 
+Seat 3: vedat ($200 in chips) 
+Seat 4: gaiggibeliin ($467.35 in chips) 
+Seat 6: sss457 ($307.40 in chips) 
+madjic1: posts the ante $2
+vedat: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+sss457: posts button blind $2
+vedat: posts big blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jd Ac]
+Ri242 joins the table at seat #1 
+madjic1: folds 
+vedat: checks 
+gaiggibeliin: raises $14 to $16
+sss457: folds 
+vedat: calls $14
+*** FLOP *** [8c As 6h]
+vedat: checks 
+gaiggibeliin: bets $21.06
+vedat: raises $160.94 to $182 and is all-in
+gaiggibeliin: folds 
+Uncalled bet ($160.94) returned to vedat
+vedat collected $82.62 from pot
+vedat: doesn't show hand 
+*** SUMMARY ***
+Total pot $84.12 | Rake $1.50 
+Board [8c As 6h]
+Seat 2: madjic1 folded before Flop (didn't bet)
+Seat 3: vedat collected ($82.62)
+Seat 4: gaiggibeliin folded on the Flop
+Seat 6: sss457 (button blind) folded before Flop
+
+
+
+PokerStars Hand #196220183719:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 1:14:41 EET [2019/01/25 18:14:41 ET]
+Table 'Nysa' 6-max Seat #2 is the button
+Seat 1: Ri242 ($300 in chips) 
+Seat 2: madjic1 ($319.65 in chips) 
+Seat 3: vedat ($243.56 in chips) 
+Seat 4: gaiggibeliin ($428.29 in chips) 
+Seat 6: sss457 ($303.40 in chips) 
+Ri242: posts the ante $2
+madjic1: posts the ante $2
+vedat: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+madjic1: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9s As]
+vedat: folds 
+gaiggibeliin: calls $2
+sss457: calls $2
+Ri242: calls $2
+madjic1: raises $18 to $20
+gaiggibeliin: folds 
+sss457: folds 
+Ri242: calls $18
+*** FLOP *** [Qc 8s Kd]
+Ri242: checks 
+madjic1: bets $25.65
+Ri242: calls $25.65
+*** TURN *** [Qc 8s Kd] [9c]
+Ri242: checks 
+madjic1: bets $72.35
+Ri242: folds 
+Uncalled bet ($72.35) returned to madjic1
+madjic1 collected $101.80 from pot
+madjic1: doesn't show hand 
+*** SUMMARY ***
+Total pot $105.30 | Rake $3.50 
+Board [Qc 8s Kd 9c]
+Seat 1: Ri242 folded on the Turn
+Seat 2: madjic1 (button blind) collected ($101.80)
+Seat 3: vedat folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop
+Seat 6: sss457 folded before Flop
+
+
+
+PokerStars Hand #196220233489:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 1:15:56 EET [2019/01/25 18:15:56 ET]
+Table 'Nysa' 6-max Seat #3 is the button
+Seat 1: Ri242 ($252.35 in chips) 
+Seat 2: madjic1 ($373.80 in chips) 
+Seat 3: vedat ($241.56 in chips) 
+Seat 4: gaiggibeliin ($424.29 in chips) 
+Seat 6: sss457 ($299.40 in chips) 
+Ri242: posts the ante $2
+madjic1: posts the ante $2
+vedat: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+vedat: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8s 7d]
+gaiggibeliin: folds 
+sss457: calls $2
+Ri242: calls $2
+madjic1: folds 
+vedat: checks 
+*** FLOP *** [Qh Ac Th]
+sss457: bets $7.60
+Ri242: calls $7.60
+vedat: folds 
+*** TURN *** [Qh Ac Th] [Ks]
+sss457: checks 
+Ri242: checks 
+*** RIVER *** [Qh Ac Th Ks] [9s]
+vedat leaves the table
+sss457: bets $23.71
+Ri242: raises $38.53 to $62.24
+sss457: calls $38.53
+*** SHOW DOWN ***
+Ri242: shows [Jh Ad] (a straight, Ten to Ace)
+sss457: shows [9d Jd] (a straight, Ten to Ace)
+sss457 collected $76.09 from pot
+Ri242 collected $76.09 from pot
+*** SUMMARY ***
+Total pot $155.68 | Rake $3.50 
+Board [Qh Ac Th Ks 9s]
+Seat 1: Ri242 showed [Jh Ad] and won ($76.09) with a straight, Ten to Ace
+Seat 2: madjic1 folded before Flop (didn't bet)
+Seat 3: vedat (button blind) folded on the Flop
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: sss457 showed [9d Jd] and won ($76.09) with a straight, Ten to Ace
+
+
+
+PokerStars Hand #196220282214:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 1:17:08 EET [2019/01/25 18:17:08 ET]
+Table 'Nysa' 6-max Seat #4 is the button
+Seat 1: Ri242 ($254.60 in chips) 
+Seat 2: madjic1 ($371.80 in chips) 
+Seat 4: gaiggibeliin ($422.29 in chips) 
+Seat 6: sss457 ($301.65 in chips) 
+Ri242: posts the ante $2
+madjic1: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+gaiggibeliin: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ah 7h]
+sss457: folds 
+Ri242: raises $12 to $14
+madjic1: folds 
+gaiggibeliin: calls $12
+*** FLOP *** [7d 6h Kc]
+Ri242: bets $17.25
+gaiggibeliin: calls $17.25
+*** TURN *** [7d 6h Kc] [Th]
+Ri242: bets $34.50
+gaiggibeliin: calls $34.50
+*** RIVER *** [7d 6h Kc Th] [Tc]
+Ri242: bets $186.85 and is all-in
+gaiggibeliin: folds 
+Uncalled bet ($186.85) returned to Ri242
+Ri242 collected $138 from pot
+Ri242: doesn't show hand 
+*** SUMMARY ***
+Total pot $139.50 | Rake $1.50 
+Board [7d 6h Kc Th Tc]
+Seat 1: Ri242 collected ($138)
+Seat 2: madjic1 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin (button blind) folded on the River
+Seat 6: sss457 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196220313243:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 1:17:55 EET [2019/01/25 18:17:55 ET]
+Table 'Nysa' 6-max Seat #6 is the button
+Seat 1: Ri242 ($324.85 in chips) 
+Seat 2: madjic1 ($369.80 in chips) 
+Seat 4: gaiggibeliin ($354.54 in chips) 
+Seat 6: sss457 ($299.65 in chips) 
+Ri242: posts the ante $2
+madjic1: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+sss457: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ad Jd]
+Ri242: calls $2
+madjic1: folds 
+gaiggibeliin: calls $2
+sss457: checks 
+*** FLOP *** [7d As 8c]
+Ri242: checks 
+gaiggibeliin: checks 
+sss457: checks 
+*** TURN *** [7d As 8c] [Kd]
+Ri242: bets $6.65
+gaiggibeliin: calls $6.65
+sss457: folds 
+*** RIVER *** [7d As 8c Kd] [Jc]
+Ri242: checks 
+gaiggibeliin: bets $19.46
+Ri242: calls $19.46
+*** SHOW DOWN ***
+gaiggibeliin: shows [Ad Jd] (two pair, Aces and Jacks)
+Ri242: mucks hand 
+gaiggibeliin collected $64.72 from pot
+*** SUMMARY ***
+Total pot $66.22 | Rake $1.50 
+Board [7d As 8c Kd Jc]
+Seat 1: Ri242 mucked [6h Ks]
+Seat 2: madjic1 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin showed [Ad Jd] and won ($64.72) with two pair, Aces and Jacks
+Seat 6: sss457 (button blind) folded on the Turn
+
+
+
+PokerStars Hand #196220366671:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 1:19:15 EET [2019/01/25 18:19:15 ET]
+Table 'Nysa' 6-max Seat #1 is the button
+Seat 1: Ri242 ($294.74 in chips) 
+Seat 2: madjic1 ($367.80 in chips) 
+Seat 4: gaiggibeliin ($389.15 in chips) 
+Seat 6: sss457 ($295.65 in chips) 
+Ri242: posts the ante $2
+madjic1: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+Ri242: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ks Kd]
+madjic1: folds 
+gaiggibeliin: calls $2
+sss457: folds 
+Ri242: raises $2 to $4
+gaiggibeliin: raises $32 to $36
+Ri242: calls $32
+*** FLOP *** [Qs Qc Kc]
+gaiggibeliin: bets $25.91
+Ri242: calls $25.91
+*** TURN *** [Qs Qc Kc] [8h]
+gaiggibeliin: checks 
+Ri242: checks 
+*** RIVER *** [Qs Qc Kc 8h] [6s]
+Tenebrus321 joins the table at seat #3 
+gaiggibeliin: bets $97.74
+Ri242: calls $97.74
+*** SHOW DOWN ***
+gaiggibeliin: shows [Ks Kd] (a full house, Kings full of Queens)
+Ri242: mucks hand 
+gaiggibeliin collected $325.80 from pot
+*** SUMMARY ***
+Total pot $327.30 | Rake $1.50 
+Board [Qs Qc Kc 8h 6s]
+Seat 1: Ri242 (button blind) mucked [Qd Th]
+Seat 2: madjic1 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin showed [Ks Kd] and won ($325.80) with a full house, Kings full of Queens
+Seat 6: sss457 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196220434231:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 1:20:57 EET [2019/01/25 18:20:57 ET]
+Table 'Nysa' 6-max Seat #2 is the button
+Seat 1: Ri242 ($133.09 in chips) 
+Seat 2: madjic1 ($365.80 in chips) 
+Seat 3: Tenebrus321 ($300 in chips) 
+Seat 4: gaiggibeliin ($553.30 in chips) 
+Seat 6: sss457 ($293.65 in chips) 
+Ri242: posts the ante $2
+madjic1: posts the ante $2
+Tenebrus321: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+madjic1: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qh Jc]
+Tenebrus321: folds 
+gaiggibeliin: calls $2
+sss457: folds 
+Ri242: folds 
+Ri242 leaves the table
+madjic1: raises $14 to $16
+gaiggibeliin: calls $14
+*** FLOP *** [7s 9c Th]
+gaiggibeliin: checks 
+madjic1: bets $19.95
+gaiggibeliin: raises $46.05 to $66
+madjic1: folds 
+Uncalled bet ($46.05) returned to gaiggibeliin
+gaiggibeliin collected $78.40 from pot
+*** SUMMARY ***
+Total pot $81.90 | Rake $3.50 
+Board [7s 9c Th]
+Seat 1: Ri242 folded before Flop (didn't bet)
+Seat 2: madjic1 (button blind) folded on the Flop
+Seat 3: Tenebrus321 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin collected ($78.40)
+Seat 6: sss457 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196220479056:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 1:22:05 EET [2019/01/25 18:22:05 ET]
+Table 'Nysa' 6-max Seat #3 is the button
+Seat 2: madjic1 ($327.85 in chips) 
+Seat 3: Tenebrus321 ($300 in chips) 
+Seat 4: gaiggibeliin ($593.75 in chips) 
+Seat 6: sss457 ($291.65 in chips) 
+madjic1: posts the ante $2
+Tenebrus321: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+Tenebrus321: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ad Qc]
+gaiggibeliin: calls $2
+sss457: folds 
+madjic1: folds 
+Tenebrus321: checks 
+*** FLOP *** [Jh 9c Jd]
+gaiggibeliin: bets $5.93
+Tenebrus321: calls $5.93
+*** TURN *** [Jh 9c Jd] [Th]
+gaiggibeliin: bets $15.19
+Tenebrus321: folds 
+Uncalled bet ($15.19) returned to gaiggibeliin
+gaiggibeliin collected $22.67 from pot
+*** SUMMARY ***
+Total pot $23.86 | Rake $1.19 
+Board [Jh 9c Jd Th]
+Seat 2: madjic1 folded before Flop (didn't bet)
+Seat 3: Tenebrus321 (button blind) folded on the Turn
+Seat 4: gaiggibeliin collected ($22.67)
+Seat 6: sss457 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196220517303:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 1:23:03 EET [2019/01/25 18:23:03 ET]
+Table 'Nysa' 6-max Seat #4 is the button
+Seat 2: madjic1 ($325.85 in chips) 
+Seat 3: Tenebrus321 ($300 in chips) 
+Seat 4: gaiggibeliin ($606.49 in chips) 
+Seat 6: sss457 ($289.65 in chips) 
+madjic1: posts the ante $2
+Tenebrus321: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+gaiggibeliin: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ts Jh]
+sss457: calls $2
+madjic1: calls $2
+Tenebrus321: folds 
+gaiggibeliin: checks 
+*** FLOP *** [Jd 9s Qh]
+sss457: checks 
+madjic1: checks 
+NeverScaredB joins the table at seat #1 
+takechip joins the table at seat #5 
+gaiggibeliin has timed out
+gaiggibeliin: checks 
+*** TURN *** [Jd 9s Qh] [Qs]
+sss457: checks 
+madjic1: bets $10.98
+gaiggibeliin: calls $10.98
+sss457: raises $25.02 to $36
+madjic1: folds 
+gaiggibeliin: folds 
+Uncalled bet ($25.02) returned to sss457
+sss457 collected $45.44 from pot
+sss457: doesn't show hand 
+*** SUMMARY ***
+Total pot $46.94 | Rake $1.50 
+Board [Jd 9s Qh Qs]
+Seat 2: madjic1 folded on the Turn
+Seat 3: Tenebrus321 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin (button blind) folded on the Turn
+Seat 6: sss457 collected ($45.44)
+
+
+
+PokerStars Hand #196220588184:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 1:24:51 EET [2019/01/25 18:24:51 ET]
+Table 'Nysa' 6-max Seat #6 is the button
+Seat 1: NeverScaredB ($300 in chips) 
+Seat 2: madjic1 ($310.87 in chips) 
+Seat 3: Tenebrus321 ($300 in chips) 
+Seat 4: gaiggibeliin ($591.51 in chips) 
+Seat 5: takechip ($300 in chips) 
+Seat 6: sss457 ($320.11 in chips) 
+NeverScaredB: posts the ante $2
+madjic1: posts the ante $2
+Tenebrus321: posts the ante $2
+gaiggibeliin: posts the ante $2
+takechip: posts the ante $2
+sss457: posts the ante $2
+sss457: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jc Kd]
+NeverScaredB: calls $2
+madjic1: calls $2
+Tenebrus321: folds 
+gaiggibeliin: calls $2
+takechip: calls $2
+sss457: checks 
+*** FLOP *** [9h 7d Ts]
+NeverScaredB: bets $17.50
+madjic1: folds 
+gaiggibeliin: calls $17.50
+takechip: folds 
+sss457: folds 
+*** TURN *** [9h 7d Ts] [6d]
+NeverScaredB: checks 
+gaiggibeliin: bets $46
+NeverScaredB: calls $46
+*** RIVER *** [9h 7d Ts 6d] [Kh]
+NeverScaredB: checks 
+gaiggibeliin: bets $92
+NeverScaredB: raises $140.50 to $232.50 and is all-in
+gaiggibeliin: folds 
+Uncalled bet ($140.50) returned to NeverScaredB
+NeverScaredB collected $329.50 from pot
+NeverScaredB: doesn't show hand 
+*** SUMMARY ***
+Total pot $333 | Rake $3.50 
+Board [9h 7d Ts 6d Kh]
+Seat 1: NeverScaredB collected ($329.50)
+Seat 2: madjic1 folded on the Flop
+Seat 3: Tenebrus321 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded on the River
+Seat 5: takechip folded on the Flop
+Seat 6: sss457 (button blind) folded on the Flop
+
+
+
+PokerStars Hand #196220665961:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 1:26:50 EET [2019/01/25 18:26:50 ET]
+Table 'Nysa' 6-max Seat #1 is the button
+Seat 1: NeverScaredB ($470 in chips) 
+Seat 2: madjic1 ($306.87 in chips) 
+Seat 3: Tenebrus321 ($300 in chips) 
+Seat 4: gaiggibeliin ($432.01 in chips) 
+Seat 5: takechip ($296 in chips) 
+Seat 6: sss457 ($316.11 in chips) 
+NeverScaredB: posts the ante $2
+madjic1: posts the ante $2
+Tenebrus321: posts the ante $2
+gaiggibeliin: posts the ante $2
+takechip: posts the ante $2
+sss457: posts the ante $2
+NeverScaredB: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kd Ac]
+madjic1: calls $2
+Tenebrus321: folds 
+gaiggibeliin: raises $18 to $20
+takechip: folds 
+sss457: folds 
+NeverScaredB: calls $18
+takechip leaves the table
+madjic1: calls $18
+*** FLOP *** [8h Qd Jd]
+madjic1: checks 
+gaiggibeliin: checks 
+NeverScaredB: checks 
+*** TURN *** [8h Qd Jd] [7c]
+madjic1: checks 
+gaiggibeliin: checks 
+NeverScaredB: bets $48.52
+madjic1: folds 
+gaiggibeliin: folds 
+Uncalled bet ($48.52) returned to NeverScaredB
+NeverScaredB collected $68.50 from pot
+NeverScaredB: doesn't show hand 
+*** SUMMARY ***
+Total pot $72 | Rake $3.50 
+Board [8h Qd Jd 7c]
+Seat 1: NeverScaredB (button blind) collected ($68.50)
+Seat 2: madjic1 folded on the Turn
+Seat 3: Tenebrus321 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded on the Turn
+Seat 5: takechip folded before Flop (didn't bet)
+Seat 6: sss457 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196220740114:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/01/26 1:28:44 EET [2019/01/25 18:28:44 ET]
+Table 'Nysa' 6-max Seat #2 is the button
+Seat 1: NeverScaredB ($516.50 in chips) 
+Seat 2: madjic1 ($284.87 in chips) 
+Seat 3: Tenebrus321 ($300 in chips) 
+Seat 4: gaiggibeliin ($410.01 in chips) 
+Seat 6: sss457 ($314.11 in chips) 
+NeverScaredB: posts the ante $2
+madjic1: posts the ante $2
+Tenebrus321: posts the ante $2
+gaiggibeliin: posts the ante $2
+sss457: posts the ante $2
+madjic1: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jd 7d]
+Tenebrus321: folds 
+gaiggibeliin: folds 
+sss457: folds 
+NeverScaredB: calls $2
+madjic1: raises $14 to $16
+NeverScaredB: calls $14
+*** FLOP *** [Td Jh 6c]
+NeverScaredB: checks 
+madjic1: bets $29.93
+NeverScaredB: calls $29.93
+*** TURN *** [Td Jh 6c] [Qs]
+NeverScaredB: checks 
+madjic1: bets $38.46
+NeverScaredB: calls $38.46
+*** RIVER *** [Td Jh 6c Qs] [9h]
+NeverScaredB: checks 
+madjic1: bets $198.48 and is all-in
+drogba78 joins the table at seat #5 
+NeverScaredB: folds 
+Uncalled bet ($198.48) returned to madjic1
+madjic1 collected $175.28 from pot
+madjic1: doesn't show hand 
+*** SUMMARY ***
+Total pot $178.78 | Rake $3.50 
+Board [Td Jh 6c Qs 9h]
+Seat 1: NeverScaredB folded on the River
+Seat 2: madjic1 (button blind) collected ($175.28)
+Seat 3: Tenebrus321 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin folded before Flop (didn't bet)
+Seat 6: sss457 folded before Flop (didn't bet)
+
+
+

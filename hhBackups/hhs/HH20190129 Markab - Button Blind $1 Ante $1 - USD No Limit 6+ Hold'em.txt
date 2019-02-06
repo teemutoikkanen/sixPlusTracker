@@ -1,0 +1,1385 @@
+﻿PokerStars Hand #196388527232:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 0:03:03 EET [2019/01/29 17:03:03 ET]
+Table 'Markab' 6-max Seat #2 is the button
+Seat 1: gaiggibeliin ($100 in chips) 
+Seat 2: BomPang ($119.75 in chips) 
+Seat 3: Bakarisation ($145 in chips) 
+Seat 4: Zihuatanejo3 ($167 in chips) 
+Seat 5: Lius ($150 in chips) 
+Seat 6: Glamur Boss ($161.95 in chips) 
+gaiggibeliin: posts the ante $1
+BomPang: posts the ante $1
+Bakarisation: posts the ante $1
+Zihuatanejo3: posts the ante $1
+Lius: posts the ante $1
+Glamur Boss: posts the ante $1
+BomPang: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ah Ks]
+Bakarisation: folds 
+Zihuatanejo3: folds 
+Lius: folds 
+Glamur Boss: folds 
+gaiggibeliin: calls $1
+BomPang: raises $8 to $9
+gaiggibeliin: raises $90 to $99 and is all-in
+BomPang: folds 
+Uncalled bet ($90) returned to gaiggibeliin
+gaiggibeliin collected $24 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 1: gaiggibeliin collected ($24)
+Seat 2: BomPang (button blind) folded before Flop
+Seat 3: Bakarisation folded before Flop (didn't bet)
+Seat 4: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 5: Lius folded before Flop (didn't bet)
+Seat 6: Glamur Boss folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196388563136:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 0:03:50 EET [2019/01/29 17:03:50 ET]
+Table 'Markab' 6-max Seat #3 is the button
+Seat 1: gaiggibeliin ($114 in chips) 
+Seat 2: BomPang ($109.75 in chips) 
+Seat 3: Bakarisation ($144 in chips) 
+Seat 4: Zihuatanejo3 ($166 in chips) 
+Seat 5: Lius ($149 in chips) 
+Seat 6: Glamur Boss ($160.95 in chips) 
+gaiggibeliin: posts the ante $1
+BomPang: posts the ante $1
+Bakarisation: posts the ante $1
+Zihuatanejo3: posts the ante $1
+Lius: posts the ante $1
+Glamur Boss: posts the ante $1
+Bakarisation: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [As Qd]
+Zihuatanejo3: calls $1
+Lius: raises $3 to $4
+Glamur Boss: calls $4
+gaiggibeliin: calls $4
+BomPang: calls $4
+Bakarisation: raises $21 to $25
+Zihuatanejo3: folds 
+Lius: raises $123 to $148 and is all-in
+Glamur Boss: folds 
+gaiggibeliin: folds 
+BomPang: folds 
+Bakarisation: folds 
+Uncalled bet ($123) returned to Lius
+Lius collected $69 from pot
+*** SUMMARY ***
+Total pot $69 | Rake $0 
+Seat 1: gaiggibeliin folded before Flop
+Seat 2: BomPang folded before Flop
+Seat 3: Bakarisation (button blind) folded before Flop
+Seat 4: Zihuatanejo3 folded before Flop
+Seat 5: Lius collected ($69)
+Seat 6: Glamur Boss folded before Flop
+
+
+
+PokerStars Hand #196388621569:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 0:05:06 EET [2019/01/29 17:05:06 ET]
+Table 'Markab' 6-max Seat #4 is the button
+Seat 1: gaiggibeliin ($109 in chips) 
+Seat 2: BomPang ($104.75 in chips) 
+Seat 3: Bakarisation ($118 in chips) 
+Seat 4: Zihuatanejo3 ($164 in chips) 
+Seat 5: Lius ($192 in chips) 
+Seat 6: Glamur Boss ($155.95 in chips) 
+gaiggibeliin: posts the ante $1
+BomPang: posts the ante $1
+Bakarisation: posts the ante $1
+Zihuatanejo3: posts the ante $1
+Lius: posts the ante $1
+Glamur Boss: posts the ante $1
+Zihuatanejo3: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kd Ah]
+Lius: raises $3 to $4
+Glamur Boss: folds 
+gaiggibeliin: raises $104 to $108 and is all-in
+BomPang: folds 
+Bakarisation: folds 
+Zihuatanejo3: folds 
+Lius: calls $104
+*** FIRST FLOP *** [Jd 6h Ks]
+*** FIRST TURN *** [Jd 6h Ks] [7h]
+*** FIRST RIVER *** [Jd 6h Ks 7h] [7s]
+*** SECOND FLOP *** [Qs Qh Ad]
+*** SECOND TURN *** [Qs Qh Ad] [6d]
+*** SECOND RIVER *** [Qs Qh Ad 6d] [9h]
+*** FIRST SHOW DOWN ***
+Lius: shows [Qc Qd] (two pair, Queens and Sevens)
+gaiggibeliin: shows [Kd Ah] (two pair, Kings and Sevens)
+gaiggibeliin collected $110.13 from pot
+*** SECOND SHOW DOWN ***
+Lius: shows [Qc Qd] (four of a kind, Queens)
+gaiggibeliin: shows [Kd Ah] (two pair, Aces and Queens)
+Lius collected $110.12 from pot
+*** SUMMARY ***
+Total pot $223 | Rake $2.75 
+Hand was run twice
+FIRST Board [Jd 6h Ks 7h 7s]
+SECOND Board [Qs Qh Ad 6d 9h]
+Seat 1: gaiggibeliin showed [Kd Ah] and won ($110.13) with two pair, Kings and Sevens, and lost with two pair, Aces and Queens
+Seat 2: BomPang folded before Flop (didn't bet)
+Seat 3: Bakarisation folded before Flop (didn't bet)
+Seat 4: Zihuatanejo3 (button blind) folded before Flop
+Seat 5: Lius showed [Qc Qd] and lost with two pair, Queens and Sevens, and won ($110.12) with four of a kind, Queens
+Seat 6: Glamur Boss folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196388658211:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 0:05:54 EET [2019/01/29 17:05:54 ET]
+Table 'Markab' 6-max Seat #5 is the button
+Seat 1: gaiggibeliin ($110.13 in chips) 
+Seat 2: BomPang ($103.75 in chips) 
+Seat 3: Bakarisation ($117 in chips) 
+Seat 4: Zihuatanejo3 ($162 in chips) 
+Seat 5: Lius ($193.12 in chips) 
+Seat 6: Glamur Boss ($154.95 in chips) 
+gaiggibeliin: posts the ante $1
+BomPang: posts the ante $1
+Bakarisation: posts the ante $1
+Zihuatanejo3: posts the ante $1
+Lius: posts the ante $1
+Glamur Boss: posts the ante $1
+Lius: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8d Th]
+Glamur Boss: raises $1 to $2
+gaiggibeliin: calls $2
+BomPang: folds 
+Bakarisation: folds 
+Zihuatanejo3: folds 
+Lius: folds 
+*** FLOP *** [7d Jd 8c]
+Glamur Boss: checks 
+gaiggibeliin: bets $7
+Glamur Boss: calls $7
+*** TURN *** [7d Jd 8c] [8h]
+Glamur Boss: checks 
+gaiggibeliin: bets $17.81
+Glamur Boss: calls $17.81
+*** RIVER *** [7d Jd 8c 8h] [Qh]
+Glamur Boss: checks 
+gaiggibeliin: bets $43.40
+Glamur Boss: folds 
+Uncalled bet ($43.40) returned to gaiggibeliin
+gaiggibeliin collected $57.87 from pot
+*** SUMMARY ***
+Total pot $60.62 | Rake $2.75 
+Board [7d Jd 8c 8h Qh]
+Seat 1: gaiggibeliin collected ($57.87)
+Seat 2: BomPang folded before Flop (didn't bet)
+Seat 3: Bakarisation folded before Flop (didn't bet)
+Seat 4: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 5: Lius (button blind) folded before Flop
+Seat 6: Glamur Boss folded on the River
+
+
+
+PokerStars Hand #196388718215:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 0:07:13 EET [2019/01/29 17:07:13 ET]
+Table 'Markab' 6-max Seat #6 is the button
+Seat 1: gaiggibeliin ($140.19 in chips) 
+Seat 2: BomPang ($102.75 in chips) 
+Seat 3: Bakarisation ($116 in chips) 
+Seat 4: Zihuatanejo3 ($161 in chips) 
+Seat 5: Lius ($191.12 in chips) 
+Seat 6: Glamur Boss ($127.14 in chips) 
+gaiggibeliin: posts the ante $1
+BomPang: posts the ante $1
+Bakarisation: posts the ante $1
+Zihuatanejo3: posts the ante $1
+Lius: posts the ante $1
+Glamur Boss: posts the ante $1
+Glamur Boss: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6s Tc]
+gaiggibeliin: folds 
+BomPang: folds 
+Bakarisation: folds 
+Zihuatanejo3: folds 
+Lius: folds 
+Uncalled bet ($1) returned to Glamur Boss
+Glamur Boss collected $6 from pot
+Glamur Boss: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: BomPang folded before Flop (didn't bet)
+Seat 3: Bakarisation folded before Flop (didn't bet)
+Seat 4: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 5: Lius folded before Flop (didn't bet)
+Seat 6: Glamur Boss (button blind) collected ($6)
+
+
+
+PokerStars Hand #196388735057:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 0:07:35 EET [2019/01/29 17:07:35 ET]
+Table 'Markab' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($139.19 in chips) 
+Seat 2: BomPang ($101.75 in chips) 
+Seat 3: Bakarisation ($115 in chips) 
+Seat 4: Zihuatanejo3 ($160 in chips) 
+Seat 5: Lius ($190.12 in chips) 
+Seat 6: Glamur Boss ($132.14 in chips) 
+gaiggibeliin: posts the ante $1
+BomPang: posts the ante $1
+Bakarisation: posts the ante $1
+Zihuatanejo3: posts the ante $1
+Lius: posts the ante $1
+Glamur Boss: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8s Ah]
+BomPang: calls $1
+Bakarisation: folds 
+Zihuatanejo3: calls $1
+Lius: raises $7 to $8
+Glamur Boss: calls $8
+gaiggibeliin: folds 
+BomPang: calls $7
+Zihuatanejo3: folds 
+*** FLOP *** [9d Ad Tc]
+BomPang: checks 
+Lius: bets $22.89
+Glamur Boss: raises $100.25 to $123.14 and is all-in
+BomPang: folds 
+Lius: calls $100.25
+*** TURN *** [9d Ad Tc] [Jc]
+*** RIVER *** [9d Ad Tc Jc] [Kc]
+*** SHOW DOWN ***
+Lius: shows [Td Kd] (two pair, Kings and Tens)
+Glamur Boss: shows [Th 9c] (two pair, Tens and Nines)
+Lius collected $275.53 from pot
+*** SUMMARY ***
+Total pot $278.28 | Rake $2.75 
+Board [9d Ad Tc Jc Kc]
+Seat 1: gaiggibeliin (button blind) folded before Flop
+Seat 2: BomPang folded on the Flop
+Seat 3: Bakarisation folded before Flop (didn't bet)
+Seat 4: Zihuatanejo3 folded before Flop
+Seat 5: Lius showed [Td Kd] and won ($275.53) with two pair, Kings and Tens
+Seat 6: Glamur Boss showed [Th 9c] and lost with two pair, Tens and Nines
+
+
+
+PokerStars Hand #196388773945:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 0:08:27 EET [2019/01/29 17:08:27 ET]
+Table 'Markab' 6-max Seat #2 is the button
+Seat 1: gaiggibeliin ($137.19 in chips) 
+Seat 2: BomPang ($92.75 in chips) 
+Seat 3: Bakarisation ($114 in chips) 
+Seat 4: Zihuatanejo3 ($158 in chips) 
+Seat 5: Lius ($333.51 in chips) 
+gaiggibeliin: posts the ante $1
+BomPang: posts the ante $1
+Bakarisation: posts the ante $1
+Zihuatanejo3: posts the ante $1
+Lius: posts the ante $1
+BomPang: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qc 8s]
+Bakarisation: folds 
+Zihuatanejo3: calls $1
+Lius: raises $8 to $9
+gaiggibeliin: folds 
+BomPang: calls $8
+Zihuatanejo3: calls $8
+*** FLOP *** [7h 8d Qh]
+Zihuatanejo3: checks 
+Lius: checks 
+BomPang: bets $8
+Zihuatanejo3: raises $29.50 to $37.50
+Lius: folds 
+BomPang: folds 
+Uncalled bet ($29.50) returned to Zihuatanejo3
+Zihuatanejo3 collected $45.60 from pot
+*** SUMMARY ***
+Total pot $48 | Rake $2.40 
+Board [7h 8d Qh]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: BomPang (button blind) folded on the Flop
+Seat 3: Bakarisation folded before Flop (didn't bet)
+Seat 4: Zihuatanejo3 collected ($45.60)
+Seat 5: Lius folded on the Flop
+
+
+
+PokerStars Hand #196388813125:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 0:09:19 EET [2019/01/29 17:09:19 ET]
+Table 'Markab' 6-max Seat #3 is the button
+Seat 1: gaiggibeliin ($150 in chips) 
+Seat 2: BomPang ($74.75 in chips) 
+Seat 3: Bakarisation ($113 in chips) 
+Seat 4: Zihuatanejo3 ($185.60 in chips) 
+Seat 5: Lius ($323.51 in chips) 
+Seat 6: Glamur Boss ($131.25 in chips) 
+gaiggibeliin: posts the ante $1
+BomPang: posts the ante $1
+Bakarisation: posts the ante $1
+Zihuatanejo3: posts the ante $1
+Lius: posts the ante $1
+Glamur Boss: posts the ante $1
+Bakarisation: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [As Kd]
+Zihuatanejo3: folds 
+Lius: folds 
+Glamur Boss: raises $4 to $5
+gaiggibeliin: raises $17 to $22
+BomPang: folds 
+Bakarisation: folds 
+Glamur Boss: raises $108.25 to $130.25 and is all-in
+gaiggibeliin: calls $108.25
+*** FLOP *** [7s Kh Qd]
+*** TURN *** [7s Kh Qd] [Jh]
+*** RIVER *** [7s Kh Qd Jh] [Ac]
+*** SHOW DOWN ***
+Glamur Boss: shows [Ad Ah] (three of a kind, Aces)
+gaiggibeliin: shows [As Kd] (two pair, Aces and Kings)
+Glamur Boss collected $264.75 from pot
+*** SUMMARY ***
+Total pot $267.50 | Rake $2.75 
+Board [7s Kh Qd Jh Ac]
+Seat 1: gaiggibeliin showed [As Kd] and lost with two pair, Aces and Kings
+Seat 2: BomPang folded before Flop (didn't bet)
+Seat 3: Bakarisation (button blind) folded before Flop
+Seat 4: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 5: Lius folded before Flop (didn't bet)
+Seat 6: Glamur Boss showed [Ad Ah] and won ($264.75) with three of a kind, Aces
+
+
+
+PokerStars Hand #196388845256:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 0:10:01 EET [2019/01/29 17:10:01 ET]
+Table 'Markab' 6-max Seat #4 is the button
+Seat 1: gaiggibeliin ($18.75 in chips) 
+Seat 2: BomPang ($73.75 in chips) 
+Seat 3: Bakarisation ($111 in chips) 
+Seat 4: Zihuatanejo3 ($184.60 in chips) 
+Seat 5: Lius ($322.51 in chips) 
+Seat 6: Glamur Boss ($264.75 in chips) 
+gaiggibeliin: posts the ante $1
+BomPang: posts the ante $1
+Bakarisation: posts the ante $1
+Zihuatanejo3: posts the ante $1
+Lius: posts the ante $1
+Glamur Boss: posts the ante $1
+Zihuatanejo3: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ks 7d]
+Lius: folds 
+Glamur Boss: folds 
+gaiggibeliin: folds 
+BomPang: calls $1
+Bakarisation: raises $7 to $8
+Zihuatanejo3: folds 
+BomPang: calls $7
+*** FLOP *** [Ts 8d Kh]
+BomPang: checks 
+Bakarisation: checks 
+*** TURN *** [Ts 8d Kh] [Jh]
+BomPang: checks 
+Bakarisation: checks 
+*** RIVER *** [Ts 8d Kh Jh] [Qs]
+BomPang: checks 
+Bakarisation: bets $11.36
+BomPang: folds 
+Uncalled bet ($11.36) returned to Bakarisation
+Bakarisation collected $21.85 from pot
+Bakarisation: doesn't show hand 
+*** SUMMARY ***
+Total pot $23 | Rake $1.15 
+Board [Ts 8d Kh Jh Qs]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: BomPang folded on the River
+Seat 3: Bakarisation collected ($21.85)
+Seat 4: Zihuatanejo3 (button blind) folded before Flop
+Seat 5: Lius folded before Flop (didn't bet)
+Seat 6: Glamur Boss folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196388925409:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 0:11:48 EET [2019/01/29 17:11:48 ET]
+Table 'Markab' 6-max Seat #5 is the button
+Seat 1: gaiggibeliin ($149 in chips) 
+Seat 2: BomPang ($64.75 in chips) 
+Seat 3: Bakarisation ($123.85 in chips) 
+Seat 4: Zihuatanejo3 ($182.60 in chips) 
+Seat 5: Lius ($321.51 in chips) 
+Seat 6: Glamur Boss ($263.75 in chips) 
+gaiggibeliin: posts the ante $1
+BomPang: posts the ante $1
+Bakarisation: posts the ante $1
+Zihuatanejo3: posts the ante $1
+Lius: posts the ante $1
+Glamur Boss: posts the ante $1
+Lius: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qh Jh]
+Glamur Boss: calls $1
+gaiggibeliin: raises $9 to $10
+BomPang: folds 
+Bakarisation: folds 
+Zihuatanejo3: folds 
+Lius: folds 
+Glamur Boss: raises $252.75 to $262.75 and is all-in
+gaiggibeliin: folds 
+Uncalled bet ($252.75) returned to Glamur Boss
+Glamur Boss collected $27 from pot
+Glamur Boss: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $0 
+Seat 1: gaiggibeliin folded before Flop
+Seat 2: BomPang folded before Flop (didn't bet)
+Seat 3: Bakarisation folded before Flop (didn't bet)
+Seat 4: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 5: Lius (button blind) folded before Flop
+Seat 6: Glamur Boss collected ($27)
+
+
+
+PokerStars Hand #196388959797:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 0:12:34 EET [2019/01/29 17:12:34 ET]
+Table 'Markab' 6-max Seat #6 is the button
+Seat 1: gaiggibeliin ($138 in chips) 
+Seat 2: BomPang ($63.75 in chips) 
+Seat 3: Bakarisation ($122.85 in chips) 
+Seat 4: Zihuatanejo3 ($181.60 in chips) 
+Seat 5: Lius ($319.51 in chips) 
+Seat 6: Glamur Boss ($279.75 in chips) 
+gaiggibeliin: posts the ante $1
+BomPang: posts the ante $1
+Bakarisation: posts the ante $1
+Zihuatanejo3: posts the ante $1
+Lius: posts the ante $1
+Glamur Boss: posts the ante $1
+Glamur Boss: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9d Ac]
+gaiggibeliin: folds 
+BomPang: calls $1
+Bakarisation: folds 
+Zihuatanejo3: folds 
+Lius: raises $5 to $6
+Glamur Boss: calls $5
+BomPang: calls $5
+*** FLOP *** [Js 8h Tc]
+BomPang: checks 
+Lius: bets $13.89
+Glamur Boss: folds 
+BomPang: calls $13.89
+*** TURN *** [Js 8h Tc] [Ad]
+BomPang: checks 
+Lius: bets $298.62 and is all-in
+BomPang: calls $42.86 and is all-in
+Uncalled bet ($255.76) returned to Lius
+*** FIRST RIVER *** [Js 8h Tc Ad] [9h]
+*** SECOND RIVER *** [Js 8h Tc Ad] [Kh]
+*** FIRST SHOW DOWN ***
+BomPang: shows [9s Ah] (two pair, Aces and Nines)
+Lius: shows [Kd Jc] (a pair of Jacks)
+BomPang collected $67.38 from pot
+*** SECOND SHOW DOWN ***
+BomPang: shows [9s Ah] (a pair of Aces)
+Lius: shows [Kd Jc] (two pair, Kings and Jacks)
+Lius collected $67.37 from pot
+*** SUMMARY ***
+Total pot $137.50 | Rake $2.75 
+Hand was run twice
+FIRST Board [Js 8h Tc Ad 9h]
+SECOND Board [Js 8h Tc Ad Kh]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: BomPang showed [9s Ah] and won ($67.38) with two pair, Aces and Nines, and lost with a pair of Aces
+Seat 3: Bakarisation folded before Flop (didn't bet)
+Seat 4: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 5: Lius showed [Kd Jc] and lost with a pair of Jacks, and won ($67.37) with two pair, Kings and Jacks
+Seat 6: Glamur Boss (button blind) folded on the Flop
+
+
+
+PokerStars Hand #196389002169:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 0:13:31 EET [2019/01/29 17:13:31 ET]
+Table 'Markab' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($137 in chips) 
+Seat 2: BomPang ($67.38 in chips) 
+Seat 3: Bakarisation ($121.85 in chips) 
+Seat 4: Zihuatanejo3 ($180.60 in chips) 
+Seat 5: Lius ($323.13 in chips) 
+Seat 6: Glamur Boss ($272.75 in chips) 
+gaiggibeliin: posts the ante $1
+BomPang: posts the ante $1
+Bakarisation: posts the ante $1
+Zihuatanejo3: posts the ante $1
+Lius: posts the ante $1
+Glamur Boss: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Tc Ad]
+BomPang: calls $1
+Bakarisation: raises $7 to $8
+Zihuatanejo3: folds 
+Lius: folds 
+Glamur Boss: calls $8
+gaiggibeliin: folds 
+BomPang: raises $58.38 to $66.38 and is all-in
+Bakarisation: folds 
+Glamur Boss: folds 
+Uncalled bet ($58.38) returned to BomPang
+BomPang collected $31 from pot
+BomPang: doesn't show hand 
+*** SUMMARY ***
+Total pot $31 | Rake $0 
+Seat 1: gaiggibeliin (button blind) folded before Flop
+Seat 2: BomPang collected ($31)
+Seat 3: Bakarisation folded before Flop
+Seat 4: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 5: Lius folded before Flop (didn't bet)
+Seat 6: Glamur Boss folded before Flop
+
+
+
+PokerStars Hand #196389036455:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 0:14:16 EET [2019/01/29 17:14:16 ET]
+Table 'Markab' 6-max Seat #2 is the button
+Seat 1: gaiggibeliin ($135 in chips) 
+Seat 2: BomPang ($89.38 in chips) 
+Seat 3: Bakarisation ($112.85 in chips) 
+Seat 4: Zihuatanejo3 ($179.60 in chips) 
+Seat 5: Lius ($322.13 in chips) 
+Seat 6: Glamur Boss ($263.75 in chips) 
+gaiggibeliin: posts the ante $1
+BomPang: posts the ante $1
+Bakarisation: posts the ante $1
+Zihuatanejo3: posts the ante $1
+Lius: posts the ante $1
+Glamur Boss: posts the ante $1
+BomPang: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6c Js]
+Bakarisation: folds 
+Zihuatanejo3: calls $1
+Lius: calls $1
+Glamur Boss: folds 
+gaiggibeliin: folds 
+BomPang: checks 
+*** FLOP *** [8c 7s Qh]
+Zihuatanejo3: checks 
+Lius: bets $4.28
+BomPang: calls $4.28
+Zihuatanejo3: folds 
+*** TURN *** [8c 7s Qh] [8h]
+Lius: bets $8.34
+BomPang: folds 
+Uncalled bet ($8.34) returned to Lius
+Lius collected $16.68 from pot
+*** SUMMARY ***
+Total pot $17.56 | Rake $0.88 
+Board [8c 7s Qh 8h]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: BomPang (button blind) folded on the Turn
+Seat 3: Bakarisation folded before Flop (didn't bet)
+Seat 4: Zihuatanejo3 folded on the Flop
+Seat 5: Lius collected ($16.68)
+Seat 6: Glamur Boss folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196389078583:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 0:15:13 EET [2019/01/29 17:15:13 ET]
+Table 'Markab' 6-max Seat #3 is the button
+Seat 1: gaiggibeliin ($134 in chips) 
+Seat 2: BomPang ($83.10 in chips) 
+Seat 3: Bakarisation ($111.85 in chips) 
+Seat 4: Zihuatanejo3 ($177.60 in chips) 
+Seat 5: Lius ($332.53 in chips) 
+Seat 6: Glamur Boss ($262.75 in chips) 
+gaiggibeliin: posts the ante $1
+BomPang: posts the ante $1
+Bakarisation: posts the ante $1
+Zihuatanejo3: posts the ante $1
+Lius: posts the ante $1
+Glamur Boss: posts the ante $1
+Bakarisation: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ac Qd]
+Zihuatanejo3: calls $1
+Lius: folds 
+Glamur Boss: calls $1
+gaiggibeliin: raises $10 to $11
+BomPang: folds 
+Bakarisation: folds 
+Zihuatanejo3: calls $10
+Glamur Boss: calls $10
+*** FLOP *** [6h Ks Kd]
+Zihuatanejo3: checks 
+Glamur Boss: checks 
+gaiggibeliin: bets $10
+Zihuatanejo3: folds 
+Glamur Boss: folds 
+Uncalled bet ($10) returned to gaiggibeliin
+gaiggibeliin collected $38 from pot
+*** SUMMARY ***
+Total pot $40 | Rake $2 
+Board [6h Ks Kd]
+Seat 1: gaiggibeliin collected ($38)
+Seat 2: BomPang folded before Flop (didn't bet)
+Seat 3: Bakarisation (button blind) folded before Flop
+Seat 4: Zihuatanejo3 folded on the Flop
+Seat 5: Lius folded before Flop (didn't bet)
+Seat 6: Glamur Boss folded on the Flop
+
+
+
+PokerStars Hand #196389121826:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 0:16:10 EET [2019/01/29 17:16:10 ET]
+Table 'Markab' 6-max Seat #5 is the button
+Seat 1: gaiggibeliin ($160 in chips) 
+Seat 2: BomPang ($82.10 in chips) 
+Seat 3: Bakarisation ($109.85 in chips) 
+Seat 5: Lius ($331.53 in chips) 
+Seat 6: Glamur Boss ($250.75 in chips) 
+gaiggibeliin: posts the ante $1
+BomPang: posts the ante $1
+Bakarisation: posts the ante $1
+Lius: posts the ante $1
+Glamur Boss: posts the ante $1
+Lius: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ah 9s]
+Zihuatanejo3 leaves the table
+Glamur Boss: raises $2 to $3
+gaiggibeliin: folds 
+BomPang: calls $3
+Bakarisation: folds 
+Lius: folds 
+*** FLOP *** [Kd Ac 6h]
+Glamur Boss: bets $3
+BomPang: folds 
+Uncalled bet ($3) returned to Glamur Boss
+Glamur Boss collected $11.40 from pot
+Glamur Boss: doesn't show hand 
+*** SUMMARY ***
+Total pot $12 | Rake $0.60 
+Board [Kd Ac 6h]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: BomPang folded on the Flop
+Seat 3: Bakarisation folded before Flop (didn't bet)
+Seat 5: Lius (button blind) folded before Flop
+Seat 6: Glamur Boss collected ($11.40)
+
+
+
+PokerStars Hand #196389139990:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 0:16:35 EET [2019/01/29 17:16:35 ET]
+Table 'Markab' 6-max Seat #6 is the button
+Seat 1: gaiggibeliin ($159 in chips) 
+Seat 2: BomPang ($78.10 in chips) 
+Seat 3: Bakarisation ($108.85 in chips) 
+Seat 5: Lius ($329.53 in chips) 
+Seat 6: Glamur Boss ($258.15 in chips) 
+gaiggibeliin: posts the ante $1
+BomPang: posts the ante $1
+Bakarisation: posts the ante $1
+Lius: posts the ante $1
+Glamur Boss: posts the ante $1
+Glamur Boss: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8c Ts]
+gaiggibeliin: folds 
+BomPang: folds 
+Bakarisation: folds 
+Lius: folds 
+Uncalled bet ($1) returned to Glamur Boss
+Glamur Boss collected $5 from pot
+Glamur Boss: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: BomPang folded before Flop (didn't bet)
+Seat 3: Bakarisation folded before Flop (didn't bet)
+Seat 5: Lius folded before Flop (didn't bet)
+Seat 6: Glamur Boss (button blind) collected ($5)
+
+
+
+PokerStars Hand #196389154534:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 0:16:54 EET [2019/01/29 17:16:54 ET]
+Table 'Markab' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($158 in chips) 
+Seat 2: BomPang ($77.10 in chips) 
+Seat 3: Bakarisation ($107.85 in chips) 
+Seat 5: Lius ($328.53 in chips) 
+Seat 6: Glamur Boss ($262.15 in chips) 
+gaiggibeliin: posts the ante $1
+BomPang: posts the ante $1
+Bakarisation: posts the ante $1
+Lius: posts the ante $1
+Glamur Boss: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kd Ah]
+BomPang: folds 
+Bakarisation: raises $6 to $7
+Lius: folds 
+Glamur Boss: calls $7
+gaiggibeliin: raises $26 to $33
+Bakarisation: folds 
+Glamur Boss: calls $26
+*** FLOP *** [9c 6c Qc]
+Glamur Boss: checks 
+gaiggibeliin: checks 
+*** TURN *** [9c 6c Qc] [Qd]
+Glamur Boss: checks 
+gaiggibeliin: checks 
+*** RIVER *** [9c 6c Qc Qd] [6h]
+Glamur Boss: checks 
+gaiggibeliin: checks 
+*** SHOW DOWN ***
+Glamur Boss: shows [Th 9d] (two pair, Queens and Nines)
+gaiggibeliin: mucks hand 
+Glamur Boss collected $75.25 from pot
+*** SUMMARY ***
+Total pot $78 | Rake $2.75 
+Board [9c 6c Qc Qd 6h]
+Seat 1: gaiggibeliin (button blind) mucked [Kd Ah]
+Seat 2: BomPang folded before Flop (didn't bet)
+Seat 3: Bakarisation folded before Flop
+Seat 5: Lius folded before Flop (didn't bet)
+Seat 6: Glamur Boss showed [Th 9d] and won ($75.25) with two pair, Queens and Nines
+
+
+
+PokerStars Hand #196389192246:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 0:17:45 EET [2019/01/29 17:17:45 ET]
+Table 'Markab' 6-max Seat #2 is the button
+Seat 1: gaiggibeliin ($124 in chips) 
+Seat 2: BomPang ($76.10 in chips) 
+Seat 3: Bakarisation ($150 in chips) 
+Seat 5: Lius ($327.53 in chips) 
+Seat 6: Glamur Boss ($303.40 in chips) 
+gaiggibeliin: posts the ante $1
+BomPang: posts the ante $1
+Bakarisation: posts the ante $1
+Lius: posts the ante $1
+Glamur Boss: posts the ante $1
+BomPang: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ks Js]
+Bakarisation: folds 
+Lius: raises $4 to $5
+Glamur Boss: folds 
+gaiggibeliin: calls $5
+BomPang: calls $4
+*** FLOP *** [9c 8h Jh]
+Lius: checks 
+gaiggibeliin: checks 
+BomPang: bets $6
+Lius: calls $6
+gaiggibeliin: calls $6
+*** TURN *** [9c 8h Jh] [Td]
+Lius: checks 
+gaiggibeliin: checks 
+BomPang: checks 
+*** RIVER *** [9c 8h Jh Td] [7s]
+Lius: checks 
+gaiggibeliin: bets $59
+BomPang: folds 
+Lius: folds 
+Uncalled bet ($59) returned to gaiggibeliin
+gaiggibeliin collected $36.10 from pot
+*** SUMMARY ***
+Total pot $38 | Rake $1.90 
+Board [9c 8h Jh Td 7s]
+Seat 1: gaiggibeliin collected ($36.10)
+Seat 2: BomPang (button blind) folded on the River
+Seat 3: Bakarisation folded before Flop (didn't bet)
+Seat 5: Lius folded on the River
+Seat 6: Glamur Boss folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196389248088:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 0:19:00 EET [2019/01/29 17:19:00 ET]
+Table 'Markab' 6-max Seat #3 is the button
+Seat 1: gaiggibeliin ($148.10 in chips) 
+Seat 2: BomPang ($64.10 in chips) 
+Seat 3: Bakarisation ($149 in chips) 
+Seat 5: Lius ($315.53 in chips) 
+Seat 6: Glamur Boss ($302.40 in chips) 
+gaiggibeliin: posts the ante $1
+BomPang: posts the ante $1
+Bakarisation: posts the ante $1
+Lius: posts the ante $1
+Glamur Boss: posts the ante $1
+Bakarisation: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6h 9h]
+Lius: calls $1
+Glamur Boss: folds 
+gaiggibeliin: calls $1
+BomPang: calls $1
+Bakarisation: checks 
+*** FLOP *** [8c 6d Jd]
+Lius: checks 
+gaiggibeliin: checks 
+BomPang: checks 
+Bakarisation: bets $2.65
+Lius: calls $2.65
+gaiggibeliin: folds 
+BomPang: folds 
+*** TURN *** [8c 6d Jd] [Kd]
+Lius: checks 
+Bakarisation: checks 
+*** RIVER *** [8c 6d Jd Kd] [8h]
+Lius: checks 
+Bakarisation: bets $7.06
+Lius: folds 
+Uncalled bet ($7.06) returned to Bakarisation
+Bakarisation collected $13.58 from pot
+Bakarisation: doesn't show hand 
+*** SUMMARY ***
+Total pot $14.30 | Rake $0.72 
+Board [8c 6d Jd Kd 8h]
+Seat 1: gaiggibeliin folded on the Flop
+Seat 2: BomPang folded on the Flop
+Seat 3: Bakarisation (button blind) collected ($13.58)
+Seat 5: Lius folded on the River
+Seat 6: Glamur Boss folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196389310772:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 0:20:24 EET [2019/01/29 17:20:24 ET]
+Table 'Markab' 6-max Seat #5 is the button
+Seat 1: gaiggibeliin ($146.10 in chips) 
+Seat 3: Bakarisation ($157.93 in chips) 
+Seat 5: Lius ($310.88 in chips) 
+Seat 6: Glamur Boss ($301.40 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+Lius: posts the ante $1
+Glamur Boss: posts the ante $1
+Lius: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6d 7c]
+Glamur Boss: raises $2 to $3
+gaiggibeliin: folds 
+Bakarisation: calls $3
+Lius: calls $2
+*** FLOP *** [Ad 8h Kd]
+Glamur Boss: bets $7
+BomPang leaves the table
+Bakarisation: calls $7
+Lius: folds 
+*** TURN *** [Ad 8h Kd] [Th]
+Glamur Boss: checks 
+Bakarisation: checks 
+*** RIVER *** [Ad 8h Kd Th] [8d]
+Glamur Boss: checks 
+Bakarisation: checks 
+*** SHOW DOWN ***
+Glamur Boss: shows [Js 9d] (a pair of Eights)
+Bakarisation: shows [Jh Kh] (two pair, Kings and Eights)
+Bakarisation collected $25.75 from pot
+*** SUMMARY ***
+Total pot $27 | Rake $1.25 
+Board [Ad 8h Kd Th 8d]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: Bakarisation showed [Jh Kh] and won ($25.75) with two pair, Kings and Eights
+Seat 5: Lius (button blind) folded on the Flop
+Seat 6: Glamur Boss showed [Js 9d] and lost with a pair of Eights
+
+
+
+PokerStars Hand #196389357210:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 0:21:30 EET [2019/01/29 17:21:30 ET]
+Table 'Markab' 6-max Seat #6 is the button
+Seat 1: gaiggibeliin ($145.10 in chips) 
+Seat 3: Bakarisation ($172.68 in chips) 
+Seat 5: Lius ($306.88 in chips) 
+Seat 6: Glamur Boss ($290.40 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+Lius: posts the ante $1
+Glamur Boss: posts the ante $1
+Glamur Boss: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9h Ts]
+gaiggibeliin: calls $1
+Bakarisation: folds 
+Lius: folds 
+Glamur Boss: raises $6 to $7
+gaiggibeliin: calls $6
+*** FLOP *** [Qs Qh 6c]
+gaiggibeliin: checks 
+Glamur Boss: checks 
+*** TURN *** [Qs Qh 6c] [Js]
+gaiggibeliin: bets $13
+Glamur Boss: folds 
+Uncalled bet ($13) returned to gaiggibeliin
+gaiggibeliin collected $17.10 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.90 
+Board [Qs Qh 6c Js]
+Seat 1: gaiggibeliin collected ($17.10)
+Seat 3: Bakarisation folded before Flop (didn't bet)
+Seat 5: Lius folded before Flop (didn't bet)
+Seat 6: Glamur Boss (button blind) folded on the Turn
+
+
+
+PokerStars Hand #196389395287:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 0:22:21 EET [2019/01/29 17:22:21 ET]
+Table 'Markab' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($154.20 in chips) 
+Seat 3: Bakarisation ($171.68 in chips) 
+Seat 5: Lius ($305.88 in chips) 
+Seat 6: Glamur Boss ($282.40 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+Lius: posts the ante $1
+Glamur Boss: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6d 8h]
+Bakarisation: calls $1
+Lius: raises $4 to $5
+Glamur Boss: folds 
+gaiggibeliin: calls $4
+Bakarisation: calls $4
+*** FLOP *** [Js Jh 6s]
+Bakarisation: checks 
+Lius: bets $10.89
+gaiggibeliin: folds 
+Bakarisation: folds 
+Uncalled bet ($10.89) returned to Lius
+Lius collected $18.05 from pot
+*** SUMMARY ***
+Total pot $19 | Rake $0.95 
+Board [Js Jh 6s]
+Seat 1: gaiggibeliin (button blind) folded on the Flop
+Seat 3: Bakarisation folded on the Flop
+Seat 5: Lius collected ($18.05)
+Seat 6: Glamur Boss folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196389440608:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 0:23:23 EET [2019/01/29 17:23:23 ET]
+Table 'Markab' 6-max Seat #3 is the button
+Seat 1: gaiggibeliin ($148.20 in chips) 
+Seat 3: Bakarisation ($165.68 in chips) 
+Seat 5: Lius ($317.93 in chips) 
+Seat 6: Glamur Boss ($281.40 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+Lius: posts the ante $1
+Glamur Boss: posts the ante $1
+Bakarisation: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Th 6h]
+Lius: raises $4 to $5
+Glamur Boss: folds 
+gaiggibeliin: calls $5
+Bakarisation: raises $10 to $15
+DEDTAWIWASA joins the table at seat #4 
+Lius: raises $26.89 to $41.89
+gaiggibeliin: folds 
+Bakarisation: calls $26.89
+*** FLOP *** [Jc Qs 6s]
+Lius: bets $38.89
+Bakarisation: calls $38.89
+*** TURN *** [Jc Qs 6s] [Jd]
+Lius: bets $236.15 and is all-in
+Bakarisation: folds 
+Uncalled bet ($236.15) returned to Lius
+Lius collected $169.31 from pot
+*** SUMMARY ***
+Total pot $170.56 | Rake $1.25 
+Board [Jc Qs 6s Jd]
+Seat 1: gaiggibeliin folded before Flop
+Seat 3: Bakarisation (button blind) folded on the Turn
+Seat 5: Lius collected ($169.31)
+Seat 6: Glamur Boss folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196389516895:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 0:25:07 EET [2019/01/29 17:25:07 ET]
+Table 'Markab' 6-max Seat #5 is the button
+Seat 1: gaiggibeliin ($142.20 in chips) 
+Seat 3: Bakarisation ($150 in chips) 
+Seat 4: DEDTAWIWASA ($150 in chips) 
+Seat 5: Lius ($405.46 in chips) 
+Seat 6: Glamur Boss ($280.40 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Lius: posts the ante $1
+Glamur Boss: posts the ante $1
+Lius: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [As 7h]
+Glamur Boss: folds 
+gaiggibeliin: folds 
+Bakarisation: folds 
+DEDTAWIWASA: folds 
+Uncalled bet ($1) returned to Lius
+Lius collected $5 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: Bakarisation folded before Flop (didn't bet)
+Seat 4: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 5: Lius (button blind) collected ($5)
+Seat 6: Glamur Boss folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196389528140:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 0:25:23 EET [2019/01/29 17:25:23 ET]
+Table 'Markab' 6-max Seat #6 is the button
+Seat 1: gaiggibeliin ($141.20 in chips) 
+Seat 3: Bakarisation ($149 in chips) 
+Seat 4: DEDTAWIWASA ($150 in chips) 
+Seat 5: Lius ($409.46 in chips) 
+Seat 6: Glamur Boss ($279.40 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Lius: posts the ante $1
+Glamur Boss: posts the ante $1
+Glamur Boss: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qd Ks]
+gaiggibeliin: calls $1
+Bakarisation: folds 
+DEDTAWIWASA: calls $1
+Lius: raises $8 to $9
+Glamur Boss: calls $8
+gaiggibeliin: calls $8
+DEDTAWIWASA: calls $8
+*** FLOP *** [7s 9h Tc]
+gaiggibeliin: checks 
+DEDTAWIWASA: checks 
+Lius: checks 
+Glamur Boss: checks 
+*** TURN *** [7s 9h Tc] [Th]
+gaiggibeliin: checks 
+DEDTAWIWASA: checks 
+Lius: checks 
+Glamur Boss: checks 
+*** RIVER *** [7s 9h Tc Th] [Js]
+gaiggibeliin: bets $20.25
+DEDTAWIWASA: folds 
+Lius: folds 
+Glamur Boss: raises $79.75 to $100
+gaiggibeliin: folds 
+Uncalled bet ($79.75) returned to Glamur Boss
+Glamur Boss collected $78.75 from pot
+Glamur Boss: doesn't show hand 
+*** SUMMARY ***
+Total pot $81.50 | Rake $2.75 
+Board [7s 9h Tc Th Js]
+Seat 1: gaiggibeliin folded on the River
+Seat 3: Bakarisation folded before Flop (didn't bet)
+Seat 4: DEDTAWIWASA folded on the River
+Seat 5: Lius folded on the River
+Seat 6: Glamur Boss (button blind) collected ($78.75)
+
+
+
+PokerStars Hand #196389621333:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 0:27:30 EET [2019/01/29 17:27:30 ET]
+Table 'Markab' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($110.95 in chips) 
+Seat 3: Bakarisation ($148 in chips) 
+Seat 4: DEDTAWIWASA ($150 in chips) 
+Seat 5: Lius ($399.46 in chips) 
+Seat 6: Glamur Boss ($327.90 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Lius: posts the ante $1
+Glamur Boss: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8h 7c]
+Bakarisation: folds 
+DEDTAWIWASA: raises $8 to $9
+Lius: calls $9
+Glamur Boss: calls $9
+gaiggibeliin: calls $8
+*** FLOP *** [9d Ks As]
+DEDTAWIWASA: bets $30
+Lius: calls $30
+Glamur Boss: folds 
+gaiggibeliin: folds 
+*** TURN *** [9d Ks As] [Jd]
+DEDTAWIWASA: bets $110 and is all-in
+Lius: folds 
+Uncalled bet ($110) returned to DEDTAWIWASA
+DEDTAWIWASA collected $98.25 from pot
+DEDTAWIWASA: doesn't show hand 
+*** SUMMARY ***
+Total pot $101 | Rake $2.75 
+Board [9d Ks As Jd]
+Seat 1: gaiggibeliin (button blind) folded on the Flop
+Seat 3: Bakarisation folded before Flop (didn't bet)
+Seat 4: DEDTAWIWASA collected ($98.25)
+Seat 5: Lius folded on the Turn
+Seat 6: Glamur Boss folded on the Flop
+
+
+
+PokerStars Hand #196389648884:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 0:28:08 EET [2019/01/29 17:28:08 ET]
+Table 'Markab' 6-max Seat #3 is the button
+Seat 1: gaiggibeliin ($100.95 in chips) 
+Seat 3: Bakarisation ($147 in chips) 
+Seat 4: DEDTAWIWASA ($208.25 in chips) 
+Seat 5: Lius ($359.46 in chips) 
+Seat 6: Glamur Boss ($317.90 in chips) 
+gaiggibeliin: posts the ante $1
+Bakarisation: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Lius: posts the ante $1
+Glamur Boss: posts the ante $1
+Bakarisation: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qh Js]
+DEDTAWIWASA: raises $5 to $6
+Lius: folds 
+Glamur Boss: calls $6
+gaiggibeliin: folds 
+Bakarisation: folds 
+*** FLOP *** [6h 9s Td]
+angellk1 joins the table at seat #2 
+DEDTAWIWASA: bets $12
+Glamur Boss: calls $12
+*** TURN *** [6h 9s Td] [9d]
+DEDTAWIWASA: bets $24
+Glamur Boss: calls $24
+*** RIVER *** [6h 9s Td 9d] [9h]
+DEDTAWIWASA: checks 
+Glamur Boss: bets $34
+DEDTAWIWASA: folds 
+Uncalled bet ($34) returned to Glamur Boss
+Glamur Boss collected $87.25 from pot
+Glamur Boss: doesn't show hand 
+*** SUMMARY ***
+Total pot $90 | Rake $2.75 
+Board [6h 9s Td 9d 9h]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: Bakarisation (button blind) folded before Flop
+Seat 4: DEDTAWIWASA folded on the River
+Seat 5: Lius folded before Flop (didn't bet)
+Seat 6: Glamur Boss collected ($87.25)
+
+
+
+PokerStars Hand #196389678837:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 0:28:49 EET [2019/01/29 17:28:49 ET]
+Table 'Markab' 6-max Seat #4 is the button
+Seat 1: gaiggibeliin ($99.95 in chips) 
+Seat 2: angellk1 ($150 in chips) 
+Seat 3: Bakarisation ($145 in chips) 
+Seat 4: DEDTAWIWASA ($165.25 in chips) 
+Seat 5: Lius ($358.46 in chips) 
+Seat 6: Glamur Boss ($362.15 in chips) 
+gaiggibeliin: posts the ante $1
+angellk1: posts the ante $1
+Bakarisation: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Lius: posts the ante $1
+Glamur Boss: posts the ante $1
+DEDTAWIWASA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9d 7s]
+Lius: folds 
+Glamur Boss: raises $1 to $2
+gaiggibeliin: calls $2
+angellk1: calls $2
+Bakarisation: calls $2
+DEDTAWIWASA: calls $1
+*** FLOP *** [As Ad 6s]
+Glamur Boss: checks 
+gaiggibeliin: checks 
+angellk1: bets $12
+Bakarisation: folds 
+DEDTAWIWASA: folds 
+Glamur Boss: folds 
+gaiggibeliin: folds 
+Uncalled bet ($12) returned to angellk1
+angellk1 collected $15.20 from pot
+angellk1: doesn't show hand 
+*** SUMMARY ***
+Total pot $16 | Rake $0.80 
+Board [As Ad 6s]
+Seat 1: gaiggibeliin folded on the Flop
+Seat 2: angellk1 collected ($15.20)
+Seat 3: Bakarisation folded on the Flop
+Seat 4: DEDTAWIWASA (button blind) folded on the Flop
+Seat 5: Lius folded before Flop (didn't bet)
+Seat 6: Glamur Boss folded on the Flop
+
+
+
+PokerStars Hand #196389714368:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 0:29:39 EET [2019/01/29 17:29:39 ET]
+Table 'Markab' 6-max Seat #5 is the button
+Seat 1: gaiggibeliin ($96.95 in chips) 
+Seat 2: angellk1 ($162.20 in chips) 
+Seat 3: Bakarisation ($142 in chips) 
+Seat 4: DEDTAWIWASA ($162.25 in chips) 
+Seat 5: Lius ($357.46 in chips) 
+Seat 6: Glamur Boss ($359.15 in chips) 
+gaiggibeliin: posts the ante $1
+angellk1: posts the ante $1
+Bakarisation: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Lius: posts the ante $1
+Glamur Boss: posts the ante $1
+Lius: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [As 9h]
+Glamur Boss: folds 
+gaiggibeliin: folds 
+angellk1: folds 
+Bakarisation: folds 
+DEDTAWIWASA: raises $7 to $8
+Lius: calls $7
+*** FLOP *** [Ks 7d 9d]
+DEDTAWIWASA: bets $15
+Lius: calls $15
+*** TURN *** [Ks 7d 9d] [7s]
+DEDTAWIWASA: checks 
+Lius: checks 
+*** RIVER *** [Ks 7d 9d 7s] [8d]
+DEDTAWIWASA: checks 
+Lius: bets $33.89
+DEDTAWIWASA: folds 
+Uncalled bet ($33.89) returned to Lius
+Lius collected $49.40 from pot
+*** SUMMARY ***
+Total pot $52 | Rake $2.60 
+Board [Ks 7d 9d 7s 8d]
+Seat 1: gaiggibeliin folded before Flop (didn't bet)
+Seat 2: angellk1 folded before Flop (didn't bet)
+Seat 3: Bakarisation folded before Flop (didn't bet)
+Seat 4: DEDTAWIWASA folded on the River
+Seat 5: Lius (button blind) collected ($49.40)
+Seat 6: Glamur Boss folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196389784200:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 0:31:08 EET [2019/01/29 17:31:08 ET]
+Table 'Markab' 6-max Seat #6 is the button
+Seat 1: gaiggibeliin ($95.95 in chips) 
+Seat 2: angellk1 ($161.20 in chips) 
+Seat 3: Bakarisation ($141 in chips) 
+Seat 4: DEDTAWIWASA ($150 in chips) 
+Seat 5: Lius ($382.86 in chips) 
+Seat 6: Glamur Boss ($358.15 in chips) 
+gaiggibeliin: posts the ante $1
+angellk1: posts the ante $1
+Bakarisation: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Lius: posts the ante $1
+Glamur Boss: posts the ante $1
+Glamur Boss: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ts Jh]
+gaiggibeliin: calls $1
+angellk1: folds 
+Bakarisation: folds 
+DEDTAWIWASA: raises $12 to $13
+Lius: folds 
+Glamur Boss: folds 
+gaiggibeliin: calls $12
+*** FLOP *** [Qh 6d Th]
+gaiggibeliin: checks 
+Glamur Boss leaves the table
+DEDTAWIWASA: checks 
+*** TURN *** [Qh 6d Th] [6c]
+gaiggibeliin: checks 
+DEDTAWIWASA: checks 
+*** RIVER *** [Qh 6d Th 6c] [9h]
+gaiggibeliin: checks 
+DEDTAWIWASA: checks 
+*** SHOW DOWN ***
+gaiggibeliin: shows [Ts Jh] (two pair, Tens and Sixes)
+DEDTAWIWASA: mucks hand 
+gaiggibeliin collected $31.35 from pot
+*** SUMMARY ***
+Total pot $33 | Rake $1.65 
+Board [Qh 6d Th 6c 9h]
+Seat 1: gaiggibeliin showed [Ts Jh] and won ($31.35) with two pair, Tens and Sixes
+Seat 2: angellk1 folded before Flop (didn't bet)
+Seat 3: Bakarisation folded before Flop (didn't bet)
+Seat 4: DEDTAWIWASA mucked [Kc Ac]
+Seat 5: Lius folded before Flop (didn't bet)
+Seat 6: Glamur Boss (button blind) folded before Flop
+
+
+
+PokerStars Hand #196389810088:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 0:31:44 EET [2019/01/29 17:31:44 ET]
+Table 'Markab' 6-max Seat #1 is the button
+Seat 1: gaiggibeliin ($113.30 in chips) 
+Seat 2: angellk1 ($160.20 in chips) 
+Seat 3: Bakarisation ($140 in chips) 
+Seat 4: DEDTAWIWASA ($150 in chips) 
+Seat 5: Lius ($381.86 in chips) 
+gaiggibeliin: posts the ante $1
+angellk1: posts the ante $1
+Bakarisation: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Lius: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ks Jd]
+dragi111213 joins the table at seat #6 
+angellk1: folds 
+Bakarisation: raises $6 to $7
+DEDTAWIWASA: calls $7
+Lius: folds 
+gaiggibeliin: calls $6
+*** FLOP *** [6d Kc 8h]
+Bakarisation: checks 
+dragi111213 leaves the table
+DEDTAWIWASA: checks 
+gaiggibeliin: bets $12.84
+Bakarisation: folds 
+DEDTAWIWASA: folds 
+Uncalled bet ($12.84) returned to gaiggibeliin
+gaiggibeliin collected $24.70 from pot
+*** SUMMARY ***
+Total pot $26 | Rake $1.30 
+Board [6d Kc 8h]
+Seat 1: gaiggibeliin (button blind) collected ($24.70)
+Seat 2: angellk1 folded before Flop (didn't bet)
+Seat 3: Bakarisation folded on the Flop
+Seat 4: DEDTAWIWASA folded on the Flop
+Seat 5: Lius folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196389839273:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/30 0:32:24 EET [2019/01/29 17:32:24 ET]
+Table 'Markab' 6-max Seat #2 is the button
+Seat 1: gaiggibeliin ($130 in chips) 
+Seat 2: angellk1 ($159.20 in chips) 
+Seat 3: Bakarisation ($132 in chips) 
+Seat 4: DEDTAWIWASA ($150 in chips) 
+Seat 5: Lius ($380.86 in chips) 
+gaiggibeliin: posts the ante $1
+angellk1: posts the ante $1
+Bakarisation: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Lius: posts the ante $1
+angellk1: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qs 8s]
+Bakarisation: folds 
+DEDTAWIWASA: folds 
+Lius: folds 
+gaiggibeliin: calls $1
+angellk1: raises $7 to $8
+gaiggibeliin: calls $7
+*** FLOP *** [6h Ah Kd]
+gaiggibeliin: checks 
+angellk1: bets $11
+gaiggibeliin: folds 
+Uncalled bet ($11) returned to angellk1
+angellk1 collected $19.95 from pot
+angellk1: doesn't show hand 
+*** SUMMARY ***
+Total pot $21 | Rake $1.05 
+Board [6h Ah Kd]
+Seat 1: gaiggibeliin folded on the Flop
+Seat 2: angellk1 (button blind) collected ($19.95)
+Seat 3: Bakarisation folded before Flop (didn't bet)
+Seat 4: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 5: Lius folded before Flop (didn't bet)
+
+
+

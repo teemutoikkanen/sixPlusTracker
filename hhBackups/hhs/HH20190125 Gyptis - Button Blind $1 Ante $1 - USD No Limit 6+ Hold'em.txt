@@ -1,0 +1,2156 @@
+﻿PokerStars Hand #196224288656:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:17:28 EET [2019/01/25 20:17:28 ET]
+Table 'Gyptis' 6-max Seat #5 is the button
+Seat 2: gaiggibeliin ($150 in chips) 
+Seat 5: DEDTAWIWASA ($186.14 in chips) 
+Seat 6: Xerophyten ($239.55 in chips) 
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+DEDTAWIWASA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7s 9c]
+Xerophyten: folds 
+gaiggibeliin: calls $1
+DEDTAWIWASA: checks 
+*** FLOP *** [Kc 8h Tc]
+gaiggibeliin: bets $3.56
+DEDTAWIWASA: folds 
+Uncalled bet ($3.56) returned to gaiggibeliin
+gaiggibeliin collected $4.75 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0.25 
+Board [Kc 8h Tc]
+Seat 2: gaiggibeliin collected ($4.75)
+Seat 5: DEDTAWIWASA (button blind) folded on the Flop
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196224300063:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:17:54 EET [2019/01/25 20:17:54 ET]
+Table 'Gyptis' 6-max Seat #6 is the button
+Seat 2: gaiggibeliin ($152.75 in chips) 
+Seat 5: DEDTAWIWASA ($184.14 in chips) 
+Seat 6: Xerophyten ($238.55 in chips) 
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+Xerophyten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Js 7h]
+gaiggibeliin: folds 
+DEDTAWIWASA: raises $5 to $6
+Xerophyten: raises $231.55 to $237.55 and is all-in
+DEDTAWIWASA: folds 
+Uncalled bet ($231.55) returned to Xerophyten
+Xerophyten collected $15 from pot
+*** SUMMARY ***
+Total pot $15 | Rake $0 
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 5: DEDTAWIWASA folded before Flop
+Seat 6: Xerophyten (button blind) collected ($15)
+
+
+
+PokerStars Hand #196224307799:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:18:11 EET [2019/01/25 20:18:11 ET]
+Table 'Gyptis' 6-max Seat #2 is the button
+Seat 2: gaiggibeliin ($151.75 in chips) 
+Seat 5: DEDTAWIWASA ($177.14 in chips) 
+Seat 6: Xerophyten ($246.55 in chips) 
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8h Qs]
+DEDTAWIWASA: raises $5 to $6
+Xerophyten: calls $6
+gaiggibeliin: calls $5
+*** FLOP *** [9d Jc 6d]
+DEDTAWIWASA: bets $15
+Xerophyten: folds 
+gaiggibeliin: folds 
+Uncalled bet ($15) returned to DEDTAWIWASA
+DEDTAWIWASA collected $19.95 from pot
+DEDTAWIWASA: doesn't show hand 
+*** SUMMARY ***
+Total pot $21 | Rake $1.05 
+Board [9d Jc 6d]
+Seat 2: gaiggibeliin (button blind) folded on the Flop
+Seat 5: DEDTAWIWASA collected ($19.95)
+Seat 6: Xerophyten folded on the Flop
+
+
+
+PokerStars Hand #196224319252:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:18:36 EET [2019/01/25 20:18:36 ET]
+Table 'Gyptis' 6-max Seat #5 is the button
+Seat 2: gaiggibeliin ($144.75 in chips) 
+Seat 5: DEDTAWIWASA ($190.09 in chips) 
+Seat 6: Xerophyten ($239.55 in chips) 
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+DEDTAWIWASA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [As Kc]
+Xerophyten: raises $4 to $5
+gaiggibeliin: raises $18 to $23
+DEDTAWIWASA: folds 
+Xerophyten: calls $18
+*** FLOP *** [8h 7d Qs]
+Xerophyten: checks 
+gaiggibeliin: checks 
+*** TURN *** [8h 7d Qs] [8c]
+Xerophyten: bets $24.38
+gaiggibeliin: folds 
+Uncalled bet ($24.38) returned to Xerophyten
+Xerophyten collected $48.75 from pot
+*** SUMMARY ***
+Total pot $50 | Rake $1.25 
+Board [8h 7d Qs 8c]
+Seat 2: gaiggibeliin folded on the Turn
+Seat 5: DEDTAWIWASA (button blind) folded before Flop
+Seat 6: Xerophyten collected ($48.75)
+
+
+
+PokerStars Hand #196224338635:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:19:19 EET [2019/01/25 20:19:19 ET]
+Table 'Gyptis' 6-max Seat #6 is the button
+Seat 2: gaiggibeliin ($120.75 in chips) 
+Seat 5: DEDTAWIWASA ($188.09 in chips) 
+Seat 6: Xerophyten ($264.30 in chips) 
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+Xerophyten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [As Td]
+gaiggibeliin: raises $7 to $8
+DEDTAWIWASA: folds 
+Xerophyten: calls $7
+*** FLOP *** [Jd 9d Kd]
+gaiggibeliin: bets $11
+Xerophyten: calls $11
+*** TURN *** [Jd 9d Kd] [Qc]
+gaiggibeliin: checks 
+Xerophyten: checks 
+*** RIVER *** [Jd 9d Kd Qc] [6c]
+gaiggibeliin: bets $29.81
+Xerophyten: folds 
+Uncalled bet ($29.81) returned to gaiggibeliin
+gaiggibeliin collected $39.75 from pot
+*** SUMMARY ***
+Total pot $41 | Rake $1.25 
+Board [Jd 9d Kd Qc 6c]
+Seat 2: gaiggibeliin collected ($39.75)
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 6: Xerophyten (button blind) folded on the River
+
+
+
+PokerStars Hand #196224367295:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:20:23 EET [2019/01/25 20:20:23 ET]
+Table 'Gyptis' 6-max Seat #2 is the button
+Seat 2: gaiggibeliin ($140.50 in chips) 
+Seat 5: DEDTAWIWASA ($187.09 in chips) 
+Seat 6: Xerophyten ($244.30 in chips) 
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7s Qd]
+DEDTAWIWASA: raises $5 to $6
+Xerophyten: calls $6
+gaiggibeliin: folds 
+*** FLOP *** [Ks 8d Td]
+DEDTAWIWASA: bets $8.06
+Xerophyten: calls $8.06
+*** TURN *** [Ks 8d Td] [8h]
+DEDTAWIWASA: bets $23
+Xerophyten: folds 
+Uncalled bet ($23) returned to DEDTAWIWASA
+DEDTAWIWASA collected $30.87 from pot
+DEDTAWIWASA: doesn't show hand 
+*** SUMMARY ***
+Total pot $32.12 | Rake $1.25 
+Board [Ks 8d Td 8h]
+Seat 2: gaiggibeliin (button blind) folded before Flop
+Seat 5: DEDTAWIWASA collected ($30.87)
+Seat 6: Xerophyten folded on the Turn
+
+
+
+PokerStars Hand #196224373924:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:20:38 EET [2019/01/25 20:20:38 ET]
+Table 'Gyptis' 6-max Seat #5 is the button
+Seat 2: gaiggibeliin ($138.50 in chips) 
+Seat 5: DEDTAWIWASA ($202.90 in chips) 
+Seat 6: Xerophyten ($229.24 in chips) 
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+DEDTAWIWASA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Js Qc]
+Xerophyten: folds 
+gaiggibeliin: raises $7 to $8
+DEDTAWIWASA: calls $7
+*** FLOP *** [9d Ks Qs]
+gaiggibeliin: checks 
+DEDTAWIWASA: checks 
+*** TURN *** [9d Ks Qs] [6c]
+gaiggibeliin: checks 
+DEDTAWIWASA: checks 
+*** RIVER *** [9d Ks Qs 6c] [7d]
+gaiggibeliin: checks 
+DEDTAWIWASA: bets $14
+gaiggibeliin: calls $14
+*** SHOW DOWN ***
+DEDTAWIWASA: shows [Ad 8h] (a straight, Ace to Nine)
+gaiggibeliin: mucks hand 
+DEDTAWIWASA collected $45.75 from pot
+*** SUMMARY ***
+Total pot $47 | Rake $1.25 
+Board [9d Ks Qs 6c 7d]
+Seat 2: gaiggibeliin mucked [Js Qc]
+Seat 5: DEDTAWIWASA (button blind) showed [Ad 8h] and won ($45.75) with a straight, Ace to Nine
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196224396610:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:21:29 EET [2019/01/25 20:21:29 ET]
+Table 'Gyptis' 6-max Seat #6 is the button
+Seat 2: gaiggibeliin ($115.50 in chips) 
+Seat 5: DEDTAWIWASA ($225.65 in chips) 
+Seat 6: Xerophyten ($228.24 in chips) 
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+Xerophyten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [As Ts]
+gaiggibeliin: calls $1
+DEDTAWIWASA: folds 
+Xerophyten: checks 
+*** FLOP *** [Ks Th Qh]
+gaiggibeliin: checks 
+Xerophyten: bets $2.38
+gaiggibeliin: calls $2.38
+*** TURN *** [Ks Th Qh] [Kd]
+gaiggibeliin: checks 
+Xerophyten: bets $4.64
+gaiggibeliin: folds 
+Uncalled bet ($4.64) returned to Xerophyten
+Xerophyten collected $9.27 from pot
+*** SUMMARY ***
+Total pot $9.76 | Rake $0.49 
+Board [Ks Th Qh Kd]
+Seat 2: gaiggibeliin folded on the Turn
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 6: Xerophyten (button blind) collected ($9.27)
+
+
+
+PokerStars Hand #196224429999:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:22:44 EET [2019/01/25 20:22:44 ET]
+Table 'Gyptis' 6-max Seat #2 is the button
+Seat 2: gaiggibeliin ($111.12 in chips) 
+Seat 5: DEDTAWIWASA ($224.65 in chips) 
+Seat 6: Xerophyten ($233.13 in chips) 
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Td 6d]
+DEDTAWIWASA: raises $9 to $10
+Xerophyten: calls $10
+gaiggibeliin: calls $9
+*** FLOP *** [Qc 8d Kh]
+DEDTAWIWASA: checks 
+Xerophyten: checks 
+ArranAJFJ joins the table at seat #4 
+gaiggibeliin: checks 
+*** TURN *** [Qc 8d Kh] [8s]
+DEDTAWIWASA: bets $21
+Xerophyten: calls $21
+gaiggibeliin: folds 
+*** RIVER *** [Qc 8d Kh 8s] [9d]
+DEDTAWIWASA: checks 
+Xerophyten: checks 
+*** SHOW DOWN ***
+DEDTAWIWASA: shows [9s Ts] (two pair, Nines and Eights)
+Xerophyten: shows [8c Ac] (three of a kind, Eights)
+Xerophyten collected $73.75 from pot
+*** SUMMARY ***
+Total pot $75 | Rake $1.25 
+Board [Qc 8d Kh 8s 9d]
+Seat 2: gaiggibeliin (button blind) folded on the Turn
+Seat 5: DEDTAWIWASA showed [9s Ts] and lost with two pair, Nines and Eights
+Seat 6: Xerophyten showed [8c Ac] and won ($73.75) with three of a kind, Eights
+
+
+
+PokerStars Hand #196224458849:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:23:49 EET [2019/01/25 20:23:49 ET]
+Table 'Gyptis' 6-max Seat #5 is the button
+Seat 2: gaiggibeliin ($100.12 in chips) 
+Seat 4: ArranAJFJ ($100 in chips) 
+Seat 5: DEDTAWIWASA ($192.65 in chips) 
+Seat 6: Xerophyten ($274.88 in chips) 
+gaiggibeliin: posts the ante $1
+ArranAJFJ: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+DEDTAWIWASA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7s Td]
+Xerophyten: calls $1
+gaiggibeliin: folds 
+ArranAJFJ: raises $6 to $7
+DEDTAWIWASA: folds 
+Xerophyten: calls $6
+*** FLOP *** [Th 9h 8h]
+Xerophyten: checks 
+ArranAJFJ: bets $13
+Xerophyten: folds 
+Uncalled bet ($13) returned to ArranAJFJ
+ArranAJFJ collected $18.05 from pot
+ArranAJFJ: doesn't show hand 
+*** SUMMARY ***
+Total pot $19 | Rake $0.95 
+Board [Th 9h 8h]
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: ArranAJFJ collected ($18.05)
+Seat 5: DEDTAWIWASA (button blind) folded before Flop
+Seat 6: Xerophyten folded on the Flop
+
+
+
+PokerStars Hand #196224469752:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:24:14 EET [2019/01/25 20:24:14 ET]
+Table 'Gyptis' 6-max Seat #6 is the button
+Seat 2: gaiggibeliin ($150 in chips) 
+Seat 4: ArranAJFJ ($110.05 in chips) 
+Seat 5: DEDTAWIWASA ($190.65 in chips) 
+Seat 6: Xerophyten ($266.88 in chips) 
+gaiggibeliin: posts the ante $1
+ArranAJFJ: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+Xerophyten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8s 8d]
+gaiggibeliin: calls $1
+ArranAJFJ: folds 
+DEDTAWIWASA: folds 
+Xerophyten: checks 
+*** FLOP *** [9d 6h Th]
+gaiggibeliin: checks 
+Xerophyten: checks 
+*** TURN *** [9d 6h Th] [Ad]
+gaiggibeliin: bets $3.82
+Xerophyten: folds 
+Uncalled bet ($3.82) returned to gaiggibeliin
+gaiggibeliin collected $5.70 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [9d 6h Th Ad]
+Seat 2: gaiggibeliin collected ($5.70)
+Seat 4: ArranAJFJ folded before Flop (didn't bet)
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 6: Xerophyten (button blind) folded on the Turn
+
+
+
+PokerStars Hand #196224493484:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:25:07 EET [2019/01/25 20:25:07 ET]
+Table 'Gyptis' 6-max Seat #2 is the button
+Seat 2: gaiggibeliin ($153.70 in chips) 
+Seat 4: ArranAJFJ ($109.05 in chips) 
+Seat 5: DEDTAWIWASA ($189.65 in chips) 
+Seat 6: Xerophyten ($264.88 in chips) 
+gaiggibeliin: posts the ante $1
+ArranAJFJ: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9d 7s]
+ArranAJFJ: raises $6 to $7
+DEDTAWIWASA: folds 
+Xerophyten: folds 
+gaiggibeliin: calls $6
+*** FLOP *** [7d Ts 6c]
+ArranAJFJ: checks 
+gaiggibeliin: bets $10
+ArranAJFJ: calls $10
+*** TURN *** [7d Ts 6c] [7h]
+ArranAJFJ: checks 
+gaiggibeliin: bets $24.62
+ArranAJFJ: calls $24.62
+*** RIVER *** [7d Ts 6c 7h] [Kc]
+ArranAJFJ: checks 
+gaiggibeliin: bets $111.08 and is all-in
+ArranAJFJ: calls $66.43 and is all-in
+Uncalled bet ($44.65) returned to gaiggibeliin
+*** SHOW DOWN ***
+gaiggibeliin: shows [9d 7s] (three of a kind, Sevens)
+ArranAJFJ: shows [Td Th] (a full house, Tens full of Sevens)
+ArranAJFJ collected $218.85 from pot
+*** SUMMARY ***
+Total pot $220.10 | Rake $1.25 
+Board [7d Ts 6c 7h Kc]
+Seat 2: gaiggibeliin (button blind) showed [9d 7s] and lost with three of a kind, Sevens
+Seat 4: ArranAJFJ showed [Td Th] and won ($218.85) with a full house, Tens full of Sevens
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196224535131:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:26:41 EET [2019/01/25 20:26:41 ET]
+Table 'Gyptis' 6-max Seat #4 is the button
+Seat 2: gaiggibeliin ($150 in chips) 
+Seat 4: ArranAJFJ ($218.85 in chips) 
+Seat 5: DEDTAWIWASA ($188.65 in chips) 
+Seat 6: Xerophyten ($263.88 in chips) 
+gaiggibeliin: posts the ante $1
+ArranAJFJ: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+ArranAJFJ: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ts Th]
+DEDTAWIWASA: folds 
+Xerophyten: folds 
+gaiggibeliin: calls $1
+ArranAJFJ: checks 
+*** FLOP *** [8c Ah 6d]
+gaiggibeliin: checks 
+ArranAJFJ: checks 
+*** TURN *** [8c Ah 6d] [Ac]
+MrBarrett82 joins the table at seat #1 
+gaiggibeliin has timed out
+gaiggibeliin: checks 
+ArranAJFJ: bets $3
+gaiggibeliin: calls $3
+*** RIVER *** [8c Ah 6d Ac] [Ad]
+gaiggibeliin: checks 
+ArranAJFJ: checks 
+*** SHOW DOWN ***
+gaiggibeliin: shows [Ts Th] (a full house, Aces full of Tens)
+ArranAJFJ: mucks hand 
+gaiggibeliin collected $11.40 from pot
+*** SUMMARY ***
+Total pot $12 | Rake $0.60 
+Board [8c Ah 6d Ac Ad]
+Seat 2: gaiggibeliin showed [Ts Th] and won ($11.40) with a full house, Aces full of Tens
+Seat 4: ArranAJFJ (button blind) mucked [6s Kd]
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196224563202:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:27:45 EET [2019/01/25 20:27:45 ET]
+Table 'Gyptis' 6-max Seat #5 is the button
+Seat 1: MrBarrett82 ($150 in chips) 
+Seat 2: gaiggibeliin ($156.40 in chips) 
+Seat 4: ArranAJFJ ($213.85 in chips) 
+Seat 5: DEDTAWIWASA ($187.65 in chips) 
+Seat 6: Xerophyten ($262.88 in chips) 
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+ArranAJFJ: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+DEDTAWIWASA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ks 8d]
+Xerophyten: folds 
+MrBarrett82: calls $1
+elgeorginho joins the table at seat #3 
+gaiggibeliin: folds 
+ArranAJFJ: calls $1
+DEDTAWIWASA: checks 
+*** FLOP *** [Kd Qd Kh]
+MrBarrett82: bets $4
+ArranAJFJ: folds 
+DEDTAWIWASA: folds 
+Uncalled bet ($4) returned to MrBarrett82
+MrBarrett82 collected $7.60 from pot
+MrBarrett82: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [Kd Qd Kh]
+Seat 1: MrBarrett82 collected ($7.60)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: ArranAJFJ folded on the Flop
+Seat 5: DEDTAWIWASA (button blind) folded on the Flop
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196224594035:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:28:33 EET [2019/01/25 20:28:33 ET]
+Table 'Gyptis' 6-max Seat #6 is the button
+Seat 1: MrBarrett82 ($155.60 in chips) 
+Seat 2: gaiggibeliin ($155.40 in chips) 
+Seat 3: elgeorginho ($100 in chips) 
+Seat 4: ArranAJFJ ($211.85 in chips) 
+Seat 5: DEDTAWIWASA ($185.65 in chips) 
+Seat 6: Xerophyten ($261.88 in chips) 
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+elgeorginho: posts the ante $1
+ArranAJFJ: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+Xerophyten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Tc Kd]
+MrBarrett82: folds 
+gaiggibeliin: folds 
+elgeorginho: raises $2 to $3
+ArranAJFJ: calls $3
+DEDTAWIWASA: raises $18 to $21
+Xerophyten: folds 
+elgeorginho: folds 
+ArranAJFJ: folds 
+Uncalled bet ($18) returned to DEDTAWIWASA
+DEDTAWIWASA collected $16 from pot
+DEDTAWIWASA: doesn't show hand 
+*** SUMMARY ***
+Total pot $16 | Rake $0 
+Seat 1: MrBarrett82 folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: elgeorginho folded before Flop
+Seat 4: ArranAJFJ folded before Flop
+Seat 5: DEDTAWIWASA collected ($16)
+Seat 6: Xerophyten (button blind) folded before Flop
+
+
+
+PokerStars Hand #196224608532:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:29:06 EET [2019/01/25 20:29:06 ET]
+Table 'Gyptis' 6-max Seat #1 is the button
+Seat 1: MrBarrett82 ($154.60 in chips) 
+Seat 2: gaiggibeliin ($154.40 in chips) 
+Seat 3: elgeorginho ($96 in chips) 
+Seat 4: ArranAJFJ ($207.85 in chips) 
+Seat 5: DEDTAWIWASA ($197.65 in chips) 
+Seat 6: Xerophyten ($259.88 in chips) 
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+elgeorginho: posts the ante $1
+ArranAJFJ: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qs As]
+gaiggibeliin: calls $1
+elgeorginho: folds 
+ArranAJFJ: folds 
+DEDTAWIWASA: folds 
+Xerophyten: folds 
+MrBarrett82: checks 
+*** FLOP *** [Ac 9c Ts]
+gaiggibeliin: checks 
+MrBarrett82: bets $5.70
+gaiggibeliin: calls $5.70
+*** TURN *** [Ac 9c Ts] [Ad]
+gaiggibeliin: checks 
+MrBarrett82: bets $12
+gaiggibeliin: calls $12
+*** RIVER *** [Ac 9c Ts Ad] [Th]
+gaiggibeliin: checks 
+MrBarrett82: bets $134.90 and is all-in
+gaiggibeliin has timed out
+gaiggibeliin: folds 
+Uncalled bet ($134.90) returned to MrBarrett82
+MrBarrett82 collected $41.23 from pot
+MrBarrett82: doesn't show hand 
+*** SUMMARY ***
+Total pot $43.40 | Rake $2.17 
+Board [Ac 9c Ts Ad Th]
+Seat 1: MrBarrett82 (button blind) collected ($41.23)
+Seat 2: gaiggibeliin folded on the River
+Seat 3: elgeorginho folded before Flop (didn't bet)
+Seat 4: ArranAJFJ folded before Flop (didn't bet)
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196224677806:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:31:45 EET [2019/01/25 20:31:45 ET]
+Table 'Gyptis' 6-max Seat #4 is the button
+Seat 1: MrBarrett82 ($168.13 in chips) 
+Seat 2: gaiggibeliin ($134.70 in chips) 
+Seat 3: elgeorginho ($93 in chips) 
+Seat 4: ArranAJFJ ($216.90 in chips) 
+Seat 6: Xerophyten ($257.88 in chips) 
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+elgeorginho: posts the ante $1
+ArranAJFJ: posts the ante $1
+Xerophyten: posts the ante $1
+ArranAJFJ: posts button blind $1
+gaiggibeliin: posts big blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6d Tc]
+Xerophyten: calls $1
+MrBarrett82: calls $1
+gaiggibeliin: checks 
+elgeorginho: calls $1
+ArranAJFJ: checks 
+*** FLOP *** [Qd 9h Ad]
+Xerophyten: checks 
+MrBarrett82: checks 
+gaiggibeliin: checks 
+elgeorginho: checks 
+ArranAJFJ: checks 
+*** TURN *** [Qd 9h Ad] [Js]
+Xerophyten: checks 
+MrBarrett82: checks 
+gaiggibeliin: checks 
+elgeorginho: checks 
+ArranAJFJ: checks 
+*** RIVER *** [Qd 9h Ad Js] [As]
+Xerophyten: checks 
+MrBarrett82: checks 
+gaiggibeliin has timed out
+gaiggibeliin: checks 
+elgeorginho: checks 
+ArranAJFJ: checks 
+*** SHOW DOWN ***
+Xerophyten: shows [Qs 7s] (two pair, Aces and Queens)
+MrBarrett82: mucks hand 
+gaiggibeliin: mucks hand 
+elgeorginho: mucks hand 
+ArranAJFJ: mucks hand 
+Xerophyten collected $9.50 from pot
+*** SUMMARY ***
+Total pot $10 | Rake $0.50 
+Board [Qd 9h Ad Js As]
+Seat 1: MrBarrett82 mucked [6c 7d]
+Seat 2: gaiggibeliin mucked [6d Tc]
+Seat 3: elgeorginho mucked [Kh 8h]
+Seat 4: ArranAJFJ (button blind) mucked [9d Ks]
+Seat 6: Xerophyten showed [Qs 7s] and won ($9.50) with two pair, Aces and Queens
+
+
+
+PokerStars Hand #196224724003:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:33:31 EET [2019/01/25 20:33:31 ET]
+Table 'Gyptis' 6-max Seat #6 is the button
+Seat 1: MrBarrett82 ($166.13 in chips) 
+Seat 2: gaiggibeliin ($132.70 in chips) 
+Seat 3: elgeorginho ($91 in chips) 
+Seat 4: ArranAJFJ ($214.90 in chips) 
+Seat 6: Xerophyten ($265.38 in chips) 
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+elgeorginho: posts the ante $1
+ArranAJFJ: posts the ante $1
+Xerophyten: posts the ante $1
+Xerophyten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7s Ad]
+MrBarrett82: calls $1
+gaiggibeliin: folds 
+elgeorginho: folds 
+ArranAJFJ: folds 
+Xerophyten: checks 
+*** FLOP *** [Kc 9d Ah]
+MrBarrett82: bets $3
+Xerophyten: calls $3
+*** TURN *** [Kc 9d Ah] [9c]
+MrBarrett82: checks 
+Xerophyten: bets $6.18
+MrBarrett82: folds 
+Uncalled bet ($6.18) returned to Xerophyten
+Xerophyten collected $12.35 from pot
+*** SUMMARY ***
+Total pot $13 | Rake $0.65 
+Board [Kc 9d Ah 9c]
+Seat 1: MrBarrett82 folded on the Turn
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: elgeorginho folded before Flop (didn't bet)
+Seat 4: ArranAJFJ folded before Flop (didn't bet)
+Seat 6: Xerophyten (button blind) collected ($12.35)
+
+
+
+PokerStars Hand #196224742756:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:34:15 EET [2019/01/25 20:34:15 ET]
+Table 'Gyptis' 6-max Seat #1 is the button
+Seat 1: MrBarrett82 ($161.13 in chips) 
+Seat 2: gaiggibeliin ($131.70 in chips) 
+Seat 3: elgeorginho ($90 in chips) 
+Seat 4: ArranAJFJ ($213.90 in chips) 
+Seat 6: Xerophyten ($272.73 in chips) 
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+elgeorginho: posts the ante $1
+ArranAJFJ: posts the ante $1
+Xerophyten: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6h Th]
+gaiggibeliin: folds 
+elgeorginho: folds 
+ArranAJFJ: raises $6 to $7
+Xerophyten: calls $7
+MrBarrett82: folds 
+*** FLOP *** [8d Jc 7s]
+ArranAJFJ: checks 
+Xerophyten: checks 
+*** TURN *** [8d Jc 7s] [As]
+ArranAJFJ: bets $12
+Xerophyten: calls $12
+*** RIVER *** [8d Jc 7s As] [8s]
+ArranAJFJ: checks 
+Xerophyten: checks 
+*** SHOW DOWN ***
+ArranAJFJ: shows [Qc Ad] (two pair, Aces and Eights)
+Xerophyten: shows [Ah Qh] (two pair, Aces and Eights)
+ArranAJFJ collected $20.90 from pot
+Xerophyten collected $20.90 from pot
+*** SUMMARY ***
+Total pot $44 | Rake $2.20 
+Board [8d Jc 7s As 8s]
+Seat 1: MrBarrett82 (button blind) folded before Flop
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: elgeorginho folded before Flop (didn't bet)
+Seat 4: ArranAJFJ showed [Qc Ad] and won ($20.90) with two pair, Aces and Eights
+Seat 6: Xerophyten showed [Ah Qh] and won ($20.90) with two pair, Aces and Eights
+
+
+
+PokerStars Hand #196224766618:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:35:11 EET [2019/01/25 20:35:11 ET]
+Table 'Gyptis' 6-max Seat #2 is the button
+Seat 1: MrBarrett82 ($159.13 in chips) 
+Seat 2: gaiggibeliin ($130.70 in chips) 
+Seat 3: elgeorginho ($89 in chips) 
+Seat 4: ArranAJFJ ($214.80 in chips) 
+Seat 5: DEDTAWIWASA ($196.65 in chips) 
+Seat 6: Xerophyten ($273.63 in chips) 
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+elgeorginho: posts the ante $1
+ArranAJFJ: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+gaiggibeliin: posts button blind $1
+DEDTAWIWASA: posts big blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6s Kc]
+elgeorginho: calls $1
+ArranAJFJ: folds 
+DEDTAWIWASA: checks 
+Xerophyten: folds 
+MrBarrett82: calls $1
+gaiggibeliin: checks 
+*** FLOP *** [8d 7d 7c]
+elgeorginho: checks 
+DEDTAWIWASA: checks 
+MrBarrett82: checks 
+gaiggibeliin: checks 
+*** TURN *** [8d 7d 7c] [Kh]
+elgeorginho: checks 
+DEDTAWIWASA: checks 
+MrBarrett82: checks 
+gaiggibeliin: bets $4.94
+elgeorginho: folds 
+DEDTAWIWASA: folds 
+MrBarrett82: folds 
+Uncalled bet ($4.94) returned to gaiggibeliin
+gaiggibeliin collected $9.50 from pot
+*** SUMMARY ***
+Total pot $10 | Rake $0.50 
+Board [8d 7d 7c Kh]
+Seat 1: MrBarrett82 folded on the Turn
+Seat 2: gaiggibeliin (button blind) collected ($9.50)
+Seat 3: elgeorginho folded on the Turn
+Seat 4: ArranAJFJ folded before Flop (didn't bet)
+Seat 5: DEDTAWIWASA folded on the Turn (didn't bet)
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196224803157:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:36:36 EET [2019/01/25 20:36:36 ET]
+Table 'Gyptis' 6-max Seat #3 is the button
+Seat 1: MrBarrett82 ($157.13 in chips) 
+Seat 2: gaiggibeliin ($138.20 in chips) 
+Seat 3: elgeorginho ($87 in chips) 
+Seat 4: ArranAJFJ ($213.80 in chips) 
+Seat 5: DEDTAWIWASA ($194.65 in chips) 
+Seat 6: Xerophyten ($272.63 in chips) 
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+elgeorginho: posts the ante $1
+ArranAJFJ: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+elgeorginho: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6c 6s]
+ArranAJFJ: calls $1
+DEDTAWIWASA: folds 
+Xerophyten: calls $1
+MrBarrett82: folds 
+gaiggibeliin: calls $1
+elgeorginho: checks 
+*** FLOP *** [Ac As Qh]
+ArranAJFJ: bets $5
+Xerophyten: folds 
+gaiggibeliin: folds 
+elgeorginho: calls $5
+*** TURN *** [Ac As Qh] [Qd]
+ArranAJFJ: checks 
+elgeorginho: checks 
+*** RIVER *** [Ac As Qh Qd] [Ks]
+ArranAJFJ: bets $6.60
+elgeorginho: calls $6.60
+*** SHOW DOWN ***
+ArranAJFJ: shows [Ah 8h] (a full house, Aces full of Queens)
+elgeorginho: shows [8d Ad] (a full house, Aces full of Queens)
+ArranAJFJ collected $15.77 from pot
+elgeorginho collected $15.77 from pot
+*** SUMMARY ***
+Total pot $33.20 | Rake $1.66 
+Board [Ac As Qh Qd Ks]
+Seat 1: MrBarrett82 folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded on the Flop
+Seat 3: elgeorginho (button blind) showed [8d Ad] and won ($15.77) with a full house, Aces full of Queens
+Seat 4: ArranAJFJ showed [Ah 8h] and won ($15.77) with a full house, Aces full of Queens
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 6: Xerophyten folded on the Flop
+
+
+
+PokerStars Hand #196224831870:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:37:43 EET [2019/01/25 20:37:43 ET]
+Table 'Gyptis' 6-max Seat #4 is the button
+Seat 1: MrBarrett82 ($156.13 in chips) 
+Seat 2: gaiggibeliin ($136.20 in chips) 
+Seat 3: elgeorginho ($89.17 in chips) 
+Seat 4: ArranAJFJ ($215.97 in chips) 
+Seat 5: DEDTAWIWASA ($193.65 in chips) 
+Seat 6: Xerophyten ($270.63 in chips) 
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+elgeorginho: posts the ante $1
+ArranAJFJ: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+ArranAJFJ: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9h 6c]
+DEDTAWIWASA: folds 
+Xerophyten: folds 
+MrBarrett82: folds 
+gaiggibeliin: folds 
+elgeorginho: folds 
+Uncalled bet ($1) returned to ArranAJFJ
+ArranAJFJ collected $6 from pot
+ArranAJFJ: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: MrBarrett82 folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: elgeorginho folded before Flop (didn't bet)
+Seat 4: ArranAJFJ (button blind) collected ($6)
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196224837978:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:37:57 EET [2019/01/25 20:37:57 ET]
+Table 'Gyptis' 6-max Seat #5 is the button
+Seat 1: MrBarrett82 ($155.13 in chips) 
+Seat 2: gaiggibeliin ($135.20 in chips) 
+Seat 3: elgeorginho ($88.17 in chips) 
+Seat 4: ArranAJFJ ($220.97 in chips) 
+Seat 5: DEDTAWIWASA ($192.65 in chips) 
+Seat 6: Xerophyten ($269.63 in chips) 
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+elgeorginho: posts the ante $1
+ArranAJFJ: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+DEDTAWIWASA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qs Ks]
+Xerophyten: folds 
+MrBarrett82: folds 
+gaiggibeliin: raises $9 to $10
+elgeorginho: folds 
+ArranAJFJ: folds 
+DEDTAWIWASA: folds 
+Uncalled bet ($9) returned to gaiggibeliin
+gaiggibeliin collected $8 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0 
+Seat 1: MrBarrett82 folded before Flop (didn't bet)
+Seat 2: gaiggibeliin collected ($8)
+Seat 3: elgeorginho folded before Flop (didn't bet)
+Seat 4: ArranAJFJ folded before Flop (didn't bet)
+Seat 5: DEDTAWIWASA (button blind) folded before Flop
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196224844840:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:38:13 EET [2019/01/25 20:38:13 ET]
+Table 'Gyptis' 6-max Seat #6 is the button
+Seat 1: MrBarrett82 ($154.13 in chips) 
+Seat 2: gaiggibeliin ($141.20 in chips) 
+Seat 3: elgeorginho ($87.17 in chips) 
+Seat 4: ArranAJFJ ($219.97 in chips) 
+Seat 5: DEDTAWIWASA ($190.65 in chips) 
+Seat 6: Xerophyten ($268.63 in chips) 
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+elgeorginho: posts the ante $1
+ArranAJFJ: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+Xerophyten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8c Kc]
+MrBarrett82: folds 
+gaiggibeliin: folds 
+elgeorginho: raises $2 to $3
+ArranAJFJ: folds 
+DEDTAWIWASA: folds 
+Xerophyten: raises $264.63 to $267.63 and is all-in
+elgeorginho: calls $83.17 and is all-in
+Uncalled bet ($181.46) returned to Xerophyten
+*** FLOP *** [Js Ac Jh]
+*** TURN *** [Js Ac Jh] [Qh]
+*** RIVER *** [Js Ac Jh Qh] [6h]
+*** SHOW DOWN ***
+elgeorginho: shows [Kd Jd] (three of a kind, Jacks)
+Xerophyten: shows [Ad Ah] (a full house, Aces full of Jacks)
+Xerophyten collected $175.59 from pot
+*** SUMMARY ***
+Total pot $178.34 | Rake $2.75 
+Board [Js Ac Jh Qh 6h]
+Seat 1: MrBarrett82 folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: elgeorginho showed [Kd Jd] and lost with three of a kind, Jacks
+Seat 4: ArranAJFJ folded before Flop (didn't bet)
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 6: Xerophyten (button blind) showed [Ad Ah] and won ($175.59) with a full house, Aces full of Jacks
+
+
+
+PokerStars Hand #196224856530:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:38:40 EET [2019/01/25 20:38:40 ET]
+Table 'Gyptis' 6-max Seat #1 is the button
+Seat 1: MrBarrett82 ($153.13 in chips) 
+Seat 2: gaiggibeliin ($140.20 in chips) 
+Seat 4: ArranAJFJ ($218.97 in chips) 
+Seat 5: DEDTAWIWASA ($189.65 in chips) 
+Seat 6: Xerophyten ($357.05 in chips) 
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+ArranAJFJ: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9h Th]
+gaiggibeliin: calls $1
+ArranAJFJ: folds 
+DEDTAWIWASA: folds 
+Xerophyten: raises $9 to $10
+MrBarrett82: folds 
+gaiggibeliin: calls $9
+*** FLOP *** [6s Ks 7s]
+gaiggibeliin: checks 
+Xerophyten: bets $12.35
+gaiggibeliin: folds 
+Uncalled bet ($12.35) returned to Xerophyten
+Xerophyten collected $24.70 from pot
+*** SUMMARY ***
+Total pot $26 | Rake $1.30 
+Board [6s Ks 7s]
+Seat 1: MrBarrett82 (button blind) folded before Flop
+Seat 2: gaiggibeliin folded on the Flop
+Seat 4: ArranAJFJ folded before Flop (didn't bet)
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 6: Xerophyten collected ($24.70)
+
+
+
+PokerStars Hand #196224882841:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:39:42 EET [2019/01/25 20:39:42 ET]
+Table 'Gyptis' 6-max Seat #2 is the button
+Seat 1: MrBarrett82 ($151.13 in chips) 
+Seat 2: gaiggibeliin ($129.20 in chips) 
+Seat 3: elgeorginho ($150 in chips) 
+Seat 4: ArranAJFJ ($217.97 in chips) 
+Seat 5: DEDTAWIWASA ($188.65 in chips) 
+Seat 6: Xerophyten ($370.75 in chips) 
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+elgeorginho: posts the ante $1
+ArranAJFJ: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9c 7d]
+elgeorginho: folds 
+ArranAJFJ: folds 
+DEDTAWIWASA: raises $8 to $9
+Xerophyten: folds 
+MrBarrett82: calls $9
+gaiggibeliin: folds 
+*** FLOP *** [7s 7h Th]
+DEDTAWIWASA: bets $15
+MrBarrett82: calls $15
+*** TURN *** [7s 7h Th] [Kc]
+DEDTAWIWASA: bets $39
+MrBarrett82: folds 
+Uncalled bet ($39) returned to DEDTAWIWASA
+DEDTAWIWASA collected $52.25 from pot
+DEDTAWIWASA: doesn't show hand 
+*** SUMMARY ***
+Total pot $55 | Rake $2.75 
+Board [7s 7h Th Kc]
+Seat 1: MrBarrett82 folded on the Turn
+Seat 2: gaiggibeliin (button blind) folded before Flop
+Seat 3: elgeorginho folded before Flop (didn't bet)
+Seat 4: ArranAJFJ folded before Flop (didn't bet)
+Seat 5: DEDTAWIWASA collected ($52.25)
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196224899380:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:40:21 EET [2019/01/25 20:40:21 ET]
+Table 'Gyptis' 6-max Seat #3 is the button
+Seat 1: MrBarrett82 ($126.13 in chips) 
+Seat 2: gaiggibeliin ($150 in chips) 
+Seat 3: elgeorginho ($149 in chips) 
+Seat 4: ArranAJFJ ($216.97 in chips) 
+Seat 5: DEDTAWIWASA ($215.90 in chips) 
+Seat 6: Xerophyten ($369.75 in chips) 
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+elgeorginho: posts the ante $1
+ArranAJFJ: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+elgeorginho: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7h Qs]
+ArranAJFJ: folds 
+DEDTAWIWASA: folds 
+Xerophyten: raises $6 to $7
+MrBarrett82: folds 
+gaiggibeliin: folds 
+elgeorginho: calls $6
+*** FLOP *** [Kd Ks 9c]
+Xerophyten: bets $9.50
+elgeorginho: folds 
+Uncalled bet ($9.50) returned to Xerophyten
+Xerophyten collected $19 from pot
+*** SUMMARY ***
+Total pot $20 | Rake $1 
+Board [Kd Ks 9c]
+Seat 1: MrBarrett82 folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: elgeorginho (button blind) folded on the Flop
+Seat 4: ArranAJFJ folded before Flop (didn't bet)
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 6: Xerophyten collected ($19)
+
+
+
+PokerStars Hand #196224911885:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:40:51 EET [2019/01/25 20:40:51 ET]
+Table 'Gyptis' 6-max Seat #4 is the button
+Seat 1: MrBarrett82 ($125.13 in chips) 
+Seat 2: gaiggibeliin ($149 in chips) 
+Seat 3: elgeorginho ($141 in chips) 
+Seat 4: ArranAJFJ ($215.97 in chips) 
+Seat 5: DEDTAWIWASA ($214.90 in chips) 
+Seat 6: Xerophyten ($380.75 in chips) 
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+elgeorginho: posts the ante $1
+ArranAJFJ: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+ArranAJFJ: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8d Qs]
+DEDTAWIWASA: calls $1
+Xerophyten: calls $1
+MrBarrett82: folds 
+gaiggibeliin: folds 
+elgeorginho: calls $1
+ArranAJFJ: checks 
+*** FLOP *** [Qd 9d 9h]
+DEDTAWIWASA: bets $6
+Xerophyten: folds 
+elgeorginho: folds 
+ArranAJFJ: folds 
+Uncalled bet ($6) returned to DEDTAWIWASA
+DEDTAWIWASA collected $9.50 from pot
+DEDTAWIWASA: doesn't show hand 
+*** SUMMARY ***
+Total pot $10 | Rake $0.50 
+Board [Qd 9d 9h]
+Seat 1: MrBarrett82 folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: elgeorginho folded on the Flop
+Seat 4: ArranAJFJ (button blind) folded on the Flop
+Seat 5: DEDTAWIWASA collected ($9.50)
+Seat 6: Xerophyten folded on the Flop
+
+
+
+PokerStars Hand #196224928261:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:41:30 EET [2019/01/25 20:41:30 ET]
+Table 'Gyptis' 6-max Seat #5 is the button
+Seat 1: MrBarrett82 ($124.13 in chips) 
+Seat 2: gaiggibeliin ($148 in chips) 
+Seat 3: elgeorginho ($139 in chips) 
+Seat 4: ArranAJFJ ($213.97 in chips) 
+Seat 5: DEDTAWIWASA ($222.40 in chips) 
+Seat 6: Xerophyten ($378.75 in chips) 
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+elgeorginho: posts the ante $1
+ArranAJFJ: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+DEDTAWIWASA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qc Kd]
+Xerophyten: folds 
+MrBarrett82: folds 
+gaiggibeliin: calls $1
+elgeorginho: folds 
+ArranAJFJ: folds 
+DEDTAWIWASA: checks 
+*** FLOP *** [7s 6d Ts]
+gaiggibeliin: checks 
+DEDTAWIWASA: bets $5.55
+gaiggibeliin: folds 
+Uncalled bet ($5.55) returned to DEDTAWIWASA
+DEDTAWIWASA collected $7.60 from pot
+DEDTAWIWASA: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [7s 6d Ts]
+Seat 1: MrBarrett82 folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded on the Flop
+Seat 3: elgeorginho folded before Flop (didn't bet)
+Seat 4: ArranAJFJ folded before Flop (didn't bet)
+Seat 5: DEDTAWIWASA (button blind) collected ($7.60)
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196224945976:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:42:13 EET [2019/01/25 20:42:13 ET]
+Table 'Gyptis' 6-max Seat #6 is the button
+Seat 1: MrBarrett82 ($123.13 in chips) 
+Seat 2: gaiggibeliin ($146 in chips) 
+Seat 3: elgeorginho ($138 in chips) 
+Seat 4: ArranAJFJ ($212.97 in chips) 
+Seat 5: DEDTAWIWASA ($228 in chips) 
+Seat 6: Xerophyten ($377.75 in chips) 
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+elgeorginho: posts the ante $1
+ArranAJFJ: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+Xerophyten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8c Qc]
+MrBarrett82: calls $1
+gaiggibeliin: folds 
+elgeorginho: folds 
+ArranAJFJ: folds 
+DEDTAWIWASA: folds 
+Xerophyten: checks 
+*** FLOP *** [7h Js 7s]
+MrBarrett82: checks 
+Xerophyten: bets $3.80
+MrBarrett82: folds 
+Uncalled bet ($3.80) returned to Xerophyten
+Xerophyten collected $7.60 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [7h Js 7s]
+Seat 1: MrBarrett82 folded on the Flop
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: elgeorginho folded before Flop (didn't bet)
+Seat 4: ArranAJFJ folded before Flop (didn't bet)
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 6: Xerophyten (button blind) collected ($7.60)
+
+
+
+PokerStars Hand #196224961831:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:42:51 EET [2019/01/25 20:42:51 ET]
+Table 'Gyptis' 6-max Seat #1 is the button
+Seat 1: MrBarrett82 ($121.13 in chips) 
+Seat 2: gaiggibeliin ($145 in chips) 
+Seat 3: elgeorginho ($137 in chips) 
+Seat 4: ArranAJFJ ($211.97 in chips) 
+Seat 5: DEDTAWIWASA ($227 in chips) 
+Seat 6: Xerophyten ($383.35 in chips) 
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+elgeorginho: posts the ante $1
+ArranAJFJ: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jc 9d]
+gaiggibeliin: folds 
+elgeorginho: raises $2 to $3
+ArranAJFJ: folds 
+DEDTAWIWASA: calls $3
+Xerophyten: calls $3
+MrBarrett82: calls $2
+*** FLOP *** [7s Jh Kh]
+elgeorginho: bets $13.34
+DEDTAWIWASA: folds 
+Xerophyten: calls $13.34
+MrBarrett82: folds 
+*** TURN *** [7s Jh Kh] [6c]
+elgeorginho: bets $33.11
+Xerophyten: calls $33.11
+*** RIVER *** [7s Jh Kh 6c] [8d]
+elgeorginho: bets $86.55 and is all-in
+Xerophyten: folds 
+Uncalled bet ($86.55) returned to elgeorginho
+elgeorginho collected $108.15 from pot
+elgeorginho: doesn't show hand 
+*** SUMMARY ***
+Total pot $110.90 | Rake $2.75 
+Board [7s Jh Kh 6c 8d]
+Seat 1: MrBarrett82 (button blind) folded on the Flop
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: elgeorginho collected ($108.15)
+Seat 4: ArranAJFJ folded before Flop (didn't bet)
+Seat 5: DEDTAWIWASA folded on the Flop
+Seat 6: Xerophyten folded on the River
+
+
+
+PokerStars Hand #196224981545:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:43:38 EET [2019/01/25 20:43:38 ET]
+Table 'Gyptis' 6-max Seat #2 is the button
+Seat 1: MrBarrett82 ($117.13 in chips) 
+Seat 2: gaiggibeliin ($144 in chips) 
+Seat 3: elgeorginho ($194.70 in chips) 
+Seat 4: ArranAJFJ ($210.97 in chips) 
+Seat 5: DEDTAWIWASA ($223 in chips) 
+Seat 6: Xerophyten ($332.90 in chips) 
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+elgeorginho: posts the ante $1
+ArranAJFJ: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jc Kd]
+elgeorginho: folds 
+ArranAJFJ: raises $5 to $6
+DEDTAWIWASA: folds 
+Xerophyten: calls $6
+MrBarrett82: folds 
+gaiggibeliin: calls $5
+*** FLOP *** [7s Kh Js]
+ArranAJFJ: bets $14.27
+Xerophyten: calls $14.27
+gaiggibeliin: raises $122.73 to $137 and is all-in
+ArranAJFJ: raises $66.97 to $203.97 and is all-in
+Xerophyten: folds 
+Uncalled bet ($66.97) returned to ArranAJFJ
+*** TURN *** [7s Kh Js] [6d]
+*** RIVER *** [7s Kh Js 6d] [Ah]
+*** SHOW DOWN ***
+ArranAJFJ: shows [Ks As] (two pair, Aces and Kings)
+gaiggibeliin: shows [Jc Kd] (two pair, Kings and Jacks)
+ArranAJFJ collected $309.52 from pot
+*** SUMMARY ***
+Total pot $312.27 | Rake $2.75 
+Board [7s Kh Js 6d Ah]
+Seat 1: MrBarrett82 folded before Flop (didn't bet)
+Seat 2: gaiggibeliin (button blind) showed [Jc Kd] and lost with two pair, Kings and Jacks
+Seat 3: elgeorginho folded before Flop (didn't bet)
+Seat 4: ArranAJFJ showed [Ks As] and won ($309.52) with two pair, Aces and Kings
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 6: Xerophyten folded on the Flop
+
+
+
+PokerStars Hand #196225021779:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:45:15 EET [2019/01/25 20:45:15 ET]
+Table 'Gyptis' 6-max Seat #3 is the button
+Seat 1: MrBarrett82 ($116.13 in chips) 
+Seat 2: gaiggibeliin ($150 in chips) 
+Seat 3: elgeorginho ($193.70 in chips) 
+Seat 4: ArranAJFJ ($376.49 in chips) 
+Seat 5: DEDTAWIWASA ($222 in chips) 
+Seat 6: Xerophyten ($311.63 in chips) 
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+elgeorginho: posts the ante $1
+ArranAJFJ: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+elgeorginho: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7s 7h]
+ArranAJFJ: raises $6 to $7
+DEDTAWIWASA: folds 
+Xerophyten: calls $7
+MrBarrett82: calls $7
+gaiggibeliin: calls $7
+elgeorginho: folds 
+*** FLOP *** [6c 9h Kh]
+ArranAJFJ: checks 
+Xerophyten: checks 
+MrBarrett82: checks 
+gaiggibeliin: checks 
+*** TURN *** [6c 9h Kh] [Ac]
+ArranAJFJ: checks 
+Xerophyten: checks 
+MrBarrett82: bets $33
+gaiggibeliin: folds 
+ArranAJFJ: folds 
+Xerophyten: folds 
+Uncalled bet ($33) returned to MrBarrett82
+MrBarrett82 collected $33.25 from pot
+MrBarrett82: doesn't show hand 
+*** SUMMARY ***
+Total pot $35 | Rake $1.75 
+Board [6c 9h Kh Ac]
+Seat 1: MrBarrett82 collected ($33.25)
+Seat 2: gaiggibeliin folded on the Turn
+Seat 3: elgeorginho (button blind) folded before Flop
+Seat 4: ArranAJFJ folded on the Turn
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 6: Xerophyten folded on the Turn
+
+
+
+PokerStars Hand #196225089611:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:48:00 EET [2019/01/25 20:48:00 ET]
+Table 'Gyptis' 6-max Seat #6 is the button
+Seat 1: MrBarrett82 ($158.41 in chips) 
+Seat 2: gaiggibeliin ($142 in chips) 
+Seat 3: elgeorginho ($178.32 in chips) 
+Seat 4: ArranAJFJ ($365.49 in chips) 
+Seat 5: DEDTAWIWASA ($218 in chips) 
+Seat 6: Xerophyten ($301.63 in chips) 
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+elgeorginho: posts the ante $1
+ArranAJFJ: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+Xerophyten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Th Ks]
+MrBarrett82: calls $1
+gaiggibeliin: folds 
+elgeorginho: calls $1
+ArranAJFJ: folds 
+DEDTAWIWASA: folds 
+Xerophyten: checks 
+*** FLOP *** [7s Kd 6d]
+MrBarrett82: checks 
+elgeorginho: bets $5
+Xerophyten: calls $5
+MrBarrett82: folds 
+*** TURN *** [7s Kd 6d] [9d]
+elgeorginho: checks 
+Xerophyten: checks 
+*** RIVER *** [7s Kd 6d 9d] [Ah]
+elgeorginho: checks 
+Xerophyten: checks 
+*** SHOW DOWN ***
+elgeorginho: shows [Td Kh] (a pair of Kings)
+Xerophyten: shows [6h Kc] (two pair, Kings and Sixes)
+Xerophyten collected $18.05 from pot
+*** SUMMARY ***
+Total pot $19 | Rake $0.95 
+Board [7s Kd 6d 9d Ah]
+Seat 1: MrBarrett82 folded on the Flop
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: elgeorginho showed [Td Kh] and lost with a pair of Kings
+Seat 4: ArranAJFJ folded before Flop (didn't bet)
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 6: Xerophyten (button blind) showed [6h Kc] and won ($18.05) with two pair, Kings and Sixes
+
+
+
+PokerStars Hand #196225115993:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:49:05 EET [2019/01/25 20:49:05 ET]
+Table 'Gyptis' 6-max Seat #1 is the button
+Seat 1: MrBarrett82 ($156.41 in chips) 
+Seat 2: gaiggibeliin ($141 in chips) 
+Seat 3: elgeorginho ($171.32 in chips) 
+Seat 4: ArranAJFJ ($364.49 in chips) 
+Seat 5: DEDTAWIWASA ($217 in chips) 
+Seat 6: Xerophyten ($312.68 in chips) 
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+elgeorginho: posts the ante $1
+ArranAJFJ: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7d 9s]
+gaiggibeliin: folds 
+elgeorginho: folds 
+ArranAJFJ: folds 
+DEDTAWIWASA: folds 
+Xerophyten: calls $1
+MrBarrett82: raises $8 to $9
+Xerophyten: folds 
+Uncalled bet ($8) returned to MrBarrett82
+MrBarrett82 collected $8 from pot
+MrBarrett82: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0 
+Seat 1: MrBarrett82 (button blind) collected ($8)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: elgeorginho folded before Flop (didn't bet)
+Seat 4: ArranAJFJ folded before Flop (didn't bet)
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 6: Xerophyten folded before Flop
+
+
+
+PokerStars Hand #196225138037:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:50:00 EET [2019/01/25 20:50:00 ET]
+Table 'Gyptis' 6-max Seat #2 is the button
+Seat 1: MrBarrett82 ($162.41 in chips) 
+Seat 2: gaiggibeliin ($140 in chips) 
+Seat 3: elgeorginho ($170.32 in chips) 
+Seat 4: ArranAJFJ ($363.49 in chips) 
+Seat 5: DEDTAWIWASA ($216 in chips) 
+Seat 6: Xerophyten ($310.68 in chips) 
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+elgeorginho: posts the ante $1
+ArranAJFJ: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6h Td]
+elgeorginho: raises $2 to $3
+ArranAJFJ: folds 
+DEDTAWIWASA: folds 
+Xerophyten: calls $3
+MrBarrett82: calls $3
+gaiggibeliin: calls $2
+*** FLOP *** [Kc Tc 8d]
+elgeorginho: checks 
+Xerophyten: bets $8.55
+MrBarrett82: calls $8.55
+gaiggibeliin: folds 
+elgeorginho: folds 
+*** TURN *** [Kc Tc 8d] [Jc]
+Xerophyten: checks 
+MrBarrett82: bets $24
+Xerophyten: calls $24
+*** RIVER *** [Kc Tc 8d Jc] [Th]
+Xerophyten: checks 
+MrBarrett82: checks 
+*** SHOW DOWN ***
+Xerophyten: shows [Ac Kh] (two pair, Kings and Tens)
+MrBarrett82: mucks hand 
+Xerophyten collected $80.35 from pot
+*** SUMMARY ***
+Total pot $83.10 | Rake $2.75 
+Board [Kc Tc 8d Jc Th]
+Seat 1: MrBarrett82 mucked [Qh Jd]
+Seat 2: gaiggibeliin (button blind) folded on the Flop
+Seat 3: elgeorginho folded on the Flop
+Seat 4: ArranAJFJ folded before Flop (didn't bet)
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 6: Xerophyten showed [Ac Kh] and won ($80.35) with two pair, Kings and Tens
+
+
+
+PokerStars Hand #196225166239:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:51:10 EET [2019/01/25 20:51:10 ET]
+Table 'Gyptis' 6-max Seat #3 is the button
+Seat 1: MrBarrett82 ($125.86 in chips) 
+Seat 2: gaiggibeliin ($136 in chips) 
+Seat 3: elgeorginho ($166.32 in chips) 
+Seat 4: ArranAJFJ ($362.49 in chips) 
+Seat 5: DEDTAWIWASA ($215 in chips) 
+Seat 6: Xerophyten ($354.48 in chips) 
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+elgeorginho: posts the ante $1
+ArranAJFJ: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+elgeorginho: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9d Jh]
+ArranAJFJ: folds 
+DEDTAWIWASA: folds 
+Xerophyten: raises $8 to $9
+MrBarrett82: folds 
+gaiggibeliin: folds 
+elgeorginho: raises $156.32 to $165.32 and is all-in
+Xerophyten: folds 
+Uncalled bet ($156.32) returned to elgeorginho
+elgeorginho collected $24 from pot
+elgeorginho: doesn't show hand 
+*** SUMMARY ***
+Total pot $24 | Rake $0 
+Seat 1: MrBarrett82 folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: elgeorginho (button blind) collected ($24)
+Seat 4: ArranAJFJ folded before Flop (didn't bet)
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 6: Xerophyten folded before Flop
+
+
+
+PokerStars Hand #196225190701:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:52:11 EET [2019/01/25 20:52:11 ET]
+Table 'Gyptis' 6-max Seat #4 is the button
+Seat 1: MrBarrett82 ($124.86 in chips) 
+Seat 2: gaiggibeliin ($135 in chips) 
+Seat 3: elgeorginho ($180.32 in chips) 
+Seat 4: ArranAJFJ ($361.49 in chips) 
+Seat 5: DEDTAWIWASA ($214 in chips) 
+Seat 6: Xerophyten ($344.48 in chips) 
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+elgeorginho: posts the ante $1
+ArranAJFJ: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+ArranAJFJ: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qc 9d]
+DEDTAWIWASA: folds 
+Xerophyten: calls $1
+MrBarrett82: calls $1
+gaiggibeliin: folds 
+elgeorginho: folds 
+ArranAJFJ: checks 
+*** FLOP *** [Jd Ac Kh]
+Xerophyten: checks 
+MrBarrett82: checks 
+ArranAJFJ: checks 
+*** TURN *** [Jd Ac Kh] [9h]
+Xerophyten: checks 
+MrBarrett82: checks 
+ArranAJFJ: checks 
+*** RIVER *** [Jd Ac Kh 9h] [Td]
+Xerophyten: bets $4.28
+MrBarrett82: folds 
+ArranAJFJ: folds 
+Uncalled bet ($4.28) returned to Xerophyten
+Xerophyten collected $8.55 from pot
+*** SUMMARY ***
+Total pot $9 | Rake $0.45 
+Board [Jd Ac Kh 9h Td]
+Seat 1: MrBarrett82 folded on the River
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: elgeorginho folded before Flop (didn't bet)
+Seat 4: ArranAJFJ (button blind) folded on the River
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 6: Xerophyten collected ($8.55)
+
+
+
+PokerStars Hand #196225222779:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:53:31 EET [2019/01/25 20:53:31 ET]
+Table 'Gyptis' 6-max Seat #5 is the button
+Seat 1: MrBarrett82 ($122.86 in chips) 
+Seat 2: gaiggibeliin ($150 in chips) 
+Seat 3: elgeorginho ($179.32 in chips) 
+Seat 4: ArranAJFJ ($359.49 in chips) 
+Seat 5: DEDTAWIWASA ($213 in chips) 
+Seat 6: Xerophyten ($351.03 in chips) 
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+elgeorginho: posts the ante $1
+ArranAJFJ: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+DEDTAWIWASA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Th 8d]
+Xerophyten: calls $1
+MrBarrett82: folds 
+gaiggibeliin: folds 
+elgeorginho: folds 
+ArranAJFJ: folds 
+DEDTAWIWASA: checks 
+*** FLOP *** [8s Qs Kc]
+Xerophyten: bets $3.80
+DEDTAWIWASA: calls $3.80
+*** TURN *** [8s Qs Kc] [Ad]
+Xerophyten: bets $7.41
+DEDTAWIWASA: calls $7.41
+*** RIVER *** [8s Qs Kc Ad] [6s]
+Xerophyten: checks 
+DEDTAWIWASA: checks 
+*** SHOW DOWN ***
+Xerophyten: shows [Jd Ah] (a pair of Aces)
+DEDTAWIWASA: shows [8c As] (two pair, Aces and Eights)
+DEDTAWIWASA collected $28.90 from pot
+*** SUMMARY ***
+Total pot $30.42 | Rake $1.52 
+Board [8s Qs Kc Ad 6s]
+Seat 1: MrBarrett82 folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: elgeorginho folded before Flop (didn't bet)
+Seat 4: ArranAJFJ folded before Flop (didn't bet)
+Seat 5: DEDTAWIWASA (button blind) showed [8c As] and won ($28.90) with two pair, Aces and Eights
+Seat 6: Xerophyten showed [Jd Ah] and lost with a pair of Aces
+
+
+
+PokerStars Hand #196225236025:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:54:04 EET [2019/01/25 20:54:04 ET]
+Table 'Gyptis' 6-max Seat #6 is the button
+Seat 1: MrBarrett82 ($121.86 in chips) 
+Seat 2: gaiggibeliin ($149 in chips) 
+Seat 3: elgeorginho ($178.32 in chips) 
+Seat 4: ArranAJFJ ($358.49 in chips) 
+Seat 5: DEDTAWIWASA ($228.69 in chips) 
+Seat 6: Xerophyten ($337.82 in chips) 
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+elgeorginho: posts the ante $1
+ArranAJFJ: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+Xerophyten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kc Jd]
+MrBarrett82: calls $1
+gaiggibeliin: calls $1
+elgeorginho: folds 
+ArranAJFJ: raises $6 to $7
+DEDTAWIWASA: calls $7
+Xerophyten: folds 
+MrBarrett82: calls $6
+gaiggibeliin: calls $6
+*** FLOP *** [8d 7s Qd]
+MrBarrett82: checks 
+gaiggibeliin: checks 
+ArranAJFJ: checks 
+DEDTAWIWASA: bets $28
+MrBarrett82: folds 
+gaiggibeliin: folds 
+ArranAJFJ: calls $28
+*** TURN *** [8d 7s Qd] [Td]
+ArranAJFJ: checks 
+DEDTAWIWASA: checks 
+*** RIVER *** [8d 7s Qd Td] [Jc]
+ArranAJFJ: bets $50
+DEDTAWIWASA: folds 
+Uncalled bet ($50) returned to ArranAJFJ
+ArranAJFJ collected $88.25 from pot
+ArranAJFJ: doesn't show hand 
+*** SUMMARY ***
+Total pot $91 | Rake $2.75 
+Board [8d 7s Qd Td Jc]
+Seat 1: MrBarrett82 folded on the Flop
+Seat 2: gaiggibeliin folded on the Flop
+Seat 3: elgeorginho folded before Flop (didn't bet)
+Seat 4: ArranAJFJ collected ($88.25)
+Seat 5: DEDTAWIWASA folded on the River
+Seat 6: Xerophyten (button blind) folded before Flop
+
+
+
+PokerStars Hand #196225271831:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:55:38 EET [2019/01/25 20:55:38 ET]
+Table 'Gyptis' 6-max Seat #1 is the button
+Seat 1: MrBarrett82 ($113.86 in chips) 
+Seat 2: gaiggibeliin ($141 in chips) 
+Seat 3: elgeorginho ($177.32 in chips) 
+Seat 4: ArranAJFJ ($410.74 in chips) 
+Seat 5: DEDTAWIWASA ($192.69 in chips) 
+Seat 6: Xerophyten ($335.82 in chips) 
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+elgeorginho: posts the ante $1
+ArranAJFJ: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jd 8c]
+gaiggibeliin: folds 
+elgeorginho: folds 
+ArranAJFJ: folds 
+DEDTAWIWASA: folds 
+Xerophyten: calls $1
+MrBarrett82: checks 
+*** FLOP *** [Qc 7h 6c]
+Xerophyten: checks 
+MrBarrett82: checks 
+*** TURN *** [Qc 7h 6c] [7c]
+Xerophyten: bets $3.80
+MrBarrett82: calls $3.80
+*** RIVER *** [Qc 7h 6c 7c] [Qs]
+Xerophyten: checks 
+MrBarrett82: checks 
+*** SHOW DOWN ***
+Xerophyten: shows [8d Ac] (two pair, Queens and Sevens)
+MrBarrett82: mucks hand 
+Xerophyten collected $14.82 from pot
+*** SUMMARY ***
+Total pot $15.60 | Rake $0.78 
+Board [Qc 7h 6c 7c Qs]
+Seat 1: MrBarrett82 (button blind) mucked [Kh Jc]
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: elgeorginho folded before Flop (didn't bet)
+Seat 4: ArranAJFJ folded before Flop (didn't bet)
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 6: Xerophyten showed [8d Ac] and won ($14.82) with two pair, Queens and Sevens
+
+
+
+PokerStars Hand #196225294224:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:56:43 EET [2019/01/25 20:56:43 ET]
+Table 'Gyptis' 6-max Seat #2 is the button
+Seat 1: MrBarrett82 ($108.06 in chips) 
+Seat 2: gaiggibeliin ($140 in chips) 
+Seat 3: elgeorginho ($176.32 in chips) 
+Seat 4: ArranAJFJ ($409.74 in chips) 
+Seat 5: DEDTAWIWASA ($191.69 in chips) 
+Seat 6: Xerophyten ($344.84 in chips) 
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+elgeorginho: posts the ante $1
+ArranAJFJ: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8c 9s]
+elgeorginho: folds 
+ArranAJFJ: folds 
+DEDTAWIWASA: folds 
+Xerophyten: raises $5 to $6
+MrBarrett82: calls $6
+gaiggibeliin: calls $5
+*** FLOP *** [Ad 7h Kc]
+Xerophyten: bets $11.40
+MrBarrett82: folds 
+gaiggibeliin: folds 
+Uncalled bet ($11.40) returned to Xerophyten
+Xerophyten collected $22.80 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $1.20 
+Board [Ad 7h Kc]
+Seat 1: MrBarrett82 folded on the Flop
+Seat 2: gaiggibeliin (button blind) folded on the Flop
+Seat 3: elgeorginho folded before Flop (didn't bet)
+Seat 4: ArranAJFJ folded before Flop (didn't bet)
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 6: Xerophyten collected ($22.80)
+
+
+
+PokerStars Hand #196225310875:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:57:32 EET [2019/01/25 20:57:32 ET]
+Table 'Gyptis' 6-max Seat #3 is the button
+Seat 1: MrBarrett82 ($101.06 in chips) 
+Seat 2: gaiggibeliin ($133 in chips) 
+Seat 3: elgeorginho ($175.32 in chips) 
+Seat 4: ArranAJFJ ($408.74 in chips) 
+Seat 5: DEDTAWIWASA ($190.69 in chips) 
+Seat 6: Xerophyten ($360.64 in chips) 
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+elgeorginho: posts the ante $1
+ArranAJFJ: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+elgeorginho: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8s 9s]
+ArranAJFJ: folds 
+DEDTAWIWASA: folds 
+Xerophyten: folds 
+MrBarrett82: folds 
+gaiggibeliin: raises $9 to $10
+elgeorginho: calls $9
+*** FLOP *** [7h 7s 8c]
+gaiggibeliin: checks 
+elgeorginho: checks 
+*** TURN *** [7h 7s 8c] [Ac]
+gaiggibeliin: bets $9
+elgeorginho: calls $9
+*** RIVER *** [7h 7s 8c Ac] [8d]
+gaiggibeliin: bets $28.01
+elgeorginho: calls $28.01
+*** SHOW DOWN ***
+gaiggibeliin: shows [8s 9s] (a full house, Eights full of Sevens)
+elgeorginho: mucks hand 
+gaiggibeliin collected $97.27 from pot
+*** SUMMARY ***
+Total pot $100.02 | Rake $2.75 
+Board [7h 7s 8c Ac 8d]
+Seat 1: MrBarrett82 folded before Flop (didn't bet)
+Seat 2: gaiggibeliin showed [8s 9s] and won ($97.27) with a full house, Eights full of Sevens
+Seat 3: elgeorginho (button blind) mucked [Ah Td]
+Seat 4: ArranAJFJ folded before Flop (didn't bet)
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196225331267:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:58:31 EET [2019/01/25 20:58:31 ET]
+Table 'Gyptis' 6-max Seat #4 is the button
+Seat 1: MrBarrett82 ($100.06 in chips) 
+Seat 2: gaiggibeliin ($182.26 in chips) 
+Seat 3: elgeorginho ($127.31 in chips) 
+Seat 4: ArranAJFJ ($407.74 in chips) 
+Seat 5: DEDTAWIWASA ($189.69 in chips) 
+Seat 6: Xerophyten ($359.64 in chips) 
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+elgeorginho: posts the ante $1
+ArranAJFJ: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+ArranAJFJ: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Td 6d]
+DEDTAWIWASA: folds 
+Xerophyten: calls $1
+MrBarrett82: folds 
+gaiggibeliin: folds 
+elgeorginho: calls $1
+ArranAJFJ: raises $9 to $10
+Xerophyten: folds 
+elgeorginho: calls $9
+*** FLOP *** [Ah 9s 8c]
+elgeorginho: checks 
+ArranAJFJ: checks 
+*** TURN *** [Ah 9s 8c] [Th]
+elgeorginho: checks 
+ArranAJFJ: checks 
+*** RIVER *** [Ah 9s 8c Th] [Qs]
+elgeorginho: checks 
+ArranAJFJ: bets $7
+elgeorginho: folds 
+Uncalled bet ($7) returned to ArranAJFJ
+ArranAJFJ collected $25.65 from pot
+ArranAJFJ: doesn't show hand 
+*** SUMMARY ***
+Total pot $27 | Rake $1.35 
+Board [Ah 9s 8c Th Qs]
+Seat 1: MrBarrett82 folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: elgeorginho folded on the River
+Seat 4: ArranAJFJ (button blind) collected ($25.65)
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 6: Xerophyten folded before Flop
+
+
+
+PokerStars Hand #196225347135:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 3:59:18 EET [2019/01/25 20:59:18 ET]
+Table 'Gyptis' 6-max Seat #5 is the button
+Seat 1: MrBarrett82 ($150 in chips) 
+Seat 2: gaiggibeliin ($181.26 in chips) 
+Seat 3: elgeorginho ($116.31 in chips) 
+Seat 4: ArranAJFJ ($422.39 in chips) 
+Seat 5: DEDTAWIWASA ($188.69 in chips) 
+Seat 6: Xerophyten ($357.64 in chips) 
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+elgeorginho: posts the ante $1
+ArranAJFJ: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+DEDTAWIWASA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Td Kd]
+Xerophyten: calls $1
+MrBarrett82: calls $1
+gaiggibeliin: calls $1
+elgeorginho: folds 
+ArranAJFJ: folds 
+DEDTAWIWASA: checks 
+*** FLOP *** [7s Qc 6c]
+Xerophyten: checks 
+MrBarrett82: checks 
+gaiggibeliin: checks 
+DEDTAWIWASA: checks 
+*** TURN *** [7s Qc 6c] [Ah]
+Xerophyten: bets $8
+MrBarrett82: calls $8
+gaiggibeliin: folds 
+DEDTAWIWASA: folds 
+*** RIVER *** [7s Qc 6c Ah] [6d]
+Xerophyten: checks 
+MrBarrett82: checks 
+*** SHOW DOWN ***
+Xerophyten: shows [Ad 7d] (two pair, Aces and Sevens)
+MrBarrett82: mucks hand 
+Xerophyten collected $24.70 from pot
+*** SUMMARY ***
+Total pot $26 | Rake $1.30 
+Board [7s Qc 6c Ah 6d]
+Seat 1: MrBarrett82 mucked [8c Jc]
+Seat 2: gaiggibeliin folded on the Turn
+Seat 3: elgeorginho folded before Flop (didn't bet)
+Seat 4: ArranAJFJ folded before Flop (didn't bet)
+Seat 5: DEDTAWIWASA (button blind) folded on the Turn
+Seat 6: Xerophyten showed [Ad 7d] and won ($24.70) with two pair, Aces and Sevens
+
+
+
+PokerStars Hand #196225368023:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 4:00:19 EET [2019/01/25 21:00:19 ET]
+Table 'Gyptis' 6-max Seat #6 is the button
+Seat 1: MrBarrett82 ($140 in chips) 
+Seat 2: gaiggibeliin ($179.26 in chips) 
+Seat 3: elgeorginho ($115.31 in chips) 
+Seat 4: ArranAJFJ ($421.39 in chips) 
+Seat 5: DEDTAWIWASA ($186.69 in chips) 
+Seat 6: Xerophyten ($372.34 in chips) 
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+elgeorginho: posts the ante $1
+ArranAJFJ: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+Xerophyten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7s Ah]
+MrBarrett82: folds 
+gaiggibeliin: folds 
+elgeorginho: folds 
+ArranAJFJ: folds 
+DEDTAWIWASA: folds 
+Uncalled bet ($1) returned to Xerophyten
+Xerophyten collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: MrBarrett82 folded before Flop (didn't bet)
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: elgeorginho folded before Flop (didn't bet)
+Seat 4: ArranAJFJ folded before Flop (didn't bet)
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 6: Xerophyten (button blind) collected ($6)
+
+
+
+PokerStars Hand #196225377009:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 4:00:44 EET [2019/01/25 21:00:44 ET]
+Table 'Gyptis' 6-max Seat #1 is the button
+Seat 1: MrBarrett82 ($139 in chips) 
+Seat 2: gaiggibeliin ($178.26 in chips) 
+Seat 3: elgeorginho ($114.31 in chips) 
+Seat 4: ArranAJFJ ($420.39 in chips) 
+Seat 5: DEDTAWIWASA ($185.69 in chips) 
+Seat 6: Xerophyten ($377.34 in chips) 
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+elgeorginho: posts the ante $1
+ArranAJFJ: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+MrBarrett82: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6d 7h]
+gaiggibeliin: folds 
+elgeorginho: folds 
+ArranAJFJ: folds 
+DEDTAWIWASA: folds 
+Xerophyten: calls $1
+MrBarrett82: checks 
+*** FLOP *** [Tc 6s As]
+Xerophyten: bets $3.80
+MrBarrett82: folds 
+Uncalled bet ($3.80) returned to Xerophyten
+Xerophyten collected $7.60 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [Tc 6s As]
+Seat 1: MrBarrett82 (button blind) folded on the Flop
+Seat 2: gaiggibeliin folded before Flop (didn't bet)
+Seat 3: elgeorginho folded before Flop (didn't bet)
+Seat 4: ArranAJFJ folded before Flop (didn't bet)
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 6: Xerophyten collected ($7.60)
+
+
+
+PokerStars Hand #196225389167:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 4:01:17 EET [2019/01/25 21:01:17 ET]
+Table 'Gyptis' 6-max Seat #2 is the button
+Seat 1: MrBarrett82 ($137 in chips) 
+Seat 2: gaiggibeliin ($177.26 in chips) 
+Seat 3: elgeorginho ($113.31 in chips) 
+Seat 4: ArranAJFJ ($419.39 in chips) 
+Seat 5: DEDTAWIWASA ($184.69 in chips) 
+Seat 6: Xerophyten ($382.94 in chips) 
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+elgeorginho: posts the ante $1
+ArranAJFJ: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7h Kd]
+elgeorginho: folds 
+ArranAJFJ: folds 
+DEDTAWIWASA: raises $8 to $9
+Xerophyten: folds 
+MrBarrett82: calls $9
+gaiggibeliin: folds 
+*** FLOP *** [8c 7d Jd]
+DEDTAWIWASA: checks 
+MrBarrett82: bets $16
+DEDTAWIWASA: folds 
+Uncalled bet ($16) returned to MrBarrett82
+MrBarrett82 collected $23.75 from pot
+MrBarrett82: doesn't show hand 
+*** SUMMARY ***
+Total pot $25 | Rake $1.25 
+Board [8c 7d Jd]
+Seat 1: MrBarrett82 collected ($23.75)
+Seat 2: gaiggibeliin (button blind) folded before Flop
+Seat 3: elgeorginho folded before Flop (didn't bet)
+Seat 4: ArranAJFJ folded before Flop (didn't bet)
+Seat 5: DEDTAWIWASA folded on the Flop
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196225414171:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 4:02:22 EET [2019/01/25 21:02:22 ET]
+Table 'Gyptis' 6-max Seat #3 is the button
+Seat 1: MrBarrett82 ($150.75 in chips) 
+Seat 2: gaiggibeliin ($175.26 in chips) 
+Seat 3: elgeorginho ($112.31 in chips) 
+Seat 5: DEDTAWIWASA ($174.69 in chips) 
+Seat 6: Xerophyten ($381.94 in chips) 
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+elgeorginho: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+elgeorginho: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9h Ts]
+DEDTAWIWASA: folds 
+Xerophyten: folds 
+MrBarrett82: raises $7 to $8
+gaiggibeliin: calls $8
+elgeorginho: calls $7
+*** FLOP *** [Qs Js Jd]
+MrBarrett82: checks 
+gaiggibeliin: checks 
+elgeorginho: bets $16
+MrBarrett82: folds 
+gaiggibeliin: calls $16
+*** TURN *** [Qs Js Jd] [8c]
+gaiggibeliin: checks 
+elgeorginho: bets $45
+ArranAJFJ leaves the table
+gaiggibeliin: raises $99.33 to $144.33
+elgeorginho: calls $42.31 and is all-in
+Uncalled bet ($57.02) returned to gaiggibeliin
+*** RIVER *** [Qs Js Jd 8c] [Jc]
+*** SHOW DOWN ***
+gaiggibeliin: shows [9h Ts] (a straight, Eight to Queen)
+elgeorginho: shows [Kh Jh] (four of a kind, Jacks)
+elgeorginho collected $232.87 from pot
+*** SUMMARY ***
+Total pot $235.62 | Rake $2.75 
+Board [Qs Js Jd 8c Jc]
+Seat 1: MrBarrett82 folded on the Flop
+Seat 2: gaiggibeliin showed [9h Ts] and lost with a straight, Eight to Queen
+Seat 3: elgeorginho (button blind) showed [Kh Jh] and won ($232.87) with four of a kind, Jacks
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 6: Xerophyten folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196225448207:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 4:03:50 EET [2019/01/25 21:03:50 ET]
+Table 'Gyptis' 6-max Seat #5 is the button
+Seat 1: MrBarrett82 ($141.75 in chips) 
+Seat 2: gaiggibeliin ($150 in chips) 
+Seat 3: elgeorginho ($232.87 in chips) 
+Seat 5: DEDTAWIWASA ($173.69 in chips) 
+Seat 6: Xerophyten ($380.94 in chips) 
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+elgeorginho: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+DEDTAWIWASA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ah Kd]
+Xerophyten: calls $1
+MrBarrett82: folds 
+gaiggibeliin: raises $10 to $11
+elgeorginho: calls $11
+DEDTAWIWASA: folds 
+Xerophyten: calls $10
+*** FLOP *** [6c 7s 7c]
+Xerophyten: checks 
+gaiggibeliin: bets $24.82
+elgeorginho: folds 
+Xerophyten: calls $24.82
+*** TURN *** [6c 7s 7c] [Qd]
+Xerophyten: checks 
+gaiggibeliin has timed out
+gaiggibeliin: checks 
+*** RIVER *** [6c 7s 7c Qd] [9c]
+Xerophyten: checks 
+gaiggibeliin: checks 
+*** SHOW DOWN ***
+Xerophyten: shows [Qs 6s] (two pair, Queens and Sevens)
+gaiggibeliin: mucks hand 
+Xerophyten collected $85.89 from pot
+*** SUMMARY ***
+Total pot $88.64 | Rake $2.75 
+Board [6c 7s 7c Qd 9c]
+Seat 1: MrBarrett82 folded before Flop (didn't bet)
+Seat 2: gaiggibeliin mucked [Ah Kd]
+Seat 3: elgeorginho folded on the Flop
+Seat 5: DEDTAWIWASA (button blind) folded before Flop
+Seat 6: Xerophyten showed [Qs 6s] and won ($85.89) with two pair, Queens and Sevens
+
+
+
+PokerStars Hand #196225474349:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/26 4:04:58 EET [2019/01/25 21:04:58 ET]
+Table 'Gyptis' 6-max Seat #6 is the button
+Seat 1: MrBarrett82 ($140.75 in chips) 
+Seat 2: gaiggibeliin ($113.18 in chips) 
+Seat 3: elgeorginho ($220.87 in chips) 
+Seat 5: DEDTAWIWASA ($171.69 in chips) 
+Seat 6: Xerophyten ($430.01 in chips) 
+MrBarrett82: posts the ante $1
+gaiggibeliin: posts the ante $1
+elgeorginho: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Xerophyten: posts the ante $1
+Xerophyten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7d 9c]
+MrBarrett82: calls $1
+gaiggibeliin: calls $1
+elgeorginho: calls $1
+DEDTAWIWASA: raises $17 to $18
+Xerophyten: folds 
+MrBarrett82: raises $121.75 to $139.75 and is all-in
+gaiggibeliin: folds 
+elgeorginho: folds 
+DEDTAWIWASA: calls $121.75
+*** FLOP *** [Ac Kh 7s]
+*** TURN *** [Ac Kh 7s] [8s]
+*** RIVER *** [Ac Kh 7s 8s] [7c]
+*** SHOW DOWN ***
+MrBarrett82: shows [Ks Kc] (a full house, Kings full of Sevens)
+DEDTAWIWASA: shows [Kd As] (two pair, Aces and Kings)
+MrBarrett82 collected $284.75 from pot
+*** SUMMARY ***
+Total pot $287.50 | Rake $2.75 
+Board [Ac Kh 7s 8s 7c]
+Seat 1: MrBarrett82 showed [Ks Kc] and won ($284.75) with a full house, Kings full of Sevens
+Seat 2: gaiggibeliin folded before Flop
+Seat 3: elgeorginho folded before Flop
+Seat 5: DEDTAWIWASA showed [Kd As] and lost with two pair, Aces and Kings
+Seat 6: Xerophyten (button blind) folded before Flop
+
+
+

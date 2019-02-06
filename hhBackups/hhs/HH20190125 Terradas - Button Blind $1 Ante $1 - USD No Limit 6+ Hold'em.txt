@@ -1,0 +1,1398 @@
+﻿PokerStars Hand #196213145400:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 22:37:22 EET [2019/01/25 15:37:22 ET]
+Table 'Terradas' 6-max Seat #6 is the button
+Seat 1: lalala14388 ($196.37 in chips) 
+Seat 2: Zihuatanejo3 ($149.30 in chips) 
+Seat 3: gaiggibeliin ($150 in chips) 
+Seat 4: Jayhunt1987 ($629.67 in chips) 
+Seat 5: DEDTAWIWASA ($151.57 in chips) 
+Seat 6: youngfellaa ($98 in chips) 
+lalala14388: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Jayhunt1987: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+youngfellaa: posts the ante $1
+youngfellaa: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6s Qh]
+lalala14388: folds 
+Zihuatanejo3: raises $5 to $6
+gaiggibeliin: folds 
+Jayhunt1987: calls $6
+DEDTAWIWASA: calls $6
+youngfellaa: raises $91 to $97 and is all-in
+Zihuatanejo3: raises $51.30 to $148.30 and is all-in
+Jayhunt1987: folds 
+DEDTAWIWASA: folds 
+Uncalled bet ($51.30) returned to Zihuatanejo3
+*** FLOP *** [8h Qc 9c]
+*** TURN *** [8h Qc 9c] [9s]
+*** RIVER *** [8h Qc 9c 9s] [7c]
+*** SHOW DOWN ***
+Zihuatanejo3: shows [As Kh] (a pair of Nines)
+youngfellaa: shows [Kd Qd] (two pair, Queens and Nines)
+youngfellaa collected $209.25 from pot
+*** SUMMARY ***
+Total pot $212 | Rake $2.75 
+Board [8h Qc 9c 9s 7c]
+Seat 1: lalala14388 folded before Flop (didn't bet)
+Seat 2: Zihuatanejo3 showed [As Kh] and lost with a pair of Nines
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: Jayhunt1987 folded before Flop
+Seat 5: DEDTAWIWASA folded before Flop
+Seat 6: youngfellaa (button blind) showed [Kd Qd] and won ($209.25) with two pair, Queens and Nines
+
+
+
+PokerStars Hand #196213170406:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 22:37:54 EET [2019/01/25 15:37:54 ET]
+Table 'Terradas' 6-max Seat #1 is the button
+Seat 1: lalala14388 ($195.37 in chips) 
+Seat 2: Zihuatanejo3 ($51.30 in chips) 
+Seat 3: gaiggibeliin ($149 in chips) 
+Seat 4: Jayhunt1987 ($622.67 in chips) 
+Seat 5: DEDTAWIWASA ($150 in chips) 
+Seat 6: youngfellaa ($209.25 in chips) 
+lalala14388: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Jayhunt1987: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+youngfellaa: posts the ante $1
+lalala14388: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kc Jd]
+Zihuatanejo3: folds 
+gaiggibeliin: calls $1
+Jayhunt1987: folds 
+DEDTAWIWASA: folds 
+youngfellaa: calls $1
+lalala14388: checks 
+*** FLOP *** [Tc 6s 7h]
+gaiggibeliin: checks 
+youngfellaa: bets $8.55
+lalala14388: calls $8.55
+gaiggibeliin: folds 
+*** TURN *** [Tc 6s 7h] [Ah]
+youngfellaa: checks 
+lalala14388: checks 
+*** RIVER *** [Tc 6s 7h Ah] [Qd]
+youngfellaa: checks 
+lalala14388: checks 
+*** SHOW DOWN ***
+youngfellaa: shows [6d 7d] (two pair, Sevens and Sixes)
+lalala14388: mucks hand 
+youngfellaa collected $24.80 from pot
+*** SUMMARY ***
+Total pot $26.10 | Rake $1.30 
+Board [Tc 6s 7h Ah Qd]
+Seat 1: lalala14388 (button blind) mucked [Th 9c]
+Seat 2: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin folded on the Flop
+Seat 4: Jayhunt1987 folded before Flop (didn't bet)
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 6: youngfellaa showed [6d 7d] and won ($24.80) with two pair, Sevens and Sixes
+
+
+
+PokerStars Hand #196213222988:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 22:39:01 EET [2019/01/25 15:39:01 ET]
+Table 'Terradas' 6-max Seat #2 is the button
+Seat 1: lalala14388 ($184.82 in chips) 
+Seat 2: Zihuatanejo3 ($110.30 in chips) 
+Seat 3: gaiggibeliin ($147 in chips) 
+Seat 4: Jayhunt1987 ($621.67 in chips) 
+Seat 5: DEDTAWIWASA ($150 in chips) 
+Seat 6: youngfellaa ($223.50 in chips) 
+lalala14388: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Jayhunt1987: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+youngfellaa: posts the ante $1
+Zihuatanejo3: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9d 6d]
+gaiggibeliin: folds 
+Jayhunt1987: folds 
+DEDTAWIWASA: calls $1
+youngfellaa: folds 
+lalala14388: calls $1
+Zihuatanejo3: raises $14 to $15
+DEDTAWIWASA: folds 
+lalala14388: folds 
+Uncalled bet ($14) returned to Zihuatanejo3
+Zihuatanejo3 collected $9 from pot
+*** SUMMARY ***
+Total pot $9 | Rake $0 
+Seat 1: lalala14388 folded before Flop
+Seat 2: Zihuatanejo3 (button blind) collected ($9)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: Jayhunt1987 folded before Flop (didn't bet)
+Seat 5: DEDTAWIWASA folded before Flop
+Seat 6: youngfellaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196213260208:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 22:39:47 EET [2019/01/25 15:39:47 ET]
+Table 'Terradas' 6-max Seat #3 is the button
+Seat 1: lalala14388 ($182.82 in chips) 
+Seat 2: Zihuatanejo3 ($117.30 in chips) 
+Seat 3: gaiggibeliin ($146 in chips) 
+Seat 4: Jayhunt1987 ($620.67 in chips) 
+Seat 5: DEDTAWIWASA ($150 in chips) 
+Seat 6: youngfellaa ($222.50 in chips) 
+lalala14388: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Jayhunt1987: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+youngfellaa: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kh 7c]
+Jayhunt1987: raises $4 to $5
+DEDTAWIWASA: folds 
+youngfellaa: calls $5
+lalala14388: folds 
+Zihuatanejo3: folds 
+gaiggibeliin: folds 
+*** FLOP *** [8c 9d 6c]
+Jayhunt1987: checks 
+youngfellaa: bets $16.15
+Jayhunt1987: calls $16.15
+*** TURN *** [8c 9d 6c] [As]
+Jayhunt1987: checks 
+youngfellaa: checks 
+*** RIVER *** [8c 9d 6c As] [6h]
+Jayhunt1987: checks 
+youngfellaa: bets $30
+Jayhunt1987: calls $30
+*** SHOW DOWN ***
+youngfellaa: shows [Jh Tc] (a pair of Sixes)
+Jayhunt1987: shows [Ac Kc] (two pair, Aces and Sixes)
+Jayhunt1987 collected $106.55 from pot
+*** SUMMARY ***
+Total pot $109.30 | Rake $2.75 
+Board [8c 9d 6c As 6h]
+Seat 1: lalala14388 folded before Flop (didn't bet)
+Seat 2: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin (button blind) folded before Flop
+Seat 4: Jayhunt1987 showed [Ac Kc] and won ($106.55) with two pair, Aces and Sixes
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 6: youngfellaa showed [Jh Tc] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #196213319076:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 22:41:02 EET [2019/01/25 15:41:02 ET]
+Table 'Terradas' 6-max Seat #4 is the button
+Seat 1: lalala14388 ($181.82 in chips) 
+Seat 2: Zihuatanejo3 ($116.30 in chips) 
+Seat 3: gaiggibeliin ($144 in chips) 
+Seat 4: Jayhunt1987 ($675.07 in chips) 
+Seat 5: DEDTAWIWASA ($150 in chips) 
+Seat 6: youngfellaa ($170.35 in chips) 
+lalala14388: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Jayhunt1987: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+youngfellaa: posts the ante $1
+Jayhunt1987: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9s Td]
+DEDTAWIWASA: calls $1
+youngfellaa: folds 
+lalala14388: calls $1
+Zihuatanejo3: calls $1
+gaiggibeliin: calls $1
+Jayhunt1987: checks 
+*** FLOP *** [6d Qd Js]
+DEDTAWIWASA: checks 
+lalala14388: checks 
+Zihuatanejo3: checks 
+gaiggibeliin: checks 
+Jayhunt1987: checks 
+*** TURN *** [6d Qd Js] [Qc]
+DEDTAWIWASA: checks 
+lalala14388: checks 
+Zihuatanejo3: checks 
+gaiggibeliin: bets $7
+Jayhunt1987: folds 
+DEDTAWIWASA: folds 
+lalala14388: folds 
+Zihuatanejo3: folds 
+Uncalled bet ($7) returned to gaiggibeliin
+gaiggibeliin collected $10.45 from pot
+*** SUMMARY ***
+Total pot $11 | Rake $0.55 
+Board [6d Qd Js Qc]
+Seat 1: lalala14388 folded on the Turn
+Seat 2: Zihuatanejo3 folded on the Turn
+Seat 3: gaiggibeliin collected ($10.45)
+Seat 4: Jayhunt1987 (button blind) folded on the Turn
+Seat 5: DEDTAWIWASA folded on the Turn
+Seat 6: youngfellaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196213402750:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 22:42:49 EET [2019/01/25 15:42:49 ET]
+Table 'Terradas' 6-max Seat #5 is the button
+Seat 1: lalala14388 ($179.82 in chips) 
+Seat 2: Zihuatanejo3 ($114.30 in chips) 
+Seat 3: gaiggibeliin ($152.45 in chips) 
+Seat 4: Jayhunt1987 ($673.07 in chips) 
+Seat 5: DEDTAWIWASA ($150 in chips) 
+Seat 6: youngfellaa ($169.35 in chips) 
+lalala14388: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Jayhunt1987: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+youngfellaa: posts the ante $1
+DEDTAWIWASA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qd Jh]
+youngfellaa: calls $1
+lalala14388: calls $1
+Zihuatanejo3: calls $1
+gaiggibeliin: calls $1
+Jayhunt1987: calls $1
+DEDTAWIWASA: checks 
+*** FLOP *** [Ac 9d Ks]
+youngfellaa: checks 
+lalala14388: checks 
+Zihuatanejo3: checks 
+gaiggibeliin: checks 
+Jayhunt1987: checks 
+DEDTAWIWASA: checks 
+*** TURN *** [Ac 9d Ks] [6h]
+youngfellaa: checks 
+lalala14388: checks 
+Zihuatanejo3: checks 
+gaiggibeliin: checks 
+Jayhunt1987: checks 
+DEDTAWIWASA: checks 
+*** RIVER *** [Ac 9d Ks 6h] [Qs]
+youngfellaa: checks 
+lalala14388: checks 
+Zihuatanejo3: bets $6
+gaiggibeliin: folds 
+Jayhunt1987: folds 
+DEDTAWIWASA: folds 
+youngfellaa: calls $6
+lalala14388: folds 
+*** SHOW DOWN ***
+Zihuatanejo3: shows [Tc Jc] (a straight, Ten to Ace)
+youngfellaa: mucks hand 
+Zihuatanejo3 collected $22.80 from pot
+*** SUMMARY ***
+Total pot $24 | Rake $1.20 
+Board [Ac 9d Ks 6h Qs]
+Seat 1: lalala14388 folded on the River
+Seat 2: Zihuatanejo3 showed [Tc Jc] and won ($22.80) with a straight, Ten to Ace
+Seat 3: gaiggibeliin folded on the River
+Seat 4: Jayhunt1987 folded on the River
+Seat 5: DEDTAWIWASA (button blind) folded on the River
+Seat 6: youngfellaa mucked [Qc Kh]
+
+
+
+PokerStars Hand #196213468445:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 22:44:13 EET [2019/01/25 15:44:13 ET]
+Table 'Terradas' 6-max Seat #6 is the button
+Seat 1: lalala14388 ($177.82 in chips) 
+Seat 2: Zihuatanejo3 ($129.10 in chips) 
+Seat 3: gaiggibeliin ($150.45 in chips) 
+Seat 4: Jayhunt1987 ($671.07 in chips) 
+Seat 5: DEDTAWIWASA ($150 in chips) 
+Seat 6: youngfellaa ($161.35 in chips) 
+lalala14388: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Jayhunt1987: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+youngfellaa: posts the ante $1
+youngfellaa: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9c Qc]
+lalala14388: calls $1
+Zihuatanejo3: folds 
+gaiggibeliin: calls $1
+Jayhunt1987: raises $8 to $9
+DEDTAWIWASA: folds 
+youngfellaa: folds 
+lalala14388: folds 
+gaiggibeliin: calls $8
+*** FLOP *** [8h Jd 8d]
+gaiggibeliin: checks 
+Jayhunt1987: bets $17
+gaiggibeliin: calls $17
+*** TURN *** [8h Jd 8d] [6d]
+gaiggibeliin: checks 
+Jayhunt1987: checks 
+*** RIVER *** [8h Jd 8d 6d] [7h]
+gaiggibeliin: bets $38.36
+Jayhunt1987: folds 
+Uncalled bet ($38.36) returned to gaiggibeliin
+gaiggibeliin collected $57.25 from pot
+*** SUMMARY ***
+Total pot $60 | Rake $2.75 
+Board [8h Jd 8d 6d 7h]
+Seat 1: lalala14388 folded before Flop
+Seat 2: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin collected ($57.25)
+Seat 4: Jayhunt1987 folded on the River
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 6: youngfellaa (button blind) folded before Flop
+
+
+
+PokerStars Hand #196213532918:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 22:45:35 EET [2019/01/25 15:45:35 ET]
+Table 'Terradas' 6-max Seat #1 is the button
+Seat 1: lalala14388 ($175.82 in chips) 
+Seat 2: Zihuatanejo3 ($128.10 in chips) 
+Seat 3: gaiggibeliin ($180.70 in chips) 
+Seat 4: Jayhunt1987 ($644.07 in chips) 
+Seat 5: DEDTAWIWASA ($150 in chips) 
+Seat 6: youngfellaa ($159.35 in chips) 
+lalala14388: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Jayhunt1987: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+youngfellaa: posts the ante $1
+lalala14388: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kh Th]
+Zihuatanejo3: folds 
+gaiggibeliin: calls $1
+Jayhunt1987: folds 
+DEDTAWIWASA: folds 
+youngfellaa: folds 
+lalala14388: checks 
+*** FLOP *** [9c 7c 6c]
+gaiggibeliin: checks 
+lalala14388: bets $8
+gaiggibeliin: folds 
+Uncalled bet ($8) returned to lalala14388
+lalala14388 collected $7.60 from pot
+lalala14388: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [9c 7c 6c]
+Seat 1: lalala14388 (button blind) collected ($7.60)
+Seat 2: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin folded on the Flop
+Seat 4: Jayhunt1987 folded before Flop (didn't bet)
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 6: youngfellaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196213559495:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 22:46:09 EET [2019/01/25 15:46:09 ET]
+Table 'Terradas' 6-max Seat #2 is the button
+Seat 1: lalala14388 ($181.42 in chips) 
+Seat 2: Zihuatanejo3 ($127.10 in chips) 
+Seat 3: gaiggibeliin ($178.70 in chips) 
+Seat 4: Jayhunt1987 ($643.07 in chips) 
+Seat 5: DEDTAWIWASA ($150 in chips) 
+Seat 6: youngfellaa ($158.35 in chips) 
+lalala14388: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Jayhunt1987: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+youngfellaa: posts the ante $1
+Zihuatanejo3: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Tc Ad]
+gaiggibeliin: folds 
+Jayhunt1987: raises $4 to $5
+DEDTAWIWASA: folds 
+youngfellaa: folds 
+lalala14388: folds 
+Zihuatanejo3: calls $4
+*** FLOP *** [9c As 9d]
+Jayhunt1987: checks 
+Zihuatanejo3: checks 
+*** TURN *** [9c As 9d] [8h]
+Jayhunt1987: bets $10
+Zihuatanejo3: folds 
+Uncalled bet ($10) returned to Jayhunt1987
+Jayhunt1987 collected $15.20 from pot
+Jayhunt1987: doesn't show hand 
+*** SUMMARY ***
+Total pot $16 | Rake $0.80 
+Board [9c As 9d 8h]
+Seat 1: lalala14388 folded before Flop (didn't bet)
+Seat 2: Zihuatanejo3 (button blind) folded on the Turn
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: Jayhunt1987 collected ($15.20)
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 6: youngfellaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196213607514:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 22:47:10 EET [2019/01/25 15:47:10 ET]
+Table 'Terradas' 6-max Seat #3 is the button
+Seat 1: lalala14388 ($180.42 in chips) 
+Seat 2: Zihuatanejo3 ($121.10 in chips) 
+Seat 3: gaiggibeliin ($177.70 in chips) 
+Seat 4: Jayhunt1987 ($652.27 in chips) 
+Seat 5: DEDTAWIWASA ($150 in chips) 
+Seat 6: youngfellaa ($157.35 in chips) 
+lalala14388: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Jayhunt1987: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+youngfellaa: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ts Ah]
+Jayhunt1987: calls $1
+DEDTAWIWASA: folds 
+youngfellaa: folds 
+lalala14388: raises $1 to $2
+Zihuatanejo3: calls $2
+gaiggibeliin: calls $1
+Jayhunt1987: calls $1
+*** FLOP *** [Jd Th 7c]
+Jayhunt1987: checks 
+lalala14388: checks 
+Zihuatanejo3: checks 
+gaiggibeliin: checks 
+*** TURN *** [Jd Th 7c] [9h]
+Jayhunt1987: checks 
+lalala14388: checks 
+Zihuatanejo3: bets $9
+gaiggibeliin: folds 
+Jayhunt1987: calls $9
+lalala14388: folds 
+*** RIVER *** [Jd Th 7c 9h] [Jc]
+Jayhunt1987: checks 
+Zihuatanejo3: checks 
+*** SHOW DOWN ***
+Jayhunt1987: shows [Jh Td] (a full house, Jacks full of Tens)
+Zihuatanejo3: mucks hand 
+Jayhunt1987 collected $30.40 from pot
+*** SUMMARY ***
+Total pot $32 | Rake $1.60 
+Board [Jd Th 7c 9h Jc]
+Seat 1: lalala14388 folded on the Turn
+Seat 2: Zihuatanejo3 mucked [8d 7d]
+Seat 3: gaiggibeliin (button blind) folded on the Turn
+Seat 4: Jayhunt1987 showed [Jh Td] and won ($30.40) with a full house, Jacks full of Tens
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 6: youngfellaa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196213681083:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 22:48:45 EET [2019/01/25 15:48:45 ET]
+Table 'Terradas' 6-max Seat #4 is the button
+Seat 1: lalala14388 ($177.42 in chips) 
+Seat 2: Zihuatanejo3 ($109.10 in chips) 
+Seat 3: gaiggibeliin ($174.70 in chips) 
+Seat 4: Jayhunt1987 ($670.67 in chips) 
+Seat 5: DEDTAWIWASA ($150 in chips) 
+lalala14388: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Jayhunt1987: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Jayhunt1987: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kd Ts]
+DEDTAWIWASA: raises $8 to $9
+lalala14388: folds 
+Zihuatanejo3: folds 
+gaiggibeliin: folds 
+Jayhunt1987: folds 
+Uncalled bet ($8) returned to DEDTAWIWASA
+DEDTAWIWASA collected $7 from pot
+DEDTAWIWASA: doesn't show hand 
+*** SUMMARY ***
+Total pot $7 | Rake $0 
+Seat 1: lalala14388 folded before Flop (didn't bet)
+Seat 2: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: Jayhunt1987 (button blind) folded before Flop
+Seat 5: DEDTAWIWASA collected ($7)
+
+
+
+PokerStars Hand #196213705002:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 22:49:16 EET [2019/01/25 15:49:16 ET]
+Table 'Terradas' 6-max Seat #5 is the button
+Seat 1: lalala14388 ($176.42 in chips) 
+Seat 2: Zihuatanejo3 ($108.10 in chips) 
+Seat 3: gaiggibeliin ($173.70 in chips) 
+Seat 4: Jayhunt1987 ($668.67 in chips) 
+Seat 5: DEDTAWIWASA ($155 in chips) 
+lalala14388: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Jayhunt1987: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+DEDTAWIWASA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9d As]
+lalala14388: raises $8 to $9
+Zihuatanejo3: folds 
+gaiggibeliin: folds 
+Jayhunt1987: folds 
+DEDTAWIWASA: folds 
+Uncalled bet ($8) returned to lalala14388
+lalala14388 collected $7 from pot
+lalala14388: doesn't show hand 
+*** SUMMARY ***
+Total pot $7 | Rake $0 
+Seat 1: lalala14388 collected ($7)
+Seat 2: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: Jayhunt1987 folded before Flop (didn't bet)
+Seat 5: DEDTAWIWASA (button blind) folded before Flop
+
+
+
+PokerStars Hand #196213716689:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 22:49:31 EET [2019/01/25 15:49:31 ET]
+Table 'Terradas' 6-max Seat #1 is the button
+Seat 1: lalala14388 ($181.42 in chips) 
+Seat 2: Zihuatanejo3 ($107.10 in chips) 
+Seat 3: gaiggibeliin ($172.70 in chips) 
+Seat 4: Jayhunt1987 ($667.67 in chips) 
+Seat 5: DEDTAWIWASA ($153 in chips) 
+lalala14388: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Jayhunt1987: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+lalala14388: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8c 9h]
+Zihuatanejo3: folds 
+gaiggibeliin: folds 
+Jayhunt1987: folds 
+DEDTAWIWASA: folds 
+Uncalled bet ($1) returned to lalala14388
+lalala14388 collected $5 from pot
+lalala14388: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 1: lalala14388 (button blind) collected ($5)
+Seat 2: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: Jayhunt1987 folded before Flop (didn't bet)
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196213722706:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 22:49:39 EET [2019/01/25 15:49:39 ET]
+Table 'Terradas' 6-max Seat #2 is the button
+Seat 1: lalala14388 ($185.42 in chips) 
+Seat 2: Zihuatanejo3 ($106.10 in chips) 
+Seat 3: gaiggibeliin ($171.70 in chips) 
+Seat 4: Jayhunt1987 ($666.67 in chips) 
+Seat 5: DEDTAWIWASA ($152 in chips) 
+lalala14388: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Jayhunt1987: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Zihuatanejo3: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qs Td]
+gaiggibeliin: folds 
+Jayhunt1987: raises $4 to $5
+DEDTAWIWASA: folds 
+lalala14388: calls $5
+Zihuatanejo3: folds 
+*** FLOP *** [Jh 8d 6s]
+Jayhunt1987: bets $12
+lalala14388: folds 
+Uncalled bet ($12) returned to Jayhunt1987
+Jayhunt1987 collected $15.20 from pot
+*** SUMMARY ***
+Total pot $16 | Rake $0.80 
+Board [Jh 8d 6s]
+Seat 1: lalala14388 folded on the Flop
+Seat 2: Zihuatanejo3 (button blind) folded before Flop
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: Jayhunt1987 collected ($15.20)
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196213743247:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 22:50:03 EET [2019/01/25 15:50:03 ET]
+Table 'Terradas' 6-max Seat #3 is the button
+Seat 1: lalala14388 ($179.42 in chips) 
+Seat 2: Zihuatanejo3 ($104.10 in chips) 
+Seat 3: gaiggibeliin ($170.70 in chips) 
+Seat 4: Jayhunt1987 ($675.87 in chips) 
+Seat 5: DEDTAWIWASA ($151 in chips) 
+lalala14388: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Jayhunt1987: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7c 6s]
+Jayhunt1987: raises $5 to $6
+DEDTAWIWASA: calls $6
+lalala14388: folds 
+Zihuatanejo3: folds 
+gaiggibeliin: folds 
+*** FLOP *** [7h 6c 8d]
+Jayhunt1987: checks 
+DEDTAWIWASA: bets $13
+Jayhunt1987: calls $13
+*** TURN *** [7h 6c 8d] [8c]
+Jayhunt1987: checks 
+DEDTAWIWASA: checks 
+*** RIVER *** [7h 6c 8d 8c] [Jh]
+Jayhunt1987: bets $30
+DEDTAWIWASA: folds 
+Uncalled bet ($30) returned to Jayhunt1987
+Jayhunt1987 collected $41.80 from pot
+Jayhunt1987: doesn't show hand 
+*** SUMMARY ***
+Total pot $44 | Rake $2.20 
+Board [7h 6c 8d 8c Jh]
+Seat 1: lalala14388 folded before Flop (didn't bet)
+Seat 2: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin (button blind) folded before Flop
+Seat 4: Jayhunt1987 collected ($41.80)
+Seat 5: DEDTAWIWASA folded on the River
+
+
+
+PokerStars Hand #196213781980:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 22:50:53 EET [2019/01/25 15:50:53 ET]
+Table 'Terradas' 6-max Seat #4 is the button
+Seat 1: lalala14388 ($178.42 in chips) 
+Seat 2: Zihuatanejo3 ($103.10 in chips) 
+Seat 3: gaiggibeliin ($168.70 in chips) 
+Seat 4: Jayhunt1987 ($697.67 in chips) 
+Seat 5: DEDTAWIWASA ($150 in chips) 
+lalala14388: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Jayhunt1987: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Jayhunt1987: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ac 6d]
+DEDTAWIWASA: folds 
+lalala14388: calls $1
+Zihuatanejo3: calls $1
+gaiggibeliin: folds 
+Jayhunt1987: checks 
+*** FLOP *** [Ts Qc Qh]
+lalala14388: checks 
+Zihuatanejo3: checks 
+Jayhunt1987: checks 
+*** TURN *** [Ts Qc Qh] [Jd]
+lalala14388: checks 
+Zihuatanejo3: bets $5
+Jayhunt1987: folds 
+lalala14388: folds 
+Uncalled bet ($5) returned to Zihuatanejo3
+Zihuatanejo3 collected $7.60 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [Ts Qc Qh Jd]
+Seat 1: lalala14388 folded on the Turn
+Seat 2: Zihuatanejo3 collected ($7.60)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: Jayhunt1987 (button blind) folded on the Turn
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196213811367:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 22:51:31 EET [2019/01/25 15:51:31 ET]
+Table 'Terradas' 6-max Seat #5 is the button
+Seat 1: lalala14388 ($176.42 in chips) 
+Seat 2: Zihuatanejo3 ($108.70 in chips) 
+Seat 3: gaiggibeliin ($167.70 in chips) 
+Seat 4: Jayhunt1987 ($695.67 in chips) 
+Seat 5: DEDTAWIWASA ($150 in chips) 
+lalala14388: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Jayhunt1987: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+DEDTAWIWASA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ah 7h]
+lalala14388: calls $1
+Zihuatanejo3: folds 
+gaiggibeliin: calls $1
+Jayhunt1987: calls $1
+DEDTAWIWASA: checks 
+*** FLOP *** [Jc Ks Th]
+lalala14388: bets $4
+gaiggibeliin: folds 
+Jayhunt1987: folds 
+DEDTAWIWASA: calls $4
+*** TURN *** [Jc Ks Th] [Kc]
+lalala14388: bets $6
+DEDTAWIWASA: folds 
+Uncalled bet ($6) returned to lalala14388
+lalala14388 collected $16.15 from pot
+lalala14388: doesn't show hand 
+*** SUMMARY ***
+Total pot $17 | Rake $0.85 
+Board [Jc Ks Th Kc]
+Seat 1: lalala14388 collected ($16.15)
+Seat 2: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin folded on the Flop
+Seat 4: Jayhunt1987 folded on the Flop
+Seat 5: DEDTAWIWASA (button blind) folded on the Turn
+
+
+
+PokerStars Hand #196213848408:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 22:52:19 EET [2019/01/25 15:52:19 ET]
+Table 'Terradas' 6-max Seat #1 is the button
+Seat 1: lalala14388 ($186.57 in chips) 
+Seat 2: Zihuatanejo3 ($107.70 in chips) 
+Seat 3: gaiggibeliin ($165.70 in chips) 
+Seat 4: Jayhunt1987 ($693.67 in chips) 
+Seat 5: DEDTAWIWASA ($150 in chips) 
+lalala14388: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Jayhunt1987: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+lalala14388: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ac Tc]
+Zihuatanejo3: calls $1
+gaiggibeliin: calls $1
+Jayhunt1987: folds 
+DEDTAWIWASA: folds 
+lalala14388: checks 
+*** FLOP *** [As Jd 7c]
+Zihuatanejo3: checks 
+youngfellaa is disconnected 
+gaiggibeliin: bets $3.95
+lalala14388: folds 
+Zihuatanejo3: folds 
+Uncalled bet ($3.95) returned to gaiggibeliin
+gaiggibeliin collected $7.60 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [As Jd 7c]
+Seat 1: lalala14388 (button blind) folded on the Flop
+Seat 2: Zihuatanejo3 folded on the Flop
+Seat 3: gaiggibeliin collected ($7.60)
+Seat 4: Jayhunt1987 folded before Flop (didn't bet)
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196213890631:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 22:53:13 EET [2019/01/25 15:53:13 ET]
+Table 'Terradas' 6-max Seat #2 is the button
+Seat 1: lalala14388 ($184.57 in chips) 
+Seat 2: Zihuatanejo3 ($105.70 in chips) 
+Seat 3: gaiggibeliin ($171.30 in chips) 
+Seat 4: Jayhunt1987 ($692.67 in chips) 
+Seat 5: DEDTAWIWASA ($150 in chips) 
+lalala14388: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Jayhunt1987: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Zihuatanejo3: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Tc 6c]
+gaiggibeliin: folds 
+Jayhunt1987: folds 
+DEDTAWIWASA: folds 
+lalala14388: folds 
+Uncalled bet ($1) returned to Zihuatanejo3
+Zihuatanejo3 collected $5 from pot
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 1: lalala14388 folded before Flop (didn't bet)
+Seat 2: Zihuatanejo3 (button blind) collected ($5)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: Jayhunt1987 folded before Flop (didn't bet)
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196213903571:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 22:53:30 EET [2019/01/25 15:53:30 ET]
+Table 'Terradas' 6-max Seat #3 is the button
+Seat 1: lalala14388 ($183.57 in chips) 
+Seat 2: Zihuatanejo3 ($109.70 in chips) 
+Seat 3: gaiggibeliin ($170.30 in chips) 
+Seat 4: Jayhunt1987 ($691.67 in chips) 
+Seat 5: DEDTAWIWASA ($150 in chips) 
+lalala14388: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Jayhunt1987: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ts Kh]
+Jayhunt1987: calls $1
+DEDTAWIWASA: folds 
+lalala14388: raises $2 to $3
+Zihuatanejo3: folds 
+gaiggibeliin: calls $2
+Jayhunt1987: calls $2
+*** FLOP *** [6c 9s Kc]
+Jayhunt1987: checks 
+lalala14388: checks 
+gaiggibeliin: bets $8.91
+Jayhunt1987: calls $8.91
+lalala14388: folds 
+*** TURN *** [6c 9s Kc] [Jd]
+Jayhunt1987: checks 
+gaiggibeliin: bets $22.67
+Jayhunt1987: folds 
+Uncalled bet ($22.67) returned to gaiggibeliin
+gaiggibeliin collected $30.23 from pot
+*** SUMMARY ***
+Total pot $31.82 | Rake $1.59 
+Board [6c 9s Kc Jd]
+Seat 1: lalala14388 folded on the Flop
+Seat 2: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin (button blind) collected ($30.23)
+Seat 4: Jayhunt1987 folded on the Turn
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196213939421:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 22:54:16 EET [2019/01/25 15:54:16 ET]
+Table 'Terradas' 6-max Seat #4 is the button
+Seat 1: lalala14388 ($179.57 in chips) 
+Seat 2: Zihuatanejo3 ($108.70 in chips) 
+Seat 3: gaiggibeliin ($187.62 in chips) 
+Seat 4: Jayhunt1987 ($678.76 in chips) 
+Seat 5: DEDTAWIWASA ($150 in chips) 
+lalala14388: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Jayhunt1987: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Jayhunt1987: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ad 9s]
+DEDTAWIWASA: folds 
+lalala14388: folds 
+Zihuatanejo3: calls $1
+gaiggibeliin: calls $1
+Jayhunt1987: checks 
+*** FLOP *** [7d Th Ah]
+Zihuatanejo3: bets $7.60
+gaiggibeliin: folds 
+Jayhunt1987: folds 
+Uncalled bet ($7.60) returned to Zihuatanejo3
+Zihuatanejo3 collected $7.60 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [7d Th Ah]
+Seat 1: lalala14388 folded before Flop (didn't bet)
+Seat 2: Zihuatanejo3 collected ($7.60)
+Seat 3: gaiggibeliin folded on the Flop
+Seat 4: Jayhunt1987 (button blind) folded on the Flop
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196213961661:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 22:54:45 EET [2019/01/25 15:54:45 ET]
+Table 'Terradas' 6-max Seat #5 is the button
+Seat 1: lalala14388 ($178.57 in chips) 
+Seat 2: Zihuatanejo3 ($114.30 in chips) 
+Seat 3: gaiggibeliin ($185.62 in chips) 
+Seat 4: Jayhunt1987 ($676.76 in chips) 
+Seat 5: DEDTAWIWASA ($150 in chips) 
+lalala14388: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Jayhunt1987: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+DEDTAWIWASA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qc Jc]
+lalala14388: calls $1
+Zihuatanejo3: calls $1
+gaiggibeliin: raises $12 to $13
+Jayhunt1987: folds 
+DEDTAWIWASA: folds 
+lalala14388: folds 
+Zihuatanejo3: folds 
+Uncalled bet ($12) returned to gaiggibeliin
+gaiggibeliin collected $9 from pot
+*** SUMMARY ***
+Total pot $9 | Rake $0 
+Seat 1: lalala14388 folded before Flop
+Seat 2: Zihuatanejo3 folded before Flop
+Seat 3: gaiggibeliin collected ($9)
+Seat 4: Jayhunt1987 folded before Flop (didn't bet)
+Seat 5: DEDTAWIWASA (button blind) folded before Flop
+
+
+
+PokerStars Hand #196213986148:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 22:55:19 EET [2019/01/25 15:55:19 ET]
+Table 'Terradas' 6-max Seat #1 is the button
+Seat 1: lalala14388 ($176.57 in chips) 
+Seat 2: Zihuatanejo3 ($112.30 in chips) 
+Seat 3: gaiggibeliin ($192.62 in chips) 
+Seat 4: Jayhunt1987 ($675.76 in chips) 
+Seat 5: DEDTAWIWASA ($150 in chips) 
+lalala14388: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Jayhunt1987: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+lalala14388: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Tc 6h]
+Zihuatanejo3: folds 
+gaiggibeliin: folds 
+Jayhunt1987: folds 
+DEDTAWIWASA: folds 
+Uncalled bet ($1) returned to lalala14388
+lalala14388 collected $5 from pot
+lalala14388: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 1: lalala14388 (button blind) collected ($5)
+Seat 2: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: Jayhunt1987 folded before Flop (didn't bet)
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196213993554:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 22:55:31 EET [2019/01/25 15:55:31 ET]
+Table 'Terradas' 6-max Seat #2 is the button
+Seat 1: lalala14388 ($180.57 in chips) 
+Seat 2: Zihuatanejo3 ($111.30 in chips) 
+Seat 3: gaiggibeliin ($191.62 in chips) 
+Seat 4: Jayhunt1987 ($674.76 in chips) 
+Seat 5: DEDTAWIWASA ($150 in chips) 
+lalala14388: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Jayhunt1987: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Zihuatanejo3: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ac 6c]
+gaiggibeliin: folds 
+Jayhunt1987: calls $1
+DEDTAWIWASA: calls $1
+lalala14388: folds 
+Zihuatanejo3: checks 
+*** FLOP *** [8s Qc Ts]
+Jayhunt1987: checks 
+DEDTAWIWASA: checks 
+Zihuatanejo3: bets $5.87
+Jayhunt1987: folds 
+DEDTAWIWASA: folds 
+Uncalled bet ($5.87) returned to Zihuatanejo3
+Zihuatanejo3 collected $7.60 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [8s Qc Ts]
+Seat 1: lalala14388 folded before Flop (didn't bet)
+Seat 2: Zihuatanejo3 (button blind) collected ($7.60)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: Jayhunt1987 folded on the Flop
+Seat 5: DEDTAWIWASA folded on the Flop
+
+
+
+PokerStars Hand #196214019670:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 22:56:15 EET [2019/01/25 15:56:15 ET]
+Table 'Terradas' 6-max Seat #3 is the button
+Seat 1: lalala14388 ($179.57 in chips) 
+Seat 2: Zihuatanejo3 ($116.90 in chips) 
+Seat 3: gaiggibeliin ($190.62 in chips) 
+Seat 4: Jayhunt1987 ($672.76 in chips) 
+Seat 5: DEDTAWIWASA ($150 in chips) 
+lalala14388: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Jayhunt1987: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9d 7s]
+Jayhunt1987: raises $4 to $5
+DEDTAWIWASA: calls $5
+lalala14388: folds 
+Zihuatanejo3: folds 
+gaiggibeliin: calls $4
+*** FLOP *** [7d Qd Td]
+Jayhunt1987: checks 
+DEDTAWIWASA: bets $14
+gaiggibeliin: folds 
+Jayhunt1987: folds 
+Uncalled bet ($14) returned to DEDTAWIWASA
+DEDTAWIWASA collected $19 from pot
+DEDTAWIWASA: doesn't show hand 
+*** SUMMARY ***
+Total pot $20 | Rake $1 
+Board [7d Qd Td]
+Seat 1: lalala14388 folded before Flop (didn't bet)
+Seat 2: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin (button blind) folded on the Flop
+Seat 4: Jayhunt1987 folded on the Flop
+Seat 5: DEDTAWIWASA collected ($19)
+
+
+
+PokerStars Hand #196214036753:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 22:56:43 EET [2019/01/25 15:56:43 ET]
+Table 'Terradas' 6-max Seat #4 is the button
+Seat 1: lalala14388 ($178.57 in chips) 
+Seat 2: Zihuatanejo3 ($115.90 in chips) 
+Seat 3: gaiggibeliin ($184.62 in chips) 
+Seat 4: Jayhunt1987 ($666.76 in chips) 
+Seat 5: DEDTAWIWASA ($163 in chips) 
+lalala14388: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Jayhunt1987: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Jayhunt1987: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jd 6h]
+DEDTAWIWASA: folds 
+lalala14388: raises $2 to $3
+Zihuatanejo3: folds 
+gaiggibeliin: folds 
+Jayhunt1987: calls $2
+*** FLOP *** [6s Qh Ac]
+lalala14388: bets $10
+Jayhunt1987: folds 
+Uncalled bet ($10) returned to lalala14388
+lalala14388 collected $10.45 from pot
+lalala14388: doesn't show hand 
+*** SUMMARY ***
+Total pot $11 | Rake $0.55 
+Board [6s Qh Ac]
+Seat 1: lalala14388 collected ($10.45)
+Seat 2: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: Jayhunt1987 (button blind) folded on the Flop
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196214048137:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 22:57:02 EET [2019/01/25 15:57:02 ET]
+Table 'Terradas' 6-max Seat #5 is the button
+Seat 1: lalala14388 ($185.02 in chips) 
+Seat 2: Zihuatanejo3 ($114.90 in chips) 
+Seat 3: gaiggibeliin ($183.62 in chips) 
+Seat 4: Jayhunt1987 ($662.76 in chips) 
+Seat 5: DEDTAWIWASA ($162 in chips) 
+lalala14388: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Jayhunt1987: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+DEDTAWIWASA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7c Kc]
+lalala14388: folds 
+Zihuatanejo3: folds 
+gaiggibeliin: folds 
+Jayhunt1987: folds 
+Uncalled bet ($1) returned to DEDTAWIWASA
+DEDTAWIWASA collected $5 from pot
+DEDTAWIWASA: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 1: lalala14388 folded before Flop (didn't bet)
+Seat 2: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: Jayhunt1987 folded before Flop (didn't bet)
+Seat 5: DEDTAWIWASA (button blind) collected ($5)
+
+
+
+PokerStars Hand #196214056603:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 22:57:16 EET [2019/01/25 15:57:16 ET]
+Table 'Terradas' 6-max Seat #1 is the button
+Seat 1: lalala14388 ($184.02 in chips) 
+Seat 2: Zihuatanejo3 ($113.90 in chips) 
+Seat 3: gaiggibeliin ($182.62 in chips) 
+Seat 4: Jayhunt1987 ($661.76 in chips) 
+Seat 5: DEDTAWIWASA ($166 in chips) 
+lalala14388: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Jayhunt1987: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+lalala14388: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qh 6d]
+Zihuatanejo3: folds 
+gaiggibeliin: folds 
+Jayhunt1987: raises $4 to $5
+DEDTAWIWASA: folds 
+lalala14388: folds 
+Uncalled bet ($4) returned to Jayhunt1987
+Jayhunt1987 collected $7 from pot
+Jayhunt1987: doesn't show hand 
+*** SUMMARY ***
+Total pot $7 | Rake $0 
+Seat 1: lalala14388 (button blind) folded before Flop
+Seat 2: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: Jayhunt1987 collected ($7)
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196214069877:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 22:57:37 EET [2019/01/25 15:57:37 ET]
+Table 'Terradas' 6-max Seat #2 is the button
+Seat 1: lalala14388 ($182.02 in chips) 
+Seat 2: Zihuatanejo3 ($112.90 in chips) 
+Seat 3: gaiggibeliin ($181.62 in chips) 
+Seat 4: Jayhunt1987 ($666.76 in chips) 
+Seat 5: DEDTAWIWASA ($165 in chips) 
+lalala14388: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Jayhunt1987: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Zihuatanejo3: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qc Qh]
+gaiggibeliin: calls $1
+Jayhunt1987: folds 
+DEDTAWIWASA: folds 
+lalala14388: raises $8 to $9
+Zihuatanejo3: folds 
+gaiggibeliin: raises $27 to $36
+lalala14388: raises $145.02 to $181.02 and is all-in
+gaiggibeliin: calls $144.62 and is all-in
+Uncalled bet ($0.40) returned to lalala14388
+*** FLOP *** [9h 6h 6s]
+*** TURN *** [9h 6h 6s] [7c]
+*** RIVER *** [9h 6h 6s 7c] [Ks]
+*** SHOW DOWN ***
+gaiggibeliin: shows [Qc Qh] (two pair, Queens and Sixes)
+lalala14388: shows [Ad Ac] (two pair, Aces and Sixes)
+lalala14388 collected $364.49 from pot
+*** SUMMARY ***
+Total pot $367.24 | Rake $2.75 
+Board [9h 6h 6s 7c Ks]
+Seat 1: lalala14388 showed [Ad Ac] and won ($364.49) with two pair, Aces and Sixes
+Seat 2: Zihuatanejo3 (button blind) folded before Flop
+Seat 3: gaiggibeliin showed [Qc Qh] and lost with two pair, Queens and Sixes
+Seat 4: Jayhunt1987 folded before Flop (didn't bet)
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196214098950:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 22:58:25 EET [2019/01/25 15:58:25 ET]
+Table 'Terradas' 6-max Seat #3 is the button
+Seat 1: lalala14388 ($364.89 in chips) 
+Seat 2: Zihuatanejo3 ($110.90 in chips) 
+Seat 3: gaiggibeliin ($150 in chips) 
+Seat 4: Jayhunt1987 ($665.76 in chips) 
+Seat 5: DEDTAWIWASA ($164 in chips) 
+lalala14388: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Jayhunt1987: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jd Td]
+Jayhunt1987: folds 
+DEDTAWIWASA: folds 
+lalala14388: calls $1
+Zihuatanejo3: folds 
+gaiggibeliin: raises $9 to $10
+lalala14388: calls $9
+*** FLOP *** [Kd Ac Ks]
+lalala14388: checks 
+gaiggibeliin: checks 
+*** TURN *** [Kd Ac Ks] [8s]
+lalala14388: checks 
+gaiggibeliin: checks 
+*** RIVER *** [Kd Ac Ks 8s] [Kh]
+lalala14388: bets $11
+gaiggibeliin: folds 
+Uncalled bet ($11) returned to lalala14388
+lalala14388 collected $23.75 from pot
+lalala14388: doesn't show hand 
+*** SUMMARY ***
+Total pot $25 | Rake $1.25 
+Board [Kd Ac Ks 8s Kh]
+Seat 1: lalala14388 collected ($23.75)
+Seat 2: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin (button blind) folded on the River
+Seat 4: Jayhunt1987 folded before Flop (didn't bet)
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196214123117:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 22:59:04 EET [2019/01/25 15:59:04 ET]
+Table 'Terradas' 6-max Seat #4 is the button
+Seat 1: lalala14388 ($377.64 in chips) 
+Seat 2: Zihuatanejo3 ($109.90 in chips) 
+Seat 3: gaiggibeliin ($139 in chips) 
+Seat 4: Jayhunt1987 ($664.76 in chips) 
+Seat 5: DEDTAWIWASA ($163 in chips) 
+lalala14388: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Jayhunt1987: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Jayhunt1987: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8h As]
+DEDTAWIWASA: folds 
+lalala14388: folds 
+Zihuatanejo3: raises $5 to $6
+gaiggibeliin: folds 
+Jayhunt1987: calls $5
+*** FLOP *** [Ad Jc Js]
+Zihuatanejo3: bets $8.50
+Jayhunt1987: raises $8.50 to $17
+Zihuatanejo3: raises $13 to $30
+Jayhunt1987: raises $627.76 to $657.76 and is all-in
+Zihuatanejo3: calls $72.90 and is all-in
+Uncalled bet ($554.86) returned to Jayhunt1987
+*** TURN *** [Ad Jc Js] [Ah]
+*** RIVER *** [Ad Jc Js Ah] [Qs]
+*** SHOW DOWN ***
+Zihuatanejo3: shows [Jd Qd] (a full house, Jacks full of Aces)
+Jayhunt1987: shows [Td Jh] (a full house, Jacks full of Aces)
+Zihuatanejo3 collected $110.03 from pot
+Jayhunt1987 collected $110.02 from pot
+*** SUMMARY ***
+Total pot $222.80 | Rake $2.75 
+Board [Ad Jc Js Ah Qs]
+Seat 1: lalala14388 folded before Flop (didn't bet)
+Seat 2: Zihuatanejo3 showed [Jd Qd] and won ($110.03) with a full house, Jacks full of Aces
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: Jayhunt1987 (button blind) showed [Td Jh] and won ($110.02) with a full house, Jacks full of Aces
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196214157056:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 22:59:58 EET [2019/01/25 15:59:58 ET]
+Table 'Terradas' 6-max Seat #5 is the button
+Seat 1: lalala14388 ($376.64 in chips) 
+Seat 2: Zihuatanejo3 ($110.03 in chips) 
+Seat 3: gaiggibeliin ($138 in chips) 
+Seat 4: Jayhunt1987 ($664.88 in chips) 
+Seat 5: DEDTAWIWASA ($162 in chips) 
+lalala14388: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Jayhunt1987: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+DEDTAWIWASA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [As Kh]
+lalala14388: folds 
+Zihuatanejo3: folds 
+gaiggibeliin: calls $1
+Jayhunt1987: calls $1
+DEDTAWIWASA: checks 
+*** FLOP *** [Kd 9h Ac]
+gaiggibeliin: bets $3.95
+Jayhunt1987: folds 
+DEDTAWIWASA: folds 
+Uncalled bet ($3.95) returned to gaiggibeliin
+gaiggibeliin collected $7.60 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [Kd 9h Ac]
+Seat 1: lalala14388 folded before Flop (didn't bet)
+Seat 2: Zihuatanejo3 folded before Flop (didn't bet)
+Seat 3: gaiggibeliin collected ($7.60)
+Seat 4: Jayhunt1987 folded on the Flop
+Seat 5: DEDTAWIWASA (button blind) folded on the Flop
+
+
+
+PokerStars Hand #196214184149:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 23:00:41 EET [2019/01/25 16:00:41 ET]
+Table 'Terradas' 6-max Seat #1 is the button
+Seat 1: lalala14388 ($375.64 in chips) 
+Seat 2: Zihuatanejo3 ($109.03 in chips) 
+Seat 3: gaiggibeliin ($143.60 in chips) 
+Seat 4: Jayhunt1987 ($662.88 in chips) 
+Seat 5: DEDTAWIWASA ($160 in chips) 
+lalala14388: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Jayhunt1987: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+lalala14388: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9s Jd]
+Zihuatanejo3: calls $1
+gaiggibeliin: folds 
+Jayhunt1987: folds 
+DEDTAWIWASA: folds 
+lalala14388: checks 
+*** FLOP *** [6d Js 9c]
+Zihuatanejo3: bets $4.50
+lalala14388: calls $4.50
+*** TURN *** [6d Js 9c] [Ah]
+Zihuatanejo3: checks 
+lalala14388: checks 
+*** RIVER *** [6d Js 9c Ah] [As]
+Zihuatanejo3: checks 
+lalala14388: checks 
+*** SHOW DOWN ***
+Zihuatanejo3: shows [Td Kd] (a pair of Aces)
+lalala14388: shows [7s 8h] (a straight, Ace to Nine)
+lalala14388 collected $15.20 from pot
+youngfellaa was removed from the table for failing to post
+youngfellaa leaves the table
+*** SUMMARY ***
+Total pot $16 | Rake $0.80 
+Board [6d Js 9c Ah As]
+Seat 1: lalala14388 (button blind) showed [7s 8h] and won ($15.20) with a straight, Ace to Nine
+Seat 2: Zihuatanejo3 showed [Td Kd] and lost with a pair of Aces
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: Jayhunt1987 folded before Flop (didn't bet)
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196214225339:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/25 23:01:40 EET [2019/01/25 16:01:40 ET]
+Table 'Terradas' 6-max Seat #2 is the button
+Seat 1: lalala14388 ($384.34 in chips) 
+Seat 2: Zihuatanejo3 ($102.53 in chips) 
+Seat 3: gaiggibeliin ($150 in chips) 
+Seat 4: Jayhunt1987 ($661.88 in chips) 
+Seat 5: DEDTAWIWASA ($159 in chips) 
+lalala14388: posts the ante $1
+Zihuatanejo3: posts the ante $1
+gaiggibeliin: posts the ante $1
+Jayhunt1987: posts the ante $1
+DEDTAWIWASA: posts the ante $1
+Zihuatanejo3: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9h 6h]
+gaiggibeliin: calls $1
+Jayhunt1987: folds 
+DEDTAWIWASA: folds 
+lalala14388: calls $1
+Zihuatanejo3: checks 
+*** FLOP *** [7s 7d Qc]
+gaiggibeliin: bets $3.95
+lalala14388: folds 
+Zihuatanejo3: folds 
+Uncalled bet ($3.95) returned to gaiggibeliin
+gaiggibeliin collected $7.60 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [7s 7d Qc]
+Seat 1: lalala14388 folded on the Flop
+Seat 2: Zihuatanejo3 (button blind) folded on the Flop
+Seat 3: gaiggibeliin collected ($7.60)
+Seat 4: Jayhunt1987 folded before Flop (didn't bet)
+Seat 5: DEDTAWIWASA folded before Flop (didn't bet)
+
+
+

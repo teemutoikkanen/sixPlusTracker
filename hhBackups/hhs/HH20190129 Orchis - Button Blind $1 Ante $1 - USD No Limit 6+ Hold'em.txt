@@ -1,0 +1,2772 @@
+﻿PokerStars Hand #196378153082:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:16:11 EET [2019/01/29 13:16:11 ET]
+Table 'Orchis' 6-max Seat #2 is the button
+Seat 1: FigoTheRock ($61.98 in chips) 
+Seat 2: trevinstar ($188.98 in chips) 
+Seat 3: Sky20130731 ($322.16 in chips) 
+Seat 4: Mrdoubleten ($149 in chips) 
+Seat 5: iNACT!VE ($185.66 in chips) 
+Seat 6: gaiggibeliin ($150 in chips) 
+FigoTheRock: posts the ante $1
+trevinstar: posts the ante $1
+Sky20130731: posts the ante $1
+Mrdoubleten: posts the ante $1
+iNACT!VE: posts the ante $1
+gaiggibeliin: posts the ante $1
+trevinstar: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7h 6h]
+Sky20130731: raises $8 to $9
+Mrdoubleten: folds 
+iNACT!VE: folds 
+gaiggibeliin: calls $9
+FigoTheRock: calls $9
+trevinstar: folds 
+*** FLOP *** [6s 7d Tc]
+Sky20130731: checks 
+gaiggibeliin: bets $20
+FigoTheRock: folds 
+Sky20130731: folds 
+Uncalled bet ($20) returned to gaiggibeliin
+gaiggibeliin collected $32.30 from pot
+*** SUMMARY ***
+Total pot $34 | Rake $1.70 
+Board [6s 7d Tc]
+Seat 1: FigoTheRock folded on the Flop
+Seat 2: trevinstar (button blind) folded before Flop
+Seat 3: Sky20130731 folded on the Flop
+Seat 4: Mrdoubleten folded before Flop (didn't bet)
+Seat 5: iNACT!VE folded before Flop (didn't bet)
+Seat 6: gaiggibeliin collected ($32.30)
+
+
+
+PokerStars Hand #196378177057:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:16:43 EET [2019/01/29 13:16:43 ET]
+Table 'Orchis' 6-max Seat #3 is the button
+Seat 1: FigoTheRock ($51.98 in chips) 
+Seat 2: trevinstar ($186.98 in chips) 
+Seat 3: Sky20130731 ($312.16 in chips) 
+Seat 4: Mrdoubleten ($148 in chips) 
+Seat 5: iNACT!VE ($184.66 in chips) 
+Seat 6: gaiggibeliin ($172.30 in chips) 
+FigoTheRock: posts the ante $1
+trevinstar: posts the ante $1
+Sky20130731: posts the ante $1
+Mrdoubleten: posts the ante $1
+iNACT!VE: posts the ante $1
+gaiggibeliin: posts the ante $1
+Sky20130731: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Td Js]
+Mrdoubleten: calls $1
+iNACT!VE: folds 
+gaiggibeliin: calls $1
+FigoTheRock: folds 
+trevinstar: calls $1
+Sky20130731: checks 
+*** FLOP *** [Jc As 9d]
+Mrdoubleten: checks 
+gaiggibeliin: checks 
+trevinstar: checks 
+Sky20130731: checks 
+*** TURN *** [Jc As 9d] [Ah]
+Mrdoubleten: checks 
+gaiggibeliin: bets $4
+trevinstar: folds 
+Sky20130731: raises $6 to $10
+Mrdoubleten: folds 
+gaiggibeliin: folds 
+Uncalled bet ($6) returned to Sky20130731
+Sky20130731 collected $17.10 from pot
+Sky20130731: doesn't show hand 
+*** SUMMARY ***
+Total pot $18 | Rake $0.90 
+Board [Jc As 9d Ah]
+Seat 1: FigoTheRock folded before Flop (didn't bet)
+Seat 2: trevinstar folded on the Turn
+Seat 3: Sky20130731 (button blind) collected ($17.10)
+Seat 4: Mrdoubleten folded on the Turn
+Seat 5: iNACT!VE folded before Flop (didn't bet)
+Seat 6: gaiggibeliin folded on the Turn
+
+
+
+PokerStars Hand #196378225948:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:17:48 EET [2019/01/29 13:17:48 ET]
+Table 'Orchis' 6-max Seat #4 is the button
+Seat 1: FigoTheRock ($50.98 in chips) 
+Seat 2: trevinstar ($184.98 in chips) 
+Seat 3: Sky20130731 ($323.26 in chips) 
+Seat 4: Mrdoubleten ($146 in chips) 
+Seat 5: iNACT!VE ($183.66 in chips) 
+Seat 6: gaiggibeliin ($166.30 in chips) 
+FigoTheRock: posts the ante $1
+trevinstar: posts the ante $1
+Sky20130731: posts the ante $1
+Mrdoubleten: posts the ante $1
+iNACT!VE: posts the ante $1
+gaiggibeliin: posts the ante $1
+Mrdoubleten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kd 8h]
+iNACT!VE: raises $7 to $8
+gaiggibeliin: folds 
+FigoTheRock: calls $8
+trevinstar: calls $8
+Sky20130731: folds 
+Mrdoubleten: calls $7
+*** FLOP *** [Js 7s 9d]
+iNACT!VE: bets $18.05
+FigoTheRock: folds 
+trevinstar: folds 
+Mrdoubleten: calls $18.05
+*** TURN *** [Js 7s 9d] [Kc]
+iNACT!VE: checks 
+Mrdoubleten: checks 
+*** RIVER *** [Js 7s 9d Kc] [Th]
+iNACT!VE: checks 
+Mrdoubleten: checks 
+*** SHOW DOWN ***
+iNACT!VE: shows [Jc Ac] (a pair of Jacks)
+Mrdoubleten: shows [Ad Jd] (a pair of Jacks)
+iNACT!VE collected $35.68 from pot
+Mrdoubleten collected $35.67 from pot
+*** SUMMARY ***
+Total pot $74.10 | Rake $2.75 
+Board [Js 7s 9d Kc Th]
+Seat 1: FigoTheRock folded on the Flop
+Seat 2: trevinstar folded on the Flop
+Seat 3: Sky20130731 folded before Flop (didn't bet)
+Seat 4: Mrdoubleten (button blind) showed [Ad Jd] and won ($35.67) with a pair of Jacks
+Seat 5: iNACT!VE showed [Jc Ac] and won ($35.68) with a pair of Jacks
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196378254275:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:18:26 EET [2019/01/29 13:18:26 ET]
+Table 'Orchis' 6-max Seat #5 is the button
+Seat 1: FigoTheRock ($41.98 in chips) 
+Seat 2: trevinstar ($175.98 in chips) 
+Seat 3: Sky20130731 ($322.26 in chips) 
+Seat 4: Mrdoubleten ($154.62 in chips) 
+Seat 5: iNACT!VE ($192.29 in chips) 
+Seat 6: gaiggibeliin ($165.30 in chips) 
+FigoTheRock: posts the ante $1
+trevinstar: posts the ante $1
+Sky20130731: posts the ante $1
+Mrdoubleten: posts the ante $1
+iNACT!VE: posts the ante $1
+gaiggibeliin: posts the ante $1
+iNACT!VE: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Th 7d]
+gaiggibeliin: folds 
+FigoTheRock: folds 
+trevinstar: folds 
+Sky20130731: folds 
+Mrdoubleten: folds 
+Uncalled bet ($1) returned to iNACT!VE
+iNACT!VE collected $6 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0 
+Seat 1: FigoTheRock folded before Flop (didn't bet)
+Seat 2: trevinstar folded before Flop (didn't bet)
+Seat 3: Sky20130731 folded before Flop (didn't bet)
+Seat 4: Mrdoubleten folded before Flop (didn't bet)
+Seat 5: iNACT!VE (button blind) collected ($6)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196378261963:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:18:37 EET [2019/01/29 13:18:37 ET]
+Table 'Orchis' 6-max Seat #6 is the button
+Seat 1: FigoTheRock ($40.98 in chips) 
+Seat 2: trevinstar ($174.98 in chips) 
+Seat 3: Sky20130731 ($321.26 in chips) 
+Seat 4: Mrdoubleten ($153.62 in chips) 
+Seat 5: iNACT!VE ($197.29 in chips) 
+Seat 6: gaiggibeliin ($164.30 in chips) 
+FigoTheRock: posts the ante $1
+trevinstar: posts the ante $1
+Sky20130731: posts the ante $1
+Mrdoubleten: posts the ante $1
+iNACT!VE: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kd 8c]
+FigoTheRock: calls $1
+trevinstar: calls $1
+Sky20130731: folds 
+Mrdoubleten: folds 
+iNACT!VE: calls $1
+gaiggibeliin: checks 
+*** FLOP *** [Kc 8d Qs]
+FigoTheRock: checks 
+trevinstar: checks 
+iNACT!VE: checks 
+gaiggibeliin: bets $7.13
+FigoTheRock: calls $7.13
+trevinstar: folds 
+iNACT!VE: calls $7.13
+*** TURN *** [Kc 8d Qs] [Kh]
+FigoTheRock: checks 
+iNACT!VE: checks 
+gaiggibeliin: bets $15.51
+FigoTheRock: folds 
+iNACT!VE: folds 
+Uncalled bet ($15.51) returned to gaiggibeliin
+iNACT!VE leaves the table
+gaiggibeliin collected $29.82 from pot
+*** SUMMARY ***
+Total pot $31.39 | Rake $1.57 
+Board [Kc 8d Qs Kh]
+Seat 1: FigoTheRock folded on the Turn
+Seat 2: trevinstar folded on the Flop
+Seat 3: Sky20130731 folded before Flop (didn't bet)
+Seat 4: Mrdoubleten folded before Flop (didn't bet)
+Seat 5: iNACT!VE folded on the Turn
+Seat 6: gaiggibeliin (button blind) collected ($29.82)
+
+
+
+PokerStars Hand #196378359623:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:20:48 EET [2019/01/29 13:20:48 ET]
+Table 'Orchis' 6-max Seat #1 is the button
+Seat 1: FigoTheRock ($31.85 in chips) 
+Seat 2: trevinstar ($172.98 in chips) 
+Seat 3: Sky20130731 ($320.26 in chips) 
+Seat 4: Mrdoubleten ($152.62 in chips) 
+Seat 6: gaiggibeliin ($184.99 in chips) 
+FigoTheRock: posts the ante $1
+trevinstar: posts the ante $1
+Sky20130731: posts the ante $1
+Mrdoubleten: posts the ante $1
+gaiggibeliin: posts the ante $1
+FigoTheRock: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8d 9c]
+trevinstar is disconnected 
+trevinstar is connected 
+trevinstar: raises $1 to $2
+Sky20130731: calls $2
+Mrdoubleten: folds 
+gaiggibeliin: folds 
+FigoTheRock: calls $1
+*** FLOP *** [7c Js 6c]
+trevinstar: checks 
+Sky20130731: checks 
+FigoTheRock: checks 
+*** TURN *** [7c Js 6c] [7d]
+trevinstar: checks 
+Sky20130731: bets $5.75
+FigoTheRock: folds 
+trevinstar: folds 
+Uncalled bet ($5.75) returned to Sky20130731
+Sky20130731 collected $10.45 from pot
+Sky20130731: doesn't show hand 
+*** SUMMARY ***
+Total pot $11 | Rake $0.55 
+Board [7c Js 6c 7d]
+Seat 1: FigoTheRock (button blind) folded on the Turn
+Seat 2: trevinstar folded on the Turn
+Seat 3: Sky20130731 collected ($10.45)
+Seat 4: Mrdoubleten folded before Flop (didn't bet)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196378407878:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:21:53 EET [2019/01/29 13:21:53 ET]
+Table 'Orchis' 6-max Seat #2 is the button
+Seat 1: FigoTheRock ($28.85 in chips) 
+Seat 2: trevinstar ($169.98 in chips) 
+Seat 3: Sky20130731 ($327.71 in chips) 
+Seat 4: Mrdoubleten ($151.62 in chips) 
+Seat 6: gaiggibeliin ($183.99 in chips) 
+FigoTheRock: posts the ante $1
+trevinstar: posts the ante $1
+Sky20130731: posts the ante $1
+Mrdoubleten: posts the ante $1
+gaiggibeliin: posts the ante $1
+trevinstar: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8h Ks]
+Sky20130731: folds 
+Mrdoubleten: folds 
+gaiggibeliin: folds 
+FigoTheRock: folds 
+Uncalled bet ($1) returned to trevinstar
+trevinstar collected $5 from pot
+trevinstar: doesn't show hand 
+*** SUMMARY ***
+Total pot $5 | Rake $0 
+Seat 1: FigoTheRock folded before Flop (didn't bet)
+Seat 2: trevinstar (button blind) collected ($5)
+Seat 3: Sky20130731 folded before Flop (didn't bet)
+Seat 4: Mrdoubleten folded before Flop (didn't bet)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196378414203:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:22:01 EET [2019/01/29 13:22:01 ET]
+Table 'Orchis' 6-max Seat #3 is the button
+Seat 1: FigoTheRock ($27.85 in chips) 
+Seat 2: trevinstar ($173.98 in chips) 
+Seat 3: Sky20130731 ($326.71 in chips) 
+Seat 4: Mrdoubleten ($150.62 in chips) 
+Seat 6: gaiggibeliin ($182.99 in chips) 
+FigoTheRock: posts the ante $1
+trevinstar: posts the ante $1
+Sky20130731: posts the ante $1
+Mrdoubleten: posts the ante $1
+gaiggibeliin: posts the ante $1
+Sky20130731: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7s 6d]
+Mrdoubleten: folds 
+gaiggibeliin: folds 
+FigoTheRock: folds 
+trevinstar: calls $1
+Sky20130731: raises $7 to $8
+trevinstar: folds 
+Uncalled bet ($7) returned to Sky20130731
+Sky20130731 collected $7 from pot
+Sky20130731: doesn't show hand 
+*** SUMMARY ***
+Total pot $7 | Rake $0 
+Seat 1: FigoTheRock folded before Flop (didn't bet)
+Seat 2: trevinstar folded before Flop
+Seat 3: Sky20130731 (button blind) collected ($7)
+Seat 4: Mrdoubleten folded before Flop (didn't bet)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196378431526:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:22:25 EET [2019/01/29 13:22:25 ET]
+Table 'Orchis' 6-max Seat #4 is the button
+Seat 1: FigoTheRock ($26.85 in chips) 
+Seat 2: trevinstar ($171.98 in chips) 
+Seat 3: Sky20130731 ($331.71 in chips) 
+Seat 4: Mrdoubleten ($149.62 in chips) 
+Seat 6: gaiggibeliin ($181.99 in chips) 
+FigoTheRock: posts the ante $1
+trevinstar: posts the ante $1
+Sky20130731: posts the ante $1
+Mrdoubleten: posts the ante $1
+gaiggibeliin: posts the ante $1
+Mrdoubleten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6s Qd]
+SirWatts joins the table at seat #5 
+gaiggibeliin: folds 
+FigoTheRock: calls $1
+trevinstar: calls $1
+Sky20130731: folds 
+Mrdoubleten: checks 
+*** FLOP *** [9s 7c Ad]
+FigoTheRock: checks 
+trevinstar: checks 
+Mrdoubleten: checks 
+*** TURN *** [9s 7c Ad] [Qh]
+FigoTheRock: checks 
+trevinstar: bets $1
+Mrdoubleten: calls $1
+FigoTheRock: calls $1
+*** RIVER *** [9s 7c Ad Qh] [Kh]
+FigoTheRock: checks 
+trevinstar: checks 
+Mrdoubleten: checks 
+*** SHOW DOWN ***
+FigoTheRock: shows [6h 6c] (a pair of Sixes)
+trevinstar: shows [Jd Jc] (a pair of Jacks)
+Mrdoubleten: shows [Qs Tc] (a pair of Queens)
+Mrdoubleten collected $10.45 from pot
+*** SUMMARY ***
+Total pot $11 | Rake $0.55 
+Board [9s 7c Ad Qh Kh]
+Seat 1: FigoTheRock showed [6h 6c] and lost with a pair of Sixes
+Seat 2: trevinstar showed [Jd Jc] and lost with a pair of Jacks
+Seat 3: Sky20130731 folded before Flop (didn't bet)
+Seat 4: Mrdoubleten (button blind) showed [Qs Tc] and won ($10.45) with a pair of Queens
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196378462408:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:23:06 EET [2019/01/29 13:23:06 ET]
+Table 'Orchis' 6-max Seat #6 is the button
+Seat 1: FigoTheRock ($23.85 in chips) 
+Seat 2: trevinstar ($168.98 in chips) 
+Seat 3: Sky20130731 ($330.71 in chips) 
+Seat 4: Mrdoubleten ($157.07 in chips) 
+Seat 5: SirWatts ($100 in chips) 
+Seat 6: gaiggibeliin ($180.99 in chips) 
+FigoTheRock: posts the ante $1
+trevinstar: posts the ante $1
+Sky20130731: posts the ante $1
+Mrdoubleten: posts the ante $1
+SirWatts: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Js Td]
+FigoTheRock: calls $1
+trevinstar: folds 
+Sky20130731: folds 
+Mrdoubleten: raises $2 to $3
+SirWatts: calls $3
+gaiggibeliin: calls $2
+FigoTheRock: calls $2
+*** FLOP *** [6h Qc Qd]
+FigoTheRock: checks 
+Mrdoubleten: checks 
+SirWatts: checks 
+gaiggibeliin: bets $6
+FigoTheRock: folds 
+Mrdoubleten: folds 
+SirWatts: folds 
+Uncalled bet ($6) returned to gaiggibeliin
+gaiggibeliin collected $17.10 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0.90 
+Board [6h Qc Qd]
+Seat 1: FigoTheRock folded on the Flop
+Seat 2: trevinstar folded before Flop (didn't bet)
+Seat 3: Sky20130731 folded before Flop (didn't bet)
+Seat 4: Mrdoubleten folded on the Flop
+Seat 5: SirWatts folded on the Flop
+Seat 6: gaiggibeliin (button blind) collected ($17.10)
+
+
+
+PokerStars Hand #196378498774:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:23:55 EET [2019/01/29 13:23:55 ET]
+Table 'Orchis' 6-max Seat #1 is the button
+Seat 1: FigoTheRock ($19.85 in chips) 
+Seat 2: trevinstar ($167.98 in chips) 
+Seat 3: Sky20130731 ($329.71 in chips) 
+Seat 4: Mrdoubleten ($153.07 in chips) 
+Seat 5: SirWatts ($96 in chips) 
+Seat 6: gaiggibeliin ($194.09 in chips) 
+FigoTheRock: posts the ante $1
+trevinstar: posts the ante $1
+Sky20130731: posts the ante $1
+Mrdoubleten: posts the ante $1
+SirWatts: posts the ante $1
+gaiggibeliin: posts the ante $1
+FigoTheRock: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ks 9s]
+trevinstar: folds 
+Sky20130731: folds 
+Mrdoubleten: calls $1
+SirWatts: folds 
+gaiggibeliin: calls $1
+FigoTheRock: checks 
+*** FLOP *** [Qh 8h 7h]
+Mrdoubleten: checks 
+gaiggibeliin: checks 
+FigoTheRock: checks 
+*** TURN *** [Qh 8h 7h] [8d]
+Mrdoubleten: checks 
+gaiggibeliin: checks 
+FigoTheRock: checks 
+*** RIVER *** [Qh 8h 7h 8d] [6h]
+Mrdoubleten: checks 
+gaiggibeliin: checks 
+FigoTheRock: checks 
+*** SHOW DOWN ***
+Mrdoubleten: shows [Ac Th] (a flush, Queen high)
+gaiggibeliin: mucks hand 
+FigoTheRock: mucks hand 
+Mrdoubleten collected $8.55 from pot
+*** SUMMARY ***
+Total pot $9 | Rake $0.45 
+Board [Qh 8h 7h 8d 6h]
+Seat 1: FigoTheRock (button blind) mucked [7s 9d]
+Seat 2: trevinstar folded before Flop (didn't bet)
+Seat 3: Sky20130731 folded before Flop (didn't bet)
+Seat 4: Mrdoubleten showed [Ac Th] and won ($8.55) with a flush, Queen high
+Seat 5: SirWatts folded before Flop (didn't bet)
+Seat 6: gaiggibeliin mucked [Ks 9s]
+
+
+
+PokerStars Hand #196378566192:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:25:23 EET [2019/01/29 13:25:23 ET]
+Table 'Orchis' 6-max Seat #2 is the button
+Seat 1: FigoTheRock ($17.85 in chips) 
+Seat 2: trevinstar ($166.98 in chips) 
+Seat 3: Sky20130731 ($328.71 in chips) 
+Seat 4: Mrdoubleten ($159.62 in chips) 
+Seat 5: SirWatts ($95 in chips) 
+Seat 6: gaiggibeliin ($192.09 in chips) 
+FigoTheRock: posts the ante $1
+trevinstar: posts the ante $1
+Sky20130731: posts the ante $1
+Mrdoubleten: posts the ante $1
+SirWatts: posts the ante $1
+gaiggibeliin: posts the ante $1
+trevinstar: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Td As]
+Sky20130731: folds 
+Mrdoubleten: raises $2 to $3
+SirWatts: folds 
+gaiggibeliin: folds 
+FigoTheRock: calls $3
+trevinstar: calls $2
+*** FLOP *** [8c Ks 7h]
+Mrdoubleten: bets $7.13
+FigoTheRock: folds 
+trevinstar: folds 
+Uncalled bet ($7.13) returned to Mrdoubleten
+Mrdoubleten collected $14.25 from pot
+Mrdoubleten: doesn't show hand 
+*** SUMMARY ***
+Total pot $15 | Rake $0.75 
+Board [8c Ks 7h]
+Seat 1: FigoTheRock folded on the Flop
+Seat 2: trevinstar (button blind) folded on the Flop
+Seat 3: Sky20130731 folded before Flop (didn't bet)
+Seat 4: Mrdoubleten collected ($14.25)
+Seat 5: SirWatts folded before Flop (didn't bet)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196378589323:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:25:54 EET [2019/01/29 13:25:54 ET]
+Table 'Orchis' 6-max Seat #3 is the button
+Seat 1: FigoTheRock ($13.85 in chips) 
+Seat 2: trevinstar ($162.98 in chips) 
+Seat 3: Sky20130731 ($327.71 in chips) 
+Seat 4: Mrdoubleten ($169.87 in chips) 
+Seat 5: SirWatts ($94 in chips) 
+Seat 6: gaiggibeliin ($191.09 in chips) 
+FigoTheRock: posts the ante $1
+trevinstar: posts the ante $1
+Sky20130731: posts the ante $1
+Mrdoubleten: posts the ante $1
+SirWatts: posts the ante $1
+gaiggibeliin: posts the ante $1
+Sky20130731: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qd Tc]
+Mrdoubleten: raises $2 to $3
+SirWatts: folds 
+gaiggibeliin: calls $3
+FigoTheRock: raises $9.85 to $12.85 and is all-in
+trevinstar: folds 
+Sky20130731: folds 
+Mrdoubleten: calls $9.85
+gaiggibeliin: calls $9.85
+*** FLOP *** [8d Ac Jc]
+Mrdoubleten: checks 
+gaiggibeliin: bets $28.99
+Mrdoubleten: folds 
+Uncalled bet ($28.99) returned to gaiggibeliin
+*** TURN *** [8d Ac Jc] [Kh]
+*** RIVER *** [8d Ac Jc Kh] [6d]
+*** SHOW DOWN ***
+gaiggibeliin: shows [Qd Tc] (a straight, Ten to Ace)
+FigoTheRock: shows [9c 9h] (a pair of Nines)
+gaiggibeliin collected $43.27 from pot
+*** SUMMARY ***
+Total pot $45.55 | Rake $2.28 
+Board [8d Ac Jc Kh 6d]
+Seat 1: FigoTheRock showed [9c 9h] and lost with a pair of Nines
+Seat 2: trevinstar folded before Flop (didn't bet)
+Seat 3: Sky20130731 (button blind) folded before Flop
+Seat 4: Mrdoubleten folded on the Flop
+Seat 5: SirWatts folded before Flop (didn't bet)
+Seat 6: gaiggibeliin showed [Qd Tc] and won ($43.27) with a straight, Ten to Ace
+
+
+
+PokerStars Hand #196378624391:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:26:42 EET [2019/01/29 13:26:42 ET]
+Table 'Orchis' 6-max Seat #4 is the button
+Seat 2: trevinstar ($161.98 in chips) 
+Seat 3: Sky20130731 ($325.71 in chips) 
+Seat 4: Mrdoubleten ($156.02 in chips) 
+Seat 5: SirWatts ($93 in chips) 
+Seat 6: gaiggibeliin ($220.51 in chips) 
+trevinstar: posts the ante $1
+Sky20130731: posts the ante $1
+Mrdoubleten: posts the ante $1
+SirWatts: posts the ante $1
+gaiggibeliin: posts the ante $1
+Mrdoubleten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6h Tc]
+SirWatts: folds 
+gaiggibeliin: folds 
+trevinstar: folds 
+FigoTheRock leaves the table
+Sky20130731: raises $4 to $5
+Mrdoubleten: calls $4
+*** FLOP *** [Kc Qd Ac]
+Sky20130731: bets $8
+Mrdoubleten: calls $8
+*** TURN *** [Kc Qd Ac] [Jh]
+Sky20130731: checks 
+Mrdoubleten: checks 
+*** RIVER *** [Kc Qd Ac Jh] [8h]
+Sky20130731: checks 
+Mrdoubleten: bets $17
+Sky20130731: calls $17
+*** SHOW DOWN ***
+Mrdoubleten: shows [Td 9d] (a straight, Ten to Ace)
+Sky20130731: mucks hand 
+Mrdoubleten collected $62.25 from pot
+*** SUMMARY ***
+Total pot $65 | Rake $2.75 
+Board [Kc Qd Ac Jh 8h]
+Seat 2: trevinstar folded before Flop (didn't bet)
+Seat 3: Sky20130731 mucked [Js Ks]
+Seat 4: Mrdoubleten (button blind) showed [Td 9d] and won ($62.25) with a straight, Ten to Ace
+Seat 5: SirWatts folded before Flop (didn't bet)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196378667778:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:27:41 EET [2019/01/29 13:27:41 ET]
+Table 'Orchis' 6-max Seat #5 is the button
+Seat 2: trevinstar ($160.98 in chips) 
+Seat 3: Sky20130731 ($294.71 in chips) 
+Seat 4: Mrdoubleten ($187.27 in chips) 
+Seat 5: SirWatts ($92 in chips) 
+Seat 6: gaiggibeliin ($219.51 in chips) 
+trevinstar: posts the ante $1
+Sky20130731: posts the ante $1
+Mrdoubleten: posts the ante $1
+SirWatts: posts the ante $1
+gaiggibeliin: posts the ante $1
+SirWatts: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6s 7s]
+gaiggibeliin: calls $1
+trevinstar: folds 
+Sky20130731: calls $1
+Mrdoubleten: folds 
+SirWatts: checks 
+*** FLOP *** [Jd 9h Th]
+gaiggibeliin: checks 
+Sky20130731: checks 
+SirWatts: bets $3.80
+gaiggibeliin: folds 
+Sky20130731: calls $3.80
+*** TURN *** [Jd 9h Th] [Qs]
+DEDTAWIWASA joins the table at seat #1 
+Sky20130731: bets $8.15
+SirWatts: folds 
+Uncalled bet ($8.15) returned to Sky20130731
+Sky20130731 collected $14.82 from pot
+Sky20130731: doesn't show hand 
+*** SUMMARY ***
+Total pot $15.60 | Rake $0.78 
+Board [Jd 9h Th Qs]
+Seat 2: trevinstar folded before Flop (didn't bet)
+Seat 3: Sky20130731 collected ($14.82)
+Seat 4: Mrdoubleten folded before Flop (didn't bet)
+Seat 5: SirWatts (button blind) folded on the Turn
+Seat 6: gaiggibeliin folded on the Flop
+
+
+
+PokerStars Hand #196378710393:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:28:38 EET [2019/01/29 13:28:38 ET]
+Table 'Orchis' 6-max Seat #6 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: trevinstar ($159.98 in chips) 
+Seat 3: Sky20130731 ($303.73 in chips) 
+Seat 4: Mrdoubleten ($186.27 in chips) 
+Seat 5: SirWatts ($86.20 in chips) 
+Seat 6: gaiggibeliin ($217.51 in chips) 
+DEDTAWIWASA: posts the ante $1
+trevinstar: posts the ante $1
+Sky20130731: posts the ante $1
+Mrdoubleten: posts the ante $1
+SirWatts: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jh 6s]
+DEDTAWIWASA: folds 
+trevinstar: raises $4 to $5
+Sky20130731: raises $17 to $22
+Mrdoubleten: calls $22
+SirWatts: folds 
+gaiggibeliin: folds 
+trevinstar: folds 
+*** FLOP *** [9s Qs 7h]
+Sky20130731: checks 
+Mrdoubleten: checks 
+*** TURN *** [9s Qs 7h] [8s]
+Sky20130731: bets $29.29
+Mrdoubleten: folds 
+Uncalled bet ($29.29) returned to Sky20130731
+Sky20130731 collected $53.25 from pot
+Sky20130731: doesn't show hand 
+*** SUMMARY ***
+Total pot $56 | Rake $2.75 
+Board [9s Qs 7h 8s]
+Seat 1: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 2: trevinstar folded before Flop
+Seat 3: Sky20130731 collected ($53.25)
+Seat 4: Mrdoubleten folded on the Turn
+Seat 5: SirWatts folded before Flop (didn't bet)
+Seat 6: gaiggibeliin (button blind) folded before Flop
+
+
+
+PokerStars Hand #196378751696:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:29:34 EET [2019/01/29 13:29:34 ET]
+Table 'Orchis' 6-max Seat #1 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: trevinstar ($153.98 in chips) 
+Seat 3: Sky20130731 ($333.98 in chips) 
+Seat 4: Mrdoubleten ($163.27 in chips) 
+Seat 5: SirWatts ($85.20 in chips) 
+Seat 6: gaiggibeliin ($215.51 in chips) 
+DEDTAWIWASA: posts the ante $1
+trevinstar: posts the ante $1
+Sky20130731: posts the ante $1
+Mrdoubleten: posts the ante $1
+SirWatts: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8c 6h]
+trevinstar: folds 
+Sky20130731: raises $4 to $5
+Mrdoubleten: calls $5
+SirWatts: folds 
+gaiggibeliin: folds 
+DEDTAWIWASA: calls $4
+*** FLOP *** [Kd 6c Jh]
+Sky20130731: bets $5
+Mrdoubleten: calls $5
+DEDTAWIWASA: calls $5
+*** TURN *** [Kd 6c Jh] [8h]
+Sky20130731: checks 
+Mrdoubleten: checks 
+DEDTAWIWASA: checks 
+*** RIVER *** [Kd 6c Jh 8h] [Js]
+Sky20130731: bets $18.81
+Mrdoubleten: folds 
+DEDTAWIWASA: folds 
+Uncalled bet ($18.81) returned to Sky20130731
+Sky20130731 collected $34.20 from pot
+Sky20130731: doesn't show hand 
+*** SUMMARY ***
+Total pot $36 | Rake $1.80 
+Board [Kd 6c Jh 8h Js]
+Seat 1: DEDTAWIWASA (button blind) folded on the River
+Seat 2: trevinstar folded before Flop (didn't bet)
+Seat 3: Sky20130731 collected ($34.20)
+Seat 4: Mrdoubleten folded on the River
+Seat 5: SirWatts folded before Flop (didn't bet)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196378792493:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:30:29 EET [2019/01/29 13:30:29 ET]
+Table 'Orchis' 6-max Seat #2 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: trevinstar ($152.98 in chips) 
+Seat 3: Sky20130731 ($357.18 in chips) 
+Seat 4: Mrdoubleten ($152.27 in chips) 
+Seat 5: SirWatts ($84.20 in chips) 
+Seat 6: gaiggibeliin ($214.51 in chips) 
+DEDTAWIWASA: posts the ante $1
+trevinstar: posts the ante $1
+Sky20130731: posts the ante $1
+Mrdoubleten: posts the ante $1
+SirWatts: posts the ante $1
+gaiggibeliin: posts the ante $1
+trevinstar: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9s Ks]
+Sky20130731: calls $1
+Mrdoubleten: folds 
+SirWatts: folds 
+gaiggibeliin: calls $1
+DEDTAWIWASA: folds 
+trevinstar: checks 
+*** FLOP *** [Qc 8h 7s]
+Sky20130731: checks 
+gaiggibeliin: checks 
+trevinstar: checks 
+*** TURN *** [Qc 8h 7s] [Ac]
+Sky20130731: checks 
+gaiggibeliin: checks 
+trevinstar: bets $2
+Sky20130731: folds 
+gaiggibeliin: folds 
+Uncalled bet ($2) returned to trevinstar
+trevinstar collected $8.55 from pot
+trevinstar: doesn't show hand 
+*** SUMMARY ***
+Total pot $9 | Rake $0.45 
+Board [Qc 8h 7s Ac]
+Seat 1: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 2: trevinstar (button blind) collected ($8.55)
+Seat 3: Sky20130731 folded on the Turn
+Seat 4: Mrdoubleten folded before Flop (didn't bet)
+Seat 5: SirWatts folded before Flop (didn't bet)
+Seat 6: gaiggibeliin folded on the Turn
+
+
+
+PokerStars Hand #196378837759:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:31:30 EET [2019/01/29 13:31:30 ET]
+Table 'Orchis' 6-max Seat #3 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: trevinstar ($159.53 in chips) 
+Seat 3: Sky20130731 ($355.18 in chips) 
+Seat 4: Mrdoubleten ($151.27 in chips) 
+Seat 5: SirWatts ($83.20 in chips) 
+Seat 6: gaiggibeliin ($212.51 in chips) 
+DEDTAWIWASA: posts the ante $1
+trevinstar: posts the ante $1
+Sky20130731: posts the ante $1
+Mrdoubleten: posts the ante $1
+SirWatts: posts the ante $1
+gaiggibeliin: posts the ante $1
+Sky20130731: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9s 7c]
+Mrdoubleten: raises $2 to $3
+SirWatts: folds 
+gaiggibeliin: folds 
+DEDTAWIWASA: raises $15 to $18
+trevinstar: folds 
+Sky20130731: raises $26 to $44
+Mrdoubleten: folds 
+DEDTAWIWASA: folds 
+Uncalled bet ($26) returned to Sky20130731
+Sky20130731 collected $45 from pot
+Sky20130731: doesn't show hand 
+*** SUMMARY ***
+Total pot $45 | Rake $0 
+Seat 1: DEDTAWIWASA folded before Flop
+Seat 2: trevinstar folded before Flop (didn't bet)
+Seat 3: Sky20130731 (button blind) collected ($45)
+Seat 4: Mrdoubleten folded before Flop
+Seat 5: SirWatts folded before Flop (didn't bet)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196378863430:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:32:05 EET [2019/01/29 13:32:05 ET]
+Table 'Orchis' 6-max Seat #4 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: trevinstar ($158.53 in chips) 
+Seat 3: Sky20130731 ($381.18 in chips) 
+Seat 4: Mrdoubleten ($147.27 in chips) 
+Seat 5: SirWatts ($82.20 in chips) 
+Seat 6: gaiggibeliin ($211.51 in chips) 
+DEDTAWIWASA: posts the ante $1
+trevinstar: posts the ante $1
+Sky20130731: posts the ante $1
+Mrdoubleten: posts the ante $1
+SirWatts: posts the ante $1
+gaiggibeliin: posts the ante $1
+Mrdoubleten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ah Kc]
+SirWatts: calls $1
+gaiggibeliin: raises $9 to $10
+DEDTAWIWASA: folds 
+trevinstar: folds 
+Sky20130731: folds 
+Mrdoubleten: calls $9
+SirWatts: raises $71.20 to $81.20 and is all-in
+gaiggibeliin: raises $129.31 to $210.51 and is all-in
+Mrdoubleten: folds 
+Uncalled bet ($129.31) returned to gaiggibeliin
+*** FIRST FLOP *** [Jh 7d 9h]
+*** FIRST TURN *** [Jh 7d 9h] [Qs]
+*** FIRST RIVER *** [Jh 7d 9h Qs] [8d]
+*** SECOND FLOP *** [6s 6h Qh]
+*** SECOND TURN *** [6s 6h Qh] [9c]
+*** SECOND RIVER *** [6s 6h Qh 9c] [8h]
+*** FIRST SHOW DOWN ***
+SirWatts: shows [As Ac] (a pair of Aces)
+gaiggibeliin: shows [Ah Kc] (high card Ace)
+SirWatts collected $87.83 from pot
+*** SECOND SHOW DOWN ***
+SirWatts: shows [As Ac] (two pair, Aces and Sixes)
+gaiggibeliin: shows [Ah Kc] (a pair of Sixes)
+SirWatts collected $87.82 from pot
+*** SUMMARY ***
+Total pot $178.40 | Rake $2.75 
+Hand was run twice
+FIRST Board [Jh 7d 9h Qs 8d]
+SECOND Board [6s 6h Qh 9c 8h]
+Seat 1: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 2: trevinstar folded before Flop (didn't bet)
+Seat 3: Sky20130731 folded before Flop (didn't bet)
+Seat 4: Mrdoubleten (button blind) folded before Flop
+Seat 5: SirWatts showed [As Ac] and won ($87.83) with a pair of Aces, and won ($87.82) with two pair, Aces and Sixes
+Seat 6: gaiggibeliin showed [Ah Kc] and lost with high card Ace, and lost with a pair of Sixes
+
+
+
+PokerStars Hand #196378888025:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:32:38 EET [2019/01/29 13:32:38 ET]
+Table 'Orchis' 6-max Seat #5 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: trevinstar ($157.53 in chips) 
+Seat 3: Sky20130731 ($380.18 in chips) 
+Seat 4: Mrdoubleten ($136.27 in chips) 
+Seat 5: SirWatts ($175.65 in chips) 
+Seat 6: gaiggibeliin ($129.31 in chips) 
+DEDTAWIWASA: posts the ante $1
+trevinstar: posts the ante $1
+Sky20130731: posts the ante $1
+Mrdoubleten: posts the ante $1
+SirWatts: posts the ante $1
+gaiggibeliin: posts the ante $1
+SirWatts: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Tc 8s]
+gaiggibeliin: folds 
+DEDTAWIWASA: calls $1
+trevinstar: folds 
+Sky20130731: calls $1
+Mrdoubleten: calls $1
+SirWatts: checks 
+*** FLOP *** [Qc 9d 9c]
+DEDTAWIWASA: bets $6
+Sky20130731: raises $10 to $16
+Mrdoubleten: folds 
+SirWatts: folds 
+DEDTAWIWASA: calls $10
+*** TURN *** [Qc 9d 9c] [6h]
+DEDTAWIWASA: checks 
+Sky20130731: bets $25
+DEDTAWIWASA: folds 
+Uncalled bet ($25) returned to Sky20130731
+Sky20130731 collected $39.90 from pot
+Sky20130731: doesn't show hand 
+*** SUMMARY ***
+Total pot $42 | Rake $2.10 
+Board [Qc 9d 9c 6h]
+Seat 1: DEDTAWIWASA folded on the Turn
+Seat 2: trevinstar folded before Flop (didn't bet)
+Seat 3: Sky20130731 collected ($39.90)
+Seat 4: Mrdoubleten folded on the Flop
+Seat 5: SirWatts (button blind) folded on the Flop
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196378922381:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:33:25 EET [2019/01/29 13:33:25 ET]
+Table 'Orchis' 6-max Seat #6 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: trevinstar ($156.53 in chips) 
+Seat 3: Sky20130731 ($402.08 in chips) 
+Seat 4: Mrdoubleten ($148 in chips) 
+Seat 5: SirWatts ($173.65 in chips) 
+Seat 6: gaiggibeliin ($128.31 in chips) 
+DEDTAWIWASA: posts the ante $1
+trevinstar: posts the ante $1
+Sky20130731: posts the ante $1
+Mrdoubleten: posts the ante $1
+SirWatts: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6s 7d]
+DEDTAWIWASA: folds 
+trevinstar: folds 
+Sky20130731: raises $4 to $5
+Mrdoubleten: calls $5
+trevinstar leaves the table
+SirWatts: folds 
+gaiggibeliin: calls $4
+*** FLOP *** [Qc Ac 9d]
+Sky20130731: bets $10.97
+Mrdoubleten: calls $10.97
+gaiggibeliin: folds 
+*** TURN *** [Qc Ac 9d] [Kd]
+Sky20130731: checks 
+Mrdoubleten: checks 
+*** RIVER *** [Qc Ac 9d Kd] [6d]
+Sky20130731: bets $15
+Mrdoubleten: folds 
+Uncalled bet ($15) returned to Sky20130731
+Sky20130731 collected $40.79 from pot
+Sky20130731: doesn't show hand 
+*** SUMMARY ***
+Total pot $42.94 | Rake $2.15 
+Board [Qc Ac 9d Kd 6d]
+Seat 1: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 2: trevinstar folded before Flop (didn't bet)
+Seat 3: Sky20130731 collected ($40.79)
+Seat 4: Mrdoubleten folded on the River
+Seat 5: SirWatts folded before Flop (didn't bet)
+Seat 6: gaiggibeliin (button blind) folded on the Flop
+
+
+
+PokerStars Hand #196378966122:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:34:25 EET [2019/01/29 13:34:25 ET]
+Table 'Orchis' 6-max Seat #1 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 3: Sky20130731 ($425.90 in chips) 
+Seat 4: Mrdoubleten ($131.03 in chips) 
+Seat 5: SirWatts ($172.65 in chips) 
+Seat 6: gaiggibeliin ($122.31 in chips) 
+DEDTAWIWASA: posts the ante $1
+Sky20130731: posts the ante $1
+Mrdoubleten: posts the ante $1
+SirWatts: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qs 9c]
+Sky20130731: folds 
+Mrdoubleten: folds 
+SirWatts: folds 
+gaiggibeliin: calls $1
+DEDTAWIWASA: checks 
+*** FLOP *** [Kd Kh Jh]
+gaiggibeliin: bets $3.46
+DEDTAWIWASA: calls $3.46
+*** TURN *** [Kd Kh Jh] [Qc]
+gaiggibeliin: checks 
+DEDTAWIWASA: checks 
+*** RIVER *** [Kd Kh Jh Qc] [8h]
+gaiggibeliin: checks 
+DEDTAWIWASA: bets $9.65
+gaiggibeliin: folds 
+Uncalled bet ($9.65) returned to DEDTAWIWASA
+DEDTAWIWASA collected $13.22 from pot
+DEDTAWIWASA: doesn't show hand 
+*** SUMMARY ***
+Total pot $13.92 | Rake $0.70 
+Board [Kd Kh Jh Qc 8h]
+Seat 1: DEDTAWIWASA (button blind) collected ($13.22)
+Seat 3: Sky20130731 folded before Flop (didn't bet)
+Seat 4: Mrdoubleten folded before Flop (didn't bet)
+Seat 5: SirWatts folded before Flop (didn't bet)
+Seat 6: gaiggibeliin folded on the River
+
+
+
+PokerStars Hand #196379012589:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:35:28 EET [2019/01/29 13:35:28 ET]
+Table 'Orchis' 6-max Seat #3 is the button
+Seat 1: DEDTAWIWASA ($157.76 in chips) 
+Seat 3: Sky20130731 ($424.90 in chips) 
+Seat 4: Mrdoubleten ($138.79 in chips) 
+Seat 5: SirWatts ($171.65 in chips) 
+Seat 6: gaiggibeliin ($116.85 in chips) 
+DEDTAWIWASA: posts the ante $1
+Sky20130731: posts the ante $1
+Mrdoubleten: posts the ante $1
+SirWatts: posts the ante $1
+gaiggibeliin: posts the ante $1
+Sky20130731: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qh 6c]
+Mrdoubleten: raises $2 to $3
+SirWatts: calls $3
+gaiggibeliin: folds 
+DEDTAWIWASA: calls $3
+Sky20130731: calls $2
+*** FLOP *** [Ad Qd Ks]
+Mrdoubleten: checks 
+SirWatts: checks 
+DEDTAWIWASA: checks 
+Sky20130731: checks 
+*** TURN *** [Ad Qd Ks] [8h]
+Mrdoubleten: checks 
+SirWatts: bets $5.33
+DEDTAWIWASA: calls $5.33
+Sky20130731: folds 
+Mrdoubleten: folds 
+*** RIVER *** [Ad Qd Ks 8h] [Kd]
+SirWatts: bets $19
+DEDTAWIWASA: folds 
+Uncalled bet ($19) returned to SirWatts
+SirWatts collected $26.28 from pot
+SirWatts: doesn't show hand 
+*** SUMMARY ***
+Total pot $27.66 | Rake $1.38 
+Board [Ad Qd Ks 8h Kd]
+Seat 1: DEDTAWIWASA folded on the River
+Seat 3: Sky20130731 (button blind) folded on the Turn
+Seat 4: Mrdoubleten folded on the Turn
+Seat 5: SirWatts collected ($26.28)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196379052132:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:36:21 EET [2019/01/29 13:36:21 ET]
+Table 'Orchis' 6-max Seat #4 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 3: Sky20130731 ($420.90 in chips) 
+Seat 4: Mrdoubleten ($134.79 in chips) 
+Seat 5: SirWatts ($188.60 in chips) 
+Seat 6: gaiggibeliin ($115.85 in chips) 
+DEDTAWIWASA: posts the ante $1
+Sky20130731: posts the ante $1
+Mrdoubleten: posts the ante $1
+SirWatts: posts the ante $1
+gaiggibeliin: posts the ante $1
+Mrdoubleten: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ac Th]
+SirWatts: folds 
+gaiggibeliin: calls $1
+DEDTAWIWASA: folds 
+Sky20130731: folds 
+Mrdoubleten: checks 
+*** FLOP *** [Qh Ad As]
+gaiggibeliin: bets $2.19
+Mrdoubleten: folds 
+Uncalled bet ($2.19) returned to gaiggibeliin
+gaiggibeliin collected $6.65 from pot
+*** SUMMARY ***
+Total pot $7 | Rake $0.35 
+Board [Qh Ad As]
+Seat 1: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 3: Sky20130731 folded before Flop (didn't bet)
+Seat 4: Mrdoubleten (button blind) folded on the Flop
+Seat 5: SirWatts folded before Flop (didn't bet)
+Seat 6: gaiggibeliin collected ($6.65)
+
+
+
+PokerStars Hand #196379065899:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:36:39 EET [2019/01/29 13:36:39 ET]
+Table 'Orchis' 6-max Seat #5 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 3: Sky20130731 ($419.90 in chips) 
+Seat 4: Mrdoubleten ($132.79 in chips) 
+Seat 5: SirWatts ($187.60 in chips) 
+Seat 6: gaiggibeliin ($120.50 in chips) 
+DEDTAWIWASA: posts the ante $1
+Sky20130731: posts the ante $1
+Mrdoubleten: posts the ante $1
+SirWatts: posts the ante $1
+gaiggibeliin: posts the ante $1
+SirWatts: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6s Td]
+gaiggibeliin: folds 
+phatwithaph joins the table at seat #2 
+DEDTAWIWASA: raises $4 to $5
+Sky20130731: raises $20 to $25
+Mrdoubleten: folds 
+SirWatts: folds 
+DEDTAWIWASA: folds 
+Uncalled bet ($20) returned to Sky20130731
+Sky20130731 collected $16 from pot
+Sky20130731: doesn't show hand 
+*** SUMMARY ***
+Total pot $16 | Rake $0 
+Seat 1: DEDTAWIWASA folded before Flop
+Seat 3: Sky20130731 collected ($16)
+Seat 4: Mrdoubleten folded before Flop (didn't bet)
+Seat 5: SirWatts (button blind) folded before Flop
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196379090974:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:37:13 EET [2019/01/29 13:37:13 ET]
+Table 'Orchis' 6-max Seat #6 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: phatwithaph ($100 in chips) 
+Seat 3: Sky20130731 ($429.90 in chips) 
+Seat 4: Mrdoubleten ($131.79 in chips) 
+Seat 5: SirWatts ($185.60 in chips) 
+Seat 6: gaiggibeliin ($119.50 in chips) 
+DEDTAWIWASA: posts the ante $1
+phatwithaph: posts the ante $1
+Sky20130731: posts the ante $1
+Mrdoubleten: posts the ante $1
+SirWatts: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8h Th]
+DEDTAWIWASA: folds 
+phatwithaph: calls $1
+Sky20130731: calls $1
+Mrdoubleten: folds 
+SirWatts: folds 
+gaiggibeliin: checks 
+*** FLOP *** [9h 9c 8s]
+phatwithaph: checks 
+Sky20130731: bets $4.70
+gaiggibeliin: calls $4.70
+phatwithaph: folds 
+*** TURN *** [9h 9c 8s] [Ah]
+Sky20130731: checks 
+gaiggibeliin: checks 
+*** RIVER *** [9h 9c 8s Ah] [Jc]
+Sky20130731: checks 
+gaiggibeliin: checks 
+*** SHOW DOWN ***
+Sky20130731: shows [Js Qd] (two pair, Jacks and Nines)
+gaiggibeliin: mucks hand 
+Sky20130731 collected $17.48 from pot
+*** SUMMARY ***
+Total pot $18.40 | Rake $0.92 
+Board [9h 9c 8s Ah Jc]
+Seat 1: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 2: phatwithaph folded on the Flop
+Seat 3: Sky20130731 showed [Js Qd] and won ($17.48) with two pair, Jacks and Nines
+Seat 4: Mrdoubleten folded before Flop (didn't bet)
+Seat 5: SirWatts folded before Flop (didn't bet)
+Seat 6: gaiggibeliin (button blind) mucked [8h Th]
+
+
+
+PokerStars Hand #196379144289:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:38:25 EET [2019/01/29 13:38:25 ET]
+Table 'Orchis' 6-max Seat #1 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: phatwithaph ($98 in chips) 
+Seat 3: Sky20130731 ($440.68 in chips) 
+Seat 4: Mrdoubleten ($130.79 in chips) 
+Seat 5: SirWatts ($184.60 in chips) 
+Seat 6: gaiggibeliin ($112.80 in chips) 
+DEDTAWIWASA: posts the ante $1
+phatwithaph: posts the ante $1
+Sky20130731: posts the ante $1
+Mrdoubleten: posts the ante $1
+SirWatts: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ah Tc]
+phatwithaph: raises $8 to $9
+Sky20130731: calls $9
+Mrdoubleten: folds 
+SirWatts: folds 
+gaiggibeliin: folds 
+DEDTAWIWASA: folds 
+*** FLOP *** [Js Qh 8d]
+phatwithaph: bets $15
+Sky20130731: calls $15
+*** TURN *** [Js Qh 8d] [6h]
+phatwithaph: checks 
+Sky20130731: bets $28.74
+phatwithaph: folds 
+Uncalled bet ($28.74) returned to Sky20130731
+Sky20130731 collected $52.25 from pot
+Sky20130731: doesn't show hand 
+*** SUMMARY ***
+Total pot $55 | Rake $2.75 
+Board [Js Qh 8d 6h]
+Seat 1: DEDTAWIWASA (button blind) folded before Flop
+Seat 2: phatwithaph folded on the Turn
+Seat 3: Sky20130731 collected ($52.25)
+Seat 4: Mrdoubleten folded before Flop (didn't bet)
+Seat 5: SirWatts folded before Flop (didn't bet)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196379185987:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:39:21 EET [2019/01/29 13:39:21 ET]
+Table 'Orchis' 6-max Seat #2 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: phatwithaph ($73 in chips) 
+Seat 3: Sky20130731 ($467.93 in chips) 
+Seat 4: Mrdoubleten ($129.79 in chips) 
+Seat 5: SirWatts ($183.60 in chips) 
+Seat 6: gaiggibeliin ($111.80 in chips) 
+DEDTAWIWASA: posts the ante $1
+phatwithaph: posts the ante $1
+Sky20130731: posts the ante $1
+Mrdoubleten: posts the ante $1
+SirWatts: posts the ante $1
+gaiggibeliin: posts the ante $1
+phatwithaph: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Th 9h]
+Sky20130731: folds 
+Mrdoubleten: folds 
+SirWatts: calls $1
+gaiggibeliin: calls $1
+DEDTAWIWASA: folds 
+phatwithaph: checks 
+*** FLOP *** [9c Ac Qh]
+SirWatts: checks 
+gaiggibeliin: checks 
+phatwithaph: bets $4
+SirWatts: folds 
+gaiggibeliin: calls $4
+*** TURN *** [9c Ac Qh] [Jc]
+gaiggibeliin: checks 
+phatwithaph: checks 
+*** RIVER *** [9c Ac Qh Jc] [9s]
+gaiggibeliin: bets $8.40
+phatwithaph: calls $8.40
+*** SHOW DOWN ***
+gaiggibeliin: shows [Th 9h] (three of a kind, Nines)
+phatwithaph: mucks hand 
+gaiggibeliin collected $32.11 from pot
+*** SUMMARY ***
+Total pot $33.80 | Rake $1.69 
+Board [9c Ac Qh Jc 9s]
+Seat 1: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 2: phatwithaph (button blind) mucked [Td As]
+Seat 3: Sky20130731 folded before Flop (didn't bet)
+Seat 4: Mrdoubleten folded before Flop (didn't bet)
+Seat 5: SirWatts folded on the Flop
+Seat 6: gaiggibeliin showed [Th 9h] and won ($32.11) with three of a kind, Nines
+
+
+
+PokerStars Hand #196379232398:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:40:18 EET [2019/01/29 13:40:18 ET]
+Table 'Orchis' 6-max Seat #3 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: phatwithaph ($58.60 in chips) 
+Seat 3: Sky20130731 ($466.93 in chips) 
+Seat 4: Mrdoubleten ($128.79 in chips) 
+Seat 5: SirWatts ($181.60 in chips) 
+Seat 6: gaiggibeliin ($129.51 in chips) 
+DEDTAWIWASA: posts the ante $1
+phatwithaph: posts the ante $1
+Sky20130731: posts the ante $1
+Mrdoubleten: posts the ante $1
+SirWatts: posts the ante $1
+gaiggibeliin: posts the ante $1
+Sky20130731: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7c Td]
+Mrdoubleten: folds 
+SirWatts: calls $1
+gaiggibeliin: folds 
+DEDTAWIWASA: folds 
+phatwithaph: calls $1
+Sky20130731: checks 
+*** FLOP *** [9c Ac Th]
+SirWatts: checks 
+phatwithaph: bets $9
+Sky20130731: folds 
+SirWatts: folds 
+Uncalled bet ($9) returned to phatwithaph
+phatwithaph collected $8.55 from pot
+Mrdoubleten leaves the table
+phatwithaph: doesn't show hand 
+*** SUMMARY ***
+Total pot $9 | Rake $0.45 
+Board [9c Ac Th]
+Seat 1: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 2: phatwithaph collected ($8.55)
+Seat 3: Sky20130731 (button blind) folded on the Flop
+Seat 4: Mrdoubleten folded before Flop (didn't bet)
+Seat 5: SirWatts folded on the Flop
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196379261694:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:40:57 EET [2019/01/29 13:40:57 ET]
+Table 'Orchis' 6-max Seat #5 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: phatwithaph ($65.15 in chips) 
+Seat 3: Sky20130731 ($464.93 in chips) 
+Seat 5: SirWatts ($179.60 in chips) 
+Seat 6: gaiggibeliin ($128.51 in chips) 
+DEDTAWIWASA: posts the ante $1
+phatwithaph: posts the ante $1
+Sky20130731: posts the ante $1
+SirWatts: posts the ante $1
+gaiggibeliin: posts the ante $1
+SirWatts: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Js 8s]
+gaiggibeliin: folds 
+DEDTAWIWASA: calls $1
+phatwithaph: calls $1
+Sky20130731: raises $5 to $6
+SirWatts: calls $5
+DEDTAWIWASA: calls $5
+phatwithaph: calls $5
+*** FLOP *** [8d 6h Kd]
+DEDTAWIWASA: checks 
+phatwithaph: checks 
+Sky20130731: checks 
+SirWatts: checks 
+*** TURN *** [8d 6h Kd] [7c]
+DEDTAWIWASA: checks 
+phatwithaph: bets $14
+Sky20130731: folds 
+SirWatts: folds 
+DEDTAWIWASA: folds 
+Uncalled bet ($14) returned to phatwithaph
+phatwithaph collected $27.55 from pot
+phatwithaph: doesn't show hand 
+*** SUMMARY ***
+Total pot $29 | Rake $1.45 
+Board [8d 6h Kd 7c]
+Seat 1: DEDTAWIWASA folded on the Turn
+Seat 2: phatwithaph collected ($27.55)
+Seat 3: Sky20130731 folded on the Turn
+Seat 5: SirWatts (button blind) folded on the Turn
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196379289010:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:41:34 EET [2019/01/29 13:41:34 ET]
+Table 'Orchis' 6-max Seat #6 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: phatwithaph ($85.70 in chips) 
+Seat 3: Sky20130731 ($457.93 in chips) 
+Seat 5: SirWatts ($172.60 in chips) 
+Seat 6: gaiggibeliin ($127.51 in chips) 
+DEDTAWIWASA: posts the ante $1
+phatwithaph: posts the ante $1
+Sky20130731: posts the ante $1
+SirWatts: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jc 8h]
+DEDTAWIWASA: folds 
+phatwithaph: folds 
+Sky20130731: raises $4 to $5
+SirWatts: calls $5
+gaiggibeliin: calls $4
+*** FLOP *** [Qs 6s Ac]
+Sky20130731: checks 
+SirWatts: bets $6.27
+gaiggibeliin: folds 
+Sky20130731: folds 
+Uncalled bet ($6.27) returned to SirWatts
+SirWatts collected $19 from pot
+SirWatts: doesn't show hand 
+*** SUMMARY ***
+Total pot $20 | Rake $1 
+Board [Qs 6s Ac]
+Seat 1: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 2: phatwithaph folded before Flop (didn't bet)
+Seat 3: Sky20130731 folded on the Flop
+Seat 5: SirWatts collected ($19)
+Seat 6: gaiggibeliin (button blind) folded on the Flop
+
+
+
+PokerStars Hand #196379315322:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:42:08 EET [2019/01/29 13:42:08 ET]
+Table 'Orchis' 6-max Seat #1 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: phatwithaph ($84.70 in chips) 
+Seat 3: Sky20130731 ($451.93 in chips) 
+Seat 5: SirWatts ($185.60 in chips) 
+Seat 6: gaiggibeliin ($121.51 in chips) 
+DEDTAWIWASA: posts the ante $1
+phatwithaph: posts the ante $1
+Sky20130731: posts the ante $1
+SirWatts: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jh As]
+phatwithaph: folds 
+Sky20130731: folds 
+SirWatts: folds 
+gaiggibeliin: calls $1
+DEDTAWIWASA: raises $8 to $9
+gaiggibeliin: raises $111.51 to $120.51 and is all-in
+DEDTAWIWASA: folds 
+Uncalled bet ($111.51) returned to gaiggibeliin
+gaiggibeliin collected $23 from pot
+*** SUMMARY ***
+Total pot $23 | Rake $0 
+Seat 1: DEDTAWIWASA (button blind) folded before Flop
+Seat 2: phatwithaph folded before Flop (didn't bet)
+Seat 3: Sky20130731 folded before Flop (didn't bet)
+Seat 5: SirWatts folded before Flop (didn't bet)
+Seat 6: gaiggibeliin collected ($23)
+
+
+
+PokerStars Hand #196379344509:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:42:47 EET [2019/01/29 13:42:47 ET]
+Table 'Orchis' 6-max Seat #2 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: phatwithaph ($83.70 in chips) 
+Seat 3: Sky20130731 ($450.93 in chips) 
+Seat 5: SirWatts ($184.60 in chips) 
+Seat 6: gaiggibeliin ($134.51 in chips) 
+DEDTAWIWASA: posts the ante $1
+phatwithaph: posts the ante $1
+Sky20130731: posts the ante $1
+SirWatts: posts the ante $1
+gaiggibeliin: posts the ante $1
+phatwithaph: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kc 7h]
+Sky20130731: folds 
+SirWatts: calls $1
+gaiggibeliin: folds 
+DEDTAWIWASA: calls $1
+phatwithaph: checks 
+*** FLOP *** [Qc Ah 6c]
+SirWatts: checks 
+DEDTAWIWASA: bets $5
+phatwithaph: folds 
+SirWatts: folds 
+Uncalled bet ($5) returned to DEDTAWIWASA
+DEDTAWIWASA collected $7.60 from pot
+DEDTAWIWASA: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [Qc Ah 6c]
+Seat 1: DEDTAWIWASA collected ($7.60)
+Seat 2: phatwithaph (button blind) folded on the Flop
+Seat 3: Sky20130731 folded before Flop (didn't bet)
+Seat 5: SirWatts folded on the Flop
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196379376890:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:43:30 EET [2019/01/29 13:43:30 ET]
+Table 'Orchis' 6-max Seat #3 is the button
+Seat 1: DEDTAWIWASA ($155.60 in chips) 
+Seat 2: phatwithaph ($81.70 in chips) 
+Seat 3: Sky20130731 ($449.93 in chips) 
+Seat 5: SirWatts ($182.60 in chips) 
+Seat 6: gaiggibeliin ($133.51 in chips) 
+DEDTAWIWASA: posts the ante $1
+phatwithaph: posts the ante $1
+Sky20130731: posts the ante $1
+SirWatts: posts the ante $1
+gaiggibeliin: posts the ante $1
+Sky20130731: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7c Th]
+SirWatts: folds 
+gaiggibeliin: folds 
+DEDTAWIWASA: calls $1
+phatwithaph: calls $1
+Sky20130731: checks 
+*** FLOP *** [8c Ad Kc]
+DEDTAWIWASA: checks 
+phatwithaph: checks 
+Sky20130731: bets $4.18
+DEDTAWIWASA: folds 
+phatwithaph: folds 
+Uncalled bet ($4.18) returned to Sky20130731
+Sky20130731 collected $7.60 from pot
+Sky20130731: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [8c Ad Kc]
+Seat 1: DEDTAWIWASA folded on the Flop
+Seat 2: phatwithaph folded on the Flop
+Seat 3: Sky20130731 (button blind) collected ($7.60)
+Seat 5: SirWatts folded before Flop (didn't bet)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196379397818:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:43:58 EET [2019/01/29 13:43:58 ET]
+Table 'Orchis' 6-max Seat #5 is the button
+Seat 1: DEDTAWIWASA ($153.60 in chips) 
+Seat 2: phatwithaph ($79.70 in chips) 
+Seat 3: Sky20130731 ($455.53 in chips) 
+Seat 5: SirWatts ($181.60 in chips) 
+Seat 6: gaiggibeliin ($132.51 in chips) 
+DEDTAWIWASA: posts the ante $1
+phatwithaph: posts the ante $1
+Sky20130731: posts the ante $1
+SirWatts: posts the ante $1
+gaiggibeliin: posts the ante $1
+SirWatts: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [As Ks]
+gaiggibeliin: calls $1
+DEDTAWIWASA: folds 
+phatwithaph: calls $1
+Sky20130731: calls $1
+SirWatts: checks 
+*** FLOP *** [6h Tc 9h]
+gaiggibeliin: checks 
+phatwithaph: bets $4
+Sky20130731: folds 
+SirWatts: folds 
+gaiggibeliin: folds 
+Uncalled bet ($4) returned to phatwithaph
+phatwithaph collected $8.55 from pot
+phatwithaph: doesn't show hand 
+*** SUMMARY ***
+Total pot $9 | Rake $0.45 
+Board [6h Tc 9h]
+Seat 1: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 2: phatwithaph collected ($8.55)
+Seat 3: Sky20130731 folded on the Flop
+Seat 5: SirWatts (button blind) folded on the Flop
+Seat 6: gaiggibeliin folded on the Flop
+
+
+
+PokerStars Hand #196379425689:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:44:35 EET [2019/01/29 13:44:35 ET]
+Table 'Orchis' 6-max Seat #6 is the button
+Seat 1: DEDTAWIWASA ($152.60 in chips) 
+Seat 2: phatwithaph ($86.25 in chips) 
+Seat 3: Sky20130731 ($453.53 in chips) 
+Seat 5: SirWatts ($179.60 in chips) 
+Seat 6: gaiggibeliin ($130.51 in chips) 
+DEDTAWIWASA: posts the ante $1
+phatwithaph: posts the ante $1
+Sky20130731: posts the ante $1
+SirWatts: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9d Kd]
+DEDTAWIWASA: folds 
+phatwithaph: calls $1
+Sky20130731: raises $6 to $7
+SirWatts: folds 
+gaiggibeliin: calls $6
+Bakarisation joins the table at seat #4 
+phatwithaph: folds 
+*** FLOP *** [Qs 6h 7d]
+Sky20130731: bets $10.45
+gaiggibeliin: folds 
+Uncalled bet ($10.45) returned to Sky20130731
+Sky20130731 collected $19 from pot
+Sky20130731: doesn't show hand 
+*** SUMMARY ***
+Total pot $20 | Rake $1 
+Board [Qs 6h 7d]
+Seat 1: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 2: phatwithaph folded before Flop
+Seat 3: Sky20130731 collected ($19)
+Seat 5: SirWatts folded before Flop (didn't bet)
+Seat 6: gaiggibeliin (button blind) folded on the Flop
+
+
+
+PokerStars Hand #196379451518:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:45:09 EET [2019/01/29 13:45:09 ET]
+Table 'Orchis' 6-max Seat #1 is the button
+Seat 1: DEDTAWIWASA ($151.60 in chips) 
+Seat 2: phatwithaph ($84.25 in chips) 
+Seat 3: Sky20130731 ($464.53 in chips) 
+Seat 4: Bakarisation ($150 in chips) 
+Seat 5: SirWatts ($178.60 in chips) 
+Seat 6: gaiggibeliin ($122.51 in chips) 
+DEDTAWIWASA: posts the ante $1
+phatwithaph: posts the ante $1
+Sky20130731: posts the ante $1
+Bakarisation: posts the ante $1
+SirWatts: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Th 9s]
+phatwithaph: folds 
+Sky20130731: folds 
+Bakarisation: folds 
+SirWatts: calls $1
+gaiggibeliin: calls $1
+DEDTAWIWASA: checks 
+*** FLOP *** [Kh 8d 6c]
+SirWatts: checks 
+gaiggibeliin: checks 
+DEDTAWIWASA: checks 
+*** TURN *** [Kh 8d 6c] [6d]
+SirWatts: checks 
+gaiggibeliin: bets $5.73
+DEDTAWIWASA: folds 
+SirWatts: folds 
+Uncalled bet ($5.73) returned to gaiggibeliin
+gaiggibeliin collected $8.55 from pot
+*** SUMMARY ***
+Total pot $9 | Rake $0.45 
+Board [Kh 8d 6c 6d]
+Seat 1: DEDTAWIWASA (button blind) folded on the Turn
+Seat 2: phatwithaph folded before Flop (didn't bet)
+Seat 3: Sky20130731 folded before Flop (didn't bet)
+Seat 4: Bakarisation folded before Flop (didn't bet)
+Seat 5: SirWatts folded on the Turn
+Seat 6: gaiggibeliin collected ($8.55)
+
+
+
+PokerStars Hand #196379489701:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:46:00 EET [2019/01/29 13:46:00 ET]
+Table 'Orchis' 6-max Seat #2 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: phatwithaph ($83.25 in chips) 
+Seat 3: Sky20130731 ($463.53 in chips) 
+Seat 4: Bakarisation ($149 in chips) 
+Seat 5: SirWatts ($176.60 in chips) 
+Seat 6: gaiggibeliin ($129.06 in chips) 
+DEDTAWIWASA: posts the ante $1
+phatwithaph: posts the ante $1
+Sky20130731: posts the ante $1
+Bakarisation: posts the ante $1
+SirWatts: posts the ante $1
+gaiggibeliin: posts the ante $1
+phatwithaph: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6c 9h]
+Sky20130731: calls $1
+Bakarisation: raises $8 to $9
+SirWatts: folds 
+gaiggibeliin: folds 
+DEDTAWIWASA: calls $9
+phatwithaph: calls $8
+Sky20130731: calls $8
+*** FLOP *** [7c 7h 8h]
+Sky20130731: bets $21.95
+Bakarisation: raises $34.05 to $56
+DEDTAWIWASA: folds 
+phatwithaph: folds 
+Sky20130731: calls $34.05
+*** TURN *** [7c 7h 8h] [Jh]
+Sky20130731: checks 
+Bakarisation: checks 
+*** RIVER *** [7c 7h 8h Jh] [Js]
+Sky20130731: checks 
+Bakarisation: checks 
+*** SHOW DOWN ***
+Sky20130731: shows [Tc Th] (two pair, Jacks and Tens)
+Bakarisation: shows [Kd Kh] (two pair, Kings and Jacks)
+Bakarisation collected $151.25 from pot
+*** SUMMARY ***
+Total pot $154 | Rake $2.75 
+Board [7c 7h 8h Jh Js]
+Seat 1: DEDTAWIWASA folded on the Flop
+Seat 2: phatwithaph (button blind) folded on the Flop
+Seat 3: Sky20130731 showed [Tc Th] and lost with two pair, Jacks and Tens
+Seat 4: Bakarisation showed [Kd Kh] and won ($151.25) with two pair, Kings and Jacks
+Seat 5: SirWatts folded before Flop (didn't bet)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196379576384:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:47:54 EET [2019/01/29 13:47:54 ET]
+Table 'Orchis' 6-max Seat #3 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: phatwithaph ($73.25 in chips) 
+Seat 3: Sky20130731 ($397.53 in chips) 
+Seat 4: Bakarisation ($234.25 in chips) 
+Seat 5: SirWatts ($175.60 in chips) 
+Seat 6: gaiggibeliin ($128.06 in chips) 
+DEDTAWIWASA: posts the ante $1
+phatwithaph: posts the ante $1
+Sky20130731: posts the ante $1
+Bakarisation: posts the ante $1
+SirWatts: posts the ante $1
+gaiggibeliin: posts the ante $1
+Sky20130731: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Kh 8d]
+Bakarisation: folds 
+SirWatts: calls $1
+gaiggibeliin: folds 
+DEDTAWIWASA: folds 
+phatwithaph: calls $1
+Sky20130731: raises $4 to $5
+SirWatts: folds 
+phatwithaph: calls $4
+*** FLOP *** [7c 8s 6s]
+phatwithaph: checks 
+Sky20130731: checks 
+*** TURN *** [7c 8s 6s] [Ks]
+phatwithaph: checks 
+Sky20130731: bets $8.88
+phatwithaph: calls $8.88
+*** RIVER *** [7c 8s 6s Ks] [7d]
+phatwithaph: checks 
+Sky20130731: checks 
+*** SHOW DOWN ***
+phatwithaph: shows [Th 8h] (two pair, Eights and Sevens)
+Sky20130731: mucks hand 
+phatwithaph collected $33.02 from pot
+*** SUMMARY ***
+Total pot $34.76 | Rake $1.74 
+Board [7c 8s 6s Ks 7d]
+Seat 1: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 2: phatwithaph showed [Th 8h] and won ($33.02) with two pair, Eights and Sevens
+Seat 3: Sky20130731 (button blind) mucked [Ad Jd]
+Seat 4: Bakarisation folded before Flop (didn't bet)
+Seat 5: SirWatts folded before Flop
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196379624703:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:48:58 EET [2019/01/29 13:48:58 ET]
+Table 'Orchis' 6-max Seat #4 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: phatwithaph ($91.39 in chips) 
+Seat 3: Sky20130731 ($382.65 in chips) 
+Seat 4: Bakarisation ($233.25 in chips) 
+Seat 5: SirWatts ($173.60 in chips) 
+Seat 6: gaiggibeliin ($127.06 in chips) 
+DEDTAWIWASA: posts the ante $1
+phatwithaph: posts the ante $1
+Sky20130731: posts the ante $1
+Bakarisation: posts the ante $1
+SirWatts: posts the ante $1
+gaiggibeliin: posts the ante $1
+Bakarisation: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7d Kd]
+SirWatts: calls $1
+gaiggibeliin: folds 
+DEDTAWIWASA: calls $1
+phatwithaph: raises $10 to $11
+Sky20130731: folds 
+Bakarisation: folds 
+SirWatts: folds 
+DEDTAWIWASA: folds 
+Uncalled bet ($10) returned to phatwithaph
+phatwithaph collected $10 from pot
+phatwithaph: doesn't show hand 
+*** SUMMARY ***
+Total pot $10 | Rake $0 
+Seat 1: DEDTAWIWASA folded before Flop
+Seat 2: phatwithaph collected ($10)
+Seat 3: Sky20130731 folded before Flop (didn't bet)
+Seat 4: Bakarisation (button blind) folded before Flop
+Seat 5: SirWatts folded before Flop
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196379657623:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:49:42 EET [2019/01/29 13:49:42 ET]
+Table 'Orchis' 6-max Seat #5 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: phatwithaph ($99.39 in chips) 
+Seat 3: Sky20130731 ($381.65 in chips) 
+Seat 4: Bakarisation ($231.25 in chips) 
+Seat 5: SirWatts ($171.60 in chips) 
+Seat 6: gaiggibeliin ($126.06 in chips) 
+DEDTAWIWASA: posts the ante $1
+phatwithaph: posts the ante $1
+Sky20130731: posts the ante $1
+Bakarisation: posts the ante $1
+SirWatts: posts the ante $1
+gaiggibeliin: posts the ante $1
+SirWatts: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qh 7s]
+gaiggibeliin: folds 
+DEDTAWIWASA: calls $1
+phatwithaph: calls $1
+Sky20130731: calls $1
+Bakarisation: calls $1
+SirWatts: checks 
+*** FLOP *** [8d As Ac]
+DEDTAWIWASA: bets $6
+phatwithaph: calls $6
+Sky20130731: folds 
+Bakarisation: calls $6
+SirWatts: raises $17.23 to $23.23
+DEDTAWIWASA: calls $17.23
+phatwithaph: folds 
+Bakarisation: folds 
+*** TURN *** [8d As Ac] [Kc]
+DEDTAWIWASA: checks 
+SirWatts: checks 
+*** RIVER *** [8d As Ac Kc] [9c]
+DEDTAWIWASA: checks 
+SirWatts: bets $146.37 and is all-in
+DEDTAWIWASA: folds 
+Uncalled bet ($146.37) returned to SirWatts
+SirWatts collected $66.71 from pot
+SirWatts: doesn't show hand 
+*** SUMMARY ***
+Total pot $69.46 | Rake $2.75 
+Board [8d As Ac Kc 9c]
+Seat 1: DEDTAWIWASA folded on the River
+Seat 2: phatwithaph folded on the Flop
+Seat 3: Sky20130731 folded on the Flop
+Seat 4: Bakarisation folded on the Flop
+Seat 5: SirWatts (button blind) collected ($66.71)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196379763000:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:52:02 EET [2019/01/29 13:52:02 ET]
+Table 'Orchis' 6-max Seat #6 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: phatwithaph ($91.39 in chips) 
+Seat 3: Sky20130731 ($379.65 in chips) 
+Seat 4: Bakarisation ($223.25 in chips) 
+Seat 5: SirWatts ($213.08 in chips) 
+Seat 6: gaiggibeliin ($125.06 in chips) 
+DEDTAWIWASA: posts the ante $1
+phatwithaph: posts the ante $1
+Sky20130731: posts the ante $1
+Bakarisation: posts the ante $1
+SirWatts: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8s 7h]
+DEDTAWIWASA: calls $1
+phatwithaph: calls $1
+Sky20130731: folds 
+Bakarisation: folds 
+SirWatts: folds 
+gaiggibeliin: checks 
+*** FLOP *** [Kd 7c 8d]
+DEDTAWIWASA: checks 
+phatwithaph: checks 
+gaiggibeliin: bets $5.73
+DEDTAWIWASA: folds 
+phatwithaph: folds 
+Uncalled bet ($5.73) returned to gaiggibeliin
+gaiggibeliin collected $8.55 from pot
+*** SUMMARY ***
+Total pot $9 | Rake $0.45 
+Board [Kd 7c 8d]
+Seat 1: DEDTAWIWASA folded on the Flop
+Seat 2: phatwithaph folded on the Flop
+Seat 3: Sky20130731 folded before Flop (didn't bet)
+Seat 4: Bakarisation folded before Flop (didn't bet)
+Seat 5: SirWatts folded before Flop (didn't bet)
+Seat 6: gaiggibeliin (button blind) collected ($8.55)
+
+
+
+PokerStars Hand #196379796427:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:52:46 EET [2019/01/29 13:52:46 ET]
+Table 'Orchis' 6-max Seat #1 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: phatwithaph ($89.39 in chips) 
+Seat 3: Sky20130731 ($378.65 in chips) 
+Seat 4: Bakarisation ($222.25 in chips) 
+Seat 5: SirWatts ($212.08 in chips) 
+Seat 6: gaiggibeliin ($131.61 in chips) 
+DEDTAWIWASA: posts the ante $1
+phatwithaph: posts the ante $1
+Sky20130731: posts the ante $1
+Bakarisation: posts the ante $1
+SirWatts: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8h 7h]
+phatwithaph: raises $2 to $3
+Sky20130731: calls $3
+Bakarisation: folds 
+SirWatts: calls $3
+gaiggibeliin: calls $3
+DEDTAWIWASA: calls $2
+*** FLOP *** [8d 6h 7c]
+phatwithaph: checks 
+Sky20130731: checks 
+SirWatts: checks 
+gaiggibeliin: checks 
+DEDTAWIWASA: checks 
+*** TURN *** [8d 6h 7c] [9s]
+phatwithaph: checks 
+Sky20130731: bets $4.99
+SirWatts: calls $4.99
+gaiggibeliin: folds 
+DEDTAWIWASA: folds 
+phatwithaph: folds 
+*** RIVER *** [8d 6h 7c 9s] [8s]
+Sky20130731: checks 
+SirWatts: bets $30
+Sky20130731: folds 
+Uncalled bet ($30) returned to SirWatts
+SirWatts collected $29.43 from pot
+SirWatts: doesn't show hand 
+*** SUMMARY ***
+Total pot $30.98 | Rake $1.55 
+Board [8d 6h 7c 9s 8s]
+Seat 1: DEDTAWIWASA (button blind) folded on the Turn
+Seat 2: phatwithaph folded on the Turn
+Seat 3: Sky20130731 folded on the River
+Seat 4: Bakarisation folded before Flop (didn't bet)
+Seat 5: SirWatts collected ($29.43)
+Seat 6: gaiggibeliin folded on the Turn
+
+
+
+PokerStars Hand #196379864061:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:54:16 EET [2019/01/29 13:54:16 ET]
+Table 'Orchis' 6-max Seat #2 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: phatwithaph ($85.39 in chips) 
+Seat 3: Sky20130731 ($369.66 in chips) 
+Seat 4: Bakarisation ($221.25 in chips) 
+Seat 5: SirWatts ($232.52 in chips) 
+Seat 6: gaiggibeliin ($127.61 in chips) 
+DEDTAWIWASA: posts the ante $1
+phatwithaph: posts the ante $1
+Sky20130731: posts the ante $1
+Bakarisation: posts the ante $1
+SirWatts: posts the ante $1
+gaiggibeliin: posts the ante $1
+phatwithaph: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ah Tc]
+Sky20130731: folds 
+Bakarisation: folds 
+SirWatts: folds 
+gaiggibeliin: calls $1
+DEDTAWIWASA: folds 
+phatwithaph: checks 
+*** FLOP *** [9h Js 7h]
+gaiggibeliin: checks 
+phatwithaph: bets $4
+gaiggibeliin: folds 
+Uncalled bet ($4) returned to phatwithaph
+phatwithaph collected $7.60 from pot
+phatwithaph: doesn't show hand 
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [9h Js 7h]
+Seat 1: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 2: phatwithaph (button blind) collected ($7.60)
+Seat 3: Sky20130731 folded before Flop (didn't bet)
+Seat 4: Bakarisation folded before Flop (didn't bet)
+Seat 5: SirWatts folded before Flop (didn't bet)
+Seat 6: gaiggibeliin folded on the Flop
+
+
+
+PokerStars Hand #196379914157:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:55:25 EET [2019/01/29 13:55:25 ET]
+Table 'Orchis' 6-max Seat #3 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: phatwithaph ($90.99 in chips) 
+Seat 3: Sky20130731 ($368.66 in chips) 
+Seat 4: Bakarisation ($220.25 in chips) 
+Seat 5: SirWatts ($231.52 in chips) 
+Seat 6: gaiggibeliin ($125.61 in chips) 
+DEDTAWIWASA: posts the ante $1
+phatwithaph: posts the ante $1
+Sky20130731: posts the ante $1
+Bakarisation: posts the ante $1
+SirWatts: posts the ante $1
+gaiggibeliin: posts the ante $1
+Sky20130731: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8s Th]
+Bakarisation: folds 
+SirWatts: calls $1
+gaiggibeliin: folds 
+DEDTAWIWASA: calls $1
+phatwithaph: calls $1
+Sky20130731: checks 
+*** FLOP *** [Js Tc Kd]
+SirWatts: checks 
+DEDTAWIWASA: checks 
+phatwithaph: bets $5
+Sky20130731: folds 
+SirWatts: folds 
+DEDTAWIWASA: folds 
+Uncalled bet ($5) returned to phatwithaph
+phatwithaph collected $9.50 from pot
+phatwithaph: doesn't show hand 
+*** SUMMARY ***
+Total pot $10 | Rake $0.50 
+Board [Js Tc Kd]
+Seat 1: DEDTAWIWASA folded on the Flop
+Seat 2: phatwithaph collected ($9.50)
+Seat 3: Sky20130731 (button blind) folded on the Flop
+Seat 4: Bakarisation folded before Flop (didn't bet)
+Seat 5: SirWatts folded on the Flop
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196379949401:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:56:24 EET [2019/01/29 13:56:24 ET]
+Table 'Orchis' 6-max Seat #4 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: phatwithaph ($98.49 in chips) 
+Seat 3: Sky20130731 ($366.66 in chips) 
+Seat 4: Bakarisation ($219.25 in chips) 
+Seat 5: SirWatts ($229.52 in chips) 
+Seat 6: gaiggibeliin ($124.61 in chips) 
+DEDTAWIWASA: posts the ante $1
+phatwithaph: posts the ante $1
+Sky20130731: posts the ante $1
+Bakarisation: posts the ante $1
+SirWatts: posts the ante $1
+gaiggibeliin: posts the ante $1
+Bakarisation: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jh Ks]
+SirWatts: calls $1
+gaiggibeliin: calls $1
+DEDTAWIWASA: folds 
+phatwithaph: folds 
+Sky20130731: folds 
+Bakarisation: checks 
+*** FLOP *** [8h Qh 8c]
+SirWatts: checks 
+gaiggibeliin: bets $4.45
+Bakarisation: folds 
+SirWatts: calls $4.45
+*** TURN *** [8h Qh 8c] [Qs]
+SirWatts: checks 
+gaiggibeliin: checks 
+*** RIVER *** [8h Qh 8c Qs] [Kc]
+SirWatts: checks 
+gaiggibeliin: checks 
+*** SHOW DOWN ***
+SirWatts: shows [9d Ts] (two pair, Queens and Eights)
+gaiggibeliin: shows [Jh Ks] (two pair, Kings and Queens)
+gaiggibeliin collected $17 from pot
+*** SUMMARY ***
+Total pot $17.90 | Rake $0.90 
+Board [8h Qh 8c Qs Kc]
+Seat 1: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 2: phatwithaph folded before Flop (didn't bet)
+Seat 3: Sky20130731 folded before Flop (didn't bet)
+Seat 4: Bakarisation (button blind) folded on the Flop
+Seat 5: SirWatts showed [9d Ts] and lost with two pair, Queens and Eights
+Seat 6: gaiggibeliin showed [Jh Ks] and won ($17) with two pair, Kings and Queens
+
+
+
+PokerStars Hand #196379994065:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:57:38 EET [2019/01/29 13:57:38 ET]
+Table 'Orchis' 6-max Seat #5 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: phatwithaph ($97.49 in chips) 
+Seat 3: Sky20130731 ($365.66 in chips) 
+Seat 4: Bakarisation ($217.25 in chips) 
+Seat 5: SirWatts ($223.07 in chips) 
+Seat 6: gaiggibeliin ($135.16 in chips) 
+DEDTAWIWASA: posts the ante $1
+phatwithaph: posts the ante $1
+Sky20130731: posts the ante $1
+Bakarisation: posts the ante $1
+SirWatts: posts the ante $1
+gaiggibeliin: posts the ante $1
+SirWatts: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qc Ts]
+gaiggibeliin: folds 
+DEDTAWIWASA: folds 
+phatwithaph: raises $2 to $3
+Sky20130731: folds 
+Bakarisation: folds 
+SirWatts: calls $2
+*** FLOP *** [8d Jd 9d]
+phatwithaph: checks 
+SirWatts: checks 
+*** TURN *** [8d Jd 9d] [Qs]
+phatwithaph: checks 
+SirWatts: bets $5.70
+phatwithaph: calls $5.70
+*** RIVER *** [8d Jd 9d Qs] [Kh]
+phatwithaph: checks 
+SirWatts: checks 
+*** SHOW DOWN ***
+phatwithaph: shows [Qd 7d] (a flush, Queen high)
+SirWatts: mucks hand 
+phatwithaph collected $22.23 from pot
+*** SUMMARY ***
+Total pot $23.40 | Rake $1.17 
+Board [8d Jd 9d Qs Kh]
+Seat 1: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 2: phatwithaph showed [Qd 7d] and won ($22.23) with a flush, Queen high
+Seat 3: Sky20130731 folded before Flop (didn't bet)
+Seat 4: Bakarisation folded before Flop (didn't bet)
+Seat 5: SirWatts (button blind) mucked [6s Ks]
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196380046050:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 20:59:04 EET [2019/01/29 13:59:04 ET]
+Table 'Orchis' 6-max Seat #6 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: phatwithaph ($110.02 in chips) 
+Seat 3: Sky20130731 ($364.66 in chips) 
+Seat 4: Bakarisation ($216.25 in chips) 
+Seat 5: SirWatts ($213.37 in chips) 
+Seat 6: gaiggibeliin ($134.16 in chips) 
+DEDTAWIWASA: posts the ante $1
+phatwithaph: posts the ante $1
+Sky20130731: posts the ante $1
+Bakarisation: posts the ante $1
+SirWatts: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9d Ks]
+DEDTAWIWASA: folds 
+phatwithaph: raises $2 to $3
+Sky20130731: calls $3
+Bakarisation: folds 
+SirWatts: calls $3
+gaiggibeliin: folds 
+*** FLOP *** [8c Ad Qs]
+phatwithaph: checks 
+Sky20130731: bets $8.36
+SirWatts: folds 
+phatwithaph: calls $8.36
+*** TURN *** [8c Ad Qs] [Js]
+SirWatts leaves the table
+phatwithaph: checks 
+Sky20130731: checks 
+*** RIVER *** [8c Ad Qs Js] [Jh]
+phatwithaph: bets $16
+Sky20130731: folds 
+Uncalled bet ($16) returned to phatwithaph
+phatwithaph collected $31.08 from pot
+phatwithaph: doesn't show hand 
+*** SUMMARY ***
+Total pot $32.72 | Rake $1.64 
+Board [8c Ad Qs Js Jh]
+Seat 1: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 2: phatwithaph collected ($31.08)
+Seat 3: Sky20130731 folded on the River
+Seat 4: Bakarisation folded before Flop (didn't bet)
+Seat 5: SirWatts folded on the Flop
+Seat 6: gaiggibeliin (button blind) folded before Flop
+
+
+
+PokerStars Hand #196380094179:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 21:00:23 EET [2019/01/29 14:00:23 ET]
+Table 'Orchis' 6-max Seat #1 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: phatwithaph ($128.74 in chips) 
+Seat 3: Sky20130731 ($352.30 in chips) 
+Seat 4: Bakarisation ($215.25 in chips) 
+Seat 6: gaiggibeliin ($132.16 in chips) 
+DEDTAWIWASA: posts the ante $1
+phatwithaph: posts the ante $1
+Sky20130731: posts the ante $1
+Bakarisation: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7d Kd]
+phatwithaph: raises $2 to $3
+Sky20130731: calls $3
+Bakarisation: folds 
+gaiggibeliin: folds 
+DEDTAWIWASA: calls $2
+*** FLOP *** [Jd 8d Ks]
+phatwithaph: checks 
+Sky20130731: checks 
+DEDTAWIWASA: checks 
+*** TURN *** [Jd 8d Ks] [Kh]
+phatwithaph: checks 
+Sky20130731: checks 
+DEDTAWIWASA: bets $8
+phatwithaph: folds 
+Sky20130731: folds 
+Uncalled bet ($8) returned to DEDTAWIWASA
+DEDTAWIWASA collected $13.30 from pot
+DEDTAWIWASA: doesn't show hand 
+*** SUMMARY ***
+Total pot $14 | Rake $0.70 
+Board [Jd 8d Ks Kh]
+Seat 1: DEDTAWIWASA (button blind) collected ($13.30)
+Seat 2: phatwithaph folded on the Turn
+Seat 3: Sky20130731 folded on the Turn
+Seat 4: Bakarisation folded before Flop (didn't bet)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196380133836:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 21:01:23 EET [2019/01/29 14:01:23 ET]
+Table 'Orchis' 6-max Seat #2 is the button
+Seat 1: DEDTAWIWASA ($159.30 in chips) 
+Seat 2: phatwithaph ($124.74 in chips) 
+Seat 3: Sky20130731 ($348.30 in chips) 
+Seat 4: Bakarisation ($214.25 in chips) 
+Seat 6: gaiggibeliin ($131.16 in chips) 
+DEDTAWIWASA: posts the ante $1
+phatwithaph: posts the ante $1
+Sky20130731: posts the ante $1
+Bakarisation: posts the ante $1
+gaiggibeliin: posts the ante $1
+phatwithaph: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9h Jh]
+Sky20130731: folds 
+Bakarisation: folds 
+gaiggibeliin: calls $1
+DEDTAWIWASA: calls $1
+phatwithaph: checks 
+*** FLOP *** [Kd Ts 6s]
+gaiggibeliin: checks 
+DEDTAWIWASA: checks 
+phatwithaph: checks 
+*** TURN *** [Kd Ts 6s] [8d]
+gaiggibeliin: checks 
+DEDTAWIWASA: checks 
+phatwithaph: checks 
+*** RIVER *** [Kd Ts 6s 8d] [Js]
+gaiggibeliin: checks 
+DEDTAWIWASA: checks 
+phatwithaph: checks 
+*** SHOW DOWN ***
+gaiggibeliin: shows [9h Jh] (a pair of Jacks)
+DEDTAWIWASA: shows [Kc 7c] (a pair of Kings)
+phatwithaph: mucks hand 
+DEDTAWIWASA collected $7.60 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0.40 
+Board [Kd Ts 6s 8d Js]
+Seat 1: DEDTAWIWASA showed [Kc 7c] and won ($7.60) with a pair of Kings
+Seat 2: phatwithaph (button blind) mucked [6c Qs]
+Seat 3: Sky20130731 folded before Flop (didn't bet)
+Seat 4: Bakarisation folded before Flop (didn't bet)
+Seat 6: gaiggibeliin showed [9h Jh] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #196380206140:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 21:03:00 EET [2019/01/29 14:03:00 ET]
+Table 'Orchis' 6-max Seat #3 is the button
+Seat 1: DEDTAWIWASA ($164.90 in chips) 
+Seat 2: phatwithaph ($122.74 in chips) 
+Seat 3: Sky20130731 ($347.30 in chips) 
+Seat 4: Bakarisation ($213.25 in chips) 
+Seat 6: gaiggibeliin ($129.16 in chips) 
+DEDTAWIWASA: posts the ante $1
+phatwithaph: posts the ante $1
+Sky20130731: posts the ante $1
+Bakarisation: posts the ante $1
+gaiggibeliin: posts the ante $1
+Sky20130731: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ah Ks]
+Bakarisation: raises $5 to $6
+gaiggibeliin: raises $18 to $24
+DEDTAWIWASA: folds 
+phatwithaph: folds 
+Sky20130731: folds 
+Bakarisation: folds 
+Uncalled bet ($18) returned to gaiggibeliin
+Sky20130731 leaves the table
+gaiggibeliin collected $18 from pot
+*** SUMMARY ***
+Total pot $18 | Rake $0 
+Seat 1: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 2: phatwithaph folded before Flop (didn't bet)
+Seat 3: Sky20130731 (button blind) folded before Flop
+Seat 4: Bakarisation folded before Flop
+Seat 6: gaiggibeliin collected ($18)
+
+
+
+PokerStars Hand #196380243349:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 21:03:49 EET [2019/01/29 14:03:49 ET]
+Table 'Orchis' 6-max Seat #4 is the button
+Seat 1: DEDTAWIWASA ($163.90 in chips) 
+Seat 2: phatwithaph ($121.74 in chips) 
+Seat 4: Bakarisation ($206.25 in chips) 
+Seat 6: gaiggibeliin ($140.16 in chips) 
+DEDTAWIWASA: posts the ante $1
+phatwithaph: posts the ante $1
+Bakarisation: posts the ante $1
+gaiggibeliin: posts the ante $1
+Bakarisation: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qd 9s]
+gaiggibeliin: folds 
+DEDTAWIWASA: folds 
+phatwithaph: calls $1
+Bakarisation: checks 
+*** FLOP *** [Qs 6d Jc]
+phatwithaph: checks 
+Bakarisation: checks 
+*** TURN *** [Qs 6d Jc] [9c]
+phatwithaph: bets $3
+Bakarisation: folds 
+Uncalled bet ($3) returned to phatwithaph
+phatwithaph collected $5.70 from pot
+phatwithaph: doesn't show hand 
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [Qs 6d Jc 9c]
+Seat 1: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 2: phatwithaph collected ($5.70)
+Seat 4: Bakarisation (button blind) folded on the Turn
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196380271086:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 21:04:26 EET [2019/01/29 14:04:26 ET]
+Table 'Orchis' 6-max Seat #6 is the button
+Seat 1: DEDTAWIWASA ($162.90 in chips) 
+Seat 2: phatwithaph ($125.44 in chips) 
+Seat 4: Bakarisation ($204.25 in chips) 
+Seat 6: gaiggibeliin ($139.16 in chips) 
+DEDTAWIWASA: posts the ante $1
+phatwithaph: posts the ante $1
+Bakarisation: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8d 9h]
+DEDTAWIWASA: folds 
+phatwithaph: calls $1
+Bakarisation: folds 
+gaiggibeliin: checks 
+*** FLOP *** [Jd 8c 7h]
+phatwithaph: checks 
+gaiggibeliin: checks 
+*** TURN *** [Jd 8c 7h] [Tc]
+phatwithaph: checks 
+gaiggibeliin: bets $2.96
+phatwithaph: calls $2.96
+*** RIVER *** [Jd 8c 7h Tc] [6s]
+phatwithaph: bets $11
+gaiggibeliin: calls $11
+*** SHOW DOWN ***
+phatwithaph: shows [Ac 9d] (a straight, Seven to Jack)
+gaiggibeliin: shows [8d 9h] (a straight, Seven to Jack)
+phatwithaph collected $16.34 from pot
+gaiggibeliin collected $16.33 from pot
+*** SUMMARY ***
+Total pot $33.92 | Rake $1.25 
+Board [Jd 8c 7h Tc 6s]
+Seat 1: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 2: phatwithaph showed [Ac 9d] and won ($16.34) with a straight, Seven to Jack
+Seat 4: Bakarisation folded before Flop (didn't bet)
+Seat 6: gaiggibeliin (button blind) showed [8d 9h] and won ($16.33) with a straight, Seven to Jack
+
+
+
+PokerStars Hand #196380313329:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 21:05:21 EET [2019/01/29 14:05:21 ET]
+Table 'Orchis' 6-max Seat #1 is the button
+Seat 1: DEDTAWIWASA ($161.90 in chips) 
+Seat 2: phatwithaph ($125.82 in chips) 
+Seat 4: Bakarisation ($203.25 in chips) 
+Seat 6: gaiggibeliin ($139.53 in chips) 
+DEDTAWIWASA: posts the ante $1
+phatwithaph: posts the ante $1
+Bakarisation: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qc 8s]
+phatwithaph: calls $1
+Bakarisation: raises $5 to $6
+gaiggibeliin: folds 
+DEDTAWIWASA: folds 
+phatwithaph: calls $5
+*** FLOP *** [As Ad Ts]
+phatwithaph: checks 
+Bakarisation: bets $5.01
+phatwithaph: folds 
+Uncalled bet ($5.01) returned to Bakarisation
+Bakarisation collected $16.15 from pot
+Bakarisation: doesn't show hand 
+*** SUMMARY ***
+Total pot $17 | Rake $0.85 
+Board [As Ad Ts]
+Seat 1: DEDTAWIWASA (button blind) folded before Flop
+Seat 2: phatwithaph folded on the Flop
+Seat 4: Bakarisation collected ($16.15)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196380338511:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 21:05:54 EET [2019/01/29 14:05:54 ET]
+Table 'Orchis' 6-max Seat #2 is the button
+Seat 1: DEDTAWIWASA ($159.90 in chips) 
+Seat 2: phatwithaph ($118.82 in chips) 
+Seat 4: Bakarisation ($212.40 in chips) 
+Seat 6: gaiggibeliin ($138.53 in chips) 
+DEDTAWIWASA: posts the ante $1
+phatwithaph: posts the ante $1
+Bakarisation: posts the ante $1
+gaiggibeliin: posts the ante $1
+phatwithaph: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6h Qc]
+Bakarisation: folds 
+gaiggibeliin: folds 
+DEDTAWIWASA: raises $8 to $9
+phatwithaph: raises $108.82 to $117.82 and is all-in
+DEDTAWIWASA: calls $108.82
+*** FLOP *** [9s 8s Th]
+*** TURN *** [9s 8s Th] [Kd]
+*** RIVER *** [9s 8s Th Kd] [Ks]
+*** SHOW DOWN ***
+DEDTAWIWASA: shows [Qs Ac] (a pair of Kings)
+phatwithaph: shows [Kh Ah] (three of a kind, Kings)
+phatwithaph collected $238.39 from pot
+*** SUMMARY ***
+Total pot $239.64 | Rake $1.25 
+Board [9s 8s Th Kd Ks]
+Seat 1: DEDTAWIWASA showed [Qs Ac] and lost with a pair of Kings
+Seat 2: phatwithaph (button blind) showed [Kh Ah] and won ($238.39) with three of a kind, Kings
+Seat 4: Bakarisation folded before Flop (didn't bet)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196380371552:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 21:06:37 EET [2019/01/29 14:06:37 ET]
+Table 'Orchis' 6-max Seat #4 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: phatwithaph ($238.39 in chips) 
+Seat 4: Bakarisation ($211.40 in chips) 
+Seat 6: gaiggibeliin ($137.53 in chips) 
+DEDTAWIWASA: posts the ante $1
+phatwithaph: posts the ante $1
+Bakarisation: posts the ante $1
+gaiggibeliin: posts the ante $1
+Bakarisation: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qh Ac]
+gaiggibeliin: calls $1
+DEDTAWIWASA: folds 
+phatwithaph: calls $1
+Bakarisation: checks 
+*** FLOP *** [Ad 9s Kh]
+gaiggibeliin: bets $4.46
+phatwithaph: folds 
+Bakarisation: folds 
+Uncalled bet ($4.46) returned to gaiggibeliin
+gaiggibeliin collected $6.65 from pot
+*** SUMMARY ***
+Total pot $7 | Rake $0.35 
+Board [Ad 9s Kh]
+Seat 1: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 2: phatwithaph folded on the Flop
+Seat 4: Bakarisation (button blind) folded on the Flop
+Seat 6: gaiggibeliin collected ($6.65)
+
+
+
+PokerStars Hand #196380400857:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 21:07:15 EET [2019/01/29 14:07:15 ET]
+Table 'Orchis' 6-max Seat #6 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: phatwithaph ($236.39 in chips) 
+Seat 4: Bakarisation ($209.40 in chips) 
+Seat 6: gaiggibeliin ($142.18 in chips) 
+DEDTAWIWASA: posts the ante $1
+phatwithaph: posts the ante $1
+Bakarisation: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ah 7s]
+DEDTAWIWASA: calls $1
+phatwithaph: folds 
+Bakarisation: calls $1
+gaiggibeliin: checks 
+*** FLOP *** [Td 8h Ts]
+DEDTAWIWASA: checks 
+Bakarisation: bets $2.06
+gaiggibeliin: folds 
+DEDTAWIWASA: folds 
+Uncalled bet ($2.06) returned to Bakarisation
+Bakarisation collected $6.65 from pot
+Bakarisation: doesn't show hand 
+*** SUMMARY ***
+Total pot $7 | Rake $0.35 
+Board [Td 8h Ts]
+Seat 1: DEDTAWIWASA folded on the Flop
+Seat 2: phatwithaph folded before Flop (didn't bet)
+Seat 4: Bakarisation collected ($6.65)
+Seat 6: gaiggibeliin (button blind) folded on the Flop
+
+
+
+PokerStars Hand #196380417275:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 21:07:36 EET [2019/01/29 14:07:36 ET]
+Table 'Orchis' 6-max Seat #1 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: phatwithaph ($235.39 in chips) 
+Seat 4: Bakarisation ($214.05 in chips) 
+Seat 6: gaiggibeliin ($140.18 in chips) 
+DEDTAWIWASA: posts the ante $1
+phatwithaph: posts the ante $1
+Bakarisation: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Qh 7s]
+phatwithaph: folds 
+Bakarisation: calls $1
+gaiggibeliin: folds 
+DEDTAWIWASA: checks 
+*** FLOP *** [9d 6d Ad]
+Bakarisation: bets $3.88
+DEDTAWIWASA: calls $3.88
+*** TURN *** [9d 6d Ad] [Kc]
+Bakarisation: bets $12
+DEDTAWIWASA: folds 
+Uncalled bet ($12) returned to Bakarisation
+Bakarisation collected $13.07 from pot
+Bakarisation: doesn't show hand 
+*** SUMMARY ***
+Total pot $13.76 | Rake $0.69 
+Board [9d 6d Ad Kc]
+Seat 1: DEDTAWIWASA (button blind) folded on the Turn
+Seat 2: phatwithaph folded before Flop (didn't bet)
+Seat 4: Bakarisation collected ($13.07)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196380456206:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 21:08:20 EET [2019/01/29 14:08:20 ET]
+Table 'Orchis' 6-max Seat #2 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: phatwithaph ($234.39 in chips) 
+Seat 4: Bakarisation ($221.24 in chips) 
+Seat 6: gaiggibeliin ($139.18 in chips) 
+DEDTAWIWASA: posts the ante $1
+phatwithaph: posts the ante $1
+Bakarisation: posts the ante $1
+gaiggibeliin: posts the ante $1
+phatwithaph: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ac Js]
+Bakarisation: raises $5 to $6
+gaiggibeliin: folds 
+DEDTAWIWASA: calls $6
+phatwithaph: calls $5
+*** FLOP *** [Tc 6h 9c]
+Bakarisation: bets $6.48
+DEDTAWIWASA: calls $6.48
+phatwithaph: calls $6.48
+*** TURN *** [Tc 6h 9c] [Ad]
+Bakarisation: checks 
+DEDTAWIWASA: checks 
+phatwithaph: bets $20
+Bakarisation: folds 
+DEDTAWIWASA: folds 
+Uncalled bet ($20) returned to phatwithaph
+phatwithaph collected $40.19 from pot
+phatwithaph: doesn't show hand 
+*** SUMMARY ***
+Total pot $41.44 | Rake $1.25 
+Board [Tc 6h 9c Ad]
+Seat 1: DEDTAWIWASA folded on the Turn
+Seat 2: phatwithaph (button blind) collected ($40.19)
+Seat 4: Bakarisation folded on the Turn
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196380494185:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 21:09:09 EET [2019/01/29 14:09:09 ET]
+Table 'Orchis' 6-max Seat #4 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: phatwithaph ($261.10 in chips) 
+Seat 4: Bakarisation ($207.76 in chips) 
+Seat 6: gaiggibeliin ($138.18 in chips) 
+DEDTAWIWASA: posts the ante $1
+phatwithaph: posts the ante $1
+Bakarisation: posts the ante $1
+gaiggibeliin: posts the ante $1
+Bakarisation: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [7s 9c]
+gaiggibeliin: folds 
+DEDTAWIWASA: raises $8 to $9
+phatwithaph: calls $9
+Bakarisation: folds 
+*** FLOP *** [7d Js As]
+DEDTAWIWASA: bets $18
+phatwithaph: calls $18
+*** TURN *** [7d Js As] [Td]
+DEDTAWIWASA: checks 
+phatwithaph: checks 
+*** RIVER *** [7d Js As Td] [Qc]
+DEDTAWIWASA: checks 
+phatwithaph: bets $35
+DEDTAWIWASA: folds 
+Uncalled bet ($35) returned to phatwithaph
+phatwithaph collected $57.75 from pot
+phatwithaph: doesn't show hand 
+*** SUMMARY ***
+Total pot $59 | Rake $1.25 
+Board [7d Js As Td Qc]
+Seat 1: DEDTAWIWASA folded on the River
+Seat 2: phatwithaph collected ($57.75)
+Seat 4: Bakarisation (button blind) folded before Flop
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196380561359:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 21:10:36 EET [2019/01/29 14:10:36 ET]
+Table 'Orchis' 6-max Seat #6 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: phatwithaph ($290.85 in chips) 
+Seat 4: Bakarisation ($205.76 in chips) 
+Seat 6: gaiggibeliin ($137.18 in chips) 
+DEDTAWIWASA: posts the ante $1
+phatwithaph: posts the ante $1
+Bakarisation: posts the ante $1
+gaiggibeliin: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6d 7s]
+DEDTAWIWASA: folds 
+phatwithaph: raises $2 to $3
+Bakarisation: folds 
+gaiggibeliin: calls $2
+*** FLOP *** [9h Qd Td]
+phatwithaph: checks 
+gaiggibeliin: checks 
+*** TURN *** [9h Qd Td] [Tc]
+phatwithaph: bets $5
+gaiggibeliin: folds 
+Uncalled bet ($5) returned to phatwithaph
+phatwithaph collected $9.50 from pot
+*** SUMMARY ***
+Total pot $10 | Rake $0.50 
+Board [9h Qd Td Tc]
+Seat 1: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 2: phatwithaph collected ($9.50)
+Seat 4: Bakarisation folded before Flop (didn't bet)
+Seat 6: gaiggibeliin (button blind) folded on the Turn
+
+
+
+PokerStars Hand #196380602585:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 21:11:29 EET [2019/01/29 14:11:29 ET]
+Table 'Orchis' 6-max Seat #1 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: phatwithaph ($296.35 in chips) 
+Seat 4: Bakarisation ($204.76 in chips) 
+Seat 6: gaiggibeliin ($133.18 in chips) 
+DEDTAWIWASA: posts the ante $1
+phatwithaph: posts the ante $1
+Bakarisation: posts the ante $1
+gaiggibeliin: posts the ante $1
+DEDTAWIWASA: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Ts 9h]
+phatwithaph: raises $2 to $3
+Bakarisation: raises $9 to $12
+gaiggibeliin: folds 
+DEDTAWIWASA: folds 
+phatwithaph: calls $9
+*** FLOP *** [7c 8c Jh]
+phatwithaph: checks 
+Bakarisation: bets $8.60
+phatwithaph: folds 
+Uncalled bet ($8.60) returned to Bakarisation
+Bakarisation collected $27.75 from pot
+Bakarisation: doesn't show hand 
+*** SUMMARY ***
+Total pot $29 | Rake $1.25 
+Board [7c 8c Jh]
+Seat 1: DEDTAWIWASA (button blind) folded before Flop
+Seat 2: phatwithaph folded on the Flop
+Seat 4: Bakarisation collected ($27.75)
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #196380639984:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/01/29 21:12:18 EET [2019/01/29 14:12:18 ET]
+Table 'Orchis' 6-max Seat #2 is the button
+Seat 1: DEDTAWIWASA ($150 in chips) 
+Seat 2: phatwithaph ($283.35 in chips) 
+Seat 4: Bakarisation ($219.51 in chips) 
+Seat 6: gaiggibeliin ($132.18 in chips) 
+DEDTAWIWASA: posts the ante $1
+phatwithaph: posts the ante $1
+Bakarisation: posts the ante $1
+gaiggibeliin: posts the ante $1
+phatwithaph: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [6h Jc]
+Bakarisation: raises $5 to $6
+gaiggibeliin: folds 
+DEDTAWIWASA: folds 
+phatwithaph: calls $5
+*** FLOP *** [Ac Tc Jd]
+Bakarisation: checks 
+phatwithaph: bets $8
+Bakarisation: folds 
+Uncalled bet ($8) returned to phatwithaph
+phatwithaph collected $15.20 from pot
+phatwithaph: doesn't show hand 
+*** SUMMARY ***
+Total pot $16 | Rake $0.80 
+Board [Ac Tc Jd]
+Seat 1: DEDTAWIWASA folded before Flop (didn't bet)
+Seat 2: phatwithaph (button blind) collected ($15.20)
+Seat 4: Bakarisation folded on the Flop
+Seat 6: gaiggibeliin folded before Flop (didn't bet)
+
+
+
