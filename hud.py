@@ -44,22 +44,25 @@ class hudWindow(tkinter.Tk):
         self._offsety = event.y
 
 
-    # def btnCallBack(self, holeCardLines):
-    #     str1 = ''
-    #     for line in holeCardLines:
-    #         str1 += "  [" + line + "]"
-    #     messagebox.showinfo("lines", str1)
-
     def getHoleCardLines(self, event):
+        
+        '''
+        data = {
+            'preflopLine' : preflopLine
+            'pos' : pos
+            'holeCards' : holeCards }  
+        '''
+        
+        posList = ['BTN', 'CO', 'HJ', 'LJ', 'MP', 'UG']
+        sortOrder = {}
+        for i in range(len(posList)):
+            sortOrder[posList[i]] = i
         str1 = ''
-        
+        holeCardLinesSortedByHands = sorted(self.holeCardLines, key=lambda k: k['holeCards'])
         if (len(self.holeCardLines) > 0):
-            for line in sorted(self.holeCardLines):
+            for data in sorted(holeCardLinesSortedByHands, key=lambda i:sortOrder[i['pos']]):
                 # str1 += "  [" + line + "]"
-                str1 += line + "\n"
-
-        
-        
+                str1 += data['pos'] + " " + data['holeCards'] + ": " + data['preflopLine'] + "\n"
         messagebox.showinfo("lines", str1)
 
 
@@ -82,8 +85,9 @@ class hudWindow(tkinter.Tk):
                     (playerData['rfiTrue'] + playerData['rfiFalse'])
                 rfi = str(int(rfi*100))
             except Exception as e:
-                print("hud updadeData rfi error")
-                print(e)
+                # print("hud updadeData rfi error")
+                # print(e)
+                pass
 
             openLimp = ''
             try:
@@ -91,8 +95,9 @@ class hudWindow(tkinter.Tk):
                     (playerData['openLimpTrue'] + playerData['openLimpFalse'])
                 openLimp = str(int(openLimp*100))
             except Exception as e:
-                print("hud updadeData openlimp error")
-                print(e)
+                # print("hud updadeData openlimp error")
+                # print(e)
+                pass
 
             limp = ''
             try:
@@ -100,8 +105,9 @@ class hudWindow(tkinter.Tk):
                     (playerData['limpTrue'] + playerData['limpFalse'])
                 limp = str(int(limp*100))
             except Exception as e:
-                print("hud updadeData limp error")
-                print(e)
+                # print("hud updadeData limp error")
+                # print(e)
+                pass
 
             holeCardLines = playerData['holeCardLines']
 
@@ -132,13 +138,6 @@ class hudWindow(tkinter.Tk):
             # #pop-up for holeCardLines
             # btn = tkinter.Button(self, text ="lines", command=self.btnCallBack(holeCardLines))
             # btn.pack()
-            
-
-
-
-
-
-
 
         #get new data ater t ms
         t = 5000

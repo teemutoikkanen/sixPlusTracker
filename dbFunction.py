@@ -1,12 +1,12 @@
-
-
-
 from pymongo import MongoClient
 client = MongoClient()
 def getDb():
-    return client.sixPlusDb14
+    return client.sixPlusDb17
 
-def dbAddRfi(screenName):
+def getClient():
+    return client
+
+def dbIncrRfi(screenName):
     # total_rfi = n_did_Rfi/(n_didNOT_Rfi+n_did_rfi)
 
     dbPlayers = getDb().players
@@ -79,3 +79,4 @@ def dbAddHoleCardLines(screenName, data):
                            {'$push': {
                                'holeCardLines': data
                            }})
+

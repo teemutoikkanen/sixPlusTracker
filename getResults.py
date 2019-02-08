@@ -1,6 +1,9 @@
 import re
 import glob
 
+from tracker import getAllHandsFromDb
+from dbFunction import getDb
+
 hero = 'gaiggibeliin'
 
 
@@ -67,24 +70,26 @@ def getHandResult(hand):
 ### parse hh files into an array of hand strings
 filePaths = glob.glob("C:/Users/Teemu/AppData/Local/PokerStars.EU/HandHistorygaiggibeliin/*.txt")
 
-#skip other games
-sixPlusHandHistories = []
-for path in filePaths:
-	if ('Button Blind' in path):
-		sixPlusHandHistories.append(path)
+# #skip other games
+# sixPlusHandHistories = []
+# for path in filePaths:
+# 	if ('Button Blind' in path):
+# 		sixPlusHandHistories.append(path)
 		
-hands = []
-for path in sixPlusHandHistories:
-	with open(path, "r") as textFile:
-		textFileStr = textFile.read()
-		hands.extend(textFileStr.split('\n\n\n'))
-		#remove the extra newline before EOF from pokerstars .txt format'
-		try:
-			hands.remove('\n')
-		except:
-			print("no newlines to remove")
+# hands = []
+# for path in sixPlusHandHistories:
+# 	with open(path, "r") as textFile:
+# 		textFileStr = textFile.read()
+# 		hands.extend(textFileStr.split('\n\n\n'))
+# 		#remove the extra newline before EOF from pokerstars .txt format'
+# 		try:
+# 			hands.remove('\n')
+# 		except:
+# 			print("no newlines to remove")
 
 
+
+hands = getAllHandsFromDb(getDb())
 
 result = 0
 for hand in hands:
@@ -93,7 +98,7 @@ for hand in hands:
 
 result *= -1
 print(result)
-print('hh file count: ', len(filePaths))
+# print('hh file count: ', len(filePaths))
 print('hands: ', len(hands))
 print('profit per 100 hands', result/(len(hands)/100))
 

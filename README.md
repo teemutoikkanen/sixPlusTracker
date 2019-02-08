@@ -4,15 +4,12 @@ C:\Users\Teemu\AppData\Local\PokerStars.EU\HandHistorygaiggibeliin
 
 ###TODO
 
-- "mitä käsiä kääntynt milläkin linellä: limp, 5bb, pot, jne"
-- def BTN !!
-- limp-fold
-- limp-shove
-- limp-call
-- raise-fold
-- POSITIOKOHTAISET
+- POSITIOKOHTAISET:
+    *holeCardLinesiin -- näkee mistä positiosta reissannut/limpannut mitä käsiä
+    *vpip/rfi/limp/openlimp -- superhyvä ois kans !
 
-
+- limp-x(fold-call-raise?), raise-x?
+- vpip btn
 
 
 

@@ -6,6 +6,7 @@ from time import sleep
 import pywinauto
 import win32gui
 import re
+from datetime import datetime
 
 
 
@@ -14,6 +15,9 @@ threadInfo = []
 threads = []
 currentTables = []
 
+
+def getTime():
+    return str(datetime.now().strftime('%H:%M:%S'))
 
 def worker(sn, x, y):
     ''' jokainen threadi päivittää t ajan välein sn avulla statsit '''
@@ -60,25 +64,25 @@ def startHudThread(sn, tn):
     except Exception as e:
         print(e)
         print("startingHudThread get x,y error")
-    print("starting a new thread for: ", sn)
+    # print(getTime()+ " starting a new thread for: ", sn, ", " + tn)
     t = threading.Thread(target=worker, args=(sn, x, y))
     threads.append(t)
     t.start()
 
 
-def startHud():
+def startHud(testing = None):
     ''' keep track of current players -- if new, spawn a hud '''
 
     while(True):
 
         newTables = tracker.importNewHands()
-
         for table in newTables:
             # if the table is new, spawn all huds
             if (newTable(table, currentTables)):
                 currentTables.append(table)
 
                 for sn in table['screenNames']:
+                    print(getTime() + " New Table, spawning all HUDS.  SN: " + sn + " TN: " + table['name'] )
                     startHudThread(sn, table['name'])
 
             # if the table isnt new, check if players changed
@@ -88,6 +92,7 @@ def startHud():
                         newPlayerSn = newPlayerJoined(currentTables[i], table)
                         if (newPlayerSn):
                             # spawn a hud
+                            print(getTime() + " Old table new player.  SN: " + newPlayerSn + " TN: " + table['name'] )
                             startHudThread(newPlayerSn, table['name'])
                         currentTables[i] = table
 
@@ -114,14 +119,16 @@ def startHud():
         #     print("\ncurrent")
         #     print(str(currentTables))
         #     print("------")
-        print(str(threadInfo))
+        # print(str(threadInfo))
         sleep(5)
 
 
 if __name__ == '__main__':
     startHud()
 
-    # startHudThread('gaiggibeliin', 'Pertin Pelit IV')
+    # startHudThread('teo96', 'Pertin Pelit IV')
 
     # pos = getWindowPos('Alkimos')
     # print(pos)
+
+    

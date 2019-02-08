@@ -35,6 +35,9 @@ currentPlayers = []
 			joku reissaa ennen meitä
 '''
 
+def getSnFromSeatLine(line):
+    #Seat 3: gaiggibeliin ($183.28 in chips) 
+    return line.split(": ")[1].split(" (")[0]
 
 # rfi mahdollista jos ei 'raises' ennen gaiggibeliin vuoroa
 def rfiPossible(screenName, hand):
@@ -191,24 +194,52 @@ def newPlayer(screenName):
         return True
 
 
-def getPosition(sn, hand):
+# def getPosition(sn, hand):
 
-    handAsLines = hand.split("*** SUMMARY ***")[0].split("\n")
-    data = []
+#     handAsLines = hand.split("*** SUMMARY ***")[0].split("\n")
+#     data = []
 
-    for line in handAsLines:
-        # print(line[0:5])
-        if (line[0:5] == 'Seat ' or line[0:6] == 'Table '):
-            data.append(line)
+#     for line in handAsLines:
+#         # print(line[0:5])
+#         if (line[0:5] == 'Seat ' or line[0:6] == 'Table '):
+#             data.append(line)
 
-    print(data)
+#     print(data)
 
-    nPlayers = len(data)-1
-    btnSeat = data[0].split(" ")[4].strip("#")
+#     nPlayers = len(data)-1
+#     btnSeat = data[0].split(" ")[4].strip("#")
 
-    seatArray = []
+#     seatArray = []
 
-    return
+#     return
+
+def getBtnSeat(hand):
+    for line in hand.split("\n"):
+        if (line[0:6] == 'Table '):
+            return line.split("#")[1][0]
+
+
+
+
+
+def getPosition(hand, sn, screenNames):
+
+
+    # sn = 'zaph'
+
+    # btnSn = 'marta'
+    btnSn = getBtnPlayer(hand)
+    # playerList = ['marta', 'zaph', 'gaiggi', 'angel', 'kis']
+    playerList = screenNames
+    tSize = len(playerList)
+    posList = ['BTN', 'CO', 'HJ', 'LJ', 'MP', 'UG']
+    playerIndex = playerList.index(sn)
+    btnIndex = playerList.index(btnSn)
+
+    pos = posList[0:tSize][btnIndex-playerIndex]
+    return pos
+
+    
 
 
 def getHands():
@@ -242,10 +273,11 @@ def getHands():
 def getBtnPlayer(hand):
     btnSeatMatchObject = re.search(r'Seat #\d is the button', hand)
     btnSeat = btnSeatMatchObject.group().split(' ')[1][1]
-    btnPlayerMatchObject = re.search(r'Seat ' + btnSeat + ': ([^\s]+)', hand)
-    btnPlayer = btnPlayerMatchObject.group().split()[2]
 
-    return btnPlayer
+    for line in hand.split("\n"):
+        if ('Seat ' + str(btnSeat) in line):
+            return getSnFromSeatLine(line)
+    return 
 
 
 def checkOtb(screenName, hand):
@@ -406,8 +438,31 @@ def printCmdHud(screenNames):
 
     # pop hud box
 
+def getScreenNames(hand):
+    regexp = re.findall(r'^Seat .+', hand, re.MULTILINE)
+    l = int(len(regexp) / 2)
+    del regexp[-l:]
 
-def importNewHands():
+    screenNames = []
+    for item in regexp:
+        # Seat 1: gaig gi beliin ($209.95 in chips)
+        screenNames.append(item.split(
+            ':')[1].split('($')[0].strip(" "))
+    return screenNames
+
+
+def getAllHandsFromDb(previousDb):
+
+    #get all hands from previous dB
+    cursor = previousDb.hands.find()
+    hands = []
+    for item in cursor:
+        hands.append(item["data"])
+    return hands
+
+
+
+def importNewHands(testing = None, previousDb = None):
 
     newPlayers = []
     newTables = []
@@ -419,8 +474,12 @@ def importNewHands():
     dbPlayers = db.players
 
     # get hand array from /trackerData
-    hands = getHands()
-    # hands = getHandsFromPrevDb()
+    hands = []
+    if (testing == 'test'):
+        hands = getAllHandsFromDb(previousDb)
+    else:
+        hands = getHands()
+    
 
     # for each hand
     for hand in hands:
@@ -445,16 +504,7 @@ def importNewHands():
             # 2) update dbPlayers
 
             # get player names
-            regexp = re.findall(r'^Seat .+', hand, re.MULTILINE)
-            l = int(len(regexp) / 2)
-            del regexp[-l:]
-
-            screenNames = []
-            for item in regexp:
-                # Seat 1: gaig gi beliin ($209.95 in chips)
-                screenNames.append(item.split(
-                    ':')[1].split('($')[0].strip(" "))
-
+            screenNames = getScreenNames(hand)
             # upate current tables & screenNames
             newTable = {
                 'name': getTableName(hand),
@@ -478,16 +528,24 @@ def importNewHands():
                         'limpFalse': 0,
                         'openLimpTrue': 0,
                         'openLimpFalse': 0,
-                        'holeCardLines': []
+                        'holeCardLines': [],
+                        #[btn, co, hj, lj, mp, ug]
+                        'rfiTrueList': [0,0,0,0,0,0],
+                        'rfiFalseList': [0,0,0,0,0,0],
+                        'openLimpTrueList': [0,0,0,0,0,0],
+                        'openLimpFalseList': [0,0,0,0,0,0],
+                        'limpTrueList': [0,0,0,0,0,0],
+                        'limpFalseList': [0,0,0,0,0,0],
                     })
                     print("new player initalized to db: ", screenName)
 
                 # update rfi
                 if (rfiPossible(screenName, hand)):
                     if rfi(screenName, hand):
-                        dbAddRfi(screenName)
+                        dbIncrRfi(screenName)
                     else:
                         dbDecRfi(screenName)
+                    
 
                 # hands+1
                 dbIncrHands(screenName)
@@ -520,175 +578,87 @@ def importNewHands():
                     'JdJh: rfi-9'
                     'rfi-4'
                     'rfi-9 c'
+                    '   AKs(): R1(3)    '
                     '''
                     preflopLine = getPreflopLine(screenName, hand)
-                    data = holeCards + ": " + preflopLine
+                    pos = getPosition(hand, screenName, screenNames)
+                    # data = holeCards + "(" + getPosition(hand, screenName, screenNames) + "): " + preflopLine
 
+                    data = {
+                        'preflopLine' : preflopLine,
+                        'pos' : pos,
+                        'holeCards' : holeCards
+
+                    }   
                     dbAddHoleCardLines(screenName, data)
+            # skiphero = []
 
-            skiphero = []
-
-            for sn in screenNames:
-                if ('gaiggibeliin' not in sn):
-                    skiphero.append(sn)
+            # for sn in screenNames:
+            #     if ('gaiggibeliin' not in sn):
+            #         skiphero.append(sn)
             # printCmdHud(skiphero)
-    # return (list(set(newTables)), list(set(newPlayers)))
     return newTables
-
-def getSnFromSeatLine(line):
-    #Seat 3: gaiggibeliin ($183.28 in chips) 
-    return line.split(": ")[1].split(" (")[0]
-
-
-def createNewDb():
-
-    # AINA VAIHDA getDb() ja previousDb !!
-    db = getDb()
-    previousDb = client.sixPlusDb13
-    dbHands = db.hands
-    dbPlayers = db.players
-    
-    #get all hands from previous dB
-    cursor = previousDb.hands.find()
-    hands = []
-    for item in cursor:
-        hands.append(item["data"])
-
-    for hand in hands:
-
-        # check if hand in DB (compare id)
-        handId = hand.split(" ")[2].strip('#').strip(':')
-        result = dbHands.find_one({'id': handId})
-        if (result == None):
-            # if the hand is new:
-
-            # 1) update dbHands
-            handData = {
-                'id': handId,
-                'data': hand
-            }
-
-            insertResult = dbHands.insert_one(handData)
-
-            # 2) update dbPlayers
-
-            # get player names
-            regexp = re.findall(r'^Seat .+', hand, re.MULTILINE)
-            l = int(len(regexp) / 2)
-            del regexp[-l:]
-
-            screenNames = []
-            for item in regexp:
-                # screenNames.append(item.split(" ")[2])
-                screenNames.append(getSnFromSeatLine(item))
-
-            # for each player, update all stats
-            for screenName in screenNames:
-                # jos uus, init
-                if (newPlayer(screenName)):
-                    dbPlayers.insert_one({
-                        'screenName': screenName,
-                        'rfiTrue': 0,
-                        'rfiFalse': 0,
-                        'nHands': 0,
-                        'vpipTrue': 0,
-                        'limpTrue': 0,
-                        'limpFalse': 0,
-                        'openLimpTrue': 0,
-                        'openLimpFalse': 0,
-                        'holeCardLines': []
-                    })
-                    print("new player initalized to db: ", screenName)
-
-                # update rfi
-                if (rfiPossible(screenName, hand)):
-                    if rfi(screenName, hand):
-                        dbAddRfi(screenName)
-                    else:
-                        dbDecRfi(screenName)
-
-                # hands+1
-                dbIncrHands(screenName)
-
-                # vpip
-                if not (checkOtb(screenName, hand)):
-                    if (vpip(screenName, hand)):
-                        dbIncrVpip(screenName)
-
-                # limp%
-
-                if limpPossible(screenName, hand):
-                    if limp(screenName, hand):
-                        dbIncrLimp(screenName)
-                    else:
-                        dbDecLimp(screenName)
-
-                if openLimpPossible(screenName, hand):
-                    if limp(screenName, hand):
-                        dbIncrOpenLimp(screenName, hand)
-                    else:
-                        dbDecOpenLimp(screenName, hand)
-
-                holeCards = getHoleCards(screenName, hand)
-                if (holeCards):
-                    preflopLine = getPreflopLine(screenName, hand)
-                    data = holeCards + ": " + preflopLine
-                    dbAddHoleCardLines(screenName, data)
 
 
 if __name__ == '__main__':
     print("if __name__ ")
-    # createNewDb()
 
-#     hand = '''PokerStars Hand #195824029639:  6+ Hold'em No Limit (Button Blind $0.25 - Ante $0.25  USD) - 2019/01/16 18:35:56 EET [2019/01/16 11:35:56 ET]
-# Table 'Saiph III' 6-max Seat #3 is the button
-# Seat 1: barnoculars ($56.51 in chips) 
-# Seat 2: Pizzaschmied ($46.08 in chips) 
-# Seat 3: Juodasis_23 ($54.54 in chips) 
-# Seat 4: Montana2707 ($59.32 in chips) 
-# Seat 5: Egption ($127.06 in chips) 
-# Seat 6: gaiggibeliin ($49 in chips) 
-# barnoculars: posts the ante $0.25
-# Pizzaschmied: posts the ante $0.25
-# Juodasis_23: posts the ante $0.25
-# Montana2707: posts the ante $0.25
-# Egption: posts the ante $0.25
-# gaiggibeliin: posts the ante $0.25
-# Juodasis_23: posts button blind $0.25
-# *** HOLE CARDS ***
-# Dealt to gaiggibeliin [Js Ks]
-# Montana2707: raises $0.50 to $0.75
-# Egption: calls $0.75
-# gaiggibeliin: calls $0.75
-# barnoculars: calls $0.75
-# Pizzaschmied: calls $0.75
-# Juodasis_23: raises $6.25 to $7
-# Montana2707: folds 
-# Egption: folds 
-# gaiggibeliin: folds 
-# barnoculars: raises $18.50 to $25.50
-# Pizzaschmied: folds 
-# Juodasis_23: raises $28.79 to $54.29 and is all-in
-# barnoculars: calls $28.79
-# *** FLOP *** [Qc 9h Kd]
-# *** TURN *** [Qc 9h Kd] [Ah]
-# *** RIVER *** [Qc 9h Kd Ah] [Jh]
-# *** SHOW DOWN ***
-# barnoculars: shows [Ad 8d] (a pair of Aces)
-# Juodasis_23: shows [Ac Kh] (two pair, Aces and Kings)
-# Juodasis_23 collected $111.08 from pot
-# *** SUMMARY ***
-# Total pot $113.08 | Rake $2 
-# Board [Qc 9h Kd Ah Jh]
-# Seat 1: barnoculars showed [Ad 8d] and lost with a pair of Aces
-# Seat 2: Pizzaschmied folded before Flop
-# Seat 3: Juodasis 23 (button blind) showed [Ac Kh] and won ($111.08) with two pair, Aces and Kings
-# Seat 4: Montana2707 folded before Flop
-# Seat 5: Egption folded before Flop
-# Seat 6: gaiggibeliin folded before Flop'''
+    # #uus db ohje: vaihda previousDb numero ja getDb() numero!
+    # previousDb = getClient().sixPlusDb16
+    # importNewHands('test', previousDb)
 
+    hand = '''PokerStars Hand #195824029639:  6+ Hold'em No Limit (Button Blind $0.25 - Ante $0.25  USD) - 2019/01/16 18:35:56 EET [2019/01/16 11:35:56 ET]
+Table 'Saiph f f ' 6-max Seat #3 is the button
+Seat 1: barnoculars ($56.51 in chips) 
+Seat 2: Pizzaschmied ($46.08 in chips) 
+Seat 3: Juod asi s_23 ($54.54 in chips) 
+Seat 4: Montana2707 ($59.32 in chips) 
+Seat 5: Egption ($127.06 in chips) 
+Seat 6: gaiggibeliin ($49 in chips) 
+barnoculars: posts the ante $0.25
+Pizzaschmied: posts the ante $0.25
+Juodasis_23: posts the ante $0.25
+Montana2707: posts the ante $0.25
+Egption: posts the ante $0.25
+gaiggibeliin: posts the ante $0.25
+Juodasis_23: posts button blind $0.25
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Js Ks]
+Montana2707: raises $0.50 to $0.75
+Egption: calls $0.75
+gaiggibeliin: calls $0.75
+barnoculars: calls $0.75
+Pizzaschmied: calls $0.75
+Juodasis_23: raises $6.25 to $7
+Montana2707: folds 
+Egption: folds 
+gaiggibeliin: folds 
+barnoculars: raises $18.50 to $25.50
+Pizzaschmied: folds 
+Juodasis_23: raises $28.79 to $54.29 and is all-in
+barnoculars: calls $28.79
+*** FLOP *** [Qc 9h Kd]
+*** TURN *** [Qc 9h Kd] [Ah]
+*** RIVER *** [Qc 9h Kd Ah] [Jh]
+*** SHOW DOWN ***
+barnoculars: shows [Ad 8d] (a pair of Aces)
+Juodasis_23: shows [Ac Kh] (two pair, Aces and Kings)
+Juodasis_23 collected $111.08 from pot
+*** SUMMARY ***
+Total pot $113.08 | Rake $2 
+Board [Qc 9h Kd Ah Jh]
+Seat 1: barnoculars showed [Ad 8d] and lost with a pair of Aces
+Seat 2: Pizzaschmied folded before Flop
+Seat 3: Juodasis 23 (button blind) showed [Ac Kh] and won ($111.08) with two pair, Aces and Kings
+Seat 4: Montana2707 folded before Flop
+Seat 5: Egption folded before Flop
+Seat 6: gaiggibeliin folded before Flop'''
 
-#     # line = 'Seat 5: Egption (button blind) showed [Kh Qh] and won ($3.09) with two pair, Queens and Jacks'
-#     sn = 'Juodasis 23'
-#     res = getHoleCards(sn, hand)
-#     print(res)
+    res = getBtnPlayer(hand)
+    print(res)
+    # for sn in getScreenNames(hand):
+    #     res = getPosition(hand, sn, getScreenNames(hand))
+    #     print(sn, res)
+
+    # res1 = getSnFromSeatLine('Seat 3: Juod asi s_23 ($54.54 in chips)')
+    # print(res1)
