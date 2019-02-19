@@ -8,38 +8,23 @@ from dbFunction import *
 
 currentPlayers = []
 
-'''
-1. idea: käydään läpi käsihistorioita ja luodaan niistä database
+def getSeatNumbers(hand):
+    regexp = re.findall(
+        r'^Seat .+', hand.split("*** SUMMARY ***")[1], re.MULTILINE)
 
-- Hands
-	*id 
-	*data
-	(*date, *players, yms...)
+    seats = []
+    for line in regexp:
+        seats.append(int(line[5]))
+    return seats
 
-- Players
-	*screenName
-	*nHands
-	*vpip
-	*rfi
-	*openLimp
-
-
-*** Suunnitelmaa (mongoDB) ***
-- vastaavasti kun resultissa käydään manuaalisesti HH:t läpi
-- jokaisen kohdalla tsekataan onko käsi jo DB:ssä
-- tsekataan onko pelaaja jo tietokannassa olemassa vai luodaanko uusi
-- aluksi vaikka yksi statsi: rfi: tän saa helposti napattua jo samalla kun regexpaa kättä 1. kerral (eka xx 'raises')
-- siis kolme vaihtoehtoa (?): 
-			rfi mahdollista ja raise
-			rfi mahdollista ja limp/fold
-			joku reissaa ennen meitä
-'''
 
 def getSnFromSeatLine(line):
-    #Seat 3: gaiggibeliin ($183.28 in chips) 
+    # Seat 3: gaiggibeliin ($183.28 in chips)
     return line.split(": ")[1].split(" (")[0]
 
 # rfi mahdollista jos ei 'raises' ennen gaiggibeliin vuoroa
+
+
 def rfiPossible(screenName, hand):
 
     actions = hand.split('*** HOLE CARDS ***')[1].split('*** SUMMARY ***')[0]
@@ -164,7 +149,7 @@ def getHoleCards(screenName, hand):
     for line in getSummary(hand).split("\n"):
         line = line.replace("(button blind) ", "")
         if (screenName + ' showed' in line):
-            #Seat 3: Juodasis 23 showed [Ac Kh] and won ($111.08) with two pair, Aces and Kings
+            # Seat 3: Juodasis 23 showed [Ac Kh] and won ($111.08) with two pair, Aces and Kings
             card1 = line.split("showed ")[1].split(" and")[0][1:3]
             card2 = line.split("showed ")[1].split(" and")[0][4:6]
         elif (screenName + ' mucked' in line):
@@ -219,11 +204,7 @@ def getBtnSeat(hand):
             return line.split("#")[1][0]
 
 
-
-
-
 def getPosition(hand, sn, screenNames):
-
 
     # sn = 'zaph'
 
@@ -238,8 +219,6 @@ def getPosition(hand, sn, screenNames):
 
     pos = posList[0:tSize][btnIndex-playerIndex]
     return pos
-
-    
 
 
 def getHands():
@@ -270,6 +249,7 @@ def getHands():
 
 # get btn player
 
+
 def getBtnPlayer(hand):
     btnSeatMatchObject = re.search(r'Seat #\d is the button', hand)
     btnSeat = btnSeatMatchObject.group().split(' ')[1][1]
@@ -277,7 +257,7 @@ def getBtnPlayer(hand):
     for line in hand.split("\n"):
         if ('Seat ' + str(btnSeat) in line):
             return getSnFromSeatLine(line)
-    return 
+    return
 
 
 def checkOtb(screenName, hand):
@@ -306,7 +286,6 @@ def getPreflopActionSize(line):
         return float(line.split(": ")[1].split(" ")[3].strip("$"))
     if ('calls' in line):
         return float(line.split(": ")[1].split(" ")[1].strip("$"))
-
 
 
 def getPreflopLine(screenName, hand):
@@ -438,6 +417,7 @@ def printCmdHud(screenNames):
 
     # pop hud box
 
+
 def getScreenNames(hand):
     regexp = re.findall(r'^Seat .+', hand, re.MULTILINE)
     l = int(len(regexp) / 2)
@@ -453,7 +433,7 @@ def getScreenNames(hand):
 
 def getAllHandsFromDb(previousDb):
 
-    #get all hands from previous dB
+    # get all hands from previous dB
     cursor = previousDb.hands.find()
     hands = []
     for item in cursor:
@@ -461,8 +441,7 @@ def getAllHandsFromDb(previousDb):
     return hands
 
 
-
-def importNewHands(testing = None, previousDb = None):
+def importNewHands(testing=None, previousDb=None):
 
     newPlayers = []
     newTables = []
@@ -479,7 +458,6 @@ def importNewHands(testing = None, previousDb = None):
         hands = getAllHandsFromDb(previousDb)
     else:
         hands = getHands()
-    
 
     # for each hand
     for hand in hands:
@@ -505,10 +483,12 @@ def importNewHands(testing = None, previousDb = None):
 
             # get player names
             screenNames = getScreenNames(hand)
+            seatNumbers = getSeatNumbers(hand)
             # upate current tables & screenNames
             newTable = {
                 'name': getTableName(hand),
-                'screenNames': screenNames
+                'screenNames': screenNames,
+                'seatNumbers': seatNumbers
             }
             newPlayers.extend(screenNames)
             newTables.append(newTable)
@@ -530,12 +510,12 @@ def importNewHands(testing = None, previousDb = None):
                         'openLimpFalse': 0,
                         'holeCardLines': [],
                         #[btn, co, hj, lj, mp, ug]
-                        'rfiTrueList': [0,0,0,0,0,0],
-                        'rfiFalseList': [0,0,0,0,0,0],
-                        'openLimpTrueList': [0,0,0,0,0,0],
-                        'openLimpFalseList': [0,0,0,0,0,0],
-                        'limpTrueList': [0,0,0,0,0,0],
-                        'limpFalseList': [0,0,0,0,0,0],
+                        'rfiTrueList': [0, 0, 0, 0, 0, 0],
+                        'rfiFalseList': [0, 0, 0, 0, 0, 0],
+                        'openLimpTrueList': [0, 0, 0, 0, 0, 0],
+                        'openLimpFalseList': [0, 0, 0, 0, 0, 0],
+                        'limpTrueList': [0, 0, 0, 0, 0, 0],
+                        'limpFalseList': [0, 0, 0, 0, 0, 0],
                     })
                     print("new player initalized to db: ", screenName)
 
@@ -545,7 +525,6 @@ def importNewHands(testing = None, previousDb = None):
                         dbIncrRfi(screenName)
                     else:
                         dbDecRfi(screenName)
-                    
 
                 # hands+1
                 dbIncrHands(screenName)
@@ -585,11 +564,11 @@ def importNewHands(testing = None, previousDb = None):
                     # data = holeCards + "(" + getPosition(hand, screenName, screenNames) + "): " + preflopLine
 
                     data = {
-                        'preflopLine' : preflopLine,
-                        'pos' : pos,
-                        'holeCards' : holeCards
+                        'preflopLine': preflopLine,
+                        'pos': pos,
+                        'holeCards': holeCards
 
-                    }   
+                    }
                     dbAddHoleCardLines(screenName, data)
             # skiphero = []
 
@@ -654,7 +633,7 @@ Seat 4: Montana2707 folded before Flop
 Seat 5: Egption folded before Flop
 Seat 6: gaiggibeliin folded before Flop'''
 
-    res = getBtnPlayer(hand)
+    res = getSeatNumbers(hand)
     print(res)
     # for sn in getScreenNames(hand):
     #     res = getPosition(hand, sn, getScreenNames(hand))

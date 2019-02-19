@@ -12,8 +12,15 @@ C:\Users\Teemu\AppData\Local\PokerStars.EU\HandHistorygaiggibeliin
 - vpip btn
 
 
-
 LRFI(200)3B(150)5B(999)
+
+
+
+##15/2
+
+KQo: R1(14.0)R3(83.25) [BTN]
+
+
 
 
 

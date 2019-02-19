@@ -1,4 +1,4 @@
-from tracker import *
+from dbFunction import *
 # from hud import *
 
 # for hand in getHands():
@@ -12,11 +12,11 @@ from tracker import *
 #     hand = h.read()
 
 def testPlayersDb():
-    playerDb = getDb().players.find({})
+    playerDb = getDb().players.find().sort('nHands', 1)
 
     allPlayers = []
     for player in playerDb:
-        print(player)
+        # print(player])
         allPlayers.append(player['screenName'])
 
     return allPlayers
@@ -50,4 +50,4 @@ def getHandCount():
 if __name__ == '__main__':
     # testPlayersDb()
     res = testPlayersDb()
-    print("res")
+    print(res)

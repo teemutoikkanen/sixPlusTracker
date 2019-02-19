@@ -1,8 +1,5 @@
 #review later
 
-
-
-
 PokerStars Hand #196719839400:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/02/06 22:47:42 EET [2019/02/06 15:47:42 ET]
 Table 'Cheleb' 6-max Seat #3 is the button
 Seat 1: Burzhyj ($262.41 in chips) 
@@ -251,14 +248,101 @@ Seat 3: Kyleddd folded before Flop (didn't bet)
 Seat 4: DEDTAWIWASA (button blind) collected ($150.50)
 Seat 5: #1Rakkso folded before Flop (didn't bet)
 
+PokerStars Hand #197063678461:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/02/15 4:05:29 EET [2019/02/14 21:05:29 ET]
+Table 'Xanthippe' 6-max Seat #3 is the button
+Seat 1: Tuczas ($384.20 in chips) 
+Seat 3: landing_net ($147.24 in chips) 
+Seat 5: Zihuatanejo3 ($121.39 in chips) 
+Seat 6: gaiggibeliin ($226.51 in chips) 
+Tuczas: posts the ante $2
+landing_net: posts the ante $2
+Zihuatanejo3: posts the ante $2
+gaiggibeliin: posts the ante $2
+landing_net: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [Jh Jc]
+Zihuatanejo3: calls $2
+gaiggibeliin: raises $16 to $18
+Tuczas: folds 
+landing_net: folds 
+Zihuatanejo3: raises $101.39 to $119.39 and is all-in
+gaiggibeliin: folds 
+Uncalled bet ($101.39) returned to Zihuatanejo3
+Zihuatanejo3 collected $46 from pot
+*** SUMMARY ***
+Total pot $46 | Rake $0 
+Seat 1: Tuczas folded before Flop (didn't bet)
+Seat 3: landing_net (button blind) folded before Flop
+Seat 5: Zihuatanejo3 collected ($46)
+Seat 6: gaiggibeliin folded before Flop
 
-UG
+PokerStars Hand #197065383499:  6+ Hold'em No Limit (Button Blind $1 - Ante $1  USD) - 2019/02/15 5:41:36 EET [2019/02/14 22:41:36 ET]
+Table 'Romilda' 6-max Seat #4 is the button
+Seat 1: Azamat09RUS ($360.17 in chips) 
+Seat 2: picka4u ($91.27 in chips) 
+Seat 3: mckenna777 ($122.01 in chips) 
+Seat 4: gaiggibeliin ($130.49 in chips) 
+Seat 5: malevo05 ($190.80 in chips) 
+Seat 6: joingame037 ($99 in chips) 
+Azamat09RUS: posts the ante $1
+picka4u: posts the ante $1
+mckenna777: posts the ante $1
+gaiggibeliin: posts the ante $1
+malevo05: posts the ante $1
+joingame037: posts the ante $1
+gaiggibeliin: posts button blind $1
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [9d 7d]
+malevo05: calls $1
+joingame037: calls $1
+Azamat09RUS: raises $10 to $11
+picka4u: folds 
+mckenna777: folds 
+gaiggibeliin: calls $10
+malevo05: raises $40 to $51
+joingame037: folds 
+Azamat09RUS: calls $40
+gaiggibeliin: calls $40
+*** FLOP *** [Ks Th 8c]
+malevo05: bets $78.63
+Azamat09RUS: folds 
+gaiggibeliin: calls $78.49 and is all-in
+Uncalled bet ($0.14) returned to malevo05
+*** TURN *** [Ks Th 8c] [Qd]
+*** RIVER *** [Ks Th 8c Qd] [9h]
+*** SHOW DOWN ***
+malevo05: shows [Qs Ah] (a pair of Queens)
+gaiggibeliin: shows [9d 7d] (a pair of Nines)
+malevo05 collected $314.23 from pot
+*** SUMMARY ***
+Total pot $316.98 | Rake $2.75 
+Board [Ks Th 8c Qd 9h]
+Seat 1: Azamat09RUS folded on the Flop
+Seat 2: picka4u folded before Flop (didn't bet)
+Seat 3: mckenna777 folded before Flop (didn't bet)
+Seat 4: gaiggibeliin (button blind) showed [9d 7d] and lost with a pair of Nines
+Seat 5: malevo05 showed [Qs Ah] and won ($314.23) with a pair of Queens
+Seat 6: joingame037 folded before Flop
 
-MP
+PokerStars Hand #197225817143:  6+ Hold'em No Limit (Button Blind $2 - Ante $2  USD) - 2019/02/19 0:54:55 EET [2019/02/18 17:54:55 ET]
+Table 'Ella II' 6-max Seat #4 is the button
+Seat 3: gaiggibeliin ($202 in chips) 
+Seat 4: aceskillmeee ($284.28 in chips) 
+gaiggibeliin: posts the ante $2
+aceskillmeee: posts the ante $2
+aceskillmeee: posts button blind $2
+*** HOLE CARDS ***
+Dealt to gaiggibeliin [8h Js]
+gaiggibeliin: folds 
+Uncalled bet ($2) returned to aceskillmeee
+aceskillmeee collected $4 from pot
+aceskillmeee: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0 
+Seat 3: gaiggibeliin folded before Flop (didn't bet)
+Seat 4: aceskillmeee (button blind) collected ($4)
 
-LJ
 
-HJ
 
 
 
