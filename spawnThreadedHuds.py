@@ -85,20 +85,20 @@ def startHud(testing = None):
 
 
 if __name__ == '__main__':
-    startHud()
+    # startHud()
 
     
-    # topregs = ['Zapahzamazki', 'teo96', 'Zihuatanejo3', 'DEDTAWIWASA', 'gaiggibeliin']
-    # table = {
-    #     'name' : 'Pertin Pelit IV',
-    #     'screenNames' : ['Zapahzamazki', 'teo96', 'Zihuatanejo3', 'DEDTAWIWASA', 'gaiggibeliin'],
-    #     'seatNumbers' : [1,3,4,5,6]
-    # }
+    topregs = ['Zapahzamazki', 'teo96', 'Zihuatanejo3', 'DEDTAWIWASA', 'gaiggibeliin']
+    table = {
+        'name' : 'Pertin Pelit IV',
+        'screenNames' : ['Zapahzamazki', 'teo96', 'Zihuatanejo3', 'DEDTAWIWASA', 'gaiggibeliin'],
+        'seatNumbers' : [1,3,4,5,6]
+    }
 
     
 
-    # for sn in topregs:
-    #     startHudThread(sn, table)
+    for sn in topregs:
+        startHudThread(sn, table)
 
 
     
